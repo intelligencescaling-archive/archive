@@ -5,10 +5,11 @@ A community archive that preserves the high-effort content made by the
 analysis documents, original stories, tier lists, and community projects. It saves them before
 the links die.
 
-Browse it at **[intelscaling.com](https://intelscaling.com)** (coming soon).
+Browse, search and download it at **[intelscaling.com](https://intelscaling.com)**.
 
 > 🚧 **Work in progress.** The first 958 entries were filled in automatically from the community
-> libraries and are still being reviewed (`review.status: auto`).
+> libraries and are still being reviewed (`review.status: auto`). Spotted a wrong author, series or tag?
+> Use the "Suggest a correction" link on the item's page, or open an issue here.
 
 ## Layout
 
@@ -30,13 +31,15 @@ Browse it at **[intelscaling.com](https://intelscaling.com)** (coming soon).
 | **Misc** | Tier lists, community series and boards, notable posts |
 
 Each item keeps its title, author (when known), series, characters, tags, and its original links.
-Large files (PDF/DOCX) are hosted separately. This repository holds the metadata and plain-text
-versions used for search.
+This repository holds the metadata and the plain-text versions used for search. The PDF/DOCX files are
+too big for git: they're downloadable from each item's page on [intelscaling.com](https://intelscaling.com), and
+each one is identified here by its `sha256`.
 
 ## Adding something
 
-Know a doc, story, or tier list that should be here? Open a **submission issue** with the link and
-any details you know (form coming soon). You never upload files: a maintainer script downloads
+Know a doc, story, or tier list that should be here? Open an
+[issue](https://github.com/intelligencescaling-archive/archive/issues) with the link and any details you know
+(a proper submission form is coming). You never upload files: a maintainer script downloads
 them from the original source.
 
 ## Removal requests
