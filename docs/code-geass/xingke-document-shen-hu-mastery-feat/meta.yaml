@@ -5,7 +5,9 @@ category: doc
 title: 'Xingke document: Shen Hu mastery feat'
 alt_titles:
 - Xing Ke's Shen Hu mastery feat Doc
-authors: []
+authors:
+- name: Dedu Ly Britannia
+  source: doc-text
 series:
 - code-geass
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

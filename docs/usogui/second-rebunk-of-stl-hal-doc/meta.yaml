@@ -5,7 +5,9 @@ category: doc
 title: Second Rebunk of STL Hal doc
 alt_titles:
 - Hal rebunk 2
-authors: []
+authors:
+- name: JoJolon
+  source: doc-text
 series:
 - usogui
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

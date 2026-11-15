@@ -5,7 +5,9 @@ category: doc
 title: 🧩Isagi FSIQ ⚽️ (Jibril)
 alt_titles:
 - Isagi FSIQ
-authors: []
+authors:
+- name: Jibril
+  source: doc-text
 series:
 - blue-lock
 characters:
@@ -44,5 +46,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

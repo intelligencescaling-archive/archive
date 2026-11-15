@@ -5,7 +5,9 @@ category: doc
 title: The Final problem analysis
 alt_titles:
 - The Final problem analysis doc
-authors: []
+authors:
+- name: Notme
+  source: doc-text
 series:
 - sherlock-holmes
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

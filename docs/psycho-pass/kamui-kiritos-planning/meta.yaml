@@ -5,7 +5,9 @@ category: doc
 title: Kamui kiritos planning
 alt_titles:
 - Kamui Kirito planning
-authors: []
+authors:
+- name: Tanvir
+  source: doc-text
 series:
 - psycho-pass
 characters:
@@ -44,5 +46,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

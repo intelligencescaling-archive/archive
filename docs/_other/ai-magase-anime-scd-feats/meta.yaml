@@ -5,7 +5,9 @@ category: doc
 title: Ai Magase Anime - SCD Feats
 alt_titles:
 - Aí Magase SCD Doc(Anime)
-authors: []
+authors:
+- name: Mrnotme
+  source: doc-text
 series: []
 characters:
 - ai-magase
@@ -43,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

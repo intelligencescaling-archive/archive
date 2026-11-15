@@ -3,7 +3,9 @@ schema_version: 1
 id: shawn-doc
 category: doc
 title: shawn doc
-authors: []
+authors:
+- name: maskoftheruler
+  source: doc-text
 series:
 - psych
 characters:
@@ -38,9 +40,9 @@ found_in:
   section: 'MISCELLANEOUS:'
   link_text: Shawn doc
 added: '2026-11-15'
+notes: With assistance by manual113.
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

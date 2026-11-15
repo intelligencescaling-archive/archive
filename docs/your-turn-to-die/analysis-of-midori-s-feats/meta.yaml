@@ -6,9 +6,8 @@ title: Analysis of Midori's feats
 alt_titles:
 - Midori analysis
 authors:
-- name: BudgetPosition6080
-  reddit: BudgetPosition6080
-  source: library
+- name: Hypervenomxtreme2.0
+  source: doc-text
 series:
 - your-turn-to-die
 characters:
@@ -54,7 +53,7 @@ found_in:
   character: Midori
   link_text: Analysis of Midori's Feats
 added: '2026-11-15'
+notes: Listed in BudgetPosition6080's library section 'Docs I made'.
 review:
   status: auto
-  check:
-  - authors
+  check: []

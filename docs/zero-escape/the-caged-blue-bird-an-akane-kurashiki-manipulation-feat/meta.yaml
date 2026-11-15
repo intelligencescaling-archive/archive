@@ -5,7 +5,9 @@ category: doc
 title: 'The Caged Blue Bird: An Akane Kurashiki Manipulation Feat'
 alt_titles:
 - 'Akane Kurashiki: The Caged Blue Bird feat'
-authors: []
+authors:
+- name: ForAllPosterity
+  source: doc-text
 series:
 - zero-escape
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

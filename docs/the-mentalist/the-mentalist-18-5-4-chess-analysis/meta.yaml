@@ -6,7 +6,7 @@ title: 'The Mentalist: 18-5-4 (Chess Analysis)'
 alt_titles:
 - The Mentalist Chess analysis
 authors:
-- name: magadaz
+- name: magadanz
   source: doc-text
 series:
 - the-mentalist
@@ -49,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

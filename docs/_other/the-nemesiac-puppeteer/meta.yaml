@@ -5,7 +5,9 @@ category: doc
 title: The Nemesiac Puppeteer
 alt_titles:
 - Raul Evans Document
-authors: []
+authors:
+- name: Shin
+  source: doc-text
 series: []
 characters:
 - raul-evans
@@ -39,9 +41,9 @@ found_in:
   section: 'MISCELLANEOUS:'
   link_text: Raul Evans Document
 added: '2026-11-15'
+notes: Helped by Mono with the scans.
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

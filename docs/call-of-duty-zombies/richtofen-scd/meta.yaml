@@ -5,7 +5,11 @@ category: doc
 title: Richtofen scd
 alt_titles:
 - Richtofen SCD Doc
-authors: []
+authors:
+- name: Fran
+  source: doc-text
+- name: Calculadora
+  source: doc-text
 series:
 - call-of-duty-zombies
 characters:
@@ -43,5 +47,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -5,7 +5,10 @@ category: doc
 title: DAHLIA HAWTHORNE DOC
 alt_titles:
 - Dahlia Hawthorne
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series:
 - ace-attorney
 characters:
@@ -43,5 +46,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

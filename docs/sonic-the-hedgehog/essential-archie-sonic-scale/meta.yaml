@@ -3,7 +3,10 @@ schema_version: 1
 id: essential-archie-sonic-scale
 category: doc
 title: Essential Archie Sonic Scale
-authors: []
+authors:
+- name: ajakaki
+  reddit: ajakaki
+  source: doc-text
 series:
 - sonic-the-hedgehog
 characters: []
@@ -43,5 +46,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -5,7 +5,9 @@ category: doc
 title: Junpei Tenmyouji feats doc (999/VLR/ZTD)
 alt_titles:
 - Junpei Tenmyouji feats doc
-authors: []
+authors:
+- name: GXTHIE
+  source: doc-text
 series:
 - zero-escape
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

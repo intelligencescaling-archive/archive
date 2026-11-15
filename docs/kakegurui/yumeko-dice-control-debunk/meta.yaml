@@ -5,7 +5,10 @@ category: doc
 title: Yumeko dice control debunk
 alt_titles:
 - DEBUNK YUMEKO DICE CONTROL FEAT
-authors: []
+authors:
+- name: CRIS MIX
+  reddit: Difficult_Culture330
+  source: doc-text
 series:
 - kakegurui
 characters:
@@ -13,7 +16,7 @@ characters:
 tags:
 - feats
 - debunk
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -23,11 +26,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 662
     files:
     - format: docx
       name: DEBUNK YUMEKO DICE CONTROL FEAT.docx
       bytes: 10351
       sha256: 6a38a5c8c86e0947fd2ddf35fb945802c7ac8ac85bbe4fc05726e7dc370a380e
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: KAKEGURUI
@@ -39,6 +46,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
-  - language
+  check: []

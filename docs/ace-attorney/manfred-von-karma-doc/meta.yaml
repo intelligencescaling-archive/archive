@@ -5,7 +5,10 @@ category: doc
 title: MANFRED VON KARMA DOC
 alt_titles:
 - Manfred Von Karma
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series:
 - ace-attorney
 characters:
@@ -40,8 +43,8 @@ found_in:
   section: Ace Attorney
   link_text: Manfred Von Karma
 added: '2026-11-15'
+notes: Thanks to Detective-7 and More_Yogurtcloset740.
 review:
   status: auto
   check:
-  - authors
   - characters

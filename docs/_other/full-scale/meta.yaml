@@ -5,7 +5,9 @@ category: doc
 title: FULL SCALE
 alt_titles:
 - SCD Categories Doc 13
-authors: []
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -43,5 +45,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -5,7 +5,9 @@ category: doc
 title: ASSANE DIOP PLANNING
 alt_titles:
 - Assane Diop Planning doc
-authors: []
+authors:
+- name: Gustavo
+  source: doc-text
 series:
 - lupin
 characters:
@@ -44,5 +46,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

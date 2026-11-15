@@ -3,7 +3,9 @@ schema_version: 1
 id: pang-tong-linked-stratagems
 category: doc
 title: 'Pang Tong: Linked Stratagems'
-authors: []
+authors:
+- name: ChuNam
+  source: doc-text
 series:
 - ravages-of-time
 characters:
@@ -45,5 +47,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

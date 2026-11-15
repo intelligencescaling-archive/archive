@@ -3,7 +3,9 @@ schema_version: 1
 id: bb-fsiq-debunk
 category: doc
 title: BB FSIQ Debunk
-authors: []
+authors:
+- name: Saul Badman
+  source: doc-text
 series:
 - death-note
 characters:
@@ -46,5 +48,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

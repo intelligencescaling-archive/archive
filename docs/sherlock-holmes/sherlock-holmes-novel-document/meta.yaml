@@ -5,7 +5,11 @@ category: doc
 title: Sherlock Holmes novel Document
 alt_titles:
 - Sherlock novels
-authors: []
+authors:
+- name: Notme
+  source: doc-text
+- name: Mrnotme
+  source: doc-text
 series:
 - sherlock-holmes
 characters:
@@ -47,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

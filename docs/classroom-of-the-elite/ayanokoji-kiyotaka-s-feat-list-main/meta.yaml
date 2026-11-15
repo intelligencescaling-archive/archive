@@ -5,7 +5,19 @@ category: doc
 title: Ayanokoji Kiyotaka's Feat List - Main
 alt_titles:
 - Ayanokoji Kiyotaka’s Feat List - Main
-authors: []
+authors:
+- name: DAX PMFT
+  source: doc-text
+- name: Meo6806
+  source: doc-text
+- name: TheHuntsman1001
+  source: doc-text
+- name: Wanoxx
+  source: doc-text
+- name: Plasma
+  source: doc-text
+- name: Axcel
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -44,5 +56,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

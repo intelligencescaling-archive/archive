@@ -5,7 +5,11 @@ category: doc
 title: All-Bets Miscalculation V2
 alt_titles:
 - All Bet Miscalculation V2
-authors: []
+authors:
+- name: Inferno
+  source: doc-text
+- name: Cento
+  source: doc-text
 series:
 - tomodachi-game
 characters:
@@ -46,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

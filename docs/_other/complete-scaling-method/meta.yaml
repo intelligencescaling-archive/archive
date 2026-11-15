@@ -3,7 +3,11 @@ schema_version: 1
 id: complete-scaling-method
 category: doc
 title: Complete Scaling Method
-authors: []
+authors:
+- name: Federal-manner3880
+  source: doc-text
+- name: Kxngkarma17
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -40,5 +44,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -5,7 +5,9 @@ category: doc
 title: The Elder Scrolls Cosmology
 alt_titles:
 - The Elder Scroll Cosmology
-authors: []
+authors:
+- name: Fax Novu
+  source: doc-text
 series:
 - the-elder-scrolls
 characters: []
@@ -45,5 +47,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -3,13 +3,15 @@ schema_version: 1
 id: marla-grayson-doc
 category: doc
 title: Marla Grayson doc
-authors: []
+authors:
+- name: Yashizu
+  source: doc-text
 series:
 - i-care-a-lot
 characters:
 - marla-grayson
 tags: []
-language: null
+language: es
 completion: unknown
 parts:
 - source:
@@ -19,11 +21,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 3098
     files:
     - format: docx
       name: MarlaGrayson_Hazanas.docx
       bytes: 4309235
       sha256: 73f3b5c2509e4d1fe4e34a6fff153cc0a76bde65544e3ffe45039fc59237061f
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -32,6 +38,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
-  - language

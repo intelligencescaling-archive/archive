@@ -5,7 +5,9 @@ category: doc
 title: 'Resurrection Lelouch doc: GIM analysis'
 alt_titles:
 - Resurrection Lelouch GIM analysis
-authors: []
+authors:
+- name: Dedu Ly Britannia
+  source: doc-text
 series:
 - code-geass
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

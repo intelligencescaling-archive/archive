@@ -5,7 +5,10 @@ category: doc
 title: Ichikawa Strategy
 alt_titles:
 - Akagi Ichikawa Strategy
-authors: []
+authors:
+- name: Shoslovelytechred
+  reddit: Shoslovelytechred
+  source: doc-text
 series:
 - akagi
 characters:
@@ -44,5 +47,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

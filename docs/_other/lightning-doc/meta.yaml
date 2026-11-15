@@ -3,7 +3,11 @@ schema_version: 1
 id: lightning-doc
 category: doc
 title: Lightning Doc
-authors: []
+authors:
+- name: AimRJeremy
+  source: doc-text
+- name: Marco
+  source: doc-text
 series: []
 characters:
 - lightning
@@ -40,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

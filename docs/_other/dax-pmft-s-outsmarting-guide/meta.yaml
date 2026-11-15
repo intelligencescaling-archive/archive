@@ -6,7 +6,9 @@ title: DAX PMFT'S OUTSMARTING GUIDE
 alt_titles:
 - SCD categories Doc 6
 - DAX PMFT'S SCALING GUIDE
-authors: []
+authors:
+- name: DAX PMFT
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -48,5 +50,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -3,7 +3,10 @@ schema_version: 1
 id: fate-sherlock-holmes-doc
 category: doc
 title: Fate Sherlock Holmes Doc
-authors: []
+authors:
+- name: Nino_IQ
+  reddit: Nino_IQ
+  source: doc-text
 series:
 - fate
 characters:
@@ -45,5 +48,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

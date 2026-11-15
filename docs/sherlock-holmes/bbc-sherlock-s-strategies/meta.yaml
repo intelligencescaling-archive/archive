@@ -5,7 +5,9 @@ category: doc
 title: BBC Sherlock's Strategies
 alt_titles:
 - BBC Sherlock Holmes Strategies
-authors: []
+authors:
+- name: Dezarex-Moon
+  source: doc-text
 series:
 - sherlock-holmes
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

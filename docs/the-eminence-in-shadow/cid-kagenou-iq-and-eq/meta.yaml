@@ -10,7 +10,7 @@ characters:
 - cid-kagenou
 tags:
 - eq
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -20,11 +20,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 8549
     files:
     - format: docx
       name: Cid_s_IQ,EQ.docx
       bytes: 54508
       sha256: 2903a129ed15d2ffc3e51c3ecf826bb9c8d1338c2bed03b9f9d2c7ba5eb4601d
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -35,4 +39,3 @@ review:
   check:
   - authors
   - characters
-  - language

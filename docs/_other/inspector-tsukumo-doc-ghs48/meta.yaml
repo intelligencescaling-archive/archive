@@ -5,7 +5,9 @@ category: doc
 title: Inspector Tsukumo Doc - [ghs48]
 alt_titles:
 - Inspector Tsukumo Doc
-authors: []
+authors:
+- name: ghs
+  source: doc-text
 series: []
 characters:
 - inspector-tsukumo
@@ -42,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

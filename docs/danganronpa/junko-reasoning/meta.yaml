@@ -5,7 +5,9 @@ category: doc
 title: junko reasoning
 alt_titles:
 - Junko's reasoning
-authors: []
+authors:
+- name: Dilly
+  source: doc-text
 series:
 - danganronpa
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

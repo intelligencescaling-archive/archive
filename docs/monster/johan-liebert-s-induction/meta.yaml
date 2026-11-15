@@ -3,7 +3,11 @@ schema_version: 1
 id: johan-liebert-s-induction
 category: doc
 title: Johan Liebert's Induction
-authors: []
+authors:
+- name: mehmetkabak9848
+  source: doc-text
+- name: Faxsai
+  source: doc-text
 series:
 - monster
 characters:
@@ -42,7 +46,7 @@ found_in:
   character: Johan Liebert
   link_text: Johan Liebert's Induction
 added: '2026-11-15'
+notes: Translated and formatted into a document by dramawinter.
 review:
   status: auto
-  check:
-  - authors
+  check: []

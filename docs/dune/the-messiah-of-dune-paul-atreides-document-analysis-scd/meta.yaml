@@ -5,7 +5,10 @@ category: doc
 title: The Messiah Of Dune, Paul Atreides Document+Analysis [SCD, Powerscaling] (Outdated)
 alt_titles:
 - Paul atreides DOC
-authors: []
+authors:
+- name: creationcawthon2
+  reddit: creationcawthon2
+  source: doc-text
 series:
 - dune
 characters:
@@ -44,5 +47,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

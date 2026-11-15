@@ -5,7 +5,13 @@ category: doc
 title: DT Powerscaling
 alt_titles:
 - Dark Tower cosmology
-authors: []
+authors:
+- name: Shadow_Death
+  source: doc-text
+- name: Lackluster677777
+  source: doc-text
+- name: saggezman
+  source: doc-text
 series:
 - the-dark-tower
 characters: []
@@ -45,5 +51,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

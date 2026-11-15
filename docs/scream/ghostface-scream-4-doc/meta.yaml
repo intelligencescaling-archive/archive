@@ -5,7 +5,9 @@ category: doc
 title: Ghostface (Scream 4) Doc
 alt_titles:
 - Ghostface scream 4 feats
-authors: []
+authors:
+- name: Dedu Ly Britannia
+  source: doc-text
 series:
 - scream
 characters:
@@ -45,5 +47,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

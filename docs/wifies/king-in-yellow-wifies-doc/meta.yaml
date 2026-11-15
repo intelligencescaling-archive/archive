@@ -5,7 +5,10 @@ category: doc
 title: King In Yellow(Wifies) Doc
 alt_titles:
 - King in yellow doc
-authors: []
+authors:
+- name: TheCheerGoose
+  reddit: TheCheerGoose
+  source: doc-text
 series:
 - wifies
 characters:
@@ -39,5 +42,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

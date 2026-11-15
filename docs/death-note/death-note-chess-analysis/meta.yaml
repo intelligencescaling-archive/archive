@@ -5,7 +5,9 @@ category: doc
 title: Death note chess analysis
 alt_titles:
 - 'Death Note: The Last Name (Chess Analysis)'
-authors: []
+authors:
+- name: magadanz
+  source: doc-text
 series:
 - death-note
 characters:
@@ -14,7 +16,7 @@ characters:
 variant: Change the World
 tags:
 - analysis
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -24,11 +26,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 1096
     files:
     - format: docx
       name: Death Note_ The Last Name (Chess Analysis).docx
       bytes: 7657467
       sha256: 5a08cc8886d6204f86ada635c9ed8e7cd7bbf85c36da10c10094bc6cdff7ba2e
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'DEATH NOTE:'
@@ -44,6 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
-  - language
+  check: []

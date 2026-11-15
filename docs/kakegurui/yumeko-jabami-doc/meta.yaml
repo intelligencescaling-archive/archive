@@ -3,7 +3,17 @@ schema_version: 1
 id: yumeko-jabami-doc
 category: doc
 title: Yumeko Jabami Doc
-authors: []
+authors:
+- name: Hayatoz
+  source: doc-text
+- name: SoundStorm
+  source: doc-text
+- name: Cento
+  source: doc-text
+- name: Joeri
+  source: doc-text
+- name: Hellos
+  source: doc-text
 series:
 - kakegurui
 characters:
@@ -44,5 +54,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

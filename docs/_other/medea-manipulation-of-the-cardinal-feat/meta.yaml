@@ -10,7 +10,7 @@ characters:
 tags:
 - feats
 - manipulation
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -20,11 +20,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 4015
     files:
     - format: docx
       name: Medea manipulates the cardinal Feat - Predictions of PsychÃ©'s actions and thoughts (subfeat of falses rumor feat)-1.docx
       bytes: 16497
       sha256: 7aa547b1612783ae79d23c689489f9be1d6a92cfe7c76d2984a2384786b13f0b
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -35,5 +39,4 @@ review:
   check:
   - authors
   - characters
-  - language
   - series

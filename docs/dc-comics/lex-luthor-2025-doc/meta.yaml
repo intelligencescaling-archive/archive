@@ -3,7 +3,10 @@ schema_version: 1
 id: lex-luthor-2025-doc
 category: doc
 title: LEX LUTHOR (2025) DOC
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series:
 - dc-comics
 characters:
@@ -43,7 +46,7 @@ found_in:
   character: Lex Luthor - Movies
   link_text: LEX LUTHOR (2025) DOC
 added: '2026-11-15'
+notes: Thanks to Intelligent_Dog7943.
 review:
   status: auto
-  check:
-  - authors
+  check: []

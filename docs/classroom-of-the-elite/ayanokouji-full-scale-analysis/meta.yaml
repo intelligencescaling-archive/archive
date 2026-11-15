@@ -6,7 +6,9 @@ title: Ayanokouji Full-Scale Analysis
 alt_titles:
 - Ayanokoji 3
 - Ayanokoji Full-Scale Analysis
-authors: []
+authors:
+- name: TheHuntsman1001
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -49,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

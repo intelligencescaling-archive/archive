@@ -3,7 +3,9 @@ schema_version: 1
 id: why-pandemic-deduction-is-simply-bad
 category: doc
 title: Why Pandemic Deduction is simply BAD
-authors: []
+authors:
+- name: Whynot5534
+  source: doc-text
 series:
 - liar-game
 characters:
@@ -45,5 +47,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

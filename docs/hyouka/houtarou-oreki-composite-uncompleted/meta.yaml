@@ -5,7 +5,9 @@ category: doc
 title: HOUTAROU OREKI COMPOSITE [Uncompleted]
 alt_titles:
 - Houtarou oreki
-authors: []
+authors:
+- name: Cheatspeed
+  source: doc-text
 series:
 - hyouka
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

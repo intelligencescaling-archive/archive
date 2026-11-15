@@ -3,7 +3,9 @@ schema_version: 1
 id: intellectual-feat-scaling-system
 category: doc
 title: Intellectual Feat Scaling System
-authors: []
+authors:
+- name: Velquinn
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -37,5 +39,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

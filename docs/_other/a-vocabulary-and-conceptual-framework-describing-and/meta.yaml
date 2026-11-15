@@ -5,7 +5,9 @@ category: doc
 title: A Vocabulary and Conceptual Framework Describing and Categorising Emotions
 alt_titles:
 - A doc about emotions
-authors: []
+authors:
+- name: Tearé
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -42,5 +44,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

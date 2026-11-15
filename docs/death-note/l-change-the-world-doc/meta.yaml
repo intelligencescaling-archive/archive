@@ -5,7 +5,9 @@ category: doc
 title: L Change The World Doc
 alt_titles:
 - CTW L 2
-authors: []
+authors:
+- name: kingdod69
+  source: doc-text
 series:
 - death-note
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

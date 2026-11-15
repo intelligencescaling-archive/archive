@@ -5,7 +5,10 @@ category: doc
 title: DANIEL "DANNY" JOHNSON DOC
 alt_titles:
 - Danny Johnson Feats doc
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series: []
 characters:
 - danny-johnson
@@ -43,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

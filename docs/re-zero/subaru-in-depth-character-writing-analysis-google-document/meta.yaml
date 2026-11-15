@@ -5,7 +5,19 @@ category: doc
 title: Subaru In-depth character writing analysis Google document
 alt_titles:
 - Subaru Natsuki Writing Doc
-authors: []
+authors:
+- name: Opp199
+  source: doc-text
+- name: Kasm.1337
+  source: doc-text
+- name: Sekiryuuteire
+  source: doc-text
+- name: Rblxspw
+  source: doc-text
+- name: NatsuVA
+  source: doc-text
+- name: Ajjsjsns
+  source: doc-text
 series:
 - re-zero
 characters:
@@ -45,5 +57,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

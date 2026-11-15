@@ -5,7 +5,9 @@ category: doc
 title: Outerversal Son Goku
 alt_titles:
 - Outerversal Goku
-authors: []
+authors:
+- name: chilpalendo
+  source: doc-text
 series:
 - dragon-ball
 characters:
@@ -44,5 +46,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

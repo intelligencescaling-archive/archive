@@ -5,7 +5,9 @@ category: doc
 title: TYLER DURDEN - FIGHT CLUB doc
 alt_titles:
 - Tyler Durden SCD Document
-authors: []
+authors:
+- name: Gustavo
+  source: doc-text
 series:
 - fight-club
 characters:
@@ -43,5 +45,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

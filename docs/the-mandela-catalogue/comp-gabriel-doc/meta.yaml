@@ -5,7 +5,9 @@ category: doc
 title: Comp Gabriel doc
 alt_titles:
 - Comp Gabriel SCD doc
-authors: []
+authors:
+- name: Northystar8
+  source: doc-text
 series:
 - the-mandela-catalogue
 characters:
@@ -45,5 +47,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

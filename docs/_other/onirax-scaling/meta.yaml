@@ -3,7 +3,9 @@ schema_version: 1
 id: onirax-scaling
 category: doc
 title: Onirax scaling
-authors: []
+authors:
+- name: Onirax
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -40,5 +42,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

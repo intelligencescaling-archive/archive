@@ -5,7 +5,10 @@ category: doc
 title: Fang Yuan's visual acuity
 alt_titles:
 - Fang Yuan Visual Acuity
-authors: []
+authors:
+- name: PerdidoNasRealidade
+  reddit: PerdidoNasRealidade
+  source: doc-text
 series:
 - reverend-insanity
 characters:
@@ -46,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

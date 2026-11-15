@@ -6,7 +6,11 @@ title: Dittophobia latest interpretation version
 alt_titles:
 - Dittophobia Afton Doc
 - William afton dittophobia
-authors: []
+authors:
+- name: Freddy Fivebear
+  source: doc-text
+- name: Namelessman
+  source: doc-text
 series:
 - five-nights-at-freddy-s
 characters:
@@ -50,5 +54,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,9 @@ category: doc
 title: Izuru Kamukura so called ‘Anti Feat’ in Detail
 alt_titles:
 - Debunk of Izuru's supposed "anti-feat" and a few more details
-authors: []
+authors:
+- name: Memiochii
+  source: doc-text
 series:
 - danganronpa
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,13 +5,16 @@ category: doc
 title: Cho Sang-woo Document for SCD
 alt_titles:
 - Cho Sang-woo the failed genius of Ssangmun-dong
-authors: []
+authors:
+- name: Express-Finger-2648
+  reddit: Express-Finger-2648
+  source: doc-text
 series:
 - squid-game
 characters:
 - player-218
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -21,11 +24,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 1742
     files:
     - format: docx
       name: Cho Sang-woo the failed genius of Ssangmun-dong_20250306_152122_0000.docx
       bytes: 7850268
       sha256: ed7cf79ff38125d68b5ed3a774999cf4be8cf040cbb885a49f0d073863f12c72
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -37,6 +44,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
-  - language
+  check: []

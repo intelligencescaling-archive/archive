@@ -5,7 +5,9 @@ category: doc
 title: Hajime doc part 2
 alt_titles:
 - The exploits of hajime hinata 2:4
-authors: []
+authors:
+- name: Connor
+  source: doc-text
 series:
 - danganronpa
 characters:
@@ -40,7 +42,7 @@ found_in:
   character: Hajime Hinata
   link_text: The exploits of hajime hinata 2:4
 added: '2026-11-15'
+notes: Also signs as Connor k800.
 review:
   status: auto
-  check:
-  - authors
+  check: []

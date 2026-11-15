@@ -5,7 +5,9 @@ category: doc
 title: Sou Hiyori Analysis
 alt_titles:
 - Shin Tsukimi analysis
-authors: []
+authors:
+- name: Shin
+  source: doc-text
 series:
 - your-turn-to-die
 characters:
@@ -46,7 +48,7 @@ found_in:
   character: Shin Tsukimi | Sou Hiyori
   link_text: Sou Hiyori Analysis
 added: '2026-11-15'
+notes: Helped by Mono with the scans.
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,13 @@ category: doc
 title: Friend's feats doc (needs updating)
 alt_titles:
 - Friend
-authors: []
+authors:
+- name: Zladerz
+  source: doc-text
+- name: Asinsiofr
+  source: doc-text
+- name: Amin
+  source: doc-text
 series:
 - 20th-century-boys
 characters:
@@ -44,5 +50,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -5,13 +5,16 @@ category: doc
 title: Lalo 2
 alt_titles:
 - Lalo
-authors: []
+authors:
+- name: Admirable-Visual-406
+  reddit: Admirable-Visual-406
+  source: doc-text
 series:
 - usogui
 characters:
 - vincent-lalo
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -21,11 +24,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 21583
     files:
     - format: docx
       name: Lalo.docx
       bytes: 7888913
       sha256: c246c65abc6abd59f895866c8147b6d0c5abccbfe9e749b368bf99b4bc0e51f5
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'USOGUI:'
@@ -37,6 +44,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
-  - language
+  check: []

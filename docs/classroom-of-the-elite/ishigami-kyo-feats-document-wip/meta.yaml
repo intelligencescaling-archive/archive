@@ -5,7 +5,15 @@ category: doc
 title: Ishigami Kyo Feats Document (WIP)
 alt_titles:
 - Ishigami Kyo SCD Feats Doc
-authors: []
+authors:
+- name: AgentMcBacon
+  source: doc-text
+- name: Dutloto
+  source: doc-text
+- name: Mastermind
+  source: doc-text
+- name: 'Null'
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -48,5 +56,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

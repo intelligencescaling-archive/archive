@@ -5,7 +5,9 @@ category: doc
 title: Miss_Marple_Body_in_the_Library_Feats
 alt_titles:
 - Another Miss Marple doc
-authors: []
+authors:
+- name: Yashizu
+  source: doc-text
 series:
 - miss-marple
 characters:
@@ -43,5 +45,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

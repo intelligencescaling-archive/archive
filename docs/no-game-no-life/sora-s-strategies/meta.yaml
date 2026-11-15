@@ -5,7 +5,10 @@ category: doc
 title: Sora's strategies
 alt_titles:
 - Analysis of Sora's Sugoroku strategy
-authors: []
+authors:
+- name: Shoslovelytechred
+  reddit: Shoslovelytechred
+  source: doc-text
 series:
 - no-game-no-life
 characters:
@@ -48,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

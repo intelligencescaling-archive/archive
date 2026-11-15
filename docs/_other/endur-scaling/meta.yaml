@@ -3,7 +3,9 @@ schema_version: 1
 id: endur-scaling
 category: doc
 title: Endur Scaling
-authors: []
+authors:
+- name: endur
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -37,8 +39,8 @@ found_in:
   section: 'Scaling systems:'
   link_text: Endur scaling
 added: '2026-11-15'
+notes: Credits also list biggyballs and Beyond-Mid.
 review:
   status: auto
   check:
-  - authors
   - characters

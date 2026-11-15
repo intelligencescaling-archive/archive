@@ -6,7 +6,9 @@ title: Patrick jane’s Biofeedback Feat
 alt_titles:
 - PJ BioFeedback feat
 - Patrick jane's Biofeedback Feat
-authors: []
+authors:
+- name: angelotbg_
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

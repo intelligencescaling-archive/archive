@@ -5,7 +5,9 @@ category: doc
 title: 'Anime Lelouch document: 1 million miracles strategy'
 alt_titles:
 - Lelouch 1 million miracles strategy
-authors: []
+authors:
+- name: Deducing_Analyst
+  source: doc-text
 series:
 - code-geass
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

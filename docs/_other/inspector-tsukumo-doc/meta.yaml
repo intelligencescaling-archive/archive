@@ -7,6 +7,7 @@ alt_titles:
 - Inspector Tsukumo full doc
 authors:
 - name: sar6astic
+  reddit: a_xakimv
   source: doc-text
 series: []
 characters:
@@ -44,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

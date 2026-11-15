@@ -5,7 +5,10 @@ category: doc
 title: Games Sonic Cosmology
 alt_titles:
 - Game Sonic Cosmology
-authors: []
+authors:
+- name: ajakaki
+  reddit: ajakaki
+  source: doc-text
 series:
 - sonic-the-hedgehog
 characters: []
@@ -46,5 +49,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

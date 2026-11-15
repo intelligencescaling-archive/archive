@@ -5,7 +5,9 @@ category: doc
 title: John Doe (Se7en)
 alt_titles:
 - John Doe Se7en Doc
-authors: []
+authors:
+- name: Bittus
+  source: doc-text
 series:
 - se7en
 characters:
@@ -43,5 +45,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

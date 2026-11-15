@@ -5,7 +5,9 @@ category: doc
 title: JOKER - Agent of Chaos doc
 alt_titles:
 - Joker SCD document
-authors: []
+authors:
+- name: ghs
+  source: doc-text
 series:
 - dc-comics
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

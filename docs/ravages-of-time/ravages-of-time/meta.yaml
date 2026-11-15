@@ -5,7 +5,10 @@ category: doc
 title: Ravages Of time
 alt_titles:
 - Ravages of Time Guandu Arc
-authors: []
+authors:
+- name: Hour-Reach7418
+  reddit: Hour-Reach7418
+  source: doc-text
 series:
 - ravages-of-time
 characters: []
@@ -45,5 +48,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

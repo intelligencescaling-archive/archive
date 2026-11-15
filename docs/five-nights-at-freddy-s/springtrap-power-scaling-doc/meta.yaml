@@ -12,7 +12,7 @@ characters:
 - william-afton
 tags:
 - wis
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -22,11 +22,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 1660
     files:
     - format: docx
       name: Springtrap document.docx
       bytes: 13127
       sha256: 8807984e4b1da262397e4aebbfa2988f2fc10316510984ef8b43775bce363855
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: FNAF
@@ -41,4 +45,3 @@ review:
   status: auto
   check:
   - authors
-  - language

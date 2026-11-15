@@ -5,7 +5,10 @@ category: doc
 title: Clef-Doc
 alt_titles:
 - Dr Alto Clef Doc
-authors: []
+authors:
+- name: Creepy-Ebb-3026
+  reddit: Creepy-Ebb-3026
+  source: doc-text
 series:
 - scp-foundation
 characters:
@@ -46,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

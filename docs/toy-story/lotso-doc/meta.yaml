@@ -3,7 +3,10 @@ schema_version: 1
 id: lotso-doc
 category: doc
 title: LOTSO DOC
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series:
 - toy-story
 characters:
@@ -41,5 +44,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

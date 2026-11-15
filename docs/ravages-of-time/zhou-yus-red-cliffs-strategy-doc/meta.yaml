@@ -6,7 +6,7 @@ title: Zhou Yu’s red cliffs strategy doc
 alt_titles:
 - Zhou Yu's red cliff strategy doc
 authors:
-- name: for Reddit
+- name: Pick_Me_Gal_1092
   reddit: Pick_Me_Gal_1092
   source: doc-text
 series:
@@ -50,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

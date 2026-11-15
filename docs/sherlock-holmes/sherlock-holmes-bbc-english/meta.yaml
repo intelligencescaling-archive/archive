@@ -5,7 +5,9 @@ category: doc
 title: Sherlock Holmes BBC (english)
 alt_titles:
 - BBC Sherlock Doc
-authors: []
+authors:
+- name: Dezarex-Moon
+  source: doc-text
 series:
 - sherlock-holmes
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,9 @@ category: doc
 title: Soul Hax Debunk & Explaining
 alt_titles:
 - Keiji Shinogi's Soul Hax Reading debunk and explanation
-authors: []
+authors:
+- name: Javier
+  source: doc-text
 series:
 - your-turn-to-die
 characters:
@@ -45,7 +47,7 @@ found_in:
   character: Keiji Shinogi
   link_text: Soul Hax Debunk & Explaining
 added: '2026-11-15'
+notes: Also writes as Toke.
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,9 @@ category: doc
 title: Debunking Dexter's Time Keeping CPI Feat
 alt_titles:
 - Dexter time keeping CPI feat debunk
-authors: []
+authors:
+- name: Cheatspeed
+  source: doc-text
 series:
 - dexter
 characters:
@@ -49,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

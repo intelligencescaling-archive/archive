@@ -5,7 +5,9 @@ category: doc
 title: Reverend Insanity Volume 3
 alt_titles:
 - Reverend Insanity volume 3 analysis
-authors: []
+authors:
+- name: Kiryu Moretti
+  source: doc-text
 series:
 - reverend-insanity
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

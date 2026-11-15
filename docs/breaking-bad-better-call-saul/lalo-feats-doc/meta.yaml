@@ -5,7 +5,9 @@ category: doc
 title: Lalo Feats Doc
 alt_titles:
 - Lalo Salamanca
-authors: []
+authors:
+- name: Saul Badman
+  source: doc-text
 series:
 - breaking-bad-better-call-saul
 characters:
@@ -45,7 +47,7 @@ found_in:
   character: Lalo Salamanca
   link_text: Lalo Feats Doc
 added: '2026-11-15'
+notes: Special thanks to OverLordThresh, DAX PMFT and Cento.
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -9,7 +9,7 @@ series:
 characters:
 - ayumu-narumi
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -19,11 +19,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 25721
     files:
     - format: docx
       name: Ayumu Narumi- Analysis and Theory (incomplete).docx
       bytes: 35968251
       sha256: f9d24c30e7dd8efb3acbabcd8c30df61419edba648aad46720b7a520bf6b1a01
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -34,4 +38,3 @@ review:
   check:
   - authors
   - characters
-  - language

@@ -3,12 +3,14 @@ schema_version: 1
 id: scd-categories-doc-4
 category: doc
 title: SCD categories doc 4
-authors: []
+authors:
+- name: Oro
+  source: doc-text
 series: []
 characters: []
 tags:
 - scd-categories
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -18,11 +20,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 3691
     files:
     - format: docx
       name: Copy of SCD Categories.docx
       bytes: 307603
       sha256: d740f584597f83dac6be96dac0117a1311110736c1f867780dec50586d950f04
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'SCD categories Docs:'
@@ -31,6 +37,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
-  - language

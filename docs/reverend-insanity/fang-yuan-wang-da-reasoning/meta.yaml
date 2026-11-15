@@ -12,7 +12,7 @@ characters:
 - fang-yuan
 tags:
 - reasoning
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -22,11 +22,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 1884
     files:
     - format: docx
       name: Fang Yuan's reasoning about Wang Da.docx
       bytes: 570179
       sha256: c301a807dc78e413f2e70f2c394a28f0dc54e50fbcf30fceeb90dbbb7f2be57d
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -40,4 +44,3 @@ review:
   status: auto
   check:
   - authors
-  - language

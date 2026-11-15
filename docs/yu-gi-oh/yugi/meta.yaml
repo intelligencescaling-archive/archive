@@ -9,7 +9,7 @@ series:
 characters:
 - yugi-muto
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -19,11 +19,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 18551
     files:
     - format: docx
       name: Yugi s0 doc.docx
       bytes: 5374930
       sha256: 9b9640dbfb7fc89a8ef1d4a15cc794a60e9f39e4a51e058f7fb521359d7e9115
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -34,5 +38,4 @@ review:
   check:
   - authors
   - characters
-  - language
   - series

@@ -5,7 +5,9 @@ category: doc
 title: Patrick Jane PF analysis rebunk
 alt_titles:
 - Patrick Jane Poker Feat Rebunk
-authors: []
+authors:
+- name: Arthen
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -49,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

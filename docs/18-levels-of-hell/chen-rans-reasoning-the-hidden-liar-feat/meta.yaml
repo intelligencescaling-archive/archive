@@ -5,7 +5,11 @@ category: doc
 title: Chen Ran’s Reasoning the Hidden Liar feat
 alt_titles:
 - Chen Ran Reasoning the Hidden Liar
-authors: []
+authors:
+- name: Simply_Amazing
+  source: doc-text
+- name: Rashoumon
+  source: doc-text
 series:
 - 18-levels-of-hell
 characters:
@@ -45,5 +49,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

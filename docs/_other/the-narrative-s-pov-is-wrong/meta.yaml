@@ -6,7 +6,9 @@ title: The Narrative's POV is WRONG
 alt_titles:
 - Intelligence≠Narrative
 - Narrative POV is wrong
-authors: []
+authors:
+- name: berl8989
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -46,5 +48,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

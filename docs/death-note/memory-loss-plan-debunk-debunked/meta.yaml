@@ -5,7 +5,9 @@ category: doc
 title: Memory loss plan debunk, debunked!
 alt_titles:
 - Memory loss plan rebunk 2
-authors: []
+authors:
+- name: -C-
+  source: doc-text
 series:
 - death-note
 characters:
@@ -49,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

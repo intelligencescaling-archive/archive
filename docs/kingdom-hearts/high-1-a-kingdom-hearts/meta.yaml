@@ -5,7 +5,19 @@ category: doc
 title: High 1-A Kingdom Hearts
 alt_titles:
 - High 1-A Kingdom Hear
-authors: []
+authors:
+- name: ThatBoiRick
+  source: doc-text
+- name: Bobsican
+  source: doc-text
+- name: SuperBearNeo
+  source: doc-text
+- name: TheKingStrategist13
+  source: doc-text
+- name: Kirbo
+  source: doc-text
+- name: Fezzih 007
+  source: doc-text
 series:
 - kingdom-hearts
 characters: []
@@ -44,5 +56,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -5,7 +5,9 @@ category: doc
 title: 'Lelouch doc (Anime): Schneizel pre-recorded conversation'
 alt_titles:
 - Schneizel Pre-recorded conversation
-authors: []
+authors:
+- name: Dedu Ly Britannia
+  source: doc-text
 series:
 - code-geass
 characters:
@@ -46,5 +48,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,19 @@ category: doc
 title: Baku Madarame Feats
 alt_titles:
 - Baku 1
-authors: []
+authors:
+- name: PatchiooX
+  source: doc-text
+- name: Meo
+  source: doc-text
+- name: Hal Lallo
+  source: doc-text
+- name: Filipkrzakthekiller
+  source: doc-text
+- name: Kaizer Jester
+  source: doc-text
+- name: Green Bean
+  source: doc-text
 series:
 - usogui
 characters:
@@ -47,5 +59,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

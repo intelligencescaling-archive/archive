@@ -6,7 +6,9 @@ title: Yuuichi’s Friend Murder Game - Theory
 alt_titles:
 - Yuuichi friend murder game theory
 - Yuuichi Friend Murder Game - Theory
-authors: []
+authors:
+- name: ReincarnatedDeveloped Supremacy
+  source: doc-text
 series:
 - tomodachi-game
 characters:
@@ -47,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

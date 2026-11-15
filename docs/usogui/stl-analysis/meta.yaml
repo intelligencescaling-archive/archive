@@ -3,7 +3,9 @@ schema_version: 1
 id: stl-analysis
 category: doc
 title: STL Analysis
-authors: []
+authors:
+- name: Muaaz
+  source: doc-text
 series:
 - usogui
 characters:
@@ -45,5 +47,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -6,7 +6,10 @@ title: MONACA TOWA DOC
 alt_titles:
 - Monaca Towa SCD doc
 - Monaca Towa
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series:
 - danganronpa
 characters:
@@ -47,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

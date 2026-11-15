@@ -5,7 +5,9 @@ category: doc
 title: Pigeon Analysis Doc
 alt_titles:
 - PJ Pigeon strategy analysis
-authors: []
+authors:
+- name: Zz9he
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,9 @@ category: doc
 title: RedJohn prediction doc
 alt_titles:
 - Red john
-authors: []
+authors:
+- name: angelotbg_
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -44,7 +46,7 @@ found_in:
   character: Red John
   link_text: RedJohn prediction doc
 added: '2026-11-15'
+notes: 'Special mention: .im.tony (idea), eudsom_ and _clauver (helped).'
 review:
   status: auto
-  check:
-  - authors
+  check: []

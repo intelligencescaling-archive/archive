@@ -5,7 +5,9 @@ category: doc
 title: Lalo Salamanca | Feats Document
 alt_titles:
 - Lalo Salamanca SCD document
-authors: []
+authors:
+- name: Saul Badman
+  source: doc-text
 series:
 - breaking-bad-better-call-saul
 characters:
@@ -41,8 +43,8 @@ found_in:
   section: 'BCS + BB:'
   link_text: Lalo Salamanca SCD document
 added: '2026-11-15'
+notes: Special thanks to AgentMcBacon, Cento, DAX PMFT and OverLordThresh.
 review:
   status: auto
   check:
-  - authors
   - characters

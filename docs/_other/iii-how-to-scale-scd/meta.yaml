@@ -5,7 +5,11 @@ category: doc
 title: III. How to scale SCD
 alt_titles:
 - How to Scale SCD
-authors: []
+authors:
+- name: Cheatspeed
+  source: doc-text
+- name: RolloNotOver
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -39,8 +43,8 @@ found_in:
   section: 'MISCELLANEOUS:'
   link_text: How to Scale SCD
 added: '2026-11-15'
+notes: Reviewed by DAX PMFT.
 review:
   status: auto
   check:
-  - authors
   - characters

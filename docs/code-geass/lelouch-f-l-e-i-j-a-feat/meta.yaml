@@ -12,7 +12,7 @@ characters:
 - lelouch-vi-britannia
 tags:
 - feats
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -22,11 +22,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 1628
     files:
     - format: docx
       name: Lelouch's F.L.E.I.J.A feat (final version).docx
       bytes: 713336
       sha256: e2e712a4c2aab0d35786d3a17efd86572353b9bce2802e4d82b1490ca8a1eb38
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
@@ -40,4 +44,3 @@ review:
   status: auto
   check:
   - authors
-  - language

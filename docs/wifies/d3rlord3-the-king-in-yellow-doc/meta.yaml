@@ -6,8 +6,6 @@ title: D3rlord3 & the king in yellow doc
 authors:
 - name: Veneno
   source: doc-text
-- name: Reddit
-  source: doc-text
 series:
 - wifies
 characters:
@@ -46,5 +44,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

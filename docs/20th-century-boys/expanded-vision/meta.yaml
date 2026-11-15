@@ -5,7 +5,11 @@ category: doc
 title: Expanded Vision
 alt_titles:
 - Friend VSI
-authors: []
+authors:
+- name: Asinsio
+  source: doc-text
+- name: Amin
+  source: doc-text
 series:
 - 20th-century-boys
 characters:
@@ -44,5 +48,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

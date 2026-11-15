@@ -5,7 +5,21 @@ category: doc
 title: Technoblade Doc (1)
 alt_titles:
 - Technoblade Doc
-authors: []
+authors:
+- name: blank face
+  source: doc-text
+- name: ghostdog
+  source: doc-text
+- name: void novel
+  source: doc-text
+- name: Mymyth
+  source: doc-text
+- name: suunt
+  source: doc-text
+- name: spriteThecola
+  source: doc-text
+- name: VQuip
+  source: doc-text
 series:
 - minecraft
 characters:
@@ -43,5 +57,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

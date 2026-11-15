@@ -6,7 +6,15 @@ title: Hannibal Episode 1
 alt_titles:
 - Hannibal TV Series Episode 1 Feats
 - TV Series Hannibal Episode 1 Feats
-authors: []
+authors:
+- name: Teru
+  source: doc-text
+- name: Goatkami
+  source: doc-text
+- name: Snokebrabox
+  source: doc-text
+- name: Shadow
+  source: doc-text
 series:
 - hannibal
 characters:
@@ -44,5 +52,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

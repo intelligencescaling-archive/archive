@@ -7,7 +7,9 @@ alt_titles:
 - Kei and Satoshi (vol 1)
 - Kei and Satoshi (vol 2)
 - Kei and Satoshi Volume 2
-authors: []
+authors:
+- name: HourFrame9349
+  source: doc-text
 series: []
 characters: []
 tags: []
@@ -62,5 +64,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

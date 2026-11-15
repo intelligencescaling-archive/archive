@@ -12,7 +12,7 @@ characters:
 - mikasa-tenji
 tags:
 - feats
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -22,11 +22,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 535
     files:
     - format: docx
       name: Mikasa tenji doc .docx
       bytes: 4621420
       sha256: 853e636e8ead740a128fb45ed38813a48fea7b1eed85a838bf0529a3fc6cc552
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'TOMODACHI GAME:'
@@ -40,4 +44,3 @@ review:
   status: auto
   check:
   - authors
-  - language

@@ -6,7 +6,9 @@ title: Kanade's Double Culprit Debunk
 alt_titles:
 - Kanade double culprit strategy debunk
 - Kanade’s Double Culprit Debunk
-authors: []
+authors:
+- name: berl8989
+  source: doc-text
 series:
 - danganronpa
 characters:
@@ -56,5 +58,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

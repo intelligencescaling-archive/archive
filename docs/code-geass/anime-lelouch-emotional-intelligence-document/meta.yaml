@@ -6,7 +6,9 @@ title: Anime Lelouch emotional Intelligence document
 alt_titles:
 - Anime Lelouch Emotional Intelligence
 - Anime Lelouch Emotional Intel Feats
-authors: []
+authors:
+- name: Dedu Ly Britannia
+  source: doc-text
 series:
 - code-geass
 characters:
@@ -49,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

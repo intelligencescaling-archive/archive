@@ -5,7 +5,10 @@ category: doc
 title: MANFRED VON KARMA (REVISED) DOC
 alt_titles:
 - DAHLIA HAWTHORNE (REVISED) DOC
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series:
 - ace-attorney
 characters:
@@ -46,7 +49,7 @@ found_in:
   character: Manfred von Karma
   link_text: MANFRED VON KARMA (REVISED) DOC
 added: '2026-11-15'
+notes: Includes an argument by Clockmann/NoScar.
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,9 @@ category: doc
 title: Ishigami Tetsuya novel list
 alt_titles:
 - Ishigami Tetsuya Novel feat list
-authors: []
+authors:
+- name: YuuichiGiri
+  source: doc-text
 series:
 - the-devotion-of-suspect-x
 characters:
@@ -44,5 +46,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

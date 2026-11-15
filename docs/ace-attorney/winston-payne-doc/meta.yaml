@@ -5,7 +5,10 @@ category: doc
 title: WINSTON PAYNE DOC
 alt_titles:
 - Winston Payne
-authors: []
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
 series:
 - ace-attorney
 characters:
@@ -46,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

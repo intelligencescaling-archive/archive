@@ -5,14 +5,16 @@ category: doc
 title: Mikado Shinsen theory strategy doc
 alt_titles:
 - Mikado Shinsen Theory strategy
-authors: []
+authors:
+- name: Ranposano
+  source: doc-text
 series:
 - danganronpa
 characters:
 - mikado-shinsen
 tags:
 - strategy
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -22,11 +24,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 2312
     files:
     - format: docx
       name: Mikado Shinsen Theory strategy.docx
       bytes: 154456
       sha256: 621c4e1b34910db0a17a1312c14796698aaf78ad9b2cbdc60a7a7e039d48bad3
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'DANGANRONPA:'
@@ -38,6 +44,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
-  - language
+  check: []

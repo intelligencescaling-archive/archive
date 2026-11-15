@@ -6,7 +6,7 @@ title: Code Geass (Chess Analysis)
 alt_titles:
 - Code Geass Chess Analysis
 authors:
-- name: magadaz
+- name: magadanz
   source: doc-text
 series:
 - code-geass
@@ -49,5 +49,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

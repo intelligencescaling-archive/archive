@@ -6,7 +6,9 @@ title: PJ’s 1x6 strategy
 alt_titles:
 - Patrick Jane 1x6 plan and strategy
 - PJ’s 1x6 plan & strategy
-authors: []
+authors:
+- name: Arthen
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -49,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

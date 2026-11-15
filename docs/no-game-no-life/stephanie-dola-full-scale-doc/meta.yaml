@@ -6,7 +6,15 @@ title: STEPHANIE DOLA FULL-SCALE DOC
 alt_titles:
 - Stephanie Dola SCD feats
 - Stephanie Dola SCD doc
-authors: []
+authors:
+- name: CounterKouji
+  source: doc-text
+- name: EVERNIGHT
+  source: doc-text
+- name: chilpalendo
+  source: doc-text
+- name: CHECKMATE_71
+  source: doc-text
 series:
 - no-game-no-life
 characters:
@@ -51,5 +59,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

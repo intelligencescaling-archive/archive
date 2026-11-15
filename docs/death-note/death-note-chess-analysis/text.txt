@@ -1,0 +1,55 @@
+Death Note: The Last Name (Second Movie)
+
+Made by magadanz. [ Stockfish dev-2024]
+
+This document marks my inaugural foray into the realm of document processing. Its creation was not intentional; rather, it was prompted by an anonymous users from CappyCity discord server for assistance with a "Death Note" analysis, specifically focusing on Light Yagami's chess feat. Lacking familiarity with conventional document formatting, I utilized this request as a guiding framework. My sincere gratitude goes to the original authors of the referenced document for their invaluable inspiration! - me
+Categories & attached colors from referenced document:
+Dark Red :  Light’s strategies and planning.
+Light Red :  Light's manipulation and deception.
+Orange :  Light’s foresight.
+Yellow :  Light's emotional intelligence and social intelligence.
+Dark Blue :  Light's insight and inferences. / Analysis, Reasoning
+Dark Purple :  What Light does.
+Green :  What feats Light has shown.
+Blue :  Conversation.
+Pink :  Death Note controlled action before death AND rules (some being more specific, fake laws are considered rules too).
+Black :  Miscellaneous.
+
+This analysis is exclusively centered on the chess match between L Lawliet and Yagami Light. It is imperative to acknowledge that the screenwriters may lack a comprehensive understanding of chess mechanics and notation. Additionally, given the film's modest budget, I will refrain from overly criticizing the subpar selection of frames used to depict the chessboard and analyze how logical these moves were.
+
+Frames and timestamps based on this link: https://vk.com/video-177879528_456242314
+
+FIRST BOARD ENCOUNTER
+
+So we go to the very beginning of the film, excluding the funeral scene. At this juncture, Light Yagami has already encountered L Lawliet and has been accepted as an assistant within the investigation department. However, he simultaneously finds himself under significant suspicion from the police.
+
+[10:30] – Frame for point 1. L holds the pawn on the left hand.
+In this scene, Light and L are talking about the investigation of the Kira case, during which the second happens to play chess with himself. And at some point, Light joins playing as black pieces. He does this spontaneously and without asking while smiling right to L’s face in the middle of L's independent game, which looks a little out of place. But L doesn't object and continues playing as if nothing had happened.
+
+[11:00] – Moment when Light officially joined the game. (He moved a piece)
+
+NOTE: I was unable to find the chess position in the available databases; apparently, the position was made specifically for the film. The chess position looks quite plausible, considering that L played before Light joined, one can say from his playing style that L is not a very aggressive chess player.
+Light makes quite a questionable move h5?! (Not even in top 5 best moves suggested by SF16 | NOTE: Not sure whether this can be counted as anti-feat, I am aware this move can be scripted, to show Light’s confidence & just for more cinematic effect), to which L responds with obvious move Qxh5. Then we see Nxd4 and Bxd4. Total time spent of these 4 consecutive moves – 16.7 seconds.
+Below board analyzed by Stockfish 16 NNUE [ Threads: 11/32 | Time search: 8s | Variants: 5/5 | Memory: 16 MB ]
+
+NOTE: Next few moves in the film do not make sense, plus they are semi-off-screened, not counted.
+
+After which the chessboard disappears from the camera's perspective and returns only at the very end of the game. We see this position, black turn. Light plays Nb3# ( # - stands for checkmate), which greatly surprises L. Light could have mated with Rb1# but chose a more fashionable way, can’t blame him. We really do see a checkmate on the board, the filmmakers did a good job, Light did checkmate L.
+
+[13:17] – Whole game took 3 minutes & 17.26 seconds | Normal blitz game
+
+COMMENT: The creators successfully crafted a chess game, but that is where the achievement ends. Numerous questions arise regarding the board position; it is difficult to comprehend how the pieces transitioned from one configuration to another (as depicted in the photo below) in mere seconds. The film fails to illustrate or audibly convey any significant movement of pieces. Now, turning to the board: the black knight inexplicably occupies C1, and the queen's pawns have vanished. While these may seem like minor details, the primary concern is: "What was the previous move of the white pieces?" Not only are they facing a potential checkmate in one move, which could easily be overlooked due to human error—such occurrences do happen in real games—but how can one rationalize the positioning of the white queen directly opposite the black rook, seemingly awaiting its own demise? There’s nothing to analyze seriously.
+
+SECOND BOARD ENCOUNTER (BONUS)
+
+L plays chess with himself again, after the burden of events in the film. Next following line: Nf6, d4, Neg4, f3. (Yes, black’s King & Queen are swapped, I checked that several times.)
+
+Position on the board… strange, yet still possible, until you look at White’s rook at H3, and it’s black’s turn, any amateur chess player will simply exchange a Bishop for a Rook because it’s intuitive that in this exact position it’s the best choice, you are trading Bishop (3 centipawns) for a Rook (5 centipawns) a +2 profit. But L decides not to do so.
+
+[2:10:45] – L plays with himself.
+
+NOTE: Point here I’m trying to make is that, if L really played against himself, in a pretty much balanced game - chess, position would have not been +2.3; rather +0.5 at max.
+
+CONCLUSION: In the original manga, Yagami Light and L Lawliet are depicted not merely as intelligent individuals but as intellectual prodigies. However, the footage presented reveals a distinct lack of chess proficiency. It appears that the filmmakers could have simply instructed the actors to replicate a game played by two random grandmasters while referencing a written record of moves. For those unfamiliar, this approach may seem acceptable, but we must contend with the reality before us. Can we regard this as a notable feat or an anti-feat? Considering the film's budget and its earnest attempt to forge something original, I would advocate for overlooking these shortcomings. Failing to do so undermines critical concepts such as: PSI (Problem Solving Intelligence), Faster Thinking, Lateral Thinking, Critical Thinking.I would estimate Light and L's elo rating to be around 600-700 | Max: 850, albeit with a sense of frustration and disbelief.
+
+Subjective Opinion: A1 is not White Square… fatal mistake. 0/10

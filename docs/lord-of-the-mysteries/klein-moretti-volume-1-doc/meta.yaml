@@ -3,7 +3,10 @@ schema_version: 1
 id: klein-moretti-volume-1-doc
 category: doc
 title: Klein Moretti Volume 1 Doc
-authors: []
+authors:
+- name: Biggy121212
+  reddit: Biggy121212
+  source: doc-text
 series:
 - lord-of-the-mysteries
 characters:
@@ -41,5 +44,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

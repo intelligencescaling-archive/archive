@@ -6,7 +6,9 @@ title: YUUICHI CANON AND THEORY DOC PART 2
 alt_titles:
 - YUUICHI (Canon and theory) doc part 2
 - YUUICHI KATAGIRI CANON AND THEORY DOC PART 2
-authors: []
+authors:
+- name: Samuel Alistair Poyovoird
+  source: doc-text
 series:
 - tomodachi-game
 characters:
@@ -45,7 +47,7 @@ found_in:
   character: Yuuichi Katagiri
   link_text: YUUICHI KATAGIRI CANON AND THEORY DOC PART 2
 added: '2026-11-15'
+notes: Jaiban suggested the new interpretation.
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -6,7 +6,9 @@ title: Ichika Y2V6 Observation/Sensory feat | By Wanoxx
 alt_titles:
 - Ichika observation/sensory
 - Ichika Y2V6 Observation/Sensory feat | By Wannox
-authors: []
+authors:
+- name: Wanoxx
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -48,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []
