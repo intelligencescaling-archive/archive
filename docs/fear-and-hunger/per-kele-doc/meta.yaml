@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - fear-and-hunger
-characters: []
+characters:
+- per-kele
 tags: []
 language: en
 completion: unknown

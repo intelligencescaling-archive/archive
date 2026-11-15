@@ -9,7 +9,8 @@ authors:
   source: doc-text
 series:
 - toy-story
-characters: []
+characters:
+- stinky-pete
 tags:
 - feats
 - analysis

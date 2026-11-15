@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - dc-comics
-characters: []
+characters:
+- batman
 tags:
 - feats
 language: en

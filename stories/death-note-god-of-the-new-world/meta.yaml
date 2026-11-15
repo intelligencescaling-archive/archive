@@ -9,7 +9,8 @@ authors:
   source: doc-text
 series:
 - death-note
-characters: []
+characters:
+- light-yagami
 tags: []
 language: en
 completion: unknown

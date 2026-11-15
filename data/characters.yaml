@@ -11,6 +11,9 @@
 - id: ai-magase
   name: Ai Magase
   series: null
+- id: aiga-kenji
+  name: Aiga Kenji
+  series: 18-levels-of-hell
 - id: akane-kurashiki
   name: Akane Kurashiki
   series: zero-escape
@@ -74,6 +77,9 @@
 - id: arisu-sakayanagi
   name: Arisu Sakayanagi
   series: classroom-of-the-elite
+- id: arsene-lupin
+  name: Arsene Lupin
+  series: lupin
 - id: ashe-bradley
   name: Ashe Bradley
   series: null
@@ -116,6 +122,9 @@
 - id: billy-craig
   name: Billy Craig
   series: usogui
+- id: blue
+  name: Blue
+  series: pokemon
 - id: bobby-fischer
   name: Bobby Fischer
   series: real-life
@@ -187,6 +196,9 @@
 - id: danny-johnson
   name: Danny Johnson
   series: null
+- id: darth-plagueis
+  name: Darth Plagueis
+  series: star-wars
 - id: daybit-bluebook
   name: Daybit Bluebook
   series: fate
@@ -342,6 +354,9 @@
 - id: hark
   name: Hark
   series: null
+- id: hayate-shiraishi
+  name: Hayate Shiraishi
+  series: classroom-of-the-elite
 - id: heiji-hattori
   name: Heiji Hattori
   series: case-closed
@@ -393,12 +408,18 @@
 - id: iwao-washizu
   name: Iwao Washizu
   series: akagi
+- id: iwo-eliasz
+  name: Iwo Eliasz
+  series: mrozoverse
 - id: izaya-orihara
   name: Izaya Orihara
   series: durarara
 - id: izuru-kamukura
   name: Izuru Kamukura
   series: danganronpa
+- id: jack-reacher
+  name: Jack Reacher
+  series: jack-reacher
 - id: jack-the-ripper
   name: Jack the Ripper
   series: record-of-ragnarok
@@ -527,6 +548,9 @@
 - id: kiruma-souichi
   name: Kiruma Souichi
   series: usogui
+- id: kiyoko-otawara
+  name: Kiyoko Otawara
+  series: the-grimm-variations
 - id: kiyoshi-mitarai
   name: Kiyoshi Mitarai
   series: detective-mitarai
@@ -618,6 +642,9 @@
 - id: lucifer
   name: Lucifer
   series: paradise-lost
+- id: luke-atmey
+  name: Luke Atmey
+  series: ace-attorney
 - id: lupin-iii
   name: Lupin III
   series: case-closed
@@ -790,6 +817,9 @@
 - id: paul-atreides
   name: Paul Atreides
   series: dune
+- id: per-kele
+  name: Per'kele
+  series: fear-and-hunger
 - id: phainon
   name: Phainon
   series: honkai-star-rail
@@ -805,6 +835,9 @@
 - id: phosphophyllite
   name: Phosphophyllite
   series: land-of-the-lustrous
+- id: piotr-langer-jr
+  name: Piotr Langer Jr.
+  series: mrozoverse
 - id: player-218
   name: Player 218
   series: squid-game
@@ -842,6 +875,9 @@
 - id: raymond-reddington
   name: Raymond Reddington
   series: the-blacklist
+- id: red
+  name: Red
+  series: pokemon
 - id: red-hood
   name: Red Hood
   series: dc-comics
@@ -878,6 +914,9 @@
 - id: roose-bolton
   name: Roose Bolton
   series: a-song-of-ice-and-fire
+- id: roscow
+  name: Roscow
+  series: minecraft
 - id: rover
   name: Rover
   series: wuthering-waves
@@ -923,6 +962,9 @@
 - id: sherlock-holmes-fate
   name: Sherlock Holmes
   series: fate
+- id: sherlock-holmes-moriarty-the-patriot
+  name: Sherlock Holmes
+  series: moriarty-the-patriot
 - id: shigeru-akagi
   name: Shigeru Akagi
   series: akagi
@@ -950,12 +992,18 @@
 - id: siesta
   name: Siesta
   series: the-detective-is-already-dead
+- id: skanderbeg
+  name: Skanderbeg
+  series: real-life
 - id: soma-yukihira
   name: Soma Yukihira
   series: food-wars
 - id: sora
   name: Sora
   series: no-game-no-life
+- id: sosuke-aizen
+  name: Sosuke Aizen
+  series: bleach
 - id: sou-hiyori
   name: Sou Hiyori
   series: your-turn-to-die
@@ -968,6 +1016,9 @@
 - id: stephanie-dola
   name: Stephanie Dola
   series: no-game-no-life
+- id: stinky-pete
+  name: Stinky Pete
+  series: toy-story
 - id: subaru-natsuki
   name: Subaru Natsuki
   series: re-zero
@@ -1030,6 +1081,9 @@
 - id: the-penguin
   name: The Penguin
   series: dc-comics
+- id: the-professor
+  name: The Professor
+  series: money-heist
 - id: the-protagonist
   name: The Protagonist
   series: tenet
@@ -1042,6 +1096,9 @@
 - id: todd-fang
   name: Todd Fang
   series: re-zero
+- id: tokuchi-toua
+  name: Tokuchi Toua
+  series: liar-game
 - id: tom-taylor
   name: Tom Taylor
   series: null
@@ -1126,9 +1183,15 @@
 - id: yua-shishiba
   name: Yua Shishiba
   series: kakegurui
+- id: yudai-hashimoto
+  name: Yudai Hashimoto
+  series: raging-loop
 - id: yugi-muto
   name: Yugi Muto
   series: yu-gi-oh
+- id: yuki-sorimachi
+  name: Yuki Sorimachi
+  series: playing-death-games-to-put-food-on-the-table
 - id: yuki-suou
   name: Yuki Suou
   series: alya-sometimes-hides-her-feelings-in-russian

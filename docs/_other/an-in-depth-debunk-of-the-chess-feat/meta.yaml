@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: an-in-depth-debunk-of-the-chess-feat
+category: doc
+title: An In-Depth Debunk of the Chess Feat
+alt_titles:
+- What are you guys and gals thoughts on this?
+authors:
+- name: Greentoaststone
+  reddit: Greentoaststone
+  source: reddit-post
+series: []
+characters: []
+tags:
+- debunk
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lzjhKHzDPPDk70cFjWJeMCEB-dfWuWMwaEZSHR2JG-4
+    google_id: 1lzjhKHzDPPDk70cFjWJeMCEB-dfWuWMwaEZSHR2JG-4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 756
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 57042
+      sha256: 9e7b44c474e86fd1eb16d80cc1ac4e9d7112df1e1930e3873a67903274ff6f89
+    - format: docx
+      name: document.docx
+      bytes: 8834
+      sha256: 0d9bc5530630e54a6d7460e9d5c62582125886532c46d41fdb4526e5fba90131
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1axzuby/
+  note: 'Shared by u/Greentoaststone in a post on 2024-02-23: What are you guys and gals thoughts on this?'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

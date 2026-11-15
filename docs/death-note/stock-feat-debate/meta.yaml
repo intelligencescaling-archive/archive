@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: stock-feat-debate
+category: doc
+title: Stock Feat Debate
+authors:
+- name: TheNamelessMonster_-
+  reddit: TheNamelessMonster_-
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- feats
+- debate
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1fqlF1zNn6L59mr0lg0VET6y_FLhto18eUD5MvnS76Vw
+    google_id: 1fqlF1zNn6L59mr0lg0VET6y_FLhto18eUD5MvnS76Vw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3676
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 174189
+      sha256: 31745877a0ef04cacc4bf238c533d0001b979984aec973be768929db3f2df692
+    - format: docx
+      name: document.docx
+      bytes: 16519
+      sha256: b5d100a64cfd489a76ba6b33c20aff5ca1f44e39e464fa44ede08d6861e75a04
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mrxibz/
+  note: 'Shared by u/TheNamelessMonster_- in a post on 2025-08-16: Stock market feat debate between Huntsman and Lloyaro, tell me your thoughts'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: adm-cases
+category: doc
+title: ADM Cases
+alt_titles:
+- (anonymous)
+- ADM Cases (Extended)
+authors:
+- name: Ninecrom_Arcade
+  reddit: Ninecrom_Arcade
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1D5GYgSTWcmjc5Y5luM_pV43uN-fOqGVK
+    google_id: 1D5GYgSTWcmjc5Y5luM_pV43uN-fOqGVK
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1221
+    files:
+    - format: pdf
+      name: ADM_Cases_Expanded.pdf
+      bytes: 9755
+      sha256: 5db0a13d5a2ea3d8e616ee2e0824a481b962857531caf57af9016c21d820e0a2
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uogwab/
+  note: 'Shared by u/Ninecrom_Arcade in a post on 2026-07-05: ADM Cases (Extended)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

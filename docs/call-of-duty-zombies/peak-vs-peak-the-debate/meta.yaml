@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: peak-vs-peak-the-debate
+category: doc
+title: Peak vs Peak the debate
+authors:
+- name: FateDaA
+  reddit: FateDaA
+  source: reddit-post
+series:
+- call-of-duty-zombies
+characters:
+- edward-richtofen
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Zk93MlPtjsjO8SHXOqkfrWDY3BylBBG2he3wWKa4t8A
+    google_id: 1Zk93MlPtjsjO8SHXOqkfrWDY3BylBBG2he3wWKa4t8A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 364
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 84547
+      sha256: 26126c0707fc56975976a3fcc00e3d618b03e2d59403dae3ca9821d21012c807
+    - format: docx
+      name: document.docx
+      bytes: 9523
+      sha256: 2004d893ae5884cd490b877d6e837ceea1235a17fd4a782d198c140c3cc14a5e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l9pst2/
+  note: 'Shared by u/FateDaA in a post on 2025-06-12: Aight because some mfs dont understand why AI is a shitty tool in debates Ima make an example piece '
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

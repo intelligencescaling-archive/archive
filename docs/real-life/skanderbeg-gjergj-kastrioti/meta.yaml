@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - real-life
-characters: []
+characters:
+- skanderbeg
 tags: []
 language: en
 completion: unknown

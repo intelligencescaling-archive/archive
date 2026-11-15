@@ -10,7 +10,8 @@ authors:
   source: doc-text
 series:
 - liar-game
-characters: []
+characters:
+- akiyama-shinichi
 tags:
 - manipulation
 language: en

@@ -6,11 +6,10 @@ title: The Professor FSIQ Feat
 authors:
 - name: horrorhistory
   source: doc-text
-- name: horrorhistory_77
-  source: doc-text
 series:
 - money-heist
-characters: []
+characters:
+- the-professor
 tags:
 - feats
 - fsiq
@@ -47,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

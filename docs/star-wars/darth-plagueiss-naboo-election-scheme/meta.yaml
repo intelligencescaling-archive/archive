@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - star-wars
-characters: []
+characters:
+- darth-plagueis
 tags:
 - scheming
 language: en

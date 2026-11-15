@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: precision-scaling
+category: doc
+title: Precision Scaling
+alt_titles:
+- Complexity Scaling doesn't even have a Consistent definition and it came from Ja
+authors:
+- name: Jumpy-Ad6881
+  reddit: Jumpy-Ad6881
+  source: reddit-post
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1TCYJWv7m19rtTmTrRGEC6KFRzj4HaHBGyQPLAdFP64M
+    google_id: 1TCYJWv7m19rtTmTrRGEC6KFRzj4HaHBGyQPLAdFP64M
+  capture:
+    status: partial
+    date: '2024-11-28'
+    words: 2105
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20241128091812/https://docs.google.com/document/d/1TCYJWv7m19rtTmTrRGEC6KFRzj4HaHBGyQPLAdFP64M/edit?usp=drivesdk
+  note: Snapshot from 2024-11-28
+- type: reddit-post
+  url: https://www.reddit.com/comments/1f892a4/_/lle5zp6/
+  note: 'Shared by u/Jumpy-Ad6881 in a comment on 2024-09-04: Complexity Scaling doesn''t even have a Consistent definition and it came from Ja'
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2024-11-28. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

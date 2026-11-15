@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: miss-marple-bcc-hazaaas
+category: doc
+title: Miss Marple  BCC hazaÃ±as
+authors:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  source: reddit-post
+series:
+- miss-marple
+characters:
+- jane-marple
+tags: []
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1MnkEHRj-Kxfmkd_gQhIfSXQBu413qP9D
+    google_id: 1MnkEHRj-Kxfmkd_gQhIfSXQBu413qP9D
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 31615
+    files:
+    - format: docx
+      name: Miss_Marple_ BCC-hazaÃ±as.docx
+      bytes: 7972044
+      sha256: be6a08752b90650f8babfabd44d79db969edfccb5a34759ee474cb6874bc5a29
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x08gz9/
+  note: 'Shared by u/Vincet_Qo in a post on 2026-10-07: Actualizacion del documento de Miss Marple'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

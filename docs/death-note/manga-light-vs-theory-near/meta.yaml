@@ -8,7 +8,9 @@ authors:
   source: doc-text
 series:
 - death-note
-characters: []
+characters:
+- light-yagami
+- nate-river
 tags:
 - matchup
 language: en

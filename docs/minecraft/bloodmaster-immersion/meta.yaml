@@ -9,7 +9,8 @@ authors:
   source: doc-text
 series:
 - minecraft
-characters: []
+characters:
+- roscow
 tags: []
 language: en
 completion: unknown

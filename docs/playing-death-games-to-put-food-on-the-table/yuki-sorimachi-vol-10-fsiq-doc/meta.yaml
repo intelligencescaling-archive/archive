@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuki-sorimachi-vol-10-fsiq-doc
+category: doc
+title: Yuki Sorimachi(Vol.10) FSIQ Doc
+authors:
+- name: Kakarot362
+  source: doc-text
+series:
+- playing-death-games-to-put-food-on-the-table
+characters:
+- yuki-sorimachi
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WdJgfQdDqP5dPYainbrBjoAyjp2Cu-Jtpdw7CsJZ6D8
+    google_id: 1WdJgfQdDqP5dPYainbrBjoAyjp2Cu-Jtpdw7CsJZ6D8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 52
+    words: 5426
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11534360
+      sha256: cad947bcd49775936e0b8ec0ee66fead3bf152a762633d4a4aadce7728bcbe62
+    - format: docx
+      name: document.docx
+      bytes: 12663211
+      sha256: bef75023826413cd2d3c02e5aa56eadd192515c81c7dd77a14c9fe527f3ecac9
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ulno6j/
+  note: 'Shared by u/EggApprehensive7792 in a post on 2026-07-02: My Doc on Yuki Sorimachi''s FSIQ(Up to Volume 9 Spoilers)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

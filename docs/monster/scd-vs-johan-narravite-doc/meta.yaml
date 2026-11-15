@@ -4,7 +4,7 @@ id: scd-vs-johan-narravite-doc
 category: doc
 title: SCD vs Johan(Narravite)+Doc
 authors:
-- name: Millennium Knight
+- name: Yalvin Shoko Millennium Knight
   source: doc-text
 series:
 - monster
@@ -46,7 +46,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - hannibal
-characters: []
+characters:
+- hannibal-lecter
 tags:
 - debunk
 language: null

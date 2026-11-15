@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-feats-2
+category: doc
+title: Lelouch feats
+authors:
+- name: heckthiscrapimout
+  reddit: heckthiscrapimout
+  source: reddit-post
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1_dUiIvxG9wrBVl8uwgDDFkHP6vWbGxFz
+    google_id: 1_dUiIvxG9wrBVl8uwgDDFkHP6vWbGxFz
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 46
+    words: 12073
+    files:
+    - format: pdf
+      name: Lelouch_feats.pdf
+      bytes: 250011
+      sha256: f8cf5b53cc07d2ffc6c6773bbbbb9b18a1382ff24bdb72e651a6b9f2509a2fd4
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/19487wn/_/khe9ylm/
+  note: 'Shared by u/heckthiscrapimout in a comment on 2024-01-11: i also got a few [Near (Death Note)](https://docs.google.com/document/d/1bMQXKP'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

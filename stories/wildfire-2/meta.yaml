@@ -4,7 +4,7 @@ id: wildfire-2
 category: story
 title: Wildfire
 authors:
-- name: Elysius Blight himself
+- name: Elysius Blight
   source: doc-text
 series: []
 characters: []
@@ -42,6 +42,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

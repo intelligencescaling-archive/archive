@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - lupin
-characters: []
+characters:
+- arsene-lupin
 tags:
 - analysis
 language: en

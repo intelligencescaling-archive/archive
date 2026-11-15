@@ -4,7 +4,7 @@ id: yalvin-vs-scd
 category: doc
 title: YALVIN VS SCD
 authors:
-- name: Millennium Knight
+- name: Yalvin Shoko Millennium Knight
   source: doc-text
 series: []
 characters: []
@@ -43,7 +43,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

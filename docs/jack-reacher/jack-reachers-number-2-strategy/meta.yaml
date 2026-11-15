@@ -8,7 +8,8 @@ authors:
   source: doc-text
 series:
 - jack-reacher
-characters: []
+characters:
+- jack-reacher
 tags:
 - strategy
 language: en

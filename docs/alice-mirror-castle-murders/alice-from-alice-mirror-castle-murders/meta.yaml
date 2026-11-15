@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: alice-from-alice-mirror-castle-murders
+category: doc
+title: Alice from Alice Mirror Castle Murders
+authors:
+- name: PlatFleece
+  reddit: PlatFleece
+  source: reddit-post
+series:
+- alice-mirror-castle-murders
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_npuwbd8nDroK9LltGS8Pse1G0DqJjFML0D9VX0vm6s
+    google_id: 1_npuwbd8nDroK9LltGS8Pse1G0DqJjFML0D9VX0vm6s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 9630
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1035228
+      sha256: 7a0fbb9fea79d63fb9998ebf0ab7d11e08efef07a4e96601ce8e8e1c5cb8d57c
+    - format: docx
+      name: document.docx
+      bytes: 603654
+      sha256: bbbbf613503862b09f2f03d9d318467e634e2eab6702710d947579b910907e68
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1s8obu2/
+  note: 'Shared by u/PlatFleece in a post on 2026-03-31: First Doc on the Sub, Alice from the Castle Series'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

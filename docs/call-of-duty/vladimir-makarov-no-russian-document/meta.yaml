@@ -8,7 +8,8 @@ authors:
   source: doc-text
 series:
 - call-of-duty
-characters: []
+characters:
+- vladimir-makarov
 tags: []
 language: en
 completion: unknown

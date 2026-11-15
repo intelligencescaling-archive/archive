@@ -8,7 +8,9 @@ authors:
   source: doc-text
 series:
 - liar-game
-characters: []
+characters:
+- akiyama-shinichi
+- tokuchi-toua
 tags:
 - matchup
 language: null

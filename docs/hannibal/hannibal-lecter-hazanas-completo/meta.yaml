@@ -9,8 +9,10 @@ authors:
   source: reddit-post
 series:
 - hannibal
-characters: []
-tags: []
+characters:
+- hannibal-lecter
+tags:
+- feats
 language: es
 completion: unknown
 parts:

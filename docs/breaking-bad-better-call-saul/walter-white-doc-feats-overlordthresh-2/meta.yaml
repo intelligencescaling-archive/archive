@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - breaking-bad-better-call-saul
-characters: []
+characters:
+- walter-white
 tags:
 - feats
 language: en

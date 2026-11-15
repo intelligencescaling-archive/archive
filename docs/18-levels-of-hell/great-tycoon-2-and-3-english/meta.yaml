@@ -9,8 +9,10 @@ authors:
   source: reddit-post
 series:
 - 18-levels-of-hell
-characters: []
-tags: []
+characters:
+- chen-ran
+tags:
+- game
 language: en
 completion: unknown
 parts:

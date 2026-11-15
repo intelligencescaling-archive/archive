@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-many-claims-around-ls-stock-feat
+category: doc
+title: Debunking many claims around L’s stock feat
+authors:
+- name: milk_thirsty
+  reddit: milk_thirsty
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- debunk
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=122i0DcrIE0_qt4QxqrmjcjJVggP-04-hiaBMeEyjWRM
+    google_id: 122i0DcrIE0_qt4QxqrmjcjJVggP-04-hiaBMeEyjWRM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2167
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 134092
+      sha256: 35ccebc392d2c263af66ad8cecd7ecedca6e6a9f31f48c6a9f729bc129d499ae
+    - format: docx
+      name: document.docx
+      bytes: 15311
+      sha256: 8a77650c62cdde2cfd11c0174d17aada991e3fc23113593918f85994055eac39
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mrjn8k/
+  note: 'Shared by u/milk_thirsty in a post on 2025-08-16: Debunking many claims around L’s stock feat'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -6,8 +6,6 @@ title: Akiyama Shinchi(Manga) vs Johan Liebert(Narrative)
 authors:
 - name: Yalvin Shoko Millennium Knight
   source: doc-text
-- name: upon
-  source: doc-text
 series:
 - liar-game
 - monster
@@ -48,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

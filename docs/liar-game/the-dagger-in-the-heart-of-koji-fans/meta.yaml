@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-dagger-in-the-heart-of-koji-fans
+category: doc
+title: The dagger in the heart of Koji fans.
+authors:
+- name: FateDaA
+  reddit: FateDaA
+  source: reddit-post
+series:
+- liar-game
+- classroom-of-the-elite
+characters:
+- akiyama-shinichi
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1DQ549kbkLQq4LKpLen8CkmY80PgqQjUnyJoYxm9VX6k
+    google_id: 1DQ549kbkLQq4LKpLen8CkmY80PgqQjUnyJoYxm9VX6k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 440
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 82061
+      sha256: 3110faf7c4aa466b540dd24294bb9123cfb9fc85e7e35335ffa2d7b27e467ffb
+    - format: docx
+      name: document.docx
+      bytes: 9388
+      sha256: 2ab75848c9541bff110d001c6f76ec977f9916aaf8837ba8432cf7cbd70c0887
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l9pst2/
+  note: 'Shared by u/FateDaA in a post on 2025-06-12: Aight because some mfs dont understand why AI is a shitty tool in debates Ima make an example piece '
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -9,8 +9,10 @@ authors:
   source: reddit-post
 series:
 - dc-comics
-characters: []
-tags: []
+characters:
+- lex-luthor
+tags:
+- feats
 language: en
 completion: unknown
 parts:

@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series:
 - mrozoverse
-characters: []
+characters:
+- piotr-langer-jr
 tags: []
 language: en
 completion: unknown

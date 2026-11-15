@@ -9,7 +9,8 @@ authors:
   source: doc-text
 series:
 - ace-attorney
-characters: []
+characters:
+- dahlia-hawthorne
 tags: []
 language: en
 completion: unknown
