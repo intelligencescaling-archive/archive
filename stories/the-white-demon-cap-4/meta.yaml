@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-white-demon-cap-4
+category: story
+title: The White Demon Cap 4
+authors:
+- name: ThroatSpirited1493
+  reddit: ThroatSpirited1493
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1anOpX3Dkb68cqB1YAJmurozOky52iHIt
+    google_id: 1anOpX3Dkb68cqB1YAJmurozOky52iHIt
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 95
+    words: 9327
+    files:
+    - format: pdf
+      name: The White Demon Cap 4.pdf
+      bytes: 1127991
+      sha256: e18aeca4147201cab0510efb167313baa60af12f3505ab75243ee6e806e7b21c
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vzhnnv/
+  note: 'Shared by u/ThroatSpirited1493 in a post on 2026-08-27: Publication of Chapter 4 of my novel, The White Demon'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

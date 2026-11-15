@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: qi-xia-go-feat
+category: doc
+title: Qi Xia Go feat
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IP87eui0YEUb-SEZTFAL7vFnR4gZWY0EceFhhgelB6Q
+    google_id: 1IP87eui0YEUb-SEZTFAL7vFnR4gZWY0EceFhhgelB6Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 900
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 62365
+      sha256: ae5ed5902c5ce7604c04c1bd56f3a408c73734b2bb367326da6f58d278a8e0da
+    - format: docx
+      name: document.docx
+      bytes: 9227
+      sha256: 6c8adbaeb27e8892552b13731e4f5f4ad0047684f88c9bc5e3641110b14a6a43
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1rtyyyf/
+  note: 'Shared by u/Ancient-End2474 in a post on 2026-03-14: Qi Xia(ch60) versus Yuichi'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

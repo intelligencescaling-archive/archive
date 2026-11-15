@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chen-ran-doc
+category: doc
+title: CHEN RAN DOC
+authors:
+- name: AnnualFrequent7426
+  reddit: AnnualFrequent7426
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17r6GubChM2xy45JDfisbB0rPRW4cLF0d6vdPc12zHZY
+    google_id: 17r6GubChM2xy45JDfisbB0rPRW4cLF0d6vdPc12zHZY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1535
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 490250
+      sha256: 5b83c537654a68765d91573c06c80f5832579384392889605409670810a751bf
+    - format: docx
+      name: document.docx
+      bytes: 979807
+      sha256: 8732552cd9881dd54b494c790d8fc657eaae21592308e11c6e90426e964d578c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qwz8a4/
+  note: 'Shared by u/AnnualFrequent7426 in a post on 2026-02-05: I might be the first person in the world to climb Chen Ran from scratch. Because I''m doing other thi'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

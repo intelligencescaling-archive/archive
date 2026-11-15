@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: junko-enoshima-https-docs-google-com-document-d-1gjtb
+category: doc
+title: 'Junko Enoshima: https://docs.google.com/document/d/1gJTb-Jtmm3l_jLXck1l5GTL8E7kP'
+authors:
+- name: Samuel Alistair
+  source: doc-text
+- name: youtube name
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1yvFX8zOINU9NGpAGsru6HwUzr-IdH3sIgC-gxoEq46Y
+    google_id: 1yvFX8zOINU9NGpAGsru6HwUzr-IdH3sIgC-gxoEq46Y
+  capture:
+    status: partial
+    date: '2025-01-19'
+    words: 5611
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250119000150/https://docs.google.com/document/d/1yvFX8zOINU9NGpAGsru6HwUzr-IdH3sIgC-gxoEq46Y/edit?usp=drivesdk
+  note: Snapshot from 2025-01-19
+- type: reddit-post
+  url: https://www.reddit.com/comments/1duq1r5/_/ljohbt3/
+  note: 'Shared by u/heckthiscrapimout in a comment on 2024-08-24: Junko Enoshima: https://docs.google.com/document/d/1gJTb-Jtmm3l_jLXck1l5GTL8E7kP'
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-01-19. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-ultimate-library-of-docs
+category: doc
+title: The ultimate library of docs
+authors:
+- name: Midori analysis
+  source: doc-text
+- name: Bestmate
+  source: doc-text
+- name: Pho
+  source: doc-text
+- name: Acol
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1C1_fA6s6AReEVY_vBcit6HD06TA45lDDfu-BuaxMugA
+    google_id: 1C1_fA6s6AReEVY_vBcit6HD06TA45lDDfu-BuaxMugA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 5132
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1148804
+      sha256: b0f7118db33b8aaaff4a2627bb68ebc973b0943d11912095e987ec0b901bf71c
+    - format: docx
+      name: document.docx
+      bytes: 81529
+      sha256: 8324a1e2e44651fa8123e0c5cf24e8c5e9bc2b50789f388a617db550deea9e91
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1h3y515/_/lzub39y/
+  note: 'Shared by u/CreationCawthon2 in a comment on 2024-12-01: https://docs.google.com/document/d/1C1_fA6s6AReEVY_vBcit6HD06TA45lDDfu-BuaxMugA/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

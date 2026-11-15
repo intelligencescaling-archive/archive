@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monopoly-game
+category: doc
+title: Monopoly game
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xLX0kNZdDyoTxVCBQkD6-BQEP7DBWnyJ6Q7V5ZqkETI
+    google_id: 1xLX0kNZdDyoTxVCBQkD6-BQEP7DBWnyJ6Q7V5ZqkETI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 71
+    words: 23092
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 921047
+      sha256: 745013cc04eb3a9f820967a41b39d48852635fc6f277d44100cfbd7ba62198d4
+    - format: docx
+      name: document.docx
+      bytes: 709622
+      sha256: a602e2056794dee7436437f403c259ae382a6cad2c6adcaacee095b991236a76
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ximhub/
+  note: 'Shared by u/Simply_Amazing_1610 in a post on 2026-10-29: Chen Ran''s Tycoon / Monopoly game strategy explained - credits to Xin lỗi vì quá đẳng cấp, Azathanal'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

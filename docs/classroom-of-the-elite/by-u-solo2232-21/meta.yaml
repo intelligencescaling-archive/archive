@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: by-u-solo2232-21
+category: doc
+title: (by u/Solo2232_21)
+authors:
+- name: Solo2232_21
+  reddit: Solo2232_21
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15DG7g5Q-8tCouOfdt6NIs8xjGaARzWGO6xHoCC5wqCY
+    google_id: 15DG7g5Q-8tCouOfdt6NIs8xjGaARzWGO6xHoCC5wqCY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 50
+    words: 18329
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 649098
+      sha256: d79c570db70d71ea9d3e8b7981fe993a943013ccdc0e1dcfc7f91cc3f6e18c88
+    - format: docx
+      name: document.docx
+      bytes: 55937
+      sha256: 986dcbce50e8cca8e0ab603e52e9a1385b7a2e860623a440cf50861f0ed32641
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xk29yn/
+  note: 'Shared by u/Similar_Incident8433 in a post on 2026-10-31: short summary vol 3 feats of ayanokoji kiyotaka + others by Solo2232_21'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

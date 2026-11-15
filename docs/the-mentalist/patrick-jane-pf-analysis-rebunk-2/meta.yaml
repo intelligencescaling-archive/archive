@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-pf-analysis-rebunk-2
+category: doc
+title: Patrick Jane PF analysis rebunk 2
+authors:
+- name: Arthen
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- debunk
+- analysis
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14VNGw2NMZvtg2sGPPGMwou2LD5s1npZ79L2zsMkse2M
+    google_id: 14VNGw2NMZvtg2sGPPGMwou2LD5s1npZ79L2zsMkse2M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1249
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 304425
+      sha256: a648762c38aa82998fdfe3a99e2c28be8e7e417c6de0a3c8767a6d623291714d
+    - format: docx
+      name: document.docx
+      bytes: 230801
+      sha256: 5280e48d9d51f6ce2ff6d276442fb44c9f2bfdbc12ba9b68e894f247b22271bb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1p4x66o/
+  note: 'Shared by u/No_Engineering_3223 in a post on 2025-11-23: Rebunking debunk of my rebunk.'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

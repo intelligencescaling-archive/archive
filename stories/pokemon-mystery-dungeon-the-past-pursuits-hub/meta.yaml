@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pokemon-mystery-dungeon-the-past-pursuits-hub
+category: story
+title: 'Pokemon Mystery Dungeon: The Past Pursuits - HUB'
+authors:
+- name: Less_Puddingdrawer
+  reddit: Less_Puddingdrawer
+  source: reddit-post
+series:
+- pokemon-mystery-dungeon
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GbXTuUuV8K0IHP0ORy1GcJJ_U59JM-90yx0KijZKA7U
+    google_id: 1GbXTuUuV8K0IHP0ORy1GcJJ_U59JM-90yx0KijZKA7U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 475
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 298547
+      sha256: bdaac321ac50afd81eaae511eb2ec619c1f6a0d19f93cc9c45bb082ad60d225f
+    - format: docx
+      name: document.docx
+      bytes: 271290
+      sha256: bafb0ed8952552162ba817f02b0fa2ef42bc70a4af9a5c2558d1b917b80348e7
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uhzcg1/
+  note: 'Shared by u/Less_Puddingdrawer in a post on 2026-06-28: CHAPTER 2 OF MY FANFICTION IS SEMI-OFFICIALLY OUT NOW! (link in body text)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

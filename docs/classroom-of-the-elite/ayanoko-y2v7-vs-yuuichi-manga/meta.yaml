@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanoko-y2v7-vs-yuuichi-manga
+category: doc
+title: Ayanoko(y2v7)Vs Yuuichi(Manga)
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- kiyotaka-ayanokoji
+- yuuichi-katagiri
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1qs3meO2DIoqEeaXXCFharotLvP6KVD-jV_VSUQS52Yw
+    google_id: 1qs3meO2DIoqEeaXXCFharotLvP6KVD-jV_VSUQS52Yw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 920
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 123295
+      sha256: 2091d8c6f5da7bdeb5e48ed26271d1f1a04016d090646bfa5702d97baeb5b1e0
+    - format: docx
+      name: document.docx
+      bytes: 282034
+      sha256: 2ebfd278a11b6f4f0156721f0a326ee7f39a49f684cf4784687f81d7b3b71308
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ko72ki/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-16: Kiyotaka Ayanokoji(y2 v7)vsKategari Yuuichi(Manga)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

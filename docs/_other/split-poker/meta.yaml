@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: split-poker
+category: doc
+title: Split Poker
+authors:
+- name: Spinosaurus23
+  reddit: Spinosaurus23
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1iU3Xpw6SZC0Zrkf_HeNyf_GP3R2_gqnFWow3BU2bwoo
+    google_id: 1iU3Xpw6SZC0Zrkf_HeNyf_GP3R2_gqnFWow3BU2bwoo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 920
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 63029
+      sha256: 619ce3984de171c4e9b6c4750b58b08976f6ab4239c4ca6f1d3ee904ea76107e
+    - format: docx
+      name: document.docx
+      bytes: 183447
+      sha256: e94f49478a6f09c27ea8945276ca7a93b2b68bdca61b9eeacf9c15056fd52de2
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1j56dkj/
+  note: 'Shared by u/Spinosaurus23 in a post on 2025-03-06: Swindler''s Game - Round 1 : "Split Poker"'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

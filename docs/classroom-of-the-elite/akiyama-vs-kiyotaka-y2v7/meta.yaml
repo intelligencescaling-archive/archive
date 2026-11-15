@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-vs-kiyotaka-y2v7
+category: doc
+title: Akiyama Vs Kiyotaka(y2v7)
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- classroom-of-the-elite
+- liar-game
+characters:
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1gKLvq7FX3qZA79fFXoOwvorLi4rtuTkPb_9Kt2HfBuY
+    google_id: 1gKLvq7FX3qZA79fFXoOwvorLi4rtuTkPb_9Kt2HfBuY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 912
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 122702
+      sha256: 36800d5f68ace68de39b1c5174fb273f61ce755bb1e1b3309d9bfef7247a9db8
+    - format: docx
+      name: document.docx
+      bytes: 281991
+      sha256: 37bd453d8e980aabaaaf9bd79abdf8695c4760d26498be8255e74d6a999bb70e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kovmya/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-17: SCD ELMINATION WHELL PART 1 AYANOKOJI(Y2V7) VS AKIYAMA(MANGA)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinchi-manga-vs-johan-liebert-narrative
+category: doc
+title: Akiyama Shinchi(Manga) vs Johan Liebert(Narrative)
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+- name: upon
+  source: doc-text
+series:
+- liar-game
+- monster
+characters:
+- johan-liebert
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_W46ghBMlmoZnyePsMxgWfZKrcXo210e8uAniAZBfpk
+    google_id: 1_W46ghBMlmoZnyePsMxgWfZKrcXo210e8uAniAZBfpk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1231
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 143684
+      sha256: 0e48ab130273d8d41e04ac86478c840bde0ccff58a6427943e6fbf6294c7d13a
+    - format: docx
+      name: document.docx
+      bytes: 282767
+      sha256: 70c17dfec9bdfeb4a083dcb0e82ff5e345f654894ba0858dfeed3d0372350568
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mp3xtp/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-13: Akiyama Shinchi(Manga) vs Johan Liebert(Narrative) Full Scale Comparison Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

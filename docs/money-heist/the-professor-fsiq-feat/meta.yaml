@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-professor-fsiq-feat
+category: doc
+title: The Professor FSIQ Feat
+authors:
+- name: horrorhistory
+  source: doc-text
+- name: horrorhistory_77
+  source: doc-text
+series:
+- money-heist
+characters: []
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KpTQBLRfFBVXw4vU3aEHvZnPXUif6omupF6ANJaJOw4
+    google_id: 1KpTQBLRfFBVXw4vU3aEHvZnPXUif6omupF6ANJaJOw4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 980
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 916789
+      sha256: ebd39fdf1a46206e4ee8dfb52a5b1f20c9a39a67fde8e67ba8d2e5721987ed96
+    - format: docx
+      name: document.docx
+      bytes: 510440
+      sha256: 7178fd411397b7aad5e8354e33d327362d857b6ea86fa9702123139c1933d99b
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qvn1hs/
+  note: 'Shared by u/Joshy_Montage in a post on 2026-02-04: The Professor Gold Heist Reconstruction Feat (Money Heist)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

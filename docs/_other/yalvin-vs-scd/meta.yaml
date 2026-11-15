@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yalvin-vs-scd
+category: doc
+title: YALVIN VS SCD
+authors:
+- name: Millennium Knight
+  source: doc-text
+series: []
+characters: []
+tags:
+- matchup
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1M96QtUzo6TM9DmApsOJ2bHSCbsD9hW_0bJB1MUuyFHQ
+    google_id: 1M96QtUzo6TM9DmApsOJ2bHSCbsD9hW_0bJB1MUuyFHQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 656
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 112758
+      sha256: c4d4150332c70c1608b25706e8a24668280ffb7f5c0df128fb500a1c26bcce6e
+    - format: docx
+      name: document.docx
+      bytes: 154613
+      sha256: d2321f5aa0fc0491f518cc66483019b9f804ba85258305ab0fd43591155b20fb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kzv7if/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-31: Yalvin vs SCD(Who is the next?) | This is a sample document. My own character vs SCD. Which characte'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

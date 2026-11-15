@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: piotr-langer-jr-doc-chyka-langer-series
+category: doc
+title: Piotr Langer Jr. DOC ("Chyłka"+"Langer" series)
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  source: reddit-post
+series:
+- mrozoverse
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PhV4T4No4nIHyEKjO5J6nzO-wsMgr_EiOHBxTSKPtNc
+    google_id: 1PhV4T4No4nIHyEKjO5J6nzO-wsMgr_EiOHBxTSKPtNc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3175
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2165674
+      sha256: b376411e84c5f852d78816186dd7bc09c84277113a114996847285a2bbc112b8
+    - format: docx
+      name: document.docx
+      bytes: 1791592
+      sha256: 9faacebd6302c5d63d0bdf69a11d291399fc25c0c7755f9d99515e5ef82ba6f8
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xwsvxn/
+  note: 'Shared by u/Signal-Experience315 in a post on 2026-11-15: I''ve organised my Langer posts into a doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

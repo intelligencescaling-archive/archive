@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-apostolos-hannibal-analysis
+category: doc
+title: Debunking Apóstolos' Hannibal analysis
+authors:
+- name: Mister_MxyzptIk_
+  reddit: Mister_MxyzptIk_
+  source: reddit-post
+series:
+- hannibal
+characters: []
+tags:
+- debunk
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18s3toMxuaIP1A5SozSCV8awB8XKUd7r5SjLDSr2Q2h0
+    google_id: 18s3toMxuaIP1A5SozSCV8awB8XKUd7r5SjLDSr2Q2h0
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xwvvig/
+  note: 'Shared by u/Mister_MxyzptIk_ in a post on 2026-11-15: Debunking Apóstolos'' Hannibal analysis'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

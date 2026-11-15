@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pw-aa-antagonist-int-battle-outdated
+category: doc
+title: PW:AA Antagonist Int. Battle (OUTDATED)
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
+series:
+- ace-attorney
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ExX-MzfneI4PBUPhE_u6pSSQvBX_hSx_6cGSTyGgwRY
+    google_id: 1ExX-MzfneI4PBUPhE_u6pSSQvBX_hSx_6cGSTyGgwRY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 1126
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5404448
+      sha256: fd76f6cfbcfa7964b213b870c87e9e8913e84062806089b72160e255df1797c8
+    - format: docx
+      name: document.docx
+      bytes: 6096339
+      sha256: 57aa8743452a588d6146a4bbf2786fb895ea84eaec7447220dc074f705867b39
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1lon79c/
+  note: 'Shared by u/Due_Ad8334 in a post on 2025-06-30: Ace Attorney villain cat Distribution!'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldbergs-eq
+category: doc
+title: Joe Goldberg’s EQ
+authors:
+- name: j3llo192
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- feats
+- eq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17fE-P0m0KbG93htgoPbZFFxikTR8fmdE-Akg4aNZKTY
+    google_id: 17fE-P0m0KbG93htgoPbZFFxikTR8fmdE-Akg4aNZKTY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 1984
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 212886
+      sha256: 6efdceb6cd0b03c3d4fd8af0acab64b3285136af2730223504ec0bb7ce57443b
+    - format: docx
+      name: document.docx
+      bytes: 16093
+      sha256: 1dcc7d42dce6e8a3744320d15d332762ac238720259b4aae1178bd9321281b0e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1w9f34j/
+  note: 'Shared by u/Top-Arm-5459 in a post on 2026-09-07: Joe Goldberg EQ doc is here!!'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,250 @@
+The Trust Protocol: Detailed Rulebook
+________________
+
+Game Overview
+The Trust Protocol is a social deduction game combining strategy, trust-building, and betrayal. In this game, players are divided into two groups: Cooperators, who aim to complete a series of challenges, and Infiltrators, who secretly sabotage the group's efforts. Players must work together to complete objectives, but Infiltrators will work covertly to deceive and mislead the group. Multiple players can win if the mission is successful and the Infiltrators are identified and eliminated.
+________________
+
+Components:
+Roles:
+* Cooperators (Majority): The main group working together to complete tasks.
+
+* Infiltrators (Minority): Secret saboteurs aiming to undermine the group’s efforts.
+
+   * Objective: The goal is for the group to successfully complete a series of tasks, identify the Infiltrators, and either eliminate them or prevent them from sabotaging the mission. Multiple players can win depending on the group’s success.
+
+________________
+
+Setup
+      1. Assigning Roles:
+
+         * At the start of the game, each player is secretly assigned a role (Cooperator or Infiltrator) by the Game Master (GM).
+
+         * The number of Infiltrators depends on the total number of players.
+
+         * Cooperators are the majority group, and their goal is to work together to complete the tasks.
+
+         * Infiltrators are tasked with subtly sabotaging the tasks without being detected.
+
+            2. Moderator/GM:
+
+               * One person (or an impartial outside player) serves as the Game Master (GM). The GM is responsible for setting up the game, presenting tasks, managing votes, and keeping the game moving smoothly. In this case Me lol.
+
+                  3. Task Setup:
+
+                     * The GM prepares a series of tasks that players must complete. These tasks should be simple enough to require collaboration, but also open to strategic manipulation. Tasks can include riddles, math puzzles, logic challenges, or group decision-making tasks. The complexity of tasks can be adjusted depending on the group’s preferences.
+
+________________
+
+Game Phases
+The game consists of several phases that repeat until a set number of tasks are completed or the Infiltrators are exposed.
+1. Phase 1: Trust-Building
+Objective: Establish alliances, propose strategies, and start working together.
+                        * Players begin by discussing how they plan to approach the first task. This is a critical phase where players try to influence each other’s decisions. Cooperators should use this time to gain trust from others, while Infiltrators should try to create confusion or propose solutions that could lead to failure.
+
+                        * Key Actions in This Phase:
+
+                           * Players suggest strategies or solutions to the task.
+
+                           * Infiltrators try to sow doubt, propose counterproductive ideas, or act too “helpful” to gain trust.
+
+                           * Cooperators should look for inconsistencies or overly complex solutions that might not make sense.
+
+                              * After the discussion, players are ready to move on to the task, but they should remain cautious of any advice they receive.
+
+________________
+
+2. Phase 2: The Task
+Objective: Complete the task through collaboration, while being mindful of sabotage.
+                                 * The GM presents a task that requires the group to reach a consensus and solve the problem. The task might be one of the following:
+
+                                    * Riddles (e.g., “What comes once in a minute, twice in a moment, but never in a thousand years?”).
+
+                                    * Logic puzzles (e.g., "If A is taller than B, and B is taller than C, who is the shortest?").
+
+                                    * Group decision-making (e.g., deciding on a plan for a hypothetical situation).
+
+                                       * Infiltrators will attempt to sabotage the group by:
+
+                                          * Suggesting incorrect solutions.
+
+                                          * Delaying progress by overcomplicating the problem.
+
+                                          * Confusing others with irrelevant or misleading input.
+
+                                             * Cooperators must carefully evaluate everyone’s suggestions and work together to come up with the best possible solution.
+
+                                             * Once the group reaches a decision, everyone will submit their answers or final suggestions in the chat.
+
+                                             * The GM will reveal whether the task was successfully completed or failed. If the task is completed successfully, the group moves on to the next task. If the task fails, the group must reconsider their approach.
+
+________________
+
+3. Phase 3: Voting
+Objective: Identify potential Infiltrators through group suspicion and voting.
+                                                * After each task, players will vote on who they believe might be an Infiltrator. Voting occurs in the group chat.
+
+                                                   * Players can defend themselves or accuse others. If someone is suspected, the group can vote on whether to eliminate them from the game.
+
+                                                      * Voting Mechanics:
+
+                                                         * Each player votes by typing the name of the person they suspect. The player with the most votes is eliminated from the game.
+
+                                                         * The eliminated player reveals their role (Cooperator or Infiltrator) to the group.
+
+                                                            * If the group does not have a majority vote to eliminate anyone, the round continues without anyone being removed.
+
+________________
+
+4. Phase 4: Progress & Sabotage (Throughout the Game)
+Objective: Continue completing tasks while maintaining suspicion of potential sabotage.
+                                                               * The game continues with players working together to complete more tasks.
+
+                                                                  * Cooperators should focus on ensuring the tasks are completed successfully and pay attention to anyone who seems to be hindering progress.
+
+                                                                  * Infiltrators may continue to mislead the group, try to create confusion, or even accuse other players to deflect suspicion.
+
+                                                                     * If a task is sabotaged, players should discuss and evaluate who might be trying to derail the group’s progress.
+
+________________
+
+5. Endgame
+Objective: Complete the mission or eliminate all Infiltrators.
+                                                                        * The game reaches its final stages after several tasks (typically 3–5). Players should have gathered enough information to make their final move.
+
+                                                                        * Players vote on whether they believe the mission is complete or if sabotage has been successful.
+
+                                                                           * If the group has successfully completed enough tasks (as determined by the GM), and Infiltrators have been identified and eliminated, Cooperators win.
+
+                                                                           * If Infiltrators have successfully sabotaged enough tasks or remain undetected, Infiltrators win.
+
+________________
+
+Victory Conditions
+                                                                              * Cooperators Win:
+
+                                                                                 * The group successfully completes the mission by solving enough tasks.
+
+                                                                                 * The Infiltrators are identified and eliminated through voting.
+
+                                                                                    * Infiltrators Win:
+
+                                                                                       * The Infiltrators successfully sabotage the group’s progress without being detected.
+
+                                                                                       * If the group fails to identify the Infiltrators and the task completion rate is too low, the Infiltrators win.
+
+                                                                                          * Multiple Winners:
+
+                                                                                             * If Cooperators succeed in completing the tasks but Infiltrators are undetected, Infiltrators may win as well if they’ve managed to manipulate the group and stay hidden.
+
+________________
+
+Additional Rules
+                                                                                                1. Sabotage and Sabotage Actions:
+
+                                                                                                   * Infiltrators can subtly sabotage the group’s efforts by:
+
+                                                                                                      * Offering misleading solutions to tasks.
+
+                                                                                                      * Suggesting overly complex strategies that waste time.
+
+                                                                                                      * Questioning others’ answers without valid reasoning.
+
+                                                                                                      * Manipulating the group into voting out the wrong people.
+
+                                                                                                         2. Task Complexity:
+
+                                                                                                            * The GM may increase or decrease the difficulty of tasks based on the group’s progress. If tasks are solved too quickly, the GM can add new layers of complexity, or if the group is struggling, they can present easier challenges.
+
+                                                                                                               3. Voting and Elimination:
+
+                                                                                                                  * When voting, players can either accuse someone or defend themselves. Accusations are allowed based on player behavior, but making false accusations may damage trust.
+
+                                                                                                                     4. Voting Ties:
+
+                                                                                                                        * In the event of a tie vote, the GM will ask the group to re-vote or decide which player to eliminate. Alternatively, the GM can opt to keep both players in the game if the decision remains unresolved.
+
+                                                                                                                           5. Trust and Deception:
+
+                                                                                                                              * Players need to build trust but also remain aware that Infiltrators will do everything they can to sow distrust and confusion. Psychological warfare is a key part of the game.
+
+________________
+
+Strategies
+Cooperators:
+                                                                                                                                 * Work together to build consensus and share information openly.
+
+                                                                                                                                 * Be vigilant about players who repeatedly give incorrect or overly complicated solutions.
+
+                                                                                                                                 * Don’t trust too easily—verify the solutions suggested by others before committing.
+
+                                                                                                                                 * Use logical reasoning and group discussions to outsmart Infiltrators.
+
+Infiltrators:
+                                                                                                                                    * Try to create doubt among Cooperators by planting false ideas.
+
+                                                                                                                                    * Stay hidden by acting like a helpful member of the group.
+
+                                                                                                                                    * Manipulate voting by accusing others to deflect attention from yourself.
+
+                                                                                                                                    * Be subtle with sabotage; too much misdirection can make you too obvious.
+
+________________
+
+Game Master Tips
+                                                                                                                                       * As the GM, your role is to ensure the game runs smoothly, facilitate the tasks, and maintain fairness.
+
+                                                                                                                                       * Keep tasks balanced so they aren’t too easy or too difficult.
+
+                                                                                                                                       * Watch for players who over-talk or try to dominate conversations, as they may be attempting to manipulate others.
+
+                                                                                                                                       * Provide hints or guidance if the group seems stuck, but don’t directly interfere in the game’s outcome.
+
+📌 What Happens When Players Give the Wrong Answer to a Task:
+                                                                                                                                          * If the group submits an incorrect answer collectively:
+
+                                                                                                                                             * The task is marked as FAILED.
+
+                                                                                                                                             * The GM announces: “The task has failed.”
+
+                                                                                                                                             * The group immediately moves to the Voting Phase to discuss suspicions and potentially eliminate someone.
+
+                                                                                                                                             * If the number of failed tasks reaches a loss threshold (say, 3 out of 5) — the Infiltrators automatically win.
+
+________________
+
+📌 Consequences of a Failed Task:
+                                                                                                                                                1. Psychological Impact:
+
+                                                                                                                                                   * It creates tension and fuels suspicion.
+
+                                                                                                                                                   * Players begin to question who might’ve sabotaged the solution.
+
+                                                                                                                                                      2. Strategic Impact:
+
+                                                                                                                                                         * Infiltrators get closer to their win condition by increasing the task failure count.
+
+                                                                                                                                                         * Cooperators have fewer chances left to succeed.
+
+                                                                                                                                                            3. Optional Rule (if you want it tougher):
+
+                                                                                                                                                               * Penalty Vote: In case of a failed task, the GM can impose a compulsory vote where someone must be eliminated (forcing players to take risks and test alliances).
+
+                                                                                                                                                                  4. Trust Damage:
+
+                                                                                                                                                                     * Failed tasks force players to scrutinize those who were most vocal or who pushed specific solutions.
+
+________________
+
+📌 Partial Failures (Optional Variant Rule):
+                                                                                                                                                                        * If a task involves multiple parts (like a multi-question puzzle) and some answers are right while others are wrong:
+
+                                                                                                                                                                           * GM can either:
+
+                                                                                                                                                                              * Announce which parts failed without revealing who submitted them.
+
+                                                                                                                                                                              * Or simply declare a partial success, but only full success counts toward victory.
+
+________________
+
+This detailed rulebook ensures that The Trust Protocol is a thrilling game of strategy, trust, and social manipulation, providing an intense and enjoyable experience for all players. Enjoy!

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explanation-why-akiyama-s-circuit-deception-is-a-good-nps
+category: doc
+title: Explanation why Akiyama's circuit Deception is a good NPS feat
+authors:
+- name: ResponseLower49
+  source: doc-text
+- name: Mob5850
+  source: doc-text
+series:
+- liar-game
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WC7tVNmoOTnWCvqOoid-mXj2tSWeh8RbeNrM6Q7E_dM
+    google_id: 1WC7tVNmoOTnWCvqOoid-mXj2tSWeh8RbeNrM6Q7E_dM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 1785
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3591183
+      sha256: a0421be92c75449498e9a58c47d514aefe3c981ceb9ac1f3df1ae2d295793e16
+    - format: docx
+      name: document.docx
+      bytes: 4179579
+      sha256: a75f9247578a21bf3344e58054599c1ce163c92751ff682a8780dd7bd7297e6a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wvujb9/
+  note: 'Shared by u/ResponseLower49 in a post on 2026-10-02: Explainng why Akiyama''s circuit deception is a great NPS feat'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

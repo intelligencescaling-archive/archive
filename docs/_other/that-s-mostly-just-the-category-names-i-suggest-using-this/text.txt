@@ -1,0 +1,503 @@
+All SCD Scaling Categories And Definitions Doc
+
+This document will cover all categories involved in SCD or at least as much as possible. Some definitions may vary depending on the individual so some may be incorrect for some people and correct for others.
+
+You can also just use the scroll bar if you implement this into docs to skip to a specific category.
+
+Created by Lawlietfym on Discord (If Relevant).
+
+CATEGORIES:
+IN ORDER
+Red - FSIQ
+Orange - FSEQ
+Yellow - FSSQ
+Green - FSAQ
+Cyan - Miscellaneous
+Blue - Manipulation
+Dark Blue - Deception
+Purple - Psychology
+Pink - Intelligence
+Light Green - Strategy
+Light Red - Planning
+Light Purple - Thinking
+Light Yellow - Reasoning
+Light Blue - Foresight
+Light Pink - Traps
+FSIQ Categories:
+
+VCI (Verbal Comprehension Index) - The ability to communicate through words and utilize language effectively. (Yes it can be different languages)
+
+VSI (Visual Spatial Index) - The ability to evaluate concepts, comprehend and manipulate visual/spatial relations/shapes.
+
+PSI (Processing Speed Index) - The ability to accurately and quickly identify visual information/objects, and the speed of mental processing.
+
+WMI (Working Memory Index) - The ability to consume, process and manipulate visual information, typically to solve problems.
+
+PRI (Perceptual Reasoning Index) - The ability to consume visual information, organize it, and interpret it to solve problems at task.
+
+CPI (Cognitive Proficiency Index) - The combination of various cognitive functions, including WMI, PSI, PRI. The ability to be proficient at the Index’s mentioned.
+
+FRI (Fluid Reasoning Index) - The ability to detect underlying conceptual relationships visually, think abstractly and use reasoning to solve novel problems.
+
+RCI (Reading Comprehension Index) - The ability to comprehend and interpret words after reading and answer questions.
+
+TRI (Total Reading Index) - The ability to comprehend and identify written or visual information effectively.
+
+NVI (Non Verbal Index) - The ability to reason non-verbally, comprehend spatial information and mental processing.
+
+QRI (Quantitative Reasoning Index) - The ability to solve problems involving numerical reasoning and quantitative reasoning skills.
+
+GAI (General Ability Index) - The combination of various cognitive abilities, excluding working memory and processing speed.
+
+AWMI (Arithmetic Working Memory Index) - The ability to calculate and perform mental arithmetic tasks while retaining information stored within memory.
+FSEQ Categories:
+
+EQM/EM (Emotional Management) - The ability to maintain your emotional state accurately as previously before, regarding a situation at hand.
+
+EQE/EE (Emotional Engagement) - The ability to engage your emotions regarding the current situation to achieve cognitive tasks.
+
+EQU/EU (Emotional Understanding) - The ability to comprehend complex emotions beyond the facial surface and body language of an individual, typically used to predict an individual or group's actions possibly by creating a profile.
+
+EQP/EP (Emotional Perception) - The ability to perceive emotions in others through facial expression, body language, voices, pictures and reasoning.
+
+EQF/EF (Emotional Facilitation) - The ability to detect and utilize the emotional impact one possesses on others, and to manage their emotional state accordingly.
+
+EQR/ER (Emotional Realization) - The ability to detect, recognize and comprehend the emotional and cognitive setbacks in one’s self and others.
+
+EQA/EA (Emotional Awareness) - The ability to recognize, comprehend, and be aware of the current emotions of others or one’s self.
+FSSQ Categories:
+
+Social Skills - The ability to effectively communicate with others or groups.
+
+Social Awareness - The ability to empathize with others and/or, being aware of your surroundings when in social settings.
+
+Empathy - The ability to sense others emotions and to sense what others could be feeling or thinking.
+
+Social Intuition - The ability to intuitively identify something behavioral and non-verbal with others and in a social setting.
+
+Resource Management - The ability to accurately manage and maintain necessary resources.
+
+Social Cognition - The ability to think about and interpret one’s self, others, and the social world.
+
+Leadership - The ability to lead a group of individuals (typically more than 5) and influence others while demonstrating exceptional social ability.
+
+Relationship Management - The ability to manage and maintain relationships socially for a period of time.
+
+Influence - The ability to control or persuade individuals or groups to engage in a decision or activity.
+
+Self Awareness - The ability to understand your own emotions, desires, perception and have self knowledge.
+
+Social Integration - The ability to effectively create friendships in a new environment.
+
+Influence Building - The ability to create and increase influence efficiently.
+
+Social Engineering - The ability to regulate the future development and behavior of a society.
+
+Self Management - The ability to manage one’s own actions and behavior within public spaces and be socially adaptable.
+
+Self Regulation - The ability to regulate emotions, behavior, and actions within public space, etc.
+
+Self Regard - The ability to take into consideration of one’s self once provided an opportunity.
+
+Charisma - The ability to be extremely approachable and charming.
+
+Aura - The sense of feeling when around one’s self or others.
+
+Cunning - The ability to show and have skill to achieve one’s ends by deceit or evasion.
+FSAQ Categories:
+
+Composure - The ability to maintain focus or when in a stressful situation.
+
+Determination - The ability to achieve a desired goal regardless of potential setbacks.
+
+Impulse Control/Management - The ability to maintain control of emotions and temptations within the face of a situation.
+
+Cognitive Discipline - The ability to regulate thoughts, emotions, focus and apply mental strategies to navigate incoming tasks effectively.
+
+Perseverance - The ability to be persistent when achieving a goal regardless of potential difficulties, challenges or delays.
+
+Stress Tolerance - The ability to manage, regulate and withstand stress levels in a stressful situation effectively.
+
+Mental Fortitude - The ability of the mind to endure circumstances, remain unsettled when faced with difficulties and recover from setbacks.
+Miscellaneous Categories:
+
+Perception - The ability to see, hear, smell, touch, taste and become knowledgeable on something through one of the five senses.
+
+Knowledge -  The ability to comprehend and maintain information on various subjects, concepts, topics, fields and general knowledge throughout life.
+
+Methods - The act of using a certain procedure to accomplish a specific objective.
+
+Deduction - The process where the conclusion logically follows the premise available, therefore the premise cannot be true and the conclusion cannot be false. Essentially, the conclusion has to be correct.
+
+Academics - The ability to learn information within an institution such as school or college.
+
+Improvisation - The process of creating or executing something not entirely planned beforehand, with anything that can be discovered.
+
+Induction - The process of arriving at a conclusion based on a set of observations, typically containing general information and have the potential to be incorrect.
+
+Abduction - The ability to conclude the most probable assumption based on available facts, objects, information.
+
+Intuition - The ability to unconsciously perceive something as either right or wrong without any conscious thought or reasoning.
+
+Problem Solving - The ability to solve issues that arise unexpectedly/randomly.
+
+Pattern Recognition - The ability to identify and discern information that arises using previous experience.
+
+Learning Ability - The ability to learn and adapt to new concepts, ideas and topics quickly.
+
+Memory - The ability to retain information after an extensive period of time or extremely recently.
+
+Connecting The Dots - The ability of using previously learned information and discovering correlations between them.
+
+Decision Making - The ability to make effective decisions that will benefit one’s self.
+
+Seeing Through People - The ability to not get deceived by an individual or group.
+
+Observation - The ability to examine information or objects to identify a specific thing, while retaining the presented information mentally.
+
+Adaptability - The ability to adjust to unexpected conditions.
+
+Mind Reading - The ability to identify what others might be thinking without requiring verbal communication.
+
+Experience -  Having past knowledge of a certain event or situation.
+
+Improvising - The ability to utilize whatever can be currently found and to effectively use it, without it being planned previously.
+
+Analysis - The ability to comprehend and inspect events, objects, or information to gain insight.
+
+Information Gathering - The ability to gather information on a specific topic, subject, concept by using various sources.
+
+Multi Tasking - The ability to maintain and operate at least two tasks simultaneously.
+
+Creativity - The ability to create something unique, typically created mentally with conscious thought.
+Manipulation Categories:
+
+Direct Manipulation - The means of using direct methods to manipulate an individual, typically verbal.
+
+Indirect Manipulation - The act of manipulating an individual indirectly, typically done by using fake information, rumors, or communication done by a third party.
+
+Mass Manipulation - The act of manipulating an extensive amount of people, typically more than five.
+
+Emotional Manipulation - The act of controlling an individual’s emotional state to get what you require, likely done by verbal communication or threats.
+
+Logical Manipulation - The act of manipulating, influencing, and controlling the actions of others to gain a specific outcome on the basis of logic.
+
+Verbal Manipulation - The act of manipulating an individual or group through verbal communication or verbal abuse.
+
+Individual Manipulation - The act of manipulating only one individual, typically consisting of persuasion.
+
+Event Manipulation - The act of using past, present or future events to gain advantage or control.
+
+Suicide Inducement - The act of manipulating an individual’s emotional state and the way they perceive reality into suicide.
+
+Psychological Manipulation - The act of controlling an individual’s behavior or perception of others through intimidation and abuse.
+
+Social Manipulation - The act of manipulating an individual or group by using a deceiving personality or verbal means to gain advantage or to benefit one’s self.
+Deception Categories:
+
+Misdirection- The act of creating misleading information or falsifying information to provide the victim an incorrect conclusion to gain advantage or to benefit one’s self.
+
+Fabrication - The act of creating falsehood information and providing it to a group of people or an individual to achieve one’s goal.
+
+Verbal Deception - The act of deceiving a group of people or an individual by using verbal speech.
+
+Non Verbal Deception - The act of deceiving an individual or group through body language and facial expressions.
+
+Mass Deception - The ability to deceive or trick a group or business, typically larger than five people.
+
+Acting Skills - The ability to act and use body language to deceive others while benefiting one’s self.
+
+Bluffing - The act of pretending to possess something you don’t have and pretending to have superiority.
+
+Strategic Deception - The ability to deceive people related to a strategy one created
+
+Black Mail - The act of using something private or powerful to a group or an individual to gain advantage.
+
+Gaslighting - The act of making an individual or group question their beliefs, reality and themselves by denying reality and making them rethink themselves.
+
+Guilt Tripping - The act of accusing others of being responsible for something you did to benefit one’s self.
+
+Threats - The act of forcing an individual or group to do something that will result in consequences if not completed.
+
+Fear Inducement -  The act of inflicting fear into an individual or group typically done by verbal means or emotional manipulation.
+
+Love Bombing - The act of making an individual feel special and gaining attention by providing them gifts, clothes, and then executing the same thing on another individual so they no longer feel special.
+
+Negotiation - The act of verbally agreeing to benefit one’s self despite it being non profitable for the other individual.
+
+Concealment - The act of hiding information or creating something false in a way of concealing something valuable.
+
+Information Control - The act of using previously discovered information to gain advantage and to keep information being controlled.
+
+Persuasion - The ability to influence someone’s decisions to benefit one’s self.
+
+Extortion - The act of using threats and intimidation to force the victim into complying with one’s self.
+
+Insanity Inducement - The ability to control an individual’s emotional state and mental state extensively until insanity.
+
+Smearing - The act of destroying an individual’s reputation by utilizing false information.
+
+Seduction - The act of using sexual touch or methods verbally or physically to manipulate the individual or to benefit one’s self.
+
+Triangulation - The act of introducing a third party into two individuals to create tension or jealousy, which leads one individual to be dependent on one’s self (You).
+
+Unpredictability - The act of being the opposite of predictable due to irregular or unexpected thoughts, behavior and actions.
+
+Moving The Goalposts - The act of changing a goal at random to prevent others from succeeding.
+
+Scapegoating - The ability to blame, put responsibility on a particular individual or group to devote attention away from the actual issues.
+
+Disguise - The ability to create a fake persona or identity to mislead others and benefit one’s self.
+
+Sophistry - The ability to use intelligent but incorrect arguments to deceive an individual or group, typically involving the individual or group to not be aware.
+
+Brainwashing - The ability to mislead or falsify an individual or group’s beliefs and reality to control them mentally.
+Psychology Categories:
+
+Psychological Insight - The ability to comprehend an individual’s motivations, thoughts and behavior.
+
+Psychological Analysis - The ability to analyze and interpret the behaviors of individual’s and groups we come in contact with.
+
+Psychological Warfare - The ability to execute propaganda and influence the opinions, behaviors, and emotions of opposition groups or individual’s.
+
+Hot Reading - The ability to use prior knowledge obtained by verbal communication or research of an individual or group, and to potentially use that information to predict the future outcomes of the individual or what they are thinking.
+
+Cold Reading - The ability to gain insight on an individual without means of verbal communication, typically gathered and obtained by observation on age, gender, clothes, hairstyle, fashion, religion, and body language.
+
+Psychological Profiling - The ability of constructing a comprehensive and accurate description and analysis of an individual to determine their capabilities, thoughts, and behavior.
+Intelligence Categories:
+
+Crystallized Intelligence - The ability to understand and interpret general knowledge, vocabulary, and reasoning based on acquired knowledge.
+
+Fluid Intelligence - The ability to solve novel problems or situations based on logic and reasoning, typically involving abstract thinking however it’s not completely a requirement.
+
+Bodily Kinesthetic Intelligence - The ability to understand one’s body and utilize it to learn physical skills, or execute previously learned skills.
+
+Linguistic Intelligence - The ability to communicate with others effectively, and use previously learned language to express thoughts.
+
+Naturalistic Intelligence - The ability to identify, classify and comprehend elements of the world, environment and nature.
+
+Existential Intelligence - The ability to comprehend and interpret questions of life, such as the meaning of life, and the ability to interpret philosophical topics.
+
+Logical Mathematical Intelligence - The ability to solve novel problems, analyze information, conduct experiments and solve mathematical operations.
+
+Musical Intelligence - The ability to perceive, and interpret musical instruments and produce musical sounds such as rhythm, lyrics, and beat.
+
+Interpersonal Intelligence - The ability to effectively interact with others, and to empathize and understand emotions.
+
+Intrapersonal Intelligence - The ability to perceive, identify, comprehend one’s own emotions, feelings, motivations, goals and thoughts.
+
+Visual Spatial Intelligence - The ability to comprehend, manipulate, maintain and recall visual information and effectively visualize objects in a dimensional space.
+
+Spatial Intelligence - The ability to correctly perceive and consume insight from visual data.
+
+Practical Intelligence - The ability to adapt, pursue and manage new environments to achieve specific valuable goals while maintaining these demands.
+
+Creative Intelligence - The ability to invent and create new concepts or ideas to solve problems or reach a conclusion.
+
+Analytical Intelligence - The ability to compare, evaluate and make a logical judgment for a specific task, and can include academic tasks.
+
+Social Intelligence - The ability to maintain, control and manage interpersonal relationships within society.
+Strategy Categories:
+
+Strategy - Can include multiple tactics that can be combined into one strategy and/or steps taken to achieve a specific goal but requires active critical thinking and decision making.
+
+Strategy Fortitude - Strategy Fortitude is measured by the ability to succeed, it also focuses on the tactics the character implements into the strategy and to maximize its resilience and shielding. To comprehend this more accurately ask yourself this one question. Is the character’s strategy LIKELY to succeed?
+
+Strategy Building - Strategy Building measures the ability to construct and create a coherent scheme while navigating limitations and setbacks they encounter.
+
+Strategy Logistics - Strategy Logistics measures the ability to ensure everything revolving around execution, alignment and active/efficient resource management. It also measures how well the characters manipulate and orchestrate the field around them by bringing their strategy to life.
+
+Strategy Orchestration -  Strategy Orchestration measures the ability to manipulate the field in which the strategy is applicable to control all of the elements within it.
+
+Short Term Strategy - A Strategy that lasts a relatively short period of time, could last potentially a few days or weeks.
+
+Long Term Strategy - A Strategy that lasts an extensive period of time, could potentially be a year, or a few months.
+
+Strategy Complexity - Strategy Complexity measures the quality incorporation of additional layers, and overlaps of tactics within a strategy to increase the difficulty to decipher and counter it. Or in simple terms, the amount of layers within a strategy for it to be increasingly more tough to counter.
+
+Strategy Adaptability - Strategy Adaptability measures the characters ability to leave remaining space within a strategy to adjust to unforeseen and unfavorable situations.
+
+Strategy Vision - The aim and long term objectives of a strategy.
+
+Strategy Efficiency - Strategy Efficiency measures the ability to execute the strategy and achieve the characters goals with the minimum amount of resources and time sacrificed when the situation requires it.
+
+Strategy Effectiveness - Strategy Effectiveness focuses on the end result of the strategy and considers how accurate the strategy was in achieving the desired outcome.
+
+Don’t confuse Strategy Effectiveness and Efficiency:
+
+) Effectiveness: Executing and covering the RIGHT things. And also looks at the RESULT.
+) Efficiency: Executing and managing THINGS right. And also looks at the PROCESS.
+
+Strategy Execution - Strategy Execution focuses purely on tactical implementation and how well the characters thoughts translate into actions, and the deployment of the strategy and the means and process of achieving their goal.
+
+Strategy Resilience - Strategy Resilience is measured by how well the character's strategy can withstand resistances, regardless of attempted action.
+
+Strategy Control - Strategy Control is measured by the characters ability to remain in control regardless of setbacks and to adapt to novel situations.
+
+Strategy Length - Strategy Length measures the complete length of the character’s strategy once executed.
+
+Strategy Shielding - Strategy Shielding is measured by how well the character can handle and cover for any flaws or discrepancies in their strategy that could potentially cause it to fail. It also involves countering any action taken by the opposition instead of ignoring it.
+
+Don’t confuse Strategy Shielding and Resilience:
+
+) Resilience: Focuses on WITHSTANDING resistances and IGNORES attempted action.
+) Shielding: Focuses on COVERING resistances and focusing on COUNTERING attempted action.
+
+Strategy Foresight - Strategy Foresight is measured by how far ahead the character has planned out their strategy and foreseeing possibilities and actions the opposition could potentially do.
+
+Strategy Alignment - Strategy Alignment is measured by how well the character can make elements and components of the strategy align with each other to create a Linear Strategy.
+
+Tactical Complexity - Tactical Complexity is measured by the amount of layers and tactical overlap within the character’s strategy, it can make their strategy increasingly more difficult and complex to see through and comprehend.
+
+If you require a more in-depth analysis on strategy then check out Ace’s New Strategy Doc and Loy’s Guide To Strategy Doc.
+
+Planning Categories:
+
+Planning - Can include multiple strategies or tactics created at different period of time compiled into one coherent plan and/or fully planned and mapped out beforehand and does not require active critical thinking and decision making.
+
+Short Term Planning - A plan that lasts a relatively short period of time, typically a few weeks or days.
+
+Long Term Planning - A plan that lasts an extensive period of time, typically a few months or years.
+
+Planning Intricacies - Planning Intricacies is measured by how well the character can create a complex plan and how many layers it includes.
+
+Planning Aim - Planning Aim is measured by how accurately the character can achieve the goal of their plan and solve problems that contribute to their goal.
+
+Planning Process - Planning Process is measured by how well the character can solve problems they encounter within a plan and to organize the plan accordingly.
+
+Planning Preparation Process - Planning Preparation Process is measured by how well the character can logically align different tactics over the course of the plan’s lifespan.
+
+Planning Formulation - Planning Formulation is the ability to create a coherent and comprehensive plan within a relatively short period of time.
+
+Planning Coverage - Planning Coverage is measured by how well a character can take into consideration various aspects when developing a plan, this can include things like potential hazards, variables and outcomes. As well as ensuring maximizing succession of the plan.
+
+Planning Versatility - Planning Versatility is measured by being versatile with objects, information, resources, or the character throughout the course of the plan.
+
+Planning Risk Calculation - Planning Risk Calculation is measured by the character’s ability to evaluate and organize different or unique choices when presenting with a more challenging situation.
+
+Planning Contingency - Planning Contingency is measured by the character’s ability to create other plans or backup plans for future events that could occur for a more predictable outcome and/or to gain security or insight just incase of a discrepancy.
+
+Tactics (Can be included with planning sometimes so I’ll include it here) - The ability to create short term objectives and are usually straightforward, typically located within a plan.
+
+Planning Invincibility - Planning Invincibility is the ability to construct a plan with as few loopholes as possible and being able to consider unexpected possibilities.
+
+Planning Accuracy - Planning Accuracy is the ability to determine if all components of the plan connect correctly and the details being considered.
+Thinking Categories:
+
+Associative Thinking - The ability to connect and interpret seemingly unrelated information, concepts, and ideas, to form a coherent thought.
+
+Reflective Thinking - The ability to reflect on one’s thoughts, feelings, experiences, emotions and actions for why it occurred, how it did etc, to potentially support one’s self in the future.
+
+Linear Thinking - The ability to think in a systematic manner that follows a similar pattern to a straight line, a step by step process.
+
+Non Linear Thinking - The ability to create connections accurately between unrelated information, concepts and ideas and/or not following a straight step by step process of thinking.
+
+Concrete Thinking - The ability to focus on facts and information on the present moment, typically involving the five senses.
+
+Diffuse Thinking - The ability to allow one’s thoughts to wonder and explore without necessary thought.
+
+Focused Thinking - The ability to concentrate on tasks or problems requiring active consciousness and focus.
+
+Analytical Thinking - The ability to comprehend and examine visual information and discern patterns within it to solve a problem at hand.
+
+Divergent Thinking - The ability to create and generate as many ideas or solutions to a problem as possible.
+
+Convergent Thinking - The ability to select a specific conclusion and maintain it for further development.
+
+Vertical Thinking - The ability to solve problems by using a selective, analytical and sequential approach.
+
+Horizontal Thinking - The ability to investigate problems widely and not deeply, typically involving creative solutions.
+
+Critical Thinking - The ability to create a judgment based on what you hear, see, write, read, after analyzing, interpreting and evaluating information.
+
+Lateral Thinking - The ability to solve problems using an indirect or creative approach that may not be immediately apparent.
+
+Fast Thinking - The ability to effectively and quickly process and comprehend solutions to problems.
+
+Conventional Thinking - The ability to apply existing, proven ideas and methods to solve a problem.
+
+Creative Thinking - The ability to generate newly created ideas or concepts mentally.
+
+Holistic Thinking - The ability to see the full clear picture of a situation and the interconnections between different aspects of a problem or situation.
+
+Abstract Thinking - The ability to think about ideas, concepts, and principles that are not tied to reality and to comprehend complex concepts that may not possess a physical representation.
+
+Conceptual Thinking - The ability to connect abstract concepts or ideas and analyze theoretical situations to compile insight.
+
+Systematic Thinking - The ability to break down complex ideas and information into manageable steps.
+
+Connective Thinking - The ability to connect knowledge, expertise and experiences to solve problems or achieve a goal.
+
+Application Thinking - The ability to utilize information previously acquired once encountering a new situation or problem.
+
+Cognitive Thinking - The ability to think, read, learn and retain information and interpret it into knowledge.
+
+Synthetic Thinking - The ability to generate new perspectives, ideas and solutions by combining or recombining acquired knowledge or elements in novel ways.
+
+Pragmatic Thinking - The ability to deal with problems or issues in a practical way.
+
+Intuitive Thinking - The ability to go off of one’s first instinct and reach conclusions quickly with cognitive processes.
+
+Strategic Thinking - The ability to intentionally focus on the analysis of critical factors that will support the long term success of an individual, group or business.
+
+Focused Thinking - The ability to stay engaged in a concept or topic and comprehend the information provided.
+
+Analogical Thinking - The ability to utilize previously learned information from one aspect and use it to help solve a problem in another aspect.
+
+Decompositional Thinking - The ability to minimize complex problems components into more manageable and comprehensive parts.
+
+Distillation - The ability to extract specific and essential elements or components of something, typically information or ideas.
+
+Metacognition - The ability to monitor, assess and plan one’s own understanding and performance of their own thinking.
+Reasoning Categories:
+
+Verbal Reasoning - The ability to comprehend and interpret reasoning within concepts framed in words.
+
+Probabilistic Reasoning - The ability to create an assumption on the probability of an event or situation occurring.
+
+Logical Reasoning - The ability to utilize a set of facts or observations to determine other facts by using logic.
+
+Illogical Reasoning - The ability to conclude a statement which is likely invalid and in an illogical way.
+
+Analogical Reasoning - The ability to take one situation or event to comprehend another situation or event and to draw a conclusion by comparing them.
+
+Deductive Reasoning - The ability to utilize general premises to form a specific, logical conclusion that cannot be incorrect if the premises are true.
+
+Inductive Reasoning - The ability to form a general conclusion logically based on specific premises.
+
+Abductive Reasoning - The ability to utilize an incomplete set of observations or facts to reach the most accurate conclusion.
+
+Numerical Reasoning - The ability to comprehend and manipulate numerical data and information to solve problems.
+
+Perceptual Reasoning - The ability to examine a problem and utilize visual spatial skills, organize their thoughts, create solutions logically and experiment with them.
+
+Causal Reasoning - The ability to comprehend cause and effect relationships between variables, situations and events.
+
+Decompositional Reasoning - The ability to reason through simplifying complex problems into more manageable parts.
+
+Systematic Reasoning - The ability to integrate reasoning with conclusions, judgments or assumptions.
+
+Cognitive Reasoning - The ability to comprehend and analyze information by constructing it into a logical structure of minimal steps.
+
+Conceptual Reasoning - The ability to execute reasoning based on a specific concept created by something or someone.
+
+Abstract Reasoning - The ability to examine information, detect relationships and patterns,  and solve problems on a complex level and/or formulate theories.
+
+Cause And Effect Reasoning - The ability to utilize reasoning as to why and how something occurred and the cause and effect of the operation.
+
+Visual Reasoning - The ability to mentally manipulate and construct an image of an object or shape to form a conclusion or judgment.
+
+Non Verbal Reasoning - The ability to solve problems involving pictures, objects or diagrams and analyze visual information using reasoning.
+Foresight Categories:
+
+Prediction - The ability to predict a future event or situation with only one possibility and not including more.
+
+Anticipation - The ability to predict all possible outcomes of an event or situation and to guarantee an outcome.
+Traps Categories:
+
+Setting Traps - The ability to construct a situation for an individual or group so they cannot escape easily, typically using false information or to benefit one’s self.
+
+Trap Evasion - The ability to dodge traps set by an individual or groups.
+
+I purposely missed categories that I believe are completely irrelevant, obviously some categories available here are entirely optional besides the main ones.

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: no-man-s-land-chapter-1-3d-chess
+category: story
+title: No Man's Land – Chapter 1 – 3D Chess
+authors:
+- name: Whanks
+  source: doc-text
+- name: RCN
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1eb_lEnO6-vbUnqsmAIwC6V1zeeXf7UTTv94_Dvd2hQ8
+    google_id: 1eb_lEnO6-vbUnqsmAIwC6V1zeeXf7UTTv94_Dvd2hQ8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 7140
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3801553
+      sha256: 532d75406ce332d0712c902f73ff1cf8a72c5707ef3d1f79ac587ce746bbe037
+    - format: docx
+      name: document.docx
+      bytes: 3277382
+      sha256: 370c2cedc86cfa4ac13aae3b40b613b6bd58349b5e08c8b3896b68b9598755e8
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wk7hrv/
+  note: 'Shared by u/IAmNotBatman132 in a post on 2026-09-19: No Man''s Land – Chapter 1 – 3D Chess'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

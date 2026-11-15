@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: time-scale
+category: doc
+title: TIME SCALE
+authors:
+- name: Successful_Cup_3948
+  reddit: Successful_Cup_3948
+  source: reddit-post
+series:
+- death-note
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1e65FFB1uYi4gpjHK3dfHmvU6CIl43vNv0MTdXPbPbBs
+    google_id: 1e65FFB1uYi4gpjHK3dfHmvU6CIl43vNv0MTdXPbPbBs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 5189
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7949876
+      sha256: ad66632cbaa18fd98d3086af455517e384b445a1c33043495d8ce0976ee2a0b0
+    - format: docx
+      name: document.docx
+      bytes: 7096118
+      sha256: ecb0fbb224fae4b777880be086c1d845a7fdddb3b3bda40fdd13d632adf6647f
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1prvncl/
+  note: 'Shared by u/Successful_Cup_3948 in a post on 2025-12-21: (new scaler) I Made a response document to u/ MrDisintegrator''s Light memory debunk post'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

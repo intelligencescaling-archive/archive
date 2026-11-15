@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-copy-of-the-comp-human-doc-that-can-be-edited-again
+category: doc
+title: A copy of the comp human doc that can be edited again
+authors:
+- name: Greentoaststone
+  reddit: Greentoaststone
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WtCbWzuZxysUGwv5DwXCWAmJRan1u2aPT3Cy3v5E40o
+    google_id: 1WtCbWzuZxysUGwv5DwXCWAmJRan1u2aPT3Cy3v5E40o
+  capture:
+    status: partial
+    date: '2025-02-26'
+    words: 113027
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250226133954/https://docs.google.com/document/d/1WtCbWzuZxysUGwv5DwXCWAmJRan1u2aPT3Cy3v5E40o/edit
+  note: Snapshot from 2025-02-26
+- type: reddit-post
+  url: https://www.reddit.com/comments/1hurob2/
+  note: 'Shared by u/Greentoaststone in a post on 2025-01-06: A copy of the comp human doc that can be edited again'
+added: '2026-11-15'
+notes: 'The owner made the original private, so this text was recovered from a Wayback Machine snapshot taken 2025-02-26. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

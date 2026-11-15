@@ -5,6 +5,9 @@
 - id: administrator
   name: Administrator
   series: counter-side
+- id: adolf-hitler
+  name: Adolf Hitler
+  series: real-life
 - id: ai-magase
   name: Ai Magase
   series: null

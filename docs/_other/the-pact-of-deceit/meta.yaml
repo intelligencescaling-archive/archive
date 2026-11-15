@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-pact-of-deceit
+category: doc
+title: The Pact of Deceit
+authors:
+- name: EnvironmentNo6525
+  reddit: EnvironmentNo6525
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17QOJTcIMl4dRyzglVS6XgTGlSUsk7YsFwOkRxdyf-EI
+    google_id: 17QOJTcIMl4dRyzglVS6XgTGlSUsk7YsFwOkRxdyf-EI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 750
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 123094
+      sha256: 950ae8464a29f9a6accb5d156d9741d4cb130604408f55c91d047648d0bb6299
+    - format: docx
+      name: document.docx
+      bytes: 220220
+      sha256: 112a97a043a0e119f190637cfc65611591f64ca802819930325011e0e03685a4
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mo1q02/
+  note: 'Shared by u/EnvironmentNo6525 in a post on 2025-08-12: The Covenant of Shadows'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

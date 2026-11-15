@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: complete-guide-to-intelligencescaling
+category: doc
+title: Complete Guide to IntelligenceScaling
+authors:
+- name: Arcadia
+  source: doc-text
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-oxR_WLuAh5ATK2A7OuAMmP6v6N_qHnGA-kJdoC3OJk
+    google_id: 1-oxR_WLuAh5ATK2A7OuAMmP6v6N_qHnGA-kJdoC3OJk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1207
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 90791
+      sha256: bea78ed8ed7700a7ad5576eaedfc5a237f3db56cede0ae21ac2764ab62f46737
+    - format: docx
+      name: document.docx
+      bytes: 11592
+      sha256: ea2263dc3673c532deead1e60c359d9feb4c3b20d515673a8672c7fe20e30847
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1nymp7o/
+  note: 'Shared by u/Nino_IQ in a post on 2025-10-05: [If you are new here] Complete Guide to IntelligenceScaling'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

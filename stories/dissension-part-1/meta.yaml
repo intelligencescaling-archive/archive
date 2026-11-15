@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dissension-part-1
+category: story
+title: Dissension (Part 1)
+authors:
+- name: Magmax1b
+  reddit: Magmax1b
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pPfhefXqN2_o4bxYo6q8I5iiTlBuyh8WJRtd6965vIM
+    google_id: 1pPfhefXqN2_o4bxYo6q8I5iiTlBuyh8WJRtd6965vIM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 9331
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 310516
+      sha256: e7140cdb979ebe741d0f22fb45cf54f76c53cbad1448fb03e848a9fbda196d22
+    - format: docx
+      name: document.docx
+      bytes: 29905
+      sha256: d746b3dc7df673c08f8c1f38c68921feacbc5dbbb4d277005745e8c57caf6c58
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wtao59/
+  note: 'Shared by u/Magmax1b in a post on 2026-09-29: GREAT NEWS'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

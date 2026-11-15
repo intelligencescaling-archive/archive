@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cinderella-feats
+category: doc
+title: Cinderella feats
+authors:
+- name: Nazif2
+  reddit: Nazif2
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: fr
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1UqmqfCgcXKUtq4e3DgUFwK3ApLOuf--2YLETa4AWjxA
+    google_id: 1UqmqfCgcXKUtq4e3DgUFwK3ApLOuf--2YLETa4AWjxA
+  capture:
+    status: partial
+    date: '2025-12-02'
+    words: 5067
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251202010925/https://docs.google.com/document/d/1UqmqfCgcXKUtq4e3DgUFwK3ApLOuf--2YLETa4AWjxA/edit
+  note: Snapshot from 2025-12-02
+- type: reddit-post
+  url: https://www.reddit.com/comments/1j395g0/
+  note: 'Shared by u/Nazif2 in a post on 2025-03-04: Cinderella feats'
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-12-02. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

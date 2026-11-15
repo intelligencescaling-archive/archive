@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: technoblade-intelligence-scaling
+category: doc
+title: Technoblade (Intelligence Scaling)
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  source: reddit-post
+series:
+- minecraft
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JQmZNrR5NxYRe2hzZtBF-oj3RRImgjzucSpvWOxjL9w
+    google_id: 1JQmZNrR5NxYRe2hzZtBF-oj3RRImgjzucSpvWOxjL9w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1017
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 412874
+      sha256: 6c7aa3fabc17aae8231095568edc72872b5575c32f27fa758c5642f09b3c654c
+    - format: docx
+      name: document.docx
+      bytes: 300262
+      sha256: 18fd99592278db75c09731a25fa8aac38911097c66b59aa04c839f82e9efadcb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1p06uvg/
+  note: 'Shared by u/Geolib1453 in a post on 2025-11-18: Technoblade Intelligence Scaling Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

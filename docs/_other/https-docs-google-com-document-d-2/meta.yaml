@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: https-docs-google-com-document-d-2
+category: doc
+title: '[https://docs.google.com/document/d/18ouwaen5GFEgFtkmZzp4bumtQwF-HDswIXmJLfMM8bo'
+authors:
+- name: heckthiscrapimout
+  reddit: heckthiscrapimout
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jJCoNwrft8zvqKbikzTFNLC8FZNdDixgx0OvO3G1
+    google_id: 1jJCoNwrft8zvqKbikzTFNLC8FZNdDixgx0OvO3G1
+  capture:
+    status: partial
+    date: '2025-12-03'
+    words: 1203
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251203200511/https://docs.google.com/document/d/1jJCoNwrft8zvqKbikzTFNLC8FZNdDixgx0OvO3G1_iA/mobilebasic
+  note: Snapshot from 2025-12-03
+- type: reddit-post
+  url: https://www.reddit.com/comments/1epnsgq/_/lhlufan/
+  note: 'Shared by u/heckthiscrapimout in a comment on 2024-08-11: [https://docs.google.com/document/d/18ouwaen5GFEgFtkmZzp4bumtQwF-HDswIXmJLfMM8bo'
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-12-03. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: will-graham-vs-kategari-yuuichi
+category: doc
+title: Will Graham vs Kategari Yuuichi
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- tomodachi-game
+- hannibal
+characters:
+- yuuichi-katagiri
+- will-graham
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1kYow7yx9ch7aUgKlmCDOGrYpmyRWEuDMAJBPRWTW5nU
+    google_id: 1kYow7yx9ch7aUgKlmCDOGrYpmyRWEuDMAJBPRWTW5nU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1080
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 126237
+      sha256: c1e3c58b53790dcf52e5aef8ba5dd589249f0ba98162f489bb98765e44f0c87c
+    - format: docx
+      name: document.docx
+      bytes: 281893
+      sha256: 290ef50bfe8f4357b2e2b46bf55f7b4dde385687dcfde06fe2d1d9c800cfb652
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kq45jt/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-19: Yuuichu vs Will Grahan Full Scale SMART CHARACTERS DEBATE PART 4[lighto eliminated btw]'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

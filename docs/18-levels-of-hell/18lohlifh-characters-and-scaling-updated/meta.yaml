@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 18lohlifh-characters-and-scaling-updated
+category: doc
+title: 18LoHLiFH characters and scaling updated
+authors:
+- name: Ok-Swan-1590
+  reddit: Ok-Swan-1590
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EAK21Mb3OXKM6D9ze8p1GQ2AyvZJyzwy
+    google_id: 1EAK21Mb3OXKM6D9ze8p1GQ2AyvZJyzwy
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 4200
+    files:
+    - format: pdf
+      name: 18LoHLiFH characters and scaling updated.pdf
+      bytes: 286377
+      sha256: c7fc3b971b222196908ea4e2f4d87a4a096380e95ad618e233edaa1a865e851a
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xh0hdo/
+  note: 'Shared by u/Ok-Swan-1590 in a post on 2026-10-27: Top 15 smartest in 18LoH (Methodology)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

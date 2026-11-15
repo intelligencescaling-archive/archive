@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mitarais-mitch-feats-doc
+category: doc
+title: Mitarai’s MITCH Feats Doc
+authors:
+- name: Aquitosias
+  source: doc-text
+series:
+- detective-mitarai
+characters:
+- kiyoshi-mitarai
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nmZ2mA2FzLKmZ1gXsGdUe-B9KkHCUS5P-oJjPN0KgTs
+    google_id: 1nmZ2mA2FzLKmZ1gXsGdUe-B9KkHCUS5P-oJjPN0KgTs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 18397
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 510070
+      sha256: 14a00c89bd201e1fa4bfe1425b79a29a3d5fa5c03e06a520bccbb0e7f0dc2c0a
+    - format: docx
+      name: document.docx
+      bytes: 197358
+      sha256: fccf8f3e3ea7b3860564b20525746c85b2e2607e6ee92c08bd6ab28d3aa8436f
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wsm2s3/
+  note: 'Shared by u/Aquitosias in a post on 2026-09-28: Mitarai’s MITCH feats Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

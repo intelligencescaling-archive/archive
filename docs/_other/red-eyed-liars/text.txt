@@ -1,0 +1,226 @@
+(RED EYED LIARS)
+
+Alpha version
+
+Most important categories
+Manipulation, deception, logical reasoning/sensory
+
+____________________________________________________________________________
+
+OVERVIEW OF THE GAME
+There will be players, civilians with some having special roles
+Other secret roles exist, which will be revealed during the ongoing game
+
+For the killer, the goal is to kill everyone except themselves as to survive
+
+For the civilians, the goal is to survive, either way, if they side with the detective or the killer or stay neutral
+
+For the detective, the goal is to find the killer(s) and survive till the end, additional win conditions shall be explained later
+
+Additional roles and their win conditions shall be explained alongside the game
+
+______________________________________________________________________
+
+GENERAL RULES
+Rations :-
+* Each player has some quantity of food and water, known as rations. Each player shall consume one packet of said rations to  survive the day, rations shall be consumed at the morning of each game.
+*  Rations are a non-replenishable resource.
+*  Rations can be used to heal sustained injuries
+* Rations can be traded with each other as well
+* Some tasks can award rations
+
+Tasks :-  ( REMOVED ? )
+* Each player shall be given a task everyday, regarding their role, the exact nature of the tasks shall vary per day.
+* A task is a non-negotiable that everyone has to do, so as to survive or qualify for the next day.
+* There are 3 tiers of tasks, with the higher tier being more grueling but having greater rewards.
+* You cannot discuss the task given to you with anyone ( self abiding will result in more chaos )
+* For a single task,you can only be in one group.
+* If the group or a person has not decided on tasks, then the gm shall hand it out in their stead.
+
+Secret twist :-
+* Each day, there shall be a new twist to spice up the game or the competition so to speak.
+* Details of each twist shall be revealed during the ongoing game, but each twist is meant to increase the chaos factor
+
+______________________________________________________________________
+
+PLAYER ROLES
+Though the use of a gun depends on its user, the outcome always comes at the cost of a life.
+Common win conditions :-
+* Each role must have at least n/2 day passes if the game goes on for n days, as a common win con.
+* Each player must make at least 2 contracts everyday and share it with proof.
+
+Civilian :-
+* Do not have any special functionality
+* Can Change their roles into the killer, the detective and other secret roles
+* Start with a ration of 7 days or 7 packets of rations
+
+Detective :-
+* The role is given by the GM
+* Have two abilities
+* Can lynch a certain person given enough justification is given
+* Can check the role of a single person a day
+* Both can be done once everyday
+* Has the special power
+* Can lynch anyone without prior approval from anyone
+* Starts with a Ration of 12 days
+* If the detective dies, his special power is passed on a random person that cannot be the killer, those with special secret roles cannot accept it
+* If the detective lynches the wrong person, they shall be loosely exposed and lose three packet of rations.
+* Must give reasoning for the lynching they are going to do
+* Don’t have a gun
+
+Killer :-
+* You have the ability to take someone’s life, detective included.
+* You have a gun, with 7 bullets.
+* You can kill yourself
+* You can injure someone and yourself.
+* You start with no rations
+* You can pass on the role of a killer
+* You need to explicitly mention which body part you are targeting
+* You can only KILL one person per day or INJURE one body part per person two times.
+* The killer must kill one person a day, apart from their daily
+Task.
+* Shots meant to injure will also give clues to your location
+* The killer can only take one piece of rations from the dead person, rest will be given or shared with their quadrant mates.
+* If the person killed has no quadrant mates, the food shall be randomly distributed.
+* The killer can take only one packet of rations for survival.
+* The role of the killer cannot stack with the detective.
+* The role of the killer cannot be stacked with the Tool maker.
+* Each time the killer kills someone, they take one of their day passes.
+
+The Forger :-
+* Given out by the GM at the start of the game
+* Only 2 of such roles can exist, this role cannot be inherited
+* The forger is an expert at forging weapons, bullets and revival cards.
+* The forger can forge 1 prop killer gun every 2 days.
+* The forger can forge 1 prop vigilante’s gun every 2 days.
+* The forger can forge 1 prop revival card every 2 days.
+* Win con :- get the maker killed and make at least 10 forgeries ( per role )
+* The forger uses rations to make their forgeries.
+* A prop gun can be used as a mechanism to injure a player, a prop revival card acts as half a revival card, i.e. 2 prop revival cards can still bring back a player.
+* The forger needs one ration to make a fake gun.
+* The forger needs one ration to make three fake bullets.
+* The forger needs two rations to make a revival card
+* The forger starts with 10 packages of rations.
+* A pack of 3 bullets counts as one item forged.
+* This role is important for chaos.
+
+The Tool Maker :-
+* Given out by Gm in the start of the game.
+* Only 2 of such roles can exist, it cannot be inherited.
+* The maker is an expert at creating actual guns, bullets and revival cards.
+* The maker can make one killer’s gun every 2 days.
+* The maker can make one vigilante’s gun every 2 days.
+* The maker can make one revival card every 2 days.
+* The maker uses rations to make their items.
+* The maker starts with 10 rations.
+* The gun made can be used to kill and injure people, the bullets are actual bullets and a single revival card can revive a player.
+* Win con :- Get the forger killed and make at least 10 items ( per role )
+* It is an important role as this is your only source of revival cards, bullets and guns.
+* The maker uses one ration to make one gun.
+* The maker uses one ration to make three bullets.
+* The maker used two rations to make an actual revival card.
+* A pack of 3 bullets counts as a single item.
+
+The Doctor :-
+* Ordinary civilians or roles cannot use the revival card on their own to revive someone.
+* The civilian or roles can use the revival card as a way to convert a killing shot into an injury, which needs to be healed using a ration or a first aid kit.
+* The doctor can set up a revival card on the person such that the killing shot is nullified.
+* The doctor can also revive a person.
+* There is only one doctor in the entire game, This role cannot be inherited.
+* The doctor starts with 10 rations.
+* Two fatal shots are required to kill the doctor.
+* The doctor cannot be injured.
+* Win con :- survive till the end of the game and revive at least 5 people.
+
+______________________________________________________________________
+
+RULES REGARDING KILLING
+
+How does  a Killer kill :-
+* A killer explicitly mentions to the Gm, who he wants to kill.
+
+When does a killer kill :-
+* Anytime, suspicion is a function of the sound cue and the food leaderboard.
+
+The concept of Injuries :-
+* I have simplified the human body to 6 parts, the head, the torso and the four limbs.
+* It is said to be an instant death, if the shot is at the head or torso
+* It is considered an injury if the shot is at any of the limbs
+* The victim in such a case can use 1 packet of ration to heal themselves or die due to bleeding out in the next 3 hours
+
+A gun :-
+* The gun is the method of madness, the way to kill.
+* The gun leads one to become the killer and forfeiting it makes one the former a helper and the latter the new killer
+* The helper is not trustworthy and can always again become the killer
+* A citizen or a detective similarly can become the killer too, while holding onto their existing roles ie :- a detective + killer or a secret role + killer.
+* The killer can only change into a dual role similarly.
+* You can always turn in an empty gun.
+* The gun turns useless if all the bullets are lost
+* The killer, the vigilante and the other secret roles have different guns, so as to differentiate between one another
+* prop bullets in prop guns only injure, not kill.
+* Actual bullets in prop guns only injure, not kill.
+* Prop bullets in actual guns, only injure, not kill.
+
+Sound Cues :-
+* A sound cue is a method to know and understand and deduce the identity of the killer.
+* A sound cue is a function of the map and arena but certain rules remain.
+* Any entity or a person with a gun, when using the gun is susceptible to the sound cue function.
+* The first shot reveals that the killer is from a block and the four other blocks adjacent to the killer. ( example )
+* The second shot reveals the killer’s block and the adjacent two blocks according to  the killer’s choice
+* The third shot reveals the killer's block.
+* These are the general rules and things may vary with respect with each map.
+
+The way to remove a gun and killer :-
+*  The detective lynches the actual killer to the Gm and the Gm removes the gun out of the game.
+* The killer kills himself and the gun is returned to the Gm.
+* The Gm can remove a gun in exceptional circumstances.
+
+______________________________________________________________________
+
+HOW THE GAME SHALL START
+First day :-
+
+* Each person is well fed, they won’t need to use their rations until the second unless in conditions out of their control
+* Each person can opt for three tiers of tasks but the higher tiers require teamwork
+* After completing the task, the player will receive a day pass, these will be important.
+
+______________________________________________________________________
+
+MAP
+The map depends on the game and the arrangement as well, so as to create unique sound cues and murder options.
+
+TASKS AND CONTRACTS
+General Idea :-
+* Takes little time
+* Related to scd ( not tasks )
+* People can make private or public contracts with each other
+* Causes people to interact with other a lot more
+* Creates opportunity for manipulation and deception
+* A contract can be at max between 3 people
+
+Private contracts :-
+* A contract in which the GM is the signatory or the overseer, whether the GM acts or not on the violation depends on the case.
+Public contracts :-
+* These contracts are declared to the general public, by the gm.
+* The GM  will not act all upon the violation of the contract.
+What is a contract :-
+* A agreement binding 2 or more parties ( 2 groups can also form contracts with each other )
+* Example :- Both of you agree to reveal to each other your roles, you share your rations with others etc.
+Special contracts :-
+* These are special in the sense that it makes you harder to kill, but you add clauses such that it makes the betrayer benefit from breaking the contract.
+* The GM has no responsibility to hold on to your contract, unless being paid to do so.
+
+Tasks :-
+* Basically tasks given by the GM everyday, regarding to make or find the information of contracts.
+* Interesting twists.
+
+______________________________________________________________________
+
+Some edits :-
+* * The vigilante is too op ( lower )
+* The tasks fell off ( contracts to make things interesting )
+* Too much power in my hand ( some 3-4 roles )
+* I need to moderate a lot ( problematic ) ( added more roles so i have to do less in certain aspects, another GM ? )
+* Need to be flexible with time zones ( remove the day/night cycle)
+* More revival cards ( doctor role + editing secret items wheel)
+* Need excel sheet to to track every player

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: conjecture-conclusion
+category: doc
+title: Conjecture Conclusion
+authors:
+- name: KitchenCoyote_The2nd
+  reddit: KitchenCoyote_The2nd
+  source: reddit-post
+series:
+- usogui
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Ec63kPH7okNeMDduXTdvK6nZUTto9UnmWiQVK0roFAA
+    google_id: 1Ec63kPH7okNeMDduXTdvK6nZUTto9UnmWiQVK0roFAA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1246
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 52610
+      sha256: db6ea55021645559fdef498dc5ed28fd848be174aa09e87d0be2630a47c10d0c
+    - format: docx
+      name: document.docx
+      bytes: 10294
+      sha256: 9a04dd3668f8fb6755cfba55384faf1c0daf5d47ceb23b3bcc83b6f067fce8b0
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1oci8sj/
+  note: 'Shared by u/KitchenCoyote_The2nd in a post on 2025-10-21: Baku Madarame’s Best Reasoning Feat'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: stl-scans
+category: doc
+title: STL Scans
+authors:
+- name: Spirited-Effort6325
+  reddit: Spirited-Effort6325
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1iQOcYNyXDV6CpBclOs171K8rFRcNPVQ3htSQrX1cpJQ
+    google_id: 1iQOcYNyXDV6CpBclOs171K8rFRcNPVQ3htSQrX1cpJQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5693771
+      sha256: c974442a2179bd6412297a1cdff99a77cc84d3b4834ea5a0dbd69721dc7dbf64
+    - format: docx
+      name: document.docx
+      bytes: 5695676
+      sha256: aa32c271122a8191ab1775825c05cc2a78406758751e08e315347cfd21190d66
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1hitrnk/_/m342v73/
+  note: 'Shared by u/Spirited-Effort6325 in a comment on 2024-12-21: Well as for validity of 2sd we literally have hal sating how he seized those 2 s'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

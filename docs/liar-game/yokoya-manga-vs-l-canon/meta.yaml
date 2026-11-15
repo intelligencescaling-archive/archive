@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-manga-vs-l-canon
+category: doc
+title: Yokoya(Manga) vs L(Canon)
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- liar-game
+- death-note
+characters: []
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1408rxH1yULDfZCnn0szdDEWgINOgkEhNkcdMNq9FxGI
+    google_id: 1408rxH1yULDfZCnn0szdDEWgINOgkEhNkcdMNq9FxGI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 462
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 97530
+      sha256: 9a197785b6ce1de0d44264ce9d634f8020a0c81dad0b72a7850e416c7ff646cf
+    - format: docx
+      name: document.docx
+      bytes: 279892
+      sha256: 5f419c27cb01019456f3595dd715097cd97d92c17603158fca6db7fdafbca53b
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1n0sl6l/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-26: Battle of Underrated Goats |||Canon L vs Manga Yokoya Full Scale Comparison Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

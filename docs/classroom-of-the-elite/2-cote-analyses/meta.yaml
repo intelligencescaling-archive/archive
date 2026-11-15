@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 2-cote-analyses
+category: doc
+title: 2 COTE analyses
+authors:
+- name: Intelligent_Dog7943
+  reddit: Intelligent_Dog7943
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10dWG33HFF00pWW3isktcd63h-f8h2-YeZwJrehB6-uM
+    google_id: 10dWG33HFF00pWW3isktcd63h-f8h2-YeZwJrehB6-uM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 38
+    words: 19827
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 774498
+      sha256: c697d1c55b9189746037e548977adcce88be19ea8c3be248d0ca51f5c37546e5
+    - format: docx
+      name: document.docx
+      bytes: 191673
+      sha256: a3f92e0b3cd3539971f698e5b146621d60b75d3098fbcca6769a38b774033966
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qu2e7o/
+  note: 'Shared by u/Intelligent_Dog7943 in a post on 2026-02-02: Some Y1 koji takes (final)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

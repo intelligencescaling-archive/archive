@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bloodmaster-ice-tower
+category: doc
+title: BloodMaster - Ice Tower
+authors:
+- name: AppropriateRub6185
+  reddit: AppropriateRub6185
+  source: doc-text
+series:
+- minecraft
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BzkKm_HixlNjCNe0sH47a7N36eyEK1FKJEX8K0b9qhM
+    google_id: 1BzkKm_HixlNjCNe0sH47a7N36eyEK1FKJEX8K0b9qhM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 8444
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1664171
+      sha256: d212c51b1bf6d3b059dc18fb88c748db61ab99a5a7e0c22b93cbf7b810ba2bf4
+    - format: docx
+      name: document.docx
+      bytes: 1691092
+      sha256: adeff73be5d4d890de950ed507a7abd94ee7c9b6d3efe39e7bc036386f664c64
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1td5c1e/
+  note: 'Shared by u/Mohammedamine9 in a post on 2026-05-14: 3 docs for a Minecraft roleplaying characters (not mine)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

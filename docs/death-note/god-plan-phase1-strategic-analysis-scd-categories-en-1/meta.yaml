@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: god-plan-phase1-strategic-analysis-scd-categories-en-1
+category: doc
+title: God_Plan_Phase1_Strategic_Analysis_SCD_Categories_EN (1)
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BXr3daGHiC3kPEqq0XPpACx2QixUORFH-TK0p71RIuc
+    google_id: 1BXr3daGHiC3kPEqq0XPpACx2QixUORFH-TK0p71RIuc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 9628
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 856826
+      sha256: 554080c352afd3f1bcdc29f11b8583798ba61d0630ebee22eb19f9eab190e0fc
+    - format: docx
+      name: document.docx
+      bytes: 1764710
+      sha256: 07b78921358ea55b666561f06569d0d977202c8f6fece4023412fada94658c9a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xomk56/
+  note: 'Shared by u/Last-Trainer-3323 in a post on 2026-11-05: Light GOTNW ANNOUNCEMENT: Phase 1 document for the God Plan—chapters 27/28—is complete.'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

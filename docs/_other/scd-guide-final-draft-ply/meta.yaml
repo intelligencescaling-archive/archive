@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-guide-final-draft-ply
+category: doc
+title: scd guide final draft ply ?
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  source: reddit-post
+series: []
+characters: []
+tags:
+- matchup
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1dY1bgHXFA7xlaNSRmZTCUgU-zLqlQj69vkwHR-B1494
+    google_id: 1dY1bgHXFA7xlaNSRmZTCUgU-zLqlQj69vkwHR-B1494
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 3413
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 467451
+      sha256: 3ee91fb5d004b3997e91c85cefe4c0e45f8d454a137bc4683f1ed9be6c67861e
+    - format: docx
+      name: document.docx
+      bytes: 3015080
+      sha256: 15141abbfa15bf72c4d1140ce8cec48a17aac983a16470b885b3dfb9106e7a15
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1w2btcc/
+  note: 'Shared by u/Similar_Incident8433 in a post on 2026-08-30: scd guide final draft ply ?'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

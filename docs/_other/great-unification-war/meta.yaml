@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: great-unification-war
+category: doc
+title: Great Unification War
+authors:
+- name: Im_Futuree
+  reddit: Im_Futuree
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1aay1Nykzg3ZU9YjNsHVB7VFf0jaMtNK3
+    google_id: 1aay1Nykzg3ZU9YjNsHVB7VFf0jaMtNK3
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 24646
+    files:
+    - format: docx
+      name: Great Unification War.docx
+      bytes: 5448838
+      sha256: 0e4d4fc79af2984a97790c609224fba47b107142df6deeaed90b4b5abce5aef2
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xf2qc0/
+  note: 'Shared by u/Im_Futuree in a post on 2026-10-25: Is Li Gang fraud?'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

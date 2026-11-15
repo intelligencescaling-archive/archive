@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: that-s-mostly-just-the-category-names-i-suggest-using-this
+category: doc
+title: that's mostly just the category names, I suggest using [this](https://docs.googl
+authors:
+- name: Lawlietfym
+  source: doc-text
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10xWeAngO0EOtQxMlnuCQewfs4p5dq3jXFd8L87YFz9E
+    google_id: 10xWeAngO0EOtQxMlnuCQewfs4p5dq3jXFd8L87YFz9E
+  capture:
+    status: partial
+    date: '2025-03-10'
+    words: 4665
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250310213505/https://docs.google.com/document/d/10xWeAngO0EOtQxMlnuCQewfs4p5dq3jXFd8L87YFz9E/edit
+  note: Snapshot from 2025-03-10
+- type: reddit-post
+  url: https://www.reddit.com/comments/1go0xfy/_/lwfhwgq/
+  note: 'Shared by u/heckthiscrapimout in a comment on 2024-11-10: that''s mostly just the category names, I suggest using [this](https://docs.googl'
+added: '2026-11-15'
+notes: 'The owner made the original private, so this text was recovered from a Wayback Machine snapshot taken 2025-03-10. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

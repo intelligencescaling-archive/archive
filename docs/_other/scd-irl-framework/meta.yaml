@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-irl-framework
+category: doc
+title: Scd Irl Framework
+authors:
+- name: Neat-Fold7693
+  reddit: Neat-Fold7693
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1BNfa2kzntZLimtWalftX0vD8MkQ9Scrq
+    google_id: 1BNfa2kzntZLimtWalftX0vD8MkQ9Scrq
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 597
+    files:
+    - format: pdf
+      name: Scd Irl Framework.pdf
+      bytes: 18439
+      sha256: 6bcdadcfb96776b07e04ae3f7966dbaeff48afbc8bb8c55360645a14d6b1f8bf
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1q1vo9g/
+  note: 'Shared by u/Neat-Fold7693 in a post on 2026-01-02: i made an scd document for irl use and it could be revised'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hayate-shiraishi-scd-analysis
+category: doc
+title: Hayate Shiraishi SCD Analysis
+authors:
+- name: mightbeleo
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters: []
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1--0Hyj0v6CHnMYGquZKSS8WDrgg3CgX6qb4l6mqOhxM
+    google_id: 1--0Hyj0v6CHnMYGquZKSS8WDrgg3CgX6qb4l6mqOhxM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2287
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2464304
+      sha256: f530fe0eb572df4dc7be5e2a12256fdee4de7f277865dc10e72f2ebda1a9c754
+    - format: docx
+      name: document.docx
+      bytes: 1863587
+      sha256: a9f4655b155dd01a8e6963d6228b16b62235c5ef539a83b1a24ada253a9d95d5
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1sp04e4/
+  note: 'Shared by u/hayateshiraishi in a post on 2026-04-18: New cote character'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

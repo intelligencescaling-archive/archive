@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lex-luthor-doc-2025
+category: doc
+title: Lex Luthor Doc ( 2025)
+authors:
+- name: OkEmployment2573
+  reddit: OkEmployment2573
+  source: reddit-post
+series:
+- dc-comics
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10UfvbsczUoM2VsqmZbRjdhwTc96WyzjXNLJgdI1wTls
+    google_id: 10UfvbsczUoM2VsqmZbRjdhwTc96WyzjXNLJgdI1wTls
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1416
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 140923
+      sha256: 365db2091215afdf85f922a1616839c3a40f06aeb8717db7a01fdb01ec27a221
+    - format: docx
+      name: document.docx
+      bytes: 56915
+      sha256: 41a9c268216aa4f6d33d228584e1eb2e5e0459c5ec9ebdf6cbd71311180a91a6
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1u6j3hx/
+  note: 'Shared by u/OkEmployment2573 in a post on 2026-06-15: Lex Luthor Doc (2025)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

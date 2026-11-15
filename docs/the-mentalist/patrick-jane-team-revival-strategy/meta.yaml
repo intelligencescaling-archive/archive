@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-team-revival-strategy
+category: doc
+title: Patrick Jane Team Revival Strategy
+authors:
+- name: Arthen
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15cfmAul_C_pHtuXCGxSB8vS-vBK4i10v41363dz-x0w
+    google_id: 15cfmAul_C_pHtuXCGxSB8vS-vBK4i10v41363dz-x0w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 2668
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 212735
+      sha256: add3f193e762d1f927bbea76584ccba88b78b0d97857d21a43f1d3a0e1117706
+    - format: docx
+      name: document.docx
+      bytes: 405483
+      sha256: d6dcaba3b175c2fc863a669eefedc42cd9ce2116d1dfb8b286a6b7ab79ab8a6c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1plb4mj/
+  note: 'Shared by u/No_Engineering_3223 in a post on 2025-12-13: Patrick Jane’s Team Revival Strategy'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

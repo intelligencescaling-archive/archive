@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: miss-marple-apos-method-joke
+category: doc
+title: Miss Marple Apos Method JOKE
+authors:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1rQpMrdfvLCDnQU9HeycWkmsHpa7uX2y-
+    google_id: 1rQpMrdfvLCDnQU9HeycWkmsHpa7uX2y-
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1195
+    files:
+    - format: docx
+      name: Miss_Marple_Apos_Method_JOKE.docx
+      bytes: 86198
+      sha256: 06e952d6153cd791831eebc7139efa2a6b9946a20b2b61054dcdeb5a27831099
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xr3wkx/
+  note: 'Shared by u/Vincet_Qo in a post on 2026-11-08: Escalado por método Apos'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

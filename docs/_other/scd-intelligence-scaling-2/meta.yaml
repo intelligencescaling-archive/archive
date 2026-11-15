@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-intelligence-scaling-2
+category: doc
+title: SCD Intelligence Scaling
+authors:
+- name: Sensitive-Secret-267
+  reddit: Sensitive-Secret-267
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1qEV_NEzjUhgBv7bZSGXWAxOBSYsJx4Iy
+    google_id: 1qEV_NEzjUhgBv7bZSGXWAxOBSYsJx4Iy
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 644
+    files:
+    - format: docx
+      name: SCD Intelligence Scaling.docx
+      bytes: 9997
+      sha256: 805a9b42284f9122b9c0c114df4ebc8f1481165f4909d96e25fee0390c9f8e92
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mq0xrv/
+  note: 'Shared by u/Sensitive-Secret-267 in a post on 2025-08-14: Made a SCD catagory List'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

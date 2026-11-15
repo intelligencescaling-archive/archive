@@ -35,6 +35,8 @@
   name: Berserk
 - id: beyblade-burst
   name: Beyblade Burst
+- id: bleach
+  name: Bleach
 - id: blue-lock
   name: Blue Lock
 - id: bones
@@ -121,6 +123,8 @@
   - Type-Moon
 - id: fathers-and-sons
   name: Fathers and Sons
+- id: fear-and-hunger
+  name: Fear and Hunger
 - id: fight-club
   name: Fight Club
 - id: five-nights-at-freddy-s
@@ -165,6 +169,8 @@
   name: Ichiban Ushiro no Daimaou
 - id: invincible
   name: Invincible
+- id: jack-reacher
+  name: Jack Reacher
 - id: jujutsu-kaisen
   name: Jujutsu Kaisen
 - id: jurassic-world
@@ -215,6 +221,8 @@
   name: MiSide
 - id: miss-marple
   name: Miss Marple
+- id: money-heist
+  name: Money Heist
 - id: monster
   name: Monster
 - id: moriarty-the-patriot
@@ -246,6 +254,8 @@
   name: Psych
 - id: psycho-pass
   name: Psycho-Pass
+- id: raging-loop
+  name: Raging Loop
 - id: ravages-of-time
   name: Ravages of Time
 - id: re-zero

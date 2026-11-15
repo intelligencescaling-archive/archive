@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: great-tycoon-2-and-3-english
+category: doc
+title: Great_Tycoon_2_and_3_English
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1kpg9F8wP8qmgaxd0R-pgS19h2LD3tE61O5n1VU4m_lM
+    google_id: 1kpg9F8wP8qmgaxd0R-pgS19h2LD3tE61O5n1VU4m_lM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 53
+    words: 18601
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 752017
+      sha256: e8ea28c74db3224d85c5681af523be8e8b72d68f474f3b89b6d2e09b0ca0fc92
+    - format: docx
+      name: document.docx
+      bytes: 503035
+      sha256: 2b748490bc61ec66c0fe06e935b1688a157d64197c924a1d215933996e3fbb2a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ximhub/
+  note: 'Shared by u/Simply_Amazing_1610 in a post on 2026-10-29: Chen Ran''s Tycoon / Monopoly game strategy explained - credits to Xin lỗi vì quá đẳng cấp, Azathanal'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

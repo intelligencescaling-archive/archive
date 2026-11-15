@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-scaling-docs
+category: doc
+title: Some scaling docs
+authors:
+- name: Zenith
+  source: doc-text
+- name: Lloyaro
+  source: doc-text
+series:
+- death-note
+characters:
+- beyond-birthday
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EZLXXE3DHephz_I-XZ0S3WV4PVYturffw4Jrb8rxMF0
+    google_id: 1EZLXXE3DHephz_I-XZ0S3WV4PVYturffw4Jrb8rxMF0
+  capture:
+    status: partial
+    date: '2025-12-02'
+    words: 20056
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251202023248/https://docs.google.com/document/d/1EZLXXE3DHephz_I-XZ0S3WV4PVYturffw4Jrb8rxMF0/edit
+  note: Snapshot from 2025-12-02
+- type: reddit-post
+  url: https://www.reddit.com/comments/19487wn/
+  note: 'Shared by u/YashpoopsYT in a post on 2024-01-11: Some scaling docs'
+added: '2026-11-15'
+notes: 'The owner made the original private, so this text was recovered from a Wayback Machine snapshot taken 2025-12-02. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

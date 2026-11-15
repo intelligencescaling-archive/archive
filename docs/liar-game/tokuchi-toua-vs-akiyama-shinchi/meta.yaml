@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tokuchi-toua-vs-akiyama-shinchi
+category: doc
+title: Tokuchi Toua vs Akiyama Shinchi
+authors:
+- name: Salty Refuse
+  source: doc-text
+series:
+- liar-game
+characters: []
+tags:
+- matchup
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-TdNTiZuKk1N-KgSTQHJXVVvydsealXJBTmzy001X8Q
+    google_id: 1-TdNTiZuKk1N-KgSTQHJXVVvydsealXJBTmzy001X8Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 247
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 108431
+      sha256: 77de44f858021e0e926802783a0ab3ae98bd1a56c5b262cd2ece10740b9da8f9
+    - format: docx
+      name: document.docx
+      bytes: 605868
+      sha256: 039c1fd0d27df91e299feba26c0b161ddf86dd39a2e3c3cbf7dc8a4ec6de78b0
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1of2via/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-10-24: Akiyama Shinichi vs Tokuchi Toua Full Scale Comparison Doc Remake'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

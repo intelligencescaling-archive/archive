@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-categories-by-shigurima
+category: doc
+title: SCD categories (by shigurima)
+authors:
+- name: XxshigurimaxX
+  reddit: XxshigurimaxX
+  source: reddit-post
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ud7zmnVwm8SG8R98D1A_STfmo6-n2pGwzNlt6YH3icQ
+    google_id: 1ud7zmnVwm8SG8R98D1A_STfmo6-n2pGwzNlt6YH3icQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 212
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 62362
+      sha256: 2ab9b998b2eb93392f4e7e458c3f8bf4f8a3734c8da663a6c75ef8d9622b1652
+    - format: docx
+      name: document.docx
+      bytes: 9405
+      sha256: f9a2ed40ab9327ff7d2d7d99019f785fd5c63ff1098a995824efbb58a604af63
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mu6xds/
+  note: 'Shared by u/XxshigurimaxX in a post on 2025-08-19: My SCD categories'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyana-vs-baku-oh-gonen
+category: doc
+title: Akiyana vs Baku(Oh)/Gonen)
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- liar-game
+- usogui
+characters: []
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Kvk3uW2Y5Yhgoo0NsUadDv3XtrhDnpI17CiO6M8JYbQ
+    google_id: 1Kvk3uW2Y5Yhgoo0NsUadDv3XtrhDnpI17CiO6M8JYbQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1503
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 124759
+      sha256: eb2759e17eec9b9477cb0d50ac7dab5aa4d959709cb97af28bd64f0bd49b1659
+    - format: docx
+      name: document.docx
+      bytes: 281959
+      sha256: dc54b1de60f683407f7625e86217b030a8066116b0295adbb7e4dcd615d58f5d
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kssrsx/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-22: BakuOh(Gonen)vsAkiyama(Manga) Full Scale Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

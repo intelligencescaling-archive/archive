@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: captura-de-tela-2025-06-25-211736
+category: doc
+title: Captura de tela 2025 06 25 211736
+authors:
+- name: Striking-Dot-9947
+  reddit: Striking-Dot-9947
+  source: reddit-post
+series:
+- death-note
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- matchup
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1czHmSUn_079J0BZk5rQ2rDHORAh9lw5Z
+    google_id: 1czHmSUn_079J0BZk5rQ2rDHORAh9lw5Z
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: png
+      name: Captura de tela 2025-06-25 211736.png
+      bytes: 414713
+      sha256: a28b8cb7cd9f717c808037f5d78dff109b27af9bd00f786e1122d3f30dff1da2
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vxo6rh/
+  note: 'Shared by u/Striking-Dot-9947 in a post on 2026-08-25: Yumeko Jabami vs Light Yagami in FSIQ and EQ (explainations+ Overall Doc at the end, too lazy to do '
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

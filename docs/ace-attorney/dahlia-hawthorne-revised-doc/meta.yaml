@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dahlia-hawthorne-revised-doc
+category: doc
+title: DAHLIA HAWTHORNE (REVISED) DOC
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
+series:
+- ace-attorney
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1u8JdKMOsDVbAq1ph8mPyzhjblcE0UKq2SnIQKbBMU_Q
+    google_id: 1u8JdKMOsDVbAq1ph8mPyzhjblcE0UKq2SnIQKbBMU_Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 4712
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9070651
+      sha256: 2fa9c7353a5c5318d8e37fb8ff254226929b31f061e0aa6dc7e7cb5ee71e22ee
+    - format: docx
+      name: document.docx
+      bytes: 8337505
+      sha256: 062b84d9c05542edd97fca8d02180c88151b6e61f667658ab7c6e566902220a8
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ngm82i/
+  note: 'Shared by u/Due_Ad8334 in a post on 2025-09-14: Dahlia Hawthorne''s complete reanalysis'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

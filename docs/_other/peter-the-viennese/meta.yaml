@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: peter-the-viennese
+category: doc
+title: Peter the Viennese
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  source: reddit-post
+series: []
+characters: []
+tags:
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1wu12OPDARyDtNeTGopHOQPClND1JZqHAbZbm4UNTzAk
+    google_id: 1wu12OPDARyDtNeTGopHOQPClND1JZqHAbZbm4UNTzAk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 6766
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 21082844
+      sha256: d87813d9c38602ede0f6c89e65ae258d8e5d513cb179e73c2c054512d1669e63
+    - format: docx
+      name: document.docx
+      bytes: 20337963
+      sha256: 18cb0c4625ae9dae38e7d5ce1e3f3a38496d7e7532c3f5f799756fc5170b7ed1
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1oyjqbh/
+  note: 'Shared by u/Geolib1453 in a post on 2025-11-16: Peter the Viennese (OC)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

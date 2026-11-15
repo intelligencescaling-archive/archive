@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gwyn-s-soul-replications-of-delta-akane-dante-koryu-and
+category: doc
+title: Gwyn's Soul Replications of Delta Akane, Dante Koryu, and Amane Kusba
+authors:
+- name: Akuma Ujjain
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EXxDeO88CkzI8q0hBQ8vi5EDOygpFHTZ6SvTcSq02gY
+    google_id: 1EXxDeO88CkzI8q0hBQ8vi5EDOygpFHTZ6SvTcSq02gY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 51
+    words: 7327
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3260095
+      sha256: 59d3940e47f1a7ba91276d78f878ce4736a7699e0c7ffd60f8f5a7440fb31701
+    - format: docx
+      name: document.docx
+      bytes: 4100027
+      sha256: fa12b61cdffc4c199b02ecb6078f6b3033bb2b1c6af869fc3695b94456f4cc66
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xfb5e7/
+  note: 'Shared by u/Quiet_Apricot7175 in a post on 2026-10-25: Gwyn''s Soul Replications of Delta Akane, Dante Koryu, and Amane Kusba'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

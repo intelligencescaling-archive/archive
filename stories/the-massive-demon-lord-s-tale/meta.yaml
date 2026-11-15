@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-massive-demon-lord-s-tale
+category: story
+title: The Massive Demon Lord's Tale
+authors:
+- name: kingjaymes1234
+  reddit: kingjaymes1234
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PbizfOJtWtXz4TtCwY7zaHszPwz7JXSET3INzlOt1PI
+    google_id: 1PbizfOJtWtXz4TtCwY7zaHszPwz7JXSET3INzlOt1PI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 298
+    words: 90857
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2941410
+      sha256: 63b567befc0bdccac1b1fb591176cd1d76c3460e7a3c0411cd7b98f0b642396e
+    - format: docx
+      name: document.docx
+      bytes: 241044
+      sha256: 693548c3ed497b1d017adcb48c8315be980203c2b4494efffbe0900383b15340
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1j44vzn/
+  note: 'Shared by u/kingjaymes1234 in a post on 2025-03-05: Intelligence Scale the characters in the currently unfinished most recent story, The Massive Demon L'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scan-10
+category: doc
+title: Scan 10
+authors:
+- name: SoundStorm7
+  reddit: SoundStorm7
+  source: reddit-post
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11Gx6rLV2lpLATbhyVfDaRgbkU5aiUXT-nCn6_xe_1cc
+    google_id: 11Gx6rLV2lpLATbhyVfDaRgbkU5aiUXT-nCn6_xe_1cc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1482990
+      sha256: 379d934bfed239cf920dfaee980183ece029fe739d61a92a92de77967c376917
+    - format: docx
+      name: document.docx
+      bytes: 1452992
+      sha256: 884579fc9c36cc5eb1036439d86d0c914ebe4be18c35f6ffee019782e21efad4
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1w2qfhx/
+  note: 'Shared by u/SoundStorm7 in a post on 2026-08-30: Yumeko Perfect Emotional Control Analysis'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

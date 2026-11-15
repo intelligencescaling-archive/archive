@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-manga-vs-ayanokoji-anime
+category: doc
+title: Akiyama (Manga) vs Ayanokoji (Anime)
+authors:
+- name: Airwaymaxxer
+  reddit: Airwaymaxxer
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- liar-game
+characters:
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1XyRa3Ku3Efd6M2sSGyFmtXaAn9m49LVT52HDz-3JIOc
+    google_id: 1XyRa3Ku3Efd6M2sSGyFmtXaAn9m49LVT52HDz-3JIOc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 327
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 78680
+      sha256: 83d785bdea8e32d48a053e427d004da70c0f0da7d7673efb40eafd247bf82f20
+    - format: docx
+      name: document.docx
+      bytes: 9897
+      sha256: 56390c9d48616653d7b51d0e8e838077899fdd477f31cf8c778567479982300a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1orq4qz/
+  note: 'Shared by u/Airwaymaxxer in a post on 2025-11-08: Akiyama (Manga) vs Ayanokoji (Anime)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

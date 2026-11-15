@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: elites-two-body-system-feat
+category: doc
+title: Elite’s Two Body-System Feat
+authors:
+- name: KC
+  source: doc-text
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KpG0TjmV53kV5g4sQrOAEmSQmATIfc-FI5w0uLfAVSA
+    google_id: 1KpG0TjmV53kV5g4sQrOAEmSQmATIfc-FI5w0uLfAVSA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 1176
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11322070
+      sha256: b38a0ad9c66ba0761d5e90829364d1f79d3eb375c4b8711472dfca2270e0e76e
+    - format: docx
+      name: document.docx
+      bytes: 7651717
+      sha256: a48716eb6da62ec81ecdf57aaec75e20d8813d2bfeb55464f1d9019ded57d45c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vp8l1u/
+  note: 'Shared by u/Near_Stagnation_1599 in a post on 2026-08-15: True Cognition King (Elite in depth analysis by Kitchen Coyote)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

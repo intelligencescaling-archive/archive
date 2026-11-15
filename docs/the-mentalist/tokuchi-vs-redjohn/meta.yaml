@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tokuchi-vs-redjohn
+category: doc
+title: Tokuchi vs Redjohn
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- the-mentalist
+- liar-game
+characters:
+- red-john
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_EXsTLuaFRI6M5wjWvjkioo8hJKV_JdztAjufxxMsgo
+    google_id: 1_EXsTLuaFRI6M5wjWvjkioo8hJKV_JdztAjufxxMsgo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1249
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 127654
+      sha256: c27af6370174fef05bddaaf058b0c693919890b8fac108c819b735ae9cf8d0a6
+    - format: docx
+      name: document.docx
+      bytes: 282039
+      sha256: 833d1777c02ecc23d9377f32c720bb2cdf90ceae5cda3f40a0811a5294959ca2
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kqz532/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-20: Red John(Narravite) vs Tokuchi Toua Full Scale Doc Smart Characters Debate Part 8 (btw Takuya yagami'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

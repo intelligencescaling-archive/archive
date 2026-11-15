@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: full-scale-speical
+category: doc
+title: FULL SCALE Speical
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series: []
+characters: []
+tags:
+- matchup
+- scd-categories
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12ilMjk1DlAGrkCkTxX2nmy1INqCqKgltDaI4ok00EgY
+    google_id: 12ilMjk1DlAGrkCkTxX2nmy1INqCqKgltDaI4ok00EgY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 371
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 120278
+      sha256: da4173fcf350cc753dcaa5a6de7c91b30c5521838e062de09addf5ce96bd0500
+    - format: docx
+      name: document.docx
+      bytes: 607335
+      sha256: 38c2a7a375c2faa818dddd7f0638e85017e01ed4f4581e5476221c52fd626143
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mwmt2n/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-21: My New Full Scale Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

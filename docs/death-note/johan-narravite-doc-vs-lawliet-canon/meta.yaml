@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-narravite-doc-vs-lawliet-canon
+category: doc
+title: Johan(Narravite+Doc) vs Lawliet(Canon)
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- death-note
+- monster
+characters:
+- johan-liebert
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vgTnz84lJkykK0fUJ2HrFZChdteNJtckbe6r1GR9HQc
+    google_id: 1vgTnz84lJkykK0fUJ2HrFZChdteNJtckbe6r1GR9HQc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1553
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 131652
+      sha256: 5a5fe2b28042272db34b1222b4e7c507769689ed1601b0935d9e42e8591ae258
+    - format: docx
+      name: document.docx
+      bytes: 282729
+      sha256: dc396547e94a07dce2163dc4a73b748bf3067a2efdc21824fe80b4b7431e2d9e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1lwem80/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-07-10: Johan(Narrative+Doc) vs Lawliet(Canon) Full Scale'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

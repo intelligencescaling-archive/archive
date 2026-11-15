@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-tokuchi
+category: doc
+title: Akiyama Tokuchi
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- liar-game
+characters: []
+tags:
+- matchup
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1s3IvPJCXYqszjVi59jo3NCu8pweGjbK6aLPhHP79ofM
+    google_id: 1s3IvPJCXYqszjVi59jo3NCu8pweGjbK6aLPhHP79ofM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 438
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 98254
+      sha256: 8a5f602f1d2bac30b15107e690cc210f035d882460e7d5fdfdaeb21cbab2ce00
+    - format: docx
+      name: document.docx
+      bytes: 279200
+      sha256: f6b356119aa7d3f33f3e4e2648f266a1413857bb413da98eb5b8b387e66144cb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mwtclv/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-22: Akiyama vs Tokuchi Full Scale Doc Remake'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

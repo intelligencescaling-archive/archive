@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-lawmaker
+category: story
+title: The Lawmaker
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-4jMsfVF_IN4o5WMmp1YuJpFGBA-odO9lC7FomKJMdM
+    google_id: 1-4jMsfVF_IN4o5WMmp1YuJpFGBA-odO9lC7FomKJMdM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 9030
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 303844
+      sha256: 97a7f05dc05ce93417a670488989710f30640e1e966ae179e396a304d3162eaf
+    - format: docx
+      name: document.docx
+      bytes: 30938
+      sha256: 387a6d437db786e3e0427b4e67935f9916687cfde1036de46cdd5cf343deac2c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uc70xg/
+  note: 'Shared by u/ConversationSea1684 in a post on 2026-06-22: Charles Morris'' cheating exposure feat (The Lawmaker)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: horikita-s-potential-by-ganve
+category: doc
+title: “Horikita's Potential” by Ganve
+authors:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1UtMMuSTNaxJpDPd4sG3N9CaALyKOTK1u0G0AKCq8kYw
+    google_id: 1UtMMuSTNaxJpDPd4sG3N9CaALyKOTK1u0G0AKCq8kYw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 3062
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1233848
+      sha256: dea552f80a989926533b3c261b614536e61408dddf2ea3de318ea40b9fce89ee
+    - format: docx
+      name: document.docx
+      bytes: 2086842
+      sha256: 0c71191fd00c9236d179f9f485a7e5c0f68501de733c66650d95a8f13a216257
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vx0zkn/
+  note: 'Shared by u/Obvious_Ad_6250 in a post on 2026-08-24: Analysis on suzune''s potential by ganve'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

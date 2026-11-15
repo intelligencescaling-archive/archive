@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aizen-kyoka-suigetsu-fsiq-debunk
+category: doc
+title: Aizen Kyoka suigetsu FSIQ Debunk
+authors:
+- name: Ornery_List_6670
+  reddit: Ornery_List_6670
+  source: reddit-post
+series:
+- bleach
+characters: []
+tags:
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=177ta0ZsgzaFEdPk24tLjXBkREM5khHdCRA-iPJZMvKg
+    google_id: 177ta0ZsgzaFEdPk24tLjXBkREM5khHdCRA-iPJZMvKg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 676
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 941019
+      sha256: 365c40e6a40aa291f2c272585438b6202a48f28b0b0dd35062360a88d137d505
+    - format: docx
+      name: document.docx
+      bytes: 1564406
+      sha256: bbabb84dfacc0fd98a27625ca88101bbb6773d7ea699aa164455f7f3656e5fe7
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qlt6c5/
+  note: 'Shared by u/Ornery_List_6670 in a post on 2026-01-24: Aizen kyoka suigetsu FSIQ Debunk'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

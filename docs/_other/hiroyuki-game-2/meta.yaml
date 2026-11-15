@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hiroyuki-game-2
+category: doc
+title: Hiroyuki Game 2
+authors:
+- name: Fun-Fold9539
+  reddit: Fun-Fold9539
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1x4wAtKv9DmiAUrRJrJMUNp34bpBynkvEtODH7guP-V4
+    google_id: 1x4wAtKv9DmiAUrRJrJMUNp34bpBynkvEtODH7guP-V4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 5196
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3569457
+      sha256: 1368aa67bb0a656cabc118d72d3d8b5beef9ae6a951fb73ac53f61901c78781e
+    - format: docx
+      name: document.docx
+      bytes: 3370989
+      sha256: 5b48eacc8834c568b5cece055050e1ae033f41fa9f7cd67e1d76c84bfd6f1067
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vq00d6/
+  note: 'Shared by u/Fun-Fold9539 in a post on 2026-08-16: I just found a New Mahjong character'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

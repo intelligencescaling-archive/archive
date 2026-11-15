@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vladimir-makarov-no-russian-document
+category: doc
+title: Vladimir Makarov “No Russian” document
+authors:
+- name: Veneno
+  source: doc-text
+series:
+- call-of-duty
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14oT2bCyvorWc6h5IFzTwbYw0txM3KbBO-JbS6KEJ5vw
+    google_id: 14oT2bCyvorWc6h5IFzTwbYw0txM3KbBO-JbS6KEJ5vw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 2182
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 238481
+      sha256: 4a305a0352e50c1020bf78db27a94f8fa8f7df4c673437f7a230f75b4a0d721a
+    - format: docx
+      name: document.docx
+      bytes: 842482
+      sha256: 5fed18b39c56fee8c11f8a196c4b8151a1e7090f43ae5020097a3e57656cd572
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1t7vtxh/
+  note: 'Shared by u/Mediocre-Neat-1207 in a post on 2026-05-09: Vladimir Makarov “No Russian” mini document:'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

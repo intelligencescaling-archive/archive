@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hello-i-have-a-dumb-thing
+category: doc
+title: Hello. I have a dumb thing
+authors:
+- name: sscoopers
+  reddit: sscoopers
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1OmiLRk-g1nN_JR6PhtFyDPC46NdON8_KVqviuK79qhs
+    google_id: 1OmiLRk-g1nN_JR6PhtFyDPC46NdON8_KVqviuK79qhs
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1r4pjpw/
+  note: 'Shared by u/sscoopers in a post on 2026-02-14: Hello. I have a dumb thing'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

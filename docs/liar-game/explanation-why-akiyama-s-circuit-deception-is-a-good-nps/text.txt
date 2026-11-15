@@ -1,0 +1,94 @@
+Akiyama’s circuit deception is amazing in NPS
+
+Created by ResponseLower49/Mob5850
+
+Understanding what the problem is
+
+Before analyzing the solution, we have to understand why the problem is  hard in the first place. The situation Akiyama is facing is not a "difficult problem" in the conventional sense but it is a structurally circular problem, which is a different category.
+A difficult problem has a solution that is hard to reach. A structurally circular problem has no reachable solution from within its own frame, because every method of solving it requires the very condition it is trying to establish.
+
+The specific circularity in this case is to produce vaccines, you need to identify who is "Normal" so those players can safely contact each other. But to identify who is "Normal," you need players to cooperate with some sort of trust-verification system. But the players who most need to be identified ("Infected") players are precisely the ones with the strongest incentive to refuse cooperation with any such system. Every mechanism you can propose requires the cooperation of the players who will never cooperate.
+
+This means the standard problem-solving methods don't work:
+
+Ask directly = "Infected" players won't self-identify and "Normal" players claiming to be Normal are indistinguishable from "Infected" players claiming to be Normal.
+
+Sequential contact without verification = Vaccine production  but spreads the infection and all plans demonstrated by Nao are in this failed plan sequence.
+
+Voting requires the same trust it's trying to establish.
+
+The problem is hard because the problem is a trap and approaching it directly makes it harder, not easier. Every proposed solution implicitly requires the precondition it's trying to create.
+
+This is why the feat is impressive: the first and most important thing Akiyama does is recognize that the problem is circular and that circular problems are not solved by harder effort within the same frame but that they require a frame change entirely.
+
+PROBLEM SOLVING
+
+Dissolving vs solving
+
+The most important move Akiyama makes is one that he stops trying to solve the problem and instead dissolves it.
+
+Solving a problem means finding a path to the goal within the given problem structure. Dissolving a problem means changing the structure so that the problem no longer exists in its original form.
+
+The original problem: "How do we get people to honestly reveal their status?"
+
+The dissolved formulation: "How do we create conditions under which players rational self-interest automatically generates the information we need?" These are two different questions. The first requires cooperation from people who won't cooperate and the second doesn't require cooperation at all. It only requires that people pursue their own interests, which they will do regardless.
+
+The insight that makes the dissolution possible is that normal and Infected players have structurally opposite incentive relationships to the test. A Normal player who takes the test and passes gains social credibility and participation rights (pure upside, no downside). While an Infected player who takes the test and fails is exposed and excluded (pure downside, no upside.) This means that in a free-participation environment, players who eagerly volunteer to take the test are almost certainly Normal, and players who find reasons to avoid it are almost certainly Infected.
+
+This insight  that the incentive asymmetry itself is the detection mechanism serves as the solution to the circular problem. You don't need to get anyone to cooperate honestly. You just need to get people to act on their own self-interest, which they will reliably do.
+The Idea that Akiyama came up with was to use the problem's own structure as the key to the solution. Instead of fighting in the circularity, he instead used the circularity. The very fact that Infected players will avoid the test is what makes avoiding the test diagnostic. In other words their resistance to the mechanism is the mechanism.
+
+Escaping functional fixedness/Domain transfer
+
+Even with the  dissolution above, there remains a practical problem. For the incentive asymmetry to produce diagnostic self-selection, the test must appear credible enough that players genuinely believe it will reveal their status. If players think the test is fake, Infected players won't fear it and the self-selection effect disappears.
+
+Here is where Akiyama makes his second major novel problem-solving move which is the domain transfer.
+The trust problem is fundamentally a social problem. Players don't trust each other and any human-administered test will be viewed with suspicion. Within the social domain there is no solution. But physics is not a social domain. Physical laws are not subject to human trust relationships. A player who doubts human argument/testimony might still believe that electrical signals from a watch objectively produce measurable physical effects.
+
+By anchoring the test in an apparent physics/technology framework, Akiyama removes it from the domain in which the trust problem operates. He doesn't ask players to trust him or to trust each other but asks them to trust physical principles and electrical circuits, which are perceived as objective and non-human. The trust problem evaporates because it is moved to a domain where it does not apply.
+
+This is domain transferring in peak form as it's not just applying knowledge from one domain to another, but also transplanting the entire problem into a different domain where the constraints that made it unsolvable no longer hold. The principle is pretty much the Einstellung escape (breaking free from the mental set established by prior failed approaches by introducing a conceptually alien element.)
+
+The pendulum is the physical embodiment of this transfer. As It's literally an object from the physics domain being introduced into a social negotiation problem. Its presence changes the nature of the problem.
+
+Separating the mechanism from the outcome
+
+One of the problem-solving insights in the entire scheme is that the mechanism doesn't need to be real for the outcome to be real.
+
+It might seem paradoxical. How can a fake test produce real information?
+
+The answer lies in recognizing that there are two completely separate information channels operating in parallel:
+Channel 1: The watch's electrical signals → the ball → Normal/Infected status. This channel is fake. The ball's movement is controlled by Akiyama's wrist, not by the watch's signals.
+
+Channel 2: A player's decision to volunteer for the test vs avoid it → Normal/Infected status. This channel is real. Players' self-interest drives this decision, and self-interest is a reliable signal of their status.
+
+Akiyama understood that the information he needed would flow through Channel 2, so he builds Channel 1 not because it produces information, but because the existence of Channel 1 activates Channel 2. Players will only exhibit the self-selection behavior (eager volunteering vs. reluctance) if they believe there is a test that can expose them. Channel 1 is the precondition for Channel 2 to work.
+
+This separation between the mechanism that appears to extract information and the mechanism that actually extracts information is the conceptual heart of the scheme. It is also sophisticated because it requires what you appear to be doing (running a technical status-detection test) and what you are actually doing (observing behavioral responses to the apparent test) to align without raising suspicion.
+
+Most people would think about the mechanism and outcome as coupled and that the mechanism produces the outcome. But Akiyama decouples them entirely. The apparent mechanism is just fiction. The actual mechanism is behavioral psychology. The fiction is a necessary stepping stone for the behavioral psychology to function.
+
+Engineering the environment
+
+A common failure mode in novel problem solving is trying to extract the desired answer directly from a resistant system. Let's call it the "interrogation approach", pushing harder on the system until it yields. When the system is adversarially resistant (as here, where Infected players are actively trying to conceal their status), interrogation approaches typically fail or escalate.
+
+Akiyama's approach is the opposite, he engineers the environment and then lets the system produce the answer automatically.
+
+He does not try to extract information from players but instead creates a set of conditions under which players natural behavior in pursuit of their own interests generates the information he needs without any coercion or direct extraction. The information is a byproduct of behavior, instead of interrogation.
+So he structures  the environment so that the information he needs emerges naturally from players acting normally. The insight is that in an adversarial context, direct extraction is often much harder than environmental engineering. Players can resist interrogation but they cannot easily resist their own incentives.
+
+The genius of this approach is that you don't need to be able to compel Infected players to reveal themselves. You only need to design a test that Normal players will eagerly take and Infected players will avoid, and then observe who does which. The adversary's attempt to hide becomes the detection mechanism.
+
+Prior set up
+
+The final aspect that makes this an exceptional problem-solving feat is the design set up:
+Setup 1 of the triple scheme was executed before the triple scheme existed as a plan.
+Positioning the suspected Infected player (Akagi) near the opposing faction during the break after Round 1 is the move that plants the group's subconscious association and was done before Akiyama even convinced the pendulum test.  At the moment of execution, Akiyama was solving a Round 2 problem (Akagi surveillance to keep players from joining Yokoya's three man coalition through surveillance pressure and to prime them with the idea that Akagi is infected, which would be a piece of psychological manipulation needed for the scheme) while he was simultaneously creating conditions for the Round 2 solution whose specific form he had not yet determined.
+
+This is a good understanding of optionality as a problem-solving strategy. Rather than committing to a specific solution path, he instead took an action that expanded his range of available future solutions. The priming effect serves a general purpose but it would still be useful in any scheme that involved the group's beliefs about the suspected Infected player's status. He knows exactly how he's going to use the priming but during that time was still searching for something to break the circular problem so he created the priming in advance as he got what he needed during the break (going around the warehouse to get the materials he needed).
+
+—----------------------------------------------------------
+
+For anyone who hasn't read it yet, here's a link to my analysis on Akiyama’s psychological manipulation during this scheme.
+
+Akiyama circuit psychological manipulation: https://docs.google.com/document/d/1h9ylN6umdgzMo_Yu7S3pqMk0L9mrHBh2-7z2y5p_aTw/edit?usp=drivesdk

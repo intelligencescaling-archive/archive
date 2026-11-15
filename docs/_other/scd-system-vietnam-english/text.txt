@@ -1,0 +1,948 @@
+The Vietnamese SCD System
+Smart Character Debate (SCD) — Terminology, Logical Scaling, Tiers, Scoring and Tier List 5.0
+English translation of “Hệ Thống SCD Việt Nam”
+________________
+
+Translator's notes
+* This is a full English translation of the 100-page Vietnamese PDF "Hệ Thống SCD Việt Nam" (the Vietnamese SCD – Smart Character Debate – system), which was exported from Google Docs. The source had 5 tabs, which appear here as the sections: Terminology, Logical Scaling, Tier Cate, How Points Are Calculated and How Characters Are Ranked, and Tier List.
+* The source contains about 65 embedded images (manga pages, screenshots and tier-banner strips) used as worked examples. They are reproduced in their original positions. Text that appears inside those images (e.g. speech bubbles, which are in Vietnamese) is part of the image and has not been retyped or translated.
+* Community jargon was kept in English as in the source (feat, cate, scale, hax, manip, onscreen/offscreen, debunk, aura, etc.). Character names and work titles are kept as written in the source; literal English glosses for the Vietnamese-language titles are in the appendix.
+* "Thẻ" (tab) refers to the tabs of the original Google Doc. "Thợ xẻ" (literally "cutter/sawyer") is rendered as "the Ripper" in the Hannibal passages.
+* Hyperlinks in the original (mostly to Google Docs holding the example passages) are preserved as links on the corresponding translated text.
+* Some of the source text is informal or has typos; the translation follows the meaning as closely as possible without smoothing over unclear passages.
+Terminology
+P/s: There are 5 tabs.
+* Tab 1: Terminology
+* Tab 2: A primer on logical scaling
+* Tab 3: Tiers along with representative characters for each category (standardized)
+* Tab 4: How points are calculated and how characters move up in tier
+* Tab 5: The names of the characters in Tier List 5.0
+For some categories that are hard to grasp or wordy, real-life examples are used for illustration.
+Definitions of Terms in Smart Character Debate
+1. Terms with a 1.5-point weight:
+• Full-Scale IQ:
+* Processing Speed Index (PSI): an index of how fast information is processed.
+* Working Memory Index (WMI): an index of memory and information storage.
+* Visual-Spatial Intelligence (VSI): the ability to think, reason and solve problems about space, through spatial intuition, perception of structure, a sense of space, and reasoning based on visual plausibility.
+* Verbal Comprehension Index (VCI): an index of the ability to understand and use language.
+* Fluid Reasoning Index (FRI): an index of flexible reasoning; it measures the ability to solve novel problems using logic and reasoning.
+Example for VCI: Here is Trạng Tí, along with another example about parody poems of Độ Mixi
+Note: only the ability a character actually demonstrates, and to what degree, is counted; stated facts are not scored directly. For example, if A is stated to speak English but A never demonstrates speaking English, it does not count.
+Example for WMI: Akiyama's 17-card poker
+ Original example image p003_000
+
+Example for PSI: Even with a gigantic boulder about to fall, still having time to work out tactics
+ Original example image p004_001
+
+Example for VSI:
+ Original example image p005_002
+
+• Overall EQ:
+* Emotional Management (EM): managing emotions. Emotional management is being able to adjust the emotions you want to show outwardly or to others, and thereby steer other people's guesses about your current emotional state. Staying calm or not showing emotion is the weakest form of EM, whereas regulating one's own emotions is at a higher level.
+Example, as in the following images:
+ Original example image p006_003
+
+ Original example image p006_003
+
+ Original example image p007_004
+
+ Original example image p007_004
+
+* Emotional Engagement (EE): emotional bonding; the degree of deep psychological and emotional connection between people, going beyond ordinary behavioral interaction.
+Example: Luffy motivating Robin
+ Original example image p009_005
+
+ Original example image p009_005
+
+* Emotional Understanding (EU): the ability to recognize, accurately name, and understand the causes and consequences of emotional states, in oneself and in others.
+Example: the following summarized excerpt of Cal Lightman
+At the start of the interrogation, Cal says the FBI already knows the suspect wants to cause mass casualties, so the ATF is currently searching every corner of the two largest Black churches in the state. Right at that moment, he notices the corner of the suspect's mouth lift slightly for a very short time. In Cal's research, this is the concept of a so-called "micro-expression".
+The suspect's smirk was delight at knowing the ATF was investigating in the wrong direction, and the suspect tried to hide it very quickly. Cal nevertheless recognized it immediately.
+* Emotional Perception (EP): the ability to detect, identify and accurately decode other people's emotional signals through facial expressions, body language, tone of voice, context, etc.
+Example: I will use the character Stewie in Brian & Stewie.
+According to the sociologist Erving Goffman and his theory of Dramaturgy, people always play two roles: the "Front Stage" (where we present the best version of ourselves to society) and the "Back Stage" (where we let go).
+In a happy marriage that still has "fire", the partner is still regarded as a VIP audience. We still want to keep our attractiveness, respect, and a bit of mystery in front of them. We comb our hair, change into clean clothes, and maintain our image.
+When someone stays in pajamas until 4 p.m., they have unilaterally declared: "The other person is no longer an audience worth making an effort for."
+They have erased the boundary between Back Stage and Front Stage. The spouse is no longer a lover to be charmed but has become a piece of furniture in the house — so familiar there is no need to keep up appearances. This is a sign of Contempt or Indifference — two of the "four horsemen of the apocalypse" that kill a marriage.
+• Overall SQ:
+* Social Awareness (SA): the ability to recognize emotions, understand needs, and grasp the behavioral rules of the people around you.
+Example: Moriarty's display of this ability
+ Original example image p011_006
+
+* Leadership: building consensus and guiding a group to cooperate so as to turn a shared vision into reality, carry out the set strategy or plan, and thereby help the group achieve results.
+Example: here we will take Kain.
+Kain designed a very careful performance-evaluation mechanism to limit dissatisfaction within the group.
+After each battle, the loot is not fully divided right away. Instead, the Supervisor chooses an extra reward level from 0% up to a maximum of 50%. This percentage is set aside first, and the rest is divided equally among everyone.
+Example, choosing the 20% level:
+20% of the loot is held back as a reward.
+The remaining 80% is divided equally among the whole team.
+Then the 20% that was held back is given to the individuals with the most outstanding performance.
+The key point lies in human psychology.
+If a person feels that something that should belong to them has been "taken away", they easily become dissatisfied. But if they see others simply "getting an extra reward" for doing better, they will accept it far more readily.
+So people will think:
+"That person is better, so they receive an extra reward,"
+instead of:
+"We did the same work, yet I got less."
+Kain understands that in the current circumstances, internal conflict is extremely dangerous. Even a little dissatisfaction could weaken the whole group and cause damage to grow enormously, so he wants to stamp out that risk early.
+* Negotiation: the process of exchange and discussion between two or more parties with conflicting or differing interests, in order to find an agreement all parties can accept. It is a process of "give and take".
+Example: Sukuna negotiating with Yuji
+ Original example image p013_007
+
+* Persuasion: the process of guiding and influencing another person's thoughts, attitudes, beliefs or behavior through reasoning, evidence or emotion, so that they voluntarily agree with your viewpoint without being forced.
+Example: Tạ Diệm persuading Từ Mẫn
+ Original example image p015_008
+
+ Original example image p015_008
+
+ Original example image p015_008
+
+ Original example image p015_008
+
+• Overall Reasoning:
+* Deductive Reasoning: (Deductive reasoning is the process of drawing conclusions from premises that are generally taken to be true. Also called "deductive logic", it uses a logical premise to reach a logical conclusion. Deductive reasoning is often called "top-down reasoning". If something is held to be true, and something else relates to that first assumption, then the original truth must also hold for the second thing.)
+Illustrative example:
+ Original example image p017_009
+
+Example in fiction:
+ Original example image p018_010
+
+ Original example image p018_010
+
+* Inductive Reasoning: (Inductive reasoning generalizes about a problem from a certain amount of observation. It is a scientific method that has been used extensively throughout history: forming hypotheses from small samples and thereby finding rules that apply to larger samples. It is extremely effective when used properly. However, if you use inaccurate or unrepresentative data, the conclusion may be flawed. The core of inductive reasoning is the ability to look at results, events, ideas and observations and draw a unified conclusion from them.)
+Real-life example: if you notice that in the sequence of numbers 2, 4, 6, 8, you conclude, "This sequence is a sequence of even numbers and the next one will be 10." (The rule is to add 2.)
+Or: after running many experiments and observing that water boils at 100 degrees Celsius, we can conclude that "All water boils at 100 degrees Celsius at standard pressure."
+Example: the following code-breaking reasoning passage
+ Original example image p020_011
+
+ Original example image p020_011
+
+* Abductive Reasoning (or abduction): reasoning by assumption; a form of logic used to "guess" causes in order to explain an effect. In essence, abductive reasoning is similar to deductive reasoning. However, deduction is certain, whereas abduction is hypothetical and takes the most probable case.
+Example: B is driving on the road. Ahead of B are three turns, all leading to B's workplace. On the left turn, B sees a long line of cars bumper to bumper, unable to move forward. On the road straight ahead, B hears sirens and sees an ambulance's warning signals half a kilometer away. B reasons that an accident has happened ahead. B listens to the news and learns that the turn on B's right is under road repair and temporarily closed to traffic. After weighing it up, B decides to go straight, since that is the best solution given all the available data. In this case, even though there is an accident, traffic flow is still better than on the left and right turns. This is abductive reasoning.
+An extremely easy-to-understand illustration:
+A mother gives her child 6,000đ to go down to the market to buy a lemon.
+The lemon costs 4,000đ.
+Vietnamese currency has no 6,000đ note, so there are many different possibilities.
+1/ Mom gives: 5k + 1k, so the child pays 5k and the seller gives back 1k + the lemon => the child brings home 2k to Mom.
+2/ Mom gives the child three 2k notes => the child hands the seller two notes = 4k for the lemon => the seller gives no change.
+3/ If Mom gives the child one 2k note and four 1k notes …, then …
+4/ Mom gives the child two 2k notes + two 1k notes … then …
+"Mom gives: 5k + 1k, so the child pays 5k and the seller gives back 1k + the lemon => the child brings home 2k to Mom."
+First, to reach the conclusion of which notes the child holds when they have 6k, there are shared premises and a conclusion for each case, as follows:
+Case 1:
+General premise (generalization):
+Vietnam has 1k and 5k notes.
+1k + 5k = 6k
+The child has 6k (specific case)
+Conclusion for the specific case:
+The child holds a 1k note and a 5k note.
+Case 2:
+General premise (generalization):
+Vietnam has a 2k note.
+2k × 3 = 6k
+The child has 6k (specific case)
+Conclusion for the specific case:
+The child holds three 2k notes.
+=> This reasoning goes entirely from the general to the specific.
+Example: Miêu Miêu's reasoning
+ Original example image p022_012
+
+ Original example image p022_012
+
+ Original example image p023_013
+
+ Original example image p023_013
+
+ Original example image p024_014
+
+• Overall Thinking:
+* Critical Thinking: critical thinking. Mainly about re-examining problems, spotting blind spots in thinking, etc.
+Example: Kindaichi re-examines everything from the beginning to find the answer and reasons it out:
+ Original example image p025_015
+
+ Original example image p026_016
+
+* Analytical thinking: the act of analyzing a problem and coming up with a solution to it. It is also a way of breaking complex information down into smaller parts.
+Example: The character displayed analysis extremely clearly
+ Original example image p027_017
+
+* Strategic thinking: the act of thinking systematically with clear logic, oriented toward the future, and thereby drawing up plans and strategies.
+Example, such as the following strategic thinking:
+ Original example image p028_018
+
+ Original example image p029_019
+
+ Original example image p030_020
+
+* Abstract thinking: abstract thinking is the glue of thought. The reason humans are special and different from AI is associative thinking, a kind of abstraction that a "machine" can only imitate on the surface (as in the Chinese Room experiment) without truly grasping the depth within it (which is also why using AI to scale feats of IQ is bad, since many things can only be understood in their true meaning by a human mind). "Mountains are not mountains, rivers are not rivers; only when a person looks at the mountain does it become a mountain, and the river a river." In short, connecting, decoding, soaring flights of thought, digging deep... are all abstraction.
+Example: such as the following passage (psychology and mathematics are by nature both abstract)
+ Original example image p032_021
+
+ Original example image p032_021
+
+• Overall Manipulation:
+* Direct Manipulation: controlling and dominating another person's thoughts, emotions or behavior through threats, enticement, coercion, … and other sophisticated tactics in order to achieve personal goals. This kind of manip is built on fear or coercion, so the reliability of the bond is not guaranteed and it easily creates a risk of backfiring.
+Example:
+Yuuichi psychologically manipulated everyone about how wonderful Shiho is — even though this was true, she had never stood out that much before. Or his engraving into Gouri's mind the cruelty of Yuui, making Gouri hate Yuui without knowing that he was being provoked by Yuui into doing what Yuui wanted.
+* Indirect Manipulation: manipulation carried out through any intermediary, so that the targets are gradually manipulated without clearly knowing the original source of the manipulation. The intermediary sources here can be people, evidence, clues, environment, … The manipulator works through a 1st, 2nd, … Nth intermediary; the farther away the intermediaries are, the harder it is to find the original source. This is a sophisticated kind of manipulation that is hard to recognize or resist because it is hard to know who the mastermind is.
+Example:
+ Original example image p034_022
+
+ Original example image p035_023
+
+Or Kain's play, if we need more aura to understand — extremely short but easy to follow:
+Kain realized that the weakness of Cecilia's team lay not in strength but in the fact that Cecilia was too detached from her 4 teammates, leaving them craving recognition.
+He deliberately approached and chatted with them in order to:
+   * build goodwill,
+   * plant the thought that Cecilia is too domineering,
+   * and at the same time make Cecilia suspect that her teammates were being manipulated.
+Because she was wary of Kain, Cecilia controlled her teammates more and more, while the other 4 felt increasingly stifled and came to believe Kain understood them better.
+First battle:
+Cecilia fought alone because she suspected her teammates of betrayal.
+Kain used himself as a smokescreen, deliberately getting defeated so that Mera, hiding behind, could deliver the finishing blow to Cecilia.
+After the battle, Kain continued to stir up in the 4 people the desire to "save Cecilia and be recognized by her".
+Second battle:
+Cecilia feigned weakness to lure out the "traitor".
+But the other 4 thought she was truly in danger and rushed in to help.
+Cecilia saw that as betrayal and turned to attack her own teammates.
+In the chaos, Kain's team finished off Cecilia.
+Kain's whole strategy was:
+   * sowing suspicion,
+   * amplifying existing emotions,
+   * making Cecilia and her teammates misunderstand each other and ruin their own bond.
+* Mind Manipulation: the deepest and most extreme form of psychological control. Unlike ordinary behavioral manipulation, mind manipulation directly attacks the victim's belief system, values, self-perception and capacity for independent thought, and can thereby distort their true nature. Because it acts on cognition, it is very hard to realize you are being manipulated from ordinary signs alone.
+Example: Hannibal:
+After arriving, they see Chilton being dissected, and luckily he is still alive. Will feels mentally unstable; he tracks down Gideon's car parked nearby, waits for Gideon to arrive, then pulls a gun on Gideon and forces him to take Will to Hannibal's house instead of notifying the FBI.
+When they get to Hannibal's house, Will has a mild seizure because what he sees is Hobbs rather than Gideon. Hannibal calms Will and says there is no one there but him and Will. Will looks frightened, then falls into a state of panic; he believes he is losing his mind.
+Afterward Hannibal leaves Will be and talks with Gideon. Hannibal says Gideon knows he is not the Ripper and that Hannibal doesn't know who he himself is either; Hannibal says it is frustrating that his identity has been lost. Gideon also says he is on a path to find the pieces of his own identity. Hannibal helps him by sharing the location of Alana (who had also once treated him psychologically).
+After Gideon leaves, Hannibal wakes Will up, saying he needs to go help the police; he deliberately mentions Alana's name and leaves a gun on the table. Will takes it and goes to Alana's house, where he finds Gideon. Will and Gideon talk about what they have in common — both are searching for their own identities. Will sees the image of Hobbs and shoots Gideon, and immediately passes out.
+-> The whole incident of Will shooting Gideon was calculated by Hannibal. Hannibal knew Will's delusional disorder was getting worse and that Will saw Gideon as if he were seeing Hobbs. Hannibal pushed this along by recreating the scene of Will shooting Hobbs for the first time, only with Gideon as the target, in order to throw Will into a state of intense mental agitation. The desire to be free of Hobbs made Will fire at Gideon, which in the eyes of outsiders made him someone who could act without hesitation, while also gradually making Will himself believe, through his own delusions, that he is a killer.
+* Mass Manipulation: manipulating a crowd by various means to control and shape their thinking, emotions, beliefs, etc. This kind of manipulation is a more comprehensive and encompassing combination that includes part of mind manip and indirect manip, and often goes together with social phenomena and group phenomena that produce cross effects to strengthen the manipulative bond.
+Example: Lloyd, in the following passage, manipulated a large number of people with water
+ Original example image p037_024
+
+ Original example image p037_024
+
+ Original example image p037_024
+
+* Individual Manipulation: a person deliberately using psychological tactics to control and steer the thoughts, emotions or actions of one specific individual in order to achieve a goal. Individual manipulation demonstrates the ability to control a single person independently, rather than influencing a whole group at large.
+E.g.: Brother Johan's aura (honorary slot)
+Johan manipulating Richad
+ Original example image p038_025
+
+• Overall Mind Reader:
+* Type 1:
+   * Form 1: Reconstructing the truth from scattered clues/pieces according to logical relationships, through reasoning (broad).
+Example, such as Kura here:
+ Original example image p039_026
+
+   * Form 2: Reading an opponent, as in smuggling or stl (deep).
+Some people may not understand Form 2, so here I give 2 examples of this form.
+Example 1:
+Shikamaru deliberately hides in a grove of trees to lure Temari into analyzing and blowing them away with her fan. He anticipates that Temari will observe the shadow of the wall to calculate precisely the limit of his straight-line attack range, which is 15.32 meters.
+Temari discovers the rule by which the shadow operates. When Shikamaru uses his jacket and a kunai as a mini parachute to extend the shadow (misleading her with the timing of the sunset), Temari completely reads the truth: he can change his own shadow but cannot change the shape of other objects' shadows. She uses a clone to lure him into attacking so she can counterattack.
+All of the above calculations were within Shikamaru's expectations. He deliberately let Temari be absorbed in calculating the limit of the shadow's length under the sun so that she would neglect the ground. As a result, Temari was lured to exactly the spot between two holes (traces of the previous battle), and Shikamaru's shadow passed through the holes, circled behind her, and bound her tightly.
+-> A reads B, B discovers this and reads A in reverse, A reads the chain of B's reverse-reading and traps B.
+Example 2:
+Layer 1: Near reads that Light will accept a meeting at the warehouse, where Mikami would peek in and write the names of everyone except Light. But because Near had read this in advance, the notebook was swapped, no one died, and Near only needed to catch Mikami and confiscate the notebook; whoever's name is not in it is Kira.
+Layer 2: Light had read all of the layer above and was guiding Near according to his own plan. Mikami's notebook was a fake; the real notebook was in the bank. The reason people still died when Mikami wrote names in the fake notebook is that Mikami used his phone to message Takada — the person who was sent the sheet of notebook paper => he successfully fooled Near's detectives into thinking the notebook Mikami carried was the real one, without knowing that the notebook that had been swapped was a fake and the real bank notebook remained intact. Light read that Near would exploit Mikami's habit of writing a full page per day — Near would replace all the pages from the day Light and Near met, rather than replacing the entire notebook; (as for) why couldn't the earlier pages be replaced as well…
+-> A reads B, B reads A who has already read B.
+* Type 2:
+   * Form 1: From outward expressions, inferring a person/personality/state, usually EP (broad).
+An extremely easy-to-understand example from 011:
+When the forensic examiner shows him the corpse, 011 is astonished to realize that the dead person is not the "Tần Ngọc Lâm" he had talked with, but he has to hurriedly cover it up in front of the suspicion of investigator Lưu Kỳ. Before leaving, Lưu Kỳ leaves a business card for 011 to contact him if he remembers any new clues. Afterwards, 011 questions Tiêu Hải about the identity of the corpse. Although Tiêu Hải repeatedly insists that it is definitely Tần Ngọc Lâm, his eyes unconsciously look up and to the upper left — a sign that the brain is searching for real memories. The contradiction between the stock, as-if-prepared answer and this micro-expression reaction makes 011 realize that Tiêu Hải is not making things up, but is deliberately using a fixed assertion to conceal a real experience he does not want to reveal.
+   * Form 2: Grasping someone's psychology to fully read the actions they have taken/will take, starting from the emotional/psychological root cause (deep).
+A fairly good example of Form 2: Mind reader Type 2 Form 2, solid
+ Original example image p041_027
+
+ Original example image p041_027
+
+• Overall Deception:
+* Fabrication: creating fabrications and deceit.
+* Information control: controlling information.
+* Misdirection: diverting attention.
+Some people may not understand this clearly, so I will help everyone understand by giving an example:
+Example:
+A wants to kill someone (or has another motive) by disguising himself as a police officer. A puts on a police uniform, drives a car with a police logo and warning lights, strikes the hands-on-hips pose police often use when getting out of the car, rehearses questions police often ask, and prepares a fake badge => Fabrication (by building up details to fabricate the false truth that he is a police officer).
+The misdirection here is that A has misled everyone about the fact that he is a police officer, so that when the murder occurs and it is discovered that there was a "police officer" in the area, the investigation will be misdirected.
+The information control: the information gap was created by A himself (he knows he is not a police officer and others do not, because he disguised himself beforehand, not because the two sides have a difference in the amount and background of information they hold).
+Example of Information control:
+And the significance of Vincent's arrest is that this guy will give up information about the Clockmaker (Duncan clearly knows that someone like Vincent could never withstand police pressure) — information that Duncan had let him know in a controlled way throughout the "cooperation". The process of feeding information to the police made them believe the Clockmaker was a psychotic avenger, which also fits the traits Duncan deliberately planted into the criminal profile (a murder motive hard to accept if one thinks properly, an obsession with torturing victims in the most painful way possible, cooperating with someone equally twisted…), rather than the contract killer he was in reality.
+Example of Fabrication:
+The whole story created by Hannibal is as follows: Chilton is the Ripper; Miriam investigated him but was captured by him and hypnotized into forgetting all her memories; he then killed people and pinned the blame on Gideon, but discovering that Will was someone who could threaten him, he created a copycat case; he could access the case files and so could recreate these murders and pile all the evidence onto Will; when Will entered his psychiatric hospital, he manipulated Will by unorthodox means to make him think that Hannibal is the Ripper; Chilton naturally hates Hannibal and has psychological and medical credentials identical to his, so Chilton was chosen; he left Hannibal's fingerprints as evidence while taking the opportunity to manipulate Jack into thinking Hannibal is a cannibal. The whole story and the characters' behavior were all seen through by Hannibal and shaped into a plan in which one person manipulates everyone, and this person misdirects everyone away from himself while Hannibal is the true mastermind, misdirecting everyone with a plausible story that he himself created.
+Example of Misdirection:
+Changso Oh makes Pjy imitate Tom Lee's fighting style: he pretends to throw out the move he had prepared for Lee Do Gyu (Tom Lee), making Pjy think that this is the guy's real purpose, and Pjy counters by imitating Shingen's knife-parrying fighting style. This diverts Pjy from Changso's real purpose, which is to chop off Pjy's pinky finger, leaving his fist without strength.
+And it goes on longer:
+Layer 0: Bạch Ô mentions Tôm Lê => acts as if he hates Tôm Lê => displays strength of 3 realms.
+Layer 1: In fact it was all to lure Pjy into using the stand Tôm Lê, which both beats his 3-realm form and insults Bạch Ô for being killed with the skill of the one he hates most => he was only waiting for this to switch on 4 realms and launch a skill that counters the Tôm Lê skill.
+Layer 2: In truth Bạch Ô knows that against a monster like Pjy, a counter skill won't do much because the gap in strength is too large, so that counter skill was only to lure Pjy into blocking it bare-handed at close range => remember that Pjy has stands that hit extremely fast, e.g. Choi or Golden Lightning (Tia Chớp Vàng); if he spams those it's no different from spamming constant CC, and Bạch Ô couldn't even get close. That is why Layer 1 had to exist: to force Pjy to switch style to a "prison" style like Tôm Lê's Earth King => successfully severing Pjy's right thumb, reducing his strength and setting the table for Kitae.
+ Original example image p044_028
+
+ Original example image p044_028
+
+ Original example image p044_028
+
+• Overall Psychology:
+* Profile: analyzing the behavior, personality traits and thought processes of a subject based on their actions and data.
+Let's take as an example the following passage of Isagi:
+ Original example image p045_029
+
+* Warfare: using psychological tactics, words and behavior to pressure or weaken another person's morale, confidence, etc.
+Taking a fairly clear example in attack:
+ Original example image p046_030
+
+ Original example image p047_031
+
+ Original example image p048_032
+
+* Insight: the ability to understand and perceive the psychology of a subject.
+Here we will take Kuro as the example:
+ Original example image p049_033
+
+ Original example image p049_033
+
+ Original example image p050_034
+
+ Original example image p050_034
+
+• Information Gathering:
+* Method: how information is found and obtained.
+Example: Batman goes onto a chat site to extract information + herd the culprit.
+ Original example image p052_035
+
+ Original example image p052_035
+
+* Process: narrowing down/filtering information, which also includes processing the information (analyzing information, connecting information).
+Example, like this:
+The other party also revealed his identity as Hector Silva, of Chu Kiêu's action team. 011 knows this name and has even fought against him, so this common ground seems like something that can be exploited. Setting that aside for now, 011 calls Silva and asks whether it is convenient to talk right now, but as soon as he says it he regrets it. The phrase "is it convenient to talk" itself means "to talk privately" and is fine in itself, but this is a Chinese-language speech habit, and right now he is Rhode, a Sumerian-language researcher from North America. Fortunately for him, the other party was not too sensitive about it and immediately replied, "It's very convenient for me to talk, I'm not injured." The other party's reply gave him two pieces of information: first, the other side's guard against him was not yet very tight; second, there are injured people on their side, because "I'm not injured" was not information he had asked for, which means that "injured" is what fully occupies their minds or is a painful problem for them. Silva emphasized the subject "I" as a way of separating himself from the general situation, showing that "injury" is the focus at the scene; moreover, Silva no longer discussing things when revealing information shows that the other group's structure is losing its command capacity — a collective that is falling apart, has casualties, and is gradually letting its guard down.
+* Output: extracting accurate information based on the information that has been gathered.
+Example: judging that this person has a leg disability because of a limp = output1 (only one step of conversion). Continuing, judging that this person once did heavy labor because of calluses on the hands = output2. Continuing, judging that this person has uneven shoulders from posture = output3. Finally concluding that this person is a construction worker who does heavy labor and so got injured = output1 + output2 + output3 (rather than taking objective, direct data and jumping straight to a conclusion). Separately, a single piece of output 1, 2 or 3 is only a puzzle piece used to infer, not the conclusion itself.
+Example, such as Conan:
+ Original example image p054_036
+
+2. Terms with a 2.5-point weight:
+• Overall Strategy:
+* Strategy building: building a strategy.
+Example:
+In a work room flooded with yellow lamplight at midnight, Cổ Đế is intensely focused on building a restructuring strategy for the company's retail chain. He gives no generalities; instead he meticulously breaks the goal down into three clearly defined rolling phases for the next 18 months.
+First, he positions the core customer segment by analyzing the shopping data of 50,000 members, pinpointing urban Gen Z as the main growth driver. From there, Cổ Đế sets extremely demanding action KPIs: cut warehouse operating costs by 15% in the first quarter by applying an automatic inventory forecasting algorithm, and at the same time raise the conversion rate on the mobile app by 25% through real-time personalization of the interface.
+Not stopping at the rosy picture, Cổ Đế's strategy shows sharp defensive thinking as he proactively builds two detailed risk-management scenarios. If a direct competitor cuts prices by more than 10%, the system immediately triggers a program offering an after-sales service package to retain customers instead of being dragged into a profit-draining price war. Every budget line, every person primarily responsible, and every weekly progress checkpoint is color-coded clearly on the diagram by Minh, turning the strategy document into a machine that runs precisely down to each gear.
+* Strategy Shielding: a shielding/defensive strategy.
+Example:
+Hannibal's plan needs to make use of mass killing. To make sure the plan runs into no problems, he reuses the Ripper identity so that the media know the Ripper is still at large; organ traffickers will take the opportunity to operate more rampantly, twisting their crimes into Ripper cases to mislead the FBI, while Hannibal takes advantage of this by changing his method of committing crimes so as to blend in with these people, making it hard for the FBI to trace him too early.
+* Strategy complexity: the complexity of a strategy.
+To see the complexity of a strategy, I will take 2 examples to compare.
+Example 1: Goal: create a surprise birthday for B.
+Strategy 1: A messages the whole group to come to A's house at 7 p.m. Then A invites B over to A's place to play games as usual. When A opens the door, everyone sets off fireworks.
+This is simply "tricking B into coming over to play and then surprising them". Are there risks? Yes. What if someone in the group arrives late and runs into B at the door? Or B happens to see someone buying a cake? What if B gets suspicious and grills A: "Why did you suddenly invite me over today?"
+Strategy 2: A considers the entire group of friends.
++) A knows that C in the group is someone who often lets things slip -> instead of making C keep the secret, A tells C that the party will be held tomorrow for some reason. Only at the last minute does A call C over -> B cannot extract information from C because C himself doesn't know.
++) A knows B is very suspicious, so A deliberately lets B see that A is booking a restaurant -> B smugly thinks, "Ah, they're planning a surprise birthday at the restaurant, I see through it" -> B mentally prepares to go to the restaurant. But B never expected that the restaurant is just a "fake trap". While B is on the way to the restaurant, A asks B to stop by A's house to pick something up -> the real surprise party is at A's house.
+We can see that with the same goal, Strategy 2 is much more complex than Strategy 1: it has to account for multiple targets, B and C, and set additional fake traps that can mislead B -> creating the surprise (the main goal) while controlling the fewest variables.
+Example 2: Robbers want to rob a bank and come up with 2 strategies:
+1: The bank robbers cooperate with teammates to go in and rob the bank, retreat right when time is almost up for the police to arrive, and have a prepared route so that along the way they can swap vehicles, clothes, etc. Finally they escape with the money.
+2: The robbers run a strategy that deceives the police into thinking they want to hijack a cash-transport vehicle and bomb the city. But in reality it is only a ruse to split the police's resources and delay the pursuit; everything else is as above.
+Here, the complexity is shown in that the robbers set up a deception strategy to solve the problem that, if police resources are too large and they get news early, it will be hard to escape.
+* Strategy Adaptation: the ability to recover a strategy.
+Example:
+A's bank-robbery plan was a long strategy in cooperation with B, but when the time to execute comes, B is arrested. A immediately carries out a series of tactics to shift blame or falsify clues so that the police are misled into thinking they arrested the wrong person, and thereby release B, and so the original strategy can continue.
+* Strategy Efficiency: the efficiency of a strategy.
+Example:
+Facing the enemy's fortified fortress with supplies at less than one third of the quota, General A understands that this battle cannot be won with firepower. A forbids the whole army from launching any large-scale siege, and instead turns every single bullet into a deliberate tool for applying pressure. Artillery and soldiers fire only at reasonable moments on key areas along with some direct locations (meaning striking non-key places), so the enemy cannot determine whether the other side still has plenty of firepower; at the same time, A has scouts locate the positions of water sources and provisions while the enemy is being misled by the earlier firepower.
+Through this handling, the enemy did not dare to attack and decided to hold on defensively, and A took the opportunity to request aid.
+Once aid arrived, A ordered attacks on the positions that had been scouted beforehand.
+Meanwhile the enemy soldiers saw that A's side, though firing constantly, still had a great deal left + they were losing food and water -> morale dropped -> defeat.
+Here A used scarce resources sensibly to deceive the enemy; of course this is only an example and basic, so it is not at all advanced.
+* Strategy Effectiveness: the effectiveness of a strategy.
+Example:
+Context: Trình Thực needs to save his teammates in the future but must make Bạch Phỉ willing to do it without suspecting his own identity and without suspecting that he is doing it deliberately.
+Trình Thực poses as "Chân Dịch" to manipulate the entire situation. When Bạch Phỉ is curious about the true prophecy, he uses time pressure and her curiosity to force her to cooperate before he will reveal it. He asks Bạch Phỉ to plant a bomb in the main laboratory, giving as the reason that he wants to create a "destructive fireworks show" as a joke that will last hundreds of years. At the same time he deliberately stirs up Bạch Phỉ's ambition by hinting that the God may take notice if she destroys a stretch of history.
+Trình Thực then, through a series of tricks, makes Bạch Phỉ bitterly resentful; by the time the request is carried out, Bạch Phỉ not only wants to wipe out that stretch of history as an offering to the God but also to ruin Chân Dịch's "fun". Out of resentment at being deceived and teased, she decides to plant bombs throughout the entire laboratory area, leaving out only the main lab in order to bankrupt his plan.
+All of these reactions were within Trình Thực's calculations from the start. He deliberately planted in Bạch Phỉ a craving to be noticed by the God, then acted as though he only wanted to play around, to provoke her into resisting by quietly modifying the plan. Trình Thực pretended not to know that Bạch Phỉ had changed the bomb location, and left.
+As a result the entire laboratory area exploded except for the main room, and that allowed the group PTT, BL, TTT, QN (Trình Thực's future teammates) to survive. But saving people was only a secondary goal. Trình Thực's real goal was to have as many people die as possible to repay his debt to the God of Death. He even deliberately used the belongings of the believer "Yên Diệt" as sacrifices to ensure the God of Death would be interested in "collecting the bodies".
+The entire strategy ultimately let Trình Thực:
+* Repay his debt to the God of Death.
+* Deceive everyone with the identity "Chân Dịch" so as to avoid grudges being held against himself.
+* And at the same time save his teammates.
+• Overall Planning:
+* Long-Term Planning: long-term plans.
+Example:
+Your goal is to get into your first-choice program with ease.
+As soon as you enter 10th grade, you begin studying and practicing for the provincial-level physics competition throughout the school year.
+In the first half of 11th grade, you were lucky enough to be selected for the provincial exam even though you had to compete with 12th graders — all thanks to the large amount of free time you spent practicing in 10th grade while your future competitors back then, the 11th graders, were preparing for the 12th-grade graduation exam and so could not focus on specialized practice the way you did. You take the provincial exam and win second prize.
+In the second half of 11th grade, after escaping the pressure of the specialized-subject exam, you turn to studying the subjects that count toward bonus points, such as IELTS, thinking-skills assessment, …
+In 12th grade, at the start of the year, you have just finished the extra exams you studied for in 11th grade: IELTS 7.5, thinking assessment 80+. You immediately switch to preparing for graduation exams and sign up for additional tutoring classes in math and literature. At exam time you do excellently with a total of 27 points.
+Together with your earlier achievements, you can easily be admitted to your desired first choice.
+=> This is a plan that was laid out from 10th grade, spread across 3 years with specific actions to take in order to reach the goal. However, during these 3 years many incidents and significant mistakes can still occur, so when planning you must prepare countermeasures carefully and thoroughly.
+Additional example: with Tề Hạ's 70-year plan:
+=> Quietly building everything in order to overthrow the train system and the Heavenly Dragon (Thiên Long). He repeatedly launches SSBT, sets up a network of allies, plants his former teammates as Zodiac members, manipulates the rooms, and guides the development of the Extreme Path (Cực Đạo).
+=> After gradually losing his humanity because of Karmic force and repeatedly returning from "Eternity" (Vĩnh Hằng), Tề Hạ uses many loops to collect memories, restore his teammates, create "An", and at the same time perfect the final plan.
+- In the decisive-battle stage:
+=> Thương Hiệt releases everyone's memories, isolates Thanh Long (Azure Dragon), the Extreme Path breaks the bell and opens the path for the ants.
+=> The Zodiac members rebel against the Heavenly rank.
+His former teammates coordinate to pull the Heavenly Dragon into a trap, creating Station 3.
+=> Finally the train is destroyed to take humanity to Station 3, escaping the loop and the control of the system.
+(There is a conclusion that follows after Planning complexity.)
+* Short-Term Planning: short-term plans.
+Example:
+Today is the release day of the comic book you love and you need to buy it to follow along.
+You go do household chores — sweeping, washing dishes, doing laundry, … — and so your mom rewards you with 50k.
+With the money you just earned, you quickly go to the bookstore and buy the comic.
+=> Unlike long-term plans, short-term plans are somewhat simpler. A short-term plan can easily be laid out and arranged, with few risks that can occur in the process.
+* Resource Utilization: the ability to make use of the resources already available within a plan.
+Example:
+In the Vũ Đương Hưng doc of Cổ Trần Sa, Cổ Trần Sa makes a plan to lead all the opposing factions to keep each other in check, on the premise that the Heavenly Dao Law (Thiên Đạo Pháp) ability can impersonate anyone whose cultivation is not higher than his own. If Cổ Trần Sa had used that to fake the identity of some high-ranking person in order to milk resources and give orders + the verse knows nothing about shapeshifting so would not be on guard, then this feat would not be high, because the hax has already taken care of everything. But here Cổ Trần Sa only fakes the identity of Vũ Đương Hưng — a mid-level member of the Võ family, an identity that only has meaning to one faction, purely borrowing a name; and from that identity he turns the factions against each other. That identity is also not some super-big one to milk huge resources behind it; Cổ Trần Sa alone had to build up that identity from beginning to end. Even the most important step to complete the plan is that the identity be shady enough that everyone, on discovering they had been deceived, curses it as a treasonous dog, and from there he leads them all to believe everything is the conspiracy of a more formidable power, and uses that to profit himself. The verse also has someone famous for identity-faking/shapeshifting magic, and Cổ Trần Sa skillfully got everyone to blame that person in the preparation layer; that shapeshifter, even knowing beforehand that Cổ Trần Sa has shapeshifting magic, was also led by Cổ Trần Sa to believe CTS could not fake his identity because CTS's cultivation is lower than his and the power behind him. Because that person's backing is so huge, no one dares to accuse him publicly => creating a closed logical loop so that no one suspects Cổ.
+* Planning Coverage: the ability to prepare contingencies, accounting for cases that could affect the original plan; it is also the degree to which a plan addresses all relevant factors, tasks and contingencies to ensure thoroughness and effectiveness in achieving a particular goal or project.
+Example:
+A knows: if he is caught taking the "Core" (Hạt Nhân), the whole garden will lock down every escape route.
+So from the very beginning, A builds many layers of plans stacked on top of one another:
+* Black Apple (Táo Đen) stirs up a riot to draw the guards.
+* A swarm of worms breaks the fence.
+* Mirror Apple (Táo Gương) carries a fake Core and runs openly.
+* Allies dig a tunnel.
+* A truck of spoiled apples is prepared outside the garden.
+But A understands well: most of the escape routes will sooner or later be discovered or betrayed.
+So every "escape route" actually also doubles as bait for a deeper layer of the plan.
+When:
+* Black Apple is captured,
+* Mirror Apple betrays,
+* the swarm of worms is wiped out,
+* the tunnel is discovered,
+the real plan officially begins.
+A deliberately lets the tunnel be exposed first, making everyone think: "Whatever is exposed so early must surely be bait."
+Right after that, Mirror Apple, carrying the fake Core, flees, drawing all the pursuers toward the North Gate.
+Next, the allies simultaneously break the fence in multiple places, further scattering the defending forces.
+Finally, A intentionally appears at the main gate and rushes out clutching a glowing box.
+The whole garden believes: "This is the real body."
+While every eye is on the main gate —
+the forgotten truck of spoiled apples in a corner of the garden quietly drives away.
+The real Core, from the very start, had been in the truck.
+* Planning flexibility: flexibility in a plan.
+Example:
+When a robber wants to rob a bank to get rich, he chooses to draw up a plan to rob Bank A.
+The plan sets out steps from: finding teammates, planting inside men in the bank (guard, janitor, …), finding security loopholes by observation, finding the loosest time, checking the priorities of the police in the area, buying specially made tools, having the inside men monitor and report so the remaining members can act, the whole group entering the bank, causing large-scale chaos, the inside men helping subdue bank employees, holding hostages and grabbing the money, fleeing and avoiding areas with police, …
+This plan is completely unstable: can an inside man actually be planted, does a security loophole really exist, can it be carried out before the police arrive, can a specially made safe-cracking tool be built, …
+So when the robber carried out the plan, he flexibly adjusted it:
+* + have more than one person apply for or take the job; the two pretend to compete with each other so as not to be suspected of being on the same side, pressuring the old janitor. This step will take a lot of time so it must be done carefully.
+* + create a security loophole himself, such as the inside man habitually inviting other custodial staff to lunch => at noon there will be fewer eyes and ears in the bank.
+* + create a minor car collision before the robbery is finished, staging a scuffle fairly close to a police station but in the opposite direction from the bank, slowing the police's progress to the bank robbery.
+* + the perfect moment arrives before there are enough lock-breaking tools; however, considering that the supplies had reached 75%, he risks going early, and the rest will be replaced with ordinary, less effective equipment.
+* + when cracking the safe, it turns out they completely lack the ability to crack it. Instead of giving up or being stubborn, he draws up a substitute plan: swap clothes with bank employees, leave just 1 accomplice to guard the hostages, and the rest, dressed in bank uniforms, move out as a group with the half of the hostages who were released first. These members quickly get into a vehicle and head to Bank B, which has weaker security, without anyone noticing. After successfully robbing Bank B, the accomplice left behind at Bank A also slips out the back door into a vehicle and flees; the police rush in and wrongly interrogate bank employees who are wearing the robbers' clothes.
+=> The plan had to be flexible many times and continuously. Although it did not achieve success as per the original goal, it still achieved the purpose, which was the money.
+=> Flexibility in a plan can mean creating backup options and being able to change the priorities in the plan if important factors arrive earlier than secondary ones, so as to advance the plan without delay. When information is inaccurate, one can adjust and correct based on the new factors, without stubbornly insisting on following only the original plan.
+* Planning complexity: the complexity of a plan (unlike strategy, a plan's complexity can be measured by the length of the plan).
+Example:
+Example 1: Let's look at Tề Hạ's 70-year plan:
+=> Quietly building everything in order to overthrow the train system and the Heavenly Dragon. He repeatedly launches SSBT, sets up a network of allies, plants his former teammates as Zodiac members, manipulates the rooms, and guides the development of the Extreme Path.
+=> After gradually losing his humanity because of Karmic force and repeatedly returning from "Eternity", Tề Hạ uses many loops to collect memories, restore his teammates, create "An", and at the same time perfect the final plan.
+- In the decisive-battle stage:
+=> Thương Hiệt releases everyone's memories, isolates Thanh Long, the Extreme Path breaks the bell and opens the path for the ants.
+=> The Zodiac members rebel against the Heavenly rank.
+His former teammates coordinate to pull the Heavenly Dragon into a trap, creating Station 3.
+=> Finally the train is destroyed to take humanity to Station 3, escaping the loop and the control of the system.
+Example 2: Doyoung's plan in the Liar Game K-Drama:
+He lures Nao into joining the Liar Game by exploiting her personality, pitting her against her old teacher and getting her deceived
+=> Nao has to seek out Aki for help, and Yoko in turn uses Nao and forces Aki to join the Liar Game.
+Afterwards Yoko repeatedly separates Nao from Aki, sowing suspicion between the two by sophisticated methods through many different intermediaries. He reveals that Aki had caused Nao's father to fall into debt
+=> Nao's trust in Aki shatters.
+Using a hostage to force Aki to attack Nao in the final game; Nao, seeing this, is heartbroken and attacks Aki back
+=> Yoko built trust between Aki and Nao so that over the next 2 weeks of the game he could drive a wedge to break the very bond he himself created at the start, in preparation for winning the final game. All of it needed a great many different small steps to steer things.
+=> The longer a plan runs, the more incidents occur, and the easier the plan is to break and to detect. So when drawing up a plan, a long-term plan needs a very high level of detail; the more complex it is and the shorter the time intervals it is calculated in, the better the success is ensured. Therefore a long-haul plan that is solid will certainly have its complexity rise accordingly.
+=> Both need many steps to complete; planning complexity is proportional to long-term plans.
+• Overall Tactic:
+* Tactical linking: the ability to link tactics with a strategy or plan.
+Example:
+The apple knows that if it only hides, it will sooner or later be discovered, so it deliberately rolls onto the floor to create chaos, making the owner tidy up the whole kitchen. Meanwhile it slips into the bag of groceries being prepared to take out to the market.
+→ A small action (creating chaos) is linked to the larger strategy of "escaping the house completely."
+* Tactical problem solving: solving problems with tactics, or tactics for solving problems.
+Example:
+Problem: the owner counts the apples every day.
+The apple secretly pushes a spoiled apple into its own spot, making the owner think it is still there. Then it takes advantage of the late night to escape.
+→ Not only solving the immediate problem but also concealing the consequences after the action.
+* Tactical complexity: the complexity of a tactic.
+Example:
+The apple calculates the owner's daily routine in advance:
+In the morning the owner often opens the window.
+The dog will run into the kitchen when it smells sausage.
+The owner will lose focus when cleaning up the mess.
+It rolls and knocks a sausage onto the floor → the dog rushes in → the owner chases the dog → the window is left open → the apple takes advantage of the draft and rolls outside.
+→ The tactic has multiple layers of cause and effect, making use of the environment and the behavior of other subjects.
+Easy-to-understand overview:
+A tactic is a one-step action, whereas a strategy or plan is many steps, which can be linked together by tactics.
+For example, in chess, tactics are short-term moves, while the game plan or strategy is the long-term sequence of moves.
+In the following video, it is also fairly clear.
+3. Terms with a 1-point weight:
+• Creative:
+* The degree of a character's creativity in planning, tactics or strategy.
+Example: here it is Light with his desk trick.
+• Knowledge:
+* Assessed by the depth of knowledge, the breadth of knowledge covered, and the degree to which it is applied in practice.
+* A verse's own internal knowledge will be very hard to evaluate here, except for a few exceptions such as the Elvish languages of The Lord of the Rings (which has an entire field of study devoted to it). That is, this requires an extremely high level of complexity and application, or the verse's knowledge must be built upon a foundation of at least real-world knowledge. Things like nen (HxH) or similar examples will not be accepted because their level of development is still incomplete.
+Example of breadth, here German:
+ Original example image p062_037
+
+ Original example image p062_037
+
+Example of depth, here the depth of mathematical knowledge.
+ Original example image p064_038
+
+Example of applying knowledge, here Senku applying chemistry.
+ Original example image p065_039
+
+ Original example image p066_040
+
+• Adaptability:
+* Resilience (adaptive recovery): transforming what already exists in order to adapt.
+E.g.: Jolyne has the stand Stone Free, which lets her turn her whole body into threads to fight; her enemy is Pucci, whose stand C-Moon can turn inside and outside around on anything it touches.
+ Original example image p068_041
+
+ Original example image p068_041
+
+ Original example image p069_042
+
+ Original example image p069_042
+
+=> Jolyne turns the point where she is attacked into a Möbius strip, so that even when her internal organs are pulled out, they can still be flipped back in, avoiding death from organs being drawn outside the body.
+* Openness (innovative adaptation): creating something new in order to adapt.
+* Corresponding (environment, factors): adapting to deal with resistance/obstacles.
+• Foresight:
+* Logically predicting the future.
+Example 1: Basic foresight, looking at a situation
+The Yanks ("Mẽo", Vietnamese slang for Americans) bomb Iran -> the situation may escalate -> quickly think to buy an electric car -> not affected by gasoline prices rising due to the war that happens afterward.
+Example 2: Basic foresight about what consequences/effects one's own plan will lead to
+Ngưu Hữu Đạo wants to help Thương Triều Tông obtain reinforcements from the Phượng Lăng Ba mansion, but Thương Triều Tông has no capital for the old man (Phượng Lăng Ba) to help with. At this point Ngưu Hữu Đạo is given information by the steward Lam Nhược Đình:
+"Thương Triều Tông, who was locked up by the old emperor for many years, was suddenly released because of news of the 100,000 yin soldiers created by the former prince; the old emperor released Thương Triều Tông to keep watch on him + in the hope of getting his hands on the 100,000 yin soldiers."
+Step 1:
+Ngưu Hữu Đạo goes to old Phượng Lăng Ba's mansion, then devises a scheme to borrow money from the old man's daughter, then uses that money to buy betrothal gifts and propose marriage.
+Step 2:
+In parallel, before the matter of borrowing money from Phượng Lăng Ba's daughter has been exposed, while presenting the betrothal gifts Ngưu Hữu Đạo only then reveals his true purpose, which is to offer the information about the 100,000 yin soldiers as the main betrothal gift.
+=> The old man doubts whether the 100,000 yin soldiers really exist; Ngưu Hữu Đạo persuades him: what else is the reason Thương Triều Tông was locked up by the emperor, if not the 100,000 yin soldiers?
+=> Because Thương Triều Tông's strength is currently too weak, he needs someone's help in order to obtain the 100,000 yin soldiers. Even if the old man discovers that his own money was used to buy betrothal gifts to marry his daughter, he would only let it pass because of the profit.
+=> Using Phượng Lăng Ba's daughter as a stepping stone => using the benefit of the 100,000 yin soldiers as capital => using the information gap and the old emperor's actions as leverage to complete this scheme.
+=> The crux lies in persuading with information and profit: however old Phượng Lăng Ba discovers the marriage-proposal affair, he would only let it pass because of the profit.
+From the very beginning, when he received the information from the steward, Ngưu Hữu Đạo had already seen this whole picture.
+=> This is Foresight / long-sightedness.
+Logical Scaling
+A primer on the type of scaling used in Vietnam
+Unlike the West, which uses normal scaling, Vietnam uses logical scaling, which usually does not use narrative/statement/off-screen feats, and only uses realistic, logical and onscreen ones.
+1. Not accepted:
+Statement/Narrative: the "label" the author gives a character, valid only within that character's own universe. Narrative/Statement is only strong within its own universe. For example, character A in series B is asserted to be "the smartest person in the world"; however, in world C of character D there is no one named A bearing such a title, so how can we recognize it when the two have nothing to do with each other? On the other hand, even if the story does acknowledge it, under Vietnam's way of scaling we need the feat to be demonstrated, and if it is merely acknowledged and then never shown => featless. An easy example is the arguments over whether L or Kudo is smarter: instead of focusing on comparing feats, the argument turns into a contest over whose story gives the bigger title, and then L > Kudo because the world's best detective must be better than the Detective of the East; meanwhile, anyone who participates in debates knows how far apart L at tier C and Kudo at tier A are.
+Off-screen feats: achievements that do not show the thinking process. Off-screen feats are things a character achieves without any depiction of the thought process, like "I solved 100 cases in 5 seconds". This is called off-screen because the author never describes what the character solved or how, and if the character does not demonstrate it there is almost no information to grade; most off-screen feats work only as narrative and statement, for the simple reason that without a demonstration there is no concrete information to grade.
+Unrealistic: roughly, "not realistic": the character does fantastical things without any concrete logic. Whether something is unreal is determined by whether it actually exists in real life; examples are magic or hax. These things cannot be recognized as the individual's own thinking ability; for example, instead of having to read people to obtain information, having the character use hax to easily monitor that person's current mind is simply not fair to put on the scale for comparison. However, we must still distinguish unreal from extraordinary intellectual ability: if a character is omniscient, then normally a character who knows information that drops from the sky would be treated as hax, but if that character, right on the page, demonstrates the ability to analyze phenomena one by one in thorough detail => this is a very strong knowledge feat, and this feat will not be denied. For example, a robot that has a process of analyzing information and data — however fast it is, this process is still an undeniable feat.
+2. Accepted:
+Onscreen feats: those that show the character's thinking process. For example, if you are thinking => thinking; if you are reasoning based on information => reasoning; if you are calculating and analyzing problems and information => FSIQ. Each thing you display, if it is "clear" or can be proven "clear", will be recognized as an onscreen feat; at that point we classify the feats and then draw conclusions about the ability each part of the feat shows.
+Realistic/Logical: In works of fiction, the realism of a strategy does not lie in copying real life completely, but is measured by its feasibility and internal plausibility within the established context, where the audience can clearly see the operating principle of each small step leading to the final result. Unlike reality, where every action is bound by strict logical laws and cannot be skipped, fantasy worlds tend to simplify processes to serve the pacing of the story. For example, for the same scene of hitting a bullseye from 300 meters, an ordinary work might idealize it in a single sentence, but a more outstanding work will actively weave in details about aiming technique, psychological pressure or environmental factors to increase authenticity. It is precisely this meticulousness in building the logical foundation and explaining the operating mechanism that determines whether the plot is solid and persuasive, while also showing the author's thinking and respect for the reader's intelligence.
+* Logical is the degree of realism of a feat — that is, it is done completely, with clear, easy-to-understand logical explanation. The feat must be written coherently by the author in order to show the degree of logic it has. Realistic feats, if built on a real-world foundation, are easily rated highly; for example, reducing luck or character intuition to the minimum and avoiding building the feat on random chance makes it more effective in evaluation. Logical feats presented step by step will be rated higher than feats that simply jump from question to answer. A typical case is the 17-card poker game: same game and same trick, yet Akiyama in the manga is portrayed as stronger than Doyoung in the live action, because Aki in the story shows his thinking down to each card combination and how it operates, whereas Doyoung cannot do the same. So for logical feats, the deeper it is shown in the text, the stronger it is.
+3. Additional definitions:
+Debunk: pointing out an absurdity or impossibility in any given feat. Pointing out the absurdity can reduce or even nullify the value that the feat contributes to the character overall. However, we must know that debunking a feat does not mean nerfing that character: a debunk only nerfs when the debunked feat is a buff-cate feat for that character. An example here is L's feat of narrowing down where Kira is. This feat is built on the premise that Light has to watch TV, and whether Light watched TV and let his ego rise is something L had no way to guarantee => this feat is luck; because its premise is luck, this narrowing-down feat cannot count as a feat and is eliminated entirely; the fact that this feat is debunked does not mean we ignore all of L's later feats.
+Antifeat: feats that overlap each other in value, strong at times and weak at times in each cate without staying stable. This is actually uncommon, and if encountered we still choose the strongest feat.
+Theory: a hypothesis. Using theory in scaling is for obtaining feats that the author has somewhat hidden from the reader; these feats still have value, even stronger than the surface feats created for us to see easily. For a theory to be recognized as a feat, the scaler is responsible for proving that the theory can truly exist, and the evidence is usually hints, dialogue, strange elements, …
+Resources: resources are the premise for everything in battles of wits. Resources include information, materials, authority, … It cannot be said that someone has no resources; if they truly had none, they simply could not take part in the game. After having resources, the thinking process is also shown through how they exploit and use those resources. There are 2 issues that newcomers very easily get wrong. The first is unreal verses such as Cổ Chân Nhân, Long Phù, etc.: here the resources and forms of hax are richer than in a real-life setup, so many people think the feats of these characters are unrealistic and unsuitable, but we must accept that, by the way they are constructed, this hax is merely an aid to the character's thinking ability, and denying the resources of unreal verses is no different from denying the resources of real-life verses — the most common one we run into being money hax. The second issue is confusing hax with the character's thinking ability: for example, it is not necessarily right to deny a feat just because the character has some hax assisting in gathering information; we also need to see whether the process still includes reasoning and selective filtering of information, and whether there is a process of piecing information together. The hax element can nerf it to some extent but does not always negate it entirely.
+4. Notes:
+* An unreal feat may be invalid, but the thinking used in that unreal feat can be considered if it is valid.
+* Besides reviewing and comparing pure feats, we also evaluate the brainpower used to write the process of showing the feat; however, this factor is only used when the comparison is too evenly balanced and cannot be clearly decided.
+* Onscreen but unreal cannot be used and is discarded. Realistic but offscreen is likewise discarded. Typical onscreen-but-unrealistic feats are Tề Hạ's 70-year plan and Phương Nguyên's 500 years of experience: in real life no one can make a long plan that is detailed and accurate to 100%, even with hax like Tề Hạ; even for Phương Nguyên's plans, Phương Nguyên himself has to keep spamming Spring-Autumn Cicada (Xuân Thu Thiền) to obtain information + revise the plan continuously, so we can clearly see how unrealistic it is. Even for characters like CEOs or presidents, long-term plans only reach a few years at most, and they cannot calculate for incidents with 100% certainty like Tề Hạ, let alone 70 years with absolute precision.
+* For a feat in one cate or one subcate, only the strongest feat is chosen, not accumulated (except knowledge). For example, if feat A produces a stronger IQ feat than feats B, C, D, … then we only use feat A when assessing this area. However, if within IQ feat A is strongest for FRI and PSI, feat B is strongest for WMI and VSI, and feat C is strongest for VCI, then when assessing IQ we must take each of these strongest subcates separately for the overall comparison.
+* Narrative/statement is not always useless. For example, some are recognized: in the musical chairs game the player is the cult leader, but when we get to the poker bid game we know Kei Kimura is the one behind directing the old cult leader to follow => the musical chairs feat counts as Kei's feat since she is the one who thought it up, not the cult leader; Beyond Birthday's case in the novel, where we follow the process of solving the case and finding the answer, yet the story confirms that L had solved it earlier, so we can bridge the feat to some extent. A feat by narrative/statement will appear when the author has written some feat earlier; in that case both only serve to confirm whether a character is able to do the feat that has already been written.
+Tier Cate
+The category system has now been standardized except for a few categories such as Adapt, Foresight, Creativity, Overall EQ, FSIQ, and the overall Mind Reader.
+The tiers have very high reference value but are not necessarily absolute; take care when using them to debate or compare feats.
+Tier Planning/Strategy:
+Because Planning and Strategy usually relate to each other, they are taken together for convenience; only in a few cases is Strategy ahead of Planning or vice versa by a wide margin.
+* Tier F is Fodder
+* Tier E is Gifted
+* Tier D is Smart
+* Tier C is Creative Smart
+* Tier B is Genius
+* Tier A is Extraordinary Genius
+* Tier S is Super Genius
+* Tier SS is Beyond Super Genius
+* Tier SSS is Beyond of Beyond Super Genius
+Some examples are the baseline/low of the tier.
+Tier SSS: Kiếp Số Pháp Tướng, 4 parts
+Part 1
+Part 2
+Part 3
+Part 4
+Tier SS: 2 seconds deviation
+Tier S: Hannibal, Quan Độ, The Clockmaker – Cold Moon (Thợ Đồng Hồ – Trăng Lạnh)
+Tier A: Akiyama, Epidemic (Dịch Bệnh)
+Tier B: Mặc Cùng, Tô Lục Hạ, Plane 32, Cao Lãng, Hal Coin Push, Kain VS Cecilia, Vũ Đương Hưng (Cổ Trần Sa)
+Tier C: Tô Lục Hạ, Plane 20, Beato ep 1, Sở Hiên, Conan Fake Death Akai, Kiếp Số, spirit-consciousness (linh thức), Oda vs Senya
+Tier D: Jin Kanno, Trình Thực, Dual Trials (Song Thí Luyện), Tạ Diệm, Water Demon Cave-Heaven (Thủy Ma Động Thiên)
+Tier E: Kenjaku, Mushroom Head (Đầu Nấm), Cố Trường Ca, Lam Mục
+Tier F: Quan, Kurapika, York New
+Note: only a few example characters are taken per tier.
+Tier Reasoning:
+Tier -1: Poirot
+Tier 0: Quan Chấn Đạc, La Phi, Aoi
+Tier sub-0: Shinichi, Trần Nhiên, Kindaichi, Eu, Heiji.
+Tier 1: Akiyama, Akagi, Tề Hạ, 011, Lincoln, Phương Mộc, Phương Nguyên, Amuro.
+Tier 2: Lý Thanh, Yokoya, Vô Danh, Hale, Trình Thực, Beato, Gin, L, Baku, Frost.
+Tier 3: Bao Công, Cổ Trần Sa, Hal, Jane, Light, Inspector Tsukumo, Miêu Miêu, Michael, Tạ Diệm.
+Tier 4: Yuuichi, Nao, Riku, Tetsuo, Sherlock MTP, Arisu, Frydor, Ishigami, detective Kiên, Subaru, Mặc Cùng, characters of HPLN, Lâm Hằng.
+Tier 5: Most characters do not display it, or display it as if they had none.
+Tier Social Quotient/ SQ:
+High-top: Lý Thanh.
+High: Ngưu Hữu Đạo, TTD, 011, Toua, Tề Hạ, Kain.
+Mid-high: Aki, Faith, Tuân Úc, Cổ Trần Sa, Tô Lục Hạ, Trần Nhiên, Trần Duệ, The Professor, Thời Giang, Yoko, Lelouch.
+Mid: Phương Nguyên, Hannibal, Diệp Thu Vi, Lý Mục, Baku, Shinichi, Jane, Yuuichi, Poirot, Kiệt.
+Low-mid: Kiyo, Fielding, Eu, Lincoln, Frost, Trình Thực, Saul, Riku.
+Low: Light, Holmes, Beato.
+No-low: Akagi, L
+Tier Information Gathering:
+Top tier: Lincoln Rhyme.
+High-top: Poirot, Trần Nhiên, Kain, 011.
+High: Quan Chấn Đạc, Kincaid, Tokuchi, Shinichi.
+Mid-high: Akagi, Eu, Tề Hạ, Diệp Thu Vi, Akiyama, Holmes, Cal, Hale.
+Mid: Jane, Hal, Baku, Lý Thanh, Phương Nguyên, L.
+Low-mid: Kiyo, Trình Thực.
+Low: Yuui, Cổ Trần Sa, Light.
+No-low: Beato
+No: Seon
+Tier Manipulation:
+Tier -1: Lý Thanh
+Tier 0: Hal, Trần Nhiên, Akiyama, Baku
+Tier 1: Eu, Akagi, Ngưu Hữu Đạo, Diệp Thu Vi, Cổ Trần Sa, Phương Nguyên, Quan Chấn Đạc, Hal Base
+Tier 2: Yuuichi, Hiyama, Mặc Cùng, Beato, Tô Minh, Akira, Thời Giang, Kei Kimura, Lữ Bố
+Tier 3: Light, A Lang, Lelouch.
+Tier 4: Trình Thực, Seon, Johan, Karen.
+Tier 5: Quite a lot of characters.
+Tier Deception:
+Baselines for each subcate:
+• Infor control:
+Infor control tier 0: Hal 2sd
+Infor control tier 1: Chu Du, "the fierce tiger breaks out of the cage" (mãnh hổ phá cũi)
+Infor control tier 2: Beato, "the North Wind and the Sun" (gió bắc và mặt trời)
+Infor control tier 3: Littlefinger, War of the Five Kings (chiến tranh ngũ vương)
+Infor control tier 4: Mã Tấu plan
+• Misdirection:
+Misdirection tier 0: Baku Ls
+Misdirection tier 1:
+Misdirection tier 2: Takato Yoichi debut plan
+Misdirection tier 3: Kujirai Sadao, the Symphony train trip (chuyến tàu Symphony)
+Misdirection tier 4: Isagi, Blue Lock round 2 (vòng 2 bluelock)
+• Fabrication:
+Fabrication tier 0: Hannibal frame plan
+Fabrication tier 1: Kanade frame plan
+Fabrication tier 2: Ishi frame plan
+Fabrication tier 3: A Lang frame plan
+Fabrication tier 4: Jane trap Red John plan
+Overall Deception tier:
+Tier -1: Lý Thanh.
+Tier 0: Hal, Hale, Baku, Trần Nhiên, Akiyama, Hannibal.
+Tier 1: Viên Phương, Chu Du, Eu, Kain, Faith, Tokuchi, Akagi.
+Tier 2: Cổ Trần Sa, Yokoya, Quan Chấn Đạc, Tề Hạ, Tô Lục Hạ, Lalo, Beato, Shinichi.
+Tier 3: Phương Nguyên, Yuuichi, Shikamaru, Akagi, Jane, Ayanokoji, Light, Isagi, Chrollo.
+Tier 4: Seon, Chishiya, Michael, Klein, Trình Thực, Poirot.
+Tier 5: Johan, Holmes, Aizen, Near, Kindaichi.
+Tier Psychology:
+Baselines for each subcate
+• Warfare:
+Base 0 Warfare: 011 (all)
+Base 1 Warfare: Toua (all)
+Base 2 Warfare: Kain (vs Cecilia)
+Base 3 Warfare: Yuuichi (final game)
+Base 4 Warfare: Isagi (Bastard vs Manshine)
+Base 5 Warfare: L (I'm L)
+• Insight:
+Base 0 Insight: Diệp Thu Vi (all)
+Base 1 Insight: Kiệt (all)
+Base 2 Insight: Tô Lục Hạ (all)
+Base 3 Insight: Jane (hypnotizing Carl)
+Base 4 Insight:
+Base 5 Insight: Johan (all)
+• Profile:
+Base 0 Profile: Frost (all)
+Base 1 Profile: Cal Lightman (ss1)
+Base 2 Profile: Phương Mộc (The Blood-Stained Exam / Đề Thi Đẫm Máu)
+Base 3 Profile: Phương Nguyên (Ghost-Soul Demon Venerable / U Hồn Ma Tôn)
+Base 4 Profile: Conan (Serina case)
+Base 5 Profile:
+Overall Psychology tier
+Tier 0: Diệp Thu Vi, 011, Frost, Dance
+Tier 1: Hannibal, Toua, Trần Nhiên, Lý Thanh, Cal, Eu.
+Tier 2: Hal, Kain, Akagi, Akiyama, Faith, Tô Lục Hạ, Phương Nguyên, Quan Chấn Đạc, Jane
+Tier 3: Poi, Cổ Trần Sa, Giả Hủ, Yokoya, Trần Duệ, Shinichi, Takato Yuuichi, Will, Lalo.
+Tier 4: Kimura, Kiyo, Lelouch, Beato, Kaji, Isagi, L, Fuku, Hattori, Trình Thực, Ishi, Michael, Light, Chrollo.
+Tier 5: Johan
+Tier Mind Reader:
+Baselines for each subcate
+Type 1:
+Tier -1: LT
+Tier 0: Hal, Baku, Akiyama, Akagi
+Tier 1: Yokoya
+Tier 2: Kimura
+Tier 3: Shikamaru
+Tier 4: Josuke
+Tier 5:
+Type 2:
+Tier 0: Diệp Thu Vi
+Tier 1: Cal, LT, 011
+Tier 2: Junwoo
+Tier 3: Yuuichi
+Tier 4: Lincoln Rhyme
+Tier 5:
+Tier Knowledge:
+Encyclopedia (Bách khoa toàn thư): Shinichi, Touma, Senku, Doraemon.
+Special-grade expert (Chuyên gia đặc cấp): Kamo, Vương Kỳ, Frost, 011, Hale.
+Expert (Chuyên gia): Akiyama, Hannibal, Cal, Akagi, Tokuchi, Tề Hạ.
+All-round / Versatile (Đa dụng): Baku, Michael, Kaiji, Josuke, Gin.
+Knowledgeable (Hiểu biết): Hal, Tomu, Lalo, Chisiya.
+Ordinary (Bình thường): Yuuichi, Light, Tasuku.
+Uneducated (Vô học): Nao, Seon.
+Tier Thinking:
+Tiers for each subcate
+Strategic Thinking
+Tier 0: Lý Thanh (0+), Akiyama (0), Trần Nhiên (0-), Kain (0-), Faith (0-)
+Tier 1: Yoko (1+), Fifth Pick One (Thứ 5 Chọn 1) (1), Hal (1), Baku (1), Akagi (1), Toua (1-)
+Tier 2: Quan Chấn Đạc (2+), 011 (2+), Tề Hạ (2+), Tào Tu (2+), Kei (2), Kaiji (2), Eu (2), Tư Mã Ý (2), Gia Cát Lượng (2), Chu Du (2), Cổ Trần Sa (2-), Lalo (2-), Chu Thần (2-), Hale (2-)
+Tier 3: Akira (3+), Fuku (3+), Cyrus (3+), Kaji (3+), Trần Duệ (3+), Tô Lục Hạ (3+), Kanade (3+), Thời Giang (3+), Phương Nguyên (3+), Viên Phương (3+), Thu Ý Nùng (3), The Professor (3+), Hannibal (3), Trần Tiến (3), Doyoung (3), Misumi (3), Micheal (3-), Shinichi (3), Light (3-), Hattori (3-), Sở Hiên (3-), Sukuma (3-), Mặc Cùng (3-), Lý An Nam (3-)
+Tier 4: Ishi (4+), Shikamaru (4+), Isagi (4+), Beato (4+), Takami (4), Chrollo (4), Kurapika (4), Lelouch (4), Kiyotaka (4), Yuuichi (4-), Moriarty (4-), Jane (4-), Trình Thực (4-), Nao (4-)
+Tier 5: Moon (5+), Frosh (5+), Jigsaw (5+), Johan (5-)
+Critical Thinking
+Tier 0: Poirot (0+), Từ Nhược Kiếm (0), Trần Nhiên (0-), Akiyama (0-), Kain (0-)
+Tier 1: La Phi (1+), Quan Chấn Đạc (1+), 011 (1+), Lâm Gia Bối (1+), Yoko (1), Conan (1), Kindaichi (1), Eu (1), Tô Minh (1-), Touma (1-), Diệp Thu Vi (1-), Holmes (1-), Hisui (1-), Heiji (1-), Amuro (1-)
+Tier 2: Lincoln (2+), Lý Thanh (2+), LTĐ (2+), Tề Hạ (2+), Kaiji (2+), Kei (2), Toua (2), Phương Vũ (2), Baku (2-), Từ Sách (2-), Akaki (2-), Kincaid (2-), Kanade (2-), Decker (2-), Manabu (2-)
+Tier 3: Hale (3+), Lalo (3+), Fuku (3+), Vô Danh (3+), Phương Nguyên (3+), Địch Nhân Kiệt (3+), Willard H. Wright (3+), Oda (3+), Sở Hiên (3), Trần Tiến (3), Hal (3), Fielding (3), Tô Lục Hạ (3), Misumi (3), Ron (3), Hứa Thất An (3-), Trình Thực (3-), Cổ Trần Sa (3-), Beato (3-), Doyoung (3-), Medea (3-), BB (3-)
+Tier 4: Light (4+), Hannibal (4+), Jane (4+), Bao Công (4+), Kurapika (4+), L (4), Ran (4), Haibara (4), Hisoka (4), Michael (4-), Yuuichi (4-), Chrollo (4-), Inspector Tsukumo (4-), Mặc Cùng (4-)
+Tier 5: Miêu Miêu (5+), Tăng Nhật Hoa (5), Trác Phàm (5), Battler (5-), Suneo (5-), Jude (5-)
+Tier 6: Johan
+Analytical Thinking
+Tier 0: Poirot (0), Trần Nhiên (0), Akiyama (0-), Kain (0-), Faith (0-)
+Tier 1: Yokoya (1+), Từ Nhược Kiếm (1+), Quan (1+), 011 (1+), La Phi (1), Conan (1-), Kindaichi (1-), Tô Minh (1-), Toua (1-), Trần Ích (1-), Lý Thanh (1-), Diệp Thu Vi (1-), Eu (1-), Tề Hạ (1-)
+Tier 2: Hisui (2+), Lý Tri Đồng (2+), Hattori (2+), Phương Mộc (2+), Holmes (2+), Amuro (2+), Akagi (2+), Trần Tiếu (2+), Kaiji (2+), Frost (2+), Akira (2+), Lincoln (2), Baku (2), Touma (2), Thời Giang (2), Phương Nguyên (2), Kiệt (2-), Kincaid (2-), Kaji (2-), Kiyotaka (2-)
+Tier 3: Kanade (3+), Lalo (3+), Hal (3+), Trần Duệ (3+), Cổ Trần Sa (3+), Hale (3+), L (3+), Beato (3), Light (3), Fielding (3), The Professor (3), BB (3-), Suji (3-), Kurapika (3-), Trình Thực (3-)
+Tier 4: Lelouch (4+), Chrollo (4+), Hisoka (4+), Michael (4+), Jane (4+), Eugene (4), Yuuichi (4-), Nao (4-), Miêu Miêu (4-)
+Tier 5: Suneo (5-)
+Abstract Thinking
+Tier 0: Lý Khải (0)
+Tier 1: 011 (1), Diệp Thu Vi (1), Trần Nhiên (1), Kain (1-), Conan (1-)
+Tier 2: Phương Nguyên (2+), Cổ Trần Sa (2), Hanni (2), Tô Kiếp (2-)
+Tier 3: Aki (3+), Beato (3+), Hale (3+), Lincoln (3), L (3), Trình Thực (3), Kiyo (3), Kura (3-)
+Tier 4: Light (4), Mặc Cùng (4)
+Overall Thinking tier
+Thinking Overall
+Tier 0: Trần Nhiên (low-mid), Poirot (base-low), Akiyama (base-low), Kain (base)
+Tier 1: Lý Khải (top), Lý Thanh (high), 011 (mid-high), Từ Nhược Kiếm (mid-high), Yoko (mid-high), Faith (mid-high), Quan Chấn Đạc (low-mid), Thu Ý Nùng (low), La Phi (low), Conan (base-low), Lâm Gia Bối (base-low), Tề Hạ (base), Toua (base), Eu (base), Tam Tinh (base), Diệp Thu Vi (base)
+Tier 2: Tô Minh (top), Hattori (mid-high), Akagi (mid-high), Hal (mid-high), Baku (mid), Lincoln (mid), Phương Nguyên (low-mid), Lý Tri Đồng (low-mid), Tào Tu (low-mid), Tô Lục Hạ (base), Hale (base), Cổ Trần Sa (base)
+Tier 3: Trần Duệ (top), Misumi (top), Tư Mã Ý (high-top), Hannibal (mid-high), Beato (mid), L (low-mid), Kiyo (low-mid), Trình Thực (low-mid), Doyoung (low), Light (base), Kurapika (base)
+Tier 4: Jane (high-top), Mặc Cùng (high-top), Tạ Diệm (high), Lelouch (high), Chrollo (mid-high), Miêu Miêu (low), Michael (mid).
+Tier 5: Johan (high)
+How Points Are Calculated and How Characters Are Ranked
+1. Cate:
+2.5 points
+* STRATEGY
+* PLANNING
+* Tactics
+1.5 points
+* Thinking (strategic, critical, analytical, abstract)
+* Manipulation
+* DECEPTION (misdirection, fabrication, infor control)
+* MIND READER
+* REASONING
+* INFORMATION GATHERING
+* Overall EQ (EU, EP, EM, EE)
+* FSIQ (PSI, WMI, FRI, VCI, VSI)
+* Psychology (insight, profiling, warfare)
+* Overall SQ (Social awareness, Persuasion, Negotiation, Leadership)
+1 point
+* FORESIGHT
+* ADAPTABILITY
+* CREATIVITY
+* KNOWLEDGE
+2. How points are calculated:
+POINT DATA
+* = : 0% of the points
+* >= : 25% of the points
+* Close −: 50% of the points
+* Not clearly ahead (−): 75% of the points
+Diff multiplied by the category coefficient:
+* mid-high to high: ×1
+* mid+: ×1.25
+* low-mid: ×1.5
+* low: ×1.75
+* no-low or no: ×2
+The maximum multiplier is ×2; however much stronger, it is still only ×2.
+If the word "or" appears, take the average first and then multiply by the category's point coefficient.
+EXAMPLE: Akiyama Shinichi vs Souichi Kimura (Hal)
+2.5 points
+STRATEGY Hal−
+PLANNING Hal−
+Tactics Hal−
+1.5 points
+Thinking Aki ×1.25
+Manipulation Hal−
+DECEPTION Hal (−)
+MIND READER Hal− (0+/2+ vs 0/2 or 2+)
+REASONING Aki ×1.25
+INFORMATION GATHERING Aki− or (−) (input ~ or Hal>=, process Aki (−), output Aki)
+Overall EQ Hal>= (EU, EP, EM, EE)
+FSIQ Aki− (PSI, WMI, FRI, VCI, VSI)
+Psychology Hal−
+Overall SQ Aki (−) or ×1 (Social awareness Aki>= ~, Persuasion Aki, Negotiation Aki, Leadership Aki (−))
+1 point
+FORESIGHT Hal−
+ADAPTABILITY Aki−
+CREATIVITY ~
+0.5 – 1 point
+KNOWLEDGE Aki>=
+* In strategy Hal wins by −, so we take 2.5 × 0.5 to get the points Hal receives.
+* Similarly, in reasoning Aki wins by ×1.25, which means we take 1.5 × 1.25 to get the points Aki receives.
+* In SQ, Aki gets (−) or ×1, which means we take the average and then multiply by the coefficient -> (0.75 + 1)/2 × 1.5.
+Hal: 8 points
+Aki: 7.5 points
+=> Hal's diff over Aki is 0.5 points
+=> almost no winner or loser ~ a draw
+=> Aki qualifies to move up to SS−
+Note:
+Benchmarks for the gap in diff within one cate:
+* 1 major tier (e.g. mid 3 versus mid 4) is ×1
+* 2 major tiers is ×1.5
+* 3 major tiers is ×2
+3. Character types:
+Detective type (Hệ Thám): characters with an extremely large degree of brainpower/tier in reasoning and information gathering, while categories such as strategy, planning, tactics, deception, and manipulation are extremely low.
+Example: Decker has a Reasoning brainpower level of Creative Smart but is only at Smart overall because of his disadvantage in the categories above.
+Strategist type (Hệ Chiến Lược Gia): characters with a degree of brainpower in strategy, planning, tactics, deception and manipulation, but extremely low in reasoning and information gathering.
+Example: Viên Phương has Super Genius planning and strategy but is only EG (Extraordinary Genius) because of his disadvantage in reasoning and information gathering.
+All-rounder type (Hệ Toàn Diện): characters whose brainpower levels are extremely even, or not too lopsided, such as Trần Nhiên and Akiyama.
+*Neutral cates such as overall EQ, SQ, Psychology, Mind Reader, Adaptability, Foresight, Knowledge, FSIQ, and Thinking (although Thinking favors the Detective and All-rounder types a little more), and Creative will not be discussed.
+Note:
+We must also deduct for the character's type when scoring cate comparisons.
+All-rounder type > Strategist type > Detective type
+For each type, 1 point is deducted after the take is done, and it is deducted from the overall score.
+For example, in the case above: if B is a Detective type and A is a Strategist type, and at first A leads B by 4 points, then 1 point is deducted, i.e. A leads B by only 3 points.
+4. Conditions for moving up in rank/tier:
+Characters who are 4 points apart move up one step.
+Example: if char B is base tier C− and char A is 4 points ahead of B, then char A is tier C.
+ Original example image p090_043
+
+ Original example image p090_043
+
+ Original example image p091_044
+
+ Original example image p091_044
+
+After using this system to compare many times, it has become the most intuitive data for finding the exact ranking of characters from many different fictions.
+Note: the tier list is not yet absolutely complete, but it can already serve as highly valuable reference material. Some characters are ranked by scaling up to the present, so they still have the potential to go up further (or to take a tumble like the two guys Lulu and Jane).
+Tier List
+Tier List 5.0 Fiction
+Names and Titles of the Characters
+(Format: Character (Work). Work titles are kept as written in the source; Vietnamese-language titles are glossed in the appendix.)
+ Original example image p094_045
+
+SSS: Lý Thanh (Kinh Khủng Tu Tiên Lộ)
+ Original example image p094_046
+
+SS: Trần Nhiên (18 Tầng Địa Ngục: Nơi Này Cấm Nói Dối)
+ Original example image p094_047
+
+SS−: Hal PM (Usogui), Akiyama (Liar Game)
+ Original example image p094_048
+
+S+: Tokuchi (One Outs), Baku (Usogui)
+ Original example image p094_049
+
+S: 011 (11 Người Điên), Faith (My Level Zero System), Eumenides (Bản Thông Báo Tử Vong), Kain (My Level Zero System)
+ Original example image p095_050
+
+S−: Hannibal (Hannibal TV Series), Akagi (Akagi: Yami Ni Oritatta Tensai)
+ Original example image p095_051
+
+A+: Viên Phương (Hoả Phụng Liêu Nguyên), Yokoya (Liar Game), Hale (Lincoln Rhyme), Chu Du (HPLN), Quan Chấn Đạc (13.67), Phương Nguyên (Cổ Chân Nhân), Michael Scofield (Prison Break), Thẩm Lãng (Chàng Rể Mạnh Nhất Lịch Sử)
+ Original example image p095_052
+
+A: Tề Hạ (Thập Nhật Chung Yên), Thứ 5 Chọn 1 (18 Tầng Địa Ngục), Cổ Trần Sa (Long Phù), Tô Lục Hạ (Vạn Tra Triêu Hoàng), Ngưu Hữu Đạo (Đạo Quân), Kudo Shinichi (Detective Conan), Tống Thiên Diệu (Trọng Sinh HongKong 1950)
+ Original example image p095_053
+
+A−: Trần Duệ (Chàng Rể Ma Giới), The Professor (Money Heist), Kaiji (Kaiji), Fielding (Giọt Lệ Quỷ), Souichi (Usogui), Tào Tu (18 Tầng Địa Ngục), Diệp Thu Vi (Đừng Nói Chuyện Với Cô Ấy), Phù Thuỷ (Người Biến Mất), 4MK (4MK), Quách Gia (HPLN)
+ Original example image p096_054
+
+B+: Lalo (Usogui), La Phi (Bản Thông Báo Tử Vong), Akira (Trận Chiến Sẽ Bắt Đầu Sau 5 Giây), Bàng Thống (HPLN), Poirot (Poirot), Zero (Tobaku Haouden Zero), Doyoung (Liar Game K-Drama), Trần Tiếu (Thằng Hề Trò Chơi), Phoenix (Ace Attorney), Tuân Úc (HPLN)
+ Original example image p096_055
+
+B: Thời Giang (Ta Là Đại Thần Tiên), Lữ Bố (HPLN), Trần Tiến (Sự Trả Thù Hoàn Hảo), Moon (Dr Frost), Jane (The Mentalist), Medea (Your Throne), Phương Mộc (Tâm Lí Tội Phạm), Takato (Kindaichi Case Files), Kathryn (Kathryn Dance), Kanade (Super Danganronpa Another 2), Philo (Philo Vance), Kei (Liar Game), Tetsuo (My Home Hero)
+ Original example image p096_056
+
+B−: Từ Sách (Mưu Sát), Sở Hiên (Vô Hạn Khủng Bố), L CTW (L: Change The World), Beatrice (Umineko When They Cry), Holmes (Sherlock Holmes), Frost (Dr Frost), A Hoa (Bản Thông Báo Tử Vong), Kindaichi (Kindaichi Case Files), Vijay (Drishyam), Oda (Acma Game), Kaji (Usogui), Cal (Lie To Me), Lincoln (Lincoln Rhyme), Dương Cửu (Ta Làm Kiêu Hùng Tại Dị Giới), Jigsaw (Saw), Mặc Cùng (Ma Tính Thương Nguyệt)
+ Original example image p097_057
+
+C+: Lelouch (Code Geass), Cyrus (My Level Zero System), Lý Vân Tâm (Tâm Ma), Light (Death Note), Yuuichi (Tomodachi Game), Hisui (Thám Tử Tâm Linh), Lạc Vấn (Tội Lỗi Không Chứng Cứ), Shunsuke (The Name Of The Game Is Kidnapping), Ninh Thu Thuỷ (Quỷ Xá), Ayanokoji (Classroom Of The Elite), Sở Hạo (Vô Hạn Thự Quang), Viên Chí Bang (Bản Thông Báo Tử Vong), Trần Ích (Mở Mắt Ra Ta Bị Còng Ở Phòng Thẩm Vấn), Tô Minh (Mô Phỏng Tội Phạm 10 Nghìn Lần), Midori (Your Turn To Die), Hiyama (Lost Brains), Kaku (Nippon Sangoku), Ishigami (Nghi Can X), Lupin (Arsène Lupin), Holmes (Sherlock Holmes BBC), Jane Marple (Miss Marple)
+ Original example image p097_058
+
+C: Suji (Pyramid Game), Isagi (Blue Lock), Hiruma (Eyeshield 21), Cơ Uy (Xuân Thu Bá Đồ), Norman (The Promised Neverland), Gideon Fell (Dr. Gideon Fell), Mahone (Prison Break), Misumi (Nippon Sangoku), Tinh Túc (Cổ Chân Nhân), L (Death Note), Heiji (Conan), Touma (Q.E.D), Chu Triều Dương (The Bads Kid), Washizu (Akagi: Yami Ni Oritatta Tensai), Corte (Lincoln Rhyme), Chisiya (Alice In Borderland Live Action), Tasuku (As The God Will), Senya (Acma Game), Từ Tiểu Thụ (Ta Có Một Thân Kĩ Năng Bị Động), Kellhush (Prince Of Nothing), Hứa Thất An (Đại Phụng Đả Canh Nhân), Elizabeth Keen (The Blacklist), Haruaki (Raging Loop), Vương Tư Đồ (Ngự Linh Thế Giới), Phate (Sát Nhân Mạng)
+ Original example image p098_059
+
+C−: Suteguma (Usogui), Senku (Dr Stone), Akai (Conan), Wargrave (And Then There Were None — listed in the source under the novel's original, now-offensive title), Will (Hannibal TV Series), Fukunaga (Liar Game), Shikamaru (Naruto), Yumeko (Kakegurui), Nagito (Danganronpa 2), Từ Nhược Kiếm (Sự Thật Chỉ Có 1), Manabu (Thám Tử Galileo), Yusaku (Conan), Moriarty (Moriarty The Patriot), Brian (Dexter), Beyond Birthday (Death Note – Another Note), Ichikawa (Akagi: Yami Ni Oritatta Tensai), Takami (One Outs), Littlefinger (Game Of Thrones), Floyd (Usogui), Chrollo (HxH), Kamo (Duck Leeks Are Poisonous), Gin (Conan), Brolin (Trilogy Du Mal), Trương Phi (HPLN), Ron (Ron Kamonohashi: Deranged Detective), Trình Thực (Chư Thần Ngu Hí)
+ Original example image p098_060
+
+D+: Tạ Diệm (Ta Là Tà Đế), Seon (Lookism), Trác Phàm (Đại Quản Gia Là Ma Hoàng), Takagi (Bloody Monday), Conphas (Prince of Nothing), Trần Tuấn Nam (Thập Nhật Chung Yên), Near (Death Note), Riku Dola (No Game No Life), A Lang (Bao Thanh Thiên), Kurapika (HxH), Beth (The Queen's Gambit), Saul (Better Call Saul), Coco (Toriko), Mizuki (Adabana NON), Sở Thiên Thu (Thập Nhật Chung Yên), Lý Mục (Kingdom), Nghiêm Lương (Burning Ice), Frank (Matchstick Men), Shinomiya (Though You May Burn To Ash), Akira (Psychometrer Eiji), Kirari (Kakegurui), Xeno (Tantei Xeno to Nanatsu no Satsujin Misshitsu), Trương Diễn (Đại Đạo Tranh Phong), Sparkle (Honkai Star Rail), Tomu (Gamble Fish), Amy (Gone Girl), Alicia (Money Heist)
+ Original example image p099_061
+
+D: Kid (Conan), Klein (Lord Of The Mystery), Jang Hwa-eun (Ghost Story Club), Riddler (DC Comics), Tsukumo (Messacre Happy End), Karen (Bộ Tứ Báo Thủ), Eugene (Lookism), Rin (Blue Lock), Josuke (Jojolion), Red John (The Mentalist), Ryuen (Classroom Of The Elite), Vũ Công (Vũ Điệu Của Thần Chết), Seon Gayoon (Dr Frost), Director (Blacklist), Red (Pokemon Classic), Jin (Baki Series), Ichinose (Classroom Of The Elite)
+ Original example image p099_062
+
+D−: Decker (Amos Decker), Kẻ Nhắc Tuồng (Mila Vasquez series), Bao Công (Bao Thanh Thiên), T-bag (Prison Break), Joker (The Dark Knight), Joseph (Jojo Battle Tendency), Mello (Death Note), Hoàn Kỵ (Kingdom), Kisaki (Tokyo Revengers), Johan (Monster), Evil Morty (Rick And Morty), Jack Vessalius (Pandora Hearts), Hisoka (HxH), Hàng Văn Trị (Bản Thông Báo Tử Vong), Lăng Thần (Khởi Tạo Nhân Vật Phản Diện), Arturo (Money Heist), Alastor (Hazbin Hotel), Rick (Rick And Morty), Aya (Undead Murder Farce)
+ Original example image p099_063
+
+E+: Ataru (Real Account), Shun (As The Gods Will), Arisu (Alice In Borderland), 4 random NPCs (One Out), Subaru (Re:Zero), Nao (Liar Game), Izayoi (Problem Children Are Coming From Another World, Aren't They?), Miêu Miêu (Dược Sư Tự Sự), Amiya (Arknights), Kenjaku (Jujutsu Kaisen), Giả Bảo Ngọc (Hồng Lâu Mộng), Emma (The Promised Neverland), Aizen (Bleach), Naruto (Naruto), Nobody (SCP Verse)
+ Original example image p100_064
+
+E: Kimiko (Death Note: L CTW), Aventurine (Honkai Star Rail), Temari (Naruto), Totobani (Kakegurui), Tom (Tom and Jerry), Kuzuryu (Alice In Borderland Live Action), Tenji (Tomodachi Game), Murphy (SCP Verse), Nine (Terror In Resonance), Jack (Record Of Ragnarok), Kenjirou (Terror In Resonance)
+ Original example image p100_065
+
+F/F+: Unohara (Bleach), Kei (Tomodachi Game), Minoru (Death Note: Short Story), Friend (20th Century Boy), Aaron (Primal Fear), Kuze (Alya Sometimes Hides Her Feelings in Russian), Nagumo (Classroom of the Elite)
+F−: Nguyễn Nhật Hào (77), Goku (Dragon Ball).
+G−: Bùi Thắng, Nguyễn Quốc Tuấn, Hưng Nguyễn ("sewer pipe" / ống cống), Cell the dung beetle (Cell bọ hung)
+G− but lower than the infinity layer: Con [the source text ends here, cut off mid-entry]
+Appendix: Glossary of Vietnamese Work Titles
+Literal English glosses for Vietnamese-language work titles in Tier List 5.0 (provided for reference; the main list keeps the titles as written):
+* Kinh Khủng Tu Tiên Lộ — The Terrifying Cultivation Road
+* 18 Tầng Địa Ngục: Nơi Này Cấm Nói Dối — 18 Levels of Hell: Lying Is Forbidden Here
+* 11 Người Điên — 11 Madmen
+* Bản Thông Báo Tử Vong — The Death Notice
+* Hoả Phụng Liêu Nguyên (HPLN) — Fire Phoenix Sets the Plains Ablaze
+* Cổ Chân Nhân — Gu Immortal (Reverend Insanity)
+* Chàng Rể Mạnh Nhất Lịch Sử — The Strongest Son-in-Law in History
+* Thập Nhật Chung Yên — Ten Days of the End Times
+* Long Phù — Dragon Talisman
+* Vạn Tra Triêu Hoàng — Ten Thousand Scumbags Court the Phoenix
+* Đạo Quân — Lord of the Dao
+* Trọng Sinh HongKong 1950 — Reborn in Hong Kong, 1950
+* Chàng Rể Ma Giới — The Demon Realm's Son-in-Law
+* Giọt Lệ Quỷ — The Devil's Teardrop
+* Đừng Nói Chuyện Với Cô Ấy — Don't Talk to Her
+* Người Biến Mất — The Vanished / The Disappeared Person
+* Trận Chiến Sẽ Bắt Đầu Sau 5 Giây — The Battle Will Begin in 5 Seconds
+* Thằng Hề Trò Chơi — The Game Clown
+* Ta Là Đại Thần Tiên — I Am the Great Immortal
+* Sự Trả Thù Hoàn Hảo — The Perfect Revenge
+* Tâm Lí Tội Phạm — Criminal Psychology
+* Mưu Sát — Murder Plot
+* Vô Hạn Khủng Bố — Infinite Horror
+* Ta Làm Kiêu Hùng Tại Dị Giới — I Am a Warlord in Another World
+* Tâm Ma — Heart Demon
+* Thám Tử Tâm Linh — Spiritual Detective
+* Tội Lỗi Không Chứng Cứ — Crime Without Evidence
+* Quỷ Xá — Ghost House
+* Vô Hạn Thự Quang — Infinite Dawn
+* Mở Mắt Ra Ta Bị Còng Ở Phòng Thẩm Vấn — I Opened My Eyes and Was Handcuffed in an Interrogation Room
+* Mô Phỏng Tội Phạm 10 Nghìn Lần — Simulating Crime 10,000 Times
+* Nghi Can X — Suspect X
+* Xuân Thu Bá Đồ — Spring and Autumn Hegemony
+* Ngự Linh Thế Giới — The World of Spirit Control
+* Sát Nhân Mạng — The Online Killer
+* Sự Thật Chỉ Có 1 — There Is Only One Truth
+* Thám Tử Galileo — Detective Galileo
+* Ta Có Một Thân Kĩ Năng Bị Động — I Have a Whole Body of Passive Skills
+* Đại Phụng Đả Canh Nhân — The Night Watchman of Great Feng
+* Chư Thần Ngu Hí — The Gods' Foolish Game
+* Ta Là Tà Đế — I Am the Evil Emperor
+* Đại Quản Gia Là Ma Hoàng — The Head Butler Is the Demon Emperor
+* Bao Thanh Thiên — Judge Bao
+* Bộ Tứ Báo Thủ — The Troublemaking Quartet
+* Vũ Điệu Của Thần Chết — Dance of the God of Death
+* Khởi Tạo Nhân Vật Phản Diện — Creating a Villain Character
+* Đại Đạo Tranh Phong — Contention of the Great Dao
+* Hồng Lâu Mộng — Dream of the Red Chamber
+* Dược Sư Tự Sự — The Apothecary Diaries
+* Mặc Cùng's work, Ma Tính Thương Nguyệt — left untranslated (no reliable literal reading)

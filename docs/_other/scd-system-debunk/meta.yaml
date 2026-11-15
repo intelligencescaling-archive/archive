@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-system-debunk
+category: doc
+title: SCD SYSTEM DEBUNK
+authors:
+- name: TopEconomics1897
+  reddit: TopEconomics1897
+  source: reddit-post
+series: []
+characters: []
+tags:
+- debunk
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1MCe5ZQ5O8b-zdJiC18mM9SuVIyG8JCiVUmZiQ-XkNbk
+    google_id: 1MCe5ZQ5O8b-zdJiC18mM9SuVIyG8JCiVUmZiQ-XkNbk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 724
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 101293
+      sha256: d608da951b29bccc655d43e2dab75b1bceb9f167d1ccb6152bab95e0262f0f6c
+    - format: docx
+      name: document.docx
+      bytes: 10263
+      sha256: 5a13f0feb280614c7cd06c50601e6d5e35bc0aedbfe39a31f32fa11975a2195a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1v5stb4/
+  note: 'Shared by u/TopEconomics1897 in a post on 2026-07-25: New view for an scd system'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

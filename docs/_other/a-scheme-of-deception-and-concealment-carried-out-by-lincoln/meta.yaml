@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-scheme-of-deception-and-concealment-carried-out-by-lincoln
+category: doc
+title: A scheme of deception and concealment, carried out by Lincoln
+authors:
+- name: IllRegister5884
+  reddit: IllRegister5884
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1t63K8QkOYeNTDFCbq5bysqU1RnEKkLVkrrVZxV_Rai8
+    google_id: 1t63K8QkOYeNTDFCbq5bysqU1RnEKkLVkrrVZxV_Rai8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 3649
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 243454
+      sha256: f56ec1b92cf766c68c09a454f68418bbfc1cdbca79617969f00f0fb765082ec1
+    - format: docx
+      name: document.docx
+      bytes: 23050
+      sha256: 52ecf8e838230aeff6d3b53972c496f41cdba608f84d8e2435d53f1a52f45075
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x8960n/
+  note: 'Shared by u/IllRegister5884 in a post on 2026-10-17: How highly would you rate this feat of strategy, improvisation, tactics, and planning? (Note: It mig'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dth-kiruma-souichi-vs-akane-kurashiki-part-1
+category: story
+title: 'DTH: Kiruma Souichi vs Akane Kurashiki (Part 1)'
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  source: reddit-post
+series:
+- usogui
+- zero-escape
+characters:
+- kiruma-souichi
+- akane-kurashiki
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Y4c5fYBX-ch3jFoQz8oKzCOwkAXtSdWShnEHNUl2U6c
+    google_id: 1Y4c5fYBX-ch3jFoQz8oKzCOwkAXtSdWShnEHNUl2U6c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 2468
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 869637
+      sha256: 8d9b5508362d1de1b5d30825edae12ccfafae64b4627a827a722ec62f25df428
+    - format: docx
+      name: document.docx
+      bytes: 1317227
+      sha256: ec0dff47b928a306b38177ea717918ae0390df9bbf1558b16dd0cc6aa1cf23cb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l4n0da/
+  note: 'Shared by u/lzyaboiConnor in a post on 2025-06-06: Update on that fanfic idea I posted a while ago: Part 1 of Kiruma Souichi vs Akane Kurashiki in Drop'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

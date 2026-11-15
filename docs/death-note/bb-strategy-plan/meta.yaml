@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bb-strategy-plan
+category: doc
+title: BB strategy + plan
+authors:
+- name: ZZ_Zz9he
+  reddit: ZZ_Zz9he
+  source: reddit-post
+series:
+- death-note
+characters:
+- beyond-birthday
+tags:
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1HkqOuuXl_eTZTdObLURftDzOazGvZ6MwthCo5obusl0
+    google_id: 1HkqOuuXl_eTZTdObLURftDzOazGvZ6MwthCo5obusl0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 2066
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 99760
+      sha256: d1b4d32b2bb8f9db516bbe0d9a532bce0c52f8e2a11cd2706f491c1c88496089
+    - format: docx
+      name: document.docx
+      bytes: 12271
+      sha256: 1554510caa5df0b8304c5f445f89c8b505c7cdf301b28942090b88a93824ab60
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1h4i8by/_/lzzh565/
+  note: 'Shared by u/ZZ_Zz9he in a comment on 2024-12-02: https://docs.google.com/document/d/1EZLXXE3DHephz_I-XZ0S3WV4PVYturffw4Jrb8rxMF0/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

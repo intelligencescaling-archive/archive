@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-document-on-irene-adler-from-a-scandal-in-bohemia-one-of
+category: doc
+title: A document on Irene Adler from "A Scandal in Bohemia" (One of the Canon Sherlock stories) made by @J
+authors:
+- name: DC-Notme
+  source: doc-text
+- name: Mrnotme
+  source: doc-text
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+- irene-adler
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17CFmUwu4JcXBRvrk2DnbSX69CKkZZgLz
+    google_id: 17CFmUwu4JcXBRvrk2DnbSX69CKkZZgLz
+  capture:
+    status: partial
+    date: '2025-12-03'
+    words: 10348
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251203204144/https://docs.google.com/document/d/17CFmUwu4JcXBRvrk2DnbSX69CKkZZgLz_hFNlvpJdPY/edit
+  note: Snapshot from 2025-12-03
+- type: reddit-post
+  url: https://www.reddit.com/comments/1hwf8us/
+  note: 'Shared by u/JesutaRei in a post on 2025-01-08: A document on Irene Adler from "A Scandal in Bohemia" (One of the Canon Sherlock stories) made by @J'
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-12-03. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

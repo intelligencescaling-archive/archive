@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: per-kele-doc
+category: doc
+title: Per'kele Doc
+authors:
+- name: Expensive-Oven5953
+  reddit: Expensive-Oven5953
+  source: reddit-post
+series:
+- fear-and-hunger
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ONE6n6rjks-5Gs-6RQ1AkO1oeDxOXGuYR59k85RMT3E
+    google_id: 1ONE6n6rjks-5Gs-6RQ1AkO1oeDxOXGuYR59k85RMT3E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2032
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 222497
+      sha256: 9186c8f22d4de5eb397dc5937fb97005242fef56f6943ce056f101f35d5eda22
+    - format: docx
+      name: document.docx
+      bytes: 348658
+      sha256: 22ee78791c4306c849301f34886acdf988fbe1c4d7a7fa086a91d7d3f2e44dc6
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1sbqxal/
+  note: 'Shared by u/Expensive-Oven5953 in a post on 2026-04-03: Per''kele Doc (Fear and Hunger: Termina)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lots-o-huggin-bear-revised
+category: doc
+title: Lots-o’-Huggin’ Bear (Revised)
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
+series:
+- toy-story
+characters:
+- lotso
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1tKm1Q137JIOyZgBuO6n6eSwNLaRIGUrjER6WBQIYedI
+    google_id: 1tKm1Q137JIOyZgBuO6n6eSwNLaRIGUrjER6WBQIYedI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 2606
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 39814122
+      sha256: f65433e196b02ea355bf3bbd99a3bbe2002e7399c561ce3b01a6b2b1570507e6
+    - format: docx
+      name: document.docx
+      bytes: 27871721
+      sha256: 58e337b2d1c56d02c02fc9bb70f42b83460eabf3adbb0da59b7fcb4dcbe6d234
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1w91lxp/
+  note: 'Shared by u/Due_Ad8334 in a post on 2026-09-06: Lotso''s feats analysis (Toy Story 3)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

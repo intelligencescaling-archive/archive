@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bwcg-todor
+category: doc
+title: BWCG TODOR
+authors:
+- name: Different-Click9753
+  reddit: Different-Click9753
+  source: reddit-post
+series: []
+characters: []
+tags:
+- scd-categories
+- oc
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PERsqz1zEgoHVBhOki4YbpgdNqwaCbkckMeOjLBfIUc
+    google_id: 1PERsqz1zEgoHVBhOki4YbpgdNqwaCbkckMeOjLBfIUc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 2251
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1821969
+      sha256: 9ba33242f1effec2379021e01a45608c6e0143a55c53f42f8dd4158b67f33c76
+    - format: docx
+      name: document.docx
+      bytes: 1212521
+      sha256: 857cd82a8c6f35cb25be508cbd8c282b8581868904a54d1923157687b803a182
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vjpr9i/
+  note: 'Shared by u/Different-Click9753 in a post on 2026-08-09: A doc about the feats of my OC'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

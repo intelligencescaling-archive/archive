@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chapter-1-search-for-the-light
+category: story
+title: Chapter 1 Search For The Light
+authors:
+- name: MathematicianOne4197
+  reddit: MathematicianOne4197
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=11dGoWPuFh_G3Sayat69q5z1NwruhQxRQ
+    google_id: 11dGoWPuFh_G3Sayat69q5z1NwruhQxRQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    files:
+    - format: pdf
+      name: Chapter 1 Search For The Light.pdf
+      bytes: 3793789
+      sha256: 1dcdf733acdb2cb66e475994b26923292177743342c16a99c7b6ec7b7c1611b1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1k7e1md/
+  note: 'Shared by u/MathematicianOne4197 in a post on 2025-04-25: Hello fellow members, I also created a fanfic which will include the members of this group, my own v'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

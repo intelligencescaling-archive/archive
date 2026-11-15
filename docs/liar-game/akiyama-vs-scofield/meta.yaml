@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-vs-scofield
+category: doc
+title: Akiyama vs Scofield
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- liar-game
+- prison-break
+characters:
+- michael-scofield
+tags:
+- matchup
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1b_Opc4vAZjN9jSr5AWPGJTpJrVhiusOKY-6h2Mctv-I
+    google_id: 1b_Opc4vAZjN9jSr5AWPGJTpJrVhiusOKY-6h2Mctv-I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 551
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 120796
+      sha256: ec2abf17815be0b9f3a3cb872732696b2a17c34b0b258403177ab472df9bee9a
+    - format: docx
+      name: document.docx
+      bytes: 607947
+      sha256: 0922c5ff6d076d0ea3909ec2b06976ec01ea46b0c7aeb2cd0d7e132c9d2d898f
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1n1k7t3/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-27: Akiyama Shinchi vs Micheal Scofield Full Scale Comparison Doc Remake'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-circuit-psychological-manipulation
+category: doc
+title: Akiyama Circuit psychological manipulation
+authors:
+- name: ResponseLower49
+  source: doc-text
+- name: Mob5850
+  source: doc-text
+series:
+- liar-game
+characters: []
+tags:
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1h9ylN6umdgzMo_Yu7S3pqMk0L9mrHBh2-7z2y5p_aTw
+    google_id: 1h9ylN6umdgzMo_Yu7S3pqMk0L9mrHBh2-7z2y5p_aTw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 42
+    words: 1477
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7274858
+      sha256: 98cd3e995d44b3187d43675c61729f31a40fe518d111268cedd23d66475483d6
+    - format: docx
+      name: document.docx
+      bytes: 8649671
+      sha256: c7f271a2cbaa2950320bc14a642bb5f0d58afc5698235c4336f542d9e5782f3f
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wuiga3/
+  note: 'Shared by u/ResponseLower49 in a post on 2026-09-30: Akiyama Circuit Deception psychological manipulation'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

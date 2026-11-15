@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-to-create-the-best-child
+category: doc
+title: How To Create The “Best” Child
+authors:
+- name: Nga-Ballz
+  reddit: Nga-Ballz
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17IeC5TJ_G0b15HtDpuE7GNdH421ixc6gMVUHiTnvgFc
+    google_id: 17IeC5TJ_G0b15HtDpuE7GNdH421ixc6gMVUHiTnvgFc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 956
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 73353
+      sha256: 55dbbc56f1ca6ec44dd03116b55fdfef169232a32efc50002120dbed6423c180
+    - format: docx
+      name: document.docx
+      bytes: 10391
+      sha256: bc6b116c47d09ee9cd15e715c4396a5a8ff0834400fbac5031f08208553550c6
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xlhq60/
+  note: 'Shared by u/Nga-Ballz in a post on 2026-11-01: How To Create The "Best" Child'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

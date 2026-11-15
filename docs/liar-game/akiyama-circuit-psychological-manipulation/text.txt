@@ -1,0 +1,82 @@
+Akiyama circuit deception analysis
+
+Created by ResponseLower49/Mob5850
+
+Here's the relevant images for context.
+
+Psychological methods and manipulation
+
+Priming
+
+Priming is the phenomenon where exposure to one stimulus influences the response to a subsequent related stimulus, typically without the person's awareness. Akiyama deploys priming during the first layer of his "triple setup."
+
+By having Akagi spend an extended period physically positioned near Yokoya's faction area, Akiyama exposes all other players to a sustained visual stimulus of Akagi near the stairs that lead to Yokoya's group which associates Akagi with being infected due to what Akiyama said earlier about the infected being the most likely to take Yokoya's offer first. Even though the positioning is framed as surveillance ("in case someone defects"), the physical proximity creates an associative link in observers' minds between that player and the infected role, and since joining Yokoya is associated with the "Infected" role through prior game behavior, this association chain produces a subconscious conclusion: "that player is probably Infected."
+
+The power of this priming is its subconscious nature. They form the belief themselves from environmental exposure, which makes it feel like their own authentic reasoning rather than an implanted conclusion. This maps precisely to psychological research on priming, where environmental stimuli alter the cognitive accessibility of associated concepts and influence judgment without conscious detection.
+
+Confirmation Bias
+
+Confirmation bias is the tendency to search for, interpret, and recall information in a way that confirms pre-existing beliefs. This is exploited at two levels simultaneously during this scheme.
+
+Level One: The priming described above creates a pre-existing belief that the suspected Infected player is indeed Infected. When the pendulum test is applied and the "Infected signal" ball appears to respond, players do not question this result. It confirms what they already subconsciously believed. The threshold for accepting a confirming result is substantially lower than the threshold for accepting a disconfirming one.
+
+Level Two: The broader framing of the test as a scientific, third-party system creates a secondary confirmation bias trap. People are predisposed to seek confirmation that the system works as described, rather than to seek disconfirming evidence that the whole framework is a fabrication. The authority framing (which I'll explain later) raises the bar required to reject confirming evidence even further.
+
+The Gambler's Fallacy
+
+The Gambler's Fallacy is the mistaken belief that past random events affect the probability of future independent events, or that sample distributions should immediately mirror population distributions and this is exploited in the second layer of the triple setup.
+
+After three players are tested, the results show 2 "long string" (Normal) and 1 "short string" (Infected). Given the known base rate (10 Normal, 2 Infected among 12 players), any statistically aware observer would recognize that a 2:1 sample from a 10:2 population is entirely consistent with the base rate and does not confirm or disconfirm the test mechanism. But Akiyama abuses that people in high-stress, information-starved situations do not apply statistical reasoning. They use intuition. And intuition says that 2 out of 3 are Normal, which "matches" the group composition "well enough" that the distribution feels right.
+
+The belief that the test works is not logically established but it is felt through the Gambler's Fallacy's inverse: "the ratios are working out as they should, therefore the mechanism must be valid." This exploits the human tendency to treat small samples as if they were representative of the population, a well-documented cognitive error.
+
+Revealed Preference
+
+Revealed preference is the economic principle that people's true preferences are revealed by their choices under conditions of free selection and is the structural backbone of the pendulum test scheme.
+
+The critical insight is that "Normal" and "Infected" players face asymmetrically opposed incentives regarding the test:
+
+• A "Normal" player who takes the test and is confirmed Normal gains social credibility and the right to freely "Contact" others which is a high-value outcome with no downside (they know they're Normal, so they know they'll pass).
+
+• A "Infected" player who takes the test risks exposure and as a result their Infected status would lead to social exclusion. The downside far outweighs the potential upside.
+
+Therefore, in an environment where test participation is voluntary, players who step forward eagerly are overwhelmingly likely to be "Normal". The self-selection process generates  information about player status without requiring anyone to directly reveal themselves. The test's outcome is secondary, while the behavioral observation of who volunteers is the primary signal.
+
+Authority Construction and False Expertise
+
+The entire pendulum trick depends on perceived authority. Akiyama constructs this through several real influence techniques:
+
+Technical Language Flooding: By referencing circuit boards, electromagnetic waves, numbered signal codes, and naming a fictional "Ushirisuki Circuit" supposedly designed by an MIT professor, Akiyama floods the audience with technical specificity. Research on authority psychology shows that technical specificity functions as a credibility signal and that people interpret detailed technical knowledge as evidence of genuine expertise, regardless of whether the details are verifiable.
+
+Backstory Credibility: He provides a plausible personal history ("I held a job where I fixed circuit boards") that functions as a professional credential without being one. This answers "why would he know this?" before the question is even asked and is a pre-emptive credibility move that closes off skeptical inquiry before it begins.
+
+Demonstrated Effect as Anchor: The pendulum demonstration works visually and physically. Akiyama shows the "magic trick" in an apparently controlled, repeatable way. The physical reality of the swinging ball anchors the entire framework into something observable and making the false explanation (watch-signal activation) much harder to reject because the effect itself is undeniably real.
+
+Pre-suasion
+
+Pre-suasion is the practice of creating the ideal cognitive and attentional conditions for a persuasive message before delivering it and is the main contributor of Akiyama's entire scheme.
+
+Before asking anyone to take the pendulum test, Akiyama has already:
+1. Primed the group to believe that Akagi is likely Infected (Setup 1 of the triple scheme)
+2. Demonstrated the "magic trick" in a non-threatening context (to see if anybody recognizes the trick and once he got confirmation that they didn't, he went on with his Con)
+
+3. Established himself as someone capable of surprising technical knowledge
+
+4. Planted the perceptual equivalence "one ball moving differently = something meaningful"
+
+By the time he announces the test, the audience is already cognitively prepared to accept it. The persuasion had already occurred before the message was delivered. This is pre-suasion. Channel people's attention, prime the relevant associations, and the subsequent message meets far less cognitive resistance.
+
+Social Proof and Cascading
+
+When "Normal" players eagerly volunteer for and pass the pendulum test, their enthusiasm and confirmed results function as social proof for the test's legitimacy. The first volunteer who returns confirmed "Normal" proves the system appears to work and this cascade of confirmation makes subsequent testers even more confident, while making reluctant potential testers less conspicuous in their hesitation.
+
+Cognitive Load Exploitation
+
+Throughout the arc, Akiyama operates in an environment where his targets make decisions under high cognitive load: time pressure, identity uncertainty, fear of loss, social pressure, and information overload. Research on judgment under uncertainty consistently shows that cognitive load increases reliance on heuristics and reduces analytical thinking.
+
+Akiyama does not attempt to reduce cognitive load for his targets as he increases it by specifically flooding them with technical information (the circuit board explanation, the numbered signal codes) while they are already under stress due to the Stalemate that's caused stagnation and the time that keeps decreasing. The result is that players lack sufficient cognitive resources to critically evaluate the framework being presented. They pattern-match ("this sounds like it's based on real science") rather than analyze ("is this actually real science?"). The technical jargon is there to overwhelm analytical faculties.
+
+-------------------------------------------------------------
+There's more stuff to talk about in this section like his distance/giving Akagi the cold shoulder during the circuit performance as a deterrent stopping the other infected to come forward but I'll probably save that stuff for another post. I decided to make a little short one due to my interest in this part of the scheme and due to other reasons (if you know, you know). Hopefully this post gets some love as I once again looked into actual concepts that connected with what was happening and if anybody has seen my last post on Toua, then you'd notice that priming and cognitive load has come up once again. As always I hope some of y'all enjoyed this or found it interesting. These types of posts don't usually get a lot of attention compared to meme posts.
+-------------------------------------------------------------
+Psychological manipulation, indirect manipulation, direct manipulation, logical manipulation, social understanding, integration, influence building,  social engineering

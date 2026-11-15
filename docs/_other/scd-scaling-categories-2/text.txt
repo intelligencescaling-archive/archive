@@ -1,0 +1,145 @@
+Purpose
+These categories are simply intended to classify and scale intelligence-related feats demonstrated by fictional characters and, sometimes, real people. This is an SCD framework, not a scientific taxonomy; some terms are adapted or created for practical feat analysis.
+
+1. FSIQ — Full Scale Intelligence Quotient
+VCI — Verbal Comprehension Index
+Ability to understand and reason with language, explain verbal concepts, identify relationships between ideas, and use verbal knowledge to interpret or communicate meaning.
+VSI — Visual Spatial Index
+Ability to perceive and analyze spatial relationships and mentally or physically organize, rotate, combine, or manipulate visual-spatial information.
+FRI — Fluid Reasoning Index
+Ability to identify patterns and relationships, infer rules, and solve unfamiliar problems without relying primarily on learned, task-specific solutions.
+WMI — Working Memory Index
+Ability to hold information actively in mind while updating, reordering, manipulating, or using it during an ongoing task.
+PSI — Processing Speed Index
+Measures the ability to rapidly perceive, process, and respond to information while maintaining accuracy under time constraints.
+SRI — Storage and Retrieval Index
+Ability to encode, retain, and retrieve information from long-term memory efficiently. Assess the efficiency and reliability of memory storage and retrieval, not simply how much knowledge the character possesses.
+CFI — Cognitive Flexibility Index
+Ability to shift between mental sets, rules, perspectives, or strategies when task demands or available information change. There is no separate Adaptability category: relevant flexibility feats are scored here or under the specific application in which they occur.
+2. Knowledge
+Learning Ability
+Ability to efficiently acquire new information or skills, identify underlying rules, and improve through study, practice, experience, or feedback.
+General Knowledge
+Measures the breadth of factual knowledge accumulated across a wide range of subjects, fields, and real-world topics.
+Knowledge Application
+Ability to select and apply relevant facts, principles, experience, or expertise to solve a problem or perform a task. Possessing knowledge and applying it effectively are different; score application when the feat demonstrates the latter.
+3. Emotional Intelligence (EI/EQ)
+EP — Emotional Perception
+Ability to recognize and distinguish emotional states from relevant cues, including facial expressions, tone of voice, posture, behavior, and emotional signals in oneself or others.
+EU — Emotional Understanding
+Ability to understand emotional meanings, causes, combinations, transitions, and likely consequences, including how emotions relate to thoughts, motivations, relationships, and behavior.
+EM — Emotional Management
+Ability to regulate emotional responses in oneself and respond constructively to emotions in others, adjusting emotional reactions or expression to fit a situation and support effective behavior. It does not simply mean suppressing emotion or appearing calm.
+EF — Emotional Facilitation
+Ability to use emotional information or emotional states to support cognition, such as directing attention, prioritizing cognitive activities, considering different perspectives, and facilitating reasoning, judgment, decision-making, or problem-solving. EF is about how emotions assist thought.
+EE — Emotional Engagement
+Ability to become emotionally invested in a current task, problem, goal, or belief and to mobilize that investment to sustain cognitive involvement, motivation, commitment, and goal-directed effort. EE concerns how personally and emotionally engaged the character is with what they are trying to accomplish, rather than how accurately they recognize emotions, how they use a particular emotion to facilitate a thought process, or how they regulate emotional reactions.
+4. Social Intelligence (SI/SQ)
+Social Cognition
+Ability to interpret people and social situations, including beliefs, intentions, motives, incentives, social norms, relationships, status, hierarchies, and group dynamics.
+Social Integration
+Ability to navigate social environments and establish or maintain functional participation in relationships and groups. It includes practical social skills such as communication, rapport-building, cooperation, negotiation, networking, adapting to group norms, establishing relationships, and gaining or maintaining social acceptance.
+5. Psychology
+Psychological Insight
+Ability to identify and explain a psychological factor that helps account for a person's thoughts, decisions, or behavior. Insight explains why someone may act a certain way, rather than building a broader model of them. The explanation must be supported by evidence, not merely plausible.
+Psychological Profiling
+Ability to build a broader model of a person's relatively persistent traits and recurring patterns by combining evidence from their behavior, statements, choices, history, and circumstances. A profile may cover motives, values, needs, beliefs, biases, fears, vulnerabilities, and likely tendencies. Unlike Insight, which explains a particular psychological factor, Profiling combines multiple findings into an overall picture. Judge the profile by its specificity, evidence, and accuracy.
+Psychological Warfare
+Ability to deliberately use psychological pressure against an opponent to weaken morale, confidence, judgment, trust, cohesion, or willingness to resist, or to provoke a useful reaction. Unlike simply identifying a weakness, it requires purposeful adversarial tactics and a meaningful psychological effect. Score Manipulation, Deception, or Scheming separately only when their distinct mechanisms are also demonstrated.
+Cold Reading
+Skill in forming and revising inferences about a person during an interaction using observable cues, questions, statements, and the person's feedback. Cold Reading is a technique, not a profile or conclusion; its results may contribute to Insight or Profiling. Judge it by the accuracy of specific, testable deductions, not by how persuasive or personally accurate vague statements feel.
+6. Adversity Capacity (AC/AQ)
+Mental Fortitude
+Ability to maintain mental resolve, purpose, and the will to continue functioning when facing fear, discomfort, uncertainty, criticism, or setbacks. It concerns resilience of resolve, not simply the absence of visible emotion.
+Self-Control
+Ability to restrain impulses and manage one's actions in favor of considered goals or rules, especially when frustration, temptation, fear, or pressure makes an immediate reaction likely. Score emotional regulation itself under EM when that is the demonstrated process; Self-Control concerns restraint of behavior and impulses in context.
+Perseverance
+Ability to continue working toward an objective despite repeated setbacks, obstacles, delays, failures, or prolonged difficulty. Persistence must be directed toward an objective; merely remaining in a situation does not automatically demonstrate perseverance.
+Stress Tolerance
+Ability to preserve usable attention, judgment, and task performance while under significant stress or pressure. It concerns maintaining function under stress, whereas Mental Fortitude emphasizes resolve and Perseverance emphasizes continued effort across obstacles or time.
+7. Sensory
+Perception
+Ability to organize and interpret sensory information to recognize, identify, and understand stimuli, objects, events, and spatial relationships in one's environment.
+Observation
+Ability to deliberately direct attention toward and examine sensory information to detect and register relevant features, details, changes, inconsistencies, and patterns in one's surroundings. Observation concerns attending to and identifying what is present.
+8. Thinking
+Critical Thinking
+Ability to evaluate claims, evidence, premises, and arguments; question assumptions; detect contradictions or bias; and judge whether conclusions are supported by the available information.
+Analytical Thinking
+Ability to break down complex problems, situations, arguments, or systems into parts, organize relevant information, and examine relationships to reveal underlying structure. It identifies relevant details, distinguishes separate factors, and helps avoid errors from overlooking or misclassifying information. Unlike Reasoning, which draws conclusions, it examines and organizes the information those conclusions depend on.
+Analogical Thinking
+Ability to recognize, construct, and use meaningful correspondences between different concepts, situations, or domains by identifying similarities in their underlying relationships or structures. It allows knowledge from one context to inform understanding, generate ideas, or develop solutions in another.
+Abstract Thinking
+Ability to reason about concepts, principles, symbols, and relationships beyond a specific concrete example. Conceptual Thinking is included here because it substantially overlaps with abstract thinking in this framework.
+Holistic Thinking
+Ability to understand a subject within its broader context by considering the overall picture, surrounding circumstances, and relationships between a focal element and its wider environment.
+Creative Thinking
+Ability to generate, evaluate, and refine ideas, interpretations, or approaches that are original, useful, and appropriate to a given situation or problem.
+Divergent Thinking
+Ability to explore different perspectives and possibilities to generate multiple varied ideas or potential solutions to a problem, rather than focusing on a single answer.
+Convergent Thinking
+Ability to compare possibilities and narrow them toward the most defensible or effective solution for a particular task.
+Systems Thinking
+Ability to understand and model how interconnected components influence one another, including dependencies, feedback loops, causal interactions, and effects that emerge from their combined operation over time. It focuses on how interactions within a system produce its overall behavior.
+Metacognition
+Measures the ability to monitor, evaluate, and regulate one's own cognitive processes, including awareness and understanding of one's thinking, reasoning, cognitive strategies, strengths, weaknesses, and potential cognitive biases.
+9. Reasoning
+Deductive Reasoning
+Ability to derive a conclusion that necessarily follows from premises when the inference is logically valid. A valid deduction can still produce an untrue conclusion if its premises are false.
+Inductive Reasoning
+Ability to infer a probable pattern, rule, or generalization from specific observations or cases. The conclusion can be well supported, but it is not logically guaranteed by the observations alone.
+Abductive Reasoning
+Ability to infer the most plausible available explanation for observed evidence. An abductive conclusion is a hypothesis that best explains the evidence currently available, not a certainty.
+10. Foresight
+Anticipation
+Ability to recognize a possible future development early enough to prepare, reposition, or act before it occurs. Anticipation emphasizes readiness and proactive response; it can be based on explicit prediction or on sensible precautions under uncertainty.
+Prediction
+Ability to infer a specific, testable future event, decision, behavior, or outcome from evidence, patterns, and causal relationships. The accuracy and specificity of the prediction matter; a vague expectation that “something may happen” is insufficient on its own.
+11. Manipulation
+Event Manipulation
+Ability to arrange, alter, or sequence events and circumstances so that people encounter particular conditions, incentives, information, or choices that make a desired outcome more likely.
+Mass Manipulation
+Ability to influence the beliefs, emotions, attitudes, or behavior of large groups or populations simultaneously. This is specifically the large-scale form of manipulation, not a replacement label for every instance of one-to-one influence.
+Logical Manipulation
+Ability to steer another person's judgment through arguments, selective premises, framing, information selection, or exploitation of assumptions and reasoning patterns. The argument need not be formally fallacious; its purpose is to guide the target toward the manipulator's preferred conclusion.
+Emotional Manipulation
+Ability to induce, amplify, suppress, or exploit another person's emotional state to steer their judgment, choices, or behavior.
+Indirect Manipulation
+Ability to influence a target through covert or non-obvious routes, such as proxies, intermediaries, concealed incentives, staged circumstances, or delayed consequences.
+Direct Manipulation
+Ability to influence a target through explicit, target-directed interaction, such as persuasion, bargaining, commands, pressure, inducement, or threats.
+12. Deception
+Concealment Deception
+Ability to hide information, intentions, actions, evidence, or capabilities so that others cannot readily discover the truth.
+Acting Deception
+Ability to convincingly feign emotions, intentions, personality traits, identity, or behavior to make others believe the displayed state is genuine.
+Bluffing Deception
+Ability to project a false or unsupported impression of confidence, capability, strength, commitment, or intention in order to affect another party's assessment or choices.
+Fabrication Deception
+Ability to invent and present false information, evidence, events, identities, or narratives as if they were genuine.
+Misdirection Deception
+Ability to divert another person's attention from relevant information, an important action, or the true objective toward a distraction or misleading focus.
+Omission Deception
+Ability to mislead by deliberately withholding relevant information while avoiding a direct false statement. An omission counts as deception when it is intended to create or preserve a misleading impression; not every failure to disclose information is deceptive.
+13. Scheming
+Scheming Complexity
+Structural complexity of the scheme, including the number and interdependence of steps, moving parts, dependencies, and conditional branches. A high step count alone does not establish high complexity.
+Scheming Contingencies
+Ability to prepare viable alternative actions or branches for materially different outcomes, disruptions, or opponent responses before they occur.
+Scheming Resilience
+Ability of a scheme to withstand interference, unexpected developments, partial failure, or countermeasures and still achieve its objective or recover its effectiveness.
+Scheming Efficiency
+Ability to achieve the objective economically in terms of time, effort, resources, exposure, and unnecessary actions while still meeting the scheme's essential conditions.
+Scheming Intricacies
+Sophistication of fine-grained details, hidden mechanisms, precise arrangements, and subtle dependencies built into a scheme.
+Scheming Coverage
+Extent to which a scheme accounts for relevant variables, foreseeable possibilities, loopholes, uncertainties, and likely responses from opponents or the environment.
+14. Field Skills
+Information Gathering
+Ability to actively acquire relevant information through questioning, research, records, investigation, surveillance, intermediaries, or targeted tests. The quality, reliability, and relevance of the information matter, not merely the quantity collected. Merely noticing an available cue belongs under Observation; deliberately seeking or obtaining information belongs here.
+Information Control
+Ability to manage the access, disclosure, timing, distribution, and compartmentalization of information to preserve an advantage or shape what others can know. When concealment is specifically used to create a false impression, Deception may also apply if that deceptive operation is independently demonstrated.
+Trap Setting
+Ability to establish a setup that places a target in a disadvantage, forced choice, restriction, or danger when they take a particular action or enter a prepared situation. The planning behind a multi-step trap may also demonstrate Scheming, but the practical construction or placement of the trap is the Field Skill.
+Trap Evasion
+Ability to detect, avoid, escape, disable, or neutralize traps and setups created by others. Detection based on subtle cues can also demonstrate Observation; the inference used to understand the trap can demonstrate Thinking or Reasoning when separately evidenced.

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: canon-l-documento
+category: doc
+title: Canon L documento
+authors:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags: []
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Dr85slxKH_8H6N92yHhENv2jIRu-jrhbBORFqbw0uSo
+    google_id: 1Dr85slxKH_8H6N92yHhENv2jIRu-jrhbBORFqbw0uSo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 209
+    words: 51289
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25053060
+      sha256: 8fa5a42e4b7f39d4e6ef9b219093b27596e8c0f2d4852103fa716aaa61976d6b
+    - format: docx
+      name: document.docx
+      bytes: 23430279
+      sha256: 449774dc48c40ea6736bb535d2d768e8995a9800bb07c541e03a0f8e55de1a21
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xu4vsw/
+  note: 'Shared by u/Vincet_Qo in a post on 2026-11-12: Canon L document'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

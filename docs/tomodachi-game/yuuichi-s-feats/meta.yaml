@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-s-feats
+category: doc
+title: Yuuichi's feats
+authors:
+- name: Retentioner
+  reddit: Retentioner
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1slgkIirdOlHLXFVF1NgTFBW2KCgyOEJXfatrKoH8mOY
+    google_id: 1slgkIirdOlHLXFVF1NgTFBW2KCgyOEJXfatrKoH8mOY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 3123
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 129729
+      sha256: 54b8ce9db0575af17a754f2b260971141c41977395553a4b7a765fe30f639d1d
+    - format: docx
+      name: document.docx
+      bytes: 87063
+      sha256: 760d7ac67ea4a86fc2a13207a9c472fbfa0ec5dd3db241c43740ca6b84de35d2
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1in1680/
+  note: 'Shared by u/Retentioner in a post on 2025-02-11: Yuuichi Katagiri''s feats Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

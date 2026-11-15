@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chasing-whispers-1-10
+category: story
+title: Chasing Whispers (1-10)
+authors:
+- name: Individual-Gap-105
+  reddit: Individual-Gap-105
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19iM35nA2m2VTZBanxm54xUNDgRrwWlNWpvBujeYWAc8
+    google_id: 19iM35nA2m2VTZBanxm54xUNDgRrwWlNWpvBujeYWAc8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 68
+    words: 12236
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 463051
+      sha256: 73935f54472ad7f079104b4242023e45cc03eac83328b2ee093e0014a6c35982
+    - format: docx
+      name: document.docx
+      bytes: 315030
+      sha256: 2b7df7f85fc300624a618eb8bfe20bbc0322f9a2f202326a7fd810198dd34e63
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1gt5j7o/
+  note: 'Shared by u/Individual-Gap-105 in a post on 2024-11-17: Writing a Novel (Chasing Whispers)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

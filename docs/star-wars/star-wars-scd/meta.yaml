@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: star-wars-scd
+category: doc
+title: Star Wars SCD
+authors:
+- name: Ok_Cardiologist_5925
+  reddit: Ok_Cardiologist_5925
+  source: doc-text
+series:
+- star-wars
+characters: []
+tags:
+- scd-categories
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1L2XkBl90eWVwabuz1Re9TIk3hZIR_Dv528DKEQN0jek
+    google_id: 1L2XkBl90eWVwabuz1Re9TIk3hZIR_Dv528DKEQN0jek
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 633
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 119476
+      sha256: 48b52c4302c4a6ba8defcac56a4b9869eeb186437996e3194fca19f178de95ad
+    - format: docx
+      name: document.docx
+      bytes: 11742
+      sha256: 04aef4fa6d06286093f85844227fc03c1108f52678455fb0359d868aaceca433
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ujxkzn/
+  note: 'Shared by u/Ok_Cardiologist_5925 in a post on 2026-06-30: Collection of Star Wars stuff'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

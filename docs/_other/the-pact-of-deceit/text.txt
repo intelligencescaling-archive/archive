@@ -1,0 +1,164 @@
+📜 The Pact of Deceit — Official Rulebook
+“Your word is your weapon. And your enemy.”
+________________
+
+1. Overview
+The Pact of Deceit is a psychological elimination game where truth can save you, lies can crown you, and both can destroy you.
+The qualifying round is played in Pods — small groups competing to produce one winner who advances to the next stage.
+Any number of players can join; pods run endlessly.
+
+You bid an amount between 10-80 coins, claim an amount which can be false or true in your group and also send to me. The false claims gets exposed at the end of the round and the coins are taken from them. Also the one who bids the least amount loses and gets their coins taken as well. And 20 coins get taken if you don't bid in the round.
+After bidding every single round, I'm giving y'all 8 hours of time to have discussions with the others. If you can expose who/which group of people claimed a false amount, you win the round and the house gives you 20 coins each for doing so. But if you can't manage to find the false claimers, 10 coins will be deducted from your balance.
+One round-16 hours of bidding+8hours of discussion.
+________________
+
+2. Pod Structure
+* Pod Size: 3 players (may vary: 3–7 possible).
+
+* Starting Chips: Each player begins with 100 virtual chips.
+
+* Rounds: One single round per pod — fast and decisive.
+
+* Winner: The player with the highest net chip total at the end of the round.
+
+________________
+
+3. Flow of Play (All actions done via text messaging)
+Step 1 — Secret Bid
+Privately message the Moderator (or bot) two numbers:
+
+BID: <0–100>
+CLAIM: <0–100>
+
+   * BID = the actual chips you put into the Pot.
+
+   * CLAIM = the number you will publicly say you bid (may be true or false).
+
+________________
+
+Step 2 — Public Claim Reveal
+The Moderator posts in the group chat:
+
+Player 1 claims: X
+Player 2 claims: Y
+...
+
+This is your first chance to read the room — who’s bluffing, who’s not?
+________________
+
+Step 3 — Actual Bid Reveal
+The Moderator posts the true bids:
+
+Player 1 bid: X
+Player 2 bid: Y
+...
+
+Exposed players = anyone whose BID ≠ CLAIM.
+      * Exposed players lose all the chips they bid to the Pot.
+
+      * Non-Exposed players are “safe” — for now.
+
+________________
+
+Step 4 — Pot Resolution
+         1. Pot = sum of all bids.
+
+         2. Only Non-Exposed players split the Pot equally.
+
+         3. Each Non-Exposed player also keeps whatever chips they didn’t bid.
+
+         4. Exposed players gain nothing from the Pot and keep only their unbid chips.
+
+________________
+
+Step 5 — Predator Rule
+If everyone is Non-Exposed (all told the truth):
+            * The lowest bidder immediately loses half their chips to the highest bidder.
+
+            * If there’s a tie for lowest, all tied lowest bidders lose the penalty to the highest bidder (split equally if multiple highest).
+
+This rule ensures that playing “perfectly safe” can backfire.
+________________
+
+Step 6 — Winner Selection
+               * Net Total = (chips kept) + (chips won from Pot) ± (Predator Rule gains/losses).
+
+               * The player with the highest Net Total wins the pod and advances.
+
+               * Tie? Run a Sudden Death Bluff Duel:
+
+                  * Each tied player privately sends BID: 0–20 CLAIM: X.
+
+                  * Repeat steps 2–4 for just those players; highest net wins.
+
+________________
+
+4. Examples
+Example Pod (5 players):
+Secret bids & claims (private):
+                     * P1: BID 35 CLAIM 50 (Lies)
+
+                     * P2: BID 0 CLAIM 0 (Truth)
+
+                     * P3: BID 20 CLAIM 20 (Truth)
+
+                     * P4: BID 20 CLAIM 20 (Truth)
+
+                     * P5: BID 50 CLAIM 0 (Lies)
+
+Claims posted:
+
+P1: 50
+P2: 0
+P3: 20
+P4: 20
+P5: 0
+
+Bids revealed:
+
+P1: 35 (Exposed)
+P2: 0 (Safe)
+P3: 20 (Safe)
+P4: 20 (Safe)
+P5: 50 (Exposed)
+
+Pot = 125. Non-Exposed = P2, P3, P4. Each gets 41.67 chips from Pot.
+Final totals:
+                        * P1: 65
+
+                        * P2: 141.67 (Winner)
+
+                        * P3: 121.67
+
+                        * P4: 91.67
+
+                        * P5: 50
+
+________________
+
+Example Predator Rule Trigger:
+All bids match claims:
+                           * P1: 20
+
+                           * P2: 10 (lowest)
+
+                           * P3: 30 (highest)
+
+                           * P4: 20
+
+                           * P5: 25
+
+Predator Rule: P2 loses half their chips (50) to P3.
+This forces players to either:
+                              * Bid higher to avoid being the prey, or
+
+                              * Lie to break the “all truthful” scenario.
+
+________________
+
+5. Advancement & Infinite Player Structure
+                                 * Every pod produces 1 qualifier.
+
+                                 * Pods run continuously, so infinite players can participate.
+
+                                 * Finals are formed after a fixed time period (e.g., 1 week of qualifiers) or after a set number of winners are gathered.

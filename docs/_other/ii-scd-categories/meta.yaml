@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ii-scd-categories
+category: doc
+title: II. SCD Categories
+authors:
+- name: CheatSpeed
+  source: doc-text
+series: []
+characters: []
+tags:
+- scd-categories
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1X2TKbpHwXDNlyqUN1NdEi41DOQ6fowqvmzHM3LxGVzE
+    google_id: 1X2TKbpHwXDNlyqUN1NdEi41DOQ6fowqvmzHM3LxGVzE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 38
+    words: 11750
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4921406
+      sha256: 4227559b7940b68522b5e441bbed1c8aa819674962f250be2f9ac73637ec92cd
+    - format: docx
+      name: document.docx
+      bytes: 4937258
+      sha256: 400b9a3ba5a14c6e632e723fb5a1035fd4e56a04f2f0f17b1d45b0eaadf66136
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vzmaz1/
+  note: 'Shared by u/Similar_Incident8433 in a post on 2026-08-27: A basic guide to intelligenceScailing/scd update draft # 1'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

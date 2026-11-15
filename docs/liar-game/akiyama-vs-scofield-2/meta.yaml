@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-vs-scofield-2
+category: doc
+title: Akiyama vs Scofield
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- liar-game
+- prison-break
+characters:
+- michael-scofield
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1y5stb4oIM9gBf98Lty4awFBx-8OayatE9qyvY0VtibU
+    google_id: 1y5stb4oIM9gBf98Lty4awFBx-8OayatE9qyvY0VtibU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 980
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 135987
+      sha256: c7d4f44abb72074bf8bd4dc6cba944e13cc772de99d163d535c586b9c9573877
+    - format: docx
+      name: document.docx
+      bytes: 282633
+      sha256: 94928c37f8e30709bd04c319240bbf15609004de9064f814d27ebe296c7f1618
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kv7b3s/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-25: Akiyama vs Scofirld FULL SCALE DOC'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

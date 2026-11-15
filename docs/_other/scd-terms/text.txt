@@ -1,0 +1,1170 @@
+WMI(Working Memory Index): The ability to actively retain, manipulate, and process information temporarily, with capacity typically limited to 4±1 chunks. Essential for complex cognitive tasks requiring mental manipulation of information.
+
+PSI(Processing Speed Index): The speed and accuracy of basic cognitive operations including visual scanning, discrimination, and decision making under time pressure.
+
+VCI(Verbal Comprehension Index): Crystallized intelligence including vocabulary knowledge, verbal reasoning, and acquired information from education and experience. Reflects the ability to access and apply stored verbal knowledge.
+
+VSI(Visual Spatial Index): The ability to perceive, analyze, and mentally manipulate visual and spatial information including mental rotation, spatial visualization, and understanding of spatial relationships. Important for navigation and understanding complex visual patterns.
+
+FRI(Fluid Reasoning Index): The ability to reason about novel problems, detect underlying conceptual patterns, and identify and apply rules. Reflects fluid intelligence involving solving unfamiliar problems independent of acquired knowledge.
+
+Full Scale IQ: The composite intelligence score derived from standardized cognitive assessments measuring working memory, processing speed, verbal comprehension, and visual-spatial ability, representing overall cognitive capability relative to the general population.
+
+EP(Emotional Perception): The ability to accurately perceive and identify emotions in others through facial expressions, body language, vocal tone, contextual cues, and reasoning.
+
+EU(Emotional Understanding): The ability to understand complex emotional dynamics including the causes and consequences of emotions, how emotions change and transition over time, and how emotions blend together to form complex emotional states.
+
+EF(Emotional Facilitation): The ability to use emotional information to facilitate one's own cognitive processes and to strategically influence others' emotional states.
+
+Inter(Emotional Interpersonal): The ability to understand, navigate, and influence the emotions of other people in social interactions. It reads others' feelings and adjusts behavior to connect with, persuade, or manipulate their emotional state.
+
+EE(Emotional Engagement): The ability to strategically use one's own emotions to facilitate cognitive tasks including attention, memory, creativity, and decision-making. Involves deliberately harnessing emotional states to enhance cognitive performance on specific tasks.
+
+ER(Emotional Realization): The ability to identify, recognize, and understand one's own emotional and cognitive patterns, including strengths, weaknesses, triggers, and how emotions have changed over time.
+
+EM(Emotional Management): The ability to deliberately regulate one's own emotional states using various strategies including cognitive reappraisal, acceptance, and behavioral modulation to achieve specific goals. Involves selecting and implementing appropriate regulation strategies for different situations.
+
+Intra(Emotional Intrapersonal): The ability to perceive, understand, regulate, and leverage one's own emotions to achieve personal or strategic goals. Involves awareness of current emotional states and understanding of how emotions change over time.
+
+ECA(Emotional Calibration): The ability to adjust one's own emotional state in real-time through both internal regulation and external display to align with or strategically influence others' emotions. It requires awareness of one's current emotional state and the emotional states of others to effectively modulate emotional responses.
+
+ERE(Emotional Resonance): The ability to leverage deep emotional understanding and empathy to create authentic, bidirectional emotional connections that amplify persuasion or manipulation. Involves sharing others' emotional states to create trust and enhance social influence.
+
+EAS(Emotional Authenticity Simulation): The ability to generate genuinely felt emotional responses that appear spontaneous and authentic for strategic purposes, rather than simply copying others' emotions.
+
+EID(Emotional Influence Depth): The ability to understand and calibrate how one's emotional states create lasting impressions on others, including the intensity, consistency, and persistence of emotional impact. Involves using self-awareness to create enduring changes in others' attitudes and relationships through strategic emotional displays.
+
+ECF(Emotional Contagion Facilitation): The ability to naturally and automatically spread specific emotional states to others through authentic-seeming emotional expression that triggers mirror responses.
+
+EPP(Emotional Projection Precision): The ability to target specific emotional states in particular individuals while maintaining different emotional presentations to others simultaneously.
+
+EMB(Emotional Memory Binding): The ability to use self-awareness of one's own emotional patterns to create targeted emotional associations with specific people or contexts through conditioning processes, then strategically recalling those emotional states to influence future social interactions.
+
+Synergism(Emotional Synergism): The ability to harmonize self-awareness with social perception, using internal emotional clarity to enhance external influence and vice versa.
+
+Emotional(Emotional Intelligence): The ability to perceive, understand, manage, and use emotions in oneself and others to accomplish goals.
+
+Order Mapping: The ability to quickly identify, understand, and navigate power structures within any group or organization, enabling prediction of others' behavior based on their position in social hierarchies.
+
+Cultural Decoding: The ability to understand and adapt to unspoken social norms, taboos, and expectations across different cultural contexts by reading cultural cues and adjusting behavior accordingly.
+
+Relational Forecasting: The ability to predict how relationships between individuals or groups will evolve over time by reading relational cues, drawing on memory of past interactions, and using theory of mind to anticipate alliance formations, betrayals, and power shifts before they become visible to others.
+
+Social Cognition: The active modeling of social systems through theory of mind, social perception, and social reasoning to interpret cues, hierarchies, power dynamics, and infer group motivations.
+
+Identity Masking: The capacity to present entirely different personas to different groups without behavioral inconsistency, requiring attention to audience characteristics, memory for persona’s details, and executive control to switch between personas.
+
+Trust Architecture: The ability to systematically build layered trust networks where different people hold different levels of trust, different types of relationships, and different types of information.
+
+Assimilation Architecture: The systematic process of embedding oneself into a target social group by identifying and fulfilling specific roles, needs, or gaps within that community's structure. It transforms an outsider into a perceived essential member by strategically becoming indispensable to the group's functioning.
+
+Social Integration: The capacity to adapt one's behavior, communication style, and visible identity to operate within or gain acceptance by distinct social groups. It balances assimilation with strategic individualism, limited to social (not operational) contexts.
+
+Social (Social Intelligence): The ability to understand, navigate, and influence social environments through comprehension of social structures, group dynamics, and interpersonal relationships.
+
+Control: Ability to maintain agency and direct action when facing adverse conditions.
+
+Reach: Ability to compartmentalize adversity and prevent it from degrading unrelated functions.
+
+Recovery: The speed and completeness with which an individual returns to baseline function after adverse events conclude.
+
+Ownership: Willingness and consistency in taking responsibility for resolving adversity rather than deflecting it.
+
+Endurance: Capacity to sustain effort and functionality across prolonged or repeated adversity.
+
+Adversity (Adversity Capacity): The ability to respond to adversity in an outcome-oriented manner through emotional regulation, cognitive flexibility, and behavioral adaptation.
+
+Visual: The ability to detect, process, and interpret visual information including feature detection, pattern recognition, spatial processing, and motion detection with precision, speed, and contextual awareness—translating raw sight into actionable intelligence.
+
+Auditory: The ability to isolate, analyze, and derive meaning from sounds—such as vocal tone shifts, background noise anomalies, and rhythmic patterns—including sound localization, pitch discrimination, and auditory scene analysis, filtering auditory noise to extract strategic signals.
+
+Standard: Establishing a mental "normal" for any environment to instantly detect anomalies.
+
+Multisensory: Synthesizing input from multiple senses simultaneously to form a cohesive, high-fidelity perception.
+
+Proxyreceptive: The ability to observe and gather information indirectly through intermediaries, environmental traces, or secondary sources rather than through direct perception.
+
+Observation: The process of perceiving, noticing, and taking in information from the environment through selective, sustained, and divided attention while filtering out irrelevant information.
+
+Rhythm: The ability to accurately estimate time, duration, and sequence without external references.
+
+Resolution: The precision and acuity with which an individual perceives details, enabling them to distinguish subtle differences and detect nuances that others might overlook.
+
+Invariance: The ability to perceive the underlying truth or core identity of something regardless of how it is disguised, distorted, or presented through feature extraction, abstraction, and generalization across contexts.
+
+Reframing: The ability to dynamically reinterpret perceived information by shifting mental frameworks through perspective-taking, cognitive flexibility, and creative thinking—such as viewing a 'crime scene' as a staged performance rather than what it appears to be.
+
+Perception: The process of interpreting, understanding, and making meaning of observed information through organization, interpretation, integration, and mental representation.
+
+Classification: Grouping items based on shared traits, qualities, or predefined criteria to identify similarities and differences. Organizes complexity into clear, manageable categories.
+
+Deconstruction: Disassembling complex ideas or systems to reveal their foundational elements and assumptions. Examines how components interact and challenge conventional interpretations.
+
+Negative Space: The ability to determine meaning from what is absent rather than what is present through expectation formation, discrepancy detection, and inferential reasoning.
+
+Summarize: Objective summarization of a current state through empirical observation without interpretation, prediction, or causal inference.
+
+Diagnosis: Identifying the specific root cause of a problem by examining symptoms and evidence, determining exactly why something is occurring.
+
+Mapping: Visually or conceptually organizing information to display relationships, patterns, and connections between elements. Creates structured representations including conceptual, causal, and topological maps.
+
+Isolation: The deliberate removal of a variable from all external influences to examine its behavior and properties without interference.
+
+Tracing: Following the chronological path of an idea, process, or event backward or forward through time to understand its development and trajectory.
+
+Probing: The ability to use targeted questions or actions to extract specific hidden information from a person or situation through strategic decisions about what, when, and how to sequence questions.
+
+Trend: The ability to identify patterns in analyzed data to project future developments or systemic changes. Involves identifying linear, cyclical, or chaotic patterns and using those patterns to make predictions.
+
+Analysis: The process of breaking down complex information, data, or situations into smaller, more manageable parts through classification, comparison, causes/effects, and evaluation to understand components and draw conclusions.
+
+Fluid: The ability to solve newly encountered problems through inductive reasoning, deductive reasoning, and abstract reasoning without relying on prior knowledge or experience.
+
+Crystallized: The ability to use existing knowledge, skills, and experiences to effectively analyze, recognize, and solve problems.
+
+CF Integration (Crystallized-Fluid Integration): The ability to combine stored knowledge with novel reasoning to solve problems that bridge familiar and unfamiliar contexts.
+
+Intelligence: The overall cognitive capability that encompasses quantitative reasoning, working memory, knowledge, fluid reasoning, and visual-spatial ability.
+
+Direct: The ability to exert influence or control over a person through explicit actions and communications including direct requests, commands, threats, promises, and any contract. Direct manipulation involves open and observable influence attempts that can be highly effective in certain contexts but may trigger resistance in others.
+
+Indirect: The ability to influence someone without their immediate awareness through subtle means including priming, framing, and social proof. Indirect manipulation involves covert influence attempts that can reduce resistance and reactance but may be slower and less predictable than direct methods.
+
+Mass: The ability to control or steer large groups, institutions, or public sentiment toward a desired outcome through techniques including propaganda, agenda-setting, framing, and emotional appeals. Scales influence beyond individual targets through narrative control, systemic leverage, or orchestrated social contagion.
+
+Event: The ability to orchestrate specific events through situation creation, event staging, and interaction orchestration to achieve desired outcomes. Event manipulation involves shaping behavior by manipulating the situational context rather than directly manipulating individuals.
+
+Logical: Influencing or controlling the actions of others on the basis of logic, such as manipulating the rules, distorting the truth, and making something seem logical to others.
+
+Emotional: The ability to influence or control others by playing with their feelings and emotions through mechanisms including emotional appeals, fear tactics, guilt induction, and emotional blackmail. Emotional manipulation involves targeting others' emotional states to achieve behavioral control.
+
+Methods: The breadth of techniques available to deliberately influence, control, or sway others' emotions, perceptions, thoughts, or behaviors for personal gain.
+
+Manipulation: The ability to control or influence others' behavior through strategic use of deception, bias exploitation, and information control to progress one's goals.
+
+Fabrication: Creating entirely new false information, documents, or evidence that never existed, presenting invented content as factual. It requires domain knowledge to create plausible false information.
+
+Misdirection: Redirecting a target's attention or focus away from the truth through subtle cues, timing, or psychological manipulation—without creating a specific false event.
+
+Concealment: Actively preventing the discovery of information, objects, or actions through physical, digital, or procedural barriers, keeping hidden elements entirely out of view. It differs from other deception by preventing access rather than creating false beliefs.
+
+Decoy Event: Creating a fabricated, attention-grabbing event designed to draw focus away from a separate, hidden operation using a concrete distraction rather than subtle redirection.
+
+Bluffing: Pretending to have a stronger position, more resources, or better capabilities than one actually possesses, projecting false confidence to gain advantage without backing up the claim with action. It carries the risk of being called and is most effective when used sparingly by characters with established credibility.
+
+Double Bluff: The ability to reverse standard deception tactics by appearing to bluff when telling the truth or appearing to tell the truth when bluffing, creating confusion about one's actual state. Double bluffing involves second-order reasoning about what opponents expect and doing the opposite, making it effective against sophisticated opponents who anticipate deception.
+
+Verbal: The act of lying or misleading others using spoken or written words through outright lies, exaggerations, understatements, or equivocations to conceal the truth and present false information as fact to achieve a specific goal.
+
+Non Verbal: Using body language, facial expressions, or physical actions to mislead others, relying on unspoken cues rather than spoken or written lies to hide the truth. It is challenging because non-verbal cues are harder to control than verbal content and can reveal true emotions through leakage.
+
+Projection: The act of attributing one's own thoughts, feelings, motives, or flaws to another person, often to deflect blame or manipulate perceptions. It can involve both unconscious defense mechanisms and deliberate strategic manipulation.
+
+Mimicry: Copies the mannerisms, code, or signals of a trusted insider to gain target trust. Masks your identity by matching the traits of someone the target already believes.
+
+Layered: The ability to construct multiple levels of falsehood, where revealing one layer of deception serves to reinforce a deeper lie.
+
+Framing: Establishing the initial interpretive context through which all subsequent information is perceived, predetermining how targets will understand events before they occur.
+
+Gaslight: Using sustained false information through denial, trivialization, reality substitution, isolation, and projection to make a target doubt their own memory or perception of reality.
+
+Distortion: Twisting or altering facts, details, or information to present a false version of the truth by changing existing details to manipulate interpretations without inventing entirely new information.
+
+Sophistry: The ability to intentionally use fallacious arguments including ad hominem attacks, straw man arguments, false dilemmas, slippery slope arguments, and appeals to emotion to persuade others or create problems in relationships.
+
+Omission:  Leaving out critical information to mislead others without stating any false facts, hiding the full truth by skipping key details rather than inventing lies.
+
+Delusional: Convincing oneself of false narratives through motivated reasoning, confirmation bias, memory distortion, and rationalization to eliminate behavioral tells and enhance deception authenticity.
+
+False Flag: Deliberately attributing one's actions to an innocent third party through planted evidence or staged circumstances, redirecting blame to a specific, innocent source.
+
+Simulation: Building fake artificial systems or processes that look functional to deceive targets. Masks the real operation behind a plausible frontend.
+
+Acting Skills: Performing a false emotional state, identity, or intention through controlled behavior, speech, and body language to create a convincing persona without copying a specific individual.
+
+Social Pretext: Inventing a fake, plausible reason to extract information or access from a target, using a tailored lie to lower the target's guard for a specific goal.
+
+Data Tampering: Altering physical or digital records to erase or modify evidence of truth, without presenting the altered records as a false narrative to targets.
+
+Selective Memory: Deliberately adjusting or rehearsing one's own memory recall to tell more believable lies, aligning one's story with fabricated details to avoid inconsistencies.
+
+Narrative Scripting: Arranging events and manipulating context to make a false version of the story seem more coherent than the truth, exploiting the natural human tendency to seek coherent narratives.
+
+Made Dependency: Creating a crisis for the target, then artificially rescuing them to condition compulsive gratitude and dependency.
+
+Plausible Deniability: Structuring actions in advance so one can credibly deny involvement if discovered, leaving no traceable evidence.
+
+Deception: The deliberate use of false or invalid information including lies, omissions, and distortions to change a person's perspective or beliefs away from the accurate view of the situation.
+
+Volatility: The capacity for rapid, unpredictable shifts in both cognitive strategies and observable behaviors without clear external cause, deliberately disrupting others' ability to model or anticipate actions.
+
+Creatively: The ability to think originally and unconventionally through divergent thinking, associative thinking, evaluative thinking, and implementation, generating new ideas, solutions, or viewpoints.
+
+Randomization: The use of pre-planned, pseudo-random behavioral patterns that appear non-strategic to opponents but follow hidden internal logic. Grounded in game theory's mixed strategy concept, requiring overcoming the natural tendency toward predictable patterns to create genuinely unpredictable behavior that serves strategic purposes.
+
+Risk Competence: The advanced capacity to pursue hazardous actions or decisions with exceptional skill, anticipating pitfalls while embracing uncertainty.
+
+Unconventionality: The ability to apply solutions or strategies so removed from established norms that they bypass opponents' threat recognition frameworks. It is most effective when the unconventional approach is still strategically sound rather than merely different, though it carries risks of failure if too far removed from effective solutions.
+
+Unpredictability: The ability to think and behave in ways that are unexpected and difficult to predict by others through expectation violation, pattern disruption, creative generation, and strategic coherence.
+
+Potency: The measurable effectiveness of a tactical maneuver in achieving immediate advantages—quantifying its precision, adaptability, and capacity to force desired reactions from opponents. High-potency tactics deliver disproportionate gains relative to resources expended.
+
+Synergy: The compounding advantage created when multiple tactics interact cohesively—either through sequenced execution (A→B→C) or concurrent reinforcement (A+B = 3x effect).
+
+Management: The oversight and real-time optimization of active tactics—monitoring their performance, adjusting resource allocation, and aborting/replacing failing maneuvers without strategic disruption. Mastery prevents overcommitment to sunk costs.
+
+Temporal Shift: The ability to delay or accelerate action timing to misalign with an opponent's expected response window, requiring understanding of opponents' timing expectations and predicting how timing changes will affect responses.
+
+Initiative Poisoning: The ability to make an opponent's first move inherently disadvantageous through trap setting, position preparation, expectation manipulation, and response execution.
+
+Tactics: The ability to execute specific actions that gain immediate advantages within a broader strategic context through situation assessment, option generation, outcome prediction, and action selection. Tactics differ from strategy by focusing on immediate, specific actions rather than long-term planning, and involve quickly assessing situations, generating options, predicting outcomes, and selecting actions that achieve immediate objectives while supporting broader strategic goals.
+
+Prediction: The ability to forecast general future events or outcomes through pattern recognition, trend extrapolation, causal reasoning, and uncertainty estimation based on available information.
+
+Anticipation: The ability to forecast precise outcomes and prepare for them through specific outcome forecasting, preparation planning, resource allocation, and readiness maintenance.
+
+Preclusion: The ability to identify actions, policies, or events that could prevent undesirable future scenarios through risk identification, causal analysis, intervention identification, and cost-benefit analysis.
+
+Obviation: The ability to account for multiple potential future possibilities through scenario generation, contingency planning, robust strategy identification, and flexibility maintenance without committing to a single specific outcome.
+
+Butterfly: The ability to identify moments where small interventions create maximum long-term impact through system understanding, sensitivity analysis, long-term thinking, and intervention timing.
+
+Horizon: The maximum temporal or conceptual distance a character can project their foresight, defining how far into the future or how many layers ahead their predictions remain accurate and actionable.
+
+Foresight: The ability to foresee future developments and prepare for them through pattern recognition, causal reasoning, scenario planning, and preparation.
+
+Prioritization: The ability to rank incoming information by importance and relevance to allocate cognitive resources effectively, requiring clear goals and the ability to dynamically adjust as circumstances change.
+
+Learning Ability: The capacity to acquire and absorb new knowledge, skills, and experiences efficiently and effectively, adapting to new situations and building upon existing foundations. A smart character exhibits a strong learning ability through rapid comprehension, asking insightful questions, and incorporating new insights into their mental framework.
+
+Load Tolerance: The capacity to effectively sustain cognitive performance when processing large volumes of information or complex demands, maintaining accuracy and efficiency without performance degradation.
+
+Neuroplasticity: The brain's natural ability to rewire itself over time, enabling long-term cognitive adaptability through learning, training, and new experiences. For characters, high neuroplasticity reflects sustained flexibility to grow skills and recover from mental setbacks across their lifespan.
+
+Attention Span: The capacity to concentrate on a task, maintain focus, and filter out distractions over an extended period.
+
+Throughput: The maximum rate at which a character can accurately intake, process, and apply new information under time pressure, reflecting raw cognitive processing speed independent of depth of analysis.
+
+Memory: The system and processes involved in encoding, storing, processing, and retrieving information, experiences, knowledge, and skills over time.
+
+Cognition: The overarching ability to acquire, process, interpret, synthesize, and apply knowledge, skills, and information through basic processes, executive functions, and metacognition.
+
+Psychoanalysis: The ability to systematically examine and evaluate mental processes, thought patterns, emotions, and behaviors through systematic observation, pattern identification, unconscious process analysis, and interpretation.
+
+Theory of Mind: Expertise in accurately interpreting thoughts, emotions, intentions, and beliefs in oneself and others through perspective-taking, false belief understanding, intentionality detection, emotion recognition, and desire understanding.
+
+Attribution Accuracy: The ability to correctly identify the true causes of others' behavior, distinguishing between dispositional and situational factors. Involves avoiding the fundamental attribution error of overemphasizing personality over context.
+
+Conditioning: The systematic modification of behavior through learned associations between actions and consequences using classical conditioning and operant conditioning.
+
+Signaling: The act of sending intentional verbal or non-verbal cues to shape others' perceptions, beliefs, or behaviors, differing from mere communication by being strategic.
+
+Schema: Knowledge of how people organize information into mental frameworks called schemas, allowing prediction of how others will process and react to unfamiliar inputs.
+
+Profiling: Crafting comprehensive, data-driven portraits of individuals by evaluating their personality traits, motivations, values, skills, and tendencies through systematic observation, mental testing, and analytical tools.
+
+Psychology: The in-depth understanding of the mind, behaviors, thoughts, feelings, and social interactions, enabling characters to analyze, predict, and influence human behavior.
+
+Responsiveness: The capacity to rapidly assess a situation and react appropriately at a small-scale, immediate level, making quick decisions and adjusting plans in real-time based on changing circumstances.
+
+Preemptive Strike: Disrupting an opponent's planned action before they can initiate it to nullify their advantage, requiring accurate intelligence about opponents' plans and proper timing.
+
+Goalpost Moving: Shifting the rules, criteria, or standards of a situation to maintain advantage or deny an opponent's earned victory, differing from other manipulation by specifically changing the criteria for evaluation after the fact.
+
+Compounding: Making counteractions that create additional problems beyond neutralizing the original threat, designing actions that produce cascading benefits.
+
+Trap Evasion: The ability to identify, avoid, or overcome deceptive or challenging situations that are specifically designed to hinder progress, requiring enhanced threat detection and the ability to notice things that seem out of place.
+
+Improvisation: Coming up with quick and creative solutions to unexpected challenges, adjusting approach on the fly without preplanning.
+
+Reflective: Absorbing and redirecting opponent tactics back at them with minimal modification, effective because the opponent's tactic is already proven to work.
+
+Detection: The ability to identify when others are attempting to deceive through cue recognition, baseline comparison, inconsistency detection, contextual analysis, and information integration.
+
+Castling: A defensive-offensive countermeasure where a character strategically swaps roles, resources, or positions with an ally—simultaneously protecting vulnerabilities while repositioning assets for optimal engagement. Maintains strategic balance while disrupting opponent targeting.
+
+Shielding: The ability to proactively guard against attacks or disruptions by reinforcing one's position. It involves anticipating threats and deploying defensive measures to absorb or nullify impact without retreat.
+
+Mitigation: The ability to limit the damage caused by disruptions or schemes through damage assessment, priority determination, resource allocation, implementation, and evaluation.
+
+Disruption: The ability to render an opponent's tool or scheme useless through capability identification, vulnerability analysis, countermeasure selection, execution, and assessment.
+
+Capitalization: The ability to instantly leverage an adversary's errors or oversights to extract strategic value, transforming missteps into immediate opportunities for gain while maintaining pressure.
+
+Counteraction: The ability to identify, predict, and respond effectively to opponents through opponent identification, prediction, response planning, rapid execution, and adaptation.
+
+Info Gathering: The ability to collect relevant information, data, or intelligence about the environment, enemies, or objectives through multiple sources, most effective when information is critically evaluated for reliability.
+
+Leverage Building: Recognizing and capitalizing on the unique strengths, skills, and resources available within a given scenario, rallying and mobilizing them to gain a competitive edge.
+
+Formulation: The ability to come up with a logically coherent plan within a relatively short amount of time through goal identification, constraint identification, option generation, evaluation, selection, and refinement.
+
+Multi Tasking: The ability to manage and perform multiple tasks or functions simultaneously through task switching, prioritization, resource allocation, interference management, and performance maintenance.
+
+Contingencies: Execution of pre-designed backup protocols for foreseen disruptions to maintain progress toward core objectives. Measures preparedness for predicted risks via rehearsed, scalable countermeasures—minimizing deviation when disruptions occur.
+
+Salvage: Repurposing discarded, broken, or overlooked elements in an environment into functional tools or advantages, requiring broad knowledge of object functions and strong creative problem-solving skills.
+
+Pacecraft: Artfully regulating the speed and timing of actions to dictate the flow of engagement, including acceleration, deceleration, rhythm disruption, and rhythm establishment.
+
+Transitioning: The ability to anticipate, plan for, and smoothly navigate shifts between different states, roles, or environments, most effective when transitions are anticipated in advance.
+
+Field Crafting: The set of abilities, knowledge, and talents directly related to performance or survival in an environment or situation through environmental assessment, resource identification, adaptation planning, tool creation, and environmental manipulation.
+
+Coercion: Persuading someone to do something by using force or threats.
+
+Smearing: Disseminating false or malicious information to provoke social condemnation and destroy a target's reputation, exploiting the psychological tendency to give more weight to negative information.
+
+Inducement: Deliberately attempting to provoke or manipulate a response by clouding judgment, lowering resistance, or encouraging cooperation.
+
+Overloading: The ability to overwhelm the opponent with information through information volume management, complexity management, contradiction creation, processing interference, and decision paralysis.
+
+Mind Control: The ability to psychologically manipulate the beliefs, perceptions, thoughts, and actions of others through environment control, thought control, emotion control, behavior control, and identity control.
+
+Identity Attack: Undermining an opponent's core self-concept, identity, or confidence rather than targeting specific fears or plans, most effective when attacks target core aspects of identity.
+
+Reinforcements: Actions or messages designed to strengthen an idea, belief, or behavior in a target.
+
+Bias Exploitation: Leveraging of predictable cognitive flaws or irrational thinking tendencies to sway decisions or beliefs. It exploits mental shortcuts for tactical advantage by triggering subconscious influences.
+
+Abusing Insecurities: Deliberately exploiting an opponent's known weaknesses, fears, or vulnerabilities to undermine their confidence, morale, and decision-making ability, most effective when attacks target core insecurities.
+
+Mental Warfare: The ability to exert influence, manipulate, or control the thoughts, emotions, and actions of individuals or groups for strategic advantage through target analysis, message design, delivery, effect assessment, and adaptation.
+
+Peak Depth: The highest level of demonstrated mastery a character achieves in their strongest skill areas. It reflects how far above average expertise their best abilities reach when compared to domain specialists.
+
+Granular Control: The ability to precisely manipulate small details within a character's strongest domains that general practitioners cannot access. It requires deep expertise that enables conscious fine-tuning of subtle variables.
+
+Complexity Threshold: The maximum difficulty level of problems a character can solve within their strongest areas that non-specialists cannot address. It marks the upper boundary of challenge difficulty manageable through concentrated domain mastery.
+
+Higher Strengths: The concentration of a character's greatest capabilities in specific domains, measuring how exceptionally powerful their best skills are relative to normal expertise.
+
+Competency Floor: The minimum functional ability level a character maintains across all areas of operation. It ensures no exploitable critical gaps exist in their overall skill coverage.
+
+Blind Spot Scarcity: The rarity of areas where a character possesses absolutely no knowledge or capability. It reduces vulnerability to challenges falling completely outside their experience.
+
+Transfer Capacity: The ability to apply principles learned in familiar domains to solve problems in entirely unfamiliar contexts. It requires recognizing deep structural patterns across different situations and mapping known solutions onto new challenges.
+
+Less Weaknesses: The absence of critical gaps or total incompetencies across a character's overall skill set, measuring how rarely a character encounters situations where they have zero functional ability.
+
+Distribution: The distribution of a character's capabilities across domains and depths, ranging from narrow specialization to broad versatility.
+
+Proxies: Directing intermediary agents to act on one's behalf while maintaining authority over their tasks, coordinating delegated operations without direct personal involvement. It includes direct proxies, indirect proxies, and chain proxies, and is most effective when agents are carefully selected, instructions are clear, and monitoring systems are in place.
+
+Destabilization: Causing the sudden disintegration of authority structures through vulnerability identification, pressure application, and cascade triggering due to unsustainable pressure. It includes structural destabilization, functional destabilization, and psychological destabilization, and is most effective when pressure is applied to critical vulnerabilities and cascading failures can be triggered.
+
+Loyalty Erosion: Systematically weakening the emotional or psychological bonds between targets and their allies, institutions, or causes through sustained doubt, betrayal seeding, or trust corrosion. It includes interpersonal erosion, institutional erosion, and ideological erosion, and is most effective when applied systematically over time and targeting the most vulnerable bonds.
+
+Resistance Breach: Penetrating or dismantling defensive barriers intended to protect a system through barrier analysis, vulnerability identification, and exploitation execution, creating vulnerabilities by forcing openings that allow further undermining efforts. It includes physical breach, information breach, social breach, and psychological breach, and is most effective when targeting critical vulnerabilities and exploited quickly before defenses can be reinforced.
+
+Setting Traps: Creating, planning, and executing traps to hinder the opponent through target analysis, trap design, bait creation, and optimal timing. Includes information, decision, temporal, and behavioral traps, most effective when exploiting predictable behaviors, using attractive bait, and triggering at the optimal moment.
+
+Info Control: Managing what information is disseminated, how it's presented, and what is withheld through audience analysis, message design, and channel selection to influence perceptions, decisions, or the narrative. Includes censorship, propaganda, framing, and strategic silence, most effective when tailored to the target audience with maximum impact messaging and consistent control.
+
+Subversion: Covertly weakening or destabilizing systems through infiltration, corruption, destabilization, loyalty subversion, and foundation erosion by targeting core foundations. It favors indirect manipulation over direct opposition to erode functionality gradually, and is most effective when operations are covert and target critical foundations.
+
+Ruthlessness: A willingness to disregard emotional, ethical, or interpersonal constraints when necessary to achieve objectives. Measures efficiency over morality.
+
+Shamelessness: The tendency to act without concern for social stigma, personal embarrassment, or moral judgment to achieve goals. It ignores shame or guilt to take actions others would avoid due to social or ethical concerns.
+
+Fearlessness: The ability to act when faced with terror-inducing barriers or obstacles, differing from courage by involving reduced fear experience rather than acting despite fear.
+
+Decisiveness: The ability to commit to a course of action quickly without excessive deliberation or doubt.
+
+Pragmatism: A problem-solving approach focused on practical outcomes rather than ideological or theoretical ideals, prioritizing feasible solutions over perfect ones.
+
+Tolerance: The ability to hold contradictory beliefs or values without psychological distress or impaired decision-making.
+
+Openness: The degree of flexibility and receptiveness to new ideas, perspectives, and unconventional solutions, allowing for adaptive and creative problem-solving.
+
+Conviction: The strength and certainty with which a character holds their core beliefs and worldview. It determines how much psychological energy they commit to maintaining their mental framework against internal doubt or cognitive dissonance.
+
+Detachment: The ability to maintain emotional distance from people, outcomes, or situations to preserve objective judgment. It prevents personal feelings from distorting perception or interfering with rational decision-making.
+
+Caution: The tendency to avoid unnecessary risks and carefully evaluate potential dangers before taking action, preventing mistakes or negative outcomes in uncertain situations.
+
+Humility: The awareness and acceptance of the limits of one's own knowledge and the fallibility of one's beliefs. It allows a character to revise their opinions when faced with contradictory evidence rather than defending incorrect positions.
+
+Mentality: The overarching cognitive and psychological framework that dictates how a character perceives things, processes, makes decisions, and interacts with the world.
+
+Integration: The ability to synthesize diverse, even conflicting, information into a novel and coherent understanding, connecting patterns across domains to create a whole greater than the sum of its parts.
+
+Optimization: The efficiency of cognitive processes, allocating deep analysis to critical complexities while avoiding wasted effort on trivialities. It judges the 'insight per mental calorie.
+
+Causal Logic: The ability to map direct and indirect cause-effect relationships between discrete events or decisions, differing from simple correlation by involving true causal understanding that distinguishes correlation from causation.
+
+Retrospective: Reviewing past events to understand how outcomes unfolded and what patterns emerged, actively examining events to extract generalizable lessons rather than just remembering what happened.
+
+Eureka Sense: Recognizing the moment when subconscious pattern recognition suddenly surfaces as a clear, breakthrough understanding of a problem, differing from gradual understanding by involving a sudden qualitative change in understanding.
+
+Expertise: The skilled and contextualized deployment of specialized knowledge to novel situations, assessing the fluidity and appropriateness with which deep domain understanding is used to solve problems.
+
+Intuition: The ability to perceive, understand, or make decisions based on instinct, gut feeling, or subconscious processing of information, drawing on knowledge, experience, and subconscious cues.
+
+Insight: This category assesses the quality, depth, and adaptability of reasoning. It moves beyond the mere capacity to make inferences to examine how a character constructs understanding, manages their own cognition, and applies their intellect to the world.
+
+Navigation: Proficiency in navigating and adapting to complex systems through system mapping, rule identification, behavior prediction, and adaptation planning by understanding their rules and behaviors.
+
+Maximization: The ability to maximize the use of anything available within the system or the overall system itself through resource identification, synergy identification, optimization planning, and waste minimization.
+
+Operational Fit: Aligning a system's internal functions, resources, and processes toward its intended goals. This evaluates whether each component directly serves the system's purpose.
+
+Macroleverage: Using high-level actions to influence large-scale outcomes across entire systems through system mapping, pivotal element identification, and effect amplification by targeting pivotal elements with broad-reaching effects.
+
+Microleverage: Applying precise, localized actions to trigger disproportionate changes within systems through system analysis, leverage point identification, and precision action design.
+
+Interoperability: Enabling separate, distinct systems to communicate and function together across boundaries. This evaluates whether independently designed components can operate as a unified whole.
+
+Resourcefulness: The ability to identify and allocate resources across interconnected system nodes for maximum systemic output, differing from mere resource management by involving identification of resources others might overlook.
+
+Systems Thinking: The ability to understand how different parts of a system interact and influence each other as a whole through boundary definition, component identification, relationship mapping, emergence recognition, and dynamic analysis.
+
+Cascade Prediction: The ability to foresee how a single change triggers sequential consequences that propagate through a connected system over time through initial change identification, connection mapping, propagation prediction, and outcome assessment.
+
+Interplay Recognition: The ability to identify system behaviors that arise from interactions rather than individual components through behavior observation, component analysis, interaction analysis, and emergence identification.
+
+Archetype Recognition: The ability to identify recurring structural patterns across different complex systems through pattern extraction, abstraction, pattern matching, and prediction.
+
+Systemics: The study of systems and their interconnected components to enable effective functioning and scalability. It focuses on understanding relationships, interactions, and dynamics to optimize complex structures over time.
+
+First Principles: The process of breaking a problem down to its most basic, foundational truths through assumption identification, questioning, fundamental truth identification, solution building, and verification.
+
+Analogical Bridging: Recognizing structural similarities between a current novel problem and previously encountered situations, then transferring proven solutions from familiar contexts into entirely new ones.
+
+Convergence Testing: Systematically evaluating multiple candidate solutions against available evidence, constraints, and predicted outcomes to identify and commit to the most viable approach.
+
+Directional Hypothesis: Forming an educated initial guess about which general approach will yield the best results when full testing of every option is impossible. Rather than exhaustively exploring all paths, a character with strong directional hypothesis identifies the most promising avenue to pursue first based on partial information.
+
+Constraint Navigation: The ability to find clever solutions within tight limits, turning restrictions into advantages and highlighting adaptability when resources, rules, or time are strongly limiting.
+
+Novel Variable Isolation: Identifying and separating critical, relevant factors from irrelevant noise in an unfamiliar problem to focus problem-solving efforts where they matter most.
+
+Dynamic Recalibration: Adjusting problem-solving approaches in real time as the novel problem shifts, evolves, or introduces unexpected constraints mid-solution.
+
+Edge Case Validation: Tests extreme, unlikely scenarios to confirm a solution works for all possible iterations of the novel problem, not just common use cases.
+
+Solution Prototyping: Rapidly building and testing multiple incomplete, functional models of solutions to identify viability before committing resources to full implementation.
+
+Pathway Generation: The ability to construct multiple independent solution frameworks for a novel problem when existing methodologies fail or are unavailable.
+
+Boundary Testing: Proactively exploring and pushing scenario limits to expose vulnerabilities, find creative workarounds, and expand possibilities.
+
+Experimental: The process of discovering solutions through rapid trial-and-error experimentation when existing knowledge or theoretical approaches are insufficient to solve a novel problem.
+
+NCPS (Novel Complex Problem Solving): The ability to swiftly analyze and solve novel, intricate, and open-ended problems, demonstrating adaptability, creativity, and a deep understanding of the underlying principles involved. This involves applying and integrating knowledge from diverse domains to devise innovative and effective solutions.
+
+Decisions: The systematic process of evaluating available information, identifying potential courses of action, and selecting the optimal choice aligned with objectives.
+
+Awareness: The capacity to perceive, interpret, and anticipate environmental cues, social dynamics, and hidden variables in real time.
+
+Metacognition: Awareness and understanding of one's own thought processes, involving the ability to control and reflect on how you learn, think, and solve problems.
+
+Bayesian Update: A method of adjusting beliefs or predictions as new evidence becomes available, weighing new information against what you already know to update your understanding of a situation.
+
+Chance Noticing: The ability to identify favorable circumstances or openings that others might overlook.
+
+Methodology: The systematic framework used to gather relevant information, analyze options objectively, and apply consistent criteria when forming judgments—ensuring decisions are grounded in evidence rather than assumption.
+
+Bias Control: Recognize, mitigate, and override cognitive biases—such as confirmation bias, overconfidence, or emotional interference—to ensure objective, rational decision-making.
+
+Calibration: The precision in matching one's confidence to the actual strength of the available evidence. It evaluates how well a character avoids overconfidence in weak conclusions and undue doubt in strong ones.
+
+Heuristics: The effective use of mental shortcuts and instinctive judgments under uncertainty or time pressure. It evaluates the practical wisdom and speed of a character's "good enough" reasoning.
+
+Judgment: Making sound and informed decisions based on available information and analysis without biases, weighing the pros and cons of different options and making decisions that align with goals.
+
+Critical: Analyzing, evaluating, and interpreting information objectively and rationally, considering multiple perspectives, arguments, and evidence while questioning assumptions, identifying biases, and making reasoned judgments.
+
+Abstract: Identifying and manipulating intangible concepts, patterns, or relationships beyond concrete reality to enhance reasoning capabilities. It enables engagement with complex systems, hypotheticals, or universals inaccessible through sensory input alone.
+
+Convergent: Using logic and information to arrive at specific, correct, and well-established solutions.
+
+Divergent: Generating high-volume, varied solutions to open-ended problems—exploring all possible approaches without early judgment. Prioritizes idea diversity over immediate practicality.
+
+Systematic: A methodical, stage-gated approach to problem-solving that relies on formalized frameworks (e.g. scientific method). It progresses through modular phases (hypothesis → testing → validation) while rigorously cross-checking internal consistency.
+
+Counterfactual: Reasoning about alternative pasts or futures by mentally simulating "what if" scenarios that contradict established facts. Enables causal learning, contingency planning, and strategic refinement by exploring how outcomes shift when key variables are altered or reversed.
+
+Comprehension: The ability to understand and make sense of information, ideas, or instructions, grasping meaning quickly without needing additional explanation or context.
+
+Paraconsistent: The ability to reason with and operate within contradictions, inconsistencies, or conflicting information without logical breakdown or cognitive paralysis. It enables a character to hold opposing truths simultaneously and still function effectively.
+
+Associative: The ability to link seemingly unrelated concepts or ideas through concept activation, remote association, novelty assessment, and creative application to generate novel connections or solutions.
+
+Parallel: The ability to maintain awareness of multiple ongoing cognitive processes without actively processing them, allowing seamless re-engagement with any thread as needed.
+
+Holistic: Considering systems or problems as whole rather than just as collections of parts, focusing on understanding how components interact within a larger context.
+
+Lateral: Problem-solving through deliberate logic subversion—provocatively reframing constraints or assumptions to force unconventional solutions. Characterized by paradox acceptance and non-obvious connections that bypass traditional reasoning pathways.
+
+Thinking: The ability to interpret, understand, and make sense of information, experiences, and perceptions through various thinking styles as appropriate for different situations.
+
+Deductive: A form of logical reasoning that moves from a general principle or rule to a specific conclusion.
+
+Inductive: A form of logical reasoning that moves from specific observations/facts to a broader general conclusion.
+
+Abductive: A form of logical reasoning that starts with an incomplete observation(s) and then arrives at the most plausible explanation.
+
+Probabilistic: Drawing conclusions based on likelihoods rather than certainties when evidence is incomplete through probability estimation, evidence weighting, Bayesian updating, and uncertainty management.
+
+Backwards: A reasoning method where you start from a desired future outcome and work backward to map all required prior steps, helping plan effectively by reverse-engineering the path from an end goal to the current state.
+
+Reasoning: The ability to utilize a set of facts to determine a conclusion by using logic through deductive, inductive, abductive, probabilistic, backwards, and analogical reasoning.
+
+Shift Detection: Identifying subtle internal or external changes in conditions, including cognitive load, environmental shifts, or evolving stakeholder expectations, triggering the adaptive process before changes disrupt progress toward goals.
+
+Routine Shedding: Discarding ingrained habits, automated workflows, and legacy processes that no longer serve goals amid shifting conditions, preventing wasted effort on methods that have become ineffective.
+
+Adaptive Consistency: Balancing flexible adjustments with stable core objectives to avoid erratic, unmoored changes that derail progress, ensuring adaptations align with long-term goals rather than reactive whims.
+
+Sustained Agile Capacity: Maintaining adaptive responsiveness over prolonged periods of change without cognitive fatigue or degradation of decision-making quality, preventing adaptive burnout during extended volatile scenarios.
+
+Gradient Adaptation: Adjusting behavior and processes at a pace matching the speed of change, whether gradual shifts or sudden disruptions, avoiding over-correcting for minor changes or under-correcting for major ones.
+
+Cognitive Pivoting: Reconfiguring internal thought processes, reasoning frameworks, and decision-making criteria to align with new conditions, avoiding over-reliance on outdated mental models.
+
+Adaptability: The capacity to modify cognitive processes, behaviors, and strategies in real time to maintain progress toward goals amid shifting internal or external conditions. It prioritizes fluid responsiveness to change over static domain mastery or predefined plans.
+
+Conflict Resolution:  Resolving interpersonal conflicts or disputes by balancing empathy, negotiation, and authority to find a common ground between parties or de-escalate or exploit conflicts.
+
+Influence Building: The systematic construction of social capital through calculated reputation engineering, alliance networks, and incentive architectures, proactively designing ecosystems where others choose alignment with the influencer's goals.
+
+Communication: Effectively convey ideas, information, and messages to others, both verbally and non-verbally, in a clear, concise, and persuasive manner.
+
+Narrativization: Packaging information as vivid, relatable stories to direct social interpretations and reactions. This proactive storytelling molds group narratives, ensuring others align with their framed reality.
+
+Stakeholding: Identifying, engaging and influencing key players (Allies and enemies), while balancing their interests and expectations to ensure they align with one's objectives.
+
+Networking: Establishment and maintenance of interpersonal connections to expand spheres of influence to curating relationships for information access, resource exchange, or alliance potential.
+
+Delegation: The ability to assign tasks to subordinates or allies that align with their strengths to maximize collective output.
+
+Leadership: The ability to effectively guide, inspire, and direct others through influence building, communication, narrativization, stakeholding, networking, and delegation to align individual incentives with collective goals.
+
+Foundation: Assessing the lay of the land, understanding fundamental aspects, and establishing a solid foundation within any new context.
+
+Filtering: Selectively engaging with or rejecting incoming information, influences, and opportunities based on their relevance, credibility, and potential impact. This involves actively deciding what deserves attention and what should be discarded to protect one's focus, judgment, and integrity.
+
+Positioning: Aligning oneself relative to key elements in an environment to optimize influence. It focuses on achieving advantageous placement to control outcomes.
+
+Safeguarding: Protecting oneself and allies from potential threats. Includes taking steps to prevent potential threats or vulnerabilities and developing contingency plans in case of emergencies.
+
+Prevention: Prevention leverages foundational insight to filter harmful connections, position advantageously, and implement safeguards, turning foresight into action that stops risks at their source.
+
+Building: Constructing a strategic framework by assembling tactics, resources, and objectives into a coherent scheme while navigating constraints and limitations. It focuses on the initial creation phase—establishing a workable foundation before execution begins.
+
+Balancing: Managing competing priorities, constraints, and trade-offs in real-time, while maintaining balance and stability.
+
+Complexity: Measures how seamlessly layered, overlapping tactics are incorporated into a strategy to raise the difficulty of deciphering and countering it.
+
+Flexibility: The ability of a strategic approach to withstand and adapt to disruptions, uncertainties, and challenges of other strategies while maintaining its core objectives and effectiveness.
+
+Fortitude: The likelihood of achieving intended goals by focusing on the strength and resilience of the tactics included, without emphasizing the limitations the character faces.
+
+Logistics: Orchestrating and allocating resources in real-time to bring the strategic vision to life during execution. It ensures the right assets are in the right place at the right time, aligning tactics precisely without gaps or errors.
+
+Forecasting: To anticipate future developments and proactively refine tactics to align with the long-term strategic vision. Analyzing trends, predicting ripple effects, and embedding flexibility into the strategy before disruptions occur.
+
+Coherent: Ensuring all tactics, actions, and decisions within a strategy align with each other and the overarching goals without contradiction. It measures internal consistency—eliminating wasted effort and conflicting priorities.
+
+Guiding: A high-level principle or rule that directs strategic decisions and keeps actions aligned with long-term goals. It serves as a fixed compass when tactics must change, ensuring the core direction remains constant.
+
+Vision: The core long-term aims and objectives a strategy is designed to achieve.
+
+Length: Measures the total time a strategy spans from initial execution to final conclusion.
+
+Strategy: The active, systematic implementation of multiple quality-executed tactics to achieve the underlying vision.
+
+Coverage: The breadth of scenarios, contingencies, and variables a character accounts for when creating a plan—measuring how many potential outcomes they've prepared for.
+
+Versatility: The range of different strategies and tactics a character can formulate before execution—measuring how many distinct approaches they can develop to address the same objective.
+
+Intricacies: The extent to which a character considers the depth and interconnectedness of various aspects of a situation, measuring the complexity and relationships between different factors.
+
+Risk Amst: Identifying, analyzing, and evaluating potential risks and uncertainties that could impact the success of a plan.
+
+Acclimation: Modifying an existing plan's tactics in real-time during execution when faced with novel variables or disruptions—adjusting the blueprint without abandoning core objectives.
+
+Applicability: Evaluates the contextual relevance and actionable precision of a plan’s design—ensuring strategies align with real-world constraints, resources, and goal feasibility.
+
+Endgame: Devising and executing plans to steer a scenario towards a predetermined outcome, skillfully managing remaining challenges and optimizing overall performance in the final stages.
+
+Process: The orchestration of tactics and strategies across the plan’s timeline—sequencing actions, allocating resources, and synchronizing dependencies to maintain goal coherence.
+
+Planning: A flexible blueprint that compiles multiple strategies and tactics centered around clear goals, involving predetermined steps with contingencies for foreseeable circumstances.
+
+Mental Fortitude: The psychological strength and resilience to face and overcome challenges, maintain composure under pressure, and persist in the face of adversity.
+
+Impulse Control: Resisting immediate strong urges, delaying gratification, and making thoughtful decisions rather than acting on momentary impulses.
+
+Inscrutability: The deliberate cultivation of unpredictability, ambiguity, or emotional opacity to conceal one's true intentions, vulnerabilities, or thought processes from others, thereby reducing susceptibility to manipulation or exploitation.
+
+Autonomy: The inherent capacity to govern one's own thoughts, decisions, and actions according to personal values and principles, free from undue external coercion or undue influence from others' expectations.
+
+Clarity: The active maintenance of cognitive, emotional, and communicative transparency to establish firm boundaries, counteract manipulation, and neutralize external pressure, ensuring that openness and directness function as defensive shields rather than vulnerabilities.
+
+Resistance: The ability to resist, counteract, or push back against perceived threats, demands, or changes through mental fortitude, impulse control, inscrutability, autonomy, and clarity that infringe upon their autonomy, values, or sense of self.
+
+Constraints: The inherent or imposed constraints that restrict a character’s ability to execute a feat consistently or optimally. These define the boundaries within which their demonstrated skills must operate.
+
+Opposition: The active resistance or countermeasures characters face when attempting feats, which influence the credibility of their actions. This establishes a baseline of challenge severity for comparative evaluation.
+
+Complexity: The degree of intricacy involved in executing a feat, determined by required coordination, knowledge, and adaptation, with higher complexity indicating greater cognitive or operational demand.
+
+Efficiency: The ratio of output to input, measuring how little effort is wasted to achieve results and focusing on optimizing performance with minimal unnecessary effort.
+
+Consistency: The statistical reliability with which a character can reproduce a demonstrated ability at the same performance level when executed repeatedly across varying contexts, conditions, and opposition levels.
+
+Flexibility Demand: The extent to which a feat requires dynamic adjustments to external variables, testing a character’s situational adaptability. This distinguishes rigidly rehearsed actions from spontaneous ingenuity.
+
+Contextual Adversity: The environmental, social, or logistical pressures that degrade a feat’s feasibility, requiring extra effort or superior skill to overcome. This highlights resilience under disadvantageous conditions.
+
+Effectiveness: The definitive success of a feat in fulfilling its intended purpose, disregarding extraneous effort or minor setbacks and prioritizing functional victory over stylistic execution.
+
+Framework: A structured method to assess a character's demonstrated abilities through constraints, opposition, complexity, efficiency, consistency, flexibility demand, contextual adversity, and effectiveness, contextualizing their actions within measurable criteria.
+
+Fixed: The scenario operates under unchangeable rules, boundaries, or conditions, requiring adaptation within a rigid framework. Success depends on proficiency within static constraints rather than altering them.
+
+Non-Fixed: The scenario is fluid, with ever-shifting rules or dynamics, demanding continuous re-evaluation and realignment of strategies. Success hinges on dynamic responsiveness beyond preset constraints.
+
+Baseline: The stability or volatility of a scenario’s fundamental rules, boundaries, or conditions. Measures whether the framework is a canvas (shaped by the character) or a box (immovable from the outset).
+
+Linear: The scenario unfolds in a straight progression, with cause-and-effect sequences that are predictable and minimally branching. Mastery requires precision in single-path optimization rather than multilateral analysis.
+
+Multilayered: The scenario requires navigating multiple overlapping cause-effect chains, often with non-obvious interactions. Mastery depends on simultaneous comprehension of nested complexities.
+
+Dimensionality: The scope or layers of reality a character must engage with—whether the scenario operates on a single plane of existence or across multiple interconnected dimensions (physical, temporal, conceptual, metaphysical).
+
+Tangible: The scenario is governed by physically constrained, verifiable mechanics, where actions are measured empirically. Mastery requires direct engagement with material systems.
+
+Abstract: The scenario revolves around intangible, conceptual, or hypothetical constructs, where reality is subjective. Mastery requires indirect engagement with metaphysical systems.
+
+Approach: The angle or method a character uses to engage with a scenario—whether they confront it head-on, circumvent it, infiltrate it, or reshape it from within.
+
+Direct Warfare: Conflicts are explicitly combative, involving overt confrontation between agents with relatively transparent objectives. Mastery relies on superior tactics in face-to-face competition.
+
+Indirect Warfare: Conflicts operate through hidden, relational, or systemic forces, where adversaries may not directly interact. Mastery depends on manipulating unseen leverage points.
+
+Engagement: The nature of interaction with forces in the scenario (conflict/cooperation, direct/indirect). Divides scenarios based on whether they highlight frontal competition or systemic manipulation.
+
+Singular: The scenario is isolated, affecting only individual agents or sharply demarcated systems. Mastery requires optimizing for a constrained niche without broader externalities.
+
+Collective: The scenario spans interconnected agents, systems, or social/institutional networks. Mastery requires horizontal influence to cascade effects across multiple nodes.
+
+Reach: The scale of impact determining whether the scenario allows isolated or consequential effects. Defines if influence radiates to a single node or a cascade of systems.
+
+Concentrated: The scenario’s critical elements are centralized in a single locus, allowing direct engagement to seize control. Mastery requires monopolizing a high-leverage point.
+
+Distributed: The scenario’s key elements are dispersed across disconnected nodes, necessitating asymmetric engagement. Mastery requires parallel access to subsystems for isolated interventions.
+
+Layout: The architecture of critical elements within the scenario (centralized or fragmented). Establishes whether control requires holding one throne or ten battlegrounds.
+
+Reactive: The scenario provides minimal prior notice, requiring immediate adaptation to emergent threats. Mastery depends on instinctive adjustments with limited foresight.
+
+Proactive: The scenario allows deliberate preparation, enabling preemptive structuring of defenses/resources. Mastery depends on preemptive planning to shape outcomes.
+
+Prep Window: The advance time granted to prepare for scenario challenges (reaction vs. preparation). Quantifies whether characters must stitch wounds mid-fall or build a net beforehand.
+
+Multi Agent: The degree of difficulty involved in managing scenarios with multiple independent actors, each with their own distinct goals. It measures how hard it is to coordinate with or outmaneuver many parties at once.
+
+Scenario: The ability to analyze, adapt, and execute across varied operational frameworks through assessment across seven spectrum dimensions: Baseline, Dimensionality, Approach, Engagement, Reach, Layout, and Prep Window.
+
+Field Dynamic: A character's innate or cultivated advantage in specific domains of knowledge, expertise, or environments determining how their specialized mastery amplifies or diminishes their effectiveness against opponents in contextually relevant scenarios.
+
+Tempo Control: The degree to which a character dictates the rhythm, timing, and initiative of the engagement, forcing the opponent into reactive patterns rather than proactive execution.
+
+Nash Equilibrium: A stable state in a competitive scenario where no participant can gain an advantage by changing their strategy alone. All parties are making the best possible choice given the actions of others.
+
+Information Asymmetry: The disparity between what each competitor knows about the other’s capabilities, resources, and intentions. It dictates who operates with hidden knowledge and who is forced to act under uncertainty.
+
+Methodological Dynamic: The alignment or opposition of characters’ strategic methodologies, determining how their approaches amplify, neutralize, or exploit each other’s strengths and weaknesses in direct competition.
+
+Psychological Dynamic: The compatibility or dissonance between characters’ psychological profiles, communication styles, and decision-making habits determining how effectively they can predict, manipulate, or destabilize one another in strategic interactions.
+
+Matchup: The dynamic interplay between competing characters' intelligence traits, skills, and situational factors that determines their relative advantage in a confrontation or strategic engagement—accounting for cognitive styles, adaptability, resource utilization, and contextual pressures.
+WMI:
+PSI:
+VCI:
+VSI:
+FRI:
+Full Scale IQ:
+
+EP:
+EU:
+EF:
+Inter:
+EE:
+ER:
+EM:
+Intra:
+ECA:
+ERE:
+EAS:
+EID:
+ECF:
+EPP:
+EMB:
+Synergism:
+Emotional:
+
+Order Mapping:
+Cultural Decoding:
+Relational Forecasting:
+Social Cognition:
+Identity Masking:
+Trust Architecture:
+Assimilation Architecture:
+Social Integration:
+Social:
+
+Control:
+Reach:
+Recovery:
+Ownership:
+Endurance:
+Adversity:
+
+Visual:
+Auditory:
+Standard:
+Multisensory:
+Proxyreceptive:
+Observation:
+
+Rhythm:
+Resolution:
+Invariance:
+Reframing:
+Perception:
+
+Classification:
+Deconstruction:
+Negative Space:
+Summarize:
+Diagnosis:
+Mapping:
+Isolation:
+Tracing:
+Probing:
+Trend:
+Analysis:
+
+Fluid:
+Crystallized:
+CF Integration:
+Intelligence:
+
+Direct:
+Indirect:
+Mass:
+Event:
+Logical:
+Emotional:
+Methods:
+Manipulation:
+
+Fabrication:
+Misdirection:
+Concealment:
+Decoy Event:
+Bluffing:
+Double Bluff:
+Verbal:
+Non Verbal:
+Projection:
+Mimicry:
+Layered:
+Framing:
+Gaslight:
+Distortion:
+Sophistry:
+Omission:
+Delusional:
+False Flag:
+Simulation:
+Acting Skills:
+Social Pretext:
+Data Tampering:
+Selective Memory:
+Narrative Scripting:
+Made Dependency:
+Plausible Deniability:
+Deception:
+
+Volatility:
+Creatively:
+Randomization:
+Risk Competence:
+Unconventionality:
+Unpredictability:
+
+Potency:
+Synergy:
+Management:
+Temporal Shift:
+Initiative Poisoning:
+Tactics:
+
+Prediction:
+Anticipation:
+Preclusion:
+Obviation:
+Butterfly:
+Horizon:
+Foresight:
+
+Prioritization:
+Learning Ability:
+Load Tolerance:
+Neuroplasticity:
+Attention Span:
+Throughput:
+Memory:
+Cognition:
+
+Psychoanalysis:
+Theory of Mind:
+Attribution Accuracy:
+Conditioning:
+Signaling:
+Schema:
+Profiling:
+Psychology:
+
+Responsiveness:
+Preemptive Strike:
+Goalpost Moving:
+Compounding:
+Trap Evasion:
+Improvisation:
+Reflective:
+Detection:
+Castling:
+Shielding:
+Mitigation:
+Disruption:
+Capitalization:
+Counteraction:
+
+Info Gathering:
+Leverage Building:
+Formulation:
+Multi Tasking:
+Contingencies:
+Salvage:
+Pacecraft:
+Transitioning:
+Field Crafting:
+
+Coercion:
+Smearing:
+Inducement:
+Overloading:
+Mind Control:
+Identity Attack:
+Reinforcements:
+Bias Exploitation:
+Abusing Insecurities:
+Mental Warfare:
+
+Peak Depth:
+Granular Control:
+Complexity Threshold:
+Higher Strengths:
+Competency Floor:
+Blind Spot Scarcity:
+Transfer Capacity:
+Less Weaknesses:
+Distribution:
+
+Proxies:
+Destabilization:
+Loyalty Erosion:
+Resistance Breach:
+Setting Traps:
+Info Control:
+Subversion:
+
+Ruthlessness:
+Shamelessness:
+Fearlessness:
+Decisiveness:
+Pragmatism:
+Tolerance:
+Openness:
+Conviction:
+Detachment:
+Caution:
+Humility:
+Mentality:
+
+Integration:
+Optimization:
+Causal Logic:
+Retrospective:
+Eureka Sense:
+Expertise:
+Intuition:
+Insight:
+
+Navigation:
+Maximization:
+Operational Fit:
+Macroleverage:
+Microleverage:
+Interoperability:
+Resourcefulness:
+Systems Thinking:
+Cascade Prediction:
+Interplay Recognition:
+Archetype Recognition:
+Systemics:
+
+First Principles:
+Analogical Bridging:
+Convergence Testing:
+Directional Hypothesis:
+Constraint Navigation:
+Novel Variable Isolation:
+Dynamic Recalibration:
+Edge Case Validation:
+Solution Prototyping:
+Pathway Generation:
+Boundary Testing:
+Experimental:
+NCPS:
+
+Decision:
+Awareness:
+Metacognition:
+Bayesian Update:
+Chance Noticing:
+Methodology:
+Bias Control:
+Calibration:
+Heuristics:
+Judgment:
+
+Critical:
+Abstract:
+Convergent:
+Divergent:
+Systematic:
+Counterfactual:
+Comprehension:
+Paraconsistent:
+Associative:
+Parallel:
+Holistic:
+Lateral:
+Thinking:
+
+Deductive:
+Inductive:
+Abductive:
+Probabilistic:
+Backwards:
+Reasoning:
+
+Shift Detection:
+Routine Shedding:
+Adaptive Consistency:
+Sustained Agile Capacity:
+Gradient Adaptation:
+Cognitive Pivoting:
+Adaptability:
+
+Conflict Resolution:
+Influence Building:
+Communication:
+Narrativization:
+Stakeholding:
+Networking:
+Delegation:
+Leadership:
+
+Foundation:
+Filtering:
+Positioning:
+Safeguarding:
+Prevention:
+
+Building:
+Balancing:
+Complexity:
+Flexibility:
+Fortitude:
+Logistics:
+Forecasting:
+Coherent:
+Guiding:
+Vision:
+Length:
+Strategy:
+
+Coverage:
+Versatility:
+Intricacies:
+Risk Amst:
+Acclimation:
+Applicability:
+Endgame:
+Process:
+Planning:
+
+Mental Fortitude:
+Impulse Control:
+Inscrutability:
+Autonomy:
+Clarity:
+Resistance:
+
+Constraints:
+Opposition:
+Complexity:
+Efficiency:
+Consistency:
+Flexibility Demand:
+Contextual Adversity:
+Effectiveness:
+Framework:
+
+Fixed:
+Non-Fixed:
+Baseline:
+Linear:
+Multilayered:
+Dimensionality:
+Tangible:
+Abstract:
+Approach:
+Direct Warfare:
+Indirect Warfare:
+Engagement:
+Singular:
+Collective:
+Reach:
+Concentrated:
+Distributed:
+Layout:
+Reactive:
+Proactive:
+Prep Window:
+Multi Agent:
+Scenario:
+
+Field Dynamic:
+Tempo Control:
+Nash Equilibrium:
+Information Asymmetry:
+Methodological Dynamic:
+Psychological Dynamic:
+Matchup:
+Full Scale IQ: The composite intelligence score derived from standardized cognitive assessments measuring working memory, processing speed, verbal comprehension, and visual-spatial ability, representing overall cognitive capability relative to the general population.
+
+Emotional Intelligence: The ability to perceive, understand, manage, and use emotions in oneself and others to accomplish goals.
+
+Social Intelligence: The ability to understand, navigate, and influence social environments through comprehension of social structures, group dynamics, and interpersonal relationships.
+
+Adversity Capacity: The ability to respond to adversity in an outcome-oriented manner through emotional regulation, cognitive flexibility, and behavioral adaptation.
+
+Observation: The process of perceiving, noticing, and taking in information from the environment through selective, sustained, and divided attention while filtering out irrelevant information.
+
+Perception: The process of interpreting, understanding, and making meaning of observed information through organization, interpretation, integration, and mental representation.
+
+Analysis: The process of breaking down complex information, data, or situations into smaller, more manageable parts through classification, comparison, causes/effects, and evaluation to understand components and draw conclusions.
+
+Intelligence: The overall cognitive capability that encompasses quantitative reasoning, working memory, knowledge, fluid reasoning, and visual-spatial ability.
+
+Manipulation: The ability to control or influence others' behavior through strategic use of deception, bias exploitation, and information control to progress one's goals.
+
+Deception: The deliberate use of false or invalid information including lies, omissions, and distortions to change a person's perspective or beliefs away from the accurate view of the situation.
+
+Unpredictability: The ability to think and behave in ways that are unexpected and difficult to predict by others through expectation violation, pattern disruption, creative generation, and strategic coherence.
+
+Tactics: The ability to execute specific actions that gain immediate advantages within a broader strategic context through situation assessment, option generation, outcome prediction, and action selection. Tactics differ from strategy by focusing on immediate, specific actions rather than long-term planning, and involve quickly assessing situations, generating options, predicting outcomes, and selecting actions that achieve immediate objectives while supporting broader strategic goals.
+
+Foresight: The ability to foresee future developments and prepare for them through pattern recognition, causal reasoning, scenario planning, and preparation.
+
+Cognition: The overarching ability to acquire, process, interpret, synthesize, and apply knowledge, skills, and information through basic processes, executive functions, and metacognition.
+
+Psychology: The in-depth understanding of the mind, behaviors, thoughts, feelings, and social interactions through cognitive, emotional, behavioral, and social understanding.
+
+Counteraction: The ability to identify, predict, and respond effectively to opponents through opponent identification, prediction, response planning, rapid execution, and adaptation.
+
+Field Crafting: The set of abilities, knowledge, and talents directly related to performance or survival in an environment or situation through environmental assessment, resource identification, adaptation planning, tool creation, and environmental manipulation
+
+Mental Warfare: The ability to exert influence, manipulate, or control the thoughts, emotions, and actions of individuals or groups for strategic advantage through target analysis, message design, delivery, effect assessment, and adaptation.
+
+Distribution: The distribution of a character's capabilities across domains and depths, ranging from narrow specialization (deep expertise in few areas) to broad versatility (functional competence across many areas). It measures how a character's expertise profile matches the demands of different scenarios and opponents.
+
+Subversion: Covertly weakening or destabilizing systems through infiltration, corruption, destabilization, loyalty subversion, and foundation erosion by targeting core foundations. It favors indirect manipulation over direct opposition to erode functionality gradually, and is most effective when operations are covert and target critical foundations.
+
+Mentality: The overarching cognitive and psychological framework that dictates how a character perceives things, processes, makes decisions, and interacts with the world.
+
+Insight: This category assesses the quality, depth, and adaptability of reasoning through impasse recognition, restructuring, sudden comprehension, deep understanding, and adaptive application.
+
+Systemics: The study of systems and their interconnected components to enable effective functioning and scalability. It focuses on understanding relationships, interactions, and dynamics to optimize complex structures over time.
+
+NCPS (Novel Complex Problem Solving): The ability to swiftly analyze and solve novel, intricate, and open-ended problems, demonstrating adaptability, creativity, and a deep understanding of the underlying principles involved. This involves applying and integrating knowledge from diverse domains to devise innovative and effective solutions.
+
+Judgment: Making sound and informed decisions based on available information and analysis without biases, weighing the pros and cons of different options and making decisions that align with goals.
+
+Thinking: The ability to interpret, understand, and make sense of information, experiences, and perceptions through various thinking styles as appropriate for different situations.
+
+Reasoning: The ability to utilize a set of facts to determine a conclusion by using logic through deductive, inductive, abductive, probabilistic, backwards, and analogical reasoning.
+
+Adaptability: The capacity to modify cognitive processes, behaviors, and strategies in real time to maintain progress toward goals amid shifting internal or external conditions, prioritizing fluid responsiveness to change.
+
+Leadership: The ability to effectively guide, inspire, and direct others through influence building, communication, narrativization, stakeholding, networking, and delegation to align individual incentives with collective goals.
+
+Prevention: Prevention leverages foundational insight to filter harmful connections, position advantageously, and implement safeguards, turning foresight into action that stops risks at their source.
+
+Strategy: The active implementation of multiple tactics systematically to work towards or achieve the underlying vision, defining the overall goal and method of achieving it.
+
+Planning: A flexible blueprint that compiles multiple strategies and tactics centered around clear goals, involving predetermined steps with contingencies for foreseeable circumstances.
+
+Resistance: The ability to resist, counteract, or push back against perceived threats, demands, or changes through mental fortitude, impulse control, inscrutability, autonomy, and clarity that infringe upon their autonomy, values, or sense of self.
+
+Framework: A structured method to assess a character's demonstrated abilities through constraints, opposition, complexity, efficiency, consistency, flexibility demand, contextual adversity, and effectiveness, contextualizing their actions within measurable criteria.
+
+Scenario Proficiency: The ability to analyze, adapt, and execute across varied operational frameworks through assessment across seven spectrum dimensions: Baseline, Dimensionality, Approach, Engagement, Reach, Layout, and Prep Window.
+
+Matchup: The dynamic interplay between competing characters' intelligence traits, skills, and situational factors that determines their relative advantage in a confrontation or strategic engagement—accounting for cognitive styles, adaptability, resource utilization, and contextual pressures.
+Full Scale IQ:
+Emotional:
+Social:
+Adversity:
+Observation:
+Perception:
+Analysis:
+Intelligence:
+Manipulation:
+Deception:
+Unpredictability:
+Tactics:
+Foresight:
+Cognition:
+Psychology:
+Counteraction:
+Field Crafting:
+Mental Warfare:
+Distribution:
+Subversion:
+Mentality:
+Insight:
+Systemics:
+NCPS:
+Judgment:
+Thinking:
+Reasoning:
+Adaptability:
+Leadership:
+Prevention:
+Strategy:
+Planning:
+Resistance:
+Framework:
+Scenario:
+Matchup:

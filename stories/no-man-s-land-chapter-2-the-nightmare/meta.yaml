@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: no-man-s-land-chapter-2-the-nightmare
+category: story
+title: No Man's Land – Chapter 2 – The Nightmare
+authors:
+- name: Whanks
+  source: doc-text
+- name: RCN
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15X4RH0s3FBiwKiF2-vfI24HQLND-9UaRUuqgZ9DXMS0
+    google_id: 15X4RH0s3FBiwKiF2-vfI24HQLND-9UaRUuqgZ9DXMS0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 8050
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2011036
+      sha256: b4c6269cb987e9a308c1f1b64a5f539de1831f82d8d100a31c39405e51b03c37
+    - format: docx
+      name: document.docx
+      bytes: 1319221
+      sha256: c406997f7569785ba8620b55c5408eeb093b0f7acdfd84d09c80a6ea382be591
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wk7ihk/
+  note: 'Shared by u/IAmNotBatman132 in a post on 2026-09-19: No Man''s Land – Chapter 2 – The Nightmare'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-scaling
+category: doc
+title: SCD Scaling
+authors:
+- name: Voidset_
+  reddit: Voidset_
+  source: reddit-post
+series: []
+characters: []
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10OD3RK1aH3QjGLIc5K_Ucm2HHE9On7flg_ifeY8Fr6U
+    google_id: 10OD3RK1aH3QjGLIc5K_Ucm2HHE9On7flg_ifeY8Fr6U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 3365
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 191929
+      sha256: 0b93d5ee65c20b2852a398b5cd5ff3b1f3792e1ff61dea59bed23966e063ae81
+    - format: docx
+      name: document.docx
+      bytes: 19873
+      sha256: 181e03bbee318088d03d1488e3737235f15149551046ab9c25340c6ae9e924f4
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pvlxk2/
+  note: 'Shared by u/Voidset_ in a post on 2025-12-25: What could I change?'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

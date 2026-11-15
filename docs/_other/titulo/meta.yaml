@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: titulo
+category: doc
+title: Titulo
+authors:
+- name: Ninecrom_Arcade
+  reddit: Ninecrom_Arcade
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1YFm2uNfexE0oorun35wxyCTDhLktkz79
+    google_id: 1YFm2uNfexE0oorun35wxyCTDhLktkz79
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 640
+    files:
+    - format: pdf
+      name: Cosmic Hystory.pdf
+      bytes: 321403
+      sha256: dc7cee15dc291a42edf47194da3ea229ebd57fa76c3613507478cb37018f449d
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1w27sek/
+  note: 'Shared by u/Ninecrom_Arcade in a post on 2026-08-30: Los Quiero, personas desconocidas'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

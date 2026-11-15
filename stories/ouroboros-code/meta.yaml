@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ouroboros-code
+category: story
+title: Ouroboros Code
+authors:
+- name: Virtue_Oppsosto
+  reddit: Virtue_Oppsosto
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14VZ3FnzL1SjrKlYMrYTy8BDQ3cRgyqGKPFlBEv2FCLk
+    google_id: 14VZ3FnzL1SjrKlYMrYTy8BDQ3cRgyqGKPFlBEv2FCLk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 264
+    words: 39723
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4733379
+      sha256: 065b408ff8efb9413e6044868c412669e16231a1a25a3c38900fdc631bda6950
+    - format: docx
+      name: document.docx
+      bytes: 2280559
+      sha256: c7f22281e868261263e9d472d1435db763807a8c2233877dd92c152f24beb7fe
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ux0u1v/
+  note: 'Shared by u/Virtue_Oppsosto in a post on 2026-07-15: A Peak Novel Written By My Homie (The.Shapeless.Theory)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

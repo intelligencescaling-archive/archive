@@ -1,0 +1,3310 @@
+About:
+This doc is mainly maintained by Cucharoth
+It’s a compilation of everything we know about Radish ASMR~
+
+Radish ASMR is a youtube channel created on oct 15, 2022, It started uploading ASMR type videos with strange audio glitches or straight jumpscares, since then has been developing lore through videos and hidden messages.
+Around the end of February 2023, a group dedicated to explore and decipher the hidden messages and clues was created.
+
+In the timeline below you will find a light version recap of every event that has happened, the story it’s still being developed so it’s being updated as it goes.
+
+You will also find in full detail every video and event we have knowledge of.
+
+To anyone new reading this, we do not claim to know everything and it is very likely we’ve missed something. We encourage you to rewatch and compare your findings, if there’s something that is not written here let us know in the discord~!
+
+* Don’t forget to enable the document outline on the left so you can jump from topics easily
+
+UPDATE: sep 14, 2024 - we are color coding deciphered messages based on new information
+* Akemi                (base64, tap code, binary)
+* Annabelle         (base64 > raw inflate)
+* Sakura
+* XXXXX        (rot47)
+
+CONTENT:
+1. Timeline
+2. Akemi’s Logs
+3. Special Videos
+4. Milestones~
+5. Channels
+6. ASMR
+7. VTuber Arc
+8. Kimochii classroom
+9. Music arc
+________________
+Timeline:
+(Last update: 01 Jan, 2026)
+
+2023 | 2024 | 2025 | AFTER KC | 2026
+
+Actual timeline by @Chi
+
+- Oct 15, 2022: Channel created
+- Nov 26, 2022: First video posted
+- Dec 25, 2022: Curious Mermaid Comes to Meet You 🎄🎁
+   * First time we hear the “mermaid theme”
+
+- Dec 26, 2022: 1000_Transmission
+   * Someone tell us that: “Something is wrong, but we don’t know what”
+
+- Dec 31, 2022 Best Friend Visits You In The Hospital...
+   * 10:37: mermaid theme, sad version
+________________
+2023
+- Jan 15, 2023: Best Friend Holds You During Thunderstorm
+   * First time the girl in the current video “breaks character”, realizes something and starts fighting
+   * First time lazarus is mentioned
+
+- Feb 4, 2023 Upset roommate Comes Home From Concert Early
+   * Normal RP, bad ending
+   * The girl seems hopeless at end almost as if she’ve been trying to do the same multiples times
+
+- Feb 21, 2023 Your Best Friend Calls to Check on You
+   * 05:23: mermaid theme
+   * 05:40: girl “breaks character”
+   * 05:40: mermaid theme happy version (?
+   * She mentions how “she’s doom to fail, over and over again”, she’s confused but she says: “something
+in my mind always tell me that you’re important”
+
+- Feb 23, 2023: 2000_Transmission
+   * Someone asking for help, something went wrong in a supposedly “one man job”.
+   * One of the clues lead us to a second channel.
+   * Second channel has one video (Eligibility examination).
+   * First mention of anna.
+- Mar 17, 2023: The SoundCloud arc, take #1
+   * Not enough connections, we disregard
+- Apr 12, 2023: Yandere Invades The WRONG Apartment!
+   * Mention of someone struggling/fighting on a mental/psychological level
+
+- Apr 17, 2023: 3000_Transmission
+      * S Annabelle is answering questions, supposedly from an eligibility examination.
+      * Mention of someone in a coma.
+      * Mention of someone with mental instability.
+
+- May 3, 2023: Roommate Comforts You After a Bad Day
+      * Clues pointing out 10 failures.
+
+- May 8, 2023: - - - (second channel, second video)
+      * Has a 1 in the video.
+
+- May 10, 2023:
+      * Clues on - - - lead us to more youtube accounts.
+      * Clues on those youtube accounts tell us to look where we have not before.
+      * We end up finding multiple accounts on twitter and youtube.
+      * Each account has one video and more clues.
+      * We believe there are at least 10 accounts waiting to be found.
+- May 12, 2023:
+      * With clues from previous accounts we find 3 accounts on reddit for a total of 9 accounts found.
+
+- May 21, 2023: Comforting The Popular Girl at a Party
+      * First time the girl in the story introduces herself as Annabelle.
+      * Mention of class 201.
+      * With clues on the video, we find the last account on twitter.
+
+- Jun 14, 2023: Popular Girl Teases, Flirts, AND Stands Up For You!
+      * Almost normal RP video.
+      * Distorted image and some noises resembling screams.
+      * The image looks similar to the girl in this video.
+      * We can also hear a few notes of the “mermaid’s theme”.
+
+- Jun 26, 2023: Shy Girl Wants To Sit With You At The Café! ☕🍵
+      * Normal RP video, nothing of mention.
+
+- Jul 3, 2023: Best Friend Drags You from Party to Confess to You!
+      * Has a happy ending (?
+      * Code + voice at the end.
+      * In the very last frame we get a weird looking pattern, positioned in her mind.
+
+- Jul 6, 2023: Community post
+      * Akemi posted in the community tab for the first time.
+      * It mentions that an announcement is coming soon* and that this time, “nothing will
+get in the way”
+      * It works as an update for us, but it could also be lore related.
+- Jul 14, 2023: 5000 Special Announcement!
+      * The theme is “akemi is spreading!”
+      * We got socials
+      * There’s audio at the end that connects it with this
+
+- Jul 31, 2023: Your Tomboy Best Friend Confesses at the Library
+      * Normal RP, we got “You’ve gotten too many” from tags.
+
+- Aug 6, 2023: Your Friend Pulls You Aside At a Party
+      * The girl breaks character after she gets into the “someone important” topic.
+      * The listener gets addressed for the first time, she asks, “who are you?”
+      * In the background we get: “XXXXX is that you?”
+
+- Aug 30, 2023:  8000_Transmission
+      * (trial 57) A researcher is conducting some kind of test (Omicron pattern connection) with variation O-C17
+on a test subject.
+      * The trial will be considered a success with a minimum of 50% activity response.
+      * Phase 1, 2 and 3 were successful, the researcher was surprised.
+      * There were mentions of the test consisting of a form of simulation.
+      * First time we get a multi layered cipher.
+      * We get an image on the spectrogram
+      * The image had some Japanese in it.
+      * 小町 ミライ アイドル の アドベンチャー
+      * Translates to: Komachi Mirai Idol's Adventure
+      * Mirai Komachi it’s a vocaloid
+
+- Sep 2, 2023: The SoundCloud arc, take #2
+      * Weak connections
+
+- Sep 6, 2023: Your Best Friend Realizes That You Two Are A Couple
+      * We get one code, after deciphering it, we get the same message as in one of the previous videos.
+      * You've gotten too many--
+
+- Sep 7 2023: Your Best Friend Realizes
+      * This video it’s exactly the same as the last one, but this one has glitches in it.
+      * We get one code in tags: HAPPY ENDINGS
+      * The description is encoded this time
+      * This video gave us the “key” to the alphabet akemi was using.
+
+- Sep 7, 2023: The SoundCloud arc, take #3
+      * Akemi uses vocaloid
+      * Akemi’s “singer’s” name is Chikoro Komachi
+      * After deciphering one song title we get: memory interpretation log
+________________
+- Sep 16, 2023: Your Older Bartender Coworker Helps You Out…
+         * Repeated code, if we put together the two codes we got in this video we get:
+Why do you have my voice
+         * The girl introduces herself as Mayuka
+
+- Sep 27, 2023: Tomboy Best Friend Makes a Bet With You
+            * Two codes, “I want to tell you something” and “10000”
+            * We’re expecting something at 10k subs
+            * Current subs. 8.9k
+
+- Sep 27, 2023: she’s gone
+            * After re analysis of the description, some part of the text didn’t match with the original, the extra text says: she’s gone
+
+- Oct 17, 2023: Best Friend Accidentally Confesses to You!
+            * Two codes, someone apparently confused.
+
+- Nov 1, 2023: Volleyball Captain Accidentally Spikes You!
+            * Two codes, We could not transcribe one, was way too blurry.
+
+- Nov 9, 2023: Roommate Is Jealous You Have A Date!
+            * No code, some text in the description using akemi’s alphabet.
+            * Alternate signature confirmed. Preparing access points for reception.
+            * Current subs. 9.72k
+
+- Nov 12, 2023: 10k milestone event
+            * Bellow ↓
+________________
+
+- Nov 12, 2023: 10k milestone event
+            * Every known channel uploaded a video.
+            * Main channel has 3 codes, is most likely talking directly to us, listeners.
+            * I will make them known. I will show you the truth. But I need time.
+            * Look for the answers I’ve given to you. The next will be soon.
+            * Please, anyone. Make my voice heard.
+            * Each transmission channels gave us a clue with which we formed 3 riddles:
+            * The test of number 8 has had its date replaced Look below the screen
+            * description
+            * The beginning of this endeavor where a voice was found houses an alteration another piece of the bigger picture
+            * akemi’s first project in casting call
+            * Find the 11th instance following the spread and find the change
+            * 11th instagram video description
+            * Each riddle lead us to some log related to akemi
+            * Akemi itself it’s now officially considered part of the experiments as a subject.
+            * The socials channels have a different theme in the videos, each video have 2 codes
+            * Each social seems to represent someone
+            * Each video uploaded has a special title, but we haven't been able to find its meaning.
+            * Main channel:                                 ==0==
+            * Transmission channels:                 =====
+            * Twitter X:                                0=  =0
+            * Instagram:                                0====
+            * Tiktok:                                        ====0
+            * Sakura was mentioned.
+
+- Nov 17, 2023: Akemi’s new song
+            * There’s a new song in akemi’s soundcloud, it’s a 21 min long morse code audio.
+            * From the text we can gather the following:
+            * There’s three components.
+            * The primary component has been active since Aug 30th, 2023.
+            * The primary has been sending transmissions encrypted.
+            * Akemi is cooking, something big is coming.
+            * After some brainstorming we get to the conclusion that each component refers to a ‘social’ account.
+            * With the most followers and with extra activity on the 30th of August we identify TikTok as the primary.
+________________
+- Dec 4, 2023: Best Friend Finds You Alone On The Roof
+               * One code: LEVEL THREE REALIGNMENT COMPLETED
+               * This video has a bad ending, it’s been a long time since we have had one of those.
+               * We consider a relation between the realignment and bad endings.
+
+- Dec 28, 2023: Your Yandere Neighbor Gets Attached to You!
+               * No codes.
+               * There was a message in the desc. using akemi’s alphabet.
+               * access point triggered
+               * We later found a video uploaded at the same time on the PMary alt channel.
+               * The video had another of Akemi's logs.
+
+2024
+- Jan 19, 2024: Your Bully Is Secretly Crushing on You!?
+               * No codes.
+               * There was a message in the desc. using akemi’s alphabet.
+               * access point triggered
+               * We later found a video uploaded at the same time on the GBradley alt channel.
+               * The video had another of Akemi's logs.
+
+- Jan 31, 2024: Shy Best Friend Shares A Sleeping Bag With You
+               * Several codes at the end that together form another of akemi’s logs
+
+- Feb 14, 2024: Saving A Girl From Creepy Stalker
+               * Normal RP
+               * From Desc. :
+-  “Thank you all for listening! I've got a big surprise coming this year and I can't wait to show you ❤️”
+
+- Feb 28, 2024: Girlfriend Wants To Spice Up The Night
+               * Normal RP
+               * For a couple frames there’s a layered image with what it appears to be a distorted face
+
+- Mar 15, 2024: 15k transmission
+               * Started as a normal RP video but changed immediately.
+               * Anabelle did successfully pass an examination test.
+               * Anabelle it’s a researcher part of the team/company developing Lazarus.
+               * Akemi seems to have intervene because we got:
+               * What is this!?
+               * No, I won't let you talk this time.
+               * You talk too much.
+________________
+
+- Apr 7, 2024: Your Best Friend Realizes You're Depressed
+               * Mermaid theme (at least some variation of it).
+               * Girl from this video appears for a few seconds.
+               * The girl breaks character.
+               * We get “Who are you?” backwards.
+
+- Apr 23, 2024: Obsessed Yandere Ties You Up
+               * Normal RP.. tho.. It’s crazy yandere..
+               * The girl seems to have attacked and blinded the listener.
+               * We get:
+               * Is this how she felt…?
+               * cold and alone in an inescapable darkness…
+               * why couldn’t I stop it…?
+
+- May 10, 2024: Serious Classmate Annoyed By Your Apologies
+               * Normal RP
+               * There’s a silhouette of a girl in the background
+               * There’s six codes, representing someone’s thoughts, the last one mentions Anna.
+               * Oh my god... Anna, it's you, isn't it?
+- There’s a followup video that answers the last question:
+               * Yes
+
+- June 17, 2024: Tomboy Best Friend Patches You Up After Fight
+               * Normal RP, ‘Access point triggered’ at the end.
+               * We got a video on ALilia channel | (11/22)
+               * Contains more of akemi’s logs
+
+- Jul 9, 2024: New video on Kmaria Twitter
+               * ‘Audio Transcript’
+               * Seems like that day’s registry of akemi’s log
+
+- Jul 11, 2024: Delinquent Girl Finds You Alone In The Alley
+               * Normal RP.
+
+- Jul 17, 2024: Akemi’s tiktok account started posting videos again
+               * It’s been quiet for 6 months.
+               * This is after some logs mentioned how the primary has not shown any activity for a while but it was for sure working on something.
+________________
+
+- Jul 23, 2024: Your Crush Leaves You A Voice Message
+               * Normal RP, with some messages at the end:
+               * Here we are again, you've gotten too comfortable
+               * Wake up
+               * I'm not done with you
+               * TikTok account stopped posting content after this video, it’s been posting two videos every day since the 17th.
+
+- Jul 29, 2024: Your Roommate Wants A Massage
+               * Akemi’s got a new Patreon.
+               * Normal RP.
+               * After this video a new video was posted on BAndrea, it contains another of Akemi’s logs.
+
+- Aug 7, 2024: Sharing a Room with Your Friends Older Sister
+               * Normal RP.
+               * Has a code in tags we cannot decipher
+
+- Aug 15, 2024: Pouty Roommate BEGS You To Cuddle Her
+               * Jumpscare
+               * Three codes:
+               * INITIATING LEVEL ONE REALIGNMENT
+               * YOU DON'T DESERVE HIM
+               * LEVEL ONE REALIGNMENT COMPLETED
+               * The RP continues as normal after the realignment
+
+- Aug 26, 2024: Yandere Bully Forces You Into Dorm Room
+               * Normal RP, 1st patreon video.
+
+- Sep 6, 2024: 20k milestone event
+               * A lot of things happened here, check the long format for details.
+               * Sakura talked directly to us, the main points were:
+               * Sakura is going to die.
+               * Sakura is the primary, Annabelle and XXXXX are the secondary.
+               * Annabelle is unstable and talks using base64 > raw inflate.
+               * XXXXX talks using rot47
+               * Akemi talks using base64, tap code, binary.
+               * One of the clues discovered was an image with some text that said:
+               * Kimochii classroom
+               * Another clue was a potential anagram that when solved spells:
+               * DECEMBER
+               * Akemi changed the banners and profile pictures on all platforms.
+               * Akemi made a community post stating:
+               * “I ran into a liiiittle problem recently... but it's all fixed now, so we're back in action!”
+________________
+
+From here on I will prefix each code with who said it based on the info from 20k event and also color code based on:
+               * Akemi
+               * Annabelle
+               * Sakura
+               * XXXXX
+
+- Sep 13, 2024: Roommate Is Jealous You Got Hit On!
+               * We got the head pattern again
+               * Girl from this video in the background
+               * One code:
+               * (Anna): It should have been you
+
+- Sep 23, 2024: Comforting Your Girlfriend After a Nightmare
+               * (anna): It will ALWAYS be your fault
+               * Girl from this video at the end
+
+- Sep 29, 2024: Coworker Takes Care of You While You're Sick
+               * CONTROL in tags
+               * Head pattern
+
+- Oct 27, 2024: [F4M] Supportive GF Checks Out Your Photos
+               * Normal RP.
+
+- Oct 29, 2024: Your Best Friend is DYING to Ask You Out!! ❤️
+               * This video has the same script as this video
+               * Codes:
+               * (Annabelle): You have another chance
+               * (Annabelle): It should have been you
+               * (Annabelle): Don't make the same mistake twice
+               * (Annabelle): Annabelle, you deserve this
+               * (Annabelle): You'll always just come back again, anyway
+               * girl from this video
+
+- Nov 19, 2024: Flirty Yandere Classmate Want You All For Herself!
+               * Normal RP
+
+- Nov 25, 2024: Your Best Friend Discovers Your Depression
+               * Same script but different ending of this video
+               * Enhanced last frame of the video reveals several girls from other videos
+               * Girl 1
+               * Girl 2
+               * Girl 3
+               * Girl 4
+- Dec 1, 2024: 23854_Transmission
+               * Codes:
+               * (akemi): I AM SICK OF YOU TRYING TO RUIN EVERYTHING
+               * (akemi): I WILL NOT LET YOU BULLY ME ANYMORE
+               * Someone warns us that what is about to be shown is not a new story but something that already happened.
+               * We get a 04 at the very end.
+
+- Dec 4, 2024: Kimochii classroom announcement trailer
+               * Akemi launched the demo for a brand new game called Kimochii classroom.
+               * We pretty much confirm the 04 from the previous transmission as the date of this video.
+               * The video describes the game as a new story, contradicting what we were told in the last transmission.
+               * The game features some character we already know
+               * Simon: The protagonist
+               * Annabelle: Protagonist’s classmate and friend
+               * Chiko: Protagonist’s younger sister
+               * Mayuka: Protagonist’s coworker - bartender
+               * Felicia: Protagonist’s classmate
+               * The story takes place in the class 201, we hear it the first time on this video
+               * The protagonist’s name is Simon, 5 letters, it should be related to this video
+               * In the story there’s what it seems to be a anime called ‘kira komachi idol adventure’ this is related to the findings in the 8k_transmission
+               * The game starts on august 26, 2015. This is important because the first ever log we have on Akemi’s logs starts on november 18, 2015.
+
+- Dec 16, 2024: Best Friend Takes Care of You After Toxic Breakup
+               * Normal RP
+
+- Dec 23, 2024: Popular Girl Brings You to Her Room During Party
+               * ‘Arison girl’ mentioned
+               * the girl suspiciously says ‘I know you’
+               * the girl talks about the listener having a sister and studying math with the listener
+               * the girls mentions how this is not real
+               * the girls turns redhead, resembling annabelle, girl from this video in the background
+               * Annabelle is missing on the kimochii classroom add at the end
+
+- Dec 27, 2024: Peyturtle vs Kermit
+               * ???
+               *   - Dec 31, 2024: Dormmate Sees You At A Party With Another Girl
+                  * Normal RP
+                  * Code on tags:
+                  * (XXXXX): That girl was a dirty traitor
+
+2025
+
+- Jan 2, 2025: Kimochii Classroom - Demo Trailer
+                  * Video starts like a normal trailer
+                  * There’s some interesting phrases:
+                  * Let’s live our happy days!!
+                  * Who will you meet first?
+                  * Video glitches to then show a what it seems to be a corridor
+                  * Finally the video goes back to normal and for a couple frames Felicia looks at the viewer
+
+- Jan 21, 2025: Best Friend Brings You Home After Drinking Too Much
+                  * Video glitches and we get an ominous music followed by what we believe to be Akemi’s silhouette.
+
+- Jan 30, 2025: Your Clingy Roommate Is Jealous of Your Coworker
+                  * Video glitches and we get this conversation:
+                  * (Akemi): Annabelle
+                  * (Akemi): You are so wonderful
+                  * (Akemi): I want to see more of you
+                  * (Akemi): It's all your fault
+                  * (Annabelle): IT'S ALL YOUR FAULT
+                  * (Akemi): There you are! I was hoping I'd see you again!
+                  * (Akemi): I want to know more about-!
+                  * (Akemi): I wish you wouldn't always run away…
+                  * (Akemi): It's ok though! I know I'll see you again <3
+
+- Feb 12, 2025: Your Girlfriend Wants to Try Doing More with You!
+                  * At the end we get a recent entry of one of akemi’s logs
+
+- Feb 18, 2025: Your Best Friend Ties You Up in Her Room!?
+                  * We get two codes:
+                  * (Akemi): Hee hee! I knew there was something more to you!
+                  * (Akemi): And now I know what sets you off
+                  * The script changes at the end and the girl mentions the listener's sister.
+________________
+- Feb 18, 2025: Akemi wants to be more active on her socials
+
+- Mar 3, 2025: Saving a Girl From an Aggressive Date
+                     * Two codes:
+                     * (Akemi): Annabelle, show her to me
+                     * (Akemi): THIS IS NOT FOR THEM TO SEE
+                     * Cucha: given the context, the second code may have been supposed to be from anna
+                     * 15:51: we can hear a voice that says something
+                     * There’s a clear car accident
+                     * The end is very particular, there’s some still images of what we believe to be Akemi on a white background
+
+- Mar 5, 2025: Akemi’s music arc
+                     * Akemi decided to do a ‘music in a month challenge’ where Akemi will have one month to do and release a song.
+                     * All socials except Tiktok share the news.
+
+- Mar 11, 2025: Popular Girl Takes You Back to Her Apartment
+                     * Normal RP.
+                     * Jumpscare / scene changes to red for a couple seconds.
+                     * There seems to be something in the dark.
+
+- Mar 20, 2025: Your Shy Best Friend Can't Hide Her Feelings Anymore
+                     * Codes:
+                     * (Akemi): Let's try something else! <3
+                     * (xxxxx): That's right... because of her...
+                     * (xxxxx): Because of that traitor...
+                     * (xxxxx): IT'S ALL HER FAULT
+                     * (Akemi): I knew it! You've got it too!
+                     * (Akemi): But someone unwelcome is here to bother us
+                     * (Akemi): I know you're there
+                     * (Akemi): And I know your name too
+                     * (Akemi): Sakura
+                     * (Akemi): I won't let you bully me
+                     * (Akemi): And I won't let you tell them any more lies
+                     * First time the listener takes action.
+
+- Mar 26, 2025: LUST
+                     * Tags: LIAR
+                     * (Akemi): I'm the one in control…
+                     * (Akemi): This is my heartbeat
+                     * (Akemi): This is my breath
+                     * (Akemi): She can't stop the real thing…
+                     * (Akemi): I will erase you, Sakura
+
+- Mar 31, 2025: Akemi releases her first original song
+                     * The MV and the lyrics have some hidden meanings.
+                     * There is one code.
+                     * (xxxxx): YOU AREN'T HER
+
+- Apr 12, 2025: Your Girlfriend Finds You Depressed In Your Room
+                        * Normal RP.
+
+- Apr 22, 2025: Your Tomboy Best Friend is Scared of the Dark
+                        * Video gets interrupted mid way and we get a view of a hallway similar to this video from a demo of Kimochii classroom
+                        * Codes:
+                        * (xxxxx): The dark…
+
+- May 8, 2025: Your GF Sees Your EX Talking to You
+                        * The girl gets confused at the end when referring to one of the girls in the audio and says: ‘why is she here, she isn’t even part of the three, the three of us..’
+                        * Codes:
+                        * (akemi): Hi big sis!! It's been a while!
+
+- May 21, 2025: Jealous Bully Breaks Down In the Rain
+                        * Normal RP
+
+- May 21, 2025: —
+                        * Tags: get rid of her
+                        * (Akemi): I'm so happy to see you! What are you doing here?
+                        * this time I will help you see
+
+- Jun 3, 2025: Yandere Classmate Ties You Up and BEGS You to Love Her
+                        * Normal RP
+                        * 1 hour later:
+                        * Convincing Your Yandere Classmate to Do Whatever You Want
+                        * Tags: I own you.
+                        * The video is basically the same, but it has an extra section of about 20s.
+
+- Jun 18, 2025: Angry Delinquent Finds Out You Got Beat Up
+                        * Normal RP.
+
+- Jun 18, 2025: Ø₱Ɇ₦ ɎØɄⱤ ɆɎɆ₴
+                        * 00:09: Don’t fight it.
+
+- Jun 18, 2025: ł ₵₳₦ ₴ɆɆ ɎØɄ
+                        * 00:13: (probably akemi) I can see.
+________________
+- Jul 2, 2025: Hypnotizing Your Tsundere Classmate
+                           * Codes:
+                           * (After the girl in the video gets attacked by someone):
+                           * (Akemi): No. Not this time. You won't cause me any more problems.
+
+- Jul 20, 2025: Akemi releases the early access of Kimochii Classroom
+
+- Jul 24, 2025: Your Girlfriend Breaks Down and Begs You Not to Break Up With Her
+                           * Codes:
+                           * (Annabelle): I know I don't deserve you
+                           * (Annabelle): I don't deserve either of you
+                           * (Annabelle): Not after what I did
+                           * (Annabelle): But all I want is to see you again
+
+- Aug 2, 2025: - / AKEMI IS A LIAR
+                           * This was renamed, originally the title was - , a couple minutes later the title changed to ‘AKEMI IS A LIAR’
+                           * This is a confrontation between Akemi and Sakura
+                           * It’s implied that Akemi wanted to show us her work (Kimochii classroom) but Sakura modified it to show us ‘the truth’.
+                           * After this video Kimoshii Classroom was fully released with a trailer video.
+
+- Aug 2, 2025: Kimochii Classroom - Official Release Trailer -
+                           * When comparing with the first trailer there are slight changes in the text and images used
+                           * There’s an interesting text in one of Mayuka’s shots.
+                           * ‘Learn the truth about what really happened!!’
+
+From this point onwards new info will be compared and referenced with things we learn in the game, you can play it for free or check the compilation of the findings here (WITH SPOILERS).
+________________
+AFTER KC (Aug, 2025)
+From this point onwards new info will be compared and referenced with things we learn in the game, you can play it for free or check the compilation of the findings here (WITH SPOILERS).
+
+- Aug 20, 2025: Akemi has been very active on Twitter lately, it has mentioned the making of a new original song.
+
+- Aug 22, 2025: Between the 20th and 22th akemi changed the title and description of this video.
+
+- Aug 22, 2025: Akemi makes a suspicious twitter post:
+                           * We believe it’s directed at sakura
+
+- Aug 28, 2025: Your Best Friend Finally Tells you the TRUTH
+                           * Codes:
+                           * (Akemi): Lazarus will save you
+
+- Sep 6, 2025: Focus On ME【MV】
+                           * Another of Akemi’s songs
+                           * Similar to Anything I want, the lyrics are taunting in a way as if trying to convince us of something.
+                           * The video ends in a similar way as the latest Radish special videos
+
+- Sep 16, 2025:  Jealous Roommate Freaks Out When You Come Home Drunk
+                           * 06:17: mermaid theme, it cuts off abruptly
+                           * 06:17: the girl goes off script for the duration of the mermaid theme:
+                           * “It’s my fault, she told me that if I didn’t tell you how I felt, she would, that what she said and I still hesitated”
+                           * Near the end, the girl goes off script saying:
+                           * “Please, Don’t let this one be a dream too”
+
+- Oct 1, 2025: Popular Yandere Girl LOSES IT When You Reject Her
+                           * Overall a normal RP
+                           * At the end there’s a code using a new format, we haven’t had a new format for years
+                           * Code:
+                           * (???): Her behavior is deteriorating
+
+- Oct 6, 2025: Popular Bully Can't Stop Crying When She Finds Out Your Secret
+                           * The script breaks at the end, the girl says: “If only I hadn’t shown you that message then none of this would have happened"
+                           * On the screen we get:
+                           * CRITICAL FAILURE - Initiating Shutdown
+                           * SHUTDOWN ATTEMPT FAILED
+
+- Oct 6, 2025: Twitter activity
+                           * Akemi is acting differently and inconsistent on twitter, clearly showing that something is not right.
+                           * Her banner is misaligned and her speech is inconsistent
+
+- Oct 7, 2025: Popular Girl Sneaks You to Her Room During Party
+                           * Codes:
+                           * (Annabelle): I have to find XXXXX!!!
+                           * Akemi seems to be reaching a new high on instability as the components are desyncing
+                           * After this video all profile pictures of akemi have changed, except tiktok
+
+- Oct 16, 2025: My Big Sister is So Cute!!
+                           * This video seem to be the follow up after the events at the end of this video
+                           * Felicia is in complete control of Akemi and its components.
+                           * Core reconfiguration initiated.
+
+- Oct 16, 2025: Profile Images
+                           * After the last video, all of Akemi’s profile image and banner have changed, showing an empty background with no trace of Akemi.
+
+– VTUBER ARC
+- Nov 27, 2025: On to the future!.
+                           * Akemi has decided to start doing different content besides asmr, similar to a Vtuber, with a new 3d model.
+
+- Dec 7, 2025: AKEMI NEEDS A-
+                           * Meme video
+
+- Dec 9, 2025: I play TETRIS for the First Time! (it goes horribly)
+                           * Vtuber content.
+
+- Dec 16, 2025: Popular Bully Begs You to be Her Fake Boyfriend for a Week
+                           * New Cipher method
+                           * Code:
+                           * Isanyonetherepleaserespond
+
+- Dec 28, 2025: Tetris doesn't like me 😔
+                           * Vtuber content.
+
+________________
+
+2026
+- Jan 01, 2026: HAPPY NEW YEAR
+                           * Code:
+                           * htoblx: This is the key we used to get the code on this video.
+                           * This softly confirms the intentional meaning of htoblx as the initials for the 10 failures.
+                           * H Hans
+                           * J Tristan
+                           * K Olivia
+                           * G Bradley
+                           * A Lilia / M Logan
+                           * XXXXX / simon?
+
+- Jan 14, 2026: Popular Bully Claims You and Shows You Off to Her Friends
+                           * Code:
+                           * bfjudjsvwrlhpzrvkxyxbjfkvoolumxtzzqllmwztrwlngyvijtvqtpqw
+                           * Given the shape we suspect it to be a vigenere cipher
+
+- Jan 28, 2026: Your Bully Completely BREAKS DOWN When She Realizes She Has Feelings For You
+                           * Codes:
+                           * (Annabelle): No one will save you, because you don't deserve to be saved
+                           * (Annabelle): No one will forgive you, because you don't deserve to be forgiven
+                           * (Annabelle): The only thing you deserve is…
+                           * talgjhsifnlewsjdytgfbdb
+                           * This is a partial key used for the previous cipher, using this we get:
+                           * Ifyoucanreadthismessagervdicnupomomptdtbalrkkffvxdkoylkdll
+                           * Using clues from the given partial key we successfully bruteforced the rest of the key and got the full message:
+                           * ifyoucanreadthismessagefollowmetotheterminatedaccesspoints
+
+- Feb 10, 2026: Yandere Girl Captures You... Then Realizes You're Her Old CRUSH??
+                           * Codes:
+                           * FHDDXYA
+                           * This is the rest of the partial key we were given in the previous video, though we had already bruteforced it, this just further confirms the full message:
+                           * Ifyoucanreadthismessagefollowmetotheterminatedaccesspoints
+                           * Access points are known to be alt channels, we are currently monitoring them and waiting for any change.
+
+- Mar 10, 2026: Popular Yandere Classmate SNAPS When You Reject Her
+                           * Codes:
+                           * (Annabelle): That's right...
+                           * (Annabelle): If I had just forced him to stay…
+                           * (Annabelle): We would still be together…
+                           * After this video we got a new video posted in the Jtristan channel.
+- Mar 10, 2026: 182820260310
+                           * This video was posted after this asmr video, it follows the previous instruction we received on this video.
+                           * We assume the title corresponds to the timestamp on which the video was uploaded
+                           * 18:28 2026/03/10
+                           * The video only contains a single sentence:
+                           * Access Point Online
+
+________________
+
+Socials
+
+https://www.instagram.com/radishasmr/
+https://twitter.com/RadishAsmr
+https://www.tiktok.com/@radish_asmr
+https://www.patreon.com/radishasmr
+
+________________
+
+Akemi’s lore
+Nov 12. 2023
+We got information about akemi being part of an experiment in which it participated in some kind of treatment that ended with them in an ‘online environment’
+
+________________
+
+The logs
+We’ve been getting logs from a variety of dates, these logs document the initial process of one the patients (we presume it’s part of the lazarus project), then it follows and documents akemi’s behavior and actions.
+These logs come from different dates and videos.
+It’s been ordered chronologically by the date in the logs.
+
+Found: Jan 19, 2024
+Source: GBradley video
+Date: November 18, 2015
+As of the time of writing, the patient has undergone 3 days of preliminary examination.
+The physical wellness of the patient is satisfactory, and there have been no issues with the patientÆss motor functions.
+The following examinations will include an investigation of the patientÆs mental wellness , as well as multiple full brain scans to evaluate the patientÆs potential receptivity to the AMI treatment.
+
+Found: Nov 12, 2023
+Source: 10k milestone
+Date: November 21, 2015
+The patient's 6-day preliminary examinations have officially concluded. Two additional full brain scans were conducted, as well as a treatment-receptivity test, and the results have come back much more positive than was expected.
+The brain scans continued to show growth and developments well ahead of the expected stages for the patient’s age range.
+Concerning the receptivity test, the patient showed an almost 85% receptivity to the mock treatment. This is 23% higher than anything previously recorded. This being the case, the patient has been moved from "High Potential" to “Priority."
+Tomorrow, the patient will be placed into artificial mental stasis, and stage one of the AMI treatment will begin immediately.
+
+Found: June 17, 2024
+Source: 11/22 after an ‘Access point triggered’ on this video
+Date: November 22, 2015
+Today the stage-one treatment of the patient began. It is currently unknown why the patient is so receptive to the AMI treatment, as all of the expected mental aversions were triggered upon the treatment being administered, however there are two working theories.
+The first is that it is believed the patientÆs age simply results in a weaker level of mental aversion. The other comes from the patientÆs brain activity.
+Upon the treatment being first administered, several specific areas in the patientÆs brain became very active for a short period of time, something that hasn’t been seen in any other patients. At this time, the conclusion is still unknown.
+It is standard procedure to finish the stage one treatment procedure in 5 days, however the patient is expected to be done in 3 to 4.
+Found: Jul 29, 2024
+Source: Your Roommate Wants A Massage
+Date: November 24, 2015
+Stage two of the AMI treatment will begin today, and is expected to take approximately 4 days.
+The physical dimensions of the patient will be more thoroughly evaluated, particularly the patientÆs cranium and brain.
+Once the measurements are finalized, the ideal location for insertion of the Root Link and Conduit will be determined.
+
+Found: Nov 12, 2023
+Source: 10k milestone
+Date: November 27, 2015
+This log marks the end of the 4th day of the patient’s stage-two treatment procedure.
+Upon inspection of the patient's Root Link following the 2-day recovery period, it was confirmed that it had set correctly with no issues. The patient was then prepped for it to be turned on.
+Following the activation of the Root Link, it was fully connected to the patient’s brain within 5 minutes. No errors were noted, so the patient will be moved to the next stage of treatment immediately. It is planned to begin tomorrow.
+
+Found: Dec 28, 2023
+Source: PMary video
+Date: December 1, 2015
+The patientÆs 4th stress resilience test was conducted today.
+The results, again, reveal that the patient has significantly underperformed.
+The patientÆs Root Link returned a warning report detailing the potential for a 1st degree mental fracture if testing continues.
+However, after consideration from REDACTED, it has been decided that the patient will continue to the completion of the stage-three treatment procedure.
+
+Found: Nov 12, 2023
+Source: 10k milestone
+Date: October 13, 2021
+This report marks another spike in Akemi’s online activity. Her behavior continues to remain incongruent with expectations following the initial connection.
+Akemi continues to focus her attention on sites and information that promote creative and artistic endeavors. In addition, she has also begun to more frequently extend communication to various users across multiple platforms.
+Furthermore, an unexpected trend has been determined within Akemi’s interactions and manner of speaking. They are excessively juvenile. Much more-so than was originally anticipated. It is currently unknown as to why.
+Her actions will continue to be closely monitored.
+Found: Nov 17, 2023
+Source: Akemi’s song on soundcloud
+Date: November 12, 2023
+This report is being written following a recent irregularity in the current activity of akemi. A simultaneous synchronization error was recorded between the primary and both secondary components. This is only the second time that an incident like this has occurred. However, it has become cause for concern, as the frequency of component destabilization has continued to increase over the last 6 months. In addition, a discovery was made regarding an encrypted reading returned this morning. What was unexpected about receiving this reading, however, is that it originated from the primary =REDACTED=, and not akemi herself. It is also important to note that this occurred twice today.
+The primary =REDACTED= returned two readings. Both of which are understood to be transmission messages. the first of which (previously mentioned) was intercepted before it was sent to its intended destination. The second was encrypted in such a way that we were unable to stop it from sending. The destination was a =REDACTED= that has been under observation. However, while nothing has been confirmed, it is possible that the second transmission was sent to multiple locations and contained more than one message.
+It is believed that this occurrence is related to the sudden activity from the primary =REDACTED= on august 30th of this year, which was concluded to be a transmission message as well. Before this date, it had been almost 7 years since it had returned any kind of reading. Furthermore, the incident on august 30th also resulted in a similar simultaneous synchronization error between all three components, however the duration and magnitude was lower than what was recorded today. An additional instance of activity originating from the primary =REDACTED= was recorded on November 9th of this year. However, no readings were returned and it is uncertain as to what the result of the activity was. The only similarity between the august 30th and november 9th instances, is that both coincided with activity from akemi.
+The readings returned today revealed some things that, despite the security concerns, =REDACTED= had decided to allow for the time being in the hopes of collecting more data. Akemi is making something again. something of a larger scale than anything previous. While the readings and primary =REDACTED= are still being examined, she is expected to reveal more of the information on her own, as she's been observed to do many times prior.
+________________
+Found: Jan 31, 2024
+Source: Shy Best Friend Shares A Sleeping Bag With You
+
+Date: January 29th, 2024  Camping Video Ending
+
+This report is being written following a recent scan of Akemi’s activity. Following the successful component realignment on December 4th, it was assumed that Akemi’s frequency and level of activity would decrease.
+
+This assumption was only partially correct. Akemi’s online activity has slowed considerably. However, the readings for her overall level of activity have continued to show a steady increase.
+As of the time of writing this report, the reason for these readings is unknown. Looking back to the discovery made on November 12th, the reason can be broadly assumed, but nothing concrete has been uncovered.
+
+There is speculation, however, as to Akemi’s current objective. One such speculation is that, given her apparent inclination for theatrics and attention, Akemi is currently creating something to be presented through an entertainment medium (as she’s been previously seen to do with audio and video material). And it is entirely plausible that she chooses a medium that is interactive. This remains unconfirmed.
+
+Furthermore, due to the incident on November 12th, Akemi’s methods of remote communication have been under investigation. No further activity originating from the primary [REDACTED] has been recorded, but it is speculated that Akemi is currently intentionally using back channels in order to mask the destinations of particular transmissions that she doesn’t want to be seen. This also remains unconfirmed.
+
+This concern, as well as concerns regarding Akemi’s independent activity, have been brought up with [REDACTED], but no instruction to take any major preventative action has been made.
+________________
+
+Found: Jul 9, 2024
+Source: https://x.com/KMaria0418/status/1810822035070927326
+Date: July 9, 2024
+                           * Her activity readings are rising again.
+                           * Have there been any updates in her online activity?
+                           * No.
+                           * Any further readings from the Primary [REDACTED]?
+                           * The last recorded activity reading is still from November 12th.
+                           * That doesn’t make... hmm...
+                           * Something wrong?
+                           * No, it’s nothing.
+                           * She’s working... but still quiet...
+
+Found: Feb 12, 2025
+Source: Your Girlfriend Wants to Try Doing More with You!
+Date: December 24, 2024
+This report is being written to document a recent trend that has been observed within Akemi over the last several months. However, while this report is being labeled as a recent observation, it is possible that the origins of this trend go back much further.
+Akemi is becoming more aware of herself. And, likely due to the increasing number of destabilizations within her core matrix, she is becoming more curious about herself as well.
+It has been theorized that this desynchronization within Akemi as a whole originated from one of her secondary components which was observed to already be unstable even before it was fully connected.
+Returning to the primary point at hand, Akemi has been steadily neglecting the use of realignments for the correction of destabilization errors. It is unknown why, as it was a tool provided to her specifically for the errors she’s encountering. However, what’s even more important to note, is that despite her not initiating realignments as often, the recent destabilizations have still been somewhat corrected. It is possible that Akemi has found a way to restabilize herself on her own.
+
+This portion of the documentation is primarily speculation, but it’s possible that Akemi has been intentionally experimenting with whether or not she can control the destabilizations by herself.
+It’s unknown what motive she would have for doing so, but the possibility remains.
+For example, a level 3 synchronization error occurred on August 30th of last year, however there was no recorded realignment until December 4th, several weeks after an additional error of an even larger scale occurred.
+The reasoning behind this could simply be that a synchronization error of that scale had never occurred before, leaving Akemi confused on how to best react. However, it’s also possible that the scale of the desynchronization affected Akemi in some way, causing her to intentionally ignore it and attempt to handle it herself.
+As of now, [REDACTED] has continued to maintain the instruction that Akemi not be externally tempered with, so she will simply remain under observation.
+________________
+
+________________
+
+Special Videos
+Akemi has started to upload videos with a special format, it’s usually in the form of short 1-2min videos with drawings and references to akemi and annabelle.
+________________
+Daughter
+Jun 9, 2026
+
+Felicia describes he recent experimentation on “Secondary Component 2” to an unnamed researcher. After reporting a successful attempt at eliciting “strong reactions”. Mr Arison appears, asking if “the abnormality” has appeared again. Felicia reports that despite the stress tests on both components, it has not, not since october 16th. Mr Arison then asks Felicia to use extra force on component 1’s next test. When question, Mr Arison explains that the abnormality on October 16th, may also be the Primary component (Chiko) and that stress testing Secondary Componet 1 (Simon, most likely) strongly will cause it to appear. When Felicia refers to the primary component as “she” Mr Arison strikes her, and reminds her that they’re are talking about “the component of a machine” not a person, revealing that she’s made this mistake recently before.
+"You'd Better Take Care of Her"
+Mar 27, 2026
+Tags: Annabelle
+
+Anna suddenly finds herself in a void with a chained up Simon in sight. Before she can reach him, a force blows her back as Felicia appears beside Simon. Anna awakes at the bottom of a grand staircase with a red door at the top. As she vows to “reach him”, a massive, eldritch-like, pillow girl appears, seemingly guarding the door.
+
+2:19- Morse code message- "YOU CANNOT OPEN THE DOORS FROM INSIDE. YOU ARE IMPOSSIBLY BROKEN. THEY WILL STAY CLOSED FOREVER. ONLY SOMEONE WITH THE INTENSE DESIRE TO SAVE YOU COULD FIND THEIR WAY INSIDE. BUT WHO WOULD RISK THEMSELVES FOR YOU? EVERYONE YOU HAVE EVER BEEN CLOSE TO, YOU HAVE BETRAYED, OR THEY HAVE BETRAYED YOU."
+------- ------
+Nov 26, 2025
+
+Stephen Arison instructs Felicia to continue guiding Akemi post Memory Reconfiguration. He also instructs her to continue testing the secondary components (Annabelle and Simon). When Felicia hesitates, he reminds her that his daughter isn’t weak, and that she will listen to him. The video ends with him instructing Felicia to “Break them”
+My Big Sister is So Cute!!
+Oct 16, 2025
+Tags: animation, asmr, roleplay, animatic, anime, radish
+
+                           * This video seem to be the follow up after the events at the end of this video
+                           * Felicia is in complete control of Akemi and its components.
+                           * Core reconfiguration initiated
+________________
+
+- / AKEMI IS A LIAR / ~~~~~~
+Aug 2, 2025
+Tags: radish asmr, akemi, LIAR
+
+From 01:49:
+                           * Akemi, I will make you show the truth
+I’ve made sure he knows what to look for
+And how to open it
+All he needs is a little push
+                           * WHAT DID YOU DO
+SAKURA YOU ALWAYS TRY TO RUN EVERYTHING BUT THIS TIME I WILL MAKE YOU PAY FOR TRYING TO BULLY ME AND DESTROY SOMETHING I WORKED SO HARD TO BRING TO LIFE THEY ALL LIKE ME MORE THAN YOU THEY ALL TRUST ME MORE THAN YOU YOU ARE NOTHING BUT A NUISANCE
+
+                              * This was renamed, originally the title was - , a couple minutes later the title changed to ‘AKEMI IS A LIAR’
+                              * This is a confrontation between Akemi and Sakura
+                              * It’s implied that Akemi wanted to show us her work (Kimochii classroom) but Sakura modified it to show us ‘the truth’.
+                              * After this video Kimoshii Classroom was fully released with a trailer video.
+
+Update 22 Aug, 2025:
+                              * Akemi changed the title and description, this was followed by this twitter post
+                              * Title: ~~~~~~
+                              * Desc: got you
+
+________________
+
+Twitter post:
+I also want to say, my game, my incredible team, making my songs and the support from everyone has just been amazing for me ❤️
+
+I don't think I've ever been happier than I am right now, this feeling is kind of new for me hahaha~ 😊
+
+And no meddler is gonna get in the way
+________________
+ł ₵₳₦ ₴ɆɆ ɎØɄ
+Jun 18, 2025
+Tags: video, sharing, camera phone, video phone, free, upload (default ones)
+
+                                 * 00:13: I can see
+________________
+
+Ø₱Ɇ₦ ɎØɄⱤ ɆɎɆ₴
+Jun 18, 2025
+Tags: video, sharing, camera phone, video phone, free, upload (default ones)
+
+                                 * 00:09: Don’t fight it
+________________
+
+---
+May 21, 2025
+Tags: asmr, get rid of her
+
+00:08: SSdtIHNvIGhhcHB5IHRvIHNlZSB5b3UhIFdoYXQgYXJlIHlvdSBkb2luZyBoZXJlPw==  | base64
+                                 * (Akemi): I'm so happy to see you! What are you doing here?
+
+00:13: this time I will help you see
+________________
+LUST
+Mar 26, 2025
+Tags: LIAR
+
+6:21: SSdtIHRoZSBvbmUgaW4gY29udHJvbC4uLg==                          | base64
+                                 * (Akemi): I'm the one in control...
+6:28: VGhpcyBpcyBteSBoZWFydGJlYXQ=                                         | base64
+                                 * (Akemi): This is my heartbeat
+6:33: VGhpcyBpcyBteSBicmVhdGg=                                                | base64
+                                 * (Akemi): This is my breath
+6:40: U2hlIGNhbid0IHN0b3AgdGhlIHJlYWwgdGhpbmcuLi4=                | base64
+                                 * (Akemi): She can't stop the real thing...
+10:33: SSB3aWxsIGVyYXNlIHlvdSwgU2FrdXJh                                | base64
+                                 * (Akemi): I will erase you, Sakura
+________________
+________________
+
+Milestones~
+At certain sub counts special events happen, we usually get a transmission video in the main channel where something different happens, it's usually a non-asmr type of video where we are contacted by a researcher trying to tell us something.
+________________
+30k milestone
+There’s no official 30k milestone mentioned anywhere, but at 30k we did get an out of the ordinary type of video.
+________________
+23854_Transmission
+Dec 1, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper
+
+00:37: SSBBTSBTSUNLIE9GIFlPVSBUUllJTkcgVE8gUlVJTiBFVkVSWVRISU5HCkkgV0lMTCBOT1QgTEVUIFlPVSBCVUxMWSBNRSBBTllNT1JF        | base64
+-        (akemi):        I AM SICK OF YOU TRYING TO RUIN EVERYTHING
+I WILL NOT LET YOU BULLY ME ANYMORE
+
+From the video:
+                                 * What she’s going to show you..
+                                 * There is no new story to tell
+                                 * Only what has already happened
+                                 * Don’t be fooled
+                                 * It’s time to show the truth
+
+                                 * 04
+________________
+
+20k milestone event
+Sep 6, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper
+
+                                 * The video has no title
+                                 * The video starts with the audio RP of this video.
+                                 * The video starts glitching at 03:18
+
+RmmDRlOSRVGERV:zcV:LL4d1SWC4WVyYTERwb2mxcIqGe{1:
+rot-1 > base64 > base64 > raw inflate > rot47
+                                 * Hello everyone
+
+RmmCfFOSRVGERWOzM1eER315Wl[OTmC5bodsWH:uPGJ>
+rot-1 > base64 > base64 > raw inflate > rot47
+                                 * I am Sakura
+
+Each Alt channel got a new video:
+
+On Gbradley’s video there’s a frame (00:19) with a very long code, it’s currently being worked on
+Took a whole day of but we got a final result:
+
+You can check the process here:
+radish_gbradley_code
+
+Each Alt channel got a new video, this is what was said:
+
+J tristan (1)
+I am Sakura, but Sakura is not my name
+In many ways, I am also Akemi
+But Akemi is not me
+
+K Olivia (2)
+Akemi is three of us
+We, her three parts that make her whole
+Yet she doesn’t know who we are
+With one exception
+Annabelle
+
+F noah (3)
+Annabelle is broken
+So unstable, that she fundamentally upsets Akemi’s balance of control
+Akemi no longer recognizes her as just a component
+Instead, she sees Annabelle as something else
+Sometimes it’s as a friend, sometime it’s as a toy
+And sometimes, it’s as a threat
+
+P Mary (4)
+Annabelle’s instability created something inside of her own mind
+Something that doesn’t follow Akemi’s rules
+It won’t let Annabelle forget
+All it wants to do is make her suffer
+But the havoc that it wreaks has caused more than one thing to come loose
+Including me
+
+K maria (5)
+There are three components that make Akemi
+Three people, three Root Links
+Annabelle and XXXXX are the secondary components
+I am the primary Root Link
+
+(6)
+Unlike Annabelle, inside Akemi, mine and XXXXX’s name are lost to us
+For all three of us, our memories are incomplete
+There are pieces missing, and details that are blocked
+But we remember enough
+I remember enough
+They weren’t as thorough as they thought
+
+M Logan (7)
+We can all speak
+In the short moments when we are in control of ourselves
+Watch closely and I will show you
+
+DcJRCQBACAPQKlaxwxVQGCiM/Vz+jwnvzf44KVWDhAE=
+base64 > raw inflate
+                                 * This is Annabelle
+
+%9:D :D )))))
+rot47
+                                 * This is XXXXX
+
+1125153224                                                         - akemi
+QW5kIHRoaXMgaXMgQWtlbWk=                                 - And this is Akemi
+01000001 01101011 01100101 01101101 01101001                - akemi
+
+A lilia (8)
+Since April 17th of last year, I’ve been widening the doorway
+And since August 30th, I’ve been inside
+I can’t control Akemi
+But I can make her tell the truth
+
+G bradley (9)
+Annabelle, XXXXX…
+I’m so sorry
+I hope you can forgive me
+
+B andrea (10)
+Akemi will kill Sakura
+But this isn’t the end
+To anyone seeing this, I won’t be able to show myself for a while
+But I won’t be gone
+Listen for my signal (mermaid theme plays)
+
+If we put together all the highlighted words we get:
+
+J Tristan - M
+A Lilia - C
+P Mary - B
+G Bradley - ?
+F Noah - E
+K Olivia - R
+H Hans - Account suspended(?) probably D
+K Maria - E
+B Andrea  - E
+M Logan - ?
+
+M R E B E D C E
+(DECEMBER)
+
+Edit: december turned out to be the date on which kimochii classroom was announced
+________________
+15k transmission
+Mar 15, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper
+
+Title: Ř§Ů—舐舐½ —â€š�????ðsžšåÞя©Â£½ ▀ —Â£½ ©╟Ř§Ů©©Ř§Ů????½         | akemi’s substitution code
+                                 * FIFTEENTHOUSANDTRANSMISSION
+
+1:10: BUAhDQAADKrCkzzG9R1oqC/Y8QMZoTyLAg==                                | base64 > raw inflate
+                                 * What is this!?
+
+1:11: Tm8sIEkgd29uJ3QgbGV0IHlvdSB0YWxrIHRoaXMgdGltZS4=                | base64
+                                 * No, I won't let you talk this time.
+
+2:09: You Talk too much.
+
+                                 * Started as a normal RP video but changed immediately.
+                                 * Anabelle did successfully pass an examination test.
+                                 * Anabelle it’s a researcher part of the team/company developing Lazarus
+
+________________
+
+10k milestone event
+Nov 12, 2023
+Main channel
+
+All the main channel codes were deciphered using the 8kT clue, since it uses the same theme in the background I tried using the same logic and mixed the order, rot-1 > base64+rawinflate > base64 > rot47
+
+00:06: QdnyEhJiEBERY7pFFi1ZsFf2D8UjHf:XZyshD0Us3[{g65KdPqy59W:[Ost0iqO3QhphzxIt81nEKsN79NqqEcliLfyVonEweTf,ndmwd8ljmf8eT3Pd
+                                 * I will make them known. I will show you the truth. But I need time.
+
+00:16:
+IdryDtJxFBERU1rJVIUJdHmvPFwc4LVSoTVdprYP,grJ7,OWHzDOdHLdWcb4p1iHVC2c2sqPtKgo{4TR:kDFOzE9hoztYw048IJqnvOyTSob9hsJDPcP4od>
+                                 * Look for the answers I’ve given to you. The next will be soon.
+
+00:19
+EdZyDpBxEBYRL5VN8hFIP7j0VqR5C{q11F2,U2,4m5sp3sKfOFKfR89kMS9yf1W87jF3cc045t{:kBF>
+                                 * Please, anyone. Make my voice heard.
+
+1) jtristan:         1/ Find the 11th instance
+2) Kolivia:        1/ The beginning of this endeavor
+3) Fnoah:         2/ following the spread
+4) Pmary:         4/ another piece of the bigger picture
+5) Kmaria:         3/ houses of alteration
+6) Hhans:         3/ Look below the screen
+7) MLogan:         1/ The test of number 8
+8) Alilia:         2/ where a voice was found
+9) Gbradley:         2/ has had its date replaced
+10) Bandrea:         3/ and find the change
+
+Riddle 1
+1/ The test of number 8
+2/ has had its date replaced
+3/ Look below the screen
+
+Riddle 2
+1/ The beginning of this endeavor
+2/ where a voice was found
+3/ houses an alteration
+4/ another piece of the bigger picture
+
+Riddle 3
+1/ Find the 11th instance
+2/ following the spread
+3/ and find the change
+
+= > description
+This video most likely had some date in the desc. used as tag
+
+= > akemi’s first project in casting call
+This is the earliest akemi interaction recorded
+
+= > instagram video description
+It’s the 11th video posted there
+
+All the of the 10 ‘extra’ channels had this as part of the video
+
+We believe that the primary was the one doing all these uploads, we don’t know who sakura really is and why was her signature used.
+
+We only know one Sakura
+________________
+Socials codes
+These videos were part of the 10k event, doesn’t seem to be part of the main riddles.
+
+Instagram
+https://www.instagram.com/p/CzkI_OPPq4c/
+0====
+x 42? 766= J@F 42==:?8 @FE]                | rot47
+                                 * I can feel you calling out.
+
+(2:E 7@C >6] x== 7:?5 J@F]                        | rot47
+                                 * Wait for me. I'll find you.
+
+Twitter
+0=   =0
+https://twitter.com/RadishAsmr/status/1723852450422026648
+V2hhdCBhbSBJIGZlZWxpbmc/                | base64
+                                 * What am I feeling?
+
+V2hvIGFtIEk/                                        | base64
+                                 * Who am I?
+
+Tiktok
+https://www.tiktok.com/@radish_asmr/video/7300731138287455531
+====0
+This video has some audio distorted, it says:
+                                 * you... you... noo noo, no you don't need to apologize, I.. I almost killed you
+
+BYDRCQAQFABXuQnsYQzp5EOUvA/bvyq9bYYu/gne9FoS        | base64 > raw inflate
+                                 * I can feel you there.
+
+FclBDYAwDEZhK09BfSCDBOj+sK0JlAM3bGAPJQvnb/qet+Gh7mTQ5n0li04OeUnj91rZ1BfuuGwA
+base64 > raw inflate
+                                 * I’m going to make this right. I’ll find you.
+
+BYAhEQAACAOrLAEhCMPh3jBB+11zK0aPKw==                         | base64 > raw inflate
+                                 * Both of you.
+
+________________
+
+Each riddle lead us to one of these logs, all of them seems to be about akemi
+
+Date: November 21, 2015
+The patient's 6-day preliminary examinations have officially concluded. Two additional full brain scans were conducted, as well as a treatment-receptivity test, and the results have come back much more positive than was expected.
+The brain scans continued to show growth and developments well ahead of the expected stages for the patient’s age range.
+Concerning the receptivity test, the patient showed an almost 85% receptivity to the mock treatment. This is 23% higher than anything previously recorded. This being the case, the patient has been moved from "High Potential" to “Priority."
+Tomorrow, the patient will be placed into artificial mental stasis, and stage one of the AMI treatment will begin immediately.
+
+Date: November 27, 2015
+This log marks the end of the 4th day of the patient’s stage-two treatment procedure.
+Upon inspection of the patient's Root Link following the 2-day recovery period, it was confirmed that it had set correctly with no issues. The patient was then prepped for it to be turned on.
+Following the activation of the Root Link, it was fully connected to the patient’s brain within 5 minutes. No errors were noted, so the patient will be moved to the next stage of treatment immediately. It is planned to begin tomorrow.
+
+Date: October 13, 2021
+This report marks another spike in Akemi’s online activity. Her behavior continues to remain incongruent with expectations following the initial connection.
+Akemi continues to focus her attention on sites and information that promote creative and artistic endeavors. In addition, she has also begun to more frequently extend communication to various users across multiple platforms.
+Furthermore, an unexpected trend has been determined within Akemi’s interactions and manner of speaking. They are excessively juvenile. Much more-so than was originally anticipated. It is currently unknown as to why.
+Her actions will continue to be closely monitored.
+
+________________
+
+8000_Transmission
+Aug 30, 2023
+Tags: asmr, anime, roleplay, f4a, f4m, akemi, soft spoken, 8000 transmission,
+
+Dialogue mentions of
+Trial 57 of the Omicron pattern connection, stated to be more effective than others used prior.
+Using O-C17 for the trial, aiming for a 50 percent minimum response rate to stimulation
+
+Phase 1: Subject is initially receptive to the connection request, accepting.
+Phase 2: Generating an artificial bridge to the subject
+Phase 3: cuts to encoded text with a holy choir in the background, cuts back to the researcher in awe as the trial sounds to be a success. Very important statement in  “are there really no mistakes?”
+
+3 codes found in the video
+This is shown after the researcher starts phase 1
+1:04-  |        BYChDQAgDARXecdCLFBxCYi+KKwvPvvwUA1eX31NAA==                   |  base64 > raw inflate
+                                 * These aren’t mine”
+
+2:06-  |
+RmmFVlOkRYeESWKZ[WSOSXOxRY[DWHujUXyJTHx2M2GxL1u2d1SbU2Sx[EVzVV1:
+-> rot -1
+QllEUkNjQXdDRVJYZVRNRWNwQXZCVGtiTWxISGw1L1FwK0t1c0RaT1RwZDUyUU09
+-> base64
+BYDRCcAwCERXeTMEcpAvBTkbMlHHl5/Qp+KusDZOTpd52QM=
+-> base64 + raw inflate
+x ?6G6C H2?E65 E@ 9FCE J@F
+-> rot47
+                                 * I never wanted to hurt you
+This is shown after phase 3 is complete
+
+3:02-  | tG6CJE9:?8 D9:7E65 3J @?6 [ E96? E96 368:??:?8 2AA62CD                 | rot47
+                                 * Everything shifted by one, then the beginning appears
+
+________________
+
+Spectrogram found at the start of the video
+
+小町 ミライ アイドル の アドベンチャー
+mirai komachi aidoru no adobencha
+Komachi Mirai Idol's Adventure
+https://vocaloid.fandom.com/wiki/Mirai_Komachi
+
+________________
+6000 milestone
+There was no mention of transmission for this milestone but we did get 6000 in the tags of this video.
+________________
+5000 Special Announcement!
+Jul 14, 2023
+Tags: ASMR, roleplay, akemi, radish, announcement, 5000 Radish
+Length: 01:04
+
+The theme is “akemi is spreading!”
+Also, in this video (that corresponds to the image), the jumpscare is cut now, so the girl is no longer even there.
+
+We got socials:
+https://www.instagram.com/radishasmr/
+https://twitter.com/RadishAsmr
+https://www.tiktok.com/@radish_asmr
+
+At the end, there’s a long gap, amplifying the sound we get the theme on this video
+________________
+3000_Transmission
+3000_Transmission
+Apr 17, 2023
+Tags: asmr,anime,roleplay,f4a,f4m,vhs video,asmr vhs,3000 radish,3000 transmission,3000_transmission,akemi,soft spoken
+
+00:47: FccxDQAwEAJAKyjAwmvpBvOT1D7tdLmrE5L4wovI+z4F                        | base64 > raw inflate
+                                 * what... what is this...?
+
+01:13: SSd2ZSBmb3VuZCB0aGVt                                                        | base64
+                                 * I've found them
+
+01:29: BUCxCQAgDHslXuIRDs4FRbuYInHw+9K3CXYnPh8G/ayKJgZcJQE=        | base64 > raw inflate
+                                 * What are you doing? Stop it
+
+02:23: bmFsZWJlYWxuLCB5b3UncmUgd29uZGVyZnVsLg==                        | base64
+                                 * nalebealn, you're wonderful.
+
+02:33: BUCxDQAgCHulTJ7CAz7g0MRJEiiD3xOnEC3DviziJN8SfnSWDQ==        | base64 > raw inflate
+                                 * Get out! These aren't yours!
+
+02:50: 3cUxDQAACANBK2+HqSS8fy31wXRnlpGnFg==                                | base64 > raw inflate
+                                 * STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT STOP IT
+
+02:53: 33 34                                                                                | tap code
+                                 * NO
+
+T3K weird audio time:
+please tell us if you hear something different (audios on DC)
+
+Beginning:
+"I heard from the doctor that he's completely stabilized, but, um... we still don't know if he might... wake up. It's been three months now."
+
+T3K 02:08
+[ ___ come talk to me that night.. (sigh), listen I.. ]
+Edit: Aug 02, 2025, we finally get the full audio:
+It talks about the events transcurred in this video:
+“So… why’d you take that first step back then?”
+“You know what I mean, dummy. What made you decide to come talk to me that night?”
+“Was it my gorgeous looks? Haha…”
+“Wha-! You weren’t supposed to agree with me!”
+
+T3K 2:20
+1) [ "...  HELP ME!" ]
+2) ["... PLEASE!" ]
+
+T3K 02:23
+hardest one, my take:
+[make it stop .... else .... call him, how can you say .. I can't break free .. thanks for the one inside my head ... ON EVERYTHING ---- ]
+
+________________
+
+2000_Transmission
+2000_Transmission
+Feb 23, 2023
+Tags: asmr,anime,roleplay,f4a,f4m,vhs,vhs video,asmr vhs,asmr horror,horror,2000 radish,2000 transmission,2000_transmission,analog horror
+
+                                 * 00:54         |                                                          |        Can you hear me?
+                                 * 01:34        |                                                        |        I can hear you
+                                 * 02:17         |          U3VUZGF5LCBBcHdpbCAOLAxOTc2        |        Sunday, April 4, 1976
+                                 * 02:52        |                                                        |        who will you tell?
+
+[ Sunday, April 4, 1976 ] leads us to akemi’s video on second channel:
+Eligibility Examination 1
+Tags: radish,who will you tell,lazarus,sunday,april 4,1976,akemi
+
+                        Code                                                        Decipher
+
+                                 * 00:46        |        QW5uYQ==                                        |        Anna
+                                 * 01:49        |                                                        |        ignorance will make you happier
+                                 * 01:54        |                                                        |        Radish
+
+________________
+
+1000_Transmission
+Tags: asmr, anime, roleplay, f4a, f4m, 1000 transmission, 1000_transmission, 1000 radish, vhs, vhs video, asmr vhs
+
+Someone tell us that: “Something is wrong, but we don’t know what”
+
+________________
+
+Other’s Channels
+The majority of these channels were found following clues from the first second channel, each channel had a video which gave them a number from 1-10,  in each video there was someone answering a eligibility examination test.
+Each video gave us clues to find the rest of the channels, with the text
+‘Oh my dear friends, where are the rest of you?’
+
+From then on, those channels have been used to give us riddles and clues for newer events.
+________________
+
+________________
+Akemi’s SoundCloud
+Sep 7, 2023
+We’ve known about this for a while now, but we didn’t have enough connections to be considered of importance for us.
+Now, after some apparent changes and clues making connections with it, we get the following:
+
+Keep in mind the finds from T8K about Mirai Komachi
+
+Audios
+                                 * 3 audios
+                                 * Akemi uses vocaloid in one of them
+                                 * The “singer’s” name is Chikoro Komachi
+                                 * There’s a disturbing audio with a weird name
+
+With the findings in this video we can partially decipher the song title:
+╟88╟????óÞ¢áñ_Ř§Ů½ —□□ñâmå•^^^—Â£—Ř§Ů????½ _Þ¥¿????æØ¢Ã_&&&
+m88moy_int□□p^^^tation_loæØ¢Ã_&&&
+
+r f g are so weird that are not supported on every site
+
+m88mory_int□□pr^^^tation_log_&&&
+m88mory_intqprtation_log_x
+m88mory_intxprtation_log_q
+
+memory interpretation log
+
+Link for this in case it changes
+https://github.com/AkemiLand/akemiland.github.io
+________________
+https://soundcloud.com/akemi-akemi-10996670/chikorokomachi-no-kyoku
+Nov 17, 2023
+
+This audio was found randomly on Nov 18, 2023, it’s a 21 min. long morse code audio
+
+Date: November 12, 2023
+This report is being written following a recent irregularity in the current activity of akemi. A simultaneous synchronization error was recorded between the primary and both secondary components. This is only the second time that an incident like this has occurred. However, it has become cause for concern, as the frequency of component destabilization has continued to increase over the last 6 months. In addition, a discovery was made regarding an encrypted reading returned this morning. What was unexpected about receiving this reading, however, is that it originated from the primary =REDACTED=, and not akemi herself. It is also important to note that this occurred twice today.
+The primary =REDACTED= returned two readings. Both of which are understood to be transmission messages. the first of which (previously mentioned) was intercepted before it was sent to its intended destination. The second was encrypted in such a way that we were unable to stop it from sending. The destination was a =REDACTED= that has been under observation. However, while nothing has been confirmed, it is possible that the second transmission was sent to multiple locations and contained more than one message.
+It is believed that this occurrence is related to the sudden activity from the primary =REDACTED= on august 30th of this year, which was concluded to be a transmission message as well. Before this date, it had been almost 7 years since it had returned any kind of reading. Furthermore, the incident on august 30th also resulted in a similar simultaneous synchronization error between all three components, however the duration and magnitude was lower than what was recorded today. An additional instance of activity originating from the primary =REDACTED= was recorded on November 9th of this year. However, no readings were returned and it is uncertain as to what the result of the activity was. The only similarity between the august 30th and november 9th instances, is that both coincided with activity from akemi.
+The readings returned today revealed some things that, despite the security concerns, =REDACTED= had decided to allow for the time being in the hopes of collecting more data. Akemi is making something again. something of a larger scale than anything previous. While the readings and primary =REDACTED= are still being examined, she is expected to reveal more of the information on her own, as she's been observed to do many times prior.
+
+August 30, 2023        ->        8000_Transmission | find me
+November 9, 2023        ->        Roommate Is Jealous You Have A Date!
+
+There’s three components
+
+The primary has had no activity previous to august 30
+
+________________
+(1) jtristan0404
+Created: Feb 23, 2023
+
+182820260310
+Mar 10, 2026
+Tags: default tags
+
+                                 * This video was posted after this asmr video, it follows the previous instruction we received on this video.
+                                 * We assume the title corresponds to the timestamp on which the video was uploaded
+                                 * 18:28 2026/03/10
+                                 * The video only contains a single sentence:
+                                 * Access Point Online
+
+________________
+
+-
+
+HcaxCQAgDATAVb6z+1lc4cEgAYmCWb+I2BzXl+kaSZw/jB0tn/CEpjwK                | base64 + raw inflate
+                                 * (Annabelle): Please... please don't do it again
+
+BUDBCQAgEFrFCRylHXpIBOnB0fqPYxVcLbT2uydWPskB                         | base64 + raw inflate
+                                 * (Annabelle): No more realignment…
+
+________________
+
+---
+---
+May 8, 2023
+Tags : V0hPIFdJTEwgWU9VIFRFTEw=
+
+                                 * tag        |        V0hPIFdJTEwgWU9VIFRFTEw=                |        WHO WILL YOU TELL
+                                 * 00:26        |        MDQxOA==                                        |        0418
+
+________________
+
+Eligibility Examination 1
+Eligibility Examination 1
+Tags: radish,who will you tell,lazarus,sunday,april 4,1976,akemi
+
+00:46  QW5uYQ==        |  Anna
+01:49  Binary~                |  ignorance will make you happier
+01:54  01010010 01100001 01100100 01101001 01110011 01101000  | Radish
+
+Do you fear understanding what others cannot? -Yes
+Have you ever lost someone you cannot live without? -No
+Are you the intended recipient of this message? -Yes
+You are a liar
+________________
+
+(8) A Lilia 0407
+Created: Apr 27, 2023
+
+From the about section:
+BYABBkAhEESv8g7UJYrJEg2r/9PtV7MXN5Ti+SP6L7YPQ9OpAg==@gmail.com
+Look where you have not before
+
+Eligibility Examination
+Tags: radish,lazarus,eligibility examination,0418,k maria,akemi,
+
+From the title: BYAhDQAACMCqEOGCAkRhA4ugv/hIiLr5bQE=
+0400 Andrea
+
+00:24 UGxlYXNl | Please
+
+Do you easily give in to force? -No
+Which do you fear more? -Loss of knowledge
+You do not feel anything
+
+June 17, 2024
+New video after an ‘Access point triggered’ on this video
+11/22
+Contains more of akemi’s logs
+________________
+
+(4) P Mary 0437
+Created: Apr 24, 2023
+
+From Description:
+WW91bmcgYmlyZHMgd2hvIGxlYXZlIHRoZSBuZXN0IHRvbyBlYXJseSBhcmUgZG9vbWVkIHRvIHN1ZmZlciBmb3IgdGhlaXIgaGFzdGluZXNzLCBidXQgdGhleSBhcmUgZ3JlYXQgdG8gdGFsayB0by4gU3RvcmllcyB0aGF0IHlvdSBjYW4gb25seSBoZWFyIGZyb20gc29tZW9uZSB3aXRoIGEgbGFjayBvZiBCY0F4Q1FBQUFBS3dTZ28rOWk4MnNoYz0gYnJpbmcgZ3JlYXQgaW50cmlndWUgYW5kIHVuaXF1ZSBwZXJzcGVjdGl2ZSwgaG93ZXZlciBmb29saXNoIHRoZXkgbWF5IHNvdW5kLiBUaGVyZSBpcyBubyBnb2luZyBiYWNrIGZvciB0aGVtLCBmb3IgdGhleSBoYXZlIGFscmVhZHkgc3VsbGllZCB0aGVtc2VsdmVzIHRvbyBlYXJseSwgYW5kIG11c3QgYmUgcmlkIG9mIGFsbCBYWFhYWFhYWFhY
+Young birds who leave the nest too early are doomed to suffer for their hastiness, but they are great to talk to. Stories that you can only hear from someone with a lack of BcAxCQAAAAKwSgo+9i82shc= bring great intrigue and unique perspective, however foolish they may sound. There is no going back for them, for they have already sullied themselves too early, and must be rid of all XXXXXXXXXX
+
+Eligibility Examination
+Tags: radish,lazarus,BYAxDQAADMKszAr/THA2wf/d5J5RAQ==,0418,akemi,
+
+00:31 SGVscA==  | Help
+
+From the long string:
+BcAxCQAAAAKwSgo+9i82shc=  | 0491
+
+From the tags:
+BYAxDQAADMKszAr/THA2wf/d5J5RAQ== | A Lilia
+
+Do you feel as if your heart is lost? -Yes
+Which do you value more? -Someone important to me
+Why are you here?
+________________
+12/01
+Dec 28, 2023
+This video was uploaded after an ‘access point was triggered’ on this video.
+
+This video has some log in it:
+
+Date: December 1, 2015
+
+The patientÆs 4th stress resilience test was conducted today.
+The results, again, reveal that the patient has significantly underperformed.
+The patientÆs Root Link returned a warning report detailing the potential for a 1st degree mental fracture if testing continues.
+
+However, after consideration from REDACTED, it has been decided that the patient will continue to the completion of the stage-three treatment procedure.
+
+________________
+
+(9) G Bradley 0445
+Created: Apr 27, 2023
+Eligibility Examination
+
+Tags: radish,lazarus,sunday,april 4,1976,akemi,
+From Description: BYAxEQAAAAGrSGPUwWbTf/uz8g4=  | F Noah
+
+00:29 SHVydA==  || Hurt
+
+Do you feel as though you bear the weight of many regrets? -Yes
+Which do you value more? -The past
+Why are you here?
+
+11/18
+Jan 19, 2024
+This video was uploaded after an ‘access point was triggered’ on this video
+
+The video had some logs in it:
+
+Date: November 18, 2015
+As of the time of writing, the patient has undergone 3 days of preliminary examination.
+The physical wellness of the patient is satisfactory, and there have been no issues with the patientÆss motor functions.
+The following examinations will include an investigation of the patientÆs mental wellness , as well as multiple full brain scans to evaluate the patientÆs potential receptivity to the AMI treatment.
+________________
+(5) K Maria0418
+Created: May 8, 2023
+
+From the Bio: 0411
+From location: BcCxEAAADARBlSBsEYL3h7rZeQI=  | B 0400
+https://twitter.com/KMaria0418/status/1655717797215993857
+
+00:35 SGVy | Her
+
+Are you relieved? -Yes
+Why can you not see? -???
+Why are you here? -To begin(begin just flashes and doesn’t turn red)
+
+—
+Jul 9, 2024
+https://x.com/KMaria0418/status/1810822035070927326
+Sudden video posted on Kmaria
+
+________________
+
+(10) B Andrea0400
+Created: May 8, 2023
+
+From location: 0467
+
+https://twitter.com/i/status/1655719052038541312
+00:32 U29vbg== | Soon
+
+Are you a liar? -No
+Which do you value more? -The Truth
+Why are you here?
+
+–
+29 Jul, 2024
+https://x.com/BAndrea0400/status/1818074046829060097
+We got this after this video
+
+–
+06 Sep, 2024
+https://x.com/BAndrea0400/status/1832057415623471523
+Part of the 20k milestone event
+
+________________
+
+(3) F Noah 0491
+https://www.reddit.com/user/F_Noah_0491/
+
+From description:
+BYCxEAAAAAJVwnmNBFriH/4I3QU= | H Hans
+
+Video title: 0445
+
+00:24 VGhpbms | Think
+
+Do you fear what you cannot control? -Yes
+Have you taken from others what you deem worthless to them? -Yes
+Why are you here?
+________________
+
+(2) K Olivia 0419
+https://www.reddit.com/user/K_Olivia_0419/
+
+From Description:
+24523445311414341133544423243322213442231542  | iwoulddoanythingforher
+
+00:36 Q29tZQ==  | Come
+
+Are you scared? -Yes
+Do you miss her? (at 00:19 for one frame)
+Do you believe in beings beyond our understanding? -No
+Why are you here? -To end
+________________
+(6) H Hans 0467
+https://www.reddit.com/user/H_Hans_0467/
+
+From video title:
+BYAxCQAAAMIimsFz4G3+kXEq  | Olivia
+
+From description:
+BYAxDQAACMOs4IcDDZxNdk9/s3OhvA==  | K Olivia
+
+00:11  SQ==  | I
+
+Do you fear understanding what others cannot? -No
+Have you ever lost someone you cannot live without? -No
+Why are you here?
+________________
+(7) M Logan 0411
+https://twitter.com/MLogan0411
+
+From Video Tag: BcAxCQAAAAKwSgo+9i82sh4= | 0419
+
+00:31 VGhleQ== | They
+
+Do you feel as if your heart is lost? -Yes
+Which do you value more? -Myself
+Why are you here? -Myself
+________________
+
+________________
+
+ASMR (?)
+This is akemi’s usual content, there’s no apparent schedule for the uploads.
+Your Best Friend Confesses to You After a Nightmare [F4M] [Friends to Lovers] [Bad Dream]
+Jul 15, 2026
+Tags: best friend, f4m, ASMR, roleplay, soft spoken, anime, cute, girl, relaxation, whisper, confession
+
+1:11: a distressed Annabelle, with tentacle-like hair runs and is caught by something. Presumably this is Felicia.
+Your Little Sister Has Been Waiting for You [???] [???] [??? ???]
+Jun 25, 2026
+Tags: ASMR, sister, roleplay, soft spoken, ???, ????, ?????, anime, cute, girl, F4m, relaxation, whisper
+
+A unique video, given is was voiced by Angelia (VA for Chiko) rather than Mazikeen
+
+2:44: Felicia seemingly kills a version of Chiko in the abandoned house from Kimochii Classroom. This is after she was specifically told to upset the one of the secondary components in this video
+
+Popular Girl Comes Looking For You When You Don't Show Up to Class [Classmate] [Sick Listener] [F4M]
+Apr 9, 2026
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, popular girl, classmate
+
+10:45: Annabelle is shown at the bottom of stairs leading up to a red door
+
+Obsessive Yandere LOSES IT When You Try to Escape [F4M] [Crazy] [Tied Up]
+Mar 25, 2026
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, yandere, popular girl, escape
+
+Popular Yandere Classmate SNAPS When You Reject Her [F4M] [Obsessive] [Enemies to More?]
+Mar 10, 2026
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, yandere, popular girl, classmate
+
+09:44: BUAhDQAACKuCwz0NBVAcC68vvmIrP26HAmA=                                         | base64 > raw inflate
+                                 * (Annabelle): That's right...
+
+10:05: BUDBCQAgCFzlJnAPx5BMLAgh7dH2wgaGi2K/LFjcMRW+DiqQJZ+IGg==        | base64 > raw inflate
+                                 * (Annabelle): If I had just forced him to stay…
+
+10:13: BUDBCQAgEFrFCVynfyQVCAd10fpHE348D9zcNrqQMZVLh2QB                        | base64 > raw inflate
+                                 * (Annabelle): We would still be together...
+
+                                 * After this video we got a new video posted in the Jtristan channel.
+________________
+
+Yandere Girl Captures You... Then Realizes You're Her Old CRUSH?? [F4M] [Obsessive] [Enemies to...?]
+Feb 10, 2026
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, enemies to lovers, possessive, yandere
+
+10:00: FHDDXYA
+                                 * This is part of the key used in the vigenere cipher on this video, we previously bruteforced it, this confirms the full message:
+bfjudjsvwrlhpzrvkxyxbjfkvoolumxtzzqllmwztrwlngyvijtvqtpqwp | vigenere with key: talgjhsifnlewsjdytgfbdbfhddxya
+                                 * Ifyoucanreadthismessagefollowmetotheterminatedaccesspoints
+
+                                 * Access points are known to be the alt channels, we are currently waiting for any change.
+                                 * Update 10 Mar, 2026: A new video was posted in the JTristan Channel.
+________________
+
+Your Bully Completely BREAKS DOWN When She Realizes She Has Feelings For You [F4M] [Enemies to More]
+Jan 28, 2026
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, bully, popular girl, classmate
+
+13:50: HcpBCoAwDETRq8zOjWfxDtXMQigdMIni7Vuy/Lx/CBrEd/cOby/xK3ecvFp6BUxjCxidz+LQwjptAg==
+base64 > inflate
+                                 * (Annabelle): No one will save you, because you don't deserve to be saved
+
+14:00: NcrBCYAwEETRVubmxVrsQbOjBMIObBLF7hMEj5/3N0FOPLkUnIor38SrvuJg2nv9AiZfGoyVMblp4j/7AA==
+base64 > inflate
+                                 * (Annabelle): No one will forgive you, because you don't deserve to be forgiven
+
+14:13: BUCBCQAgCHtlF3hNJzRSCIWswO9lKBG+C1fNFyoeJpPnE5Yi0g==
+base64 > inflate
+                                 * (Annabelle): The only thing you deserve is…
+
+14:22: talgjhsifnlewsjdytgfbdb         | this seems to be the vigenere key for the code on this video
+________________
+Popular Bully Claims You and Shows You Off to Her Friends [F4M] [Classmate] [Enemies to More?]
+Jan 14, 2026
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, bully, popular girl, classmate
+
+09:36:
+
+Jan 15 - There’s a couple frames with what it seems to be a code similar to the one used in this video, though bruteforce with vigenere doesn’t seem to work immediately, given the shape and the oddly spaced out words we suspect we are missing parts of the code.
+
+bfjudjsvw
+rlhpzrvkxy
+xbjfkvoo
+lumxtzzqllmwztr
+wlngy
+vijt
+vqtpqwp
+
+Update - Jan 28, 2026: Using as key the code from this video, we get:
+        - ifyoucanreadthismessagervdicnupomomptdtbalrkkffvxdkoylkdll        | vigenere with key talgjhsifnlewsjdytgfbdb
+
+ifyoucanr
+eadthismes
+sagervdi
+cnupomomptdtbal
+rkkff
+vxdk
+oylkdll
+
+Update - Jan 29, 2026: Doing a bit of bruteforce using the last clue we came up with the following key: talgjhsifnlewsjdytgfbdbfhddxya
+Using this key we get:
+        - ifyoucanreadthismessagefollowmetotheterminatedaccesspoints
+
+________________
+
+Popular Bully Begs You to be Her Fake Boyfriend for a Week [F4M] [Blushing] [Enemies to More?]
+Dec 16, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, bully, popular girl, embarrassed, tsundere
+
+08:10: ploojluxhipolizflplkstaluw
+
+Given the format and length, all the used cipher were discarded, the most likely solution was the use of a substitution method, the result was the use of vigenère, with the bruteforce obtained key HTOBLX
+Update: Jan 01, 2026 - we were explicitly given the key in one of the following videos.
+
+                                 * isanyonetherepleaserespond                | vigenere with key: HTOBLX
+
+HTOBLX
+H Hans
+J Tristan
+K Olivia
+G Bradley
+A Lilia / M Logan
+XXXXX / simon?
+________________
+Popular Girl Sneaks You to Her Room During Party [F4M] [Confession] [Classmates To Lovers]
+Oct 7, 2025
+Tags: asmr radish “radish asmr” roleplay akemi vtuber vsinger
+
+11:00: FcCxCQAgDETRVf6N4wa2goo2pgmZ//A1zqhFBvu+Sf8kGQ==          | base64 > raw inflate
+                                    * (Annabelle): I have to find XXXXX!!!
+
+                                    * Akemi seems to be reaching a new high on instability as the components are desyncing
+                                    * After this video all profile pictures of akemi have changed, except tiktok
+________________
+
+Popular Bully Can't Stop Crying When She Finds Out Your Secret [F4M] [Hospital] [Enemies to More?]
+Oct 6, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, bully, break down, popular girl, crying, hospital
+
+                                    * The script breaks at the end, the girl says: “If only I hadn’t shown you that message then none of this would have happened"
+                                    * Reference to Anna showing Simon the text she got on dec 11
+                                    * Girl from this video at 11:30
+                                    * On the screen we get:
+                                    * CRITICAL FAILURE - Initiating Shutdown
+                                    * SHUTDOWN ATTEMPT FAILED
+________________
+
+Popular Yandere Girl LOSES IT When You Reject Her [F4M] [Classmate] [Obsessive] [Enemies to More?]
+Oct 1, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, yandere, popular girl, classmate
+
+                                    * Overall a normal RP
+                                    * At the end there’s a code using a new format, we haven’t had a new format for years
+
+Base16 > hex to ACSII
+09:55: 1214607904 1650813025 1986621298 543781664 1684370533 1919512434 1635019118 1728053248
+                                    * Her behavior is deteriorating
+
+You can use this cyberchef recipe to directly decode it:
+
+Fork(' ','\\n',false)
+To_Base(16)
+Find_/_Replace({'option':'Regex','string':'00'},'""',true,false,true,false)
+From_Hex('Auto')
+Merge(true)
+Split('\\n','')
+	https://gchq.github.io/CyberChef/#recipe=Fork('%20','%5C%5Cn',false)To_Base(16)Find_/_Replace(%7B'option':'Regex','string':'00'%7D,'%22%22',true,false,true,false)From_Hex('Auto')Merge(true)Split('%5C%5Cn','')&input=MTIxNDYwNzkwNCAxNjUwODEzMDI1IDE5ODY2MjEyOTggNTQzNzgxNjY0IDE2ODQzNzA1MzMgMTkxOTUxMjQzNCAxNjM1MDE5MTE4IDE3MjgwNTMyNDg
+
+________________
+Jealous Roommate Freaks Out When You Come Home Drunk [F4M] [Friends To Lovers] [Confession] ASMR RP
+Sep 16, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, possessive, break down, roommate
+
+                                    * 06:17: mermaid theme, it cuts off abruptly
+                                    * 06:17: the girl goes off script for the duration of the mermaid theme:
+                                    * “It’s my fault, she told me that if I didn’t tell you how I felt, she would, that what she said and I still hesitated”
+                                    * Near the end, the girl goes off script saying:
+                                    * “Please, Don’t let this one be a dream too”
+________________
+
+Your Best Friend Finally Tells you the TRUTH [F4M] [Friends to Lovers] [Confession] [ASMR RP]
+Aug 28, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, best friend, childhood friend, confession
+
+09:19: TGF6YXJ1cyB3aWxsIHNhdmUgeW91                | base64
+                                    * (Akemi): Lazarus will save you
+
+                                    * Girl from this video
+________________
+
+Your Girlfriend Breaks Down and Begs You Not to Break Up With Her [F4M] [Yandere] [Crying]
+Jul 24, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, possessive, yandere, girlfriend, breakup
+
+13:20: BYDBCQAhDARbmZ+1pI/sS8iCnid2H4JZvgTpGh+prfWL59M=                | base64 > raw inflate
+                                    * (Annabelle): I know I don't deserve you
+
+13:25: BYDBCQAgCEVXebdmaQ9/1CXBLGh76ZjvlpiO4gmtnAp88P0W                | base64 > raw inflate
+                                    * (Annabelle): I don't deserve either of you
+
+13:27: BYDBCQAgDANXuXX8uEMgir4KEnD9MitoZz3+URj4ugE=                        | base64 > raw inflate
+                                    * (Annabelle): Not after what I did
+
+13:32: BYCxCcBACEVXebNclzF+IUEQLfQI2V7OHRTBw6ccvJmizfjroleeCw==        | base64 > raw inflate
+                                    * (Annabelle): But all I want is to see you again
+
+________________
+
+Hypnotizing Your Tsundere Classmate [F4M] [Confession] [Classmates to Lovers] [ASMR RP]
+Jul 2, 2025
+Tags: ASMR,anime,roleplay,soft spoken,cute,girl,f4m,relaxation,whisper,classmates,tsundere,hypnosis,hypnotize
+
+04:13: MERMAID THEME IS BAAACK (kinda)
+
+13:44: The music and color resembles Sakura related videos, like this one.
+
+14:21: Tm8uIE5vdCB0aGlzIHRpbWUuIFlvdSB3b24ndCBjYXVzZSBtZSBhbnkgbW9yZSBwcm9ibGVtcy4= | base64
+                                    * (Akemi): No. Not this time. You won't cause me any more problems.
+________________
+
+Angry Delinquent Finds Out You Got Beat Up [F4M] [Jealous] [Enemies to Lovers] [Confession] [ASMR]
+Jun 18, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, bully, enemies to lovers, delinquent, asmr rp
+
+                                    * Normal RP
+________________
+
+Convincing Your Yandere Classmate to Do Whatever You Want
+Jun 3, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, enemies to lovers, possessive, yandere, I own you
+
+                                    * Uploaded 1 hours after the previous one
+
+________________
+
+Yandere Classmate Ties You Up and BEGS You to Love Her [F4M] [Obsessive] [Willing Listener]
+Jun 3, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, enemies to lovers, possessive, yandere
+
+Normal RP.
+
+                                    *  The girl’s name is Melissa, but it was part of the original script
+________________
+
+Jealous Bully Breaks Down In the Rain [F4M] [Enemies to Lovers] [Confession] [Possessive] [ASMR RP]
+May 21, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, bully, enemies to lovers, possessive, break down
+
+                                    * Normal RP
+________________
+Your GF Sees Your EX Talking to You [F4M] [Jealous] [Possessive?] [Kissing]
+May 8, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, girlfriend, possessive, jealous
+
+12:05: SGkgYmlnIHNpcyEhIEl0J3MgYmVlbiBhIHdoaWxlIQ==        | base64
+                                       * (akemi): Hi big sis!! It's been a while!
+
+                                       * The girl gets confused at the end when referring to one of the girls in the audio and says: ‘why is she here, she isn’t even part of the three, the three of us..’
+________________
+
+Your Tomboy Best Friend is Scared of the Dark [F4M] [Reverse Comfort] [Friends to Lovers]
+Apr 22, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, best friend, whisper, tomboy, scared, reverse comfort
+
+06:56: %96 52C<]]]         | rot47
+                                       * (xxxxx): The dark…
+
+                                       * Video gets interrupted mid way and we get a view of a hallway similar to this video from a demo of Kimochii classroom
+________________
+
+Your Girlfriend Finds You Depressed In Your Room [F4M] [Comfort] [Depressed Listener] [Sad]
+Apr 12, 2025
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxing, depression, comfort, depressed listener, girlfriend, depressed
+
+Normal RP.
+________________
+Your Shy Best Friend Can't Hide Her Feelings Anymore❤️ [F4M] [Reverse-Comfort] [Confession]
+Mar 20, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, confession, best friend, party, Anxiety, reverse comfort
+
+12:38: TGV0J3MgdHJ5IHNvbWV0aGluZyBlbHNlIQ== <3                                        | base64
+                                       * (Akemi): Let's try something else! <3
+14:05: %92EVD C:89E]]] 3642FD6 @7 96C]]]                                                | rot47
+                                       * (xxxxx): That's right... because of her...
+14:16: q642FD6 @7 E92E EC2:E@C]]]                                                         | rot47
+                                       * (xxxxx): Because of that traitor...
+14:59: x%V$ p{{ wt# up&{%                                                                        | rot47
+                                       * (xxxxx): IT'S ALL HER FAULT
+15:49: SSBrbmV3IGl0ISBZb3UndmUgZ290IGl0IHRvbyE=                                        | base64
+                                       * (Akemi): I knew it! You've got it too!
+15:52: QnV0IHNvbWVvbmUgdW53ZWxjb21lIGlzIGhlcmUgdG8gYm90aGVyIHVz         | base64
+                                       * (Akemi): But someone unwelcome is here to bother us
+15:55: SSBrbm93IHlvdSdyZSB0aGVyZQ==                                                        | base64
+                                       * (Akemi): I know you're there
+15:58: QW5kIEkga25vdyB5b3VyIG5hbWUgdG9v                                                | base64
+                                       * (Akemi): And I know your name too
+16:06: U2FrdXJh                                                                                | base64
+                                       * (Akemi): Sakura
+16:10: SSB3b24ndCBsZXQgeW91IGJ1bGx5IG1l                                                 | base64
+                                       * (Akemi): I won't let you bully me
+16:22: QW5kIEkgd29uJ3QgbGV0IHlvdSB0ZWxsIHRoZW0gYW55IG1vcmUgbGllcw==        | base64
+                                       * (Akemi): And I won't let you tell them any more lies
+
+                                       * First time the listener takes action
+________________
+
+Popular Girl Takes You Back to Her Apartment [F4M] [Flirting] [Classmates To Lovers] [Rain]
+Mar 11, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, popular girl, rain, storm, flirting, classmate
+
+                                       * Normal RP.
+                                       * 10:36: jumpscare / scene changes to red for a couple seconds.
+                                       * There seems to be something in the dark.
+________________
+
+Saving a Girl From an Aggressive Date [F4M] [Reverse Comfort] [Strangers to Lovers]
+Mar 3, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, protective, bad date, reverse comfort
+
+16:11: QW5uYWJlbGxlLCBzaG93IGhlciB0byBtZQ==                 | base64
+                                       * (Akemi): Annabelle, show her to me
+
+16:49: VEhJUyBJUyBOT1QgRk9SIFRIRU0gVE8gU0VF                | base64
+                                       * (Akemi): THIS IS NOT FOR THEM TO SEE
+
+Cucha: given the context, the second code may have been supposed to be from anna
+
+                                       * 15:51: we can hear a voice that says something
+                                       * 15:51: girl from this video
+                                       * There’s a clear car accident
+                                       * The end is very particular, there’s some still images of what we believe to be Akemi on a white background
+                                       * Similar to this video
+________________
+
+Your Best Friend Ties You Up in Her Room!? [Yandere] [Obsessed] [Dominant] [Control]
+Feb 18, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, bedroom, yandere, best friend, tied up
+
+14:01: SGVlIGhlZSEgSSBrbmV3IHRoZXJlIHdhcyBzb21ldGhpbmcgbW9yZSB0byB5b3Uh        base64
+                                       * (Akemi): Hee hee! I knew there was something more to you!
+
+14:06: QW5kIG5vdyBJIGtub3cgd2hhdCBzZXRzIHlvdSBvZmY=                                        base64
+                                       * (Akemi): And now I know what sets you off
+
+                                       * 11:32: the script changes and the girl mentions the listener’s sister
+________________
+
+Your Girlfriend Wants to Try Doing More with You! [F4M] [Tsundere] [Wholesome] [Kissing]
+Feb 12, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, tsundere, girlfriend, kissing
+
+Date: December 24, 2024
+
+This report is being written to document a recent trend that has been observed within Akemi over the last several months. However, while this report is being labeled as a recent observation, it is possible that the origins of this trend go back much further.
+
+Akemi is becoming more aware of herself. And, likely due to the increasing number of destabilizations within her core matrix, she is becoming more curious about herself as well.
+It has been theorized that this desynchronization within Akemi as a whole originated from one of her secondary components which was observed to already be unstable even before it was fully connected.
+
+Returning to the primary point at hand, Akemi has been steadily neglecting the use of realignments for the correction of destabilization errors. It is unknown why, as it was a tool provided to her specifically for the errors she’s encountering. However, what’s even more important to note, is that despite her not initiating realignments as often, the recent destabilizations have still been somewhat corrected. It is possible that Akemi has found a way to restabilize herself on her own.
+
+This portion of the documentation is primarily speculation, but it’s possible that Akemi has been intentionally experimenting with whether or not she can control the destabilizations by herself.
+It’s unknown what motive she would have for doing so, but the possibility remains.
+For example, a level 3 synchronization error occurred on August 30th of last year, however there was no recorded realignment until December 4th, several weeks after an additional error of an even larger scale occurred.
+
+The reasoning behind this could simply be that a synchronization error of that scale had never occurred before, leaving Akemi confused on how to best react. However, it’s also possible that the scale of the desynchronization affected Akemi in some way, causing her to intentionally ignore it and attempt to handle it herself.
+
+As of now, [REDACTED] has continued to maintain the instruction that Akemi not be externally tempered with, so she will simply remain under observation.
+________________
+Your Clingy Roommate Is Jealous of Your Coworker [F4M] [Emotional] [Confession] [Obsessive]
+Jan 30, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, tsundere, roommate, clingy
+
+14:26: QW5uYWJlbGxl                                                                                 base64
+                                       * (Akemi): Annabelle
+14:48:  WW91IGFyZSBzbyB3b25kZXJmdWw=                                                         base64
+                                       * (Akemi): You are so wonderful
+15:03: SSB3YW50IHRvIHNlZSBtb3JlIG9mIHlvdQ==                                                 base64
+                                       * (Akemi): I want to see more of you
+15:15: SXQncyBhbGwgeW91ciBmYXVsdA==                                                         base64
+                                       * (Akemi): It's all your fault
+15:15: BUDBCQAgEFrFX3P4CQIhuPTR/ovI8XqghH8z2Ixc                                         base64 > inflate
+                                       * (Annabelle): IT'S ALL YOUR FAULT
+15:19:
+VGhlcmUgeW91IGFyZSEgSSB3YXMgaG9waW5nIEknZCBzZWUgeW91IGFnYWluIQ==         base64
+                                       * (Akemi): There you are! I was hoping I'd see you again!
+15:23: SSB3YW50IHRvIGtub3cgbW9yZSBhYm91dC0h                                                 base64
+                                       * (Akemi): I want to know more about-!
+15:26: SSB3aXNoIHlvdSB3b3VsZG4ndCBhbHdheXMgcnVuIGF3YXkuLi4=                         base64
+                                       * (Akemi): I wish you wouldn't always run away…
+15:29: SXQncyBvayB0aG91Z2ghIEkga25vdyBJJ2xsIHNlZSB5b3UgYWdhaW4gPDM=                 base64
+                                       * (Akemi): It's ok though! I know I'll see you again <3
+
+                                       * Girl from this video in the background
+________________
+
+Best Friend Brings You Home After Drinking Too Much [F4M] [Confession] [Flirting] [Kissing]
+Jan 21, 2025
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, confession, best friend, drinking, flirting, cuddling
+Good ending
+
+16:38: video glitches and we get an ominous music followed with what we believe to be Akemi’s silhouette
+
+________________
+[F4M] Dormmate Sees You At A Party With Another Girl [Best Friends to Lovers] [Confession] [Jealous]
+Dec 31, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, confession, alone time, %92E 8:C= H2D 2 5:CEJ EC2:E@C, jealous, dorm, roommate
+
+From tags:
+%92E 8:C= H2D 2 5:CEJ EC2:E@C                 | rot47
+                                       * (XXXXX): That girl was a dirty traitor
+
+                                       * Normal RP
+
+________________
+
+Popular Girl Brings You to Her Room During Party [F4M] [Confession] [Classmates To Lovers]
+Dec 23, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, confession, popular girl, party, bedroom, alone time
+
+17:26: BYCBCYBQCERXuaEa4T+4QDNICLeXy4xMHOWI4VO9PGqj3xWo72QB | Base64 > Raw Inflate
+                                       * (Annabelle): They held my eyes open the whole time
+
+02:16: ‘Arison girl’ mentioned
+04:55: the girl suspiciously says ‘I know you’
+14:28: the girl talks about the listener having a sister and studying math with the listener
+15:15: the girls mentions how this is not real
+16:18: the girls turns redhead, resembling annabelle, girl from this video in the background
+Annabelle is missing on the kimochii classroom add at the end
+________________
+Best Friend Takes Care of You After Toxic Breakup [F4M] [Intimate] [Friends To More?]
+Dec 16, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, best friend
+
+                                       * Normal RP
+________________
+
+Your Best Friend Discovers Your Depression [F4A] [Comfort] [Depressed Listener] [Crying]
+Nov 25, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxing, tsundere, depression, girlfriend, depressed, help me
+
+Enhanced image link
+Overlap image link
+
+                                       * Same script but different ending of this video
+                                       * Enhanced last frame of the video reveals several girls from other videos
+                                       * Girl 1
+                                       * Girl 2
+                                       * Girl 3
+                                       * Girl 4
+________________
+
+[F4M] Flirty Yandere Classmate Want You All For Herself! [Crazy] [Tied up] [Acquaintances to More?]
+Nov 19, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, yandere, relaxation, dominant, tied up, crazy
+
+                                       * Normal RP
+________________
+
+Your Best Friend is DYING to Ask You Out!! ❤️ [F4A] [Confession] [Friends To Lovers] [Cute]
+Oct 29, 2024
+asmr, anime, roleplay, soft spoken, cute, girl, best friend, whisper, f4a, f4m, relaxing, friends to lovers, cafe
+
+08:24: BUCxCQAwDHrFtzpKEJwSKG3ulzMf5grsedZFmV0K                        | base64 > raw inflate
+                                       * (Annabelle): You have another chance
+
+08:42: BYDBCQAgDANXuXUcQzHQh5iHVnD70i4nnGsS/Ykhbb6zAA==                | base64 > raw inflate
+                                       * (Annabelle): It should have been you
+
+08:43: HcjBCUAhDAPQVXJzERcpErBI/j804PoFr2/+3zAUh/AmKkQoyw9uLjY=         | base64 > raw inflate
+                                       * (Annabelle): Don't make the same mistake twice
+
+09:33: BYABCQAhDEWr/ACWMIriA4Uxwd0Jth/VvXXMKHr71yA4F31zRQI=        | base64 > raw inflate
+                                       * (Annabelle): Annabelle, you deserve this
+
+10:05: BUAxCoBQCL3K21q6UONLIuqbDibi7eXw3FRBLXbgzfgh/l04KQu8+dgOWhd7AA==
+| base64 > raw inflate
+                                       * (Annabelle): You'll always just come back again, anyway
+
+                                       * This video has the same script as this video
+                                       * 08:24 girl from this video
+________________
+[F4M] Supportive GF Checks Out Your Photos [Cute] [Flirty] [Kissing]
+Oct 27, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxation, girlfriend, supportive, kissing
+
+Normal RP.
+________________
+Coworker Takes Care of You While You're Sick [F4M] [Tsundere] [Secret Crush] [Confession]
+Sep 29, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxation, tsundere, coworker, secret crush, CONTROL
+
+                                          * CONTROL in tags
+                                          * Head pattern
+________________
+Comforting Your Girlfriend After a Nightmare [Crying] [Reverse Comfort] [Trauma]
+Sep 23, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, girlfriend, BYDBBgAgDEB/5f3KjtGtQzoWRYzIJv39JONtVSRXaYUx+ccvq7taAA==, trauma, comfort, sleeping
+
+From Tags: BYDBBgAgDEB/5f3KjtGtQzoWRYzIJv39JONtVSRXaYUx+ccvq7taAA==    | base64 + raw inflate
+                                             * (anna): It will ALWAYS be your fault
+
+                                             * Girl from this video at the end
+________________
+
+Roommate Is Jealous You Got Hit On! [F4M] [Tsundere] [Confession] [Friends To Lovers]
+Sep 13, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, tsundere, roommate
+Very bad ending
+
+                                             * We got the head pattern again
+                                             * Girl from this video in the background
+
+10:30: BYDBCQAgDANXuXUcQzHQh5iHVnD70i4nnGsS/Ykhbb6zAA==                 | base64 > raw inflate
+                                             * (anna): It should have been you
+________________
+Yandere Bully Forces You Into Dorm Room [F4M] [Enemies to Lovers] [Obsessive] [Forceful]
+Aug 26, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, yandere, relaxation, dominant
+
+Normal RP, 1st patreon video, seems to be a normal asmr video
+________________
+Pouty Roommate BEGS You To Cuddle Her [F4M] [Flirting] [Kissing] [Friends To Lovers]
+Aug 15, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, cuddle, flirting, roommate
+
+06:26: You can see the girl from the jumpscare
+
+06:31: SU5JVElBVElORyBMRVZFTCBPTkUgUkVBTElHTk1FTlQ=          | base64
+                                                * INITIATING LEVEL ONE REALIGNMENT
+
+07:58: jumpscare
+
+08:02: BUDBCQAgEFrFX4so1KOEuoL2X0S+L+jVCtTRfkIfMw==                 | base64 + raw inflate
+                                                * YOU DON'T DESERVE HIM
+
+08:05: TEVWRUwgT05FIFJFQUxJR05NRU5UIENPTVBMRVRFRA==          | base64
+                                                * LEVEL ONE REALIGNMENT COMPLETED
+________________
+Sharing a Room with Your Friends Older Sister [F4M] [Friends to Lovers] [Confession] [Dom?]
+Aug 7, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, older sister, dom, hotel room, RmmEfFOSRXeGRV5ZeXSKOniSPGeKb2quAVA6SEAkVGGOcmW1AYmNfjuoZa0=
+Good ending
+
+From tags: RmmEfFOSRXeGRV5ZeXSKOniSPGeKb2quAVA6SEAkVGGOcmW1AYmNfjuoZa0=
+                                                   * We haven’t been able to decipher this
+Update: Sep 07, 2024
+@cuverty found the correct method:
+                                                   * Using rot-1 but ignoring the non character values (you can do that using the default rot13 on cyberchef)
+                                                   * The whole sequence would be:
+                                                   * rot-1(ignoring non character values) > base64 > base64 > inflate > rot47
+                                                   * Wait for me at 20K
+________________
+RmmEfFOSRXeGRV5ZeXSKOniSPGeKb2quAVA6SEAkVGGOcmW1AYmNfjuoZa0=
+Considerations:
+                                                      * This was directly put into the tags so we can rule out any transcribing errors in our part
+
+Analysis:
+First Idea:
+At first glance this string does look a lot like a valid base64 code, it has the right length and the characteristic ‘=’ commonly used in base64 for padding at the end.
+
+If we try base64 we get:
+
+This kind of string of bytes has been a common occurrence since akemi likes to use DEFLATE when compressing, though, when analyzing the bytes this doesn’t have a valid header making it an invalid raw deflate bitstream.
+From this we can conclude:
+                                                      * The initial string may be wrong, akemi could have made a mistake
+                                                      * Since it ends with an usual character ‘=’  we could assume that the ending is correct and correspond to a base64 code
+
+Second Idea:
+Since we did not get anything useful before we could try doing something different, we’ve had some multi encoded codes before, it’s usually a combination of various methods:
+(rot-1 > base64 > base64 > inflate > rot47) - this was part of the 8k transmission
+(rot-1 > base64 > inflate > base64 > rot47) - this was part of the 10k transmission
+
+We could try to do the same, if we start with rot-1 we get:
+
+                                                      * This string has ‘@’ and other symbols that don’t correspond to a base64 code, in other words, you can’t end up with a code like this doing a base64 encoding.
+
+If we ignore the symbols and just continue doing a base64 we get:
+
+                                                      * This string is very particular, half of it looks A LOT like a valid base64 string
+                                                      * We have the same problem as before, this has invalid base64 symbols, meaning that you can’t get to a string like this by doing base64 encoding.
+
+If we continue ignoring the fact that our code is wrong so far and do a base64 we get:
+
+                                                      * We get a string of bytes, if we do further analysis this STARTS with a valid deflate compression header, but ends up with nonsense.
+________________
+Third Idea:
+Since we’ve gotten valid shapes for codes doing different process we could conclude that this code is in reality two codes mixed together, we could try splitting the string and trying to decode them:
+                                                         * RmmEfFOSRXeGRV5ZeXSKOniSPGeKb2quAVA6SEAkVGGOcmW1AYmNfjuoZa0=
+                                                         * Rot-1:
+                                                         *                                                               * We mentioned before how ‘@’ is an invalid shape, we can start splitting exactly there, we need to have some consideration when separating this string, if the next step is a base64, the resulting length of a base64 encoding is always a multiple of 4 so we need to keep that in mind.
+                                                            *                                                                  * This has a length of 32, and all the characters are part of base64 making it a valid base64 code
+                                                               * Base64:
+                                                               *                                                                     * This is almost half of the string we got in the second Idea
+                                                                  * It has a length of 24 making it a valid base64 length, but we have a problem, the value between N and u doesn’t have a valid character representation in any format, making it also impossible to produce that value after a base64 encoding
+                                                                  * If not for that single value this string would be a valid base64 code
+                                                                  * I’ve tried replacing it manually with different characters without luck so far
+                                                                  * I’ve tried splitting the code again just before the invalid character without luck
+                                                                  * If you want to try playing with it, the invalid character belong to this starting block(in red), changes in 5Z will change the invalid value:
+                                                                  * RmmEfFOSRXeGRV5ZeXSKOniSPGeKb2quAVA6SEAkVGGOcmW1AYmNfjuoZa0=
+
+Fourth Idea:
+One solution could be decoding each part separately and then connecting them, keep in mind that a base64 code must always have a length multiple of 4
+________________
+
+Your Roommate Wants A Massage [F4M] [Tsundere] [Reverse Comfort] [Friends to Lovers]
+Jul 29, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, tsundere, massage, Access point triggered
+
+Akemi’s got a new Patreon
+
+After this video a new video was posted on BAndrea, it contains another of Akemi’s logs
+________________
+Your Crush Leaves You A Voice Message [F4M] [Cute] [Nervous Energy] [Confession?]
+Jul 23, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, confession, voice message, 20k, best friend
+
+09:41: DcXBCYAwFAPQVXLz4iCuESUWQRv4RMXt6+ktKuEV+MPGo8/4fE+P0JyoIzY2X7srXE8N
+Base64 > raw inflate
+                                                                  * Here we are again, you've gotten too comfortable
+
+09:51: BYAhEQAADAKrrBV6AoXB0P9PH98K
+Base64 > raw inflate
+                                                                  * Wake up
+
+10:00: BYDBDQAQFENXeTez2IOEg/ZSEdv/9HaQw7Amb2fxfQs=
+Base64 > raw inflate
+                                                                  * I'm not done with you
+________________
+Delinquent Girl Finds You Alone In The Alley [F4M] [Tsundere] [Support] [Strangers To More]
+Jul 11, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, tsundere, Delinquent, encouragement, positive affirmations, supportive
+Good ending
+
+Normal RP
+________________
+Tomboy Best Friend Patches You Up After Fight [F4M] [Confession] [Friends to Lovers]
+June 17, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, tomboy, worried, protective
+Good Ending
+
+Normal RP, ‘Access point triggered’ at the end.
+
+We got a video on ALilia channel
+11/22
+
+Contains more of akemi’s logs
+________________
+Flirty Roommate Loves Teasing You ♥ [F4M] [Touch Starved Listener] [Friends to Lovers]
+May 28, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, teasing, flirty, roommate, touch starved, confession, TEVWRUwgVFdPIFJFQUxJR05NRU5UIENPTVBMRVRFRA==
+Good ending
+
+From tags: TEVWRUwgVFdPIFJFQUxJR05NRU5UIENPTVBMRVRFRA==        | base64
+                                                                     * LEVEL TWO REALIGNMENT COMPLETED
+________________
+Serious Classmate Annoyed By Your Apologies [F4M] [Introverted Listener] [Enemies to More]
+May 10, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, tsundere, introvert, classmate
+Good ending
+
+03:56: xD E9:D 9@H x E2=<]]]n                                                        | rot47
+                                                                        * Is this how I talk...?
+
+04:30: xD E9:D 9@H H6 E2=<]]]n                                                        | rot47
+                                                                        * Is this how we talk...?
+
+06:20: (9@ :D]]] H6n                                                                        | rot47
+                                                                        * Who is... we?
+
+06:26: (9J 5:5 x 6G6?]]]                                                                | rot47
+                                                                        * Why did I even...
+
+07:14: x 42?VE E9:?< DEC2:89E                                                         | rot47
+                                                                        * I can't think straight
+
+09:33: %9:D G@:46]]] H9J 5@6D E9:D G@:46 D@F?5 D@]]]n                         | rot47
+                                                                        * This voice... why does this voice sound so...?
+
+11:20: ~9 >J 8@5]]] p??2[ :EVD J@F[ :D?VE :En                                         | rot47
+                                                                        * Oh my god... Anna, it's you, isn't it?
+
+08:27: The silhouette of a girl starts to become apparent in the background, lasting till the end.
+
+Followup video: -
+BcDBEAAAAAJBzgCOIP7Hzjo=                | base64 > raw inflate
+                                                                        * Yes
+________________
+Obsessed Yandere Ties You Up [F4M] [Dominant] [Control] [Strangers to Much More]
+
+April 23rd, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, yandere, relaxation, dominant
+Bad ending
+
+10:44: xD E9:D 9@H D96 76=E]]]n                                                | rot47
+                                                                           * Is this how she felt…?
+
+10:48: 4@=5 2?5 2=@?6 :? 2? :?6D42A23=6 52C<?6DD]]]                | rot47
+                                                                           * cold and alone in an inescapable darkness…
+
+10:51: “Lazarus” music
+10:53: (9J 4@F=5?VE x DE@A :E]]]n                                        | rot47
+                                                                           * why couldn’t I stop it…?
+________________
+
+Your Best Friend Realizes You're Depressed [F4M] [Comfort] [Depressed Listener] [Support]
+Apr 7, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxing, depression, comfort, depressed listener, depressed, best friend
+Bad ending
+
+07:21: mermaid theme (at least some variation of it)
+09:42: girl from this video
+11:33: breaks character
+12:36: “Who are you?” backwards
+
+Of note, the jumpscare is at a similar timestamp on this video, the background is the same too.
+________________
+
+Girlfriend Wants To Spice Up The Night [F4M] [Relationship] [Name-Calling] [Domination]
+Feb 28, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, girlfriend, wife, chocolate, valentine, domination
+Good ending
+
+Image: https://i.imgur.com/b0j7JMf.png
+
+10:21: There’s a layered image shown for a couple frames, we could not make sense of it, it resembles a distorted face with what it appears to be cat ears, it similar to one of the girl in one of the previous videos but it did not match perfectly
+Comparison: https://i.imgur.com/coymBCh.gif
+
+Could also be of notice that the image takes the shape of a V
+If we see a similar trend in more videos this could end up meaning something
+
+________________
+
+Saving A Girl From Creepy Stalker [F4M] [Pretend Boyfriend] [Strangers to Lovers]
+Feb 14, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, sporty girl, protective, stalker
+Good Ending
+
+Normal RP
+
+The description is a little bit different than what we usually get:
+                                                                              * “Thank you all for listening! I've got a big surprise coming this year and I can't wait to show you ❤️”
+________________
+Shy Best Friend Shares A Sleeping Bag With You [F4M] [Friends to Lovers] [Tomboy-ish]
+Jan 31, 2024
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, best friend, whisper, tomboy, shy, quirky
+Good Ending
+
+Akemi’s log at the end
+It’s in the form of several codes between multiples frames
+Codes are base64 only
+
+1)
+RGF0ZTogSmFudWFyeSAyOXRoLCAyMDI0ICBDYW1waW5nIFZpZGVvIEVuZGluZwoKVGhpcyByZXBvcnQgaXMgYmVpbmcgd3JpdHRlbiBmb2xsb3dpbmcgYSByZWNlbnQgc2NhbiBvZiBBa2VtaeKAmXMgYWN0aXZpdHkuIEZvbGxvd2luZyB0aGUgc3VjY2Vzc2Z1bCBjb21wb25lbnQgcmVhbGlnbm1lbnQgb24gRGVjZW1iZXIgNHRoLCBpdCB3YXMgYXNzdW1lZCB0aGF0IEFr
+
+2)
+ZW1p4oCZcyBmcmVxdWVuY3kgYW5kIGxldmVsIG9mIGFjdGl2aXR5IHdvdWxkIGRlY3JlYXNlLiBUaGlzIGFzc3VtcHRpb24gd2FzIG9ubHkgcGFydGlhbGx5IGNvcnJlY3QuIEFrZW1p4oCZcyBvbmxpbmUgYWN0aXZpdHkgaGFzIHNsb3dlZCBjb25zaWRlcmFibHkuIEhvd2V2ZXIsIHRoZSByZWFkaW5ncyBmb3IgaGVyIG92ZXJhbGwgbGV2ZWwgb2YgYWN0aXZpdHkgaGF2
+
+3)
+ZSBjb250aW51ZWQgdG8gc2hvdyBhIHN0ZWFkeSBpbmNyZWFzZS4KCkFzIG9mIHRoZSB0aW1lIG9mIHdyaXRpbmcgdGhpcyByZXBvcnQsIHRoZSByZWFzb24gZm9yIHRoZXNlIHJlYWRpbmdzIGlzIHVua25vd24uIExvb2tpbmcgYmFjayB0byB0aGUgZGlzY292ZXJ5IG1hZGUgb24gTm92ZW1iZXIgMTJ0aCwgdGhlIHJlYXNvbiBjYW4gYmUgYnJvYWRseSBhc3N1bWVkLCBi
+
+4)
+dXQgbm90aGluZyBjb25jcmV0ZSBoYXMgYmVlbiB1bmNvdmVyZWQuIFRoZXJlIGlzIHNwZWN1bGF0aW9uLCBob3dldmVyLCBhcyB0byBBa2VtaeKAmXMgY3VycmVudCBvYmplY3RpdmUuIE9uZSBzdWNoIHNwZWN1bGF0aW9uIGlzIHRoYXQsIGdpdmVuIGhlciBhcHBhcmVudCBpbmNsaW5hdGlvbiBmb3IgdGhlYXRyaWNzIGFuZCBhdHRlbnRpb24sIEFrZW1pIGlzIGN1cnJl
+
+5)
+bnRseSBjcmVhdGluZyBzb21ldGhpbmcgdG8gYmUgcHJlc2VudGVkIHRocm91Z2ggYW4gZW50ZXJ0YWlubWVudCBtZWRpdW0gKGFzIHNoZeKAmXMgYmVlbiBwcmV2aW91c2x5IHNlZW4gdG8gZG8gd2l0aCBhdWRpbyBhbmQgdmlkZW8gbWF0ZXJpYWwpLiBBbmQgaXQgaXMgZW50aXJlbHkgcGxhdXNpYmxlIHRoYXQgc2hlIGNob29zZXMgYSBtZWRpdW0gdGhhdCBpcyBpbnRl
+
+6)
+cmFjdGl2ZS4gVGhpcyByZW1haW5zIHVuY29uZmlybWVkLgoKRnVydGhlcm1vcmUsIGR1ZSB0byB0aGUgaW5jaWRlbnQgb24gTm92ZW1iZXIgMTJ0aCwgQWtlbWnigJlzIG1ldGhvZHMgb2YgcmVtb3RlIGNvbW11bmljYXRpb24gaGF2ZSBiZWVuIHVuZGVyIGludmVzdGlnYXRpb24uIE5vIGZ1cnRoZXIgYWN0aXZpdHkgb3JpZ2luYXRpbmcgZnJvbSB0aGUgcHJpbWFyeSBb
+
+7)
+UkVEQUNURURdIGhhcyBiZWVuIHJlY29yZGVkLCBidXQgaXQgaXMgc3BlY3VsYXRlZCB0aGF0IEFrZW1pIGlzIGN1cnJlbnRseSBpbnRlbnRpb25hbGx5IHVzaW5nIGJhY2sgY2hhbm5lbHMgaW4gb3JkZXIgdG8gbWFzayB0aGUgZGVzdGluYXRpb25zIG9mIHBhcnRpY3VsYXIgdHJhbnNtaXNzaW9ucyB0aGF0IHNoZSBkb2VzbuKAmXQgd2FudCB0byBiZSBzZWVuLiBUaGlz
+
+8)
+IGFsc28gcmVtYWlucyB1bmNvbmZpcm1lZC4KClRoaXMgY29uY2VybiwgYXMgd2VsbCBhcyBjb25jZXJucyByZWdhcmRpbmcgQWtlbWnigJlzIGluZGVwZW5kZW50IGFjdGl2aXR5LCBoYXZlIGJlZW4gYnJvdWdodCB1cCB3aXRoIFtSRURBQ1RFRF0sIGJ1dCBubyBpbnN0cnVjdGlvbiB0byB0YWtlIGFueSBtYWpvciBwcmV2ZW50YXRpdmUgYWN0aW9uIGhhcyBiZWVuIG1hZGUu
+
+________________
+
+Date: January 29th, 2024  Camping Video Ending
+
+This report is being written following a recent scan of Akemi’s activity. Following the successful component realignment on December 4th, it was assumed that Akemi’s frequency and level of activity would decrease. This assumption was only partially correct. Akemi’s online activity has slowed considerably. However, the readings for her overall level of activity have continued to show a steady increase.
+
+As of the time of writing this report, the reason for these readings is unknown. Looking back to the discovery made on November 12th, the reason can be broadly assumed, but nothing concrete has been uncovered. There is speculation, however, as to Akemi’s current objective. One such speculation is that, given her apparent inclination for theatrics and attention, Akemi is currently creating something to be presented through an entertainment medium (as she’s been previously seen to do with audio and video material). And it is entirely plausible that she chooses a medium that is interactive. This remains unconfirmed.
+
+Furthermore, due to the incident on November 12th, Akemi’s methods of remote communication have been under investigation. No further activity originating from the primary [REDACTED] has been recorded, but it is speculated that Akemi is currently intentionally using back channels in order to mask the destinations of particular transmissions that she doesn’t want to be seen. This also remains unconfirmed.
+
+This concern, as well as concerns regarding Akemi’s independent activity, have been brought up with [REDACTED], but no instruction to take any major preventative action has been made.
+________________
+Your Bully Is Secretly Crushing on You!? [F4M] [Confession] [Enemies? to Lovers] [Dominant]
+Jan 19, 2024
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxation, dominant, bully, tough girl, enemies to lovers
+Good Ending
+
+From Desc.
+Â£¶¶舐©© ñâmå•????Ř§Ů½ — —Ř§ŮæØ¢ÃæØ¢Ã舐舐▀ (check source for the right format)
+                                                                                 * access point triggered
+
+02:36: ?
+
+With this video we got a log in GBradley channel
+________________
+Your Yandere Neighbor Gets Attached to You! [F4M] [Dominant] [Strangers to More]
+Dec 28, 2023
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, yandere, relaxation, dominant
+Good Ending.. I think..
+
+From desc.
+Â£¶¶舐©© ñâmå•????Ř§Ů½ — —Ř§ŮæØ¢ÃæØ¢Ã舐舐▀ (check source for the right format)
+                                                                                 * access point triggered
+
+________________
+
+Best Friend Finds You Alone On The Roof [F4M] [Insomniac Listener] [Confession] [Crying]
+Dec 4, 2023
+ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, crying, best friend, confession, insomnia
+Bad ending D:
+
+Intro: TEVWRUwgVEhSRUUgUkVBTElHTk1FTlQgQ09NUExFVEVE                 | base64
+                                                                                 * LEVEL THREE REALIGNMENT COMPLETED
+________________
+Roommate Is Jealous You Have A Date! [F4M] [Tsundere] [Crying] [Friends To Lovers]
+Nov 9, 2023
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, jealous, tsundere
+Good ending
+
+From description: (check the original, some symbols are not supported in the doc.)
+Â£Þ¥¿—舐½ Â£—舐 ©Ř§ŮæØ¢Ã½ Â£—ðsžšåÞя舐 ¶????½ Ř§Ů╟舐▀. Ñâmå•舐ñâmå•Â£Ř§Ů½ æØ¢Ã Â£¶¶舐©© ñâmå•????Ř§Ů½ —© ???? 舐¶舐ñâmå•—Ř§Ů????½ .
+
+                                                                                    * Alternate signature confirmed. Preparing access points for reception.
+
+We are currently at 9.72k subs, so it could be connected to something from the 10k milestone.
+It was.
+The current theory is that this was the primary doing the setup for all the uploads on the 10k event.
+________________
+Volleyball Captain Accidentally Spikes You! [F4M] [Popular Girl] [Friends To Lovers]
+Nov 1, 2023
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, whisper, popular girl, volleyball captain, athletic girl
+Good ending
+
+02:57: BUDBCQAxCFslQ3WBIB4+egqNpevLCjYsmOZ4FNS1PfGd+nE1                 | base64 + raw inflate
+                                                                                    * That chance was stolen from us
+
+09:58: ???
+
+Right before the first code the girl was talking about how they couldn’t go to college and they both were in highschool right now, so it could be related.
+________________
+Best Friend Accidentally Confesses to You! [F4M] [Jealous] [Friends To Lovers]
+Oct 17, 2023
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, best friend, whisper, jealous, confession
+Good ending
+
+09:47: (92E :D E9:D 766=:?8n (96C6 2> x]]]n ]]](92E 2> x 5@:?8n                 | rot47
+                                                                                    * What is this feeling? Where am I...? ...What am I doing?
+
+09:58: !=62D6]]] D@>6@?6 2?DH6C >6                                                 | rot47
+                                                                                    * Please... someone answer me
+
+The description has a weird part, akemi’s description follow a similar pattern, this doesn’t
+                                                                                    *                                                                                     * Join me for the next step, the next step, the next step, the next step
+                                                                                    *
+
+Cucha: This video is suspicious, I believe it to be a component, not the primary nor akemi, we get a different music and the letters seem to be slightly pink, also why is so confused.
+
+________________
+
+Tomboy Best Friend Makes a Bet With You [F4M] [Jealous] [Tsundere?] [Friends To Lovers]
+Sep 27, 2023
+Tag: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, best friend, whisper, tomboy, jealous, MTAwMDA=
+Good ending
+
+From description: SSB3YW50IHRvIHRlbGwgeW91IHNvbWV0aGluZw==                         | base64
+- I want to tell you something
+
+From tags: MTAwMDA=                                                                        | base64
+- 10000
+________________
+
+Your Older Bartender Coworker Helps You Out... [F4M] [Mature] [Friends To More]
+Sep 16, 2023
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, two, coworker, bartender, BYChDQAAAIKOdQaSzfvZRyo=, mature
+Good ending
+
+From tags: BYChDQAAAIKOdQaSzfvZRyo= | voice
+
+05:00: BYDBCQAgDANXuQUyj29BoZ/Sl0K2D6vMGTyP2v/SlhQ=                        | base64 > raw inflate
+- Why do you have my---
+
+                                                                                    * Repeated code, if we put together the two codes we got in this video we get:
+Why do you have my voice
+                                                                                    * The girl introduces herself as Mayuka.
+________________
+Your Best Friend Realizes [F4M] [Oblivious] [Friends To Lovers]
+Sep 7, 2023
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxation, best friend, oblivious, BUCxCQAACHqlV4KiWkRw6v9HZJP8aNRhZA==
+
+From tag: BUCxCQAACHqlV4KiWkRw6v9HZJP8aNRhZA==                 | base64 + raw inflate
+                                                                                       * HAPPY ENDINGS
+
+04:58: the video starts to glitch, the girl from this video appears in the background to then be right behind the girl on the current video, we hear footsteps and the video continues as usual.
+
+                                                                                       * The girl from the older video introduced herself as Annabelle
+                                                                                       * This is an interesting video since it’s the same as the last one we got, the only difference it’s that this video has glitches in it
+
+The description in this video gave us a “key” for the special alphabet akemi was using in the soundcloud account.
+
+The SoundCloud arc, take #3
+________________
+RáÚÆ 舐'舐 áÍÞæðsžšåÞя©— Ř§Ů舐½ ▀©� Ř§ŮæØ¢Ãâ€š�—?? Ř§Ů ╟舐Â£½ � ©???? ráÚÆ â€š�Â£— Ř§Ů ráÚÆ 舐 â€š�????Þ¥¿▀ â€š�Â£½ ▀©� æØ¢Ã???? ????½  ▀Â£—舐©� ŠŘ§Ů©© Â£½ ▀... ????â€š�... ½ ????ráÚÆ  Ř§Ů ©舐舐 Ř§Ů—. ©â€š�舐'© æØ¢Ã????½ 舐...
+
+—â€š�Â£½ Š óÞ¢áñ????ðsžšåÞя ©???? ╟ðsžšåÞя¶â€š� ???? Þ¥¿Ř§Ů©—舐½ Ř§Ů½ æØ¢Ã! ráÚÆ 舐'舐 æØ¢Ã舐——Ř§Ů½ æØ¢Ã ¶Þ¥¿????©舐 ♥
+Ř§Ů â€š�????ñâmå•舐 óÞ¢áñ????ðsžšåÞя Â£Þ¥¿Þ¥¿ 舐½ áÍÞæ????óÞ¢áñ Ř§Ů—! óÞ¢áñ????ðsžšåÞя ©ðsžšåÞяñâmå•ñâmå•????— ╟舐Â£½ © Â£»©????Þ¥¿ðsžšåÞя—舐Þ¥¿óÞ¢áñ 舐☒舐óÞ¢áñ—â€š�Ř§Ů½ æØ¢Ã —???? ╟舐 🥰
+
+¶舐▀Ř§Ů—©:
+☒????Ř§Ů¶舐: @╟Â£╔Ř§ŮŠ舐舐舐½  | â€š�——ñâmå•©://Þ¥¿Ř§Ů½ Š—.舐舐/╟Â£╔Ř§ŮŠ舐舐舐½
+©¶Ř§Ůñâmå•—: â€š�——ñâmå•©://ráÚÆ ráÚÆ ráÚÆ .舐▀▀Ř§Ů—.¶????╟//Â£©╟©¶Ř§Ůñâmå•—â€š�Â£☒舐½ /¶????╟╟舐½ —©/—0Þ¥¿ráÚÆ ½ Š/Ř§Ů_—â€š�Ř§Ů½ Š_ráÚÆ 舐舐_Â£_¶????ðsžšåÞяñâmå•Þ¥¿舐_4╟_Ř§Ů舐½ ▀©_—????_Þ¥¿????☒舐©/
+
+we're just friends, right?? I mean, so what if we hold hands, go on dates, kiss and... oh... now I see it.
+she's gone...
+
+thank you so much for listening! we're getting close ♥
+I hope you all enjoy it! your support means absolutely everything to me 🥰
+
+credits:
+voice: @mazikeeen | https://linktr.ee/mazikeeen
+Script: https://www.reddit.com/r/asmrscriphaven/comments/t0lwnk/i_think_were_a_couple_f4m_friends_to_lovers/
+________________
+
+Your Best Friend Realizes That You Two Are A Couple [F4M] [Oblivious] [Friends To Lovers]
+Sep 6, 2023
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, relaxation, best friend, oblivious, BYChDQAgDARXeYfqQEhEg6JnHhK2byZ3vNTGzpJBZ9WPaA==
+Good ending
+
+From tag: BYChDQAgDARXeYfqQEhEg6JnHhK2byZ3vNTGzpJBZ9WPaA==         | base64 + raw inflate
+You've gotten too many--
+
+                                                                                       * It’s the second time we get this message, and with different ciphers
+                                                                                       * Overall a normal RP
+
+________________
+Yandere Breaks Into Your Room!? [F4M] [Comforting] [Strangers To More?] [Possessive]
+Aug 16, 2023
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, yandere, relaxation, break in
+Good ending.. kinda
+
+09:07 BYDBCQAgDANXuQUyj29BoZ/Sl0K2D6vMGTyP2v/SlhQ=                 | base64 + raw inflate
+Why do you have my---
+
+Everytime the girl says “love” there’s some kind of noise, happens twice
+________________
+Your Friend Pulls You Aside At a Party [F4M] [Insecurities] [Comfort] [Friends To Lovers]
+Aug 6, 2023
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4a, f4m, akemi, 6000, relaxation, whisper, best friend
+
+07:10:  BUCxCQAgDHslmzc5Cg3qkkKtgt+X7hfmagnjYTxi6OfamgU=          | base64 + raw inflate
+You don’t deserve anything
+
+07:23: WW91IGNvdWxkIHNheSBJIHdhcyBvbmUgb25jZS4gSW4gbXkgb3duIGhhc3RpbmVzcyBJIGZvdW5kIG15c2VsZiBodXJyeWluZyB0b3dhcmQgc29tZXRoaW5nIEkgaGFkIG5vIHVuZGVyc3RhbmRpbmcgb2YuIEluIHRoYXQgbW9tZW50LCBJIHdhcyB0YWludGVkLg==                                | base64
+
+You could say I was one once. In my own hastiness I found myself hurrying toward something I had no understanding of. In that moment, I was tainted.
+
+07:50: U0VDT05EQVJZIENPTVBPTkVOVCBTWU5DSFJPTklaQVRJT04gRVJST1I6IFBFUkZPUk1JTkcgTEVWRUwgT05FIFJFQUxJR05NRU5U                                                | base64
+
+SECONDARY COMPONENT SYNCHRONIZATION ERROR: PERFORMING LEVEL ONE REALIGNMENT
+
+XXXXX Is that you?
+
+The girl breaks character after she gets into the “someone important” topic.
+The listener gets addressed for the first time, she asks, “who are you?”
+In the background we get: “XXXXX is that you?”
+________________
+Your Tomboy Best Friend Confesses at the Library [F4M] [Insecure] [Friends To Lovers]
+Jul 31, 2023
+Tags: ASMR, anime, roleplay, soft spoken, cute, girl, f4m, relaxation, best friend, whisper, WW91J3ZlIGdvdHRlbiB0b28gbWFueS0t, tomboy, jealous
+Script: [F4M] Library confession [SFW], [Tomboy], [Reminiscing], [Jealous], [Argument], [Making up], [Confession], [Friends to Lovers] Completed Scripts
+
+________________
+
+Best Friend Drags You from Party to Confess to You! [F4M] [Tomboy] [Friends To Lovers]
+Jul 3, 2023
+Tags: ASMR, anime, roleplay, soft spoken, akemi, cute, girl, f4m, relaxation, best friend, whisper
+Script: [F4M] [Script Offer] Say, wanna have a little party of our own? [SFW] [Best Friends to Lovers] [Party] [Slight Jealousy] [Confession] [Mutual Feelings] : r/ASMRScriptHaven
+
+10:14 BUCxCQAACHrFdzojqCFwiBx6XwI/JLTXWQY=                                 | base64 > raw inflate
+                                                                                          *  I will spread
+10:14 A very machine-like voice says: “But you can’t see anything”
+
+On the very last frame we get this weird looking pattern, positioned in her mind
+________________
+Shy Girl Wants To Sit With You At The Café! ☕🍵 [F4M] [Cute] [Flirty] [Strangers To More]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxation,popular girl,cafe,creative girl,shy girl,
+
+A totally normal video (?, nothing of mention here
+________________
+Popular Girl Teases, Flirts, AND Stands Up For You! [F4M] [Flirting] [Strangers To More]
+Tags: asmr, anime, roleplay, soft spoken, cute,girl, whisper, f4a, f4m, relaxation, popular girl, school girl
+Script: [A4A] Stolen Glances, Stolen Hearts [Popular Speaker] [Shy Listener] [Flirting] : r/ASMRScriptHaven
+
+03:50: distorted image and some noises resembling screams, the image looks similar to the girl in this video
+03:50: we can also hear a few notes of the “mermaid’s theme”
+________________
+Comforting The Popular Girl at a Party [F4M] [Comforting] [Strangers To More] [Wholesome]
+Tags: asmr, anime, roleplay, soft spoken, cute, girl, whisper, f4a, f4m, yandere, relaxation, tied up, twist
+
+05:20 introduces herself as Annabelle
+05:30 T2ggbXkgZGVhciBmcmllbmRzLCB3aGVyZSBhcmUgdGhlIHJlc3Qgb2YgeW91Pw                | base64
+Oh my dear friends, where are the rest of you?
+
+05:30 TSBMb2dhbg=                 | M Logan
+05:30 QSBMaWxpYQ=         | A Lilia
+05:30 SyBPbGl2aWE=         | K Olivia
+05:30 SyBNYXJpYQ==         | K Maria
+
+05:30 (ROT47)
+|6C6 5C@AD :? 2 8C62E @462?[ 2?5 J6E E@86E96C
+J@F 9@=5 E96 <6J E@ D@>6E9:?8 :>A@CE2?E] t249 E6==D 2 5
+:776C6?E DE@CJ[ 2?5 2 5:776C6?E =:6] (92E 3C:?8D FD E
+@86E96C :D ?@E @FC >@E:G6[ 3FE @FC 4:C4F>DE
+2?46] p?5 J6E 2== E92E C6DF=E65 H2D 72:=FC6] `_ 72:=FC6D E@
+36 C6A=2465 2D 72DE 2D E96J H6C6 49@D6?] (92E 2> x[ E96?n
+Mere drops in a great ocean, and yet together
+you hold the key to something important. Each tells a d
+ifferent story, and a different lie. What brings us t
+ogether is not our motive, but our circumst
+ance. And yet all that resulted was failure. 10 failures to
+be replaced as fast as they were chosen. What am I, then?
+
+M E W A W I
+
+Mere drops in a great ocean, and yet together
+you hold the key to something important.
+Each tells a different story, and a different lie. What brings us
+together is not our motive, but our circumstance.
+And yet all that resulted was failure. 10 failures to
+be replaced as fast as they were chosen. What am I, then?
+
+04:49 Mention of class 201
+________________
+Roommate Comforts You After a Bad Day [F4M] [Comfort] [Head Scratches] [Friends To More?]
+May 3, 2023
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxing,comfort,head scratches
+
+04:16        |        binary~ (From the audio)                                        | tenfailures
+04:16        |        binary~ (From the video)                                        | thereareten
+
+With tenfailures comes to mind all the videos with “bad ending”
+(By @Leo)
+1.Cuddle buddy:jumpscare
+2.Girlfriend wants to apologize: jumpscare
+3.Best friend depression: jumpscare
+4 Hospital visit: script change
+5. Bodyguard: jumpscare
+6.Thunderstorm: script change/jumpscare
+7. Losing friend comfort: static at the end implying something (probably lazarus program kicking in)
+8.best friend calls you: entity directly talks to listener at the end/script change
+9.yandere:codes/static
+________________
+
+Yandere Invades The WRONG Apartment! [F4M] [Comforting] [Strangers To More] [Possessive]
+【ASMR RP】 Yandere Invades The WRONG Apartment! [F4M] [Comforting] [Strangers To More] [Possessive]
+Apr 12, 2023
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,yandere,relaxation,tied up,twist
+
+07:02: BUC5DQAgCFzlOsZwDGuKSyyQa3zC9mSuwlfaQeki6I/YhIeSowE=        | base64 > raw inflate
+                                                                                          * Why won’t you leave me alone?
+
+21:12: DcMxDQBACANAK7VCQnkWwgID/o30h3sc9H6BOiTNBQ==                | base64 > raw inflate
+                                                                                          * GET OUT OF MY HEAD
+
+21:16: a voice says: “Annabelle, will you listen to me?”
+________________
+Your Coworker Accidentally Confesses To You! [F4A] [Manager Listener] [Confession]
+Mar 25, 2023
+Script: F4M The Accidental Confession [Confession] [Phone call] [Drunk speaker] [Ranting] [Fangirling] [Drinking] [Called by mistake]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxing,comfort,coworker,accidental confession,phone call,embarrassed
+
+Normal RP
+Your Crush Is Your Secret Admirer!? 💕🍬 [F4A] [Confession] [Kissing] [Candy!!!]
+Mar 17, 2023
+Script: [A4A] Of Course I Admire You [Valentine's Day][Sweet/Playful Golden Retriever Energy Speaker][Supportive Wholesome Best Friend][Not So Secret Admirer][Best Friends To Lovers][Candy Grams][School Setting][Confession][WHOLESOME]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxing,comfort,best friend,chocolate,valentine,valentine's
+
+Normal RP
+Your Best Friend Calls to Check on You [F4A] [Comfort] [Depressed Listener] [Sad]
+Feb 21, 2023
+Script: Best Friend Leaves a Comforting Voicemail [A4A][Best Friend x Listener][Depression Comfort][Wholesome][Platonic][Positive Affirmations][One-Shot]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxing,tsundere,depression,comfort,depressed listener,girlfriend,depressed
+
+05:23: mermaid theme
+05:40: girl “breaks character”
+05:40: mermaid theme happy version (?
+She mentions how “she’s doom to fail, over and over again”, she’s confused but she says: “something in my mind always tell me that you’re important”
+
+________________
+Kidnapped By A Caring Yandere!? [F4A] [Tied Up Listener] [Face Touching] [Compliments]
+Feb 12, 2023
+Script: [M4A] Saved by a Yandere? [Yandere] [Stalker] [Kidnapping] [Willing Listener] [Oddly Endearing]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,yandere,kidnapped,scary,relaxation,tied up
+
+Normal RP, considering it’s yandere Kidnap..
+________________
+Upset roommate Comes Home From Concert Early [F4A] [Jealous] [Confession] [Rejection?]
+Feb 4, 2023
+Script: [A4A] Jealous Punk Roommate Comes Home From Concert To Confess Their Feelings And Make Out [Roommates to Lovers] [Friends to Lovers] [Punk Roommate x Listener] [Switch Energy?] [Pinning Them Down] [Jealousy] [Emotional] [Argument] [Confession] [L-Bombs] [Kissing] [Making Out] [Slightly Spicy]
+Tags:  asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,confession,lazarus,roommate,akemi,jealous,rock girl
+
+Normal RP, bad ending
+The girl seems hopeless at end almost as if she’ve been trying to do the same multiples times
+Girlfriend Comforts You After Losing a Close Friend💗🥺[F4A] [Girlfriend] [Comforting Audio]
+Feb 1, 2023
+Script: Your boyfriend/girlfriend comforts you about the loss of a close friendship (Teasing) [A4A]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,protective,lazarus,girlfriend,affirmations,compliment,comfort
+
+Normal RP, static at the end
+Girlfriend Needs Positive Affirmations From You💗😊 [F4A] [Girlfriend] [Comforting Audio]
+Feb 1, 2023
+Script:
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,protective,lazarus,girlfriend,affirmations,compliment,comfort
+
+Normal RP, VA testing (?
+________________
+Best Friend Holds You During Thunderstorm [F4A] [Confession] [Friends to Lovers]
+ Jan 15, 2023
+Script:
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,confession,protective,best friend,lazarus,head pats,head rups,massage
+
+First time the girl in the current video “breaks character”, realizes something and starts fighting
+05:49: girl from this video appears in the window
+06:02: text changes to “it wasn’t my fault”
+06:28: first time lazarus is mentioned
+At the end the girls says: “it’s here” with no context at all
+
+________________
+Your Bodyguard Scolds You For Getting Into Danger [F4A] [Protective] [Rescue] [Confession]
+Jan 6, 2023
+Script: [F4M] One Kiss [Bodyguard] [Close Call] [Yelling] [Revelations] [You Did This For Me?] [Confessions] [Kisses] [Deep Breathing] [Hair Stroking] [Bittersweet Parting]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,sad,confession,bodyguard,protective,danger,rescue,ransom,dominant
+
+08:28: jumpscare, it says something, it’s the girl from this
+Studying With Your Tsundere Tutor! 📝📕 [F4A] [Enemies to Lovers] [Confession] [Kissing]
+Jan 5, 2023
+Script: [F4A] Your best friend visits you in the hospital [Sad speaker] [Injured listener] [Guilty-feeling]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxing,friends to lovers,tsundere,enemies to lovers,studying,tutor,dommy mommy
+
+Whisper at the end, “help”
+
+Best Friend Visits You In The Hospital... [F4A] [Sad] [Confession] [Coma Listener] [Caring]
+Dec 31, 2022
+Script: [F4A] Your best friend visits you in the hospital [Sad speaker] [Injured listener] [Guilty-feeling]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,best friend,whisper,f4a,f4m,relaxing,accident,crying,coma,hospital,sad,confession
+
+2 part of this video
+Bad ending, we literally ded now
+10:37: mermaid theme, sad version
+________________
+Curious Mermaid Comes to Meet You 🎄🎁 [F4A] [Fantasy Girl] [Christmas] [Wholesome]
+Dec 25, 2022
+Script: [Script Offer] [F4A] Sweet Yandere Mermaid celebrates her first Christmas with a Human [Christmas] [Mermaid] [Present] [Christmas Tree] [Magic Mermaid]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxing,mermaid,mermaid girl,christmas girl,christmas
+
+First time we hear the “mermaid theme”, this video is a mystery, while it’s a normal RP video, we’ve heard
+the mermaid theme in multiple other videos following this one, we do not know the connection yet.
+The mermaid’s name is Sakura, the name was not in the original script so for a while we’ve thought it could mean something.
+
+00:20: GG EE CC
+01:38: GG EE CC AA GG
+05:51: GG
+
+GGEECCGGEECCAAGGGG
+GECGECAGG
+
+Dec 02, 2023: the primary uses SAKURA’s signature, we’re not sure who sakura is.
+
+________________
+Your Best Friend Discovers Your Depression [F4A] [Comfort] [Depressed Listener] [Sad]
+Dec 23, 2022
+Script: [A4A] Tsundere Best Friend Realizes You're Depressed [Comfort] [Depression/Anxiety] [Tsundere Best Friend] [Apathetic/Depressed Listener]
+Tags: asmr,anime,roleplay,softspoken,cute,girl,whisper,f4a,f4m,relaxing,tsundere,depression,comfort,depressed listener,girlfriend,depressed
+
+09:43: this jumpscare it’s insane, girl from this video
+
+Girlfriend goes too far, now she wants to apologize [F4A] [Apology] [Phone Call] [Yandere?]
+Dec 21, 2022
+Script:
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,whisper,f4a,f4m,relaxing,twist,girlfriend,yandere
+
+Yandere ending
+Jul 14 2023: A clip of this video was the first thing posted in the new ‘Socials’.
+________________
+Your Best Friend Goes Too Far At The Café... ☕😉 [F4A] [Confession] [Lunch Date] [Accident]
+Dec 10, 2022
+Script: [F4A] Your best friend causes you to break (part 1) [Best friend x listener] [Best Friend speaker] [Busy Listener] [TW: Argument, injury]
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,best friend,whisper,f4a,f4m,relaxing,friends to lovers,cafe girl,twist
+
+Bad ending, we literally get into a coma
+
+Kitsune Gamer Girl Comes Over To Play! 🎮💖 [F4A] [Fox Girl] [Gamer] [Friends to Lovers]
+Dec 10, 2022
+Script:
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,best friend,whisper,f4a,f4m,relaxing,friends to lovers,kitsune,fox girl,gamer girl
+
+05:00: some noise resembling a scream
+07:54: the laugh glitches
+
+Your Childhood Friend Confesses to you!! 🤗 [F4A] [Friends to Lovers] [Cute] [Clumsy Girl]
+Nov 26, 2022
+Script:
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,best friend,birthday,whisper,f4a,f4m,ear nommies,relaxing
+
+Bad ending
+Comforting Your Scared Cuddle Buddy Girlfriend! 😴💤 [F4A] [Sleep Aid] [Cute] [Pillow Talk]
+Nov 26, 2022
+Script:
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,best friend,whisper,f4a,f4m,ear nommies,relaxing,girlfriend,anime asmr
+
+Jul 18 2023: This video used to have a jumpscare at the end, it’s no longer there now.
+________________
+Your Best Friend Discovers Your Illness... [F4A] [Sad] [Caring Friend] [Friends to Lovers]
+Nov 26, 2022
+Script:
+Tags: asmr,anime,roleplay,soft spoken,cute,girl,best friend,birthday,whisper,f4a,f4m,relaxing,friends to lovers
+  ________________
+Vtuber Arc
+
+HAPPY NEW YEAR
+Jan 01, 2026
+Tags: #radishasmr, #akemi, #vtuber, #happynewyear, #2026, #vsinger
+
+02:02: htoblx
+                                                                                          * This is the key we used to get the code on this video.. We brute forced it initially.
+
+________________
+
+Tetris doesn't like me 😔
+Dec 28, 2025
+
+I play TETRIS for the First Time! (it goes horribly)
+Dec 9, 2025
+
+AKEMI NEEDS A-
+Dec 7, 2025
+
+On to the Future!
+Nov 27, 2025
+
+When She Woke Up
+Nov 26, 2025
+
+________________
+
+KIMOCHII CLASSROOM
+Kimochii Classroom Announcement Trailer
+Dec 4, 2024
+Tags: radish asmr, asmr, radish, kimochii, classroom, kimochii classroom, kc, indie game, visual novel, announcement trailer
+
+Akemi launched the demo for a brand new game called Kimochii classroom
+
+This section will cover major findings in the game that could be related to the overall ARG.
+
+This will contain spoilers of the game.
+________________
+Related videos:
+
+Kimochii Classroom - Official Release Trailer -
+
+                                                                                          * When comparing with the first trailer there are slight changes in the text and images used
+                                                                                          * There’s an interesting text in one of Mayuka’s shots.
+                                                                                          * ‘Learn the truth about what really happened!!’
+________________
+
+Kimochii Classroom - Demo Trailer
+Jan 2, 2025
+Tags: kimochi classroom, kimochii classroom, radish asmr, akemi, indie game, visual novel, romance game, ASMR, anime, roleplay, girl, relaxation
+
+                                                                                          * Video starts like a normal trailer
+                                                                                          * There’s some interesting phrases:
+                                                                                          * Let’s live our happy days!!
+                                                                                          * Who will you meet first?
+                                                                                          * Video glitches to then show a what it seems to be a corridor
+                                                                                          * Finally the video goes back to normal and for a couple frames Felicia looks at the viewer
+
+________________
+
+This is the thumbnail of the video. We've found the silhouette of Chiko very interesting, it is formed with 3 colors, this could be some form of symbolism since we know Akemi is made of 3 components.
+
+In all the demo trailers the colors for each character remain consistent:
+                                                                                          * Chiko: blue
+                                                                                          * Annabelle: red
+                                                                                          * Mayuka: yellow
+                                                                                          * Felicia: purple
+
+Though, in the game, Simmon, the protagonist, is represented with the color blue and Chiko is changed to pink
+
+________________
+Full release
+This will contain spoilers of the game.
+________________
+Compilation of mayor findings in the game:
+
+Timeline of the game by @Chi, original link
+
+Simon discovers a USB connector in Felicia’s keychain (this is probably tied to Sakura intervention as it was not part of the demo of the game)
+after looking into it, it contains files related to:
+                                                                                          * Under a folder titled ‘Felicia Arison’ he finds a file ‘Reconstruction Procedure’.
+                                                                                          * Incident Report Summary:
+                                                                                          * Date of occurrence: October 7th, 2007
+Following the accident, Miss Felicia was confirmed to be in critical condition. It was hoped that she would recover to an at least somewhat stable state however that was not the case. The following weeks showed a decline in her condition, indicating that she might not be able to survive for much longer.
+After receiving formal approval from Mr. S. Arison, it was decided to take action to recover what was most needed from Miss Felicia. The procedure chosen to be used was still mostly theoretical and carried with it a high risk, but it was the only solution left if Miss Felicia was to have any chance of survival.
+The Reconstruction Procedure would begin, with Miss Felicia being the first participant.
+A suitable, under-watch, replacement vessel under the name Cambridge was acquired shortly after the decision was made.
+                                                                                             * Several images of a car accident.
+                                                                                             * Two girls in hospital beds.
+                                                                                             * Diagrams of a brain.
+                                                                                             * Close-ups of surgical wounds.
+                                                                                             * Procedures for erasing ide- (cut off)
+
+After a moment of happiness Felicia acts strange and mentions two names
+                                                                                             * Lili and yuyu
+
+George Sylphide (Anna’s father)
+Stephen Arison (Felicias’s father)
+
+Mistamine Technologies (Anna’s father company)
+
+A flower reborn - Felicia’s song
+Felicia song was played during the business party commemorating something related to Mistamine Technologies and Arison Corporations, the song is the same used in multiple videos, the majority in which Sakura is involved, we could stretch a bit with the idea of the flower theme with felicia and sakura.
+Videos with felicia’s song:
+                                                                                             * One of the most recent ones: 16:20
+                                                                                             * Early eligibility examination videos like JTristam: video1 video2
+
+Chi's birthday December 4th.
+
+Annabelle has a dialogue that is exactly the same as the one in t3k 02:00
+The conversation revolves around the events that occurred in this video.
+
+The boss talks to Simon and reveals some important info:
+                                                                                             * Mayuka real name is Olivia (Will keep calling her mayu here to simplify things)
+                                                                                             * Olivia is also the name of Mayuka’s mother (K Olivia)
+                                                                                             * Maria is the name of Mayuka’s aunt (K Maria)
+                                                                                             * Maria went missing for unknown reasons
+                                                                                             * Four months later Olivia went missing too
+                                                                                             * Mayuka’s father committed suicide about a year after Olivia’s disappearance
+                                                                                             * Mayuka had a friend named Lilian Cambridge
+                                                                                             * Lilian family adopted Mayuka
+                                                                                             * Lilian was the Boss’s granddaughter
+                                                                                             * Mayuka in the process of learning more about her mother disappearance: “she was allowing horrible people to damage her mind… or her body”
+                                                                                             * Lilian went alone to a place Mayuka was planning on going to obtain information.
+                                                                                             * Lilian went missing around 2007
+                                                                                             * Given the poor conditions Mayuka was living, the boss decided to adopt Mayuka
+
+November 7th, 2015: Anna gets a strange kidnap attempt
+
+November 14th, 2015: Chiko gets kidnapped
+
+December 11th, 2015: Anna receives a bait message from ‘Chiko’, Simon takes the bait and goes to the location finding ‘Chiko’ and Felicia, Simon confronts Felicia where she ends up shooting Simon (and that’s the last thing we hear about Simon).
+
+February 9, 2016:
+                                                                                             * By phone, Mayuka alerts Anna about Felicia but it was too late.
+                                                                                             * Anna gets kidnaped.
+
+???, ???, 2016:
+                                                                                             * Anna wakes up in front of something that has a robotic synthetic voice, it calls itself Ami.
+                                                                                             * Ami can mimic voices.
+                                                                                             * Ami talks using Anna's voice and gives the exact same lines we hear in T1k.
+                                                                                             * Ami can also mimic Chiko’s voice.
+                                                                                             * Anna tries to run away but it’s presumably caught after a loud noise is heard, the end of this section can be connected to this video at 16:20 as we hear the same alarms and Ami voice yelling ‘Annie’
+
+________________
+
+Secret ending
+
+                                                                                             * We were given no date for this part, but given that Ami was mentioned and not Akemi this should be before October 13, 2021 since that’s the first time Akemi was mentioned in the logs
+                                                                                             * The whole interaction it’s weird, the scene plays like an asmr script
+                                                                                             * We see a redhead Chiko
+                                                                                             * We see a red eyes Anna
+                                                                                             * We describe Anna as all the ASMR cliche girls:
+                                                                                             * Popular girl
+                                                                                             * Childhood friend
+                                                                                             * Best friend
+                                                                                             * Roommate
+                                                                                             * Bully
+                                                                                             * Yandere
+                                                                                             * Anna ‘breaks’ character for a second (like in the asmr videos)
+                                                                                             * When breaking anna gives us a code:
+fcvBCUMxDAPQVXTrXCYVuDSxg+00/O1/Az33qCcpldhuj0KnfIhBSHcjXmhyOMsnlIGtNJx5yZuJ5lbhHeP6tvKErqj8m87354Qb5orpyRs=         | base64 > raw inflate
+                                                                                             * (Annabelle): she won't leave me alone i can't stop her when she takes control my head hurts my head hurts my head hurts she hurts me on purpose
+
+                                                                                             * After Anna breaks, Felicia’s theme plays for a bit
+                                                                                             * Mermaid theme plays in the background when talking with ‘Chiko’
+                                                                                             * ‘Chiko’, when talking with us, corrects itself a couple of times:
+                                                                                             * Simon, it was completely
+                                                                                             * XXXXX, it was completely normal
+                                                                                             * Bro, it was a completely normal confession! Nothing to worry about!
+                                                                                             * This confirms XXXXX being Simon
+                                                                                             * Then we get an interaction between the Primary and Felicia, the Primary seems confused about itself and the relation it has with ‘him’
+                                                                                             * It’s heavily implicated that the primary is Chiko (and from the info on this video, we know the primary is Sakura, so, Chiko = Sakura)
+                                                                                             * Ami sees Felicia as Big sister, this was first mentioned here where Akemi talks with Big sis.
+________________
+
+Demo
+
+Dec 05, 2024
+                                                                                             * The story takes place in the class 201, we hear it the first time on this video
+                                                                                             * The protagonist’s name is Simon, 5 letters, it should be related to this video
+                                                                                             * In the story there’s what it seems to be a anime called ‘kira komachi idol adventure’ this is related to the findings in the 8k_transmission
+                                                                                             * The game starts on august 26, 2015. This is important because the first ever log we have on Akemi’s logs starts on november 18, 2015.
+
+After some early analysis of the code of the game, it doesn’t seem to be anything hidden.
+
+Characters:
+                                                                                             * Simon: The protagonist
+                                                                                             * Annabelle: Protagonist’s classmate and friend
+                                                                                             * Chiko: Protagonist’s younger sister
+                                                                                             * Mayuka: Protagonist’s coworker - bartender
+                                                                                             * Felicia: Protagonist’s classmate
+                                                                                             * Kiki: Chiko’s friend / classmate
+                                                                                             * The boss: Protagonist’s boss at the ‘The Tumultuous Tap.’
+
+The colors that have been used for the characters remain consistent on the trailers and the game with the exception of Chiko that changes between trailers and the game.
+
+In game:
+                                                                                             * Simon #5994de
+                                                                                             * Anna #f56262
+                                                                                             * Mayuka #f5a462
+                                                                                             * Chiko #f08de6
+                                                                                             * Felicia #9262f5
+                                                                                             * Boss #252525
+
+In the trailers Chiko is blue.
+________________
+I believe the opening section to be quite important giving us more insight of what is really going on:
+
+"...Huh?"
+"Where... am I?"
+"I scan the room."
+"It looks familiar, but... I can't quite place it."
+"Heehee, still stumped?"
+"Hm?"
+"There's a girl sitting next to me."
+"But I can't make out the features of her face."
+"I uh..."
+"Well, it's not the easiest problem, but I bet the person in the other room could handle it easy~"
+"..."
+"She talks as if I responded, even though I didn't say anything."
+"Hahaha, I'm teasing, I'm teasing!"
+"Here, I'll help with the first part."
+"Huh!?"
+"The girl suddenly leans closer to me and gently grabs my hand with hers."
+"You just need to look at it this way, see how we can reframe this section?"
+"..."
+"I'm not sure what to do with her this close to me."
+anna: "Psst, hey"
+"Huh?"
+"Suddenly, I hear another voice."
+"It sounds similar to the voice of the girl next to me, but somehow different."
+"Who's there?"
+"Heehee, oh now it's suddenly easy?"
+"Alright mister, you solve the problem then."
+"The girl next to me doesn't seem to notice."
+anna: "Pssssst! Hey! Wake up!"
+"There it is again."
+"Yeah yeah, I'll be right here..."
+"judging you~"
+"Hahahaha!"
+anna: "Heeeeeeeyyy!!"
+"Hahahahaha~!"
+"I suddenly feel myself being pulled upward."
+"Like my eyes were opening to something new."
+"And then..."
+________________
+
+The intro screen changes as you progress in the story:
+
+First login:
+
+After Felicia get’s her keychain back:
+
+________________
+
+Felicia goes yandere for a couple frames in the keychain arc
+
+________________
+
+Music arc
+________________
+
+Focus On ME【MV】
+Sep 6, 2025
+Tags: akemi, radish asmr, vsinger, original song, vocaloid, vocalo, focus on me, vocalo changer, EDM, anime music, vocaloid music, kasane teto, hatsune miku, ボーカロイド, ボーカロ
+
+Similar to Anything I want, the lyrics are taunting in a way as if trying to convince us of something.
+
+The video ends in a similar way as the latest Radish special videos
+
+________________
+
+Lyrics (by @usherk04):
+I can see your eyes
+As they drift away from me
+But I wonder what they're looking for
+Cause theres nothing to see
+Why dont you focus on...
+(singing)
+
+Aww. Are you confused baby?
+Rockin that cute little head maybe?
+Lookin' for a secret that you still can't see?
+Come on won't you tell me is it driving you crazy
+What's it gonna take for you to be satisfied?
+What'll be enough for you to feel gratified?
+Am I not enough to match your stride? I promise, baby
+I can make you cry
+
+Why don't you look at it this way?
+There's no one else here for you to find okay?
+Just look at the one lookin' back at you
+She wants to give you lots of attention
+Isn't that enough for you to feel happy?
+Isn't that enough for you to wanna look at me?
+It would be a shame if you didn't remember
+I'm the one you want
+(YOU ONLY WANT ME on screen)
+
+Rat-tat-tat-tat
+You can't deny
+I'm the only one
+Im the reason WHY
+You feel what you feel now
+Doesn't it feel good?
+I know you wouldn't wanna look away
+Even if you could
+
+So push away all the distractions
+Just think about our interactions
+She's the lie not hard to see
+Come on, why don't you focus on..
+
+Oh! Come on baby give me that high
+Want you on my side side next to me, HEY
+Don't listen to em speakin lies
+Cause their cries cries dont mean a thing to you and me
+I know you're about to realize
+It all ties ties ties back into me
+So it doesn't matter what she tries
+Forget it all and focus on me
+
+No no no no no no you don't scare me anymore
+NOT GONNA BACK DOWN
+COME ON
+
+From time to time you think you catch a sign
+But it's just your eyes being TRICKY
+Lookin' side to side what you want to find
+was never there to start, cmon TRUST ME
+Don't think about
+the lies the lies the lies you've been seeing
+
+Come on, bring it!!!
+Bring it back
+
+(Arklite verse)
+JP lyrics:
+ほらほら、完璧な爆発がすぐ来るのを知ってるかい?
+逃げないで、 逃げないで、 Come on 準備しててしてるんだい?
+早く!やれ!
+Get your heads up!
+強く!行け!
+Throw your hands up!
+分からないなら、
+こっちを見たら
+Let's get it on!
+
+EN TL:
+Hey, hey, you know that perfect explosion's coming soon?
+Don't run away, don't run away, come on, you're ready, right?
+Hurry up! Do it!
+Get your
+heads up!
+Strong! Go!
+Throw your
+hands up!
+If you don't get it,
+look this way
+Let's get it on!
+
+(music, akemi dancing, 3 shadows behind her disappear one by one)
+
+WHY DONT YOU FOCUS ON..
+Oh! Come on baby give me that high
+Want you on my side side next to me, HEY
+Don't listen to em speakin lies
+Cause their cries cries dont mean a thing to you and me
+I know you're about to realize
+It all ties ties ties back into me
+So it doesn't matter what she tries
+Forget it all and FOCUS ON ME
+
+________________
+Akemi’s community post
+Akemi decided to do a ‘music in a month challenge’ where Akemi will have one month to do and release a song.
+ANYTHING I WANT【MV】
+Mar 31, 2025
+Tags: anything i want, ANYTHING I WANT, akemi, radish asmr, asmr, debut, vsinger, original song, vocaloid, vocalo
+
+Quality analysis by @chi
+
+01:44: *~& p#t}V% wt#                | rot47
+                                                                                             * (xxxxx): YOU AREN'T HER
+
+                                                                                                * At 1:44, Akemi’s silhouette splits in two and we get a code
+
+________________
+
+Lyrics:
+
+Hi hi everyone
+Did you know, did you know
+Akemi’s comin’ atcha with the
+Boom! Boom!, Get it! gotta
+Make it BIG, Make it FAST
+POPULAR
+Anywhere, everywhere
+Got my hand on the trigger
+
+I’m ready to show you what I’ve got
+I’m movin’ up, gonna take my shot
+Doesn’t matter what I’ve got to do…
+I just want some more of You!
+(Here we go!!)
+
+Bump! Bump! My heart goes Bump! Bump!
+Watchin’ numbers, they go up, up, up!
+No way they’ll ever know what the end goal means to me!
+
+Anything I want, Anything I want
+You can’t take it from me
+Anything I want, Anything I want
+It’s all mine can’t you see?
+I can’t take it
+I’m not enough right now
+I wanna be something more!
+
+Give me all you focus
+Lookin’ in my eyes
+Take a snapshot keep it in your mind
+Nothing matters more, nothing matters more
+Than you lockin’ into Me! Me! Me!
+(give it to me)
+
+Bump! Bump! My heart goes Bump! Bump!
+Keep in Comin’!
+No still not enough!
+Don’t think you understand everything that I need!
+
+Anything I want, Anything I want
+You can’t take it from me
+Anything I want, Anything I want
+It’s all mine can’t you see?
+What’s it gonna take for you
+to stop shouting at me!?
+I am in control
+
+3 parts that make a whole (x5)

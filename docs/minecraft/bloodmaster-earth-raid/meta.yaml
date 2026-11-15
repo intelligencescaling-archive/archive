@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bloodmaster-earth-raid
+category: doc
+title: BloodMaster - Earth Raid
+authors:
+- name: AppropriateRub6185
+  reddit: AppropriateRub6185
+  source: doc-text
+series:
+- minecraft
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1r5oWxnGkA4AAkIuhb3doOjEQiFfI15W-TtijWZk2NWU
+    google_id: 1r5oWxnGkA4AAkIuhb3doOjEQiFfI15W-TtijWZk2NWU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 45
+    words: 14527
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2425588
+      sha256: 46d6b7611400e71878ec46c8d894bd5d66ec6004df33f51c78f7002b9f4eebc1
+    - format: docx
+      name: document.docx
+      bytes: 1833890
+      sha256: fd34343aceab715c2d24692d7c157e4f68e284222a32f54eee8632ce058e9d8b
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1td5c1e/
+  note: 'Shared by u/Mohammedamine9 in a post on 2026-05-14: 3 docs for a Minecraft roleplaying characters (not mine)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

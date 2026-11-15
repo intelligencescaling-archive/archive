@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiyoko-otawara-doc
+category: doc
+title: Kiyoko Otawara doc
+authors:
+- name: Dedu Ly Britannia
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BSTFCmYe4EOghbPrRbNqqAY6Nlb6TLpp8z1FPucrQwM
+    google_id: 1BSTFCmYe4EOghbPrRbNqqAY6Nlb6TLpp8z1FPucrQwM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 10159
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 305820
+      sha256: 8e9500c87040f854239944ecf08d4d0b0155e89609e982ace019e6a6f4c75b57
+    - format: docx
+      name: document.docx
+      bytes: 33563
+      sha256: 0742450362c034096ab0de9efa83c4a0f58a9e1ccb2decaadc61185c46f9bcea
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1nut2cg/
+  note: 'Shared by u/EvenCountry7933 in a post on 2025-09-30: New edit promoting one of my recent documents (I scale Chishiya near Yuuichi and Light)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

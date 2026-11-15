@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akagi-urabe-mirroring-feat
+category: doc
+title: Akagi Urabe mirroring feat
+authors:
+- name: ResponseLower49
+  source: doc-text
+- name: Mob5850
+  source: doc-text
+series:
+- akagi
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_wKRV-U8koTwBGIGzHS0bx3YXbS3FUa5qTORm0dImjw
+    google_id: 1_wKRV-U8koTwBGIGzHS0bx3YXbS3FUa5qTORm0dImjw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 1513
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2214422
+      sha256: 015a9837ee4d5070f7a2b5296fa67842a3f08c3e2d5d4b2ba82b1294946cea7a
+    - format: docx
+      name: document.docx
+      bytes: 2154852
+      sha256: 7aecd424ef36230f1dd6bc4ce732de83df22e9d83a81bfb1f7aa1bf85f6c2509
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xhwn5z/
+  note: 'Shared by u/ResponseLower49 in a post on 2026-10-28: Small Akagi feat: post game Urabe psychoanalysis'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

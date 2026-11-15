@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: death-note-god-of-the-new-world-2
+category: story
+title: Death Note- God of The new World
+authors:
+- name: AnnualFrequent7426
+  reddit: AnnualFrequent7426
+  source: doc-text
+series:
+- death-note
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VUe3xGJgNmO6CuYFvCAsRfvu_JC6abDmUgoMtSHNmjw
+    google_id: 1VUe3xGJgNmO6CuYFvCAsRfvu_JC6abDmUgoMtSHNmjw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 55
+    words: 20753
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 907404
+      sha256: a6a93b4dfdc3f3034b3f20e62195878ee0dfca7f5b2e631b5aa86bb7b6ea2bb4
+    - format: docx
+      name: document.docx
+      bytes: 1887986
+      sha256: fd3eec2a494c9746bce6405bce2f4bc0d4965d51e734f65b35281300a69d39fe
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1r09gbv/
+  note: 'Shared by u/AnnualFrequent7426 in a post on 2026-02-09: Death Note fanfic Novel: I''ve already completed 13 chapters. Now I only need the final part, which i'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

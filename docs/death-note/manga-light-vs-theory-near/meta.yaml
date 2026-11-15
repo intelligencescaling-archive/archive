@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: manga-light-vs-theory-near
+category: doc
+title: Manga Light vs Theory Near
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- death-note
+characters: []
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1yj7pkJPVBRABhxwxPbSffSGA3lLj2SfcOPYZWXspwvs
+    google_id: 1yj7pkJPVBRABhxwxPbSffSGA3lLj2SfcOPYZWXspwvs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1368
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 135136
+      sha256: ab168d625ce515a7f9bc4467de09f89e724ff9c6c45bf271b23ba993a9ae1d3d
+    - format: docx
+      name: document.docx
+      bytes: 283111
+      sha256: 6298eccd60a2478c249a0502c975e4d5dcb6f313726544f9b956de545e03e292
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mnlo7m/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-11: Light Yagami(Manga+Analysis) vs Nate River(Theory) Full Scale'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

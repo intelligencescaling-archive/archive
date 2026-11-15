@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: circulation-time
+category: story
+title: Circulation time
+authors:
+- name: Zerozeroma
+  reddit: Zerozeroma
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GnGxtAhBgoUqgJSVhmNOtUasUXL_ugAMo0bsSml28xQ
+    google_id: 1GnGxtAhBgoUqgJSVhmNOtUasUXL_ugAMo0bsSml28xQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 35
+    words: 11700
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 363475
+      sha256: ce78ca69ec943d31c06b4413979c3bdcd31a883074a41cf9356df42bdf0a60a0
+    - format: docx
+      name: document.docx
+      bytes: 1497659
+      sha256: f5ac174dd3c69bd23cfede12855f038bf89c976255cba5c56e9399deb157ff55
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wfyq5s/
+  note: 'Shared by u/Zerozeroma in a post on 2026-09-14: My doc: Circulation time'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

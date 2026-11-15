@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chasing-whispers-1
+category: story
+title: Chasing Whispers 1
+authors:
+- name: Individual-Gap-105
+  reddit: Individual-Gap-105
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IIK5byOpwJ716BB2CEvzqCSLP5oZKyqqpA8iV8r2ZNU
+    google_id: 1IIK5byOpwJ716BB2CEvzqCSLP5oZKyqqpA8iV8r2ZNU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 248
+    words: 53012
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1727172
+      sha256: 75f0b07361c0649bd767b217023e3fe4906dc3e9ea7b7239c6a2a3632b9a951e
+    - format: docx
+      name: document.docx
+      bytes: 436799
+      sha256: 677578b763353731d9746b01f5a6b4ca3f58c7737fb1ad82d691c6fe7edb9ccc
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1i05dj2/
+  note: 'Shared by u/Individual-Gap-105 in a post on 2025-01-13: My Novel with SCD characters got longer.'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

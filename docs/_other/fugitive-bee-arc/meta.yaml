@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fugitive-bee-arc
+category: doc
+title: Fugitive Bee arc
+authors:
+- name: SNACK_com
+  reddit: SNACK_com
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1hnizOAeaXAuat4Mc709IAXhoaSgg5ZZI
+    google_id: 1hnizOAeaXAuat4Mc709IAXhoaSgg5ZZI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: png
+      name: Fugitive Bee arc.png
+      bytes: 10604182
+      sha256: e13967e7684eed439c8460aa01b80c8a7cc0d4a003784265a623669c13ac398f
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uhxg42/
+  note: 'Shared by u/SNACK_com in a post on 2026-06-28: Fugitive Bee Arc (Hal Analysis)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

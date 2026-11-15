@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-king-in-yellow-d3rlord3-doc
+category: doc
+title: the king in yellow & D3rlord3 doc
+authors:
+- name: Veneno
+  source: doc-text
+series:
+- minecraft
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11kopmx6DPFDOoYbcTMcYyy3KcXDpozcCXiHcspvpb_8
+    google_id: 11kopmx6DPFDOoYbcTMcYyy3KcXDpozcCXiHcspvpb_8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 3550
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1183432
+      sha256: a9997a0e7f74ea32edd4e2873aed44e4621dc802fb1db0cb0a22156d9ab63fcf
+    - format: docx
+      name: document.docx
+      bytes: 7823432
+      sha256: 4e51d04972d3d422c015b55c88d144e0783fbe4dd82a3475f99f001b06edf20b
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1oknww4/
+  note: 'Shared by u/Mediocre-Neat-1207 in a post on 2025-10-31: D3rlord3 & the king in yellow doc (searching for a world that doesn’t exist)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

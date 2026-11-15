@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-feats
+category: doc
+title: Fang Yuan Feats
+authors:
+- name: WestNo356
+  reddit: WestNo356
+  source: reddit-post
+series:
+- reverend-insanity
+characters: []
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Y3iNMwOdni1R8tNQ8zeBDJBG8xrM3CbPfT2ZD3gAX_A
+    google_id: 1Y3iNMwOdni1R8tNQ8zeBDJBG8xrM3CbPfT2ZD3gAX_A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8960
+      sha256: 2a40c887d0c5f3ecb46dd75da16338eb53abf5c8d861ebf65daac6ecfda55c91
+    - format: docx
+      name: document.docx
+      bytes: 6516
+      sha256: 1d16292e9ef099b70b5a21f77d82be92d8e0c4238d9caeaa6776e085727966fe
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mgazf2/
+  note: 'Shared by u/WestNo356 in a post on 2025-08-03: What the hell?! People on this subreddit used to have some really horrible takes on Fang Yuan 🤦‍♂️ H'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

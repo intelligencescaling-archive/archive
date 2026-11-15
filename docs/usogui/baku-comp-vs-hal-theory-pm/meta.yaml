@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-comp-vs-hal-theory-pm
+category: doc
+title: Baku(Comp) vs Hal(Theory+PM)
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- usogui
+characters: []
+tags:
+- matchup
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1SBqt_H4DgAv5_ofAfrZmKxvhg03cql7VUtZL8AVPLx4
+    google_id: 1SBqt_H4DgAv5_ofAfrZmKxvhg03cql7VUtZL8AVPLx4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 193
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 107584
+      sha256: 7b907031763e7fe03dccfeb0b2bee2086d74a1c644e37c11eaa2e9320361d2fd
+    - format: docx
+      name: document.docx
+      bytes: 605500
+      sha256: 7f471e2cad31a94a68cc50648f1d7db844fc3b44de2a5c11f729031f04d7646c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ntlfqq/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-09-29: After my 4th year in SCD, here is finally my Baku vs Hal take. Baku(Comp) vs Hal(Theory+PM) Full Sca'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

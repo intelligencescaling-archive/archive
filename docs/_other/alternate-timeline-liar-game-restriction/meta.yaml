@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: alternate-timeline-liar-game-restriction
+category: doc
+title: 'Alternate Timeline Liar Game: Restriction'
+authors:
+- name: ReverseFlash928
+  reddit: ReverseFlash928
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WYF-r35JkBlNP7DSMEhTNA9Gl2CcycmvXFoxMR80M_M
+    google_id: 1WYF-r35JkBlNP7DSMEhTNA9Gl2CcycmvXFoxMR80M_M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1014
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 135841
+      sha256: 8ff400e8be138d88d1c9fe1f6df5f3f0bbe06d67a75a4b2491c591eb7543f33c
+    - format: docx
+      name: document.docx
+      bytes: 625176
+      sha256: 9774909b0f20c0815fafca41e1271ba74a75a229623014e3f6b4ae61fe6b5776
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1jscz94/
+  note: 'Shared by u/ReverseFlash928 in a post on 2025-04-05: The main game, Restriction, is now active!'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

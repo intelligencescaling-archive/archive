@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-case-2
+category: doc
+title: KANADE CASE
+authors:
+- name: Chenr30829
+  reddit: Chenr30829
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15i2zdajVHi-k5Yo4dLAbzbg7px1qTE5II3AHFORgUOY
+    google_id: 15i2zdajVHi-k5Yo4dLAbzbg7px1qTE5II3AHFORgUOY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 5165
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 175846
+      sha256: 128b9c365679214c3f14334d5805877924261c304101fa692ba9839b483cca14
+    - format: docx
+      name: document.docx
+      bytes: 331180
+      sha256: f507d66f662884e3e7c0feb08e3b3c80bb1ae99f9d389f7ea04ad28a663198d0
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1u2euol/
+  note: 'Shared by u/Chenr30829 in a post on 2026-06-10: ANALYSIS ABOUT SDRA2'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

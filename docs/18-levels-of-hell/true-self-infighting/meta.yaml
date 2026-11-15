@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: true-self-infighting
+category: doc
+title: True Self Infighting
+authors:
+- name: sonder
+  source: doc-text
+- name: sojikoji <3
+  source: doc-text
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1uMdAiZdZFSCYAhIL1X8RsYoT8v-bCuX7xP18dvpBbCU
+    google_id: 1uMdAiZdZFSCYAhIL1X8RsYoT8v-bCuX7xP18dvpBbCU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 157
+    words: 83020
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2332201
+      sha256: 9e3e0179f4f72a700188d7708bddaab062d28e4eb65f6e98a39334cbbd9bf94b
+    - format: docx
+      name: document.docx
+      bytes: 176728
+      sha256: 3e71a4fe3c320b18e2a9b46bcdd4baa8afcabf00b8f71d4160ac3b1106fdf68c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x9qnon/
+  note: 'Shared by u/Simply_Amazing_1610 in a post on 2026-10-19: All the analysis done on Chen Ran and Eighteen Levels of Hell linked'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

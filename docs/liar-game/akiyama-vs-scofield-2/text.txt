@@ -1,0 +1,418 @@
+FULL SCALE Akiyama vs Scofield
+
+○FSIQ●
+
+Extras
+Similarities Scofield
+ComprehensionScofield
+InformationScofield
+VocabularyScofield
+CodingAkiyama
+Symbol SearchScofield
+CancellationAkiyama
+Digit SpanScofield
+Picture SpanScofield
+Auditory Processing IndexScofield
+Auditory Working MemoryScofield
+Quantitative ReasoningAkiyama
+Short Term MemoryAkiyama
+Letter-NumberSequencingScofield
+Information ProcessingScofield
+Matrix ReasoningAkiyama
+Figure WeightsAkiyama
+Picture ConceptsScofield
+ArithmeticAkiyama
+Block DesignScofield
+Visual PuzzlesScofield
+
+General Fsiq Category
+VCI(Verbal Comprehension Index)Scofield
+PRI(Perceptual Reasoning Index)Scofield
+NVI(Non-Verbal Index)Akiyama
+VSI(Visual Spatial Index)Scofield
+WMI(Working Memory Index)Akiyama
+PSI(Processing Speed Index)Akiyama
+CFI(Cognitive Flexibility Index)Scofield
+FRI(Fluid Reasoning Index)Akiyama
+CRI(Crystallized Reasoning Index)Scofield
+GAI(General Ability Index)Akiyama
+CPI(Cognitive Proficiency Index).Akiyama
+EFI(Executive Functioning Index).Akiyama
+
+FSIQ.Scofield>=
+
+○Overall Intel●
+
+Fluid. Akiyama
+
+Crystallized. Scofield
+
+Extras Scofield
+
+Learning.AbilityScofield
+GneralKnowladgeScofield
+Memory.Scofield
+General Adaptation.Scofield
+MultiTask.Akiyama
+CognitionScofield
+G Factor.Akiyama
+Logic.Scofield
+Innovator]Akiyama
+
+Gardner(Akiyama
+Linguistic-verbalScofield
+Logical-mathematicalAkiyama
+Visual-spatialScofield
+Body-kinestheticAkiyama
+MusicalScofield
+InterpersonalAkiyama
+IntrapersonalAkiyama
+NaturalisticScofield
+ExistentialAkiyama
+
+Overall Intel .Scofield
+
+○Overall EI●
+
+EP(Akiyama
+Observation of Emotions.Akiyama
+Interpretation of Emotions.Akiyama
+Nonverbal EP.Akiyama
+Verbal Ep.Scofield
+Deception Detection.Akiyama
+Analyse Realization of Emotions.Akiyama
+Emotional Distillation.Scofield
+Understand The Personality)Scofield
+İntuition Of Emotion.Akiyama
+EU.Akiyama
+Understand Ideology.Akiyama
+UnderstandingProgressionofEmotions.Akiyama
+Insight of Emotions.Akiyama
+Comprehension of Emotions.Akiyama
+Emotional Vocabulary.Scofield
+Causal Understanding.Akiyama
+Allocation of Emotions.Akiyama
+Emotional Foresight.Scofield
+UnderstandBackstory.Akiyama
+Understandweakspot.Scofield
+Understand the EventScofield
+EF.Cgew
+Emotional Enaction .Scofield
+Strategic Use of Emotions.Akiyama
+FacetoFace.Akiyama
+Emotional Settletment.Scofield
+Emotional Manipulation.Scofield
+Indoctrination.Akiyama
+Emotional Collapse.Scofield
+Individual.Scofield
+General.Akiyama
+Using Weak spot.Akiyama
+EM.Scofield
+Self Regulation.Scofield
+Emotional Control.Scofield
+Emotional Governance.Scofield
+Emotional Resilience.Scofield
+Emotional Creativity.Scofield
+Emotional Flexibilty .Scofield
+General Managment.Scofield
+General Emotional Adaptability.Scofield
+EE.Scofield
+Cognitive Use of Emotions.Scofield
+Diversity of Emotions.Scofield
+Task Completion.Scofield
+Emotional Fluency.Scofield
+Motivation.Scofield
+Realization of Emotions.Scofield
+Use the Emotional Creativity.Akiyama
+Emotional Adaptability(New Things).Scofield
+Empathy.Akiyama
+Harmony of the Emotions.Scofield
+Use of Emotions.Scofield
+Can Be Motivete.Scofield
+ER.Scofield
+Self-Awareness .Scofield
+EmotinalCognination .Scofield
+Internal perception.Scofield
+Analyse  Realization of own Emotions.Scofield
+Internal understandingScofield
+Understanding Progression ofEmotions
+Insight of Emotions.Scofield
+Comprehension of Emotions.)Scofield
+
+Overall EI . Scofield
+
+○Overall SI●
+
+Social Awareness .Akiyama
+Leadership Akiyama
+Influence BuildingScofield
+Social Influence .Scofield
+Social Skills Akiyama
+Social Engineering .Akiyama
+Social Adaption .Scofield
+Social Cognition .Akiyama
+AuraScofield
+Seduction .Akiyama
+Charisma .Scofield
+Social Arrangement.Akiyama
+Social Intuiton.Akiyama
+Social process adaptation.Akiyama
+
+Overall SI .Akiyama
+
+○Overall Ac●
+
+Mental fortitude .Scofield
+Stress tolerance.Scofield
+Impulse management.Scofield
+Cognitive discipline.Scofield
+Composure.Scofield
+MotivationforAc.Scofield
+PerseveranceScofield
+Adap to PainScofield
+PainLevelScofield
+EscapeVelocityScofield
+
+Overall Ac.Scofield
+
+○Overall Thinking●
+
+Critical .Akiyama
+Abstract .Akiyama
+Associative .Scofield
+Holistic .Scofield
+Convergent .Scofield
+Application.Scofield
+Lateral.Akiyama
+Linear.Scofield
+Non-linear .Akiyama
+Analytical .Akiyama
+Conceptual Scofield
+Systematic.Scofield
+Divergent .Akiyama
+Innovative.Akiyama
+Metacognition .Scofield
+Detalized .Akiyama
+
+Overall Thinking .Akiyama
+
+○Overall Reasoning●
+
+Counterfactual.Akiyama
+Causal .Scofield
+Analogical .Scofield
+Numerical.Akiyama
+Illogical.Akiyama
+Logical.Akiyama
+Deductive .Akiyama
+Abstract .Akiyama
+Inductive .Akiyama
+Abductive .Scofield
+Deduction .Akiyama
+
+Overall Reasoning .Akiyama
+
+○Overall Deception●
+
+Misdirection .Scofield
+Fabrication .Scofield
+Concealment .Akiyama
+Unpredictable .Akiyama
+Acting skills .Akiyama
+Disguise .Akiyama
+Bluffing .Akiyama
+Poker Face .Scofield
+Info controlScofield
+Info Concealment .Scofield
+Info MakeScofield
+
+Deception .Cgew
+
+○Overall Manipulation&Methods●
+
+Mass .Akiyama
+Indirect .Scofield
+Direct .Akiyama
+Psychological .Akiyama
+Emotional .Akiyama
+Logical .Akiyama
+Illogical .Akiyama
+Event .Scofield
+Financial Manipulation Akiyama
+Information ManipulationScofield
+MindControl.Akiyama
+BrainWashing.Scofield
+Cognitive Manipulation.Scofield
+Indoctrination.Scofield
+Gaslighting .Scofield
+Guilt-Tripping .
+Triangulation .Scofield
+Silent Treatment Scofield
+Isolation Manipulation
+Seduction .Akiyama
+Love-Bombing .Scofield
+White Knight .Akiyama
+Scapegoating .Akiyama
+BlackMailing .Scofield
+
+Manipulation .Akiyama
+
+○Overall Strategy●
+
+Logistics  .Scofield
+Effectivness .Akiyama
+Efficiency .Scofield
+Adaptability .Scofield
+Execution .Scofield
+Forecasting Akiyama
+Shelding .Akiyama
+Lenght .Scofield
+Versality Akiyama
+Resillence.Akiyama
+Complexity.Akiyama
+Succes Rate.Akiyama
+
+Overall Strategy Akiyama
+
+○Overall Planning●
+
+Coverage Scofield
+Intricacies .Akiyama
+Invincibility .Akiyama
+Contingency .Scofield
+Preparation .Akiyama
+Short-Term Planning .Akiyama
+Long-Term Planning .Scofield
+Planning Complexity .Scofield
+Logical Prediction .Akiyama
+Execution .Scofield
+Succes Rate .Scofield
+
+Overall PlanningScofield
+
+○Counteraction●
+
+Risk TakingScofield
+ContingenciesAkiyama
+Improvising(Akiyama
+Traps evasion(Scofield
+Heuristic Methods .Akiyama
+Overcoming limitationsAkiyama
+UnpredictabilityAkiyama
+Counter .Scofield
+
+Counteraction Akiyama
+
+○Prep●
+
+Information ProcessingAkiyama
+IfluenceUsingAkiyama
+Risk calculationAkiyama
+Analytical Methods.Akiyama
+Analysis Akiyama
+(Prescriptive Analysis.Akiyama
+Diagnostic Analysis.Akiyama
+Descriptive Analysis.Akiyama
+Logical Analysis .Scofield
+Different Perspective Analysis.Akiyama
+Surface Analysis.Scofield
+Wide Analysis.Scofield
+Numerical analysis).Akiyama
+
+Prep .Akiyama
+
+○Field Skills●
+
+Continuity AdaptationScofield
+Decision MakingAkiyama
+Information Gathering.Akiyama
+Setting Trap.Scofield
+ManagmentAbilty.Scofield
+Empirical Methods.Scofield
+Tactics(.Akiyama
+Tactic Storage.Akiyama
+Multiple Tactics.Akiyama
+New Tactics.Akiyama
+Managing Tactics).Scofield
+
+Field Skills .Akiyama
+
+○Sensory/Instinct●
+
+Observation .Scofield
+Perception .Scofield
+Intuition .Akiyama
+Anticaption .Akiyama
+Insight .Akiyama
+
+Sensory .Akiyama
+
+○Psychology●
+
+General Psychological .
+Psychological Knowledge.Akiyama
+Psychological Warfare .Akiyama
+Psychological Awareness .Akiyama
+Profiling(.Akiyama
+Emotional profiling .Akiyama
+Personality profiling.Akiyama
+Social Profiling(.Akiyama
+Profiling the outcome of society's influences.Akiyama
+Profiling social causes of society).Akiyama
+Reading(.Akiyama
+Hot Reading .Akiyama
+Cold Reading .Akiyama
+People Reading .Akiyama
+Mind Reading.Akiyama
+Lie Reading).Akiyama
+
+Psychology .Akiyama
+
+○Situation●
+Strategic Progressive Games
+(Intel,Thk,Rsn,Strategy,Fieldskills)Cgew
+Realistic Wide World Games(Planing Manipulation,Prep,Ei,Si,Thk,Counter)Akiyama
+Fixed Situations
+(Fsiq,Intel,Thk,Rsn,sensory,Strategy,Counter,Fieldskills,Prep,)Akiyama
+Non-Fixed
+(Situations(Ei,Si,Counter,Thk,Rsn,Intel,instinct,Man,Dec,Psy,Plan)Akiyama
+Complex Situations
+(Fsiq,Intel,Thk,Rsn,Ei,Si,Man,Dec,Counter,Fieldskills,Psy,instinct,)Akiyama
+BackRoundSituations
+(Prep,Thk,Rsn,Sensory,instinct,Ei,Ac,psy)Akiyama
+Field Situatiouns
+(Man,Dec,Fieldskills,Strategy,Si,Ei,Ac,psy)Akiyama
+The Perfect Detective(Thk,rsn,fsiq,intel,prep,ac,sensory)Scofield
+The Perfect Manipulator(Ei,Si,man,dec,strat,plan,psy,counter)Akiyama
+AllPossibiltyAkiyama
+
+Situation .Akiyama
+
+Basic Outsmart Scaling
+
+FSIQ Scofield
+INTEL Scofield
+EI Scofield
+SI Akiyama
+AC Scofield
+THK Akiyama
+RSN Akiyama
+MAN Akiyama
+DEC Cgew
+PLAN Scofield
+STRAT Cgew
+PREP Akiyama
+COUNTER Cgew
+FIELDS Scofield
+SENSORY Akiyama
+PSY Akiyama
+SITUATIONS Akiyama
+
+WINNER Akiyama Very High diff
+
+Overall Category Scaling
+Akiyama 163
+Scofield 150
+WINNER Akiyama Extreme diff(-)
+
+Made by Yalvin Shoko Millennium Knight

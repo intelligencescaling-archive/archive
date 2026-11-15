@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-vs-johan-narravite-doc
+category: doc
+title: SCD vs Johan(Narravite)+Doc
+authors:
+- name: Millennium Knight
+  source: doc-text
+series:
+- monster
+- liar-game
+characters:
+- johan-liebert
+tags:
+- matchup
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1w8p7EU6kNB6RVdnb4ljQx_uP2dwChbD3zWUHkp-EI3s
+    google_id: 1w8p7EU6kNB6RVdnb4ljQx_uP2dwChbD3zWUHkp-EI3s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 767
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 119189
+      sha256: 1abd263fc0de301c592e94678bf8dced462d571026aa562c6c39e5d5fe027db1
+    - format: docx
+      name: document.docx
+      bytes: 155292
+      sha256: 14131313b540552bffb33cc493f6e939e59f620f86624bba103837c3203cdcf2
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l18r8l/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-06-02: Johan(Narravite+Doc) vs Scd Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

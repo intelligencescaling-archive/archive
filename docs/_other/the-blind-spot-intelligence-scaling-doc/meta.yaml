@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-blind-spot-intelligence-scaling-doc
+category: doc
+title: The Blind Spot Intelligence Scaling Doc
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  source: reddit-post
+series: []
+characters: []
+tags:
+- oc
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xcFBFHx31kSZrJOvsjrhQdu0Ek80iF28oEJtPuf-lvg
+    google_id: 1xcFBFHx31kSZrJOvsjrhQdu0Ek80iF28oEJtPuf-lvg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 8039
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2133781
+      sha256: 42fbb7c02397d8a39917b21b7a6aef8c6c47abab94ef1b838cfc79e55b032ede
+    - format: docx
+      name: document.docx
+      bytes: 1367819
+      sha256: 52283656f8c24ab44d453745b62dc7c7f7edf826b232eafa06eb57752ce4c025
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1q2sxgd/
+  note: 'Shared by u/Geolib1453 in a post on 2026-01-03: Back to Intelligence Scaling My Own OC: I like the feedback given on the last post, but I feel like '
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

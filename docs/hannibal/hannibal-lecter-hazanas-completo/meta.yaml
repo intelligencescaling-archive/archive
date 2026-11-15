@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-lecter-hazanas-completo
+category: doc
+title: Hannibal Lecter Hazanas Completo
+authors:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  source: reddit-post
+series:
+- hannibal
+characters: []
+tags: []
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1kolXXphgwkTYqPhghVndaKNsGrz1jfOh
+    google_id: 1kolXXphgwkTYqPhghVndaKNsGrz1jfOh
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 11648
+    files:
+    - format: docx
+      name: Hannibal_Lecter_Hazanas_Completo.docx
+      bytes: 263669
+      sha256: 7fe77803c4c713b9b6372b5ada59a2e210cb5d9f3d57d3fa3b23da2bcbb05ea2
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xcs95j/
+  note: 'Shared by u/Vincet_Qo in a post on 2026-10-22: Hannibal SOTL Documento'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

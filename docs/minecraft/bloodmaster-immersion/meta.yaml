@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bloodmaster-immersion
+category: doc
+title: BloodMaster - Immersion
+authors:
+- name: AppropriateRub6185
+  reddit: AppropriateRub6185
+  source: doc-text
+series:
+- minecraft
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1FKHe_IXRNW_HcJAOCg93tuNhVq-egIZ5ZZVECdtjIq8
+    google_id: 1FKHe_IXRNW_HcJAOCg93tuNhVq-egIZ5ZZVECdtjIq8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 30
+    words: 8657
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6588726
+      sha256: 8cbeec90ad1c964a6fb6491edcbc988c73582e5d92bb4de4ab30ef3b34b51aac
+    - format: docx
+      name: document.docx
+      bytes: 7434334
+      sha256: ce38d057f3afe0fb67efe3a54712178c2ff8340a75fbc826d3ce1d512402446e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1td5c1e/
+  note: 'Shared by u/Mohammedamine9 in a post on 2026-05-14: 3 docs for a Minecraft roleplaying characters (not mine)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

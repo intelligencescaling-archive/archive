@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lincoln-feats-list
+category: doc
+title: Lincoln feats list
+authors:
+- name: Historical-Fun-2618
+  reddit: Historical-Fun-2618
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1bmn-kqLUIElBnRFU_Qjc1J7nV9xYf8jHP3vwIm_30j0
+    google_id: 1bmn-kqLUIElBnRFU_Qjc1J7nV9xYf8jHP3vwIm_30j0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 3140
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 144130
+      sha256: 26764dd4255a4383b5fa987efb16c0099985123367c27af0186898cbf2a94d98
+    - format: docx
+      name: document.docx
+      bytes: 15757
+      sha256: 6484a3188543b4cb88d965cda7d017bc3cbed03cdfee9d6daf0fbebb4917787e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1saamow/
+  note: 'Shared by u/Historical-Fun-2618 in a post on 2026-04-02: How highly would you rate the Lincoln''s abilities?'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

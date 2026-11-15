@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: against-old-maid-doc
+category: doc
+title: Against Old Maid doc
+authors:
+- name: YujinDoro
+  reddit: YujinDoro
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RazNYTKwP3d2V_ufMHq2x5rzOirjRJ5Nrr_-QAgMtGQ
+    google_id: 1RazNYTKwP3d2V_ufMHq2x5rzOirjRJ5Nrr_-QAgMtGQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 6557
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 861137
+      sha256: 1f483f5f9dc35551c3ecf7c7a42052dae22a55098c5c1a18ac41c679909d485a
+    - format: docx
+      name: document.docx
+      bytes: 1004117
+      sha256: 72edb63a89591b58a72827b3d024591417b3ad231302ca82b943b92db7fd30cf
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xitsuu/
+  note: 'Shared by u/YujinDoro in a post on 2026-10-29: Against Old Maid Re-Analysis doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

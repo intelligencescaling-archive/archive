@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-vs-micheal-scofield
+category: doc
+title: Patrick Jane vs Micheal Scofield
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- the-mentalist
+- prison-break
+characters:
+- patrick-jane
+- michael-scofield
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jQCa79Y-n0EQfccalUOTAyWGFGUeuBidMslxZO9k9Mk
+    google_id: 1jQCa79Y-n0EQfccalUOTAyWGFGUeuBidMslxZO9k9Mk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 911
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 123199
+      sha256: c0d723131ee163edd59747dc7f654c3a060ce7e8123033d37e79c9e90e068a4e
+    - format: docx
+      name: document.docx
+      bytes: 282005
+      sha256: 341bfdbbc88f2c9e2cefb808a5bfccd9f9e97bfacd4b226e192044d780f1a976
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kpjywz/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-18: Patrick Jane vs Micheal Scofield Full Scale Doc(SCD ELIMNATION WHEEL PART 2[btw koji was eliminated]'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

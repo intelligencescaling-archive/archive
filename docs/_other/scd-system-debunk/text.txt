@@ -1,0 +1,63 @@
+SCD SYSTEM DEBUNK
+dc: trahai
+
+Today I'm going to debunk the scd system from the scientific point of view.
+
+Almost 100% of categories such as Planning, Thinking etc have NO incremental validity and mean literally NOTHING using them in any kind of situations.
+
+We will start with intelligence concepts.
+
+Myth 1: “EQ and SQ – are two different types of intelligence”
+
+NO. Works of Schulte, Ree, & Carretta 2004, Landy 2005, Conte (2005), Harms & Credé (2010), Joseph & Newman (2010), Antonakis (2004) show that EQ predicts nothing, it doesn't matter if a character or a real life person has high “eq” or “sq”, it wont predict shit and the value of construct is 0.
+
+Myth 2: Deduction, Abduction, Induction, Lateral Thinking are different types of categories.
+
+In CHC model logical inferences are single subfactor of Gf(FRI)
+Deduction and abduction are simply different types of problems solved by the same "processor" (G). Dividing Gf into 10 different types of thinking is meaningless.
+
+Myth 3: Strategy and Planning are stand-alone characteristics.
+
+There is NO separated Strategy and Planning factors in neuropsychology.
+Strategy = Gf (decision tree construction) + Gc (knowledge of game theory and military doctrines) + Conscientiousness / High Self-Control (discipline in executing a plan).
+The new scientific way to debate intelligence of characters:
+
+Old(pseudoscientific) SCD
+	Scientific equivalent
+	How to assess (Feats)
+	FSIQ / Fluid Intelligence / Reasoning
+	Gf (Fluid Reasoning)
+	The complexity and depth of logical chains constructed under conditions of incomplete information.
+	Crystallized / Knowledge / Experience
+	Gc (Crystallized Intelligence)
+	The volume of the knowledge base, narrow disciplines, languages, facts.
+	Processing Speed / Reaction
+	Gs (Processing Speed)
+	Speed ​​of making the right decision under tight deadlines.
+	Working Memory / Recall
+	Gsm (Working Memory)
+	The number of variables a character can hold in their head at once
+	Emotional Control / Composure
+	Low Neuroticism
+	The ability to remain cool and rational under conditions of lethal stress.
+	Adaptability / Creativity
+	High Openness/Gf
+	Flexibility of thinking, the ability to quickly abandon unworkable hypotheses.
+	Discipline / Execution / Long-term Plan
+	High Conscientiousnes/Gf,Gc
+	The ability to systematically follow a long-term strategy without disruption.
+	Manipulation
+	Low Agreeableness/ Gf,Gc
+	Willingness to use people as resources (Machiavellianism / Psychopathy).
+
+Nowadays in SCD, victory is often determined by a simple arithmetic calculation: “Character A took 12 categories out of 20 (FSIQ, EQ, SQ, Planning, Deception, Spatial, Reasoning, etc.), and Character B took only 8, so Character A won.”
+
+Problem 1: Equal Weighting Fallacy. In reality and in science, categories are NOT equivalent. The predictive power of Gf (fluid intelligence) in solving unfamiliar problems is ~70-80%, while a category like "Observation" or "EQ" without Gf produces around 0-5%. Equating 1 point for Gf to 1 point for "Spatial Awareness" is like equating 1 kilogram of gold to 1 kilogram of feathers simply because they are both "1 kilogram."
+
+Problem 2: Multicollinearity and Category Inflation. The current categories in the SCD are critically correlated with each other. If a debater gives a character points for Fluid Intelligence, Deduction, Induction, Abduction, Pattern Recognition, and Analytical Thinking, they've actually given a point for the same characteristic (Gf) six times, artificially inflating the score in favor of their favorite.
+
+Problem 3: Lack of incremental validity. If Character A has a colossal advantage in Gf (e.g., Gf = 160 vs. 110), then the additional categories "taken" by Character B, such as SQ, Emotional Control, or Tactics, have zero incremental validity – they simply cannot compensate for the gap in base processing power.
+
+Debates often ignore the fact that intelligence in real-world situations operates according to the limiting factor principle (Liebig's Law), not according to the principle "the higher the total score, the better." The point for the document: To solve a specific problem or outsmart an opponent, a character needs a minimum threshold of Gf and Gc. If the task difficulty threshold is Gf = 140 and Character B's Gf = 120, then no matter how many "points" they have in other artificial categories (EQ, Charisma, Cold Reading), they will physically be unable to construct the necessary logical chain. They will stumble over the "bottleneck" of their intelligence. Conclusion: Evaluation should be based not on the number of pluses, but on the principle: "Does the character's psychometric profile exceed the difficulty threshold of the task posed by the opponent?"
+
+The true assessment should not be additive (adding points), but systemically probabilistic.

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dead-of-winter-2
+category: story
+title: Dead of Winter (2)
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=151VvCxt2R-OcdZjTMZG9K-YUQXiVB4QDBNN0xsnGRXk
+    google_id: 151VvCxt2R-OcdZjTMZG9K-YUQXiVB4QDBNN0xsnGRXk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 7447
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 260524
+      sha256: ee3bad628b256a31ffb96b8d9bc827bc03bb4df722395fd7bca84af801d36afc
+    - format: docx
+      name: document.docx
+      bytes: 26600
+      sha256: 77a98faac25d41cc8af5579e5f251637d175e7307bfcce6e1b5550fafb8fc408
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1v9hem1/
+  note: 'Shared by u/Federal-Manner3880 in a post on 2026-07-29: UPDATE!!!!'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

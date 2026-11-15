@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: stinky-pete-feats-analysis
+category: doc
+title: Stinky Pete feats analysis
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
+series:
+- toy-story
+characters: []
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1W73ZbDZYUH8qkET3i5-uvuQ8D50k0Im7Ug0QqA6hpuc
+    google_id: 1W73ZbDZYUH8qkET3i5-uvuQ8D50k0Im7Ug0QqA6hpuc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 1765
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 32063725
+      sha256: d74d934b7fd6f80cf64c377c3d90eae2be926761f1941493a8899b0b30138ed1
+    - format: docx
+      name: document.docx
+      bytes: 22755123
+      sha256: 38b65b2e2422ec240dafeb0fc39a94a2591fb38829861f35bbe0e346f1d11b78
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wtp327/
+  note: 'Shared by u/Due_Ad8334 in a post on 2026-09-29: Stinky Pete''s feats analysis (Toy Story 2)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

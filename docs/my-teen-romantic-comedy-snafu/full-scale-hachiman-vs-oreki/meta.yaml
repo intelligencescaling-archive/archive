@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: full-scale-hachiman-vs-oreki
+category: doc
+title: FULL SCALE HACHIMAN VS OREKI
+authors:
+- name: xd_killa79xx
+  source: doc-text
+series:
+- my-teen-romantic-comedy-snafu
+- hyouka
+characters:
+- hachiman-hikigaya
+tags:
+- matchup
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VdRLjWEtm4nC7LtJroh3Kz5TnJLlYmli3YbNjprIIZw
+    google_id: 1VdRLjWEtm4nC7LtJroh3Kz5TnJLlYmli3YbNjprIIZw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 432
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 72909
+      sha256: 100b6905743e3762d329c04638f5faf0372f030d0d641b4a625c93455d664f8c
+    - format: docx
+      name: document.docx
+      bytes: 9688
+      sha256: af5d9b287fc111fe675acffd90d7aed362538a5c87416485c4976ec0a50b94a1
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1lbj6dw/
+  note: 'Shared by u/jas2hard in a post on 2025-06-14: Hachiman vs oreki'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

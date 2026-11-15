@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-island-of-evolution
+category: doc
+title: The island of evolution
+authors:
+- name: Spinosaurus23
+  reddit: Spinosaurus23
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1uEpn5NlcCQhSvvLOkNYTRUM5bJg0KCx4jT-ImFi_Vpg
+    google_id: 1uEpn5NlcCQhSvvLOkNYTRUM5bJg0KCx4jT-ImFi_Vpg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 608
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 62938
+      sha256: 5ef6817e0550fb828593103b28020594293c376ee8e913067badb43edca21e18
+    - format: docx
+      name: document.docx
+      bytes: 9371
+      sha256: 5b0f03401d5eda2a67813bd3c2a228d41f6310e85e9fec02e980d2edabdc9c14
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1k5harg/
+  note: 'Shared by u/Spinosaurus23 in a post on 2025-04-22: Swindler''s Game - Second round : "The island of evolution"'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

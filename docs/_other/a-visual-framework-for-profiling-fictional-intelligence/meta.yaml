@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-visual-framework-for-profiling-fictional-intelligence
+category: doc
+title: A Visual Framework for Profiling Fictional Intelligence
+authors:
+- name: SoumikDeb1
+  reddit: SoumikDeb1
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jEHkc1sXwH-37_2IVaAQagG3_vJOv-XZUoQ7hnULa88
+    google_id: 1jEHkc1sXwH-37_2IVaAQagG3_vJOv-XZUoQ7hnULa88
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 1318
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 966941
+      sha256: 4c532cfb558784b18e906a02f97bd1ca068095b2c48b61f61f7b882bdb552d03
+    - format: docx
+      name: document.docx
+      bytes: 710014
+      sha256: 1abf52179d7f78c3d9cf87739f9a91e192330a53b50af995f49c6626dc967532
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pnclzr/
+  note: 'Shared by u/SoumikDeb1 in a post on 2025-12-15: A non-scaling framework for profiling fictional intelligence (structure, not strength)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

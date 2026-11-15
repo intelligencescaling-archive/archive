@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-anime-vs-yuuichi-anime
+category: doc
+title: Ayanokoji (Anime) vs Yuuichi (Anime)
+authors:
+- name: Airwaymaxxer
+  reddit: Airwaymaxxer
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- kiyotaka-ayanokoji
+- yuuichi-katagiri
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-49lyzFKmyWQRH5tS2eH8dn-5zjYa9vhcrwwqvuKsCk
+    google_id: 1-49lyzFKmyWQRH5tS2eH8dn-5zjYa9vhcrwwqvuKsCk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 278
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 76063
+      sha256: 85b1fa0ecf541f04962a1d67a75001fe12376cfcd5a2687d5130153083f0e7e6
+    - format: docx
+      name: document.docx
+      bytes: 9749
+      sha256: 6c37be70dc81f623e45f7b9042a7d1b090c5db24479e2bd994e313c154995cb0
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1p932o0/
+  note: 'Shared by u/Airwaymaxxer in a post on 2025-11-28: Ayanokoji (Anime) vs Yuuichi (Anime)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

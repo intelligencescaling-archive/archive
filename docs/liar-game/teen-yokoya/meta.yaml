@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: teen-yokoya
+category: doc
+title: Teen Yokoya
+authors:
+- name: DBTRF
+  reddit: DBTRF
+  source: reddit-post
+series:
+- liar-game
+characters: []
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1AEA4_dvy4A-naWd2TZJYLSwIwCpd7Uc60pn2Q2SAnGk
+    google_id: 1AEA4_dvy4A-naWd2TZJYLSwIwCpd7Uc60pn2Q2SAnGk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1332
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1130158
+      sha256: dbc2d13fdc550e063cd41781961d45891cfc308e00e67ad0187176acb64545d5
+    - format: docx
+      name: document.docx
+      bytes: 1868738
+      sha256: 5336a2808c8f4e55a7014aa36a2bd2c323dd75cba8c5d55a0ba3774bda018e4b
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1nop3fw/
+  note: 'Shared by u/DBTRF in a post on 2025-09-23: Where does teen Yokoya scale'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

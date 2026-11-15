@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-eyed-liars
+category: doc
+title: RED EYED LIARS
+authors:
+- name: Xamot113
+  reddit: Xamot113
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17IgwAvK8jw0-DIo476QfqVEdwr1paHQIzt-d3zVtAyY
+    google_id: 17IgwAvK8jw0-DIo476QfqVEdwr1paHQIzt-d3zVtAyY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1997
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 193808
+      sha256: ae1b655c3b7c25c9847a93f00283179ddff9d235d9647dd860c1187c20769f46
+    - format: docx
+      name: document.docx
+      bytes: 890615
+      sha256: 2f15f35bbd490cbdd08541e0b7f19e65b9a03d73f13c767059df5e4f28edb67a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1lc3r85/
+  note: 'Shared by u/Xamot113 in a post on 2025-06-15: I am starting a game.'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

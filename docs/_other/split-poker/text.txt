@@ -1,0 +1,66 @@
+SWINDLER’S GAME, ROUND 1
+“SPLIT POKER”
+
+Players are assigned a number in order of arrival (Player 1, Player 2, etc.). Teams of 2 are formed by pairing each player with the one who arrives after them. If there is an odd number of participants, the last 3 players will form a 3-player team. Each team will be assigned an opponent when they receive their cards. The opposing teams are the only ones aware of who their opponents are.
+
+A shared deck of 54 cards is used by all players of the same block. The teams are split in two blocks, block A and block B.
+
+Each player is dealt a randomized set of cards at the start of each round according to the following distribution :
+
+2-player teams: Player 1 gets 2 cards, Player 2 gets 3 cards.
+3-player teams: Player 1 gets 2 cards, Player 2 gets 2 cards, Player 3 gets 1 card.
+
+All players combine their cards to form a 5-card hand. The strength of the hand is evaluated using the same rules as Texas Hold'em poker.
+
+Every player starts with 5 qualification tokens.
+To qualify for the next round, players must have exactly 10 tokens (no more, no less).
+
+Each team’s combined bet must be matched by the other team. The exact distribution of the bet does not need to be the same, but the total bet must be equal for both teams.
+If one team bets more than the other, the team that bet fewer tokens automatically wins the others’s tokens, and the team that bet more automatically loses their bet tokens.
+
+If both teams match their bets, the hands are revealed, and the teams face off. Strongest hand wins. If a hand has less than 5 cards, it is considered incomplete and automatically loses to a full one.
+
+The winning team receives all the tokens gambled by the losing team. The winnings are split proportionally between the winning team members based on how much each player bet.
+For example, if Team A bets 5 tokens and Player A bet 2 tokens while Player B bet 3 tokens, and Team B loses, Player A will receive 2 tokens, and Player B will receive 3 tokens from the win.
+
+The losing team’s tokens are added to the winning team’s pool.
+Players must then redistribute any extra tokens they have to other players. To qualify, each player must end up with exactly 10 tokens. Any player with more than 10 tokens must give away their excess to others, including opponents or players on different teams.
+Token distribution must be reported to the host. No screenshot proof is allowed between players—trust and communication are key.
+
+Players may trade cards with others, but only with the approval of the Game Host.
+Trades must be mutually agreed upon by both players involved.
+Players cannot possess more cards than they originally had. For example, if Player A started with 2 cards, they cannot end up with more than 2 cards after trading. Card trades are subject to the approval of the Game Host.
+Trading may occur between betting rounds or during specific phases as defined by the host.
+
+Players may form contracts with others to exchange tokens, trade cards, or align strategies.
+Contracts must be submitted to the Game Host for approval. If a contract is broken, the host will enforce penalties based on the agreed-upon terms between the players.
+No screenshots of contracts are allowed. Any proof must be handled through the host’s verification system.
+
+At the end of the game, the players with exactly 10 tokens qualify for the next round.
+
+GENERAL GUIDELINES
+
+The Game Host ensures that the rules are followed, approves card trades, and enforces penalties for broken contracts. The host is the final authority in all disputes.
+
+Each player’s number of tokens is private and visible only to the player themselves. Players may lie about their token count, but must report token transactions to the host to avoid scams.
+
+Unlike tokens, a player is allowed to share the screenshot of their cards to proceed to a trade. However, it is only allowed in the context of trades. A player is not allowed to send his teammate the screenshot of his cards.
+
+If your teammate ghosts you or stopped responding for over 2 days, you can request a team swap to another team that also lacks a member. If you are the only one that's an orphan, the game host will give you access to your teammate’s cards to play alone.
+
+Communication with teammates or with the game host are restricted to reddit DMs.
+
+Example Scenario
+
+Team A (Player 1 and Player 2) and Team B (Player 3 and Player 4) agree to bet 5 tokens each.
+Player 1 bets 2 tokens, and Player 2 bets 3 tokens. Player 3 bets 3 tokens, and Player 4 bets 2 tokens.
+
+The hands are revealed, and Team A wins.
+
+Team A wins the 5 tokens bet by Team B. Player 1 receives 2 tokens (matching their bet), and Player 2 receives 3 tokens (matching their bet).
+
+Player 1 and Player 2 must now distribute any excess tokens to players who need them to qualify, ensuring that everyone ends up with exactly 10 tokens.
+
+Timeline of the roundf
+
+Start (Blocks and Teams reveal) → Discussion period (1 day)-> Cards and Opponents Reveal -> Discussion period (2 days) -> Betting period (1 day) -> Token exchange period (3 days) -> End

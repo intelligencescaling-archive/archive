@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: evil-morty-hazanas-completo
+category: doc
+title: Evil Morty Hazanas Completo
+authors:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  source: reddit-post
+series:
+- rick-and-morty
+characters:
+- evil-morty
+tags: []
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1aTN-fIdaN90i79Lm8NiDsCkNyv1eiyDS
+    google_id: 1aTN-fIdaN90i79Lm8NiDsCkNyv1eiyDS
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 4061
+    files:
+    - format: docx
+      name: Evil_Morty_Hazanas_Completo.docx
+      bytes: 54658
+      sha256: 86e1f71ec8224d1ac00fd43325e7585b54d2ad3234dcaad2e14e7e5d42fe4dee
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xsw88e/
+  note: 'Shared by u/Vincet_Qo in a post on 2026-11-10: Evil Morty''s document'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

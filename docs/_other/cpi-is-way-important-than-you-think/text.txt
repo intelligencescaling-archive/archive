@@ -1,0 +1,98 @@
+Cheatspeed
+I think people severely underestimate CPI. Some even go so far as to say that CPI
+does not have even a 1% effect in their own scaling. The exact purpose of writing this
+text is to show why this is problematic.
+But before discussing why this matters, we need to define this 3 concepts: CPI,
+Judgement, and Computation.
+• CPI (Cognitive Proficiency Index) - CPI is an index that provides an estimate of
+how efficiently cognitive information is processed for the purposes of learning,
+problem solving and higher-order reasoning. In the Wechsler scales, it is based
+particularly on the Working Memory and Processing Speed components.
+Pearson's description of the WISC-V directly defines CPI as “an estimate of the
+efficiency with which cognitive information is processed in the service of
+learning, problem solving, and higher-order reasoning.”
+• Judgement - The capacity to determine which inference, decision, or action is
+better by evaluating the available information, conditions, and possible
+outcomes.
+• Computation - The mental transformation and processing of information
+according to certain rules and procedures in order to reach a conclusion.
+After defining these three concepts, we can move on to the main issue:
+What is the relationship between Computation and CPI? CPI is the measurable form
+of Computation. No matter how correctly you make a decision, if you cannot hold that
+decision in your mind, process the steps sequentially, and do so quickly enough, that
+decision remains on paper. Working memory is your capacity to hold information in
+your mind and manipulate it, while processing speed is how quickly and accurately
+you can do this.
+From this perspective, our judgements are completely dependent on Computation.
+But here I need to underline what I mean by "judgement." for prevent misconceptions
+as i defined i do not restrict Judgement, as others do, to a narrow ability set such as
+decision-making. When making an reasoning, whether you call it inference or
+reasoning it doesn't matter, judgement is present. When constructing a plan, when
+weaving a strategy, meaning when scheming, judgement is also present. So what
+truly separates these processes from another? Frankly, nothing. They are all simply
+3/1
+
+Cheatspeed
+the same ability set wearing different applied different domains. And no matter what
+form this ability set takes, what lies underneath it is judgement. Moreover, this itself
+has been independently demonstrated.
+It has been shown that planning problems can be translated into axioms of
+propositional logic and solved with a general-purpose logic solver. (Kautz, H. &
+Selman, B. (1992). Planning as Satisfiability.) If a planning problem can be
+transformed into an inference problem without losing anything from its meaning and
+solved with a general method developed for inference, then planning does not require
+a separate ability beyond making inferences. In other words, what makes planning
+possible is already exists within what makes reasoning possible.
+The conclusion that follows from this is that the difference between reasoning and
+planning lies on the content to which the process is applied. In one, we work with
+premises and conclusions, and in the other, with states and actions. However, in both
+cases, what we are doing is finding a valid sequence of steps that reaches a goal from
+a starting point within a given set of rules. Building a strategy does not fall outside
+this definition either. Moreover, we can see this idea in game theory as well. With
+backward induction, the best strategy in a game is found by starting from the possible
+endings of the game and reasoning backward by logically deriving what the players
+will do at each step. Therefore, treating these processes not as separate abilities but
+as applications of a single ability set, namely judgement, to different domains is both
+more consistent and requires fewer assumptions.
+So what is required first in order to make a judgement? First, an observation, meaning
+an input. Second, a system capable of taking this input and processing it, which in
+SCD is most commonly a brain. This is exactly what Computation is. If you cannot take
+the data in front of you and process it, you cannot reach any judgement from that
+data. However, an important distinction must be made here. Our judgements depend
+on information, and one of the biggest factors determining the quality of a judgement
+is Computation. In contrast, the judgement ability itself, in terms of its nature, is not
+dependent on Computation. Judgement only depends on a certain set of information.
+Let me explain this with a simple example. Imagine two sets:
+3/2
+
+Cheatspeed
+A = {x₁, x₂, x₃, …, x₂₀}
+B = {x₁, x₂, x₃, …, x₆₀}.
+Here, A is a subset of B, and the nature of the data in both sets is the same. In this
+case, a judgement based on set B has a higher probability of being accurate, because
+B not only contains everything that A contains, but also covers many more possible
+scenarios on top of it. The same judgement ability, when applied to two different sets,
+produces results of two different levels of quality.
+This is why Computation is important. Set B is in front of you, but your mind can hold
+and process only twenty pieces of data at the same time. In this case, even though the
+remaining forty pieces of data in B are there, they are effectively nonexistent for you.
+Your judgement effectively works on set A. In other words, Computation determines
+which information judgement can access. No matter how strong your judgement
+ability is, it can only work with as much data as Computation allows in. This is why
+the nature of judgement is independent of Computation, but the quality of the result
+that judgement can reach is directly dependent on Computation. Moreover, in systems
+where the result can be logically derived, this is a necessity. In such a system, every
+step leading to the correct conclusion is already present in the data. Higher
+Computation means being able to follow more of these steps. Therefore, higher
+Computation can never produce a worse result here.
+The moral of the story is that the conclusion we have reached is that you have
+experienced firsthand just how much computer engineering and IT can change our
+approaches to scaling SCD :D but it would be better if our university did not use post-
+Soviet information sciences as a source. Jokes aside, what the approach that
+underestimates CPI overlooks is quite simple. No matter how strong judgement is, it
+can only work with as much material as Computation provides to it. Working memory
+determines how much of this information we can hold at the same time, while
+processing speed determines how efficiently we can process it. CPI measures exactly
+these two. And in domains where the result can be logically derived, this is directly
+determinative.
+3/3

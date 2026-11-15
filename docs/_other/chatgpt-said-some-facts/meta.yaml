@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chatgpt-said-some-facts
+category: doc
+title: ChatGPT said some facts
+authors:
+- name: FateDaA
+  reddit: FateDaA
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nx1LUPKI-qqsOd6so9AgazQf5nl44iqB296gDGPMeGo
+    google_id: 1nx1LUPKI-qqsOd6so9AgazQf5nl44iqB296gDGPMeGo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 299
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 107288
+      sha256: fcbc62c867e54e2819f2c3d5d75929c431fcb2e72e856cdc3d7e0513a6fd4fc4
+    - format: docx
+      name: document.docx
+      bytes: 8871
+      sha256: 52d41b4547691dd735fe68c0785c3ee005a119ac45be9b016abee5554ebd4416
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l9pst2/
+  note: 'Shared by u/FateDaA in a post on 2025-06-12: Aight because some mfs dont understand why AI is a shitty tool in debates Ima make an example piece '
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

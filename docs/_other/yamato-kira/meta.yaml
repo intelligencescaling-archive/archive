@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yamato-kira
+category: doc
+title: Yamato Kira
+authors:
+- name: SprinklesWarm5035
+  reddit: SprinklesWarm5035
+  source: reddit-post
+series: []
+characters: []
+tags:
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EVZ38Y5-rcKSK_HKaBRrFbvVn4XfLQATFmEkkwa-8x8
+    google_id: 1EVZ38Y5-rcKSK_HKaBRrFbvVn4XfLQATFmEkkwa-8x8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1715
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 86771
+      sha256: 7e55cd241d0f641cf0f791e8ce937e469b567879169c96acd577ee26fa65f00a
+    - format: docx
+      name: document.docx
+      bytes: 11750
+      sha256: 95822bf10bd93a3705dd409247d1399f944721513446546c993cedb90d470e7b
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1jse4wv/
+  note: 'Shared by u/SprinklesWarm5035 in a post on 2025-04-05: Made a doc for my oc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

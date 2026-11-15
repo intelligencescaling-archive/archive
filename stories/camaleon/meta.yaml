@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: camaleon
+category: story
+title: Camaleon
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lZcfnUoPzdwu6UGvos3KZG9EZRaIzHYfvNpxAr2YxGY
+    google_id: 1lZcfnUoPzdwu6UGvos3KZG9EZRaIzHYfvNpxAr2YxGY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 5465
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 228999
+      sha256: ebfb72f4679e883fd4e2c752c4f12a3de864534775e46bfaacc11f6074ae8736
+    - format: docx
+      name: document.docx
+      bytes: 21898
+      sha256: 00cf0ec1ebc9dad070eb68cc2abfb4b9167d36d01d36eda0a583341dd86cf28c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1tr6cy1/
+  note: 'Shared by u/Last-Trainer-3323 in a post on 2026-05-29: ADVERTISEMENT: I uploaded my new story: Chameleon. The story is about Leon (My First OC), a lazy but'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

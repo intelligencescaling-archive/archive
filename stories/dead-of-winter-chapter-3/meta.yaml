@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dead-of-winter-chapter-3
+category: story
+title: Dead of Winter (Chapter 3)
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RNVmJ75v1vo-e3IiuJwbFGk7l490bgenn9xbsWUmejU
+    google_id: 1RNVmJ75v1vo-e3IiuJwbFGk7l490bgenn9xbsWUmejU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 16229
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 535577
+      sha256: 43dcf4a34e654a98ca8cf80d0022cf610d4236a876dd8765f0afe7bc1ea8d779
+    - format: docx
+      name: document.docx
+      bytes: 51127
+      sha256: f47269106eda5229891fb5f9edf059bf63ca9136dd93f5a7152e6a9915942072
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1w5xcbo/
+  note: 'Shared by u/Federal-Manner3880 in a post on 2026-09-03: ENOUGH TIME HAS PASSED....'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

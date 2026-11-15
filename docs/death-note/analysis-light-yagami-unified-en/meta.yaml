@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-light-yagami-unified-en
+category: doc
+title: Analysis_Light_Yagami_Unified_EN
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1oX69ctYjqsVl0bjBQ-i-1tMEMiZ5inp9eHpu5dz9WJA
+    google_id: 1oX69ctYjqsVl0bjBQ-i-1tMEMiZ5inp9eHpu5dz9WJA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 541
+    words: 74017
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3368124
+      sha256: c7fd49714cdc6fc12bd8d077de33f938c3046ee795a58886b10aff4bcedd7d6b
+    - format: docx
+      name: document.docx
+      bytes: 220850
+      sha256: e3e3aa35bf38a2d4eb6756049272a6b2871047bb9fdabe94c065d7d505663685
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1w0szoy/
+  note: 'Shared by u/Last-Trainer-3323 in a post on 2026-08-28: GOTNW LIGHT FN ANNOUNCEMENT: The second arc is finished. There are 26 chapters in total (covering th'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

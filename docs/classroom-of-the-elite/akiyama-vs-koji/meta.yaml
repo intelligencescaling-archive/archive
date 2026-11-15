@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-vs-koji
+category: doc
+title: Akiyama vs Koji
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- classroom-of-the-elite
+- liar-game
+characters:
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EUT9-zyNe_Sbb44jC0hE-HgwBdmDr2oTrs4blVaFscM
+    google_id: 1EUT9-zyNe_Sbb44jC0hE-HgwBdmDr2oTrs4blVaFscM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 444
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 95128
+      sha256: a4782c2e8b87f1ffa648f0c992bdb6af58527ef3b4f9bf17fbac97896a797931
+    - format: docx
+      name: document.docx
+      bytes: 279623
+      sha256: b42b09131f321ca79348a6ffdffabeed5653b155b74b7b4423fefd305c084204
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mycucj/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-23: Akiyama vs Ayanokoji Full Scale Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

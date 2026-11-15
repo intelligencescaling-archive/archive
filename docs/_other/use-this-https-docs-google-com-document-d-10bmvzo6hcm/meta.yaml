@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: use-this-https-docs-google-com-document-d-10bmvzo6hcm
+category: doc
+title: use this [https://docs.google.com/document/d/10BMvZO6HCM-pdiinC4xqG\_8w\_PBcPoVW
+authors:
+- name: heckthiscrapimout
+  reddit: heckthiscrapimout
+  source: reddit-post
+series: []
+characters: []
+tags:
+- scd-categories
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10BMvZO6HCM-pdiinC4xqG
+    google_id: 10BMvZO6HCM-pdiinC4xqG
+  capture:
+    status: partial
+    date: '2025-12-04'
+    words: 4095
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251204200009/https://docs.google.com/document/d/10BMvZO6HCM-pdiinC4xqG_8w_PBcPoVWz8SAqmOu4rE/edit?usp=sharing
+  note: Snapshot from 2025-12-04
+- type: reddit-post
+  url: https://www.reddit.com/comments/1bdhkfq/_/kumlpun/
+  note: 'Shared by u/heckthiscrapimout in a comment on 2024-03-13: use this [https://docs.google.com/document/d/10BMvZO6HCM-pdiinC4xqG\_8w\_PBcPoVW'
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-12-04. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

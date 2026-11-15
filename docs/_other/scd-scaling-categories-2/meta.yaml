@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-scaling-categories-2
+category: doc
+title: SCD Scaling Categories
+authors:
+- name: a_xakimv
+  reddit: a_xakimv
+  source: reddit-post
+series: []
+characters: []
+tags:
+- scd-categories
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pWMBcAmY8X38eeiTgYOzbB671nEAWT_lIygYSQNki_E
+    google_id: 1pWMBcAmY8X38eeiTgYOzbB671nEAWT_lIygYSQNki_E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2219
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 156500
+      sha256: 8b851999ca9944f9009fe78be0db08efb0ccc5ab25d5b57882b6f95291d6dd0e
+    - format: docx
+      name: document.docx
+      bytes: 2126640
+      sha256: 745aa9b5c118c498bfb180d2c2b91977262a385c5ec8b12eba941f020777810e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x43e51/
+  note: 'Shared by u/a_xakimv in a post on 2026-10-12: SCD Scaling Categories'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

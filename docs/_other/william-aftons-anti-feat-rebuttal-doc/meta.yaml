@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: william-aftons-anti-feat-rebuttal-doc
+category: doc
+title: William Afton’s anti-feat rebuttal doc
+authors:
+- name: Veneno on
+  source: doc-text
+series: []
+characters: []
+tags:
+- debunk
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IPP4l85jXaLTgPqLyFCn3wC2enqsZI_nOUGYPHSKKSA
+    google_id: 1IPP4l85jXaLTgPqLyFCn3wC2enqsZI_nOUGYPHSKKSA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1307
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 140939
+      sha256: 47da0ae948f15f8d86b0a88d68e5dd58f64e3c5d7a58d028ae700453d4d7274e
+    - format: docx
+      name: document.docx
+      bytes: 761639
+      sha256: b18a5e123513036702d0fa194e1f1018f26fbafa8692303c6f1f99671176ae3a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vgpvdl/
+  note: 'Shared by u/Mediocre-Neat-1207 in a post on 2026-08-06: William Afton’s infamous anti-feat: The Springlock Failure'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

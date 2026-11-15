@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aiga-kenji
+category: doc
+title: Aiga Kenji
+authors:
+- name: Osbis
+  source: doc-text
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1qiCIbCI2jMUf4WrlzRQXxVmcZNdjpi5t-JEiGSsaXBs
+    google_id: 1qiCIbCI2jMUf4WrlzRQXxVmcZNdjpi5t-JEiGSsaXBs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 878
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2788487
+      sha256: 84c6b1e24f325a4008b0127fe8520c0f3b8633a9004a2a5a9d095bc8cfe98686
+    - format: docx
+      name: document.docx
+      bytes: 2838113
+      sha256: f67e7a047ea8c624350ae987ef013f7d479282a5cd856b010ea6afc04d77cf74
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vhv0l7/
+  note: 'Shared by u/Ornery_List_6670 in a post on 2026-08-07: Chen ran slayer Aiga Kenjj doc✌️'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

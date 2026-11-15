@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dead-of-winter-part-1
+category: story
+title: Dead of Winter (Part 1)
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=123kMayzJobAbs6tWxCgOj44VDHgYIl8xFVPIHJEP2AQ
+    google_id: 123kMayzJobAbs6tWxCgOj44VDHgYIl8xFVPIHJEP2AQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 7161
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 252775
+      sha256: 404198e579b6f5166f576ecc7655c2a99069ef2e23b3bc2b2e16891d06090c69
+    - format: docx
+      name: document.docx
+      bytes: 25908
+      sha256: 4edd07182f150da8f186c4717384e530a62e990ffa8520ffb656a78eab7fd675
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ued0qv/
+  note: 'Shared by u/Federal-Manner3880 in a post on 2026-06-24: CHARLES MORRIS NEW BOOK RELEASE??'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

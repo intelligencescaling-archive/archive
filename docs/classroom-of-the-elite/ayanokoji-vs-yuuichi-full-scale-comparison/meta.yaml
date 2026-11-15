@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-vs-yuuichi-full-scale-comparison
+category: doc
+title: Ayanokoji vs Yuuichi full scale comparison
+authors:
+- name: darkness_death_empty
+  reddit: darkness_death_empty
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- kiyotaka-ayanokoji
+- yuuichi-katagiri
+tags:
+- matchup
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1UUpIln6lRX6W5XnpkBytsHOkVlfQ6fS0GLbjGk2wXww
+    google_id: 1UUpIln6lRX6W5XnpkBytsHOkVlfQ6fS0GLbjGk2wXww
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 654
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 126818
+      sha256: 68b9c53d687362aa7b79a2d9a3392c8e713cdc758f942d4c5c581048fb95b03a
+    - format: docx
+      name: document.docx
+      bytes: 10919
+      sha256: 8c5b4b06ef34bd09ee2584f96d905c887ffafc6e464ab110e2a5d44d6c973498
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1duq1r5/_/lus7dxc/
+  note: 'Shared by u/darkness_death_empty in a comment on 2024-11-01: I don''t have a complete one but I have some https://docs.google.com/document/d/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

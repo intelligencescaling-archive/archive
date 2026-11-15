@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cpi-is-way-important-than-you-think
+category: doc
+title: CPI is way important than you think
+authors:
+- name: Big_Presentation_894
+  reddit: Big_Presentation_894
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1IdOVsD7s5zHRjYhAJN_c_Lt3s1G2GWBo
+    google_id: 1IdOVsD7s5zHRjYhAJN_c_Lt3s1G2GWBo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1130
+    files:
+    - format: pdf
+      name: CPI is way important than you think.pdf
+      bytes: 180034
+      sha256: 7aa9bd96f89fd05c47ec0d4235fb6e2531c3fbe51888423da4b9058ca31d5829
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wvqc0l/
+  note: 'Shared by u/Big_Presentation_894 in a post on 2026-10-02: CPI is way important than you think'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

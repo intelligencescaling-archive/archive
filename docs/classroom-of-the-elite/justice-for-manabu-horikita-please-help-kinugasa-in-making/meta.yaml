@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: justice-for-manabu-horikita-please-help-kinugasa-in-making
+category: doc
+title: Justice for Manabu Horikita! Please help Kinugasa in making a volume of his final exam against Miyab
+authors:
+- name: SmittenbyChabs
+  reddit: SmittenbyChabs
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- manabu-horikita
+- suzune-horikita
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Nan_6kQFLOS33AK85Zp9hmpxTFI5XDKn
+    google_id: 1Nan_6kQFLOS33AK85Zp9hmpxTFI5XDKn
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: jpg
+      name: _.PNG
+      bytes: 210812
+      sha256: 746b215a6bcb6bd76c7774e3d5b805492ccefe855a49b43f3564c5aca2bed2ee
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ll65g2/
+  note: 'Shared by u/SmittenbyChabs in a post on 2025-06-26: Justice for Manabu Horikita! Please help Kinugasa in making a volume of his final exam against Miyab'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

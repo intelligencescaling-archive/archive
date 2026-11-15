@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debate-with-kc
+category: doc
+title: Debate with KC
+authors:
+- name: Usoguitard
+  reddit: Usoguitard
+  source: reddit-post
+series:
+- usogui
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GHqUgkGeYn4zrY_cM_lfqr3jdUGznsfJ5Uc_wxeynUo
+    google_id: 1GHqUgkGeYn4zrY_cM_lfqr3jdUGznsfJ5Uc_wxeynUo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 75
+    words: 9756
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 34504904
+      sha256: 3ad8d50ea798612d4def68cacfa400dbf6ef9c76b8586e9b2264d34976b5df56
+    - format: docx
+      name: document.docx
+      bytes: 29132395
+      sha256: fa52169cfa9b56fd0393798fd05ab154d43078be8be9cd88e5d701c74fa5f37f
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ra625u/
+  note: 'Shared by u/Usoguitard in a post on 2026-02-20: My ongoing debate with Koyote'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

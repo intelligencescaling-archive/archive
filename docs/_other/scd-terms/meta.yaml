@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-terms
+category: doc
+title: SCD Terms
+authors:
+- name: Throwaway98222122
+  reddit: Throwaway98222122
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_5c8-VTNs2sx868nxAILK7RHj7WDtO0qRlGVM0F-ULs
+    google_id: 1_5c8-VTNs2sx868nxAILK7RHj7WDtO0qRlGVM0F-ULs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 51
+    words: 10886
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 449041
+      sha256: 963dffed09e5d19461d840997d281ed71923df5c549e98d50fc809cdbc461a52
+    - format: docx
+      name: document.docx
+      bytes: 363366
+      sha256: 1bc1ae7c4a4ab8328d99ff034a6d8f4ebea99754251b5e2858212a23bdbd6de2
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1tcdlqj/
+  note: 'Shared by u/Throwaway98222122 in a post on 2026-05-13: SCD definitions'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

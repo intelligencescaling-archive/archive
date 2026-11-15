@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vexl1nar4731-intelligence-scaling-doc
+category: doc
+title: Vexl1nar4731 Intelligence Scaling Doc
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1kQGYdv_ZpBudNSF42Laoo-yR1MdGCLNEegYGibmrtsQ
+    google_id: 1kQGYdv_ZpBudNSF42Laoo-yR1MdGCLNEegYGibmrtsQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 7909
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1602876
+      sha256: cd6a1259c6b80ef5646204c77fe2f398a39f48031fa89cf76afe72fe6d609bfa
+    - format: docx
+      name: document.docx
+      bytes: 1239481
+      sha256: b19f4eb0c6d5878ff83a75e7881b8ec3fa287715b156895728b100a87c4aafbf
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pmad32/
+  note: 'Shared by u/Geolib1453 in a post on 2025-12-14: Decided to scale a character I had created (Vexl1nar4731)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

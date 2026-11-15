@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fictional-murder-case
+category: doc
+title: Fictional Murder case
+authors:
+- name: Spinosaurus23
+  reddit: Spinosaurus23
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1MB8bEUr-Vf9oS5XrNZm8VuoCz4DjCVNYMAhS8d-SVnY
+    google_id: 1MB8bEUr-Vf9oS5XrNZm8VuoCz4DjCVNYMAhS8d-SVnY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 643
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 59964
+      sha256: 0bde59df1c65816c3a9a60d9795112bad51b898c3d747c41fd0e7269692af712
+    - format: docx
+      name: document.docx
+      bytes: 9325
+      sha256: 4e6e2571dcb65310185dec6e6b482cb76213188171be86d1730cdf44cbba220e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1jro0sw/
+  note: 'Shared by u/Spinosaurus23 in a post on 2025-04-04: Swindler''s Game - Revival round : The Fictional Murder Case'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

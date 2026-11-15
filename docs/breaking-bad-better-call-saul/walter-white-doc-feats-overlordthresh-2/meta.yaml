@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-doc-feats-overlordthresh-2
+category: doc
+title: Walter White Doc (Feats) - OverLordThresh
+authors:
+- name: Communist_Crusaders
+  reddit: Communist_Crusaders
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Fc6MDkN3qszEvOuLL7J1c4n-XkhPFFKCUMQV_lGeRrk
+    google_id: 1Fc6MDkN3qszEvOuLL7J1c4n-XkhPFFKCUMQV_lGeRrk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 3177
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1064862
+      sha256: a0cf27489f6e39236b37f34a57832508e804efdb59dcd79b75909e67b78b3961
+    - format: docx
+      name: document.docx
+      bytes: 940409
+      sha256: a1445391dc1a1a5d37ec7a270ec0c99e194260f1070ff42feb1fe58fd4732320
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1isvqdw/
+  note: 'Shared by u/Communist_Crusaders in a post on 2025-02-19: Doc Gathering'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

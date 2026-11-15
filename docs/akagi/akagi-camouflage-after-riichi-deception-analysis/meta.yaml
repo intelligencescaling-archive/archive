@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akagi-camouflage-after-riichi-deception-analysis
+category: doc
+title: Akagi Camouflage After Riichi Deception analysis
+authors:
+- name: ResponseLower49
+  source: doc-text
+- name: Mob5850
+  source: doc-text
+series:
+- akagi
+characters: []
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KcwLjx4dctf2AHxlcwGEIJdJC4El5Q_ZAdfmpeY3wmQ
+    google_id: 1KcwLjx4dctf2AHxlcwGEIJdJC4El5Q_ZAdfmpeY3wmQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 52
+    words: 5701
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10155529
+      sha256: b4e3799204e00b33463be58f3a278a0fb1c1255dd59bd052b39c81b99620a79f
+    - format: docx
+      name: document.docx
+      bytes: 11103175
+      sha256: 6d68a6201b71efdb8af3f6b71ff64736ab051f79f4dcba2f8f6429849a44a7b1
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xadv8f/
+  note: 'Shared by u/ResponseLower49 in a post on 2026-10-20: Akagi camouflage after riichi deception'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

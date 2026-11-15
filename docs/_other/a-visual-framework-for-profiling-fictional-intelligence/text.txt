@@ -1,0 +1,56 @@
+✧ A Visual Framework for Profiling Fictional Intelligence
+* By Soumik Debnath
+
+1. Goal : This framework’s primary goal is to identify the intellectual profile of a fictional character without ‘measuring’ or ‘scaling’ it. With a little knowledge about how this framework works, anyone can look at a character’s profile and identify how their intelligence is structured and how it is portrayed in their respective narratives (Canons). Visuals matter here in the identification sense, as much as in the aesthetic sense.
+Note: This framework is just a proposal or idea, it is not suggesting any idea of replacing the pre-existing scaling or profiling systems.
+
+2. What this is/is not : This framework is -
+* Descriptive, not comparative.
+* Canon Respecting.
+* Focused on Structure, not only outcomes.
+* Compatible with disagreements.
+       The framework is not -
+* A ranking system.
+* A scaling system.
+* A measure of intelligence quantity.
+* A claim of superiority in any way.
+
+3. Core Idea : Intelligence can meaningfully be identified and compared based on its structure, portrayal and origin while intentionally abstracting away efficiency, success rate, and narrative cost and without ever assigning magnitude to it. This is the core principle behind this framework.
+
+4. Categories/Classes : There are 5 attributes that are given to each character, those being - Color, CRS (Crisis Strength), VIC (Verse Intellect Context), NIP (Narrative Intellect Portrayal) & IS (Intellect Source). Below is each of them described cleanly -
+
+* Color - Four categories are chosen for this class, based on four scaling categories - IQ, EI, SI & AC. The categories for this class are - Logical, Emotional, Social & Adversity. The colors given to these respective categories are - Red, Blue, Purple & Green.
+                This class is categorized based on the character’s Habitual Processing, the kind of intellect the character mostly uses when in no critical situation. This indicates the character’s idle intellectual style. But this is in no way representing the character’s BEST intellectual category, and is in no way scaling it. Visually, the color is given to the character’s card on the top, in a circle.
+Example - Light Yagami thinks logically, planning and strategizing as habits. When no critical moment is going on, he is thinking using mostly his logical aspects.
+
+* CRS - This is the natural continuation of the Color class, and it takes the same fundamental categories as Colors, except in text form.
+                                This class is categorized based on the type of intellect the character mostly uses when in a crisis, that translates to when the stakes are high, when all plans have failed. Now keep in mind, the color and the CRS can imply the same category in some cases, as some characters don’t change intellectual style anytime. Again, no CRS is superior or inferior to another.
+Example - Light Yagami normally thinks logically and uses his logical aspects, but when critical moments hit or plans fail, he tries to manipulate socially or use his social intellect aspects to regain control, so his CRS would be Social.
+* VIC - This is to be understood carefully. VIC is Verse Intellect Context, and this class has three categories - Close, Clear & Isolated. This class indicates the intellectual & cognitive difference between the character and the verse they are from. And this difference is not only quantitative, but also qualitative and structural.
+‘Close’ category is used when the character is intellectually different from most of the verse, but still has a cluster of characters very close to him/her. ‘Clear’ category is used when the character is clearly intellectually different from almost the whole verse, but still has 1 or 2 rivals. Basically individual rivals but not clusters as in ‘Close’. ‘Isolated’ is used when the character is completely on a different plane than anyone in the verse.
+                All of these categories are hugely affected by narrative portrayal.
+Example - Characters like Ayanokoji Kiyotaka fit in ‘Isolated’ as he is shown to be the Apex Intellect in COTE. He most of the time effortlessly defeats even the smartest characters in verse. There is no one close to him, which places him at ‘Isolated’.
+On the other hand, Light Yagami would fit in ‘Close’, as he has a cluster around him in verse, which includes L Lawliet, Nate River, Beyond Birthday etc.
+An example of ‘Clear’ would be Baku Madarame, as he is clearly above most in verse, but still has rivals like Kiruma Souichi.
+                        Remember, none of this scales the character in any out-of-narrative way, it just reveals how the narrative treats their intellect, and how their intellect works in context of their verse.
+* NIP - This is Narrative Intellect Portrayal, and this class holds three categories - Narrative-Driven, Methodology-Driven & Hybrid.
+                                Narrative-Driven is assigned to the character if their intellect is mostly portrayed through author statements, narrations and reputation or unexplained aftermaths, not step-by-step logical steps, or explained psychology or on-screen explained feats. Methodology-Driven is assigned to the opposite.
+                                Hybrid is only assigned when the majority can’t choose one side. If the majority is unsure whether the character’s feats are Narrative or Methodological (Might imply both), then Hybrid is given.
+                        None of these categories implies superiority or inferiority relative to the other, they just identify the character’s narrative portrayal.
+Example - Light Yagami, Ayanokoji Kiyotaka, Subaru Natsuki, all of these characters have explained and on-screen feats of intellect, with the viewers understanding their process, assigning them to Methodology-Driven. On the other hand, characters like Johan Liebert mostly have off-screen feats, relying on Reputation and Mystique, rather than a zoom in to his mind.
+* IS - This is Intellect Source, and this class has three categories - Fluid-Dominant, Crystallized-Dominant & Hybrid.
+                                                Fluid-Dominant is
+ assigned when the character is shown to use less knowledge &  experience and more innate intellectual abilities for most of their feats. Some signs for this assignment would be if the character shows feats in early childhood, without much experience. Crystallized-Dominant is the opposite, where the narrative shows or explains the knowledge or experience the character goes through that shapes their intellect the most. Remember, both of these aspects are dependent on each other, and you can’t have ‘Zero’ of either of them.
+                As usual, Hybrid is assigned when the narrative doesn’t let you know if the character’s intellect is shaped more by nature or nurture, or when the majority can’t decide it either.
+Example -  Subaru Natsuki’s innate cognitive abilities are stable, but through repeated cycles and experience, his EI or SI is shown to be applied better, most of his feats are due to nurture rather than nature. He fits in Crystallized-Dominant.
+                        Light Yagami smoothly fits in Fluid-Dominant, as there is less nurture shown that explains how his intellect works in his achieved feats.
+                        Ayanokoji Kiyotaka & Johan Liebert both fit nicely in Hybrid. As they were exceptional at birth, but their kind of intellect and abilities developed hugely from how they were nurtured.
+                        Nature doesn’t imply superiority or inferiority to nurture, because magnitude is not even considered here.
+5. Visual Language : The visual language of this framework is easy to understand and read. It places an image of the character as the anchor point, below it are the classes with assigned categories, and above the image is a circular shape that contains the Color attribute assigned to the character. The categories in each class have their distinctive and consistent icons.
+
+6. Worked Examples : These are some examples tested on this framework so far (Next Page).
+
+7. Known Limitations : Just like any other framework in this context, this one also includes subjectivity. This also isn’t a tool for scaling, rather profiling. This framework does not encode efficiency, control, or narrative elegance; these are intentionally left outside its scope. And some minor/major conceptual errors might still exist, as this framework is still to be developed further.
+
+This framework is intended as a tool, not a verdict.
+Disagreement is expected — and productive.

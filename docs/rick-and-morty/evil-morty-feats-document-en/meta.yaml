@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: evil-morty-feats-document-en
+category: doc
+title: Evil Morty Feats Document EN
+authors:
+- name: Yashizu
+  source: doc-text
+series:
+- rick-and-morty
+characters:
+- evil-morty
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1R1Jdx8rPoXKRAAXZtuNfTZkwZyDQGClh
+    google_id: 1R1Jdx8rPoXKRAAXZtuNfTZkwZyDQGClh
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 3996
+    files:
+    - format: docx
+      name: Evil_Morty_Feats_Document_EN.docx
+      bytes: 52339
+      sha256: de4cfb6a42c8be7726a3cdb74e920a04eda9750bd57df914c3a46092dff17038
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xsw88e/
+  note: 'Shared by u/Vincet_Qo in a post on 2026-11-10: Evil Morty''s document'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

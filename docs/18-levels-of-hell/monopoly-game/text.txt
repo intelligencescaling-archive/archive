@@ -1,0 +1,834 @@
+Rules of the "Big Rich Man's Game" (Economic Game).
+I. Game Structure & Objectives
+* Nine players stand on nine separate suspended platforms (2m²), with a chasm below.
+* Mechanism of life and death:The existence of the floorboard is tied to the existence of the company. If the company goes bankrupt, the floorboard disappears, and the player falls into a death abyss.
+* Role:Each player owns a random company (numbered from 1 to 9).
+* Target:Accumulate wealth, keep the company from going bankrupt, and eliminate rivals (especially the anonymous "Rich Man" enemy) through economic attacks.
+II. Production Operating Mechanism (Supply Chain)
+The game establishes a circular supply chain to force transactions:
+1. Product:There are 9 types of products (ABCDEFGHM). One company's product is the raw material for the next company (e.g., company A sells to company B, B sells to C...).
+* NoteThe company number is DIFFERENT from the product. Which player owns which company is predetermined at the beginning of the game; only the product type needs to be selected. (For example: A player owns company number 1, but their product is not necessarily A).
+2. Trading Principles:
+   * Transactions with the System (Market):
+      * Purchasing raw materials: Price 100/unit (High).
+      * Product Sale: Price 80/unit (Low).
+      * Consequences:Profits will be extremely low or even result in losses if operating costs increase.
+   * Transactions with Players:To optimize, company A needs to sell to company B at a price of approximately 90 (higher than the market price of 80, lower than the market price of 100).
+3. Production process:
+   * Production time: 5 minutes/batch/employee.
+   * Basic costs: Materials + Employee salaries + Equipment maintenance.
+   * Equipment durability: Decreases gradually with each production run. If it falls below 60, it must be repaired or replaced.
+III. Stock Market Mechanism
+This is the core part of eliminating other players.
+1. Initial valuation:Each company has 1 million shares, priced at 10 points per share. The total value is 10 million.
+2. Stock price fluctuations:
+   * Discount:When owners sell off shares, lay off employees en masse, or fail to handle a natural disaster.
+   * Price Increase/Recovery:When the company expands its production scale (hiring more people, buying more machines).
+3. Mandatory Sales Rules:
+   * If the owner holds shares at even numbers: 80%, 60%, 40%The system will automatically force a sale.20%Shares are offered to other players on the market for them to buy.
+   * Tip:Players can buy back a small percentage of shares themselves to avoid being forced to sell (e.g., holding 81%).
+4. Control:
+   * If a group of shareholders holdsover 51%With shares, they have the right to convene a "Shareholders' Meeting" and decide on the company's strategy (expanding production or distributing dividends) regardless of the wishes of the owner (legal entity).
+IV. Mechanism of Murder
+The game forces players into an economic arms race; there's no room for standing still.
+1. Cost inflation:Employee salaries and equipment maintenance feesgradually increasing over time(due to age and wear and tear).
+2. Expansion pressure:
+   * Without expansion, rising costs will erode profits -> Bankruptcy.
+   * To expand (hire more people, buy new equipment costing 8 million VND), the company needs a huge amount of capital.
+3. Stock dilution:
+   * When expanding production on a large scale, the company willissue additional shares(For example: adding 1 million shares).
+   * If the former owner does not have the money to buy these new shares, their ownership stake will be halved (e.g., from 51% down to 25.5%), resulting in a loss of control over the company.
+4. Random event:An event (natural disaster, scandal, etc.) happens every 5 minutes. If you don't spend money to deal with it within 1 minute, the stock price will drop and the warehouse will be damaged.
+Tactical Summary
+* Method 1 (Crushing through cost):Attackers acquire >51% of shares -> Force the target company to continuously expand production -> Operating costs skyrocket -> Force the company to forgo dividend payments -> The target company runs out of cash to pay salaries/maintenance ->Bankrupt.
+* Method 2 (Acquisition at Low Price):Spreading rumors or negative events/layoffs to drive the stock price down to the bottom (e.g., 5 points) -> Buying up all shares -> Forcing production expansion to make the price recover (15 points) -> Selling to take profits or using shareholder rights to manipulate the market.
+Player information (you can skip this part and refer back to it later if needed)
+Player Name
+	Skills System
+	Skill Name
+	Detailed Effects & Analysis
+	Tran Nhien
+	Slayer of the Wilderness
+	Eternal Kingdom
+	Effect:Disable/Remove all other skill effects in the same space, restoring them to their original state, and prohibit others from using skills for 1 hour.
+Tactics:Used to break time loops or remove control states.
+	Thu Y Nung
+	Slayer of the Wilderness
+	The Vortex of Time
+	Effect:Reset the time to go back 5 minutes into the past. The user retains their memory.
+Command:You have to say "I'm lying" to activate it.
+Tactics:Continuous trial and error is essential to finding the optimal solution.
+	Cao Tu
+	Slayer of the Wilderness
+	Push Chaos to Nothing
+	Effect:Manipulating one's own cause and effect. Erasing a past action/mistake (e.g., canceling a wrong stock purchase order).
+Limit:It only affects yourself, not others.
+	Truong My Le
+	Slayer of the Wilderness
+	Death's Attention
+	Effect:Summon the Giant Eye. If the target under its gaze performs an action unrelated to decoding (such as using a skill or wielding a weapon), they will be punished (fall into an abyss).
+Tactics:Control their actions, force them to stand still.
+	Ly Tri Dong
+	Demon Language Master
+	Mount Tai Presses Down
+	Effect:Psychological attack. Causes extremely strong hallucinations (Alice Syndrome), making the victim see fire, feel oppressed, experience burning pain, and lose themselves.
+	Long Hui(Tam Tinh)
+	Demon Language Master
+	Careful Words
+	Effect:Within 5 minutes, if the target remains silent or speaks nonsense (not logical reasoning/dialogue), they will lose a certain level of common sense/knowledge.
+Tactics:Force your opponent to constantly think and communicate in order to reveal their weaknesses.
+	Thursday, Choose One(Tam Tinh)
+	Slayer of the Wilderness
+	Emperor Xuat Tam Giang
+	Effect:Control and enhance other players' skills. You can take control of an opponent's skills and increase their level/power.
+Tactics:"The tables have turned," meaning using the opponent's own strength to destroy them.
+	Da Kiet(Tam Tinh)
+	Slayer of the Wilderness
+	Messy
+	Effect 1:Disconnecting consciousness. If we are satisfied with two actions, our consciousness will not register the memory of the third action.
+Effect 2 (Hidden):Memory anchors. Mark memories so they won't be forgotten even if time is reset.
+Tactics:Countering time manipulation and information disruption techniques.
+	Chu Than
+	Slayer of the Wilderness
+	Visional
+	Effect:Create an illusion, trapping the opponent in a simulated space.
+
+Phase 1: The Trap
+1.1 Introduction: Game reasoning.
+1. Deductions about the secret chamber
+* Upon entering the second secret chamber, all nine people were moved onto floors measuring only 2 square meters, where a computer was displaying the game "The Rich Man".
+* After the first secret, everyone deduced the following premises:
+* If the subway employee wants to take revenge on the hospital, it means he brought his child to the hospital beforehand.
+* He went to the hospital without treatment, came home, his illness relapsed, and he eventually died at subway station number 4.
+=> Inference: Since they arrived and couldn't get treatment, and then had to come again, the child's illness wasn't a terminal disease that would kill them immediately. Otherwise, the two of them wouldn't be able to take the subway; they would have to call an ambulance.
+* It's not an incurable disease, yet it's still untreatable => there are two possibilities for the child's illness.
+1. Because we were too poor, we couldn't afford treatment and could only bring our child home.
+2. The disease isn't too dangerous, but it requires waiting for treatment at a hospital, such as organ transplantation, where a suitable organ must be found.
+        => Further deduction: If they were poor, they wouldn't be able to take the subway to the hospital for treatment because they knew they couldn't afford it. If they were wealthy, they would have been cured on the first try.=> Therefore, the child with the disease needs an organ transplant. The fact that they took the subway to the hospital shows that they had a suitable organ match.
+=>Further deduction: From what has been inferred above, it seems the hospital did nothing wrong, so why would the subway employee want revenge?
+* There seems to be only one possibility: the organs were stolen. Originally, it was their child's turn for an organ transplant, but the hospital gave it to someone else. This is the real reason why the subway employees harbor resentment towards the hospital.
+=>This means that organ thieves either have power or money.
+=> Further deduction: Ton Long (the player who died in secret chamber 1) will die after answering the child's question at station 4.
+* When Sun Long died, his hand was clutching his heart, meaning the organ the subway worker's child needed was... his heart!
+        So, the scenario would be: A subway employee takes their child to the hospital, but initially the hospital doesn't have a suitable heart, so they have to take the child home to wait.
+* Logically, if the hospital had already donated the heart to someone else, they wouldn't have informed the subway staff again... But for some reason, the subway staff knew their child had a compatible heart, so they must have gone to the hospital to question them many times.
+* And then finally, on the way to the hospital, at the third stop, the child's heart suddenly started hurting… But because it was raining and there were puddles at the station, along with a broken power line, the passengers who had just stepped out of the car were electrocuted to death.
+* When the subway arrived at the fourth station, panicked passengers got off, the subway staff and the child remained there, and the child eventually died at the fourth station.
+* That's why the subway employees set the train on fire and then went to take revenge on the hospital.
+* In conclusion, there is no connection to the organ thief…Therefore, the second secret chamber must be connected to the organ thief.
+=> The game "The Rich Man" is about playing capitalist games to make a lot of money, but the person who steals the child's organs is rich => So subway employees or NPCs hate rich people for stealing their children's organs => The person who earns the most money will die, and anyone who goes bankrupt will fall into the abyss => We must devise strategies to control the flow of money.
+* At the same time, the company's location should not be disclosed; the principle is very simple:
+* If a player says their company is ranked number one, their opponent will surely try to bankrupt their company… And if you think that teammates have a soft spot for you or are allied with you, they will band together to deal with others, the truth is probably much more complicated.
+* For example, if Thu Y Nung is being financially scammed by someone, and Tran Nhien knows it's Thu Y Nung, then others will know that Tran Nhien's company is helping Thu Y Nung, and the situation will turn into a 2 vs 7 situation!
+* In other words, if initially only one person died, now two people will have died.Therefore, in this game, no one is allowed to reveal their company's registration number.
+(Reasoning, Thinking)
+
+1.2 The treacherous world of business
+1.2.1 Luring the Fool into the Trap.
+After making the selections, everyone began calculating the operational costs.
+1. There are 100 employees, with a salary of 100 per person per location.
+1. Every minute that passes, a portion of the employee's salary will be deducted.
+2. We opened the market, bought the ingredients, and according to the announcement, 100 people could buy 100 portions of ingredients. Each portion costs 50,000 VND => So, it costs 500,000 VND.
+3. The company needs five minutes to produce one batch of raw materials. The initial capital in the market is 1 million. Therefore, the costs can be calculated.
+i. Materials: 500,000.
+ii. Employee's salary for 5 minutes: 50,000.
+iii. And after production is complete, the machinery needs maintenance: 50,000.
+The total cost is 600,000.
+4. The products made, if sold to the market, would be purchased at the following price:
+5. 80/piece, profit is 200,000.
+6. But, if you buy that product at the market, it costs 100 each.
+7. In other words, if you want to sell that product to the company below, the price will be somewhere between…80-100.
+After 5 minutes—that's the first capital turnover.
+* Everyone's capital increased to 1,200,000, but at the same time, the salaries of 100 employees were 60,000, and the machinery maintenance costs were also 60,000.
+* And an event is triggered.
+* Event: 【Heavy rain】(Note: Please address this issue within 1 minute, otherwise the company will be notified on the stock exchange.)
+* There are two options:
+1. Failure to process: Products in the next batch will be partially or completely defective, and the company's stock price will fall.
+2. Solution: Labor cost 50,000, warehouse repair cost 100,000.
+3. Note: If not processed before the time runs out, it will be counted as not processed.
+At this event, Chen Ran held 100% of the shares, totaling 1 million shares, each priced at 10 yuan. After careful consideration, Chen Ran decided not to handle the event; instead, he made his move.
+1. Tran Nhien sold 490,000 shares on the market, which were then bought back by other companies.
+2. Due to massive selling pressure, the stock price fell to 9 points per share.
+3. Company No. 8, due to the impact of storms and heavy rain, suffered warehouse damage, and 30% of the products in the next batch are likely to be defective => Stock price gradually dropped from 9 to 7 VND/share.
+4. Witnessing this scene, investors rushed to sell off their shares => The stock price hit a low of 5 dong.
+5. At this point, Tran Nhien bought back 450,000 shares.
+6. Summary:
+* I bought 450,000 shares.
+* Holding 96% of the shares.
+* I sold 490,000 shares and earned 3,200,000.
+* Buying back 450,000 shares cost 2,250,000.
+* => We cut 950,000 in profit.
+Here, instead of handling the situation, Tran Nhien uses capitalist tactics to "cut the leeks," in this case, short selling.Short-selling).
+To put it simply: Short selling is like "borrowing a toy to sell first, then buying it back later."
+Imagine you have a friend named Độ, and you know for sure that Độ is about to bring a rare PC to class to trade for trading cards.
+1. Step 1: Borrow & Sell immediately (When prices are HIGH)
+You think to yourself:"The school will definitely ban toys next week, so nobody will want to trade this PC anymore, and its value will drop significantly."
+You borrowed Độ's PC temporarily, promising to return it next week. Immediately, you sold it to another classmate for 100,000 dong. You now had the money.
+
+   2. Step 2: Wait for the price to drop (which you PREDICT)
+As expected, the school announced a ban on toys. No one was interested in that PC anymore. Its value dropped to just 20,000 dong.
+
+      3. Step 3: Buy Back & Pay Back (When the price is LOW)
+You go to a used toy market (or similar store) and buy an identical PC (or the same one) for 20,000 dong. Then, you return it to Do (the friend from whom you borrowed it).
+
+         4. Result: Profit or Loss?
+         * Initial amount of money you had (from sales): 100,000 VND
+         * The amount you spent (to buy it back): 20,000 VND
+         * Your profit:100,000 - 20,000 = 80,000 VND
+The sale of 490,000 shares, equivalent to 49% of the company's stock, was both the initial step in luring potential buyers into a trap (selling large quantities would lead to a drop in the stock price from 10 to 9 dong), and also ensured that the seller would always retain over 50% ownership to maintain control of the company.
+The key to Short Selling is that players must predict that the value of an item/stock will decrease in the future. In Tran Nhien's case, he had information about an impending rainstorm that would damage his company's products, allowing him to easily trick other players into buying the shares he knew would decrease in value within the next 5 minutes (9 → 7 dong).
+Furthermore, the mass selling after the stock price drop (abandoning ship) was also anticipated by Tran Nhien, which would cause his company's stock price to fall even more sharply (7 → 5 dong).
+All of this maximizes the profit Tran Nhien earns after buying back in.
+(Tactics, Traps, Knowledge, Foresight)
+However, this short-selling tactic is actually just part of a much deeper trap.
+Objectively speaking, the short-selling tactic is nothing new to those with even a little experience in the stock market. By this point, most players have at least had ample time to familiarize themselves with these kinds of concepts (many previous puzzles were solved based on clues from game theory/economics). The rules of the game also include a mechanism for notifying in advance of future events, making it quite clear to relate this to the short-selling strategy if one is aware of it.
+So why do they all still fall for the trap like clueless chickens? The answer is to lure out the real chicken in this game. The probability isn't high, but finding someone who has never been exposed to the stock market would be very convenient for their plans later.
+Chen Ran had, of course, planned this in advance. The way to identify the inexperienced buyer, which was the real trap, lay in the first step of his short-selling scheme. The drop in stock price due to Chen Ran's large-scale selling was the first part. The rest was the coordinated effort of other players who simultaneously bought the shares Chen Ran sold. These two things combined would create a false impression of opportunity for the inexperienced buyer, as they witnessed the decline in the competitor's stock price, and also create herd mentality/FOMO => Leading them to immediately buy a large quantity of Chen Ran's company's shares without careful consideration.
+And the reality is that those involved in this scheme only bought a small portion because they were fully aware of Chen Ran's trick, which was mainly to lure in naive buyers into purchasing more. Assuming no one fell for the trap, they wouldn't lose much money after reselling.
+Looking closer, Tran Nhien was actually the biggest beneficiary here. He foresaw that the other players would go along with his scheme, accepting a small loss to lure the naive fool out as he had hypothesized. The trick here is that while the loss might be small for each person, when everyone followed the plan, the total benefit for Tran Nhien was significant. And above all, he also identified the fool's company owner. In short, Tran Nhien gained information and profited nearly 1 million in finances instead of paying a small loss like the others.
+(Info Gather, Mind Read, Tactics, Psychology)
+And indeed, that fool exists in this game: Chu Chen. In the initial trading round, Chu Chen was the one who bought the most shares of Chen Ran:
+         1. The account balance is 1.01 million.
+         *          2. It might seem like Chu Chen is making a profit of 10,000, but the costs increase each time the capital is rotated.
+i. The salaries of 100 employees increased to: 60,000.
+ii. Maintenance fees have also increased to 60,000.
+=> The reality is that we're losing 10,000.
+         *          3. He didn't understand market principles and thought, "Currently, the salary of 100 employees per minute is 60,000. If I fire them all and hire another 100 employees in the shopping mall, the total salary will still only be 50,000." => Mass layoffs => Stock prices plummeted, and he thought other companies wouldn't dare buy because they feared Chu Chen would do the same as Chen Ran.
+         *          4. But Chu Chen's shares were still bought up.
+         * Shareholding situation of company number 6 (Chu Than):
+         * Corporate shareholding: 83%.
+         * Shareholding of company number 8: 8% (Tran Nhien).
+         * Company No. 1's shareholding: 4%.
+         * Company No. 3's shareholding: 3%.
+         * Company No. 5's shareholding: 2% (Boss)
+         * The account balance is 2.2 million.
+         *          5. While Chu Chen was trying to figure out how to get the stock price back to its original level, Company 5 (the boss) bought another 3% of the shares => Chu Chen now owns 80%.
+         *          6. This activates the mechanism: "When the number of shares held by a legal entity that cannot be sold is at 100%, 80%, 60%, or 40%, the company will automatically offer 20% of its shares for sale on the market."
+         *          7. Upon learning this, Chu Chen hastily sold off 1% of his shares. However, as if they had discussed it beforehand, everyone remained indifferent to that 1% stake.
+         *          8. Chu Chen's stake remains at 80% => the mechanism triggers the release of 20% of shares onto the market (meaning Chu Chen currently holds 80% but 20% is being forced to be sold on the market). If left unchecked, after a few rounds of capital turnover, people will have the money to buy that 20% => Chu Chen will have 60% left and will again be forced to keep 20% suspended => eventually, it will drop to 40%, leading to the loss of control and the company's demise.
+         *          9. Faced with this situation, Chu Chen immediately had to buy back 1% of his own shares so that they would no longer be in a pending state. Of that, 61% was unsellable, and 19% was waiting for someone else to buy it. Therefore, if someone bought the remaining 19%, he wouldn't be forced to sell the remaining 20%..
+         *          10. After this incident, Chu Chen truly understood the laws of the market: In this game, both the leading players and the last ones will be ruthlessly eliminated. He wondered if he could survive until the end if he didn't participate in the stock market. The answer was no! Because employee salaries and equipment maintenance costs would gradually increase over time => If he only focused on production, the current funds would quickly become insufficient to cover expenses. In other words, this was a dead end: either plunge into fierce competition to devour rivals, or accept bankruptcy, which meant certain death.
+         *
+         11. So, in the second round, with 2 million, he hired 130 more employees. The total number of employees in the company became 200. => Because company number 6 (Chu Shen) expanded its production scale, the stock price returned to normal.
+Chu Chen's actions and calculations were all part of others' plans. From the fact that after discovering losses from Chen Ran's short selling, he would have to cut staff, thereby reducing the value of his company's shares, to struggling with the mechanism of being forced to sell unsuccessfully, he would inevitably realize the rules of the market and could only expand production while waiting for the next capital cycle to compete.
+And soThen, everyone had completed the first trap, luring the fool, Chu Chen, into working for others by having to release the money he earned to pay dividends to other companies (even more because they also benefited from the company's production expansion, the costs of which were borne by Chu Chen), and becoming a scapegoat to test the rules of the game.
+(Manip, Plan, Strat, Foresight, Mind Read, Prep)
+         * NoteEveryone has identified the culprit as Company No. 6, but they don't yet know who the player behind it is.
+1.2.2 Stupid Sheep
+Capital turnover cycle 2.
+After sending the fool to discover the rules, the others focused on accumulating wealth.
+         * Company No. 8 (Tran Nhien) expanded its production scale, and its stock price returned to normal levels.
+         * Company number 1 expanded its production scale, and its stock price increased.
+The players began to calculate.
+         * Currently, apart from company number 6 (Chu Chen) and number 8 (Chen Ran), all other companies are 100% owned by legal entities (owners).
+
+         * However, when the number of employees reached 300, they had to buy new equipment to continue expanding. But, a set of equipment costs 8 million.
+
+         * This means that, next, they will have to trade with each other, or use stock trading to raise enough money to buy the equipment.
+
+         * Based on the current situation, the strongest entity is company number 8, which not only has the largest profit but also holds an 8% stake in company number 6.
+
+         * Next is company number 5, which acquired a 4% stake in company number 8, and also acquired a similar 5% stake in company number 6.
+
+         * In this round:
+         * Each company has 300 employees.
+         * Each person's salary: 200 yuan/person/minute.
+         * Therefore, to produce one batch of goods, 300,000 in wages must be paid (200 x 5 x 300).
+         * Equipment maintenance costs are also similar, so producing a batch of products would cost a total of 600,000.
+This is what is called the fierce market rule, forcing everyone to constantly expand production, otherwise they will be crushed by rising costs.
+         * But the cost of buying new equipment to expand production is now: 8 million = 8 million.
+From this point, one can implicitly conclude that the person selling their shares to buy equipment at this time would be the foolish sheep.Thinking, Reasoning)
+Currently, the companies' share prices are 15 yuan per share, which is the highest price before the production expansion.
+At this crucial moment, Company No. 5 (the boss) intervened: They dumped 290,000 shares.
+a. Due to the sell-off, the price gradually dropped to 12 yuan per share, which is the cost level at which other companies could afford to buy.
+b. 490,000 shares were sold out (including 290,000 shares sold voluntarily and 200,000 shares forced to be sold due to the price having previously fallen to 80%).
+c. Company No. 5 (the boss) earned nearly 6 million after selling 490,000 shares.(490,000 x 12 = 5,880,000)+ Existing assets will be sufficient to fund production expansion (total needed: 8 million).
+d. If they simply expand production, the stock price of company number 5 will return to normal, and then they can make a considerable profit by buying the stock now.
+This is exactly what players calculate when they buy.
+However, Tran Nhien realized this was a trap:
+         * Firstly, company 5 played it right in the previous two rounds, not only acquiring 4% of the shares in Tran Nhien's company 8 but also 5% of the shares in company 6. => The costs could be covered solely from the commission.
+
+         * Secondly, the person selling their shares to buy equipment at this point would be the fool. This stems from several reasons related to the nature of the market:
+
+         * 8 million dollars for production expansion demonstrates that this will be a major overhaul, and the stock price will certainly rise sharply. Imagine this as the opposite of short selling (selling hastily knowing the stock price is about to fall); no one would sell something they know is about to increase in value.
+
+         * Furthermore, the key point is that after expanding production, there's a high probability that the number of shares issued will increase. For example, if your company initially had a total of 1 million shares, and after expanding, that number increases by 1 million shares, then your shareholding will be diluted.
+
+         * The legal entity of Company No. 5 (the boss) currently holds 51% of the company's shares, which could fall to 25.5% after dilution. Even if they don't issue 1 million shares, a significant portion of their holdings will still be diluted to below 50%, leading to a loss of control over the company.
+
+         * Ultimately, after the stock price has skyrocketed, it will be very difficult to buy back the shares to secure your stake.
+=> From all of this, Tran Nhien concluded that Company No. 5 absolutely could not have made such a mistake based on what had been shown previously. From this, he deduced the man's intentions and decided to act accordingly.
+         * Tran Nhien tested the waters by selling 50,000 shares, causing the price to drop to 14 yuan, but no one bought them. He then sold off another 100,000 shares, bringing the price down to 13 yuan, and another 100,000 shares, bringing the price down to 12 yuan.
+
+         * When the price reached 12 yuan, other companies jumped in and bought up all the shares. The distribution of shares was as follows:
+         * Legal owner: 51% (Tran Nhien)
+         * Number 5: 29% (Boss)
+         * Number 6: 10% (Chu Shen)
+         * Number 7: 5%
+         * Number 3: 5%
+
+         * Tran Nhien currently has 12.38 million (12.38 million), more than enough to expand production (8 million). But Tran Nhien didn't do that.
+
+=> The trap is now revealed. Companies 5 and 8 want to convert shares into cash, wage a financial war to crush the companies that bought shares but have limited finances. And here, the target is obviously the "foolish sheep" they identified at the beginning of the game (Company 6).
+The system has the following layers of thinking:
+a. Costs increase progressively with each cycle => eventually, profits will turn negative => bankruptcy.
+b. If the farm only produced goods in the usual way, it would definitely fail => Therefore, it is necessary to rely on the stock market to raise additional capital to expand production.
+c. But for the reasons analyzed above, however you can earn more, you absolutely must not sell your company's shares at this time (the reason why you are a "foolish sheep"). => Those who see (c) will avoid becoming scapegoats, and at the same time be ready to take advantage of anyone foolish enough to sell their company's shares (only thinking of (b) by immediately buying their shares).
+d. Actually, there is a way to take advantage of this way of thinking, and that is to choose not to expand production, as Boss and Tran Nhien did.
+To appear as though they could only think of (b), they sold off their company's shares => Those who invested heavily may go bankrupt first because they cannot extract the added value from commissions to compensate, while costs continue to erode.
+The truly foolish sheep are not those who only see (b), but those who only think of (c), and consider themselves intelligent without considering the strategy from the perspective of others.
+(Tactics, Mind Read, Set traps, Prep)
+There was only one thing that caught Chen Ran's attention: the fact that Company No. 5 had bought a large amount of his shares.
+
+1.2.3 The God of the Underworld Breaks His Tail to Survive:
+Another production cycle has ended.After seeing that companies 8 and 5 weren't expanding production, Chu Chen realized their intentions: the two companies were secretly converting shares into cash by artificially inflating the price, trapping him as an investor.
+Initially, he bought the shares believing they would expand production and generate significant profits. However, the reality was quite the opposite. Both companies deliberately delayed purchasing new equipment, leading to ever-increasing operating costs while revenue failed to keep pace, pushing the companies into a prolonged period of production losses.
+While companies number 5 and 8 had sufficient cash reserves (from selling shares) to weather the period of losses, Chu Chen found himself in a deadly predicament. All of his capital was locked up in the shares of those two companies. When the inability to cover expenses became apparent, he no longer had the cash to cover the financial deficit.
+Worse still, if he tries to sell the shares to cut his losses and get cash back, but no one buys them (because they are controlling the pace and don't want the price to collapse too soon), he will completely lose liquidity. At that point, bankruptcy will only be a matter of time. In short, he's been pushed into a "dilemma": Holding on means slowly dying from accumulated losses, selling means immediate ruin because he can't get rid of the stock.
+Now that Chu Chen knew he was in a death trap, he began searching for a way out. To do so, he had to find a way to entice other players with an "offer they couldn't refuse."
+He analyzed that from the legal perspective of company 5 or 8, they would not let company 6 (Chu Chen) go bankrupt, because if company 6 went bankrupt, the large amount of shares it held would flood the stock market, easily leading to serious dilution if the other companies expanded production and stock inflation occurred.
+This happened because, in order to maintain financial dominance throughout the game, companies 5 and 8 traded their stakes in the company down to a minimum (51%). Now, suppose that their 51% control could be diluted to 25.5% after just one issuance of 1 million shares, they would not have enough cash to buy back (due to expenditures on expansion) to protect their control.
+Therefore, the ultimate goal of numbers 5 and 8 is not to immediately bankrupt number 6, but to continue "fleecing" him: keeping Chu Shen alive long enough to extract more money, earn enough profit, and then expand production and increase stock issuance to buy back their own shares.
+Chu Chen also considered another scenario: if companies number 5 and 8 relied on their abundant cash flow on paper, they could proactively engage in a war of attrition with the other six companies. However, the other six companies weren't fools; they could also form a secret alliance: jointly selling off shares to create liquidity, borrowing capital temporarily, and then simultaneously expanding production, triggering a cycle of cash flow to save each other. Simply put, this was afuture liesIt was set up between six companies:I'll buy your shares first so you have money to expand production; when you make more profit, you'll buy back my shares so I can expand too.”.
+This alliance will prevent companies number 5 and 8 from risking getting involved in a war of attrition. Therefore, their best option remains to continue "fleecing" Chu Chen slowly. But how exactly do they do it?
+With the meager amount of cash remaining on the books, even a small financial leak would immediately bankrupt his company. To avoid a passive, certain death, he would be forced to proactively "cut his tail to survive": massive layoffs to reduce operating costs, causing the stock price to plummet.
+When the price falls to an attractive level, companies number 5, 8, and even other hidden firms will rush in to buy up large quantities of shares like hungry wolves. Following this market principle, Chu Chen must raise capital from selling these shares to expand production, as only then can he restore and increase the share price.
+But what if Chu Chen goes back on his word and keeps the money instead of expanding production? After all, this has happened before with companies No. 5 and 8. In that case, he'll have some capital back to maintain operations and even counteract losses if necessary. Meanwhile, the shareholders will be left with untapped shares. → This is a scenario other companies absolutely do not want to see.
+Therefore, Chu Chen had to sell at least 51% of his shares to other companies on the market to "guarantee the commitment." Then, if he didn't proactively expand production, they could use the joint shareholders' council to directly intervene and force the expansion of production at Company No. 6.
+In short, the only way out is: Through layoffs, driving down the stock price to attract buyers, and ensuring that the total shareholding of other companies within Chu Chen's company exceeds 51%. After his company (forced) expands production, shareholders will reap huge profits from the recovery/surge in the stock price of company number 6 without incurring a single penny, as the financial burden of expansion is entirely shifted to Chu Chen (the legal entity). → In this way, Chu Chen will not die immediately.
+Furthermore, in the long run, Chu Chen still has a chance to regain control of the company. This is because he can use profits to buy back shares from shareholders at a high price. Other companies, no matter how much they want to maintain their manipulative practices, will have to consider the point when Company No. 6 is no longer valuable enough to exploit, like a skinny sheep that doesn't have enough nutrients to feed nine fat parasites. → To maximize profits, they will want to sell Company No. 6's shares when they are at their highest value, making huge profits from the difference (buying at a low price) to continue expanding and buying back their own newly issued shares. This will only happen after at least several more rounds, after Company No. 6 expands its production.
+=> This is the only way. If they don't sell off their shares, Chu Chen will certainly be the first to die. If they sell off their shares to support others, even though Chu Chen is still the weakest company, it's highly likely they'll eventually be toyed with until they die (buying back their own company's shares at the peak is extremely difficult and they'll likely face financial ruin afterward), but at least they'll still be holding on and have a glimmer of hope of turning things around.
+This is the "impossible to refuse" scenario that Chu Chen will be forced to create to maintain himself: wagging his tail and begging to be exploited, accepting being systematically exploited. Because he knows that what he's plotting, those others surely already know as well.
+(Adapt, Thinking, Mind Read, Foresight, Psychology, Tactics, Persu/Nego)
+The question is, exactly how should we sell it?
+Currently, Chu Chen holds 80% of the shares => to reduce his stake to below 51%, he needs to sell 31%, leaving him with 49% (a safe margin so that he can later simply buy back shares to regain control, plus just enough for other companies to take control through the shareholders' council).
+So, what price should we sell it for? Let's continue calculating.
+First, a proactive large-scale workforce reduction is necessary to push the stock price down to an attractive "freezing" level, but not too low; if the price falls too sharply, even if all shares are sold, the proceeds will not be enough to restart production expansion.
+More specifically:
+         * Current finances: 1.8 million
+         * Required costs: 8 million (expansion machinery purchase) + 3 million (materials) + 1 million (maintenance & labor) = 12 million
+         * If you sold 80% of company 6's shares at the current price: 15 VND/share x 800,000 shares = 12 million VND => Crazy! Obviously, you can't sell them all.
+
+         * There is still one usable source, which is 10% of the shares of companies number 5 and 8: 12 dong/share x 200,000 shares = 2.4 million.
+         * However, these shares cannot be sold anytime soon because no one will buy them. The reason is simple: for other investors, companies 5 and 8 have shown no intention of expanding production, meaning these shares are unlikely to increase in value in the near future. As for the owners of these two companies, they obviously don't want to buy back their shares until the price falls below the selling price (which is still 12 dong).
+         * Therefore, Chu Chen had to sell a large amount of shares in company number 6 (31%) first to create a shockwave in the market: this action would stimulate competitors (especially companies number 5 and 8) to rush in and buy up shares of company number 6 at a low price to control and avoid the risk of power dilution if his company went bankrupt. In addition, the surge in trading volume and strong participation from other companies would heat up the market, increasing overall liquidity, making shares of companies number 5 and 8 easier to sell. At that point, competitors would be willing to buy back their own shares that he held to consolidate his position. Only then could he achieve the projected 2.4 million.
+
+         * Total potential resources (excluding the sale of company 6 shares): 1.8 million (cash) + 2.4 million (sale of shares held in companies 5 & 8) + 1 million (profit from the next product batch) = 5.2 million
+         * Actual shortage:12.0 - 5.2 = 6.8 million. If 31% of the shares (i.e., 310,000 shares) are sold to fully cover the shortfall, assuming no additional share issuance occurs.Currently, no one can confirm whether the game will automatically issue additional shares when production expands, so all calculations are based on assumptions from both sides.) then each share would need to reach approximately 21.9 VND => The price is too high compared to the current market (15 VND), not feasible because competitors are pushing the price down.
+         * If they tried selling more, for example 60% of the shares (600,000 shares) to raise 6.8 million, each share would be approximately 11.3 dong => This is still not feasible because selling more than 51% would cause Chu Chen to easily lose control permanently, violating the principle of "the tail of the horse is broken" with no way back.
+Only then did Chu Chen realize that the only way out they offered him was a gamble: a gamble that after expanding production, the company would issue more shares; at that time, the money from competitors buying new shares would flow directly into the books of Company No. 6, and Chu Chen wouldn't need to prepare money for raw materials and employee maintenance.
+Therefore, he currently only needs to raise approximately 2.8 million (6.80 - 300 - 100 = 280) to cover the initial equipment purchase. If he sells 31% of the shares to raise 2.8 million, each share would only need to be priced at around 9 dong.
+Conclusion: The lowest selling price that still covers the costs of expanding production is 9 dong.
+Chu Chen considered further: what if selling 31% still didn't attract buyers? Probably not, because if he was determined to go all-in, after his downfall, the remaining companies would pool their resources; companies number 5 and 8 wouldn't profit much, while the others, aiming to maximize their gains, would certainly exploit company number 6. Therefore, selling 31% of the shares for 9 yuan would definitely attract buyers.
+Having been forced from 15 yuan down to 9 yuan just to "survive," Chu Chen couldn't help but curse inwardly.
+(Thinking, Reasoning, WMI, Mind Read, Anticipate, Tactic)
+
+1.2.4 Cao Tu's Grand Plan
+After figuring out a way out, Chu Chen was about to stand up and speak when Cao Xiu said in a low voice:
+- We know what you're waiting for, if only a little while longer. Company No. 6They forced the stock price down to 9 dong."We hope you will be able to tell lies in the future."
+- In the next major production expansion. belong to our company,"If a stock price surge occurs, you must immediately purchase 500,000 shares. There are 8 of you, that's exactly 4 million, which should be enough to cover raw materials, employee salaries, and equipment maintenance costs after I expand production."
+- Anyway,Company No. 6It's highly likely that this company will be the first to undertake large-scale production expansion… If there weren't the constraints of future lies, then a large percentage of you wouldn't buy bull market stocks.Company No. 6.
+No one was surprised by Cao Xiu's request; after all, they were the ones who had pushed Number 6 into this situation. Moreover:
+         * The share price of 9 dong excludes reproduction costs after scaling up.
+         * Company number 6 is short of money if no one buys the newly issued shares.
+         * Company number 6 will go bankrupt.
+But no one was in a hurry to answer; in fact, the main power in this capitalist game lay in the hands of company number 5 and company number 8. Whoever took the initiative to answer could be company number 5 or company number 8, so the others were temporarily just observing the situation.
+At this point, Chu Chen spoke up:
+- Okay.
+- From a financial perspective,Company No. 8It is probably the most abundant.Facing If you agree, why would you refuse? Do you want to cause trouble for Company No. 6?
+Truong My Le chimed in: Okay.
+Thoughts from Li Zhitong and Thu Yinong (also representing the other players):
+- Based on the way they spoke, it seems that company number 6 is Cao Tu, number 8 is Chu Chen, and number 5 is Zhang Meili. It's easy to see from the context that the words in bold all indicate that the speaker is the company in question. Furthermore, as analyzed, numbers 8 and 5 are the two companies most closely influenced by this proposal, so whoever spoke first is likely the owner of those two companies.
+However, this is a very superficial understanding, and it also "reveals" your company's registration number to others (which, as mentioned earlier, is not advisable at all). Players still alive today are unlikely to make such a mistake.
+Therefore, if viewed from the opposite perspective, they are deceiving us. Cao Tu is not the owner of company number 6, Chu Chen is not the owner of company number 8, and Zhang Meili is not the owner of company number 5.
+Remember Cao Xiu's words.
+         * He only used the word when talking about buying stocks.‘’facing’’ The lie/proposal in the future is essentially this: When Cao Tu's company expands production on a large scale, other players must buy shares of Cao Tu's company.
+
+         * And to further reinforce the impression that Cao Tu's company was number 6, he deliberately inserted the subject "I" intermittently.Facing'' with Company No. 6But the problem is, he cleverly avoided lying in the sentence "Company No. 6It is very likely that this will be the first company to undertake large-scale production expansion.
+
+         * Because, indeed, the expansion of company number 6 was already anticipated by everyone and was essentially certain to happen, so the above statement can be confirmed as true. Cao Tu deliberately used "Company number 6" instead of "our company" in the above sentence because he was not actually number 6 => If the statement were "Our companyTo say that it was most likely the first company to undertake large-scale production expansion would be a lie.
+
+         * Because his statement creates the impression that Cao Tu = number 6 (while no one knows what number Cao Tu's company is according to this line of reasoning), buying only shares of company number 6 would mean violating the lie in the future, which would be tantamount to lying.
+- Conclude, Cao Tu is most likely deceiving us. If this trick is exposed, it will simply be a failed deception, with no losses incurred. But if they manage to trick them, it might end up killing one or two players.
+- And that's not all; there might be someone who discovers Cao Xiu's lies but doesn't expose him, instead cooperating with him in the charade.
+         * For example, Chu Chen and Zhang Meili, if they both say "yes," it's possible they've fallen into Cao Xiu's trap, or... they're collaborating with Cao Xiu on a project!
+
+         * If it's a collaborative effort, it means that during the expansion of Cao Tu Company (not number 6), they will purchase 500,000 shares. But the problem is, Chu Chen and Zhang Meili don't even know which number Cao Tu Company is, so how can they buy them?
+
+         * Thu Ý Nùng couldn't deduce the company number of Cao Tu from what had been shown; perhaps there was some kind of secret code between the three of them?
+         * So, is it possible that Cao Tu's company is actually number 6, and that he deliberately used such "vulnerable" wording to mislead others?
+         * No conclusion can be drawn.
+The players fall into a vicious cycle of contemplation.Thinking, VCI)
+At this moment, Zhang Meili spoke up: "I'm sure everyone has already figured it out, so I won't hide it anymore."Our company is… Company No. 5!
+Everyone was surprised that she didn't use any evasive words to cover up her lie, but instead stated it directly, which definitely means Zhang Meili = number 5. Doesn't Zhang Meili understand the consequences of revealing the company number?
+Truong My Le is not afraid that if people find out her company is number 5, they will target her for assassination. She argues:
+- Company number 5 recently used 3 million to buy shares of company number 8.
+- The current account balance is 5.12 million.It would be perfectly fine to wait until number 8 expands production before expanding further; it wouldn't be too late.
+- Company No. 5 previously had a share price of 12 dong per share, and has now purchased 250,000 shares of Company No. 8, in addition to the 40,000 shares already acquired. => Company No. 5 now holds 29% of Company No. 8's shares, waiting for Company No. 8's share price to increase before selling to make a profit and expand production.
+- Simply put, given the financial resources of company number 5, in this investment round, no one can possibly ruin Truong My Le.
+- This also explains the action of company number 5 in purchasing a large quantity of shares in company number 8.Something that seemed meaningless at the time (they must have known that the stock manipulation was just a trap set by Tran Nhien to "lure the sheep," yet they still bought it). It turned out to be a kind of insurance plan for Truong My Le.
+These words seemed very subtle, but Li Zhitong discovered the problem:
+- Company No. 5 recently sold 49% of its shares and bought 25% of Company No. 8's shares, both of which were priced at 12 dong per share.=> It could be said that company number 5 has sold 24% of its own shares.
+Furthermore, company number 5 also holds 5% of the shares in company number 6.=> With initial capital + proceeds from selling 24% of shares + 5% commission…=> Theoretically, company number 5's account should have been very well-off. But she said it only had 5.12 million - almost the same as an average player like Li Zhitong.
+- Truong My LeYou're lying!
+Thinking this, Li Zhitong reached for the Slayer of the Wilderness at his side, preparing to draw it out and judge, when Long Hui (a Three-Star player on the same team as Li Zhitong) suddenly said that there was a Three-Star player here. Just think, would Zhang Meili dare to lie so obviously that even a Two-Star player like Li Zhitong could see through it?
+Long Hui looked at Zhang Meili and smiled, implying that this deception was quite clever: working together to create an ambiguous situation to provide a "reinforcing answer" to support others' reasoning. And it was an answer that seemed perfect, but upon closer inspection would reveal a "flaw," which she intentionally left there to lure those who "saw through" it (like Li Zhitong) into the trap.
+However, Zhang Meili was somewhat hasty and inadvertently revealed some information in her recent actions. The perspective of the Three-Star level (including Qiu Yinong and Chen Ran) is not as simple as that:
+- First of all, others have already speculated that company number 8 is Tran Nhien based on the military tactics Tran Nhien often uses + Tran Nhien is likely to be company number 8 or 5 with the best performance so far, and number 5 has been confirmed by Truong My Le (which is also the information leaked that Long Hoi mentioned) => Tran Nhien is very likely number 8.
+- But if Chen Ran was number 8, then Chu Chen couldn't be number 8. => From this point, it can be confirmed that there was a staged act between Chu Chen and Cao Xiu (who definitely lied). This proves that there was some kind of secret signal between them, sharing each other's company numbers to cooperate.
+- Cao Tu lied, claiming to be the owner of Company No. 6, which means Company No. 6 is actually Chu Chen. Because the company most eager to push through this stock purchase agreement is none other than Company No. 6, it must have a hand in this scheme (and Cao Tu is not just one of them; Zhang Meili is Company No. 5).
+- Speaking of Truong My Le,she confirmedI am the owner of company number 5. But after calculating the assets of company number 5, it should definitely be more than 8 million. Yet Truong My Le said it was 5.12 million.
+- If Zhang Meili isn't lying, and she's definitely involved in trapping other players, then there's only one possibility...There are two companies number 5!
+- This can be reinforced by the story in this instance: A train station employee's child died because a wealthy man (a tycoon) stole the organ due to a lack of timely heart transplants. => The identity of the remaining owner of company number 5, most likely the wealthy man, was created out of the train station employee's hatred – the boss of this instance.
+(Reasoning, Mind Read)
+Even with all of Zhang Meili's meticulous planning and elaborate scheme following Cao Xiu's plan, she couldn't fool the others. She could only helplessly wait and see what kind of skill her accomplice possessed.
+Continuing the story, Cao Tu urged everyone to make a decision on his proposal.
+The remaining players all just said two words:Okay" and not say "We will buy shares of company number 6."From that moment on, the lie immediately took effect: After Cao Tu's company expanded production, they had to buy 500,000 shares of his stock."
+         * Cao Tu looked at Chu Chen, thought for a moment, then asked him.Have you ever heard of Zhuo Wenjun's "Book of Two Lands"??”
+         * Chu Chen said yes, but this work is heavily reliant on quantity, so he'll keep it brief.
+         * ‘’ “Farewell from now on"In the latter half of the Two Lands Book, at the corresponding verse, we can deduce the quantity, which is the number in our company's name.""Cao Tu said with a smile.
+         * Only then did Chu Chen nod, then looked at everyone and smiled meaningfully: "I forgot to mention,Our company is only number 6.” “Just now, our future lies, which seem unrelated to buying shares when company number 6 expands production (actually agreed/''Okay"With that future lie about agreeing to buy shares in Cao Tu's company, so... I need you to say that again!"
+Li Zhitong secretly thought something was wrong. In her previous deductions, although she had figured out Cao Xiu's deceptive scheme, she felt that:
+- If we can figure it out, then the other players can probably figure it out too. => Everyone is working together with Cao Xiu to sabotage the players who aren't focused.
+- If everyone had figured it out, Cao Tu wouldn't have gotten 4 million for no reason, and we would just be the ones missing out on a good deal.
+=> Therefore, Chu Chen is the key; he can use the fact that he's the number 6 company to force everyone to lie again, force Cao Xiu to reveal the company name, and even gain something for himself.
+- At this point, Chu Chen might be able to recoup some of his losses, Cao Xiu will profit, and we'll also know the name of Cao Xiu's company.
+- In short, everyone benefits.
+- But, unexpectedly, that Cao Xiu played a dirty trick, revealing the company name to Chu Chen. This is meant to ruin everyone.
+- "Letters from Two Places": a collection of letters exchanged between Lu Xun and Xu Guangping, 135 letters. But why did Cao Xiu call them poems? Weren't they letters? Or is there another "Letters from Two Places" collection? And was it written by Zhuo Wenjun?
+- Regarding knowledge, it's not so much about intelligence; it's easy for someone who doesn't know to defeat someone who does. For example, players in the Three Star game who lack knowledge in this area will also be tricked. => Cao Xiu can conveniently attack to see if Three Star has knowledge in this area; if not, it will be an area for Cao Xiu to strategize.
+What Li Zhitong deduced was only a part of Cao Xiu's elaborate scheme.
+The premise is that all players can deduce the survival strategy for company number 6 (Chu Chen): They must cut staff, force the stock price down to 9 yuan to sell 31% of the shares, raise capital to sustain production expansion, and then bet on issuing more shares (increased inflation) to cover subsequent costs (raw materials, maintenance).
+This creates an opportunity for people to "pluck the feathers" from number 6, but also opens up a game of deception surrounding the future lie (the obligation to buy stock when a company expands).
+And the one who seized the initiative was Cao Xiu. He set up a multi-layered trap for the rest of them.
+         * Analysis
+Level 1: Language Traps
+Cao Tu took advantage of the fact that everyone knew Company No. 6's next move, speaking first in a logical context, using skillful language to create the impression that he was Company No. 6.Review Thu Ý Nùng/Lý Tri Đồng's reasoning.)
+The next step was for Cao Tu to take advantage of the objective situation at the company.Number 6 is in need of a binding agreement to purchase shares from other companies., combined with a false subjective impression isCao Tu = number 6, which fabricated a future lie about players having to buy shares if his company's (Cao Tu's company) next production expansion increased the number of shares issued.
+If someone is deceived and buys stock number 6 → Violation of lying (because the obligation is to buy stock of Cao Tu's real company) → Death.
+With the average player's level of information, it would be very difficult to conclude whether Cao Tu is cheating or not, even if there is suspicion that he is not number 6, potentially leading to a vicious cycle (like with Li Zhi Tong).
+As for those with sufficient awareness and reasoning, they will realize that Cao Tu is definitely not number 6, and Cao Tu's strategy will lead them to level 2 → It's still possible to trap a few inexperienced individuals on level 1.
+Level 2: Financial gain + No way out
+Players can conclude that Cao Tu is faking the number 6.Those who knew or speculated that Tran Nhien was number 8 or Chu Than was number 6, deduced from that.This will lead to two cases:
+(1) Don't care → Cao Tu loses nothing
+(2) Borrowing Cao Tu's plan to put on a play → Again, it happened at several different levels.
+- Truong My Le set a trap using "2 companies number 5" to trick and kill a few more people (Ly Tri Dong would have fallen into the trap if it weren't for Long Hoi).
+- Deeper down, those who had escaped Zhang Meili's trap still chose to go along with Cao Tu's charade (saying "okay" to his proposal). This was due to the interplay of interests:
++ On the surface, Cao Tu will gain a huge financial advantage: Everyone says "Okay" to confirm the lie → he gets 4 million (500,000 x 8) free when expanding (everyone accepts because they want to kill others).
+However, this 4 million (500,000 per person) is actually the "fee to force Cao Tu to his death" that each player agrees to pay. The key lies with Chu Shen.
+It's important to understand that the staged collaboration between Cao Xiu and Zhou Chen (on levels 1 and 2) must have involved some kind of guarantee for Zhou Chen – the owner of company number 6. Understandably, at this point, Cao Xiu is the one who benefits most from this temporary alliance.
++ Chu Chen allowed him to "borrow" his company's name to carry out a scheme that would bring Cao Xiu multiple benefits (eliminating other players, gaining 4 million in finances). In return, Chu Chen would gain more support for his future lie (buying inflationary stocks) that would save his life.
++ But Chu Chen could also stand up and declare himself number 6 and demand a lie about the future, because with the calculations made beforehand, it's almost certain no one would refuse to fleece him (and it wouldn't become a werewolf game where Cao Xiu deliberately faked his role, as this is pointless as it has no strategic effect here, and in a situation where the terrifying ability of players like Tam Tinh or Tran Nhien to read minds has been clearly demonstrated, the risk of being judged could come at any time). Therefore, something more reliable is needed for this cooperation, something that would make Chu Chen agree to go along without exposing Cao Xiu's plan = revealing himself as number 6 from the start.
+And in this game, the only thing of core value can only be: Information about the company's registration number.
+Therefore, the collaboration between Cao Tu and Chu Chen most likely took place on the following premise: Chu Chen allowed Cao Tu to subtly imply that he was number 6 in order to execute the plan, and then Chu Chen received the real name of Cao Tu's company.
++ Return to the next step in the plan after everyone agrees to the lie to buy shares in Cao Tu's company.NoteThe calculations here are from the perspective of others, assuming Cao Tu's plan unfolds in the case that they fall into layer 1 (aka dissecting his layer 2 to make a decision). Certainly, Chu Shen would still claim to be number 6 to force everyone to retract their lies if they wanted to fleece him (and of course, he needed to). Simply because the original statement didn't explicitly say "buy shares of number 6," only "our company," aka Cao Tu.
+Essentially, at this stage, Chu Chen will bring the first layer to the surface, openly admitting to deceiving the remaining players on the first layer. He will still ensure that everyone continues to tell a second lie because simply stripping the sixth layer of its feathers will only benefit other companies, regardless of whether they were tricked into buying Cao Tu's company shares or not.
++ The key to breaking the deadlock lies here: the three players, Tam Tinh, Tran Nhien, and Thu Y Nong, all calculated this far. Because they had deduced the basis of cooperation between Cao Tu and Chu Than, they could add conditions to the second lie:Chu Chen was forced to reveal the information he knew about Cao Tu's company if he wanted them to agree to buy shares in the company's growth program No. 6.Ultimately, the one more bound by fate (survival) is Chu Chen, not them (financial interests), in this exploitative decision.
++ In this way, they will obtain Cao Tu's company information from Chu Chen, and will break the deadly trap of agreeing to the first lie (knowing the company number means they just pay the money as agreed). Furthermore, revealing the company could lead to Cao Tu being cornered and killed according to the game's basic strategy. This is why 500,000 yuan per person is the "cost to kill Cao Tu" that each person is willing to pay.
+Furthermore, throughout this process, there's still a possibility that some people might not keep up with the calculations and lose their lives to Cao Tu's trap on the first level → This further eliminates opponents.
+All these calculations are the reason why players who deduced their way to level 2, having seen through Cao Xiu's act, still chose to cooperate (saying "okay") with his scheme to benefit themselves, and even used it to eliminate Cao Xiu completely.
+(Thinking, Reasoning, Mind Read, Tactics, Foresight, Nego)
+Level 3: Control + Eliminate
+Cao Tu had long realized that everyone would conspire to force his phone number out (exactly as planned), so in reality, he never specifically told Chu Chen his number. Instead, they agreed that Cao Tu would hint at his company's number through a topic that Chu Chen could grasp.
+That's why, before Chu Chen publicly declared, "I'm number 6, say that again" (a premise for other players to suggest forcing him to reveal his number), Cao Xiu used "Two Lands Book" to allude to his company's number. The intention was as follows:
+(1) Complete the deal with Chu Shen (before suggesting to ask CT if he had heard of the work Two Lands Book, then reveal the number to CT through a suggestion so that he doesn't fall for the lie 1)
+(2) Actively disclose information to everyone
+Li Zhitong reasoned that Cao Xiu wanted to use this opportunity to gauge the knowledge of the Three Star players in this area in order to strategize with them later. This was a good move in itself; however, the truth about Cao Xiu's intentions was much deeper.
+Cao Tu understood that the Three-Star players were not simple; they were survivors who had lived in Hell longer than them, and their accumulated knowledge was undoubtedly richer.
+Similarly, Tran Nhien and Thu Y Nung also excelled in deciphering the secret chamber in this instance, which is closely related to Chinese culture (divination, the five elements and their interactions...).
+In short, it is unlikely that we can exploit these people's knowledge gaps.
+Therefore, the real target, from the beginning, was only one: Truong My Le.
+Cao Tu, being in the same team (each looking out for themselves) with Zhang Meili (along with Chen Ran and Qiu Yinong), also knew that she was an English teacher for 18 years when she was alive. Therefore, it's possible that her specific knowledge of Chinese literature would be limited (further reinforced by the first secret chamber, which showed almost no decoding/slowness).
+As for the Three Stars players, if they knew the answer themselves, they would surely understand that this scheme couldn't possibly be aimed at them, excluding both Chen Ran and Qiu Yi Nong → Zhang Mei Li and Li Zhi Tong (who is as clueless as Zhang Mei Li but will be protected by Long Hui).
+→ At least five people: 3 Tam Tinh, Tran Nhien, and Thu Y Nong received a hint that they would successfully decipher Cao Tu's company number. Adding to this, they implicitly understood that there was someone this plan could kill, so they made a decision based on the fundamental principle: Eliminate whoever they can.
+This would lead to the decision to support Cao Xiu's conspiracy by deciding NOT to force Zhou Chen to add the condition related to revealing the answer to his deduction (Cao Xiu cooperated by choosing the right area that Zhou Chen knew, so he would definitely be able to deduce the correct answer) to the second lie. Firstly, of course, because they could figure it out themselves, so it wasn't necessary; secondly, to kill Zhang Meili.
+3 Tam Tinh, Tran Nhien, Thu Y Nong, Cao Tu and Ly Tri Dong → ⅞ decided not to force Chu Than, Truong My Le could only follow if she still wanted to benefit from the exploitation, even though she knew she had fallen into the trap of lie 1.
+In short, Cao Tu, through three layers of schemes, starting simply by swapping roles with Chu Chen (luring the innocent lamb into a situation where it has to wag its tail, which is also a preparatory step), will devour all the schemes of other players who want to exploit "loopholes" to harm/follow him. "Paying off" Chu Chen (1) and at the same time using intentional information disclosure (2) to manipulate other players not only to give up forcing Chu Chen, but also to help him eliminate the person who was thought to be Cao Tu's accomplice from the beginning - Zhang Meili.
+Herein lies a problem: this elaborate scheme will leave a fatal flaw: the exposure of Cao Tu's company number (used for manipulation). Doesn't this mean the possibility of being cornered and forced to accept exorbitant prices? This is where the first lie comes in full force.Everyone will have to buy shares in Cao Xiu's inflation company during the upcoming expansion.This provides additional life insurance benefits for Cao Tu.
+With the immediate return of up to 4 million yuan from other players upon production expansion, Cao Xiu won't have to worry about being financially exhausted from expansion costs. Other players will find it difficult to defeat him as usual; even if they succeed, it will cost them a considerable amount. It will become even more difficult later on, as simply surviving the critical upgrade phase will propel his company into the ranks of the major powerhouses.
+Furthermore, buying shares in Cao Tu's company also binds other players to him. Shareholders will naturally tend to protect/wish for the survival and development of the company they invested in. If they are determined to destroy Cao Tu, not only will they not receive any commission, but the investment cost (500,000 yuan per person) will also become completely meaningless.
+The setup right from the first level provided Cao Tu with the most crucial double layer of protection in his plan. When the other players agreed to level 1, thinking they would have Cao Tu cornered, they fell into his deep trap.
+(Strategy, Planning, Tactics, Manipulation, Deception, Traps, Foresight, Mind Read, EQ/Psychology, IQ)
+Level 4: Life-sustaining tail wagging 2.0
+Cao Xiu's strategy actually has a final layer of meaning that will soon be revealed.
+
+1.2.5 Three Sheep
+Back when Cao Xiu first publicly hinted at the Two Lands Book, the players began analyzing it.
+         * Thursday Choose One says:
+         * "I remember"in the movieThere is mention of a related theme, something like: "Farewell, memories linger in some places, peach blossoms in March drift away with the stream."
+         * “"April is laden with fruit, May is red with pomegranates, I gaze in the mirror with a troubled heart, June I hold a fan, remembering with longing, July I play the lute, but the letter cannot be sent, September I look at the lonely moon, October I yearn in the deserted schoolyard."
+         * “Based on that, it can be said that..."Farewell from now on" probably corresponds to "ten miles of pavilion.".”
+         * Long Hui nodded in agreement:
+         * ““The Book of Two Lands” is truly a timeless love poem.”But we know another version...”
+         * “"Separated by distance, filled with longing and sorrow, we promised to meet in March or April, but who would have thought it would be five or six years later."
+         * “"In July, we light torches and burn incense to pray to heaven; in August, the moon is full, but people are not whole."
+         * “"Looking up at the lonely swallow in the vast ocean, how can a thousand words express all the sadness and sorrow?"
+         * “Ten looked at the railing.
+Da Kiet also expressed his feelings:"This is perhaps the appeal of 'The Book of Two Lands'; everyone has a different perception of it."It's also understandable that different versions of the situation will appear in the film.And using it to hide the quantity in the company name is undeniably a very clever tactic.”
+         * Context for the Two-Dimensional Book for those who don't know (a quick guess for 100% of readers (and even those working on the document)).
+The poem "Letter from Two Lands" (also known as "Farewell Letter") by Zhuo Wenjun (Western Han Dynasty, China)It is characterized by a continuous numbered structure from 1 to 10, describing the longing for separation in numerical order from "one" to "ten".), often ending with the image of "ten-mile pavilion". This is a common version in ancient Chinese literary texts, with the following content (roughly translated):
+         * After a parting, longing remains in two different places.
+         * They promised three or four months, but who knew it would take five or six years?
+         * The seven strings of the zither are silent.
+         * Eight lines of writing cannot be transmitted.
+         * Nine interconnected links break from the middle.
+         * Ten-mile-long pavilion, gazing out, one's eyes grow weary.
+Tran Nhien and Thu Y Nung reasoned:
+         1. The Three Stars are causing confusion by using different versions of the Two-Earth Book. If you focus on reasoning based on those two versions, you might be able to deduce the original. But whether you reason based on the original or not, you should still focus on..."ten-mile long pavilion" and“Ten glances at the railing.They led their reasoning to number 10.
+         2. With sufficient understanding, one can deduce that both versions are missing a line: "Oh, my dear, I wish that in the next life, you would be a woman and I a man."
+         3. So "farewell from now on" is equivalent to"You are a woman, I am a man.".
+         4. "The Book of Two Lands" was written by Zhuo Wenjun for her husband, Sima Xiangru. Zhuo Wenjun was a woman.
+         5. So, "you are female, I am male" means female transforms into male, and male transforms into female. => Yin and Yang are reversed.
+         6. =>Chu Chen is company number 6, and when reversed, number 6 becomes number 9. Cao Tu is company number 9.!
+(Knowledge, Reasoning, Thinking, VCI)
+Explain the line "Oh, my dear, I wish that in the next life, you would be a woman and I a man" and its connection to "Farewell for the future":
+Sima Xiangru had been serving as an official in Chang'an for about five or six years. Zhuo Wenjun sent many letters but received no reply. Having become wealthy, Sima Xiangru had forgotten his wife from his hometown and wanted to marry a girl from Maoling as his concubine. Xiangru then sent Wenjun a letter containing only a series of numbers: "一、二、三、四、五、六、七、八、九、十、百、千、萬". The number sequence was missing the character 億, which also means "to remember".
+
+Sima's intention was clear; he no longer wanted to remember their marital relationship. Wen Jun understood this, so she wrote the poem "Bai Tou Yin" (White Haired Song) and sent it to Sima, along with a farewell letter (a letter of parting).
+
+That means Sima no longer wanted to remember the marital relationship.farewell
+
+After understanding the meaning, Wen Jun composed the poem "Bai Tou Yin" (White Haired Song) and sent it to Sima, along with a farewell letter. It's noteworthy that Wen Jun's poem included the character "yin" (億), signifying his continued remembrance of their past marital affection.
+
+In the poem that Zhuo Wenjun sent back, the word "remember" was added, which Ma Si omitted. The poem concludes with: "Oh! (Remember = remember) my dear! I only hope that in the next life you will be a girl and I will be a man. (Yi ya lang,...)"
+
+=> The farewell later signifies the official parting of ways between the two, and the farewell poem is, "I only hope that in the next life, he will be a girl and I a boy."
+Tldr"Lưỡng Địa Thư" is a collection of letters written in verse by a husband and wife. After a long time, the husband decided to abandon his marital relationship to marry a girl from another district. The wife realized this and wrote "Quyết Biệt Thư" (Farewell Letter). At the end of this farewell poem is the line "he is female, she is male" => "Farewell later" is the latter part of the farewell poem in "Lưỡng Địa Thư".
+Source: http://www.saimonthidan.com/?c=article&p=8324
+
+The sell-off occurred: Chu Chen withdrew personnel and sold many shares, causing the price to drop to 9 dong. The remaining players immediately rushed in to buy according to the agreement.
+         * Shareholding situation:
+         1. Legal entity: 49% (Chu Shen)
+         2. Number 8: 12% (Tran Nhien)
+         3. Number 5 (one): 8% (Boss)
+         4. Number 5 (two): 7% (Truong My Le)
+         5. Number 9: 6% (Cao Tu)
+         6. Number 3: 5%
+         7. Number 1: 5%
+         8. Number 2: 4%
+         9. Number 4: 4%
+         * The verification involves 2 companies, 5. Their previous reasoning needs to be reversed.
+         * The leader will probably not be removed.
+         * So what are the conditions for winning? => The subway station staff must surely hate the rich people who, relying on their money, killed their own children.Therefore, if someone other than the player were to control company number 5 and drive it to bankruptcy, the chances of success would be very high.
+The key point is that Zhang Meili is now in danger because it's fundamentally impossible to distinguish which of the 5 companies belongs to Zhang Meili or the Boss on the stock market => Players are targeting both companies to eliminate them.
+Zhang Meili remained silent, needing to find a way out of the predicament where she was trapped by Cao Xiu and targeted by everyone else. She began to analyze:
+- Currently, Cao Xiu's future lies have become an unchangeable fact, followed by Zhou Chen's lies. Now, the only option is to proceed step by step to investigate Cao Xiu's company.
+- After Chu Shen No. 6, whoever's company expanded production and received investment from many other companies, that person is Cao Tu.
+However, relying on the reactions of others to make inferences is very dangerous. If she thinks that way, then they do too, and the other players could easily conspire to create a false impression (for example, another player, Cao Tu, also expanding production + the remaining players also joining forces to buy) to deceive Zhang Meili. And she absolutely cannot predict it because the lie about the future doesn't mention when Cao Tu will expand production.
+- So, to break the deadlock, the only way is to deduce the company number of Cao Tu. But Zhang Meili herself is not familiar with the Two-Land Book, so the only way out is to find the answer in the words of the three Three-Star players just now.
+- The potential breakthrough lies in figuring out why *Thursday Choose One* and *Long Return* offer two different versions. To understand this, we need to trace back to their motivations.
+- On the surface, both use the poem "separation" to allude to "a ten-mile-long pavilion" and "a ten-foot-long railing," leading people to the number "ten." This is clearly a deliberate smokescreen to deceive.
+- But the key lies here: If Thursday's Choice had said "ten-mile pavilion," why would Long Hui repeat "ten-foot railing" as such a blatant deception?
+- The only possible answer is: Gently remind Li Zhitong, to prevent her from falling into the trap of incorrect reasoning.
+- But, Long Hui kept publicly reminding them like that without fear that others (clearly including Zhang Meili) would use his words to infer information about Cao Tu's company?
+At this point, Zhang Meili realized that she had been too focused on the game and had overlooked the larger competitive aspect of the game: the hidden struggle between the Three Star players.
+Everyone understands that the 3 Three-Star players are the most outstanding here. And they naturally feel the same way. Therefore, each person will use any opportunity they can to eliminate other Three-Star players, hoping to reduce the number of toughest opponents who are most likely to compete with them in the final match.
+- And the current situation is actually perfect for eliminating one person: Option 5, Choose 1.
+- Currently, there are 9 players, and Long Hui's "Careful Words" will force players to pair up and talk to avoid punishment (See player skill index).
+- Zhang Meili has Cao Xiu, Long Hui has Li Zhitong, Chen Ran has Qiu Yinong, and Da Jie has Zhu Chen. Only the 5th Choose 1 is alone (the player originally paired with the 5th has already died in the secret chamber).
+- So now, if the conditions are met to activate it (someone lies and he ignores it), Long Hui's skill will be able to forcefully kill the 5th Choice 1.
+Therefore, Long Hui was not afraid that Zhang Meili would use his words to deduce the name of Cao Xiu's company. His priority was to protect Li Zhitong, while maintaining the current odd number of people until the "Careful Words" ability was activated.
+- Speaking of Da Jie, he must have also seen the opportunity to eliminate the Fifth Choice in this situation, so he will most likely cooperate with Long Hui.
+- Of course, there's another factor to consider: Chen Ran. When the conditions are right, he can use Eternal Kingdom and disable all skills. But from Chen Ran's perspective, the "Fifth Choice, One Death" option even aligns with the goal of eliminating all players (avoiding the skill's effectiveness being revealed after leaving the dungeon). And at least he can sit back and watch the Three-Star players fight each other → No need to worry about interfering.
+- In short, for the Fifth Choice 1 at this moment, the best way is to harm one person so that the remaining number is even, thus eliminating the fear of Long Hui's skill (for example, harming Zhang Meili would make Cao Xiu odd and forced to team up with Fifth Choice 1) → Fifth Choice 1's words are purely a smokescreen.
+- Long Hoi and Da Kiet both want to maintain the current odd number of people → There may be a message that can be inferred from the words of these two people.
+Truong My Le proceeded to deduce the company registration number of Cao Tu.
+Earlier, the minister said, "I've heard of it, but it's related to many things."QUANTITY"In short," Cao Xiu said, "Farewell later" in the latter half of LDT, leading to the corresponding verse, inferring...QUANTITYFrom the very beginning, both Chu Chen and Cao Xiu had hinted at revealing their identities.QUANTITYin poetry.
+Note that LDT is a continuously numbered poem, from 1 to 10.
+Zhang Meili's premise is that Cao Xiu reminded Zhu Chen about LDT by referring to QUANTITY in the poem (but this is just fake information from Cao Xiu, the correct statement is...).Oh my god, I wish that in the next life I would be a woman and you a man.Why did Truong My Le believe in this premise?
+Firstly, it's because they lack the in-depth knowledge of people like Tran Nhien or Thu Y Nong to be able to draw such conclusions.
+Secondly, since Cao Tu said, "Therefore, the QUANTITY is the number in our company name," this is a statement, not a veiled attempt at deception. However, here, Cao Tu is implying that Zhang Meili is thinking about the quantity.
+This leads to Truong My Le having a premise of thinking purely in terms of numbers rather than deeper meaning.
+As inferred above, T5C1's statement is purely a trap, so the conclusion drawn from his statement cannot be trusted → Type 10 (which originally only had 1 to 9).
+Regarding Long Hoi and Da Kiet → We can analyze the words of these two people because they truly contain a hidden message.
+The two people mentioned in the LDT both contain content about the separation of a husband and wife => this means that the LDT could be split into two versions => both Long Hoi and T5C1 mentioned are real LDT (Da Kiet's statement that there are many different versions depending on perception, there is no single correct one) => the increasing number pattern of the LDT is true. (*) (Again, Truong My Le is making this inference based on the perspective of someone who knows nothing about the Two Lands Book or its characteristics).
+
+So, poetry must follow some kind of rule to be considered poetry, and (*) is the clearest rule, as both versions of LDT share the same rule: the sequence of numbers from 1 to 10.
+
+There are two things to analyze here: firstly, the poem's numerical sequence, and secondly, whether the order is ascending or descending. Clearly, although the verses are spoken, the order might have been reversed from 10 to 1 to 10, to trick Truong My Le into choosing 10.
+
+=> We need to pay attention to the ascending or descending order of the numbers + There must be a message that Cao Tu sent to Chu Shen to inform him => The key/base is CT.
+
+Let's consider both cases: CT is 6
+         * The number increases to 7.
+         * The decreasing sequence is 5, but Truong My Le is already 5, so that's illogical. In literature, decreasing sequence can also be a reverse order → Reversing the number 6 gives 9.
+Conclude: Cao Tu's company. Either number 7 or number 9.Truong My Le could only infer this much due to limited data and knowledge.
+Only then did Zhang Meili realize the final layer (level 4) in Cao Xiu's plan:
+- Cao Tu had foreseen the covert power struggle between the Three Stars from the start, knowing that T5C1 would be dangerous. That's why the layout has been arranged this far.
+- Zhang Meili was not only a target that Cao Tu manipulated everyone to aim at, but also the "scapegoat" that Cao Tu offered to T5C1 to be dealt with in order to escape the threat from Long Hui and Da Jie.
+- After Zhang Meili (who was originally paired with Cao Xiu to counter the Dragon Return skill) died, it became clear that T5C1 and Cao Xiu would become a pair. At this point, Cao Xiu expressed his "sincerity" very specifically, his obvious intention being to seek protection from a Three-Star player to increase his chances of surviving the dungeon (similar to Li Zhitong).
+- It turns out that from the very beginning, Cao Xiu's calculations were not only aimed at eliminating Zhang Meili but also at replacing her with a stronger teammate.Strategy, Planning, Tactics, Manip, Prep)
+
+Continue the calculations.
+- Truong My Le had to predict even the worst-case scenario: Others could also deduce it, but Truong My Le could only infer based on that limited information => falling into 2 cases: 7 or 9.
+- Therefore, the worst-case scenario is: Both Company No. 7 and Company No. 9 expand their production scale, and Zhang Meili will be limited by Cao Xiu's lies. That is, those who know the answer will buy both types of shares, so Zhang Meili cannot determine which company belongs to Cao Xiu.
+Furthermore, non-shareholders cannot review the shareholding situation. => Truong My Le had only one option: to gamble!
+- Since it was impossible to determine whether Cao Tu belonged to company number 7 or company number 9, reserve approximately 1.5 million (500,000 for companies 6, 7, and 9).
+- What should we do with the remaining money?
+         1. From Chu Chen's perspective, judging by the actions of Company No. 6, it's clear that Chu Chen has no understanding of stocks.
+         2. He was clearly eager to end this secret chamber, and the two companies numbered 5 appeared to inform him of the conditions for passing through: Let the wealthy man controlling company number 5 go bankrupt.
+         3. But the wealthy man had anticipated this and had already bought a large number of shares of company number 8 (another reason for the somewhat puzzling purchase decision at the end of section 1.2.2).Prep)
+         4. Therefore, the wealthy man is not easily defeated and driven into bankruptcy; on the contrary, Zhang Meili will become Chu Chen's target! In any case, the wealthy man took advantage of the fact that his company's name was similar to Zhang Meili's name to cause quite a few problems.
+         5. So what will he do to target Zhang Meili?
+         6. => Chu Chen will not buy back the shares of Company No. 6 from Zhang Meili, so that Zhang Meili cannot expand production and will gradually die out because she cannot pay for the growing costs.
+So how do we break this deadlock? That is Parasites
+Use all the remaining money to buy all the shares of company number 6… At that point, even without expanding production, we can still sustain ourselves by sharing the profits each time company number 6 makes money.Prep)
+Chu Chen had a similar line of reasoning; he wouldn't buy shares from Zhang Meili just to ruin her.
+Just as he was about to act, T5, as if having seen through his thoughts, spoke up to remind him to "think again" => Chu Chen, putting himself in Zhang Meili's shoes, understood that she would choose to go all-in to parasitize him.
+Thursday's Choice continues: It's best if Chu Chen chooses not to expand production again in the near future. Currently, he has money (the 4 million from the fraudulent contract), so he can still hold out. => This prevents Zhang Meili from having money immediately even if she's a parasite.
+Considering the current situation of T5C1, which everyone knows, killing Truong My Le is necessary to secure their position. Chu Than found this reasonable and therefore temporarily held back.Prep)
+1.2.6 Shareholders' Meeting
+Company No. 3 (Long Hoi or Da Kiet) initiates the shareholders' meeting of Company No. 6:
+         * One: Expand production on a large scale.
+         * Two: Do ​​not expand production.
+Tran Nhien thought to himself:
+- This move is truly brilliant, ensuring the outcome will still be production expansion, while simultaneously protecting Zhang Meili (keeping the small number of people threatening T5C1) and sending a message to Chu Chen that resistance is futile. Analysis:
+- Theoretically, T5 is now in danger, so choose 2. And Cao Tu, wanting to cling to T5C, will also choose 2 => This way, the two of them can gradually kill Zhang Meili (who is parasitizing Chu Shen).
+- But thinking more carefully, if Cao Tu chooses option 2, he will reveal himself as company number 9 for Zhang Meili => She escapes the trap of lie number 1.
+- But if T5 chooses 2, he will immediately reveal his company to others, because everyone already knows for sure that only Chu Chen (6), Cao Tu (9), and T5 will choose 2 => The remaining company number is T5 => T5 will be surrounded and under the current situation will almost certainly die under the cooperation of the other two Three Stars.
+Therefore, only Chu Shen will choose option 2, and Chu Shen only has 49% left => option 1 accounts for 51% => implement => expand production => Chu Shen runs out of money and can only lie still, being exploited and working for others.
+The reality was just as Chen Ran had speculated: After expanding production, Company 6 issued an additional 1 million shares, and people continued to buy them, totaling 500,000.
+Having decided that the only way to survive was to parasitize Chu Shen, Truong My Le invested an additional 250,000 yuan to buy more shares, bringing the total to 13.5%. => Truong My Le became a major shareholder of company number 6 => Parasitism successful!
+Cao Tu's plan was a complete failure; he lost everything, failing to trick anyone into lying and exposing his company. He even sought protection from the Three-Star player, Fifth Choice, but this player was also in an extremely dangerous position and unlikely to be able to protect him.
+Cao Tu reasoned:
+- Zhang Meili is still alive despite all his schemes; it's incredibly difficult to resolve the situation with the Three Star players present (Cao Tu also deduced that the recent shareholders' meeting was initiated by Long Hui or Da Jie).
+- In the current situation, Thursday's Choice 1 wants to escape danger and needs to bring down someone. And the top target will clearly be Cao Tu, who is also in a precarious situation (his company number has been leaked).
+Logically, Cao Tu should have done the same as Zhang Meili, going all-in at Company No. 6 to secure his position. But he had a feeling he had fallen into a trap set by the Three Stars group.
+- If Company No. 6 is being controlled by Cao Tu and Zhang Meili, then they only need to destroy Company No. 6 to get rid of the three of them. => Multiplying the numbers will result in an even number.
+- Consider three other individuals for parasitic purposes: Tran Nhien, Thu Y Nung, and Ly Tri Dong. He didn't know the company numbers of the last two, only Chen Ran guessed it was number 8. So what if he chose to parasitize Chen Ran?
+- Absolutely not! Remember that Chen Ran is the most dangerous person among the Three Stars, and his skills are extremely troublesome, placing him on the Three Stars' priority list for elimination. → Signing Chen Ran will result in immediate elimination, reducing the number of players by two while keeping the remaining number (7) to continue threatening T5C1, giving Long Hui and Da Jie a strong motivation to carry out this plan.
+- In short
+If Cao Tu hadn't been a parasite, T5C1 would have killed him by any means necessary.
++ If Cao Tu were a parasite:
+         * Ascending to the God of the Underworld: Will share the same fate of being stripped of their feathers by others.
+         * When Trần Nhiên rises to power, he will be eliminated by Long Hồi and Đa Kiệt for three specific reasons.
+- The difference is that the Fifth Choice will try to directly kill Cao Tu, while Long Hui and Da Jie will not kill him immediately if they parasitize Chu Shen because they want to keep an odd number of people to put pressure on the Fifth Choice.
+=> Conclusion: Instead of being outmaneuvered and surrounded by the three Three-Star players, it's better to take the initiative and preserve your resources. After all, it's better to be a fish on the chopping block than a dead fish.
+Thinking this way, Cao Tu also invested all of his company's shares in Company No. 6, acquiring a 14.5% stake. => Cao Tu has also become a parasite on Chu Chen.
+Result:
+         1. Chu Chen holds a 24.5% stake.
+         2. Cao Tu holds a 14.5% stake.
+         3. Truong My Le holds a 13.5% stake.
+Simply put, if Company No. 6 earns 1 million, Chu Chen could receive 245,000. Furthermore, when the stock price increases, it will be fixed at 15 yuan per share. If he wants to buy back shares at a low price to escape control, he'll have to wait for others to sell off their holdings. Of course, this scenario is extremely unlikely.
+In addition, every time Company No. 6 earns 1 million, the two parasites will split 280,000 in commission, using that money to offset the losses of their company.
+These three people—one constantly buying shares, the other two constantly injecting capital into their respective companies—in other words, pose no real threat.
+Everyone was well aware of this, including those three, and their hearts burned with anger.
+         * Tran Nhien then reminded them to do the calculations:
+         * After expanding production, each batch of raw materials requires 50 dong/portion. That means 300 dong.
+         * With the old workforce and equipment, just the wages and maintenance costs would amount to 600,000.
+         * New employees: 100 VND/point/person.
+         * New equipment: maintenance costs 150,000.
+         * Total cost: 3.9 million.
+         * One batch of products will sell to the merchant for 4.8 million.
+         * => Only 900,000 can be earned per round.
+         * Chu Chen received 225,000, Cao Xiu 135,000, and Zhang Meili 121,500.
+         * The amount of money collected is too little to keep up with the rapidly increasing costs; they can only hold out for a few more rounds at most. This is also because the cash on hand has been depleted due to their all-in investment in Chu Chen's company shares.
+Cao Tu and Zhang Meili now realized they hadn't planned everything carefully. Chen Ran had also publicly admitted that this was a trap they had completely fallen into.
+Now there's only one option left: Cao Tu and Zhang Meili decide to downsize, lay off all employees, and accept the fate of having an empty company surviving entirely on dividends from Chu Chen.
+Meanwhile, Chu Chen had to cut staff and hire new employees (with no seniority = lower cost) and reduce salaries to have enough money to expand production (due to the shareholders' meeting's decision).
+But laying off employees will lead to a drop in stock prices => Other companies will then buy up all the shares like hungry wolves. => Company No. 6 receives investment, and the only way to resolve the current situation is to recruit employees and expand production, or in other words => Company No. 6 just laid off 300 employees, so now it has to recruit 300 more, plus another 600 new employees to expand production, for a total of 900 people.
+Then the stock price will return to normal. At the same time, each batch of products produced, which previously only earned 900,000, will now become…
+         * Company Information 6:
+         * 900 employees
+         * Ingredients: 6 million VND.
+         * Labor costs: 600,000.
+         * Maintenance fee: 450,000.
+         * Total cost: 7.05 million.
+         * Sold one lot to a trading company: 9.6 million.
+         * Each production batch earned: 2.55 million
+As time went on, labor and maintenance costs increased, leaving Company No. 6 with no choice but to continuously recruit staff and expand production.
+Each time Chu Shen (and the two parasitic individuals) on paper earns more and more money, but in essence, they are just employees working for seven other companies => This completely eliminates any intention of buying back shares to overthrow the company because the legal entity's (Chu Shen's) shareholding is already too low after multiple expansions and share issuances, and it no longer has enough power to intervene in the shareholders' meeting.
+________________
+
+Recap
+At this point, the trap of the three sheep is complete. It's revealed that this was a meticulously planned scheme, a collaboration between five people: the three Three Stars, Chen Ran, and the Boss.
+         1. Chen Ran's first short-selling move helped find the first sheep. Next, Chen Ran used Number 5's strategy to further corner the sheep, leaving it with no choice but to wag its tail. Everyone figured out Chu Chen's move; they could have used money to manipulate the market and drive down stock prices, forcing Chu Chen to meekly allow themselves to be fleeced.
+         2. They knew that other sheep would deduce what Chu Chen would do, and thus set traps for others. Why would anyone want to set such a trap? Clearly, this was a very tempting bait and a leverage point for those who seized the opportunity to strategize. Clearly, every layer of Cao Xiu's plan, based on that bait, benefited him. In reality: Cao Xiu and Zhang Meili spoke up to trap everyone, yet everyone saw through their scheme and countered it, causing Zhang Meili and Cao Xiu to parasitize Company No. 6 (Chu Chen). => The other players are creating a drama of "We're going to fleece Company No. 6."
+         3. First, Cao Xiu presented the Two Lands Letter to convey information about his company to Zhou Chen and, while he was at it, also set a trap for Zhang Meili.
+         1. However, at this stage, Long Hui and Fifth Choice 1 saw through everything, revealing two versions of the Two Lands Book that confused Zhang Meili's reasoning.
+         2. But that information was only enough for Truong My Le to deduce two possibilities: 7 and 9. => forcing her to keep the money and buy shares in both to avoid violating the lie rule. (forcing Truong My Le to only invest all her money in the upcoming number 6)
+         4. Next, Thursday pretended to be in danger, making Cao Tu want to take a risk and offer an olive branch in exchange for protection. Zhang Meili was also led in this direction, constantly speculating that Thursday and Cao Tu would kill her to make the number of people returning even.
+         1. After much deliberation, she had no choice but to accept that she would have to parasitize Chu Chen because the other players were staging a play: "We're going to fleece Company No. 6 - Chu Chen" => Chu Chen is the fat sheep, everyone won't kill him immediately => Zhang Meili won't be killed immediately either.
+         2. When Zhang Meili figured that out, Chu Chen also figured out what Zhang Meili would do => Chu Chen knew he should eliminate this bloodsucking leech. Then, Thursday gave Chu Chen a suggestion on how to pressure Zhang Meili => showing Cao Tu, Zhang Meili, and Chu Chen that Thursday was very dangerous, and they should do everything to help eliminate Zhang Meili => Zhang Meili had even more reason to cling to Chu Chen.
+         3. The second sheep is done.
+         5. Next, Company No. 3 (Long Hoi or Da Kiet) held a shareholders' meeting, playing a high-stakes game to force Chu Than - Company 6 - to expand production, disrupting the plan that T5 had just shown Chu Than => showing that they wanted to save Truong My Le. At the same time, showing that they desperately wanted to kill T5, so they would find a way to help Truong My Le so that she would be the only one left alive.
+         1. This led to Cao Xiu's plan to trap Zhang Meili failing. Now, if Zhang Meili isn't killed, who else will? Certainly Cao Xiu.
+         2. Cao Tu understood that from the beginning, the three powerful figures were surrounding him and "leaving" him a glimmer of hope, just like Zhang Meili, that he had to parasitize the fat sheep, Chu Chen, to escape being trapped and killed because the company's information had been leaked. => He had to parasitize.
+         6. Finally, all three sheep were in the pen. Chen Ran continued calculating the money each sheep would receive => showing Cao Tu and Zhang Meili that "you guys are still like fish on a chopping block," then suggesting that they cut staff => becoming an empty company => completely dependent on Chu Chen. And after the calculations, Chu Chen only had just enough money to live on => forcing Chu Chen to be obedient and work hard to survive, not thinking about turning things around.
+         7. The outcome: This turned Zhang Meili and Cao Xiu into parasites on Chu Chen, completely depriving them of any way to turn the tables as the company became an empty shell => killing Chu Chen would also kill the other two (killing three birds with one stone). Meanwhile, they calculated that Chu Chen had enough money, and Zhang Meili and Cao Xiu surrounded him, ensuring that after each production cycle, Chu Chen still had money but had to constantly work because the costs increased with each cycle => The main target - Chu Chen - was also powerless. Essentially, three companies were eliminated, and they continuously received funding to engage in a power struggle.
+Above is a basic recap; some insights can be gleaned:
+         * A core part of this strategy was the thorough exploitation of Cao Xiu's cunning. Remember how Cao Xiu laid the groundwork for his plan? It was finding a willing partner (a weak party with little market knowledge and already trapped in a financial scheme needing a compromise for survival): Zhu Chen.
+         * And this target, as expected, was a setup by the other players (Luring the Fool + The Stupid Sheep).
+         * Furthermore, the way the three players, Tam Tinh, took turns manipulating the situation led Cao Tu to believe his plan was working, when in reality it was all a performance for Zhang Meili's benefit. This led to a series of thoughts and decisions later on, the most notable of which was the "abandon ship" mentality.
+         * Ultimately, the reason Chu Chen completely lost the opportunity to buy back shares and escape his exploitative practices lies in a series of calculations that forced Company No. 6 to expand production twice in a row => This resulted in multiple inflationary surges that significantly diluted Chu Chen's shareholding.
+         * The overall plan for the three sheep couldn't be fully detailed from the outset, but the strategic direction for the major objectives was quite clear and logical. Only the content of the Two Realms Book needed improvisation to best reflect the intention of the "battle between the Three Stars."
+(All cates) - Toua victimizer fr fr
+
+1.3 One Arrow Kills Three Eagles
+At this point, the first battle in the business world was over. Companies No. 5 (Zhang Meili) and No. 9 (Cao Tu) had been demoted to junk stocks, with no chance of a turnaround. Company No. 6 had become a money-making tool, and if Chu Chen wanted to turn the tables, he could only gradually buy back its shares.
+
+1.3.1 Biting and tearing at each other
+When Company No. 6 earns another sum of money, a shareholders' meeting is immediately held.
+Please note, Company No. 8/Tran Nhien is holding its shareholders' meeting; everyone is invited to vote:
+         1. One: No commission distribution, keep the money in the account, and prepare for further production expansion.
+         2. Two: Divide the commission, temporarily halt production expansion, and distribute the commission based on the shareholding ratio.
+
+Upon hearing this news, Zhang Meili and Cao Xiu immediately turned pale.
+         * Chu Chen holds a 24.5% stake.
+Cao Tu holds a 14.5% stake.
+Truong My Le holds a 13.5% stake.
+In total, three people own 52.5%, so if those three choose to split the dividends, the other shareholders can't do anything about it.ButThis situation must be viewed from Chu Chen's perspective. Company No. 6 is unlikely to go bankrupt easily, as other companies are relying on it to drain their resources. In other words, even if Chu Chen chooses not to share the commission, it will be fine. However, not sharing the commission would be a fatal blow to Zhang Meili and Cao Xiu. Without their commission, they wouldn't be able to recoup their losses, as their company is already a shell.
+
+Fearing that Chu Chen might waver, Cao Xiu quickly spoke up: "Chu Chen, you must understand, if Zhang Meili and I die, do you think they will leave you alone?"
+Chu Chen felt a pang of sympathy. He understood that these two had been thoroughly deceived. Having become so closely associated with him, they couldn't possibly betray him. Keeping them would be safer; with them remaining, the combined votes of all three would be over 51%, making them harder to eliminate.
+
+However, T5C1 spoke up to remind them.Don't jump to conclusions yet; I think you should look at the number of shares the wealthy man owns first, and then we'll see..”
+Chu Chen frowned as he looked at the number of shares. There were two companies with the number 5.
+         * One company holds 13.5%.
+         * One company owns 17%.
+The person who makes up 17% is definitely a wealthy individual. T5C1's goal is that if Chu Chen doesn't share the commission, they could potentially starve the wealthy person to death, then pass through the second secret chamber. But if Zhang Meili and Cao Xiu die, the remaining number is 7, an odd number, and with T5C1, the situation remains unchanged. There's definitely a trap!
+
+Seemingly knowing what he was thinking, T5C1 chuckled softly. Only then did he realize that all three sheep had been drawn into the rhythm of the economic game, focusing solely on stocks, meticulously calculating how the Three Stars' charade would mislead them into believing that T5C1 was at a disadvantage. They were so overwhelmed that they forgot the most important condition for Long Hui to use his skill: someone had to lie. Clearly, if the number of people was odd and someone lied, T5C1 only needed to shoot that person faster than Long Hui used his skill. Even if he shot slower, the number of people would still be even => T5C1 couldn't die. But if the number of people was even and someone lied, then he would be in mortal danger, as the liar would be shot dead => T5C1 would have no one left to talk to.
+
+Chu Chen hesitated. Calculating the maintenance costs for Zhang Meili and Cao Xiu's equipment now, it was probably...310,000.Those two companies probably still have around 1 million left. If they don't share the commission, their companies won't last another 20 minutes and will go bankrupt. And if those two die, their shares in Chu Chen's company will be like newly issued shares, appearing on the market. But that's not important. The key is whether we can starve the boss's company number 5 to bring the secret chamber to an end. The boss bought 28% of company 8 and 17% of company 6, so he probably doesn't have much money left. But he received a sum earlier (from the stock offering to lure in the sheep), and when he bought Chu Chen's company, the price was at its lowest (9 yuan), so it's very difficult to starve the boss.
+
+Thinking about this, Chu Chen sighed, and in the end still chose to split the commission.
+However, the announcement blared: Reminder: Please note, according to the shareholders' meeting vote, shareholders holding 61% of the shares have chosen not to receive dividends!
+
+Upon seeing this announcement, everyone rubbed their eyes, suspecting they had misread it.
+         1. Company #9: Choose commission split.
+         2. Company #6: Choose commission split.
+         3. The remaining eight companies all chose not to pay commissions.
+That means Zhang Meili didn't choose to share the commission. Cao Tu was furious, slammed his hand on the table, stood up, and pointed at Zhang Meili: "You!!" "Let's call it a draw," Zhang Meili said calmly.
+
+In fact, a closer analysis reveals that Zhang Meili was bound by a future lie, unable to determine which of companies 7 and 9 belonged to Cao Xiu, thus retaining 1.5 million to fulfill the lie. Cao Xiu, on the other hand, was only bound by a future lie when he bought company 6, and after going all-in on company 6 (being forced to be a parasite), he would no longer be bound by any future lies. Therefore, Cao Xiu couldn't possibly retain too much money at this time. This can be seen in the number of shares Cao Xiu (14.5%) holds compared to Zhang Meili (13.5%). Cao Xiu has 1% more than Zhang Meili.
+Let's recalculate from the beginning:
+         * When Company 6/Chu Than forced the price down to 9 dong, the shareholdings of Truong My Le and Cao Tu were as follows:
+         * Truong My Le 7% > Cao Tu 6%
+         * When production was expanded, all shares were diluted by 50%.
+         * Truong My Le 3.5% > Cao Tu 3%
+         * Then both of them had to complete the contract to buy 500,000 shares of Chu Chen, which Zhang Meili had identified as parasitic and injected another 250,000, while Cao Xiu had also become parasitic towards Chu Chen.
+         * Zhang Meili 3.5% (currently held) + 500,000 (contract) + 250,000 (parasite) = 13.5% (at this point, Zhang Meili will have 1 million remaining due to the contract with Cao Tu)
+         * Cao Tu's 3% (currently held) + 500,000 (contract) + capital invested in parasitic ventures = 14.5%
+=> Solving this simple problem, we have 1% of the shares worth 75,000 => the capital invested by Cao Tu to become a parasite is 362,500.
+
+So now: Zhang Meili's remaining capital is 1 million, while Cao Tu's, theoretically, would be 8875,000 (less than Zhang Meili by 3625 - 25 = 1125,000). However, let's recall that during the time both the Boss and Chen Ran were luring the sheep, Zhang Meili, wanting to remain hidden, didn't buy anything. Others clearly bought, including Cao Tu, so Cao Tu's money must have decreased significantly. Therefore, the theoretical capital of 8875,000, after being significantly reduced, would fall somewhere below 600,000-700,000 because there were three rounds of stock manipulation. With the current round cost at 310,000 (and still increasing), it's clear that without a commission, Cao Tu will die in 2 rounds (in reality, Cao Tu only has 510,000 left, so he'll definitely die after 2 rounds). Company No. 8/Tran Nhien held a shareholders' meeting and reminded Truong My Le of this, as Company No. 8/Tran Nhien was the one who could best calculate how much money Cao Tu had left, based on his shareholding. Truong My Le, without a commission, would die in 3 rounds (because she only had 1 million left), and Truong My Le has insurance (explained below).
+
+After calming down, Cao Tu tremblingly took out a cigarette, lit it, and took a deep breath. Cao Tu asked why Zhang Meili had done that, clearly all three of them were in the same boat.
+
+Zhang Meili said, "Do you think a wealthy person would just stand by and watch me die?" Looking at the reality of the game, Zhang Meili's company will act as a shield for the Boss when the player wants to destroy company number 5. So, as long as Zhang Meili doesn't die and survives this time period, the Boss will definitely pump money into Zhang Meili's production, thus creating two companies number 5 to disrupt the player.
+
+It now becomes clear that Boss's actions of buying many shares of Company 8 and selling them to buy time were not only insurance for Zhang Meili to follow Cao Tu's plan and trap other players, but also a guarantee of Boss's current cash flow that could be injected into Zhang Meili, giving her the confidence to make this decision. These are the premises that others laid out for Zhang Meili:
+         1. The boss, who has a large sum of money, will pump funds into Truong My Le's lifeline to keep her alive, using her as a scapegoat.
+         2. The three stars led her to deduce that cases 7 and 9 required her to retain 1 million to invest in these two companies. After being reminded by company 8/Tran Nhien, Truong My Le realized that Cao Tu was now penniless and would collapse after one or two rounds if he didn't share the commission.
+         3. Since Cao Tu is dead, production cannot be expanded => Zhang Meili doesn't need to fulfill her promise, so it doesn't matter if she uses up all 1 million in reserves.
+         4. Cao Tu betrayed Zhang Meili, so when someone handed her a loaded gun, Zhang Meili wouldn't hesitate to shoot at Cao Tu.
+=> From (1), (2), (3) and (4), everyone turned a harmless sheep into a sheep that lost all reason and turned back to bite and tear the flock apart. The alliance of the three sheep broke down.
+
+1.3.2 Betting on the abyss, three sheep, Type!!
+
+Cao Tu said:
+         * "Ha ha ha, so that's it. One wrong move can cost you the whole game. To be honest, before meeting you guys, I always thought I was the protagonist... ...It seems a little too late."
+
+Cao Tu drew out the Slayer of the Wilderness sword and pointed it at his head, glancing at the crowd before smirking.
+         * "Don't you find it strange that I'm mentioning those words?"
+         * "Try to guess, was I lying in what I just said?"
+Everyone just stared at him, clearly knowing that Cao Xiu might be hiding a lie. But no one dared to bet on it. Until he used his skills, no one would dare judge him.
+Cao Tu looked at everyone, and finally his eyes settled on Chen Ran.
+         * "Later, you'd better think carefully about whether or not you should use the Eternal Kingdom."
+After saying that, he lowered his voice:"Slay the Wilderness • Push Chaos to Nothingness!"
+
+Then the secret chamber plunged into darkness, then the light returned. All eight people pointed their guns at Cao Tu, but no one fired. They then noticed nothing had changed in the chamber. Looking at the share certificates, they were surprised to see that Company No. 9 (Cao Tu) now only held 3% of Company No. 6's shares. Long Hui then tried using his skill but failed, meaning Cao Tu hadn't lied. At this point, everyone understood that Cao Tu's skill could erase his past mistakes, specifically his all-in (parasitic) involvement with Company No. 6. Without being forced to be a parasite, he wouldn't have resorted to lying to use his skill => this is a karmic skill.
+
+Everyone realized that Cao Tu's 11.5% stake had disappeared, and no one had bought it. This proved that his skill only disrupted his own karma, not affecting others. Theoretically, when Cao Tu erased his erroneous all-in move, that 11.5% stake would have been bought up by other companies in the past, and wouldn't have appeared in the newly issued shares. This demonstrated that his skill couldn't influence other players' previous actions, only his own. They realized this was just a fake karma skill, so they weren't too worried. They just needed to create an outcome where Cao Tu was certain to die; even if he could start over, he would still die. And the ultimate weapon to destroy that fake karma was Chen Ran's Eternal Kingdom, which allowed nulling all hax.
+
+Clearly, once a sheep escapes the pen, the one who will bear the brunt of others' attacks is Zhang Meili. She began analyzing the annoying nature of Chen Ran's VHD (Vehicle-Based Weapon), and the potential of the upgraded VHD, which would not only reject null hax but might even erase all items the player carries.
+
+Chen Ran smirked; he knew this was Zhang Meili's negotiating tactic: present a difficult problem, then claim to have a solution, thereby forming an alliance with others and pushing Chen Ran to the forefront.
+
+Zhang Meili said that her skills could be combined with Li Zhitong's to eliminate Chen Ran.
+Zhang Meili smiled faintly, taking in everyone's expressions. She knew that after Cao Xiu deleted the erroneous operation, nearly 3 million would be added to his account. Cao Xiu wouldn't be easily tortured to death in a short time. The only one who would be tortured to death was Zhang Meili. If she lied while using her skill, even if she could avoid judgment like Cao Xiu, as long as Chen Ran was alive and using the Eternal Kingdom, both of them would die. In other words, telling a lie known only to oneself was like meat on a chopping block, waiting to be slaughtered. Unless Chen Ran died. And if the others wanted to quickly kill Chen Ran, they would have to rely on her skill, giving her the right to negotiate.
+
+But no one responded because it was clear that Zhang Meili had only been making empty promises and hadn't actually agreed on any conditions to kill Chen Ran. Zhang Meili told the other six (three Three Stars, Li Zhitong, Cao Xiu, and Zhou Chen) that she needed them to create a lie about the future.After Truong My Le uses her skills, no one is allowed to judge her.Seeing this, the other five agreed, because if her skills couldn't prevent the lie, then Chen Ran or Thu Y Nung would be the ones to judge her.
+
+Seeing that the negotiations were successful, Zhang Meili said, "Sigh, during my lifetime I was a teacher, teaching generations of students for eighteen years, perhaps that's why my skills..."
+At this point, she raised her gun and looked at Chen Ran, who was frowning, and asked, "If you judge me now, there might still be a glimmer of hope for a turnaround, otherwise..."
+She didn't finish her sentence, but silently waited for Chen Ran and Thu Yi Nong's reaction. Both were indifferent, because only Zhang Mei Li knew whether she was lying or not; anyone who judged her would be a fool.
+"The Wild Slayer • Death's Gaze!"
+
+The secret chamber was plunged into darkness, perhaps thanks to Cao Xiu's experience, or perhaps due to Zhang Meili's earlier words. Even if they knew she was lying, no one dared judge her because her use of skill meant her skill could conceal her lies.
+
+In the darkness, Chen Ran's brain was rapidly calculating whether or not to use a skill, then she chose to take out an item from her backpack. Zhang Meili knew that Chen Ran hadn't used a skill, so she knew that the provocation had made Chen Ran wary.
+
+When the light returned, everyone surveyed their surroundings and saw a pair of gigantic eyes appear in mid-air! As large as washbasins, their pupils constantly swirling, scanning everyone present. They then looked at Zhang Meili, noticing her eyes were closed, but the hollowness of her eyelids suggested she had no eyes. One of the gigantic eyes was staring intently at Chen Ran, the other at Qiu Yinong. Both felt a sudden chill down their spines; they sensed that any movement would put them in grave danger.
+
+People deduced two skill effects for Zhang Meili:
+         1. It summons a pair of hovering Giant Eyes, staring intently at the designated targets (in this case, Chen Ran and Qiu Yi Nong). It forces the targets to behave like "good students in class." In the context of Deadgame, "studying" is equivalent to..."Decoding the secret chamber"The target will be prohibited from performing actions unrelated to decoding (such as using skills, holding a gun, or saying irrelevant things, etc.). The penalty mechanism will be to forcibly remove the target from the secret chamber (classroom), which in the current context means Tran Nhien will be moved away from the game table and fall into the abyss.
+         2. The second benefit is that it transforms mass attack ranges into single-target attacks.
+So now all they need to do is send someone to provide the lie so Li Zhitong can use his skill. While they were discussing who would provide the lie, Chen Ran held the mouse, his index finger moving in a certain pattern, while Thu Yi Nong's eyes remained fixed on his finger. These two were using Morse code, exploiting the mouse cursor movement to create a fake deciphering of the secret chamber, hoping to bypass the "Deathly Attentive" punishment and transmit information to each other. And Long Hui had secretly observed part of it.
+
+Back to the game:
+         1. Since Zhang Meili and Cao Xiu both lied, once Chen Ran uses the Eternal Kingdom, both of them will die. Therefore, to survive, they must kill Chen Ran.
+         2. For Chu Chen and Li Zhitong, they knew that both were at the bottom of the leaderboard among these players, and any further competition would only lead to one outcome: death.
+
+If we analyze carefully, the key to this conflict boils down to three points:
+         1. One: Dungeon score rewards. For Two-Star players like them, this reward is nice to have but not essential.
+         2. Two: Thu Y Nung. Thu Y Nung's skill commands make her easily vulnerable.
+         3. Father: Chen Ran must die. Chen Ran's skills pose a great danger to floor 18; he must be killed in this dungeon.
+Therefore, Chu Chen and Li Zhitong wanted to end the fight, and the best way was to kill Chen Ran and Qiu Yinong. And conveniently, these two were currently being held captive.
+For the three players of the Three Stars game, they understood that to capture Thu Y Nung, they first had to kill Tran Nhien, and only then could the internal conflict begin.
+
+However, this is an irreconcilable situation where Zhang Meili fears Thu Yi Nung's judgment and is forced to "keep an eye" on her, leading to Thu Yi Nung also being affected by Li Zhi Tong's influence. But San Xing wants to capture Thu Yi Nung alive, so he cannot intervene in the current situation.
+In the current game, if we were to rank the level of desire to kill Tran Nhien:
+First place: Truong My Le, Cao Tu.
+Second place: Li Zhitong, Zhu Chen.
+Third place: Three players from the Three Stars group.
+
+Clearly, the other five players still had a way out, but Zhang Meili and Cao Xiu no longer did, as both had lied; they had been the sheep from the start. However, neither could continue lying because they needed to maintain their skills. If Zhang Meili lied, she would violate the "classroom" rules, and if Cao Xiu retracted his karma skill and reset it, he would die from running out of money.
+
+Those who most wanted to kill Chen Ran couldn't possibly lie. That leaves only the second option: Chu Chen or Li Zhitong. But from their perspective, since they haven't lied yet, they still have a way out. If either of them could lie and kill Chen Ran, it would be a great success. But if they couldn't kill Chen Ran, the liar would be doomed forever. The risks outweigh the benefits; neither of them could be foolish enough to lie.
+
+This situation was something Zhang Meili had never anticipated. In her imagination, if Chen Ran and Qiu Yinong died, their shares would revert to newly issued stock. Then, she could manipulate the shareholders' meeting, prevent Company No. 6 from further expanding production, and receive a commission, thus overcoming this predicament. But because she couldn't lie, nor could Cao Xiu, and Chu Chen and Li Zhitong had no reason to lie, the three players from the Three Star Group couldn't possibly offer a lie.
+
+Zhang Meili began to press the issue, asking Chu Chen what number company Chen Ran thought it was. The answer was definitely number 8, because most people already knew that.
+She analyzed that the boss's company holds 29% of Chen Ran's company's shares. If company number 8 expands production, the boss will essentially be invincible. So, simply put, who among the three of them will die first? Probably Chu Chen, killing Chu Chen would be killing three birds with one stone. And if Chen Ran doesn't die this time, he will use the Eternal Kingdom, and Zhang Meili and Cao Xiu will certainly die. Those two are parasitic on your company's shares; what will happen then?
+Zhang Meili's words struck a nerve: if all three of them worked together and held over 50% of the shares, Company No. 6 would no longer be controlled by other shareholders.
+If Cao Tu and Zhang Meili die, then Chu Chen will die. If both die, the remaining people will be able to easily kill Chu Chen. Directly holding a shareholders' meeting and continuously expanding production will cause the money in Chu Chen's company's account to be insufficient to buy raw materials, and thus Company No. 6 will go bankrupt.
+
+To avoid bankruptcy, downsizing might be possible, but what if the shareholders' meeting doesn't approve it? The only outcome would be ruin. In other words...
+To survive, Chu Chen must ally with Zhang Meili and Cao Xiu.
+
+As for the shareholders' meeting, were they all in agreement to kill Chu Chen?
+That goes without saying; as other companies expand production, Chu Chen will become worthless.
+
+He understood this perfectly. A vicious look appeared in Chu Chen's eyes. Upon hearing this, Chen Ran's pupils suddenly contracted.
+
+Chu Chen asked everyone to tell a lie about the future.Before Chen Ran dies, you will not use him to judge me or use your skills." and then add another condition "If Chen Ran doesn't die this time, you can judge me whenever you want..”
+The lies about the future that were told earlier could be seen as a double-edged sword, and the remaining six people (three Three Stars, Li Zhitong, Cao Xiu, and Zhou Chen) were controlled by those lies and couldn't use them to judge him or use their skills. But if Chen Ran didn't die, his later lies would become a "backup battery" for Chen Ran, and then Chen Ran could use his skills at will. Therefore, Chen Ran wouldn't kill him but would let him live until the end. Three Stars realized this, and Zhou Chen had to add the condition that the others could judge him, meaning his escape route was also cut off.
+Seeing this, the three players from the Three Stars group also accepted, and six people told lies in the future. (3 Three Stars, Li Zhitong, Cao Xiu, and Zhou Chen)
+
+As soon as Chu Chen said,I just lied!(To provide a lie, and this is exactly what Chen Ran was waiting for) and Li Zhitong wanted to use her skill, but suddenly froze. She saw Chen Ran also draw her gun, and in an instant, she was detected by the "follow to death" ability. Then, Chen Ran's body seemed to lose control and slowly moved to the edge of the floor; the "follow to death" ability had taken effect. Zhang Meili thought Chen Ran was sacrificing herself to protect Qiu Yinong. Zhang Meili thought this was bad; if Chen Ran died like that, Li Zhitong wouldn't attack her mentally anymore because Qiu Yinong still had value, and attacking her mentally would only make her an idiot, which wasn't what the three Three Star players wanted. But if Qiu Yinong survived, Zhang Meili and Zhou Chen would certainly die. As for Li Zhitong, she wouldn't care about the life or death of the other two.
+
+At that moment, Chen Ran's body, out of control, moved closer to the edge of the floor... Even though he struggled desperately, he couldn't escape the control of the "following him to death" spell. Immediately afterward, his feet slipped, and he fell from the floor into the void, plunging into a bottomless abyss. Everyone breathed a sigh of relief, thinking Chen Ran was finally dead. Then, suddenly, they heard a voice like that of the Grim Reaper demanding his life, as if coming from the depths of the abyss.
+                "Slay the Wasteland • Eternal Kingdom!"
+
+The secret chamber plunged back into darkness, the smiles on everyone's faces froze, Zhang Meili, Chu Chen, and Cao Xiu all felt a bone-chilling cold, a frigid sensation running through their brains and enveloping their entire bodies. A terrifying fear screamed in their hearts, consuming their reason. Cao Xiu's mental state crumbled; he dared not imagine what would happen when his skill was broken.
+
+Before long, the light returned. Without hesitation, Thu Y Nung raised her gun and fired three shots at Zhang Mei Li, Cao Xiu, and Zhou Chen. Through the heart!
+Before dying, all three stared at Chen Ran, their expressions a mixture of astonishment and relief. A rope, one end tied to Chen Ran's ankle, the other to the leg of a computer desk, which was welded securely to the ground. Chen Ran hung suspended in mid-air, not falling into the abyss. Seeing everyone watching, Chen Ran slowly raised his right hand, making a V-sign of victory. Then, grasping the rope with both hands, he slowly climbed up, finally clinging to the edge of the floor and sitting back down in front of the desk. This scene struck everyone's nerves, and by the time they reacted, the floor where Zhang Meili, Cao Xiu, and Zhou Chen had vanished, and their bodies had fallen into the abyss.
+
+At that moment, cold sweat drenched his back. Was he gambling? Was he deceiving him?
+Just now, Zhang Meili dared to use her skill, and even used it first, and then asked a question. This proves that Chen Ran had absolutely no idea what Zhang Meili's skill was beforehand. But while the secret chamber was plunged into darkness, based on his analysis of Zhang Meili's skill, he didn't use Eternal Kingdom. Instead, in the darkness, he took a rope from his backpack, tied one end to his leg, and the other end to the leg of the computer desk.
+
+His purpose in doing so was: he didn't use his skills immediately because he knew Zhang Meili would outsmart his lies, making it impossible to use them. Even if he did use them, at most he could only kill Zhang Meili and Cao Xiu. Instead, he secretly tied ropes around Zhang Meili's feet, making her think she had intimidated him and that he could only sit still and endure the attack. But with this action, Chen Ran could kill Chu Chen as well, officially sending three more victims to the slaughterhouse.
+[He's insane!]
+[Chen Ran is a madman!]
+
+To summarize this part, after completing the first business battle/trap of the three sheep, Chen Ran's original goal wasn't just to use the three sheep as ATMs for everyone, but to completely eliminate them. Chen Ran reminded Zhang Meili of Cao Xiu's situation; in reality, Cao Xiu had run out of money and had just tricked Zhang Meili. Therefore, Chen Ran held a shareholders' meeting, gave Zhang Meili a gun to shoot Cao Xiu directly in the head, and she wouldn't hesitate to fire. Under duress, Cao Xiu was forced to use his skills to resolve his predicament. As a result, Zhang Meili will become the next target, just like Cao Xiu. She will be forced to use her skills, and she will have to negotiate and rally everyone to form an alliance to kill Chen Ran. The other two sheep, Zhou Chen and Cao Xiu, will certainly respond, and the others, seeing no risk, will also agree. But Chen Ran had anticipated this situation early on. He was certain that no matter what hacks Cao Xiu or Zhang Meili used, they would have to lie. A battle of wits with Chen Ran was impossible, so they would definitely have to ally with Li Zhitong to psychologically attack him. However, using Li Zhitong's skills would certainly affect Qiu Yinong, and Qiu Yinong wouldn't betray Chen Ran because she needed his support—something the three stars didn't want at all. This would inevitably push the three stars out of the game. This leaves only Cao Xiu, Zhang Meili, Zhou Chen, and Li Zhitong in the game.
+
+If they want to use hacking, Zhang Meili and Cao Tu will definitely lie.Because no one would proactively provide them with lies, as analyzed above.This means they are forced to kill Chen Ran at all costs, and to kill Chen Ran they need Chu Shen. Everyone knows Chu Shen's skills; he is the trump card that can neutralize Chen Ran. This will inevitably lead to Zhang Meili and Cao Xiu trying their best to persuade Chu Shen. Furthermore, because they are caught in the trap of three sheep, Chu Shen will have to accept it, as if those two die, Chu Shen will also be sacrificed to Chen Ran. At this point, Chu Shen will become the one providing the lies.
+
+When everything was settled, all three had lied. Chen Ran, relying on the effect of his "Deathly Attentive" skill, secretly tied a rope to his leg in the darkness and hid it behind a table. When he heard Chu Chen lie, he immediately stood up, violating the rules and triggering the effect that sent him falling into the abyss. Upon leaving the arena, Chen Ran used Eternal Kingdom to disable all skills, allowing Thu Y Nung to act freely, and killed the three two-star players before they could do anything else.
+
+Complete the objective of killing 3 second-tier monsters to progress to a larger objective in the next phase.Big Rich Man (2)Regardless of whether they used any skill or not, these three sheep were certain to die.
+(Manip, Decept, Strategy, Thinking, Psychology)

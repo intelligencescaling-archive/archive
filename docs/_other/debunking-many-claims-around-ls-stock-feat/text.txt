@@ -1,0 +1,116 @@
+Debunking Many Claims Around ‘L’s Stock Feat’
+Context:
+L invested £1 million and increased it 20,000 times in just two years. This feat is often cited as evidence of his profound understanding of economics, market psychology, exceptional learning abilities, and inductive reasoning; some even claim his knowledge transcends our time. However, this interpretation collapses when tested against real-world market constraints, especially given the 1990s economic and technological environment.
+While it may be true within his fictional universe, the feat is only possible under fictional market conditions. No amount of foresight, luck, intuition, or “beyond our time” knowledge could achieve this in our real economic system. Therefore, using this feat to compare him with characters from other verses is fundamentally flawed. And this docs will prove you why
+Since L’s gains come from buying stocks, he was essentially investing in the future performance of the companies he bought into. His returns are inseparable from those companies’ actual growth. If a company couldn’t realistically grow to that extent, neither could his investment. Hence, the logical first step is to examine whether any real-world company could have achieved the growth needed to turn £1 million into £20 billion in just two years.
+
+Point 1: The First Hard Stop
+Before we even dive into the numbers, this is the first major obstacle: there has never been a company in recorded human history capable of delivering a 20,000x market-cap growth from a £1 million investment at a fair market price in just two years. The scenario of an already large company growing 20,000x in two years is even more impossible. The only ‘more plausible’real-world scenario would be investing in a tiny, high-potential early-stage startup.
+Yet, even this possibility falls apart when considering the 1990s context, which lacked:
+• High-frequency trading algorithms: No instant executions across markets.
+• Mass retail investing platforms: Investors required brokers and paperwork.
+• Rapid information dissemination: Financial information arrived via newspapers, fax, or limited online sources.
+• Global capital mobility: It was limited, and cross-border investments required legal clearance and time.
+• Internet commerce: It was in its infancy, with slow adoption curves.
+Additionally, even an investor with perfect foresight would be constrained by the company's nature, including physical, operational, and behavioral limits such as production bottlenecks, supply chain constraints, and natural human adoption speeds. Importantly, L was never running the company, so no amount of his foresight or luck could control execution outcomes. (We will revisit this later.)
+
+Point 2: Paths to 20,000× (and Why They Fail in Reality)
+1. Venture Investment (VI) Path (Implied in the Story)
+Going from £1 million to £20 billion in 2 years is unprecedented and against historical data. Even bubbles and growth spurts reach ceilings due to capital limits, regulation, and investor confidence.
+Mathematical analysis:
+Solving r ≈ 51.08% compound growth per month for 24 consecutive months. However, history shows that even the most exceptional investments or financial events fall far short of this scaling in this timeframe:
+Historical Reality Check
+Event / Asset
+	Peak Growth
+	Period
+	Source
+	Dot-com boom (NASDAQ)
+	~6.8×($751.49 to 5,132.52)
+	1995–2000
+	https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/dotcom-bubble/
+	Bitcoin
+	~416.8×($286.07 to 119,230)
+	2015-2025
+	https://coinmarketcap.com/currencies/bitcoin/#yields
+	Bitconnect (top 20 most successful scam in crypto)
+	~ 2723x ($0.17 to 463)
+	Post ICOto 2017
+	https://en.wikipedia.org/wiki/Bitconnect
+	Berkshire Hathaway
+	~36,842×($19 to $700,000)
+
+	1965–2024
+	https://finance.yahoo.com/news/took-41-years-berkshire-hathaway-012617809.html
+	As the table illustrates, Even Berkshire Hathaway did achieve a greater return, it took 59 years, not 2.
+
+2. Trader Path (Even Though Not Implied)
+Even if L timed every trade perfectly, used leverage, and had perfect foresight, real-world market mechanics would block this in practice due to:
+• Broker leverage caps, especially in the 1990s, were far lower than crypto’s modern 100–500×
+• Liquidity ceilings*: large trades move markets against you.
+• Margin rule changes: exchanges can restrict trades mid-run (see: GameStop 2021).
+• Counterparty risk: brokers can collapse or freeze funds.
+*Basically, the point where the market doesn’t have enough buyers or sellers at your desired price to handle the size of your trade, so your own order starts moving the market.
+
+Summary of Points 1 and 2:
+There is no known case, especially in the 1990s, of a company or portfolio returning 20,000x in two years. This is not a matter of L’s knowledge or foresight; it is a matter of hard limits in company growth, market adoption, and human behavior. Even if L possessed perfect market knowledge, flawless intuition, and infinite luck, he would still face the fundamental reality that such a company did not exist to invest in. Adoption, trust-building, and market penetration take time.
+Some may argue this could happen with a purely digital, zero-production-cost product. But even software in the 1990s faced hardware limits (the story even told us that most people didn’t even own a computer, let alone have internet), distribution bottlenecks (physical disks or slow dial-up speeds), and slower adoption curves.
+This leaves only one option: L’s “Magical company” was fictional. And even if it’s a fiction, the feat stillunrealistic by our world’s rules, meaning his verse operates under fundamentally different physics, human behavior, and market mechanics. Therefore, using this feat to scale him against characters from other verses is invalid, as it relies on a market system detached from reality itself.
+
+Question: Where did L even find such a “Magical company” to invest in?
+Answer: Nowhere, because it could never have existed in real world logic.
+
+Point 3: Possible Objections and Responses
+Objection: “He exploited a massive bubble.”
+Refute: Historical bubbles have ceilings far below 20,000× growth. While a bubble popping could cause a company's value to drop from £20 billion to £1 million, and L expected it to reach it previous price. The company's underlying fundamentals would likely be a complete failure, and it would not "reinvent itself." This process takes much longer than two years. The reason it's so rare for a company to recover from a bubble-related crash is that the bubble itself was fueled by speculation, not genuine, sustainable growth. A company returning to its previous value would require a brand-new, even larger bubble to form, which is a statistically impossible event in such a short timeframe. But if the company magically managed to do that?Read Point 4.
+Pretty sure you can find many ways to nitpick this and that like:
+Objection: “Hyperinflation/currency collapse/ penny stock cases or post-war anomalies and etc., can happen”
+Refute: that’s a macro event which pretty much kill those claims itself
+Objection: “It can bubble -> collapse -> bubble again”
+Refute: take too long to recover in 2 years timeframes
+
+Point 4: The Real conclusion! (We left from point 1, remember?)
+Even if we apply all his verse’s logic, those claims about L’s feat are still invalid.
+If we grant all fictional conditions (instant adoption, zero liquidity issues, infinite leverage, perfect foresight, etc.), the true cause of the 20,000× return is the company’s extraordinary growth, not L’s abilities. In the real world, if a company manages a 20,000× jump in market value in two years, the praise belongs to:
+-The founders who built and scaled it
+                -The engineers and workers who delivered the product
+                -The market that adopted it at unprecedented speed
+L’s role in this scenario would be no more remarkable than someone who bought Amazon in 1997 and held it; the success is due to Amazon’s business model, Jeff Bezos’s execution, infrastructure growth, and adoption rates. In other words, he is a very smart 8-year-old kid who got skill and got lucky with the right ticket, but the rocket was built and launched by someone else. Basically, even a top-tier investor in our world can do that.
+
+This adds a crucial scenario that undermines these claims: L could simply have knowledge equal to an investor in our world. His extraordinary return cannot be attributed solely to his skill, as it is inextricably linked to his verse's "magical company," the abilities of the company itself, and the unique market logic that makes such a 20,000x return even possible. Even “perfect foresight” in such a market wouldn’t exceed the foresight of a great real-world investor; the company’s growth remains a function of fictional rules (His verse’s logic pretty much make it unscalable)
+
+Objection: "Point 4 is nonsense! L did not invest his entire £1 million on a single company, but instead invested in many companies. He literally said, ‘…then if possible, please buy all the buyable company stocks shown here…’, read it again!”
+Refute: You are correct, and this argument ironically makes his feat even more improbable. His act of buying many stocks is a form of diversification. The purpose of diversification is to mitigate risk by spreading it across multiple assets, which smooths out volatility and leads to more modest, average returns. For a diversified portfolio to achieve a 20,000x return, every single one of its components would need to be a historic outlier, and one would need to have a return higher than 20,000x, which is statistically more impossible than simply finding one such asset. The act of diversification itself works against the kind of concentrated, explosive growth seen in L’s feat, further reinforcing that his achievement is a product of his verse's fictional market. And even if he did manage to find and do all of that? Credit is where it’s due!​
+
+How diversification look like?
+Let's use the formula for a diversified portfolio to prove this. We'll assume L divides his £1 million equally among the three companies:
+• Initial investment (V0​) = £1 million
+• Investment per company (V0​/3) = £333,333.33
+• Return on A = 30,000x
+• Return on B = 10,000x
+• Return on C = 5,000x
+To find the final value (Vf​), we calculate the sum of the returns for each company:
+Vf = (V0​/3​×30,000) + (V0​/3×10,000) + (V0​/3​×5,000)
+Vf​ ≈ £10,000M + £3,333.33M + £1,666.67M
+Vf ​≈ £15,000M or £15 billion
+To find the total return multiple for the portfolio, we divide the final value by the initial investment:
+Total Return = Vf/V0​ = 15,000x
+As you can see, even with three companies achieving historic, unprecedented returns, the diversified portfolio's total return of 15,000x is an average of the three and is less than the highest single return of 30,000x. This leads to Point 5
+
+Point 5: A Deeper Contradiction
+Even if I change the claim from "L has a profound understanding of economics... beyond our time" to "...his verse", it becomes even weirder when examined through the lens of diversification.
+[reductio ad absurdum begins]
+If L’s diversified portfolio produced 20,000x, by definition, one person in his universe invested exclusively in the best-performing company, earning even higher returns. This leads to two logical conclusions:
+1. ‘Someone’ had better knowledge and foresight than L: The claim that L has knowledge "beyond his verse" would be not unique if another person had appeared. If you find that unacceptable? How about…
+2. ‘Someone’ got lucky: This implies the universe’s market is rigged or subject to chance beyond reason.
+Either way, L’s feat does not demonstrate those claims but instead reveals that his universe’s rules differ fundamentally from ours, where chance or fictional conditions outweigh real-world market constraints.
+
+Objection: “That is just a hypothetical scenario! L picking that one company is still skill, if no one else in the verse did it, it proves superior foresight.”
+Refute: In any universe where 20,000× growth is possible for multiple firms, foresight is less unique
+
+Final Thoughts
+• No company or portfolio in our real-world history, especially the 1990s, has produced a 20,000× return in two years. So, realistically, L should have had no company to invest in to get that return in the first place.
+• This feat depends on fictional market rules that ignore technological, regulatory, behavioral, and economic realities of the era.
+• Any credit for such returns should mainly belongs to the company; L just happened to spot and invest in it.
+• Claims about ‘L’s extraordinary knowledge, learning ability, pattern recognition, and inductive reasoning’ based solely on this feat do not hold in a real-world economic context.So, it cannot be used to scale him against other verses. (Even against his own verse is a problem)
+
+If you’ve read this far, thank you! I spent a solid five hours putting this together and hope it clarifies why L’s stock feat doesn’t prove what many claim it to prove.

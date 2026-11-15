@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jimmy-mcgill-vs-dexter-morgan
+category: doc
+title: Jimmy McGill vs Dexter Morgan
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- dexter
+- breaking-bad-better-call-saul
+characters:
+- dexter-morgan
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=16Tk21t7pGZJfpsLASZeiUiT8_RBdB92kIDtPwhDwlp0
+    google_id: 16Tk21t7pGZJfpsLASZeiUiT8_RBdB92kIDtPwhDwlp0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 877
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 136436
+      sha256: 4a2b34d172be8b33d58767c3ebe848393fa3d85bd5be65eeb2ad2f62632bec72
+    - format: docx
+      name: document.docx
+      bytes: 282697
+      sha256: 8fbd08efaddf02bf39720a47b17cfe1550df431dc4840de605bdf1b5014b9b16
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mzxqip/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-25: Old Full Scale Doc Dexter vs Saul Full Scale'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

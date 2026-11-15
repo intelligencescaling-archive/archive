@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-arrest-of-arsene-lupin-analysis
+category: doc
+title: The arrest of Arsene Lupin analysis
+authors:
+- name: ResponseLower49
+  reddit: ResponseLower49
+  source: reddit-post
+series:
+- lupin
+characters: []
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pXQ1VYF2z--483Z6Izr31afyNfi5WJY5JC46nJyjKYw
+    google_id: 1pXQ1VYF2z--483Z6Izr31afyNfi5WJY5JC46nJyjKYw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 6598
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 308880
+      sha256: 5707dc6c5b293428c7236a5591614073ffcd3dc8a76aebf3451d67c1d70f2d42
+    - format: docx
+      name: document.docx
+      bytes: 66479
+      sha256: f94003c35dedc75daee583892176c47ce5687b9deefa853428adf82f99ff1fa0
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uj6v01/
+  note: 'Shared by u/ResponseLower49 in a post on 2026-06-29: Analysis on Lupin''s actions during "The arrest of Arsene Lupin"'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

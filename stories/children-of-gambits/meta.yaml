@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: children-of-gambits
+category: story
+title: Children of Gambits
+authors:
+- name: Ardent_WEST
+  reddit: Ardent_WEST
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1DmxGNanP8m5YwF9EFk8K3Gk9Th62qDfMMIHpA---Jk0
+    google_id: 1DmxGNanP8m5YwF9EFk8K3Gk9Th62qDfMMIHpA---Jk0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 143
+    words: 40770
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1675071
+      sha256: d9baece477fa5da7829f0f01f8b4ef9dbd00d85e84e8660c3c773158076315f0
+    - format: docx
+      name: document.docx
+      bytes: 146659
+      sha256: 6939bd0532642f7dac8a083b961edc7b13427cea20db83b0163b6251f02f6a2c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1sfukl8/
+  note: 'Shared by u/Ardent_WEST in a post on 2026-04-08: In need of review'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: outsmarting-overall-intellect-categories-by-eru-eng-version
+category: doc
+title: Outsmarting & Overall Intellect Categories (By Eru) - Eng Version
+authors:
+- name: heckthiscrapimout
+  reddit: heckthiscrapimout
+  source: reddit-post
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18ouwaen5GFEgFtkmZzp4bumtQwF-HDswIXmJLfMM8bo
+    google_id: 18ouwaen5GFEgFtkmZzp4bumtQwF-HDswIXmJLfMM8bo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 1746
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 102964
+      sha256: cefdebd344a081e8ba27d8d0e9ee2acfabe350664adabd0cc34a5cce86a08cbe
+    - format: docx
+      name: document.docx
+      bytes: 15004
+      sha256: 82ba039d3aa8281136f180059fe19b2c7aa4f9ae5eec6e743ee0aaeb92872c89
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1epnsgq/_/lhlufan/
+  note: 'Shared by u/heckthiscrapimout in a comment on 2024-08-11: [https://docs.google.com/document/d/18ouwaen5GFEgFtkmZzp4bumtQwF-HDswIXmJLfMM8bo'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cognitive-architecture-layers
+category: doc
+title: Cognitive Architecture Layers
+authors:
+- name: PerdidoNasRealidade
+  source: doc-text
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1QC9hxeeOooo8Fp2QYU3MCcA4LeuLRJFvLqOwFf9ZGdw
+    google_id: 1QC9hxeeOooo8Fp2QYU3MCcA4LeuLRJFvLqOwFf9ZGdw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 3785
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1038939
+      sha256: 29cd541ff21fa7f4875143ec859b92fb086955c16dba2af4b3fb716d409eba95
+    - format: docx
+      name: document.docx
+      bytes: 822986
+      sha256: 7a9ba34d3699609275efa7632df72d242d8f3090637efa69ea88b83907f9f2a3
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qysn2m/
+  note: 'Shared by u/PerdidoNasRealidade in a post on 2026-02-07: Cognitive Architecture Layers (CAL)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

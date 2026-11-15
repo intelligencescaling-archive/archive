@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dissension-chapter-2
+category: story
+title: Dissension Chapter 2
+authors:
+- name: Magmax1b
+  reddit: Magmax1b
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EwAVqZ1KonTVzl5aShO1gz6QTMpL6KuyRQrkmFW3yg4
+    google_id: 1EwAVqZ1KonTVzl5aShO1gz6QTMpL6KuyRQrkmFW3yg4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 5312
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 207777
+      sha256: fb41b8260a4cbc071a1ae5e0c5a0bff7042899cde82f6ac672e558ad24f0a48e
+    - format: docx
+      name: document.docx
+      bytes: 21581
+      sha256: 39558613ea81d3642b52a415464ab38e9233dbb60f78e3f11cfe37490c03fe5a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xn52tq/
+  note: 'Shared by u/Magmax1b in a post on 2026-11-03: Dissension part 2 (The Blind Observer)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

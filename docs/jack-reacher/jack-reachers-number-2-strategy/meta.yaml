@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jack-reachers-number-2-strategy
+category: doc
+title: Jack Reacher’s “Number 2” Strategy
+authors:
+- name: horrorhistory
+  source: doc-text
+series:
+- jack-reacher
+characters: []
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JUEq-qt960pSsqEJBZeJcHUzY3-5rNvXF7-pGuDXXVw
+    google_id: 1JUEq-qt960pSsqEJBZeJcHUzY3-5rNvXF7-pGuDXXVw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 789
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4928731
+      sha256: ff2f6685ca660467a037669cdd8a64f59a75e7f1253c9568cf3740507398e405
+    - format: docx
+      name: document.docx
+      bytes: 4923896
+      sha256: dd617c080c2a82e0caf880001d7a8712d2d6c4f7ba35e2ce9922fb93eccb856e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1rsdpo9/
+  note: 'Shared by u/Joshy_Montage in a post on 2026-03-13: Jack Reacher''s "Number 2" Strategy'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

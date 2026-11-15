@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pj-4x23-4x24-plan-analysis
+category: doc
+title: PJ 4x23-4x24 Plan analysis
+authors:
+- name: Arthen
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- analysis
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-wBvh3zf4LLJx6ahgWxSEaKlwtn5MwElcXB6XLv9Ve8
+    google_id: 1-wBvh3zf4LLJx6ahgWxSEaKlwtn5MwElcXB6XLv9Ve8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 2949
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 222599
+      sha256: 448c594dd5abb0a7deacc2a0c80ede9a5939c286356fb95f848ef21e06998532
+    - format: docx
+      name: document.docx
+      bytes: 188134
+      sha256: 86c810b571815ac353f71f1cd698e5f5576be61753514a26bb3cf30152d245ff
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pa6tw6/
+  note: 'Shared by u/No_Engineering_3223 in a post on 2025-11-30: Patrick Jane 4x23-4x24 plan'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

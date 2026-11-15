@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ja-wook-doc
+category: doc
+title: Ja-wook Doc
+authors:
+- name: Akuma Ujjain
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BjHq4SUN171w45GHU5b0fD-4PjwVEeF97FczkRVasV8
+    google_id: 1BjHq4SUN171w45GHU5b0fD-4PjwVEeF97FczkRVasV8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 34
+    words: 2540
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 626897
+      sha256: a67c56a549b868901607494b89ecb290d25a4b361e78f0d93e0a9d65ef4a7d66
+    - format: docx
+      name: document.docx
+      bytes: 1116748
+      sha256: eba626f7def8db46469cc0504caae89a26031c5107cbe9f8a9bd9a3177b8a651
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pv6osb/
+  note: 'Shared by u/Quiet_Apricot7175 in a post on 2025-12-25: My Merry Christmas to yall (yall will never reach my hate for Light. Ever.)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-categories-model-by-waltwhite62
+category: doc
+title: SCD Categories Model by WaltWhite62
+authors:
+- name: WaltWhite62
+  reddit: WaltWhite62
+  source: reddit-post
+series: []
+characters: []
+tags:
+- matchup
+- scd-categories
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=16Xy4tJzAdatvdoa8L55MuhtvlfGeUiJ5_fXYMNSe31o
+    google_id: 16Xy4tJzAdatvdoa8L55MuhtvlfGeUiJ5_fXYMNSe31o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 230
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 88743
+      sha256: 74c95d00f8b95fc76320cd8db013d33a7c7d4b086fb4a0bc3f14af90454b4d09
+    - format: docx
+      name: document.docx
+      bytes: 2239561
+      sha256: a2fa653255fe11454f7d9b5590eddf14ae5e310cc70adbcd89bc3cf6d71ce508
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vqpgj4/
+  note: 'Shared by u/WaltWhite62 in a post on 2026-08-17: Outsmarting Categories Model to do Matchups'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

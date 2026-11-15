@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: im-not-joking-https-docs-google-com-document-d
+category: doc
+title: Im not joking:https://docs.google.com/document/d/1nfTzDoYJjFWuFvPoX-ct\_6j8KTBdt
+authors:
+- name: Memiochii
+  source: doc-text
+series:
+- usogui
+characters:
+- gonen
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nfTzDoYJjFWuFvPoX-ct
+    google_id: 1nfTzDoYJjFWuFvPoX-ct
+  capture:
+    status: partial
+    date: '2025-05-10'
+    words: 962
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250510112226/https://docs.google.com/document/d/1nfTzDoYJjFWuFvPoX-ct_6j8KTBdtvwlbV_n0HLy3Ek/edit?usp=drivesdk
+  note: Snapshot from 2025-05-10
+- type: reddit-post
+  url: https://www.reddit.com/comments/1hkn66l/_/m3fopih/
+  note: 'Shared by u/CrowPractical4104 in a comment on 2024-12-23: Im not joking:https://docs.google.com/document/d/1nfTzDoYJjFWuFvPoX-ct\_6j8KTBdt'
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-05-10. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: abc-murder-18loh
+category: doc
+title: ABC murder 18loh
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1mhHN2ch90OG-m-dOMTWdQSpzZ8EGbtokbIvLwPINb3A
+    google_id: 1mhHN2ch90OG-m-dOMTWdQSpzZ8EGbtokbIvLwPINb3A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 10979
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 467687
+      sha256: 67117f2ef2adc79f60f000d2cb478353d180844410816035916c56e4d3acecf0
+    - format: docx
+      name: document.docx
+      bytes: 35888
+      sha256: b16b3408b9f68bf56b05ceead697b96f17e2869c0ba8c36328ebb4da61099bd4
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x9qnon/
+  note: 'Shared by u/Simply_Amazing_1610 in a post on 2026-10-19: All the analysis done on Chen Ran and Eighteen Levels of Hell linked'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

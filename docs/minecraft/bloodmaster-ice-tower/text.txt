@@ -1,0 +1,516 @@
+In this doc, I will be going over Roscow’s strategy in the Ice Tower, governed by the magical entities of a planet Iceika, who possess mind-bending, paradoxical powers, alongside all the necessary context to help us truly understand his thought-process, all the variables and intricacies he was juggling throughout it.
+! Quick explanation of the character and context !
+In case you’ve missed this, this doc is a direct continuation from the last Roscow’s plan I’ve analyzed. In that doc, I also go over the premise of the character, general setting, as well as some core motivations, so to not repeat myself, I’m going to pretend from this point on that you’re familiar with everything in this previous doc.
+
+【 PART 1 - PORTAL 】
+The story picks up right where the last one left off, with Roscow and MiniBingo still in their humble, self-made, ambushed house. They’re seen prepping minerals and other materials, as now they must advance further, given how there’s no chance of them coming back to the town of Immersion.
+
+Roscow reckons they have enough materials, as well as something called “Frektajt” from the slain Glacon, that will help him get off-world entirely, something which MiniBingo tries to mask as if it’s nothing special, saying:
+
+I know, dude, you’re making a portal, I’m not that dumb.
+
+MiniBingo is currently operating with a bit of mental weakness to himself, given how he was just seemingly saved by Roscow’s genius, making the roles reverse from the initial moment when they arrived in the town, where MiniBingo thought Roscow was the one trying to prove himself, which was ultimately a thought Roscow manipulated MiniBingo into having in the first place.
+
+As we’ll see as the story progresses, Roscow’s claws are still deep inside MiniBingo’s thought-process, and he’s not even aware of it.
+
+While they’re smelting the rest of their minerals, Roscow excuses himself to do some mental math for their next move.
+Preparing for the destination
+
+The planet on which Roscow is preparing to travel to is Iceika. It is not really explained where this fictional planet is, but we can extrapolate roughly based on its description and eventual sighting.
+
+Iceika is a planet slightly farther from the Sun than Earth is, as it’s overall colder. (Naturally, we have to keep in mind that this isn’t our Solar System, but BloodMaster’s Minecraft Solar System, but just so we can get the general idea of what it is.) However, in spite of it being colder, it is still similar to Earth enough that it possesses forests, rivers, oceans, just generally normal ecosystems with some exotic animals present.
+
+We also know that Iceika’s soil is very thin, as most of its minerals and ores are closer to the surface. This is due to the biological activity of this planet being slower.
+
+Iceika’s placement, therefore, would approximately be somewhere around 1.1 to 1.25 AU, roughly at least.
+
+Kepler’s third law of planetary motions states that the ratio of the square of an object’s orbital period with the cube of the semi-major axis of its orbit is the same for all objects orbiting the same primary.
+
+We can roughly figure out Iceika’s orbital period because of this. Because Iceika is located within this universe’ Solar System, therefore sharing our Sun, we have everything we need to figure out that duration.
+
+Let’s say that ‘a’ is 1.15 AU. The root of 1,520875 is 1,233, which is then the amount of Earth years Iceika’s orbital rotation takes. Or roughly 450 days.
+
+Teleporter function
+
+The way the portal works is that it doesn’t just randomly port you to wherever you want on the planet, and instead it transports your body to a set location in space, which you have to time and calculate when that location will be in the planet’s orbit.
+
+Roscow specifically instructs MiniBingo that they have to construct the portal in front of the house they made, and wait till morning to go through it, after doing his calculations.
+
+We have very little to work with in terms of the coordinates for both of these locations. All we know is that their house is at +4, +318, 64, and that the location portal took them to on Iceika is -242, 65, 155, however these aren’t very meaningful numbers to us given how they only relate to the planet’s origin and cannot be extracted as vectors for interplanetary distance. The range between planets in this specific moment can be either from 20-something million to 320-something million kilometers away.
+
+But even if we don’t know the information, we know for a fact that Roscow knew it, as he pre-planned the destination to Iceika before even arriving to Immersion, and planned in advance where the coordinates of travel must be.
+
+Information 1
+
+Because the distance is not-fixed, Roscow would constantly be needing to calculate the orbital rotation of Iceika to safely land at -242, 65, 155.
+
+Knowing the time in Earth days as well as the starting orbital angle, Roscow would be calculating where both Earth and Iceika are, and how far apart they are.
+
+Information 2
+
+Roscow would need to know when the planet will be rotated in the right direction, given how the planet is actively spinning. Roscow, alongside the previous information, would be needing to calculate the rotation angle.
+
+Knowing the angular velocity, Roscow could know which way the planet is turned.
+
+Cognitive proficiency
+
+For obvious reasons, this boosts Roscow’s IQ by quite a substantial margin. Even if it’s not clear at the moment, through the story it will become very obvious that Roscow was planning on getting to this specific location on Earth for months already, which means he was keeping a mental tab of:
+* Earth’s orbital phase,
+* Earth’s rotational phase,
+* Earth reference frame orientation,
+* Iceika’s orbital phase,
+* Iceika’s rotational phase,
+* Iceika’s day length ‘D’,
+* Iceika’s year length of 450 days,
+* Axis orientation,
+* Coordination of those two points mapping, which would overlap every 5-something years.
+Setting the portal
+
+After Roscow constructs the portal and opens it, as instructed, they’re meant to wait for a while before entering, as the axis is still not fully stabilized.
+
+In the meantime, he creates Twilight Clock devices from the minerals he obtained during the Immersion Town adventure, which will allow him to communicate with MiniBingo across these planetary distances, though he doesn’t tell MiniBingo about its use right away.
+While they’re waiting for the time to be right, MiniBingo continues the trend of trying to shine for a little bit and get that validation by bringing up the other planets they could visit afterwards such as Eden, Alpoecia, Mortum and so on. This mental state MiniBingo is currently in, is exactly what Roscow needs, as it will become obvious later on.
+
+【 ICEIKA DESTINATION 】
+The time arrives as both enter through the portal. They’re transported to an underground cave that is staring directly into a wall of a building that is made of ice.
+
+Roscow gives MiniBingo the Twilight Clock, lights up the area and comes closer to this wall, acting gleefully surprised. He starts explaining to MiniBingo about this tower, which they’re only seeing partially as the rest of it is buried in the rubble, but the core information he gives to MiniBingo is that this ice is protected and cannot be destroyed nor obtained by a person interacting with it, and that the only way to obtain it is through indirect means, which would include natural explosions.
+
+While saying that it’s a miracle they suddenly stumbled upon this, Roscow immediately starts digging a way through this cave to the surface, because the tower in question possesses an incredibly valuable prize with which the sky’s the limit for further progression.
+Problem
+
+The issue with this mission right now is that there’s only a limited window of time when the portal through which they’ve entered can be entered again without instant death, because, as previously established, it transports a person to a set location in space rather than a specific place on the planet.
+
+That is of course if they want to get back to planet Earth in the next couple of minutes. Given how the planet is inhabitable, MiniBingo wouldn’t assume that it maybe isn’t Roscow’s primary, temporary fix, as it makes sense given their situation:
+* They singlehandedly caused chaos in the entire town, raided the place and corrupted their tech.
+* Their previous home is gone (for reasons that are still unknown).
+
+Shielding
+
+Roscow frames this as a tactical diversion and bait to the mayor from Immersion town. Despite stealing their stuff, their location is still very much known. The tactic Roscow used last time against his drones only saved them from initial ambush, but otherwise they have no resources against hordes of them, which they know they have.
+
+With the portal present and still opened, it can bait the future drones of Immersion to enter it and end up in empty space, which would also allow both Roscow and MiniBingo to eventually return to that location.
+
+For this tactic to work, the portal NEEDS to be opened, otherwise MiniBingo would question it.
+
+Roscow’s goal
+
+While MiniBingo thinks this is Roscow’s aim with this trick, it is not. Roscow’s actual aim is to return to Earth as fast as possible while still having MiniBingo present as a pawn.
+
+The more time he spends in Iceika, the more lethal it becomes for him, which is why he chose to set the alignment within a cave right next to the tower.
+Iceika Tower
+
+Something I need to mention right now, even though it’s only later explained, but for the purposes of us understanding how Roscow’s strategy here works, it is important to note that this isn’t Roscow’s first sighting of Iceika nor its contents.
+
+This on its own is obvious given how he explains some facts about it to MiniBingo, but the extent of that knowledge is unclear. Nothing Roscow said to MiniBingo is incorrect, the ice towers ARE in fact unbreakable due to some magical enactment which prevents a person from breaking it physically, but an indirect cause can still break it because of that. Also, these towers DO have ‘prize’ which Roscow wants. What he DIDN’T tell MiniBingo is that they’re governed by 3 magical entities, Truth, Lie and Random.
+
+They possess incredibly powerful magical essence with which they can make the environment malleable. This power is spiritual, and can be either learned or stolen, and one can only guess which option Roscow prefers.
+
+In order to obtain their power, you first must figure out their identity. They don’t speak any Earthly language, and will only answer 3 of your questions total, regardless of how you distribute those 3 questions to which God. They will only answer ‘yes-or-no’ questions, but they naturally won’t say either ‘yes’ or ‘no’ in a language a human can understand. They will utter phrases either ‘Frek’ or ‘Tajt’. The challenge is that you naturally don’t know which one means which.
+
+After 3 questions, if you’ve correctly guessed their identities, their Iceika forms will be gone and into their physical forms on Earth shall they spawn. If you fail to guess which one is which, you fail the test and die on the spot.
+Trapping MiniBingo
+
+With everything explained, what Roscow proceeds to do in this part is tell MiniBingo they should separate, with Roscow going up to the surface, and MiniBingo deciding to dig further into the caves. Given their Twilight Clock over which they can communicate, there is no downside to this, especially given how there are no hostile creatures anywhere.
+
+As Roscow is digging to the surface, he purposely leaves just enough room that if MiniBingo were to peep his head through the corridor, he’d see that the tunnel to the surface has been made, satisfying that question in his mind. He’d realistically have no reason to follow him, especially since they’re communicating over those devices. This isn’t really a risky play for Roscow, since this is their established form of adventuring, and they have been separating a lot during Immersion as well.
+
+Once Roscow digs out the tunnel while MiniBingo is preoccupied in the caves, Roscow goes back down the staircase and enters the portal. Despite being only minutes, he’s already way past their house in the swamp and instead somewhere more mountainy.
+
+MiniBingo’s discovery
+
+As explained previously, MiniBingo is still operating under a more validation-seeking mentality than usual due to the psychological manipulation Roscow performed on him. While he is in the caves, he mentions over the Twilight Clock that on coordinates ‘25’, he sees a darker entrance to the tower that was peeping out of the cave.
+
+He checks inside and notices the phrase ‘Frek Tajt’ inside it, something which Roscow told him earlier is in fact a material that will end up being useful to him. Seeing this, MiniBingo goes inside for an independent adventure, saying:
+
+Alright, I’ll help you out too now.
+
+It comes off naturally with everything that was building up. MiniBingo feels as if he owes Roscow a helping hand for the helping hand he gave to him previously, yet the timing had to be very intricate as well.
+
+Roscow on Earth
+
+While MiniBingo is proceeding off-screen, Roscow is seen walking through the forest, reaching a colder biome while following coordinates. While walking, he occasionally speaks with MiniBingo over the Twilight Clock, mentioning various imaginary details and what he’s seeing while proceeding to the destination he eventually arrives at.
+
+It doesn’t take him a long time, as the delay that was made with the teleporter in the first place was pre-determined.
+
+What Roscow stumbles upon, as planned, is an ice tower that has 9 floors, in front of which is a statue representing one of the 3 entities which guards them throughout the Solar system.
+
+【 PART 2 - ICE TOWER 】
+On Earth, it is currently morning, and Roscow has no time to waste. He climbs on top of the statue and carves out a small pocket. It’s not shown to us what he does with it at this moment.
+
+He climbs back down and officially enters the Ice Tower dungeon.
+1st Floor
+
+Roscow jumps into the room through the window, immediately being confronted by a zombie and a cave spider which are created by a spawner down there. He kills both by circling around them and attacking the spider against the wall.
+
+Because he aggressively pushed against it, it ultimately bit him, giving him poison. Upon this happening, he says:
+
+Ah, of course, it’s a poisonous one.
+
+Roscow’s movement on the 1st floor
+
+After checking the loot he collected, he is sniped by a skeleton awaiting him at the stairs which are leading towards the 2nd floor. Roscow kills him without saying anything concrete except:
+
+Die already!
+
+Once he kills him, he proceeds upwards and reaches the first hallway.
+
+1st hallway
+
+While inside, he turns around, checks the stuff he has, and says:
+
+Hm, yeah, this will be enough material to fill in every hole here.
+
+2nd Floor
+
+Roscow stated the “fill in every hole” line as a reaction upon seeing that the 2nd floor has a single hole in its floor. From inside the hallway, Roscow hits the ground and says:
+
+This is clay.
+
+Once he fully enters the room, he notices a skeleton circling around him, almost as if he’s avoiding him, climbing upwards. Roscow turns around and starts walking backwards while looking at the skeleton until he hits the wall while saying:
+
+Look at the zombie going upwards.
+
+He proceeds to check the loot of this floor, but as he does it, he then turns around from the door leading upstairs. In that exact moment, the same skeleton turns around again and tries to put Roscow in a corner. Roscow jumps at the skeleton who is up against the window, but the impact of the arrow stops him mid-flight. Roscow then proceeds to simply kill it.
+
+Roscow’s movement on the 2nd floor
+
+Before moving on, Roscow utters:
+
+If I had some… hm…
+
+He doesn’t finish his sentence, and instead stops in his tracks, thinking about turning his Twilight Clock on, but before he does it, he looks upwards and notices that the bottom of the 3rd floor has 2 holes. Instead of overlooking them, he proceeds to fill them up with material from below.
+
+2nd hallway
+
+Once in, he neatly gets rid of all the mobs which come to him in an attempt to kill him. Spiders try to swarm him, but can’t enter through the door. However, in the distance, a Zombie walks from the loot towards the wall that is the opposite of the door to the 3rd room. Once it finishes this action, it lunges forwards and out the window, falling to its death without the need for Roscow to intervene.
+
+【 ROSCOW’S REASONING 】
+A lot of things already happened, even if it might not seem that way. The fact of the matter is, Roscow is aware of the system when it comes to these 3 entities and how they operate. He’s also aware that they’re spread out through planets and that each planet has one of 3.
+
+To figure out the identities of each entity, in the worst case scenario, it would require at minimum the knowledge of 2 entities (as we’ll see later), which is why MiniBingo is his current contingency.
+
+As Roscow previously established, you cannot break anything within this tower on your own, not because it is that strong, but because it is magically protected, and this is Roscow’s first time actually entering it, therefore, up to this point, he has no knowledge over what the puzzle is.
+
+From general abductive reasoning, he can assume it has something to do with the concept of lies and truths, given how, throughout this tower, he only has a shot to ask 3 yes-or-no questions, to which he’ll be responded to with either ‘Frek’ or ‘Tajt’.
+
+Thinking at the 1st floor
+
+At first, in an attempt to test the waters, Roscow intentionally said something that was objectively correct. Saying that the spider is poisonous isn’t a question, but it is factually a truth.
+
+He then follows this up with a neutral, non-objective expression, wishing for a skeleton to die. This means nothing concrete, nor is it a question. You can’t judge whether it’s correct or not, which is something Roscow intentionally tested.
+
+Reasoning at the 2nd floor
+
+Once in the hallway, he announced another objectively correct, irrefutable statement, claiming that the floor is made out of clay while doing an action of hitting the floor.
+
+He does this due to noticing a skeleton mimicking his previous action he did while he was at the 1st floor.
+
+He follows this up with an intentional lie, saying that the skeleton is a zombie, when it clearly isn’t, all while walking backwards and hitting the wall. After doing this, he doesn’t say anything and proceeds with another action through the room, after which he does another action, which is turn around, setting himself in place to be where the spider was when he cornered it at the 1st floor, knowing that the skeleton will now be exactly where he was moments ago.
+
+After engineering a scenario like this, he perfectly jumps to the left window, timing when the arrow would hit him so it knocks him back to the ground. Once he gets knocked back, he notices that the skeleton is frozen in place, which is when he kills it in a single, continued action as he moves to the hallway.
+
+Before progressing further however, he closes both holes from below to the next floor.
+
+Reasoning in the 2nd hallway
+
+While observing the zombie, he realizes something specific about his movement:
+
+The zombie performed Roscow’s second and fourth action during the 2nd floor, but reversed. The pathway Roscow did in the previous room is identical, but it's mirrored. Roscow predicted this, which is why he engineered a scenario in which the skeleton would interrupt his jump through the window, but the zombie would have no deterrent from plummeting to its death.
+
+Just from observing this, Roscow instantly concludes the following things:
+* Telling a truth will result in a single entity mimicking your actions on the floor above.
+* Telling a lie will result in a single entity mimicking your actions on the floor above in reverse.
+* Telling a neutral or unfinished statement will fully neutralize the mimicking effect. He extrapolated this based on the fact that the skeleton from the 2nd floor didn’t continue the action of moving towards the stairs, because that’s the action that was followed up by Roscow’s “Die!” proclamation, or that he canceled any mimicry after saying an unfinished sentence before turning to look at his Twilight Clock, which means that the user does have power over resetting this influence.
+* The number of holes in each floor represents the amount of actions skipped during mimicry. Roscow while on the 2nd floor told and a lie and then did the following:
+   * Walked backwards to the wall. (zombie skipped this action)
+   * Walked from one side of the wall to the next (zombie did this action, but in reverse)
+   * Turned his back to the stairs. (zombie skipped this action)
+   * Jumped towards the window. (zombie did this action, but in reverse)
+* Whatever is said in the hallway will not be accounted for. He extrapolated this based on the fact that he said both a lie and a truth followed up by an action while in the hallway, referring that he’ll have enough materials to fill every hole while clearly not having it, and referring to the clay as clay while punching the ground. This includes the actions that are skipped due to the room’s holes.
+3rd Floor
+
+Once Roscow clears the room before entering it, he notices that the roof above him (a.k.a. the floor of the 4th floor) has also 2 holes, but this time he doesn’t cover them up. He says:
+
+Up there, the boss is waiting for us.
+
+Roscow states this as a matter of fact due to the fact that he’s very much familiar with this system, albeit not with this tower’s rules specifically. He’s baiting to get another mimicry going on.
+
+He walks from the hallway, moving completely vertically. Then once he reaches the wall, returns somewhere in the middle of the room. After doing that, he reaches the window side of the floor after observing the roof, as he sharply turns right, facing the stairs which lead to the next stage of the tower.
+
+Roscow’s movement on the 3rd floor
+
+As he’s about to continue walking, he says:
+
+I think I filled both of these holes.
+
+He turns around and stands directly below a hole that is on the 4th floor, while looking downwards in the hole he patched. He quickly gets rid of the material he filled the hole with, and proceeds to turn around, progressing further.
+
+3rd hallway
+
+During his safe-zone, he once again waits and inspects to see what happens inside. He notices a zombie mimicking his actions from the 3rd floor, meaning he commits to all of them. However, in the place where Roscow walked over, is a hole on the 4th floor, meaning the zombie drops to the previous stage and dies.
+
+4th Floor
+
+Besides a regular zombie being mind-controlled into committing suicide, there are plenty more of the entities inside that stage. Roscow responds by purposely falling through the other hole in the floor, descending down to the 3rd floor again. He looks around the room and says:
+
+I have already cleared this floor.
+
+Turning his back to the wall, he does a zig-zag motion, walking below the same hole he did previously, before proceeding forward to the 4th level again:
+
+Reaching the top, he witnesses a skeleton walking directly into the same hole Roscow was beneath, but without additional zig-zagging. Using the tested method, he says:
+
+I was in this room already.
+
+Following this up, he proceeds to walk up to the wall, then across the wall opposite to the stairs, reaching the window, then reaching the stairs, then turning around to reach the wall again. Once he gets to it, he tries to do something interesting, saying:
+
+The boss upstairs lies.
+
+Following this up, he walks diagonally to the opposite side of the stairs, then into the wall, then turns around while static, proceeds to jump, and only then walks up to the stairs.
+
+Roscow’s movement on the 4th floor
+
+4th hallway
+
+While observing the 5th floor from the safe-zone, which now has 5 holes, he sees a wither skeleton walking towards the wall from the stairs’ placement, but after doing this, he starts making his way to Roscow who is observing him from the corner:
+
+【 ROSCOW’S BAIT 】
+With the progress and knowledge he acquired during the first two floors, he only sharpened it with these two.
+
+Thinking at the 3rd floor
+
+Something he noticed is that the zombie who copies his actions from the 3rd floor did them identically, with zero pauses. This crossed out two hypotheticals, one of which was that the amount of holes adds and stacks up as you go along.
+
+With this test, that proved to be an impossibility, given how Roscow already accumulated 1 action of delay on the 2nd floor, yet there was no delay on the 3rd.
+
+Another question he crossed out is that filling up the holes DOES actually discredit them, which is quite useful info. The 2 holes that were present were both filled, so that amounted to zero, which means, zero actions were delayed.
+
+However, that realization opened up two new possibilities:
+* Holes are either resetting after each floor, OR
+* Holes are potentially multiplying, because 1x0 would equal 0.
+
+This is when he comes up with the idea of revisiting some floors, which is why he empties one hole from the 3rd floor and only then goes to the 4th.
+
+Reasoning at the 4th floor
+
+Walking through the 4th room would mean he’d accumulate the properties of those 2 holes, which is what he counted on. Sparking a truthful statement, he drops through the hole. After revisiting the 3rd stage, he sparks a truthful statement again, inducing mimicry, knowing that there are more entities above him, as he does a lot of motions, testing two theories.
+
+The first one was obvious, and as he witnessed, the skeleton mimicked Roscow’s third action, meaning it skipped the first two, meaning that the holes ARE in fact accumulating through multiplication.
+
+To make sure of this theory, he repeats another action after making a truthful statement in the 4th stage, now having accumulated 4 holes, due to walking through the 4th stage twice, and to his prediction, he ended up seeing a wither skeleton skipping Roscow’s first 4 actions, and only committing to the 4th one.
+
+Roscow’s current hole accumulation: 1st floor (0) → 2nd floor (1) → 3rd floor (0) → 4th floor (2) → 3rd floor (2) → 4th floor (4)
+
+The second thing he tested was whether he could instantly figure out the identities through framing it as an objective truth/lie, but, unluckily for him, it couldn’t. The statement was treated as a neutral sentence which canceled the mimicry itself, which made the skeleton attack Roscow organically.
+5th Floor
+
+He fights off the recently controlled zombie, as well as some others, with now having accumulated 20 whole holes total. Due to him already resetting his mimicry power from the last floor with that test of learning the entity’s identity, he can fight the hordes of creatures here without any other thoughts at first.
+
+Once he clears the room, he switches it up and finally asks his 1st question out of 3:
+
+Will the boss upstairs answer with ‘Frek’?
+
+The surrounding entities vanish as the tower answers indeed with ‘Frek’.
+
+Despite this happening, more entities spawn, and they end up overwhelming and pushing Roscow into a hole, after which another entity pushes him again into another hole, making him descend all the way down to the 3rd floor again. This means that on Roscow’s already accumulated 20 holes, additional 2 got multiplied, meaning he had 40 total.
+
+Because he fell all the way down to the 3rd floor as well, that meant he had to go through the 4th and 5th floors all over again, meaning that his 40 got multiplied by 2 into 80, and his 80 got multiplied by 5 into 400 holes total.
+
+It’s at this point where it becomes clear that he can no longer efficiently deal with these entities the way he was dealing with them up to this point, where he was simply predicting their own death, as right now, it would require him to do 400 actions MINIMUM before he can induce a mimicry, and Roscow is still playing against the clock here, which means he doesn’t have time for that.
+6th Floor
+
+Despite the 6th floor only having one hole, therefore the accumulation not rising any further, because of the limitation that arrived with the flexibility of how you approach these entities, Roscow spends no time mapping out choreography, and instead immediately books it through the hallway and into the 6th floor. The hordes of monsters is overwhelming, which is why he quickly utters:
+
+Will the boss upstairs answer with ‘Tajt’?
+
+Using his 2nd question. The tower in fact responds with ‘Frek’ again, something which visibly frustrated Roscow to the point where he gets swarmed and pushed through the room’s only hole, ending up at 5th floor again. Roscow’s hole accumulation at this point is 2000.
+
+He climbs through both hallways, reaching the 6th floor’s hall, when that’s exactly when his contingency fits like a piece to a puzzle, and the side of the ice melts, leaving trails of water which pours onto the ground.
+7th Floor
+
+Having predicted this, he rushes through the 7th room, which has 10 holes in its floor, meaning his accumulation reaches 20000. Roscow sweeps through the crowd, basically ignoring it, as he peeps through the stairs and upwards, looking at 8th and 9th floors.
+
+Observing it, he notices that the 8th floor has 5 holes and 9th has only 1, however, the 9th floor isn’t accessible to enter, as there are no stairs leading it upwards. He quickly calls it ‘binary’, before, without thinking about it for too long, rushing out of the hallway into the 7th room again, making his accumulation reach 200,000, and he proceeds to jump out of the melted, icy area, landing in the water, safely out of the tower, but not quite finished with it.
+Twilight Clock
+
+Once he’s down on the ground, he settles there for quite some time until night falls. He contacts MiniBingo over the Twilight Clock, who believes he is still in Iceika alongside him, just on the surface.
+
+They communicate as MiniBingo finally progresses in Iceika’s Ice Tower, which is when Roscow instructs him to say something after explaining the general premise, which he pretends he only just learned:
+
+Your intent is honest and your answer will mean ‘correct’, is at least one of these things true?
+
+MiniBingo listens, being quite stumped, which is when he tells Roscow over the clock that nothing happened. Roscow ends the contact, stuffs it inside a bag, and doesn’t think about it again, leaving MiniBingo to deal with that stuff on his own.
+
+In the meantime, it is revealed that the thing he inserted into the statue before he even entered the tower was the same dichroic glass with the upgraded tech Roscow stole from the metallic fiends all the way from the town of Immersion. It was set up perfectly so that it’d reflect the sunbeam into the icy terrain of the 6th hallway, melting it in the process slowly.
+
+【 ROSCOW’S PLAN 】
+This moment recontextualizes a lot. Firstly, why Roscow was rushing through the tower once his accumulation surpassed anything functional for mimic strategy, because going up and down to the 1st floor, reaching zero, then doing the math again, would take too much time, and he was actively trying to beat MiniBingo in this race.
+
+As for the glass which melted the ice, Roscow predicted the amount of floors it’d approximately require him to clock the rules of the game before things became too hectic.
+
+Now as for MiniBingo’s manipulation, it was also shielded quite well, given how Roscow fed MiniBingo correct information about the tower’s magical properties, which we can assume MiniBingo attempted to break through, but couldn’t, so he had a lot of trust in him.
+
+And while yeah, the plan had some room for error, such as MiniBingo progressing before Roscow would (though that’s the type of room for error that could only happen if Roscow wasn’t competent, so it’s not really a huge deal), it’s the type of risk that is so necessary, you can hardly call it a risk, because the challenge in question wouldn’t be achievable for Roscow if he didn’t have the man on the inside, as the ultimate goal of the tower is to find out the identity of that tower’s entity, BUT that wouldn’t actually give Roscow a meaningful advantage, due to the chance of which entity he ended up confronting.
+The puzzle
+
+Given how you only have 3 questions to ask, it entirely depends on which entity you get by random luck. Given how Roscow was on Earth primarily, it’d make sense to cover Earth first before moving on to other planets.
+
+With his first question when he asked whether the entity would answer with ‘Frek’, only to follow that question with the identical one, except asking whether it’d answer with ‘Tajt’, he eliminated the possibility that he’s interacting with either the truthful or the lying entity.
+* If he asked the truthful entity the first question, and ‘Frek’ meant ‘yes’, the entity would’ve confirmed the correct statement and said ‘Frek’.
+* If he asked the truthful entity the first question, and ‘Tajt’ meant ‘yes’, the entity logically couldn’t answer, as if it answered ‘Frek’, it’d be deconfirming the statement, but by doing it, it would make the statement correct, meaning that the entity would’ve been lying.
+* If he asked the lying entity the first question, and ‘Frek’ meant ‘yes’, the entity also couldn’t answer because if it said ‘Tajt’, it’d be saying no, meaning that the statement was incorrect, but if it’s supposed to be lying, it can’t answer anything without telling the truth.
+* If he asked the lying entity the first question, and ‘Tajt’, meant ‘yes’, the entity would’ve simply answered with ‘Tajt’, as it’d be lying.
+* If he asked the truthful entity the second question, and ‘Frek’ meant ‘yes’, the entity would be met with a paradox once again, where it couldn’t answer without lying.
+* If he asked the truthful entity the second question, and ‘Tajt’ meant ‘yes’, the entity would’ve simply said ‘Tajt’.
+* If he asked the lying entity the second question, and ‘Frek’ meant ‘yes’, the entity would’ve simply lied and said ‘Frek’.
+* If he asked the lying entity the second question, and ‘Tajt’ meant ‘yes’, it would remain silent due to the impossibility of avoiding the truth there.
+
+With this, Roscow would’ve instantly knew that:
+* If the entity answers the first question with ‘Frek’ and is then silent for the second question, he is speaking to the truthful entity, and ‘Frek’ means ‘yes’.
+* If the entity stays silent for the first question, but answers the second one with ‘Tajt’, he is speaking to the truthful entity, and ‘Tajt’ means ‘yes’.
+* If the entity stays silent for the first question, but answers the second one with ‘Frek’, he is speaking to the lying entity, and ‘Frek’ means ‘yes’.
+* If the entity answers the first question with ‘Tajt’ and is then silent for the second question, he is speaking to the lying entity, and ‘Tajt’ means ‘yes’.
+
+The fact that the entity answered both questions meant that it was certainly the one who answered randomly, which is the unluckiest scenario, as it’s the only one where you can’t know the identities of other entities, nor what the words mean.
+
+Roscow was planning for this 1 in 3 scenario from the very beginning, planting the mole that is MiniBingo, as well as those seeds in his mind, so that once he is in the same scenario, he can just ask Iceika’s entity the third question, which was confirming whether it’s both true that it’s an honest entity and that it will answer with a word that means correct.
+
+MiniBingo tells Roscow that he received no answer, which is the moment when Roscow knew that Iceika’s entity is the lying one, as it’s impossible to answer that question without at least one of those statements being correct. That entity is obviously not truthful, but if it were to respond with ‘no’, that would mean it is accurately responding to the question, because neither statements are correct.
+
+After Roscow gets the information he needed, he no longer needs MiniBingo and is off on his own. With that, Roscow now also figures out the workaround to actually beat the random entity.
+
+【 CONQUERING THE TOWER 】
+Everything for Roscow clicked in that moment, which is where he relied on good ol’ creeper. One of them was roaming around in the dungeon, and Roscow made sure it slowly followed along. Given how the first 4 floors were mostly empty by this point, it wasn’t difficult, the difficult part would come with later ones.
+
+Roscow’s movement
+
+While the creeper is following him, once he gets out of range, he says:
+
+I haven’t collected the loot in this room.
+
+-Which is a lie. He then turns around without moving, and walks towards one of the holes in the floor, descending onto the 3rd floor.
+
+With this, the creeper from above ascends with equal speed until it reaches the 5th floor. By making the entity above him mimic an action in reverse, Roscow is able to make entities break physics and start levitating. He had no real way of predicting this, but it was a worthy thing to test, and it simply happened to be right, which, if it wasn’t, he would’ve found an alternate path.
+
+While on the 3rd floor, he jumps through the window, landing in the puddle, going upwards again to reset his progress, given how he already accumulated 2 holes.
+
+Going through the entire tower again, while in the process patching the holes of the 5th floor until one remained while on the 4th floor. He says:
+
+My bag is red.
+
+Which once again, is a lie. Before reaching the 5th floor, he walks up to the wall, then walks towards the stairs again, reaching the safe-zone of the hallway. Now inside the 5th floor, he steps a foot closer to attract creeper’s attention, and then moves backwards to fall into the only hole he left open.
+
+Once he drops, he instantly accumulates 4 actions, which he just did, meaning the creeper only replicates the fall in reverse, and ends up levitating towards the 6th floor.
+
+Roscow’s movement
+
+Jumping through the 5th floor’s window again, landing in the puddle, he this time decides to climb up to the 7th floor’s hallway through the melted ice he made with the drone glass trick. Because of the fact that both 6th and 5th floors only have 1 hole each, it would not accumulate Roscow’s actions upon mimicry any more, so this is actually his optimal play currently, despite how overcrowded the 7th floor is with entities.
+
+The second he enters, he says:
+
+It’s morning.
+
+-While it isn’t. This time, he doesn’t even have to performatively commit to 10 actions, they organically occur due to being forced to defend himself. Once he reaches that quota, he falls through one of the 10 holes which aligns the most with the hole on the 6th floor, the floor on which the creeper is on.
+
+Roscow proceeds to descend two floors, not gaining any further accumulation, so the actions are taken care of, as the creeper ascends to the 10th floor.
+
+Roscow quickly climbs back up, accumulating 20 actions, but those are no longer relevant, as he lunges towards the creeper, activating him and causing him to explode while in the middle of the room, destroying the entire floor and effectively MERGING all 10 holes in a single move.
+
+Roscow’s movement
+
+The explosion causes Roscow to descend a floor below, but it’s no longer relevant, as he jumps into the puddle he made through the window again, and climbs back up to the newly ravaged 7th floor, only having accumulated 1 action, with no more entities to be around him.
+Beating the entity
+
+Climbing upwards to the 8th floor which has 5 holes in the room, Roscow clears the very few entities that are there without saying anything yet. Once he’s safe, he asks:
+
+Are the answers of the chief above me random?
+
+A second passes, and then the entire 9th floor explodes, as the physical manifestation of the random entity descents onto the 8th floor.
+
+A physical fight happens, which Roscow ultimately wins, as he takes a hold of the loot in question, which includes magical essence through which one can learn to manipulate the environment around them.
+The cipher
+
+Something that may appear as bizarre and unnecessary at first was Roscow’s decision to merge 10 holes into a singular one through indirect destruction, given how he didn’t require action accumulation to ask the entity its identity.
+
+But it wasn’t before reaching the 7th floor and looking upwards for the first time when Roscow saw the amount of holes in the 8th and 9th floors, while realizing that the 9th one is inaccessible, or at least inaccessible without exploits, that he realized their true intention, and only muttered ‘binary’.
+
+Meaning of accumulation
+
+The tower clearly has concise, definitive rules and is meant to be understood, and the mimicry power besides the help of dealing with the entities provides no further relevance to the question itself, but that is not actually the case.
+
+The mimicry itself isn’t related to the question, it is only meant to help you figure out the exact system, that the accumulation is multiplying rather than anything else.
+
+Let’s look back at what happened when Roscow first tried to test whether he could cheat the entire puzzle by just making a definitive statement on the entity’s identity and seeing if the mob above him would either replicate his action accordingly or in-reverse. What ended up happening is nothing… or at least seemingly.
+
+The entity which awaited Roscow on the floor above him didn’t replicate his actions, but the entity was a wither skeleton, not a regular one. Throughout the entire tower, not a single other one spawned except for that one, and why was that? The wither skeleton was on the 5th floor, meaning that, up to that moment, Roscow’s accumulation of actions was 4, because he crossed the 4th floor twice before reaching that moment.
+
+4 in binary is 100.
+
+Roscow’s abductive reasoning led him to believe that the tower’s numerical coding was a language itself, and if we checked the morse code, which, similarly to binary, also only has two possible functions, the number 100 could either be the letter D (-..) or W (.--).
+
+The fact that it was specifically a Wither skeleton made Roscow connect the dots that the questions related to IDENTITY very much shaped the identities of creatures above him as well.
+
+But what exactly led him to this conclusion?
+
+Peeking 8th and 9th floors
+
+In the moment when Roscow was being swarmed, and he just quickly checked the floors above him while he was in the 7th floor, he realized that the 9th floor cannot be accessed at all, but in spite of that, there is a hole in the floor.
+
+What would be the purpose of a hole that leads nowhere?
+
+Well perhaps it doesn’t lead nowhere, and instead it’s meant to make you realize something. If we observe the number of holes each floor has, unless tampered with, like how Roscow did by either filling them or widening them until they merge into each other, the MINIMUM accumulation one could reach up to the 8th floor is 1000.
+
+Because the 9th floor isn’t accessible to a human, maybe it isn’t MEANT to be multiplied, but perhaps added on. When we do it, we get 1001. A.k.a. 9 in binary, and 1000 happens to be 8 in binary.
+
+Final accumulation
+
+Once Roscow saw this, he instantly changed his entire strategy. His shortcut happened to be on the 7th floor, but he still needed to work around it, because he was looking for a specific type of accumulation, and that was 5.
+
+5 in binary is 101, which when translated through the same morse code cypher Roscow induced, gives us the letter R (.-.), which stands for Random.
+
+Thus, once Roscow asked an identity-related question, it would directly affect the entity above him, in this case, the Random entity.
+
+By using indirect force to cause an explosion in the 7th floor, therefore turning it into one big hole, by resetting his progress, Roscow could go from the 7th floor (1 action accumulated) to the 8th floor (5 actions accumulated) instantly.
+
+This means that, in that singular second of seeing what the 8th and 9th floors were like, Roscow figured out:
+* The binary messaging,
+* What purpose the holes present besides mimicry,
+* What kind of questions is that purpose utilized on,
+* & another layer of ciphering through the morse code encrypting, by inducing it through a specific example he stumbled upon.
+Background
+
+From the beginning, I mentioned that Roscow was familiar with the premise of the puzzle before even arriving at the Iceika, but the question is how. Well, as we see later in a scene that chronologically happens before everything happened here, Roscow, while still being a part of the much smaller community, ‘No Stress’ which consisted of MiniBingo, David, Scope, Zumče and some others, he was researching the potential for magic, reading through and trying to educate himself in the mystic arts.
+
+Something which I will not get into here for obvious reasons, but will be revealed, is that the town they were in (the one from which they fled prior to Immersion) was due to a scheme that Roscow intended, meaning he was planning on this and tracking the coordinates of Earth and Iceika SINCE THEN, and the only reason for that was simply planning on a potential chance that the Earth’s entity may be the random one.
+
+Clarification
+
+With everything out of the way, let’s wrap up this plan in its entire, chronological order:
+
+PHASE 1
+
+Roscow, while being a member of the No Stress community, learns about the mystic crafts and the puzzle. Learns the occupied positions of them, and naturally wants to take hold of that power. Realizing very quickly that there’s a 1 in 3 chance this could backfire due to the possibility of a random entity being on Earth, he orchestrates a scenario where MiniBingo and him would have to flee the town, and go towards the coordinates which Roscow calculated, would be where they would need to be.
+
+PHASE 2
+
+The ENTIRETY of Immersion plan stacked on top of this one, given how Roscow had to meticulously plant psychological seeds in MiniBingo throughout the entire thing, all while pacing himself so that the plan would last just the amount of time that would be needed for him to be able to sell the story about ‘trapping the mayor’ to MiniBingo.
+
+PHASE 3
+
+Once the travel to Iceika is complete, he’ll have to trap MiniBingo inside it without his knowledge that he’s trapped, and with him predicting how MiniBingo will behave once seeing a material he thought Roscow would deem useful, all for the purpose of a SINGLE potential chance.
+
+PHASE 4
+
+The entirety of the Ice Tower raid, where Roscow, not only raided the essence itself, but managed to raid the information the tower wasn’t even designed to give you, if you passed, meaning Roscow now has full comprehension of their language alongside some power he can test.
+
+Without covering Roscow’s intellectual strengths that the previous doc already covered, throughout this plan, besides his scheming prowess, he showcased:
+* Emotional intelligence (Completely predicted MiniBingo’s behavior, manipulated and deceived him perfectly while doing it).
+* General IQ (Was capable of memorizing and actively calculating the exact time the planets would align, alongside his instant comprehension of the way hole accumulation would function).
+* Reasoning (Possibly his greatest trait in this plan, given the amount of layered, logical conclusions he was making throughout the Ice Tower in literal seconds, all while covering deductive, abductive & inductive reasoning).
+Conclusion
+
+And with that, we end this analysis. Despite being his second scheme ‘technically’, it was mostly a part of one, longer, elaborate scheme, so you could still say we only covered BloodMaster’s very first, and least impressive outsmarting feat. We still haven’t even properly MET BloodMaster, given how he, by this time chronologically, isn’t even referred to, but it’s certainly a beginning to the GENERAL, CAPTAIN, PILOT OF RAIDS.
+
+Thank you all for reading.
+Written by u/AppropriateRub6185
+                   ninooooo4265 on Cord

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: canon-l-vs-ayanokoji
+category: doc
+title: Canon L vs Ayanokoji
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- classroom-of-the-elite
+- liar-game
+characters:
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15rdi3wGc-L9uYF7f3XwF4dg9s3R7OJikHGAhlfSafP0
+    google_id: 15rdi3wGc-L9uYF7f3XwF4dg9s3R7OJikHGAhlfSafP0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1059
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 123661
+      sha256: 34a70eb3d5c916eb0b24758bf0ea2b5e682ffceb80e776c8042408c8a80a7c5f
+    - format: docx
+      name: document.docx
+      bytes: 282031
+      sha256: c3142363f6e722fa5b7d6ad5f6b09f3162887a3b83e795eb783bdc7f6cd30c9d
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1krc0ay/
+  note: 'Shared by u/Millenium_Knight in a post on 2025-05-20: Canon L Vs Kiyotaka Ayanokoji Full Scale Doc(Next is Tokuchi vs Akiyama)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

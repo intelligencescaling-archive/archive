@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mega-subreddit-debating-tournament-document
+category: doc
+title: Mega Subreddit Debating Tournament Document
+authors:
+- name: ReverseFlash928
+  reddit: ReverseFlash928
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1D_JQKAI0bIcTAtlR82eFcGDjBLQVQw2mKZrTSEmp5-8
+    google_id: 1D_JQKAI0bIcTAtlR82eFcGDjBLQVQw2mKZrTSEmp5-8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 98
+    words: 22391
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 37452180
+      sha256: 9030c1df1d16e29ceb942752549b40bccb199b9bed69539186b7200b02e8c2f6
+    - format: docx
+      name: document.docx
+      bytes: 29710670
+      sha256: dfb068592e6a35b1ac334ca6d8bcae22069ac77f4bd4893709c6f796a4435122
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1p43c5m/
+  note: 'Shared by u/ReverseFlash928 in a post on 2025-11-22: Mega Subreddit Debating Tournament has begun!'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

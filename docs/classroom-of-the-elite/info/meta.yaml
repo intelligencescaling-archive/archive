@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: info
+category: doc
+title: INFO
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Dh3vugf9BCSCb3uh0fZADXoBkgODxGX0ebs7jhad5JI
+    google_id: 1Dh3vugf9BCSCb3uh0fZADXoBkgODxGX0ebs7jhad5JI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 11148
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1026963
+      sha256: aefa9027aeb79c46a692027f874af52e1fdfd3a4cf6db34f7ebb1730835c1b4f
+    - format: docx
+      name: document.docx
+      bytes: 610533
+      sha256: 8035fc80c267c7ad90c9516a7ac9b34ef2bdd16e4cdab6726c8938ef93348904
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xgl9m0/
+  note: 'Shared by u/Similar_Incident8433 in a post on 2026-10-27: v4 Ayanokoji kiyotaka SI feats. small overview'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

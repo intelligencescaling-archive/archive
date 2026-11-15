@@ -1,0 +1,393 @@
+FULL SCALE
+
+○FSIQ●
+
+VRLight Yagami
+VCI(Verbal Comprehension Index)Light Yagami
+RCI(Reading Comprehension Index)Light Yagami
+PNV.LightYagami
+PRI(Perceptual Reasoning Index)Light Yagami
+NVI(Non-Verbal Index)Yuuichi
+VSI(Visual Spatial Index)LightYagami
+WISLight Yagami
+WMI(Working Memory Index)Light Yagami
+IPI(Information Processing Index)Light Yagami
+STI(Short Term Memory Index)Light Yagami
+AA.Yuuichi
+AWMI(Auditory Working Memory Index)Yuuichi
+API(Auditory Processing Index)Yuuichi
+CFCYuuichi
+CFI(Cognitive Flexibility Index)Yuuichi
+FRI(Fluid Reasoning Index)Yuuichi
+CRI(Crystallized Reasoning Index)Light Yagami
+PQ
+PSI(Processing Speed Index)Yuuichi
+QRI(Quantitative Reasoning Index)Light Yagami
+GAI(Vci+Pri)(General Ability Index)Light Yagami
+CELight Yagami
+CPI(Cognitive Proficiency Index).Light Yagami
+EFI(Executive Functioning Index).Light Yagami
+
+FSIQ.Light Yagami
+
+○Overall Intel●
+
+Fluid.Yuuichi
+
+Crystallized.Light Yagami
+
+Extras[.Light Yagami
+Knowledge(.Light Yagami
+Intuition Knowledge.Yuuichi
+Perception Knowledge.Light Yagami
+Comprehension Knowledge.Light Yagami
+Academic Knowledge).Light Yagami
+Learning.AbitlyYuuichi
+Memory.Light Yagami
+General Adaption.Yuuichi
+MultiTask.Light Yagami
+CognitionLight Yagami
+G Factor.Light Yagami
+Logic.Light Yagami
+Yenilikçilik.]Yuuichi
+
+Gardner(Yuuichi
+Linguistic-verbalLight Yagami
+Logical-mathematicalLight Yagami
+Visual-spatialLight Yagami
+Body-kinestheticYuuichi
+MusicalYuuichi
+InterpersonalYuuichi
+IntrapersonalYuuichi
+NaturalisticYuuichi
+InnovatorYuuichi
+ExistentialLight Yagami
+
+Overall Intel .Cgew
+
+○Overall EI●
+
+EP(.Yuuichi
+Observation of Emotions.Yuuichi
+Interpretation of Emotions.Yuuichi
+Nonverbal EP.Light Yagami
+Verbal Ep.Yuuichi
+Deception Detection.Yuuichi
+Analyse Realization of Emotions.Yuuichi
+Emotional Distillation.Yuuichi
+Understand The Personality)Light Yagami
+İntuition Of Emotion.Yuuichi
+EU.Yuuichi
+Understand Ideology.Yuuichi
+UnderstandingProgressionofEmotions.Yuuichi
+Insight of Emotions.Yuuichi
+Comprehension of Emotions.>=Yuuichi
+Emotional Vocabulary.Light Yagami
+Causal Understanding.Light Yagami
+Allocation of Emotions.Yuuichi
+Emotional Foresight.Light Yagami
+UnderstandBackstory.Yuuichi
+Understandweakspot.Yuuichi
+Understand the EventYuuichi
+EF.Yuuichi
+Emotional Enaction .Yuuichi
+Strategic Use of Emotions.Light Yagami
+FacetoFace.Yuuichi
+Emotional Settletment.Yuuichi
+Emotional Manipulation.Yuuichi
+Indoctrination.Light Yagami
+Emotional Collapse.Yuuichi
+Individual.Light Yagami
+General.Yuuichi
+Using Weak spot.Light Yagami
+EM.Yuuichi
+Self Regulation.Yuuichi
+Emotional Control.Yuuichi
+Emotional Governance.Yuuichi
+Emotional Resilience.Light Yagami
+Emotional Creativity.Yuuichi
+Emotional Flexibilty .Yuuichi
+ChangethePersonlaty.Yuuichi
+General Managment.Light Yagami
+General Emotional Adaptability.Light Yagami
+EE.Yuuichi
+Cognitive Use of Emotions.Yuuichi
+Diversity of Emotions.Yuuichi
+Task Completion.>=Light Yagami
+Emotional Fluency.Yuuichi
+Motivation.Light Yagami
+Realization of Emotions.Yuuichi
+Use the Emotional Creativity.Yuuichi
+Emotional Adaptability(New Things).Yuuichi
+Empathy.Light Yagami
+Harmony of the Emotions.Light Yagami
+Use of Emotions.Yuuichi
+Can Be Motivete.Light Yagami
+ER.Light Yagami
+Self-Awareness .Yuuichi
+EmotinalCognination .Light Yagami
+Internal perception.Light Yagami
+(Understand The Personality.Light Yagami
+Analyse  Realization of own Emotions.Light Yagami
+Understand own emotions.>=)Light Yagami
+Internal understandingLight Yagami
+(Understandweakspot.Light Yagami
+Causal Understanding.Light Yagami
+Understand IdeologyLight Yagami
+Understanding Progression ofEmotions Light Yagami.
+Insight of Emotions.Light Yagami
+Comprehension of Emotions.)Light Yagami
+
+Overall EI .Yuuichi
+
+○Overall SI●
+
+Social Awareness .Yuuichi
+Leadership Light Yagami
+Social Influence .Light Yagami
+Influence BuildingYuuichi
+Social Skills Yuuichi
+Social Engineering .Yuuichi
+Social Adaption .Yuuichi
+Social Cognition .Light Yagami
+Seduction .Light Yagami
+Charisma .Light Yagami
+Social Arrangement.Yuuichi
+Social Intuiton.Yuuichi
+Social process adaptation.Yuuichi
+
+Overall SI .Yuuichi
+
+○Overall Ac●
+
+Mental fortitude .Light Yagami
+Stress tolerance.Light Yagami
+Impulse management.Yuuichi
+Cognitive discipline.Light Yagami
+Composure.Light Yagami
+MotivationforAc.Light Yagami
+PerseveranceLightYagami
+Adap to Pain.Yuuichi
+DontEffect by Pain.Yuuichi
+Escaped(Yuuichi
+EscapedtoPain.Yuuichi
+EscapedtoSpeed.)Yuuichi
+
+Overall Ac.Light Yagami
+
+○Overall Thinking●
+
+Critical .Light Yagami
+Abstract .Yuuichi
+Associative .Yuuichi
+Holistic .Light Yagami
+Convergent .Light Yagami
+Application.Yuuichi
+Lateral.Light Yagami
+Linear.Light Yagami
+Non-linear .Yuuichi
+Analytical .Light Yagami
+Conceptual .Light Yagami
+Systematic.Light Yagami
+Divergent .Yuuichi
+Innovative.Yuuichi
+Metacognition .Light Yagami
+Detalized .Yuuichi
+
+Overall Thinking .Light Yagami
+
+○Overall Reasoning●
+
+Counterfactual.Yuuichi
+Causal .Yuuichi
+Analogical .Light Yagami
+Numerical.Light Yagami
+Illogical.Yuuichi
+Logical.Light Yagami
+Deductive .Light Yagami
+Abstract .Yuuichi
+Inductive .Light Yagami
+Abductive .Yuuichi
+Deduction .Light Yagami
+
+Overall Reasoning .Light Yagami
+
+○Overall Deception●
+
+Misdirection .Light Yagami
+Fabrication .Yuuichi
+Concealment .Yuuichi
+Unpredictable .Yuuichi
+Acting skills .Yuuichi
+Disguise .Light Yagami
+Bluffing .Yuuichi
+Poker Face .Yuuichi
+Info control(Light Yagami
+Info Concealment .Light Yagami
+Info Make).Light Yagami
+
+Deception .Yuuichi
+
+○Overall Manipulation●
+
+Mass .Yuuichi
+Indirect .Light Yagami
+Direct .Yuuichi
+Psychological .Yuuichi
+Emotional .Yuuichi
+Logical .Light Yagami
+Illogical .Yuuichi
+Event .Yuuichi
+Financial Manipulation Yuuichi
+Information ManipulationLight Yagami
+MindControl.Yuuichi
+BrainWashing.Yuuichi
+Cognitive Manipulation.Light Yagami
+Indoctrination.Light Yagami
+
+Manipulation .Yuuichi
+
+○Overall Manipulation Methods●
+
+Gaslighting .Yuuichi
+Guilt-Tripping .Yuuichi
+Triangulation .Yuuichi
+Silent Treatment Yuuichi
+Isolation Manipulation
+Seduction .Light Yagami
+Love-Bombing .Light Yagami
+White Knight .Light Yagami
+Scapegoating .Yuuichi
+BlackMailing .Yuuichi
+
+Manipulation Methods .Yuuichi
+
+○Overall Strategy●
+
+Logistics  .Light Yagami
+Effectivness .Light Yagami
+Efficiency .Yuuichi
+Adaptability .Yuuichi
+Execution .Yuuichi
+Forecasting Light Yagami
+Shelding .Yuuichi
+Lenght .Light Yagami
+Versality (Yuuichi
+Resillence.Light Yagami
+Complexity.Yuuichi
+Succes Rate.Light Yagami
+
+Overall Strategy Light Yagami
+
+○Overall Planning●
+
+Coverage Light Yagami
+Intricacies .Yuuichi
+Invincibility .Light Yagami
+Contingency .Light Yagami
+Preparation .Light Yagami
+Short-Term Planning .Yuuichi
+Long-Term Planning .Light Yagami
+Planning Complexity .Yuuichi
+Logical Prediction .Yuuichi
+Execution .Yuuichi
+Succes Rate .Light Yagami
+
+Overall Planning Light Yagami
+
+○Counteraction●
+
+Risk Taking Light Yagami
+Contingencies(C).Light Yagami
+Improvising(C).Yuuichi
+Traps evasion(C).Yuuichi
+Heuristic Methods .Yuuichi
+Counter .Light Yagami
+Councealment Counter .Light Yagami
+
+Counteraction .Light Yagami
+
+○Prep●
+
+Information Processing(P).Light Yagami
+Risk calculation(P).Light Yagami
+Analytical Methods.Light Yagami
+Analysis(P)Light Yagami
+(Prescriptive Analysis.Contingencies(C).Light Yagami
+Diagnostic Analysis.Yuuichi
+Descriptive Analysis.Light Yagami
+Logical Analysis .Light Yagami
+Different Perspective Analysis.Yuuichi
+Surface Analysis.Yuuichi
+Wide Analysis.Light Yagami
+Numerical analysis).Light Yagami
+
+Prep .Light Yagami
+
+○Field Skills●
+
+Continuity AdaptationYuuichi
+Information Gathering.Yuuichi
+Setting Trap.Yuuichi
+ManagmentAbilty.Yuuichi
+Empirical Methods.Yuuichi
+Tactics(.Yuuichi
+Tactic Storage.Yuuichi
+Multiple Tactics.Yuuichi
+New Tactics.Yuuichi
+Managing Tactics).Yuuichi
+
+Field Skills .Yuuichi
+
+○Sensory●
+
+Observation .Yuuichi
+Perception .Light Yagami
+Intuition .Yuuichi
+Anticaption .Light Yagami
+Insight .Yuuichi
+
+Sensory .Yuuichi
+
+○Psychology●
+
+General Psychological .Yuuichi
+Psychological Knowledge.Yuuichi
+Psychological Warfare .Yuuichi
+Psychological Awareness .Yuuichi
+Profiling(.Light Yagami
+Emotional profiling .Yuuichi
+Personality profiling.Light Yagami
+Causal profiling).Light Yagami
+Social Profiling(.Yuuichi
+Social profiling.Yuuichi
+Profiling the outcome of society's influences.Yuuichi
+Profiling social causes of society).Yuuichi
+Reading(.Yuuichi
+Hot Reading .Yuuichi
+Cold Reading .Yuuichi
+People Reading .Yuuichi
+Mind Reading.Yuuichi
+Lia Reading).Yuuichi
+
+Psychology .Yuuichi
+
+○Situation●
+
+NFS .Light Yagami
+FS .Yuuichi
+Usogui .Light Yagami
+Tomodachi Game .Yuuichi
+Liar Game .Light Yagami
+Cote Exams .Light Yagami
+Special Exams.Yuuichi
+StoryLine .Yuuichi
+StoryLine Influence.Light Yagami
+C&M.Light Yagami
+
+Situation .Light Yagami
+
+WINNER Yuuichi
+Light Yagami 142
+Yuuichi 164
+Yuuichi Very High diff(-)

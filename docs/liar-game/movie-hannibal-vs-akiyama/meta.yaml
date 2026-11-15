@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: movie-hannibal-vs-akiyama
+category: doc
+title: Movie Hannibal vs Akiyama
+authors:
+- name: Yalvin Shoko Millennium Knight
+  source: doc-text
+series:
+- liar-game
+- hannibal
+characters: []
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WiN4uRUAvpU-8mGU35-FDoT3kFEhzCZoy7guH0HtsJI
+    google_id: 1WiN4uRUAvpU-8mGU35-FDoT3kFEhzCZoy7guH0HtsJI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 566
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 100669
+      sha256: 4bf6377ac1520df9548460936aafb6de928a3760ebef610a130a2d925136b82e
+    - format: docx
+      name: document.docx
+      bytes: 279494
+      sha256: beb63fed43ec2bb915cc522910e84d530e10fa6d3b9de383293c4602a7ca6a78
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mx5l7z/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-08-22: Hannibal(Movie) vs Akiyama(Manga) Full Scale Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

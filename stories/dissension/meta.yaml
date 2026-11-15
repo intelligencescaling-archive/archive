@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dissension
+category: story
+title: Dissension
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17GJNpDzYdeJRPb1teorPwS34vcm6h-CWsxCitAHNC7U
+    google_id: 17GJNpDzYdeJRPb1teorPwS34vcm6h-CWsxCitAHNC7U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 4206
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 158164
+      sha256: 414df3c49ec4e951ad5aa34dd3635d4bb3f71dc549033f5587850ca72bf523f6
+    - format: docx
+      name: document.docx
+      bytes: 16311
+      sha256: 5ca521f84539bab21b624855b272d88a87b7cbaca46e554a2513d015bd5de6f7
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wlmovj/
+  note: 'Shared by u/Federal-Manner3880 in a post on 2026-09-20: GREAT NEWS (AGAIN)!!'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

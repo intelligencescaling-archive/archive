@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: darth-plagueiss-naboo-election-scheme
+category: doc
+title: Darth Plagueis’s Naboo Election Scheme
+authors:
+- name: Ok_Cardiologist_5925
+  reddit: Ok_Cardiologist_5925
+  source: reddit-post
+series:
+- star-wars
+characters: []
+tags:
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NFUPmy644BPcmT4d5VFpE1BXzN8xFTqlc1VEfCwprvo
+    google_id: 1NFUPmy644BPcmT4d5VFpE1BXzN8xFTqlc1VEfCwprvo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 4306
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 144802
+      sha256: 1d87ab9e0263d55d4ff9ae8aee68ad325b0f9065f22c1f772b2fb2931ea8ee5c
+    - format: docx
+      name: document.docx
+      bytes: 18086
+      sha256: 10ddc82b055aabd71b82c54c686b55f820dfaec0ff7bb509570036ef0db2fad3
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xw0vme/
+  note: 'Shared by u/Ok_Cardiologist_5925 in a post on 2026-11-14: Darth Plagueis’s Naboo Election Scheme doc draft'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

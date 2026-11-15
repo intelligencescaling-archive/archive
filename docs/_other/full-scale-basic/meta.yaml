@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: full-scale-basic
+category: doc
+title: FULL SCALE Basic
+authors:
+- name: Salty Refuse
+  source: doc-text
+series: []
+characters: []
+tags:
+- matchup
+- fsiq
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jkCBH5QFZxr1QHeBTJpZ8qjbp2dODUA3Oj90HdRGkto
+    google_id: 1jkCBH5QFZxr1QHeBTJpZ8qjbp2dODUA3Oj90HdRGkto
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 156
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 112756
+      sha256: 97cdfb65fda661ebbeb3c6cd1ad9cfd7542d25fb27c7d36dcae967e8efc1f68b
+    - format: docx
+      name: document.docx
+      bytes: 605931
+      sha256: ec66b08e3b96e934e2ffc18de5ec37f8f8f60573505d2303d473a5a2f5b196fb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1nol668/
+  note: 'Shared by u/Salty-Refuse-5537 in a post on 2025-09-23: Guys Which Full Scale Comparison doc is better from what i send 1 or 2'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

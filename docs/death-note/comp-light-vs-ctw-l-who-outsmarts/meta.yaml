@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-light-vs-ctw-l-who-outsmarts
+category: doc
+title: 'Comp Light vs CTW L: Who Outsmarts'
+authors:
+- name: Melodic_Ad1005
+  reddit: Melodic_Ad1005
+  source: reddit-post
+series:
+- death-note
+characters: []
+tags:
+- matchup
+- scd-categories
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1LWfMV4CCYqGAiVGSR3-SbxtC0HmX9O1eIM-3CIrBA2A
+    google_id: 1LWfMV4CCYqGAiVGSR3-SbxtC0HmX9O1eIM-3CIrBA2A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 11332
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 434800
+      sha256: 97f0f15110e7d3ffb02eda426de8e04b0f8ae0d64b31ee0ce065d6baac2e8a88
+    - format: docx
+      name: document.docx
+      bytes: 41432
+      sha256: 48cf14f1f0d62f037cf114050ab19fcc3ebe8111cbf26d3cfc7349b494cc302d
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xq27pa/
+  note: 'Shared by u/Melodic_Ad1005 in a post on 2026-11-07: We made a debate about Change The World (Continuity) L vs Composite Light to see who would outsmart '
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

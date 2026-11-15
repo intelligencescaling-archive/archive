@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-short-story
+category: story
+title: a short story
+authors:
+- name: CardLampp
+  reddit: CardLampp
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1yJglz6vr2OuW0cYa2Pl4JpoMsbfT33B5A9qerXViIYM
+    google_id: 1yJglz6vr2OuW0cYa2Pl4JpoMsbfT33B5A9qerXViIYM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1050
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 68108
+      sha256: f79370904901bed59bb385ca43c8f2c5a098cac69238e5de6a8f4423d5974fee
+    - format: docx
+      name: document.docx
+      bytes: 10031
+      sha256: 3f1fac13ece0fd8bbcf56d1828c356d957643d4cff74c4f355361cb5946d7400
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1to7ge8/
+  note: 'Shared by u/CardLampp in a post on 2026-05-26: I made a short story (link there)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

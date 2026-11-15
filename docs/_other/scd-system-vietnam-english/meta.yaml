@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-system-vietnam-english
+category: doc
+title: SCD_System_Vietnam_English
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lVBUUqKdbAt4mzQlHIastlx7uQHofSRYVw_zjNK0FBg
+    google_id: 1lVBUUqKdbAt4mzQlHIastlx7uQHofSRYVw_zjNK0FBg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 92
+    words: 16124
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9957661
+      sha256: 8f5cb37971e9ad909db9f5cd7df3dcfb8cdb509a8f96e99122ef906f444b5ff5
+    - format: docx
+      name: document.docx
+      bytes: 9019973
+      sha256: d8f2db607387bbbbe76f0f5201f0d03937a2ee9d0c7b2c40cde57e5200d61bba
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xg2rp3/
+  note: 'Shared by u/Simply_Amazing_1610 in a post on 2026-10-26: An Introduction to Vietnamese SCD Scaling'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

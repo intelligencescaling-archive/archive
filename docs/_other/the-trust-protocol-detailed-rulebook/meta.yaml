@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-trust-protocol-detailed-rulebook
+category: doc
+title: 'The Trust Protocol: Detailed Rulebook'
+authors:
+- name: EnvironmentNo6525
+  reddit: EnvironmentNo6525
+  source: reddit-post
+series: []
+characters: []
+tags:
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lKqhqysBULLGAdnICdSKnvYeRNF468Cquma5bnOmNs0
+    google_id: 1lKqhqysBULLGAdnICdSKnvYeRNF468Cquma5bnOmNs0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1620
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 153451
+      sha256: 0d3e521b597f85d417e91b38bef87bef6e099f4c45d5c3275efafa221e6215a4
+    - format: docx
+      name: document.docx
+      bytes: 14739
+      sha256: bedd3fc6f350a588bc761141a270e96a5f66de650605b7d3ece386a2eca083ad
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1jxnz50/
+  note: 'Shared by u/EnvironmentNo6525 in a post on 2025-04-12: *The Trust Protocol*'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

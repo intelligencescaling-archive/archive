@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: episode-2-izaya
+category: story
+title: Episode 2 Izaya
+authors:
+- name: darkness_death_empty
+  reddit: darkness_death_empty
+  source: reddit-post
+series:
+- durarara
+characters:
+- izaya-orihara
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pxgQrBABcx7hKoM-VIGj0HcU1UWXa7Fdlo1VwVZ9gbA
+    google_id: 1pxgQrBABcx7hKoM-VIGj0HcU1UWXa7Fdlo1VwVZ9gbA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2297
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 88415
+      sha256: 3704a12f9634d521e8c72f701123f2b9eea544a08590127cd0818bf86618f380
+    - format: docx
+      name: document.docx
+      bytes: 907910
+      sha256: 248270b18a9adbc6a05c9ec08bbfc8e84469a2fac251ebf6be2c93d4641218bd
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1dp7f8s/_/laf102k/
+  note: 'Shared by u/darkness_death_empty in a comment on 2024-06-26: https://docs.google.com/document/d/1pxgQrBABcx7hKoM-VIGj0HcU1UWXa7Fdlo1VwVZ9gbA/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

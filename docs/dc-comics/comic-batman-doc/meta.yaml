@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comic-batman-doc
+category: doc
+title: Comic Batman Doc
+authors:
+- name: Business_Island_7993
+  reddit: Business_Island_7993
+  source: reddit-post
+series:
+- dc-comics
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aEXiMSc2az0zw-ZDYBH2-EFv6k7aznTOrmYFXncgl9M
+    google_id: 1aEXiMSc2az0zw-ZDYBH2-EFv6k7aznTOrmYFXncgl9M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 2653
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4116737
+      sha256: 83c24702b2c6cb4f79a8aae62ca1f9164f86feaca3835892ec56f7633b833109
+    - format: docx
+      name: document.docx
+      bytes: 3254117
+      sha256: 963ece29a63dd6e3e7ec5c5df3fefd637f6ca445c2a4e5276d8f5ceae249aa79
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xhfez0/
+  note: 'Shared by u/Business_Island_7993 in a post on 2026-10-28: COMIC BATMAN DOC (WIP)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

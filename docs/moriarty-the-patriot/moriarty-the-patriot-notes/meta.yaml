@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moriarty-the-patriot-notes
+category: doc
+title: Moriarty the patriot notes
+authors:
+- name: Economy_Echo_8500
+  reddit: Economy_Echo_8500
+  source: reddit-post
+series:
+- moriarty-the-patriot
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1sdfq56fTGUIdVhg2L2Nj6UWgB-OQJAj-8ZqTuzCKG9U
+    google_id: 1sdfq56fTGUIdVhg2L2Nj6UWgB-OQJAj-8ZqTuzCKG9U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 4164
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2787957
+      sha256: 18e095936c2215583415e62861323997323d4b37cc5acb2aeb0e99331884f60c
+    - format: docx
+      name: document.docx
+      bytes: 2100548
+      sha256: a5c2686e92fe28df931d99b3757730dd9998ec05f0d8796e2a3c2780d9b99fb2
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1t4ewa1/
+  note: 'Shared by u/Economy_Echo_8500 in a post on 2026-05-05: Moriarty the patriot notes'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series
