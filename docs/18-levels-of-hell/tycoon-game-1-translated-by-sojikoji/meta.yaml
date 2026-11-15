@@ -42,7 +42,7 @@ found_in:
   link_text: Monopoly Game and Stock Market Battle Strategy Guide
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'
+notes: Translated by SojiKoji.

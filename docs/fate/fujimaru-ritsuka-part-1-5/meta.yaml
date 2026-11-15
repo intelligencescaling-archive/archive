@@ -4,7 +4,7 @@ id: fujimaru-ritsuka-part-1-5
 category: doc
 title: Fujimaru Ritsuka (Part 1.5)
 authors:
-- name: Nino_IQ]
+- name: Nino_IQ
   source: doc-text
 series:
 - fate
@@ -43,6 +43,6 @@ found_in:
   link_text: Fujimaru Ritsuka (Part 1.5)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

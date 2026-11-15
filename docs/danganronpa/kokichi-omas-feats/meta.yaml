@@ -6,7 +6,7 @@ title: Kokichi Oma’s Feats
 alt_titles:
 - Kokichi
 authors:
-- name: Riiruu with the help of Machiavelli
+- name: Riiruu
   source: doc-text
 series:
 - danganronpa
@@ -48,6 +48,7 @@ found_in:
   link_text: Kokichi Oma’s Feats
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'
+notes: With the help of Machiavelli.

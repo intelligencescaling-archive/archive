@@ -2,9 +2,10 @@
 schema_version: 1
 id: terms
 category: doc
-title: Terms
+title: SCD Categories Doc 11
 alt_titles:
 - SCD Categories Doc 11
+- Terms
 authors:
 - name: raiontoku
   source: doc-text
@@ -42,7 +43,6 @@ found_in:
   link_text: SCD Categories Doc 11
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

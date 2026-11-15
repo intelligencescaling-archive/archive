@@ -6,7 +6,7 @@ title: STALEMATE PLAN DOC
 alt_titles:
 - complete explanation of Akiyama's stalemate plan
 authors:
-- name: Tokho/Cridemord
+- name: Tokho
   source: doc-text
 series:
 - liar-game
@@ -48,6 +48,6 @@ found_in:
   link_text: STALEMATE PLAN DOC
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

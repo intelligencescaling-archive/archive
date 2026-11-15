@@ -6,7 +6,7 @@ title: Isaac Mahōka Doc
 alt_titles:
 - Isaac Mahoka SCD doc
 authors:
-- name: COUNTERKOUJI
+- name: CounterKouji
   source: doc-text
 series: []
 characters:
@@ -42,8 +42,6 @@ found_in:
   link_text: Isaac Mahoka SCD doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
-  - series
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

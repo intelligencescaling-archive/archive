@@ -6,7 +6,7 @@ title: Fate Moriarty Doc
 alt_titles:
 - Moriarty Doc
 authors:
-- name: Nino_IQ]
+- name: Nino_IQ
   source: doc-text
 series:
 - fate
@@ -48,6 +48,6 @@ found_in:
   link_text: Fate Moriarty Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -8,6 +8,7 @@ alt_titles:
 - (Upgrade needed) Nagumo Miyabi’s Feat List Documentary (2023 ver)
 authors:
 - name: DAX PMFT
+  reddit: Permafrost-Il
   source: doc-text
 series:
 - classroom-of-the-elite
@@ -49,6 +50,6 @@ found_in:
   link_text: (Upgrade needed) Nagumo Miyabi’s Feat List Documentary (2023 ver)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

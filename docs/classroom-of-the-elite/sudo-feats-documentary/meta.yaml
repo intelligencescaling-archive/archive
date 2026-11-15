@@ -5,7 +5,17 @@ category: doc
 title: Sudo Feats Documentary
 alt_titles:
 - Sudo
-authors: []
+authors:
+- name: lio_h
+  source: doc-text
+- name: Kira.cifer
+  source: doc-text
+- name: cotefan456
+  source: doc-text
+- name: Hans00661
+  source: doc-text
+- name: clauverctw
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -46,6 +56,6 @@ found_in:
   link_text: Sudo Feats Documentary
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

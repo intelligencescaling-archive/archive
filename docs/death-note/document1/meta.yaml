@@ -2,11 +2,14 @@
 schema_version: 1
 id: document1
 category: doc
-title: Document1
+title: L's Monitor Hax
 alt_titles:
 - L monitor hax
 - L’s monitor hax
-authors: []
+- Document1
+authors:
+- name: PointScales
+  source: doc-text
 series:
 - death-note
 characters:
@@ -42,6 +45,6 @@ found_in:
   link_text: L’s monitor hax
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

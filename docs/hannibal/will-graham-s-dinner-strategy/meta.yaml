@@ -6,7 +6,7 @@ title: Will Graham's Dinner Strategy
 alt_titles:
 - Will Graham's Mirroring Feat
 authors:
-- name: 'Mizumono_2x13 Credits to: Hi_Nocts'
+- name: Mizumono_2x13
   source: doc-text
 series:
 - hannibal
@@ -46,6 +46,7 @@ found_in:
   link_text: Will Graham's Mirroring Feat
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'
+notes: Credits to Hi_Nocts.

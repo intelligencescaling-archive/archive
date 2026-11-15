@@ -5,7 +5,9 @@ category: doc
 title: Pandemic Game LR
 alt_titles:
 - Akiyama Pandemic Game LR
-authors: []
+authors:
+- name: Enii
+  source: doc-text
 series:
 - liar-game
 characters:
@@ -46,6 +48,6 @@ found_in:
   link_text: Pandemic Game LR
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

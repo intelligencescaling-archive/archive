@@ -6,7 +6,9 @@ title: Edmond Dantes promotional sneak peek.
 alt_titles:
 - Edmond Dantes DOC
 authors:
-- name: plank_krabs66/suspicious-cut3802
+- name: plank_krabs66
+  source: doc-text
+- name: suspicious-cut3802
   source: doc-text
 series:
 - the-count-of-monte-cristo
@@ -44,7 +46,6 @@ found_in:
   note: (not even close to being finished yet)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -5,7 +5,11 @@ category: doc
 title: Tsukumo Bomb Strategy Analysis
 alt_titles:
 - Inspector Tsukumo Bomb Strategy
-authors: []
+authors:
+- name: Yazsob
+  source: doc-text
+- name: Saul Badma
+  source: doc-text
 series: []
 characters:
 - inspector-tsukumo
@@ -42,8 +46,6 @@ found_in:
   link_text: Inspector Tsukumo Bomb Strategy
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
-  - series
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

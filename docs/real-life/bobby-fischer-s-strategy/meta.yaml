@@ -4,11 +4,7 @@ id: bobby-fischer-s-strategy
 category: doc
 title: Bobby Fischer's Strategy
 authors:
-- name: umontrose [
-  source: doc-text
-- name: Youtube
-  source: doc-text
-- name: Tiktok]
+- name: umontrose
   source: doc-text
 series:
 - real-life
@@ -46,7 +42,6 @@ found_in:
   link_text: Bobby Fischer's strategy
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

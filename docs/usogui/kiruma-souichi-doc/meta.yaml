@@ -6,7 +6,7 @@ title: Kiruma Souichi DOC
 alt_titles:
 - Hal document
 authors:
-- name: Hypervenomxtreme 2.0
+- name: Hypervenomxtreme2.0
   source: doc-text
 series:
 - usogui
@@ -52,6 +52,6 @@ found_in:
   link_text: Kiruma Souichi DOC
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -7,7 +7,7 @@ alt_titles:
 - Koji's feats in reasoning and thinking at Y2V1
 - Kiyo’s Thinking and reasoning feats (Y2V1)
 authors:
-- name: plasma
+- name: Plasma
   source: doc-text
 series:
 - classroom-of-the-elite
@@ -50,6 +50,6 @@ found_in:
   link_text: Kiyo’s Thinking and reasoning feats (Y2V1)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -5,7 +5,9 @@ category: doc
 title: C!Dream Final Waltz
 alt_titles:
 - C!Dream Final Waltz Scheme
-authors: []
+authors:
+- name: XDwasGone
+  source: doc-text
 series:
 - minecraft
 characters:
@@ -42,7 +44,6 @@ found_in:
   link_text: C!Dream Final Waltz Scheme
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

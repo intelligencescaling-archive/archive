@@ -4,7 +4,7 @@ id: michael-scofield-doc-2
 category: doc
 title: Michael Scofield doc
 authors:
-- name: River/ratjoe
+- name: River
   source: doc-text
 series:
 - prison-break
@@ -41,7 +41,6 @@ found_in:
   link_text: Michael Scofield doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

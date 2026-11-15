@@ -5,7 +5,9 @@ category: doc
 title: Yokoya sensory
 alt_titles:
 - Yokoya's Sensory Feat
-authors: []
+authors:
+- name: Enii
+  source: doc-text
 series:
 - liar-game
 characters:
@@ -46,6 +48,6 @@ found_in:
   link_text: Yokoya sensory
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

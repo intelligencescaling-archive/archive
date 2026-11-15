@@ -7,7 +7,11 @@ alt_titles:
 - Sora's Rhythm Chess Feats doc
 - Riku Dola's Akà Si Anse Strategy
 - Sora's Rhythm Chess Feats
-authors: []
+authors:
+- name: JayChef
+  source: doc-text
+- name: -PJ-
+  source: doc-text
 series:
 - no-game-no-life
 characters:
@@ -54,6 +58,6 @@ found_in:
   link_text: Sora's Rhythm Chess Feats
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

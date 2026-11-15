@@ -5,7 +5,11 @@ category: doc
 title: Afton Movie Doc
 alt_titles:
 - William afton movies feat doc
-authors: []
+authors:
+- name: ranpo_Editz
+  source: doc-text
+- name: Javier
+  source: doc-text
 series:
 - five-nights-at-freddy-s
 characters:
@@ -50,6 +54,6 @@ found_in:
   link_text: Afton Movie Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

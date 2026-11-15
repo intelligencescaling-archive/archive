@@ -6,7 +6,7 @@ title: Brian Moser Doc By N-Ice
 alt_titles:
 - Brian Moser doc
 authors:
-- name: n-ice
+- name: N-Ice
   source: doc-text
 series:
 - dexter
@@ -47,6 +47,6 @@ found_in:
   link_text: Brian Moser Doc By N-Ice
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

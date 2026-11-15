@@ -4,7 +4,7 @@ id: teen-baku-doc
 category: doc
 title: Teen Baku Doc
 authors:
-- name: Axolotol4044/KitchenCoyote7942
+- name: KitchenCoyote
   source: doc-text
 series:
 - usogui
@@ -45,6 +45,6 @@ found_in:
   link_text: Teen Baku Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

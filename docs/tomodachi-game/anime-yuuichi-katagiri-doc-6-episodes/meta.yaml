@@ -7,7 +7,7 @@ alt_titles:
 - Anime Yuuichi doc
 - Anime Yuuichi Feats doc
 authors:
-- name: KatagiriCuts - YouTube
+- name: KatagiriCuts
   source: doc-text
 series:
 - tomodachi-game
@@ -49,6 +49,6 @@ found_in:
   link_text: Anime Yuuichi Feats doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

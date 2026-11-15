@@ -6,7 +6,7 @@ title: Norman Doc Part one
 alt_titles:
 - Norman doc
 authors:
-- name: DL
+- name: DL (Detective Lawliet)
   source: doc-text
 series:
 - the-promised-neverland
@@ -43,7 +43,6 @@ found_in:
   link_text: Norman doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

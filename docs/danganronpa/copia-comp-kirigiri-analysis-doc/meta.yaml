@@ -2,10 +2,11 @@
 schema_version: 1
 id: copia-comp-kirigiri-analysis-doc
 category: doc
-title: (COPIA) COMP Kirigiri Analysis doc
+title: Comp Kyoko Kirigiri Analysis Doc
 alt_titles:
 - Comp Kyoko Kirigiri analysis doc
 - COMP Kirigiri Analysis doc
+- (COPIA) COMP Kirigiri Analysis doc
 authors: []
 series:
 - danganronpa
@@ -49,6 +50,6 @@ found_in:
   link_text: COMP Kirigiri Analysis doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

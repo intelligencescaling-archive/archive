@@ -6,9 +6,9 @@ title: Kanade Otonokoji Chapter 3 mini analysis
 alt_titles:
 - Kanade Chapter 3 Mini Analysis
 authors:
-- name: /Echonomy
-  reddit: Economy_Echo_8500
+- name: Echonomy
   source: doc-text
+  reddit: Economy_Echo_8500
 series:
 - danganronpa
 characters:
@@ -50,6 +50,6 @@ found_in:
   note: (basically the same mini analysis made by Economy, but in a doc format)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

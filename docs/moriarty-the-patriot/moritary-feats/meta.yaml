@@ -14,7 +14,7 @@ authors:
   source: doc-text
 - name: Druxzy
   source: doc-text
-- name: Awaken
+- name: AwaKen
   source: doc-text
 series:
 - moriarty-the-patriot
@@ -52,7 +52,6 @@ found_in:
   link_text: Moriarty Feats Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

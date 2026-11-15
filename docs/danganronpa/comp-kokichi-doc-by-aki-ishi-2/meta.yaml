@@ -5,7 +5,9 @@ category: doc
 title: Comp Kokichi Doc. By aki_ishi_2
 alt_titles:
 - Comp Kokichi Ouma doc
-authors: []
+authors:
+- name: Aki_Ishi
+  source: doc-text
 series:
 - danganronpa
 characters:
@@ -48,6 +50,6 @@ found_in:
   note: (By Aki_Ishi)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

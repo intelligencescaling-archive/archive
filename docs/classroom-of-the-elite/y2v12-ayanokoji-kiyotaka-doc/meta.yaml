@@ -6,7 +6,9 @@ title: Y2V12 AYANOKOJI KIYOTAKA DOC
 alt_titles:
 - Ayanokoji 1
 - Y212 AYANOKOJI KIYOTAKA DOC
-authors: []
+authors:
+- name: hola89
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -46,6 +48,6 @@ found_in:
   link_text: Y212 AYANOKOJI KIYOTAKA DOC
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

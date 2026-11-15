@@ -5,7 +5,9 @@ category: doc
 title: Patrick Jane PF Analysis - DEBUNK
 alt_titles:
 - PJ Poker Feat Analysis Debunk
-authors: []
+authors:
+- name: Johan Jonasson
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -48,6 +50,6 @@ found_in:
   link_text: Patrick Jane PF Analysis - DEBUNK
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -5,7 +5,10 @@ category: doc
 title: Yuuichi Katagiri Analysis
 alt_titles:
 - Yuuichi Katagiri SCD Analysis
-authors: []
+authors:
+- name: DAX PMFT
+  reddit: Permafrost-Il
+  source: doc-text
 series:
 - tomodachi-game
 characters:
@@ -48,6 +51,6 @@ found_in:
   note: (made by DAX)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

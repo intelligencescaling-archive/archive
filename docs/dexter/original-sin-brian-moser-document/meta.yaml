@@ -5,7 +5,9 @@ category: doc
 title: Original Sin Brian Moser Document
 alt_titles:
 - 'Original Sin: Brian Moser Document'
-authors: []
+authors:
+- name: N-Ice
+  source: doc-text
 series:
 - dexter
 characters:
@@ -50,6 +52,6 @@ found_in:
   link_text: Original Sin Brian Moser Document
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

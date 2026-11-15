@@ -5,7 +5,9 @@ category: doc
 title: POTATO CHIP IS BRAINROT
 alt_titles:
 - Potato Chip strategy is unrealistic
-authors: []
+authors:
+- name: berl8989
+  source: doc-text
 series:
 - death-note
 characters:
@@ -46,6 +48,6 @@ found_in:
   link_text: POTATO CHIP IS BRAINROT
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

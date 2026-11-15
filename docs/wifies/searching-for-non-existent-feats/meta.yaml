@@ -6,7 +6,7 @@ title: searching for non-existent feats
 alt_titles:
 - D3rLord3 Poem Reasoning
 authors:
-- name: Cheatspeed — I like D3rlord3
+- name: Cheatspeed
   source: doc-text
 series:
 - wifies
@@ -45,7 +45,6 @@ found_in:
   link_text: D3rLord3 Poem Reasoning
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

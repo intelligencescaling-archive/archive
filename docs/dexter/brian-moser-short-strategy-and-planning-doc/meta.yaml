@@ -6,10 +6,6 @@ title: Brian Moser Short Strategy and Planning Doc
 authors:
 - name: umogrimes
   source: doc-text
-- name: tt
-  source: doc-text
-- name: yt
-  source: doc-text
 series:
 - dexter
 characters:
@@ -51,6 +47,6 @@ found_in:
   link_text: Brian Moser Short Strategy and Planning Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

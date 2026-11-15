@@ -6,7 +6,7 @@ title: Educating Topman in Moon
 alt_titles:
 - Moon Seonghyun's Emotional Understanding
 authors:
-- name: zz9he  for topman
+- name: zz9he for topman
   source: doc-text
 series:
 - dr-frost
@@ -47,6 +47,6 @@ found_in:
   link_text: Educating Topman in Moon
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

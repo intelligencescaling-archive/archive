@@ -4,7 +4,7 @@ id: kirari-corporal-analysis-feat
 category: doc
 title: Kirari Corporal Analysis Feat
 authors:
-- name: Hellos / Chapter 76
+- name: Hellos
   source: doc-text
 series:
 - kakegurui
@@ -47,6 +47,6 @@ found_in:
   link_text: Kirari Corporal Analysis Feat
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

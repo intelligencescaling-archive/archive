@@ -6,7 +6,9 @@ title: Chen Ran’s Reasoning of the 9th True Self Player - Primordial Limitless
 alt_titles:
 - Chen Ran's Reasoning of the 9th True Self Player and the 21 player Gui Yu
 authors:
-- name: Simply_Amazing/ Rashoumon
+- name: Simply_Amazing
+  source: doc-text
+- name: Rashoumon
   source: doc-text
 series:
 - 18-levels-of-hell
@@ -44,7 +46,6 @@ found_in:
   link_text: Chen Ran's Reasoning of the 9th True Self Player and the 21 player Gui Yu
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

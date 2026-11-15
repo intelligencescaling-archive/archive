@@ -3,7 +3,10 @@ schema_version: 1
 id: self-revelation-strategy-analysis
 category: doc
 title: Self revelation strategy analysis
-authors: []
+authors:
+- name: Echonomy
+  source: doc-text
+  reddit: Economy_Echo_8500
 series:
 - death-note
 characters:
@@ -46,6 +49,6 @@ found_in:
   note: (Made by Echonomy_Echo in Reddit)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

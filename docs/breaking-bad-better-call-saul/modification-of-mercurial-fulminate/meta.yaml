@@ -5,7 +5,9 @@ category: doc
 title: Modification of mercurial fulminate
 alt_titles:
 - Walter White's Modification of Mercurial Fulminate
-authors: []
+authors:
+- name: Apóstolos
+  source: doc-text
 series:
 - breaking-bad-better-call-saul
 characters:
@@ -45,6 +47,6 @@ found_in:
   link_text: Walter White's Modification of Mercurial Fulminate
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

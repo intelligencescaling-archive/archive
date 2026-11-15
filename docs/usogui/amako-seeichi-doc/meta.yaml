@@ -7,7 +7,7 @@ alt_titles:
 - Amako Seeichi SCD document
 - Amako Seeichi
 authors:
-- name: Axolotol4044/KitchenCoyote_The2nd
+- name: KitchenCoyote
   source: doc-text
 series:
 - usogui
@@ -48,6 +48,6 @@ found_in:
   link_text: Amako Seeichi
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

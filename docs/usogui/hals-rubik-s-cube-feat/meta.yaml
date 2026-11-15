@@ -6,7 +6,7 @@ title: HAL’S Rubik's Cube Feat
 alt_titles:
 - Hal's Rubik's Cube Feat
 authors:
-- name: C
+- name: -C-
   source: doc-text
 - name: PatchiooX
   source: doc-text
@@ -50,6 +50,6 @@ found_in:
   link_text: HAL’S Rubik's Cube Feat
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

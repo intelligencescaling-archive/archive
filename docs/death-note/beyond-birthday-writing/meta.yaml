@@ -5,7 +5,9 @@ category: doc
 title: Beyond Birthday Writing
 alt_titles:
 - BB Writing Doc
-authors: []
+authors:
+- name: OVERSEER
+  source: doc-text
 series:
 - death-note
 characters:
@@ -47,6 +49,6 @@ found_in:
   note: (Writing)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -10,8 +10,6 @@ authors:
   source: doc-text
 - name: Omnicon
   source: doc-text
-- name: Counter;Side Official Discord
-  source: doc-text
 series: []
 characters:
 - na-yubin
@@ -47,8 +45,6 @@ found_in:
   link_text: Na Yubin Full-Scale Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
-  - series
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

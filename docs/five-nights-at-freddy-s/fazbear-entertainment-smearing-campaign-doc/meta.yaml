@@ -6,10 +6,9 @@ title: Fazbear Entertainment smearing campaign doc
 alt_titles:
 - Fazbear entertainment smearing doc
 authors:
-- name: Veneno on
+- name: Veneno
   source: doc-text
-- name: Discord
-  source: doc-text
+  reddit: Veneno
 series:
 - five-nights-at-freddy-s
 characters:
@@ -49,6 +48,6 @@ found_in:
   link_text: Fazbear Entertainment smearing campaign doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

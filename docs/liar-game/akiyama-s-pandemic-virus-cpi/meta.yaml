@@ -3,7 +3,11 @@ schema_version: 1
 id: akiyama-s-pandemic-virus-cpi
 category: doc
 title: Akiyama's Pandemic Vírus CPI
-authors: []
+authors:
+- name: Difuge1
+  source: doc-text
+- name: Tokho
+  source: doc-text
 series:
 - liar-game
 characters:
@@ -36,7 +40,6 @@ found_in:
   link_text: Akiyama's Pandemic Vírus CPI
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -6,7 +6,8 @@ title: The Force in SCD
 alt_titles:
 - SCD Categories buffed by The Force in Star Wars
 authors:
-- name: Ok_Cardiologist_5925 / Coup
+- name: Ok_Cardiologist_5925
+  reddit: Ok_Cardiologist_5925
   source: doc-text
 series:
 - star-wars
@@ -43,7 +44,6 @@ found_in:
   link_text: SCD Categories buffed by The Force in Star Wars
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

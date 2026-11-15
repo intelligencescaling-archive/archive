@@ -3,7 +3,9 @@ schema_version: 1
 id: san-joaquin-killer-doc
 category: doc
 title: San Joaquin Killer doc
-authors: []
+authors:
+- name: Zz9he
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -43,6 +45,6 @@ found_in:
   link_text: San Joaquin Killer doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

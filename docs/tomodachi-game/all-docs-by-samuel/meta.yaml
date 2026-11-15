@@ -5,7 +5,9 @@ category: doc
 title: All docs by Samuel.
 alt_titles:
 - All Yuuichi docs made by Samuel
-authors: []
+authors:
+- name: Samuel
+  source: doc-text
 series:
 - tomodachi-game
 characters:
@@ -42,8 +44,6 @@ found_in:
   link_text: All Yuuichi docs made by Samuel
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
-  - language
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

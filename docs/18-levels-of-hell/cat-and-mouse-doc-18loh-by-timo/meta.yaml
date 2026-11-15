@@ -5,7 +5,9 @@ category: doc
 title: Cat and mouse doc 18loh by Timo
 alt_titles:
 - Cat and Mouse Chen Ran Feat
-authors: []
+authors:
+- name: Timo
+  source: doc-text
 series:
 - 18-levels-of-hell
 characters:
@@ -42,7 +44,6 @@ found_in:
   link_text: Cat and Mouse Chen Ran Feat
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

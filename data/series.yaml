@@ -87,6 +87,7 @@
   name: Death Note
   aliases:
   - 'DEATH NOTE:'
+  - DN
 - id: deltarune
   name: Deltarune
 - id: detective-mitarai
@@ -192,6 +193,8 @@
   name: Lincoln Rhyme
 - id: lord-of-the-mysteries
   name: Lord of the Mysteries
+  aliases:
+  - LOTM
 - id: lupin
   name: Lupin
 - id: magic-emperor
@@ -252,7 +255,6 @@
   aliases:
   - Real Life Historical Figures
   - 'Real Life Historical Humans:'
-  - 'Real Life Historical Humans: | MISCELLANEOUS:'
 - id: record-of-ragnarok
   name: Record of Ragnarok
 - id: red-vs-blue
@@ -261,6 +263,8 @@
   name: Regular Show
 - id: reverend-insanity
   name: Reverend Insanity
+  aliases:
+  - RI
 - id: rick-and-morty
   name: Rick and Morty
 - id: ron-kamonohashi-s-forbidden-deductions

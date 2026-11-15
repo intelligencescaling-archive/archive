@@ -4,7 +4,7 @@ id: tom-taylor-intelligence-document
 category: doc
 title: Tom Taylor Intelligence document
 authors:
-- name: 'yours truly: Tom Taylor Productions!'
+- name: Tom Taylor Productions
   source: doc-text
 series: []
 characters:
@@ -40,8 +40,6 @@ found_in:
   link_text: Tom Taylor intelligence document
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
-  - series
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

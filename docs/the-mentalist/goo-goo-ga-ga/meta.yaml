@@ -5,7 +5,9 @@ category: doc
 title: Goo goo ga ga
 alt_titles:
 - Red John Rebunk Doc
-authors: []
+authors:
+- name: Zz9he
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -42,7 +44,6 @@ found_in:
   link_text: Red John Rebunk Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

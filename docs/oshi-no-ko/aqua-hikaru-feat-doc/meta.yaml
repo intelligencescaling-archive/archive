@@ -5,7 +5,9 @@ category: doc
 title: Aqua Hikaru Feat Doc
 alt_titles:
 - Aqua's Hikari feat document
-authors: []
+authors:
+- name: AgentNemo
+  source: doc-text
 series:
 - oshi-no-ko
 characters:
@@ -42,7 +44,6 @@ found_in:
   link_text: Aqua's Hikari feat document
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

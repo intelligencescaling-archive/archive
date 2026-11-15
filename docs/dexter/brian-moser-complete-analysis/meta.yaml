@@ -3,7 +3,9 @@ schema_version: 1
 id: brian-moser-complete-analysis
 category: doc
 title: Brian Moser Complete Analysis
-authors: []
+authors:
+- name: N-Ice
+  source: doc-text
 series:
 - dexter
 characters:
@@ -44,6 +46,6 @@ found_in:
   link_text: Brian Moser Complete Analysis
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

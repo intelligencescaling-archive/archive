@@ -5,7 +5,9 @@ category: doc
 title: Telepathic resistance feat (TRF)
 alt_titles:
 - Ozymandias Telepathic Resistance Feat
-authors: []
+authors:
+- name: Apóstolos
+  source: doc-text
 series:
 - dc-comics
 characters:
@@ -46,6 +48,6 @@ found_in:
   link_text: Ozymandias Telepathic Resistance Feat
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

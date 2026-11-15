@@ -6,7 +6,7 @@ title: The Hidden Director Theory
 alt_titles:
 - Sparkle's Hidden Director Theory
 authors:
-- name: lena_fox8
+- name: Lena_Fox8
   source: doc-text
 series:
 - honkai-star-rail
@@ -43,7 +43,6 @@ found_in:
   link_text: Sparkle's Hidden Director Theory
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

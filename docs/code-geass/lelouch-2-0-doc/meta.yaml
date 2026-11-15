@@ -6,7 +6,7 @@ title: Lelouch 2.0 doc
 alt_titles:
 - Lelouch 1
 authors:
-- name: Animangamastarmedia
+- name: AniMangaMastarMedia
   source: doc-text
 series:
 - code-geass
@@ -47,6 +47,6 @@ found_in:
   link_text: Lelouch 2.0 doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

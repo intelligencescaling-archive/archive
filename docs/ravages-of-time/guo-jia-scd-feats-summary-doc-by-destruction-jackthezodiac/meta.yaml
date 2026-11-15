@@ -5,7 +5,11 @@ category: doc
 title: Guo Jia SCD feats summary doc (By Destruction + Jackthezodiac)
 alt_titles:
 - Guo Jia Feats Summary document
-authors: []
+authors:
+- name: Destruction
+  source: doc-text
+- name: Jackthezodiac
+  source: doc-text
 series:
 - ravages-of-time
 characters:
@@ -46,6 +50,6 @@ found_in:
   link_text: Guo Jia SCD feats summary doc (By Destruction + Jackthezodiac)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

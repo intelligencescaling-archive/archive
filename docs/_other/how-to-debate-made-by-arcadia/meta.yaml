@@ -5,7 +5,9 @@ category: doc
 title: How to debate | Made by Arcadia
 alt_titles:
 - How to debate
-authors: []
+authors:
+- name: Arcadia
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -40,7 +42,6 @@ found_in:
   link_text: How to debate
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

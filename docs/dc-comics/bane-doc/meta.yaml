@@ -6,7 +6,7 @@ title: BANE doc
 alt_titles:
 - Bane
 authors:
-- name: Banes manifold
+- name: Banesmanifold
   source: doc-text
 series:
 - dc-comics
@@ -47,6 +47,6 @@ found_in:
   link_text: BANE doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

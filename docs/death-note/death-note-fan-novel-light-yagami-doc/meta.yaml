@@ -5,7 +5,10 @@ category: doc
 title: 'Death Note: Fan Novel (+Light yagami doc)'
 alt_titles:
 - Light Yagami's Feats Buffs
-authors: []
+authors:
+- name: Patient-Hospital-372
+  source: doc-text
+  reddit: Patient-Hospital-372
 series:
 - death-note
 characters:
@@ -48,6 +51,6 @@ found_in:
   link_text: 'Death Note: Fan Novel (+Light yagami doc)'
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

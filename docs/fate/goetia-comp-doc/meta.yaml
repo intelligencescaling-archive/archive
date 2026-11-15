@@ -6,7 +6,7 @@ title: Goetia (Comp) doc
 alt_titles:
 - Comp Goetia Doc
 authors:
-- name: Yusha]
+- name: Yusha
   source: doc-text
 series:
 - fate
@@ -49,6 +49,6 @@ found_in:
   link_text: Goetia (Comp) doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

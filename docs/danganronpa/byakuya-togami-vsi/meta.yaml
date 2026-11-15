@@ -5,9 +5,7 @@ category: doc
 title: Byakuya Togami VSI
 alt_titles:
 - Byakuya Togami's VSI
-authors:
-- name: akuya Togami’s VSI
-  source: doc-text
+authors: []
 series:
 - danganronpa
 characters:
@@ -48,6 +46,6 @@ found_in:
   link_text: Byakuya Togami VSI
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -7,9 +7,9 @@ alt_titles:
 - Yokoya's Contraband Strategy Mini Analysis
 - Yokoya Norihiko Contraband Game Strategy
 authors:
-- name: /Echonomy
-  reddit: Economy_Echo_8500
+- name: Echonomy
   source: doc-text
+  reddit: Economy_Echo_8500
 series:
 - liar-game
 characters:
@@ -52,6 +52,6 @@ found_in:
   note: (the same analysis made by the Reddit user, but in a doc format)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

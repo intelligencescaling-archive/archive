@@ -5,7 +5,9 @@ category: doc
 title: Another Lunge Doc
 alt_titles:
 - lungedoc_original
-authors: []
+authors:
+- name: BLAZI
+  source: doc-text
 series:
 - monster
 characters:
@@ -41,6 +43,6 @@ found_in:
   link_text: lungedoc_original
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

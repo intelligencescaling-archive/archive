@@ -5,7 +5,11 @@ category: doc
 title: 'Murphy Doc #3'
 alt_titles:
 - Murphy 3
-authors: []
+authors:
+- name: Cloud(s)
+  source: doc-text
+- name: Lesti-Chan
+  source: doc-text
 series:
 - scp-foundation
 characters:
@@ -45,6 +49,6 @@ found_in:
   link_text: 'Murphy Doc #3'
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

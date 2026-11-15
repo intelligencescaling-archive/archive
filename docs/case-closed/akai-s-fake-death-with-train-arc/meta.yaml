@@ -5,7 +5,13 @@ category: doc
 title: akai's fake death with train arc
 alt_titles:
 - Conan's Akai Fake Death Plan
-authors: []
+authors:
+- name: scroll
+  source: doc-text
+- name: majd
+  source: doc-text
+- name: vinit
+  source: doc-text
 series:
 - case-closed
 characters:
@@ -46,6 +52,6 @@ found_in:
   link_text: akai's fake death with train arc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

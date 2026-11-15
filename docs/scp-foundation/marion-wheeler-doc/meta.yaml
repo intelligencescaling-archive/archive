@@ -5,7 +5,10 @@ category: doc
 title: Marion Wheeler doc
 alt_titles:
 - Marion Wheeler
-authors: []
+authors:
+- name: arvinsins
+  reddit: arvinsins
+  source: doc-text
 series:
 - scp-foundation
 characters:
@@ -40,6 +43,6 @@ found_in:
   link_text: Marion Wheeler
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

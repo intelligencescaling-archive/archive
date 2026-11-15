@@ -6,7 +6,9 @@ title: Henry Emily Charliebots Feat Rebunk - by Axiom
 alt_titles:
 - Charliebots Feat Rebunk
 - Charliebot feat Rebunk
-authors: []
+authors:
+- name: Axiom
+  source: doc-text
 series:
 - five-nights-at-freddy-s
 characters:
@@ -51,6 +53,6 @@ found_in:
   link_text: Henry Emily Charliebots Feat Rebunk - by Axiom
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

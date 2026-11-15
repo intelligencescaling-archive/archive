@@ -3,7 +3,9 @@ schema_version: 1
 id: plum-s-feats-short-analysis-doc
 category: doc
 title: Plum's Feats Short Analysis Doc
-authors: []
+authors:
+- name: Checkmate
+  source: doc-text
 series:
 - no-game-no-life
 characters:
@@ -45,6 +47,6 @@ found_in:
   link_text: Plum's Feats Short Analysis Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

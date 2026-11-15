@@ -5,7 +5,15 @@ category: doc
 title: Re:Zero documents
 alt_titles:
 - 'RE: Zero SCD docs'
-authors: []
+authors:
+- name: Toxico
+  source: doc-text
+- name: Universal
+  source: doc-text
+- name: Pleiades
+  source: doc-text
+- name: Luga
+  source: doc-text
 series:
 - re-zero
 characters: []
@@ -40,7 +48,6 @@ found_in:
   link_text: 'RE: Zero SCD docs'
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

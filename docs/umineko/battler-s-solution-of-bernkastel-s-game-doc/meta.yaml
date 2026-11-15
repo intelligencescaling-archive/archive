@@ -5,7 +5,9 @@ category: doc
 title: Battler's Solution of Bernkastel's Game doc
 alt_titles:
 - Battler's Solution of Bernkastel's Game
-authors: []
+authors:
+- name: Sieben
+  source: doc-text
 series:
 - umineko
 characters:
@@ -40,6 +42,6 @@ found_in:
   link_text: Battler's Solution of Bernkastel's Game
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

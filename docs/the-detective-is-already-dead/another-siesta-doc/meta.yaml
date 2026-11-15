@@ -4,7 +4,7 @@ id: another-siesta-doc
 category: doc
 title: Another Siesta doc?
 authors:
-- name: Animangamastarmedia or I AM
+- name: AniMangaMastarMedia
   source: doc-text
 - name: Matty the Ace Detective
   source: doc-text
@@ -43,7 +43,6 @@ found_in:
   link_text: Another Siesta doc?
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

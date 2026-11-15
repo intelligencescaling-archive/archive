@@ -5,9 +5,7 @@ category: doc
 title: Byakuya Togami - Kudan feat
 alt_titles:
 - Byakuya Togami Kudan feat
-authors:
-- name: akuya Togami - Kudan feat
-  source: doc-text
+authors: []
 series:
 - danganronpa
 characters:
@@ -48,6 +46,6 @@ found_in:
   link_text: Byakuya Togami - Kudan feat
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

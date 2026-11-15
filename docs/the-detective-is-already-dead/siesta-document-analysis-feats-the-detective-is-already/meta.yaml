@@ -5,7 +5,10 @@ category: doc
 title: Siesta Document + Analysis Feats (The Detective Is Already Dead) [Discontinue]
 alt_titles:
 - Siesta Full-Scale document
-authors: []
+authors:
+- name: creationcawthon2
+  source: doc-text
+  reddit: creationcawthon2
 series:
 - the-detective-is-already-dead
 characters:
@@ -45,7 +48,6 @@ found_in:
   note: (not finished and probably won't be finished so soon since I heard it was Discontinued)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

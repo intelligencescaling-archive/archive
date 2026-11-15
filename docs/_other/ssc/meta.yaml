@@ -2,10 +2,13 @@
 schema_version: 1
 id: ssc
 category: doc
-title: SSC
+title: SCD Categories Doc 7
 alt_titles:
 - SCD categories Doc 7
-authors: []
+- SSC
+authors:
+- name: scroll
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -40,7 +43,6 @@ found_in:
   link_text: SCD categories Doc 7
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

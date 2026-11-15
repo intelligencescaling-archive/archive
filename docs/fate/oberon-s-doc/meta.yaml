@@ -4,7 +4,7 @@ id: oberon-s-doc
 category: doc
 title: Oberon's Doc
 authors:
-- name: Nino_IQ]
+- name: Nino_IQ
   source: doc-text
 series:
 - fate
@@ -45,6 +45,6 @@ found_in:
   link_text: Oberon's Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

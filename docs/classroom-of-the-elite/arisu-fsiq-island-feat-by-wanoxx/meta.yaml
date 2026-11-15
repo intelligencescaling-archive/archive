@@ -6,7 +6,9 @@ title: Arisu FSIQ Island Feat | By Wanoxx
 alt_titles:
 - Arisu FSIQ island feat
 - Arisu FSIQ Island Feat | By Wannox
-authors: []
+authors:
+- name: Wanoxx
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -48,6 +50,6 @@ found_in:
   link_text: Arisu FSIQ Island Feat | By Wannox
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

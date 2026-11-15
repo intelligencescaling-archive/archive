@@ -6,7 +6,7 @@ title: OVA William James Moriarty Doc
 alt_titles:
 - OVA WJM SCD Doc
 authors:
-- name: KC Axolotal/KitchenCoyote7942
+- name: KitchenCoyote
   source: doc-text
 series:
 - moriarty-the-patriot
@@ -44,7 +44,6 @@ found_in:
   link_text: OVA WJM SCD Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

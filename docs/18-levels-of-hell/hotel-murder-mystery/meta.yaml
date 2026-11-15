@@ -5,7 +5,10 @@ category: doc
 title: Hotel Murder Mystery
 alt_titles:
 - Chen Ran Feats in Hotel Murder Mystery
-authors: []
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  source: doc-text
 series:
 - 18-levels-of-hell
 characters:
@@ -42,7 +45,6 @@ found_in:
   link_text: Chen Ran Feats in Hotel Murder Mystery
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

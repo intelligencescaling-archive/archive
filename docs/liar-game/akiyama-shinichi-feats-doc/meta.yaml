@@ -8,9 +8,7 @@ alt_titles:
 authors:
 - name: Theller
   source: doc-text
-- name: ScytherZilla Evaluated by Wanoxx
-  source: doc-text
-- name: mynameisntjoe
+- name: ScytherZilla
   source: doc-text
 series:
 - liar-game
@@ -52,6 +50,7 @@ found_in:
   link_text: Akiyama Shinichi Feats Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'
+notes: Evaluated by Wanoxx and mynameisntjoe.

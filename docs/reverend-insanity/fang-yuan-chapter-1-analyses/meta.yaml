@@ -6,7 +6,7 @@ title: Fang yuan chapter 1 analyses
 alt_titles:
 - Fang yuan chapter 1 analysed
 authors:
-- name: erika/wodstudios
+- name: erika
   source: doc-text
 series:
 - reverend-insanity
@@ -45,6 +45,6 @@ found_in:
   link_text: Fang yuan chapter 1 analysed
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

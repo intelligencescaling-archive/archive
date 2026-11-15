@@ -6,7 +6,7 @@ title: VOL 1 | KUZE MASACHIKA
 alt_titles:
 - Vol. 1 Masachika Kuze SCD doc
 authors:
-- name: COUNTERKOUJI
+- name: CounterKouji
   source: doc-text
 series:
 - alya-sometimes-hides-her-feelings-in-russian
@@ -43,7 +43,6 @@ found_in:
   link_text: Vol. 1 Masachika Kuze SCD doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

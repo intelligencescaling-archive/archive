@@ -2,9 +2,10 @@
 schema_version: 1
 id: hark
 category: doc
-title: hark
+title: Hark's Change Of Heart Plan
 alt_titles:
 - Hark's Change Of Heart Plan
+- hark
 authors: []
 series: []
 characters:
@@ -41,8 +42,6 @@ found_in:
   link_text: Hark's Change Of Heart Plan
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
-  - series
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

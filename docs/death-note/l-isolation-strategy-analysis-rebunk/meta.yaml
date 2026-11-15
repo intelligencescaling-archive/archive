@@ -7,9 +7,9 @@ alt_titles:
 - L Isolation Strategy Explanation and Rebunks
 - L Isolation Strategy Analysis and Rebunk
 authors:
-- name: /Echonomy
-  reddit: Echonomy_Echo_8500
+- name: Echonomy
   source: doc-text
+  reddit: Economy_Echo_8500
 series:
 - death-note
 characters:
@@ -52,6 +52,6 @@ found_in:
   link_text: L Isolation Strategy Analysis and Rebunk
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

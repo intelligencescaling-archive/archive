@@ -4,7 +4,7 @@ id: pmh-debunk
 category: doc
 title: PMH Debunk
 authors:
-- name: Pointscales
+- name: PointScales
   source: doc-text
 series:
 - classroom-of-the-elite
@@ -46,6 +46,6 @@ found_in:
   link_text: PMH Debunk
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

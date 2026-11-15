@@ -5,7 +5,9 @@ category: doc
 title: Patrick Jane document for SCD
 alt_titles:
 - Patrick Jane doc made by @Z.Z. (Zz9he)
-authors: []
+authors:
+- name: Zz9he
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -45,6 +47,6 @@ found_in:
   link_text: Patrick Jane document for SCD
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

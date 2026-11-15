@@ -6,7 +6,9 @@ title: Horikita Suzune's all Feat List Doc (Y1 Categories) (semi-finished)
 alt_titles:
 - Horikita Suzune's All Feat list Document(Year 1)
 - Horikita Suzune’s all Feat List Documentary (Y1) (semi-finished)
-authors: []
+authors:
+- name: Ganve
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -47,6 +49,6 @@ found_in:
   link_text: Horikita Suzune’s all Feat List Documentary (Y1) (semi-finished)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

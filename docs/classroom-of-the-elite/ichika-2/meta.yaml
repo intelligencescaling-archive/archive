@@ -2,9 +2,10 @@
 schema_version: 1
 id: ichika-2
 category: doc
-title: Ichika 2
+title: Ichika Amasawa - Outsmarting/Intellectual Feats (Work in Progress)
 alt_titles:
 - Ichika Amasawa - Outsmarting/Intellectual Feats (Work in Progress)
+- Ichika 2
 authors: []
 series:
 - classroom-of-the-elite
@@ -37,7 +38,6 @@ found_in:
   link_text: Ichika Amasawa - Outsmarting/Intellectual Feats (Work in Progress)
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - language
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -8,6 +8,7 @@ alt_titles:
 - Riku Dola's Feat Documentary
 authors:
 - name: DAX PMFT
+  reddit: Permafrost-Il
   source: doc-text
 - name: JayChef
   source: doc-text
@@ -53,6 +54,6 @@ found_in:
   link_text: Riku Dola's Feat Documentary
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -4,7 +4,7 @@ id: siesta-s-cognitive-feats
 category: doc
 title: Siesta's Cognitive Feats
 authors:
-- name: Reverie  a.k.a Horny Senpai
+- name: Reverie
   source: doc-text
 series:
 - the-detective-is-already-dead
@@ -42,7 +42,6 @@ found_in:
   link_text: Siesta's Cognitive Feats
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

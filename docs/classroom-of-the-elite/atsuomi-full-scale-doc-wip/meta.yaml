@@ -6,7 +6,7 @@ title: ATSUOMI FULL SCALE DOC | WIP
 alt_titles:
 - Atsuomi Full-Scale Doc
 authors:
-- name: COUNTERKOUJI
+- name: CounterKouji
   source: doc-text
 series:
 - classroom-of-the-elite
@@ -48,6 +48,6 @@ found_in:
   link_text: ATSUOMI FULL SCALE DOC | WIP
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

@@ -3,7 +3,9 @@ schema_version: 1
 id: the-fugitive-bee
 category: doc
 title: The Fugitive Bee
-authors: []
+authors:
+- name: Whitty
+  source: doc-text
 series:
 - usogui
 characters:
@@ -39,6 +41,6 @@ found_in:
   link_text: The Fugitive Bee
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

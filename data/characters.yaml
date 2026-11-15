@@ -530,6 +530,11 @@
 - id: kiyotaka-ayanokoji
   name: Kiyotaka Ayanokoji
   series: classroom-of-the-elite
+  aliases:
+  - Ayanokouji
+  - Ayanokoji Kiyotaka
+  - Kiyotaka Ayanokouji
+  - Kiyo
 - id: klein-moretti
   name: Klein Moretti
   series: lord-of-the-mysteries
@@ -557,6 +562,9 @@
 - id: l-lawliet
   name: L Lawliet
   series: death-note
+  aliases:
+  - L
+  - Ryuzaki
 - id: lalo-salamanca
   name: Lalo Salamanca
   series: breaking-bad-better-call-saul
@@ -569,6 +577,9 @@
 - id: lelouch-vi-britannia
   name: Lelouch vi Britannia
   series: code-geass
+  aliases:
+  - Lelouch Lamperouge
+  - Zero
 - id: leo
   name: Leo
   series: null
@@ -590,6 +601,8 @@
 - id: light-yagami
   name: Light Yagami
   series: death-note
+  aliases:
+  - Kira
 - id: lightning
   name: Lightning
   series: null

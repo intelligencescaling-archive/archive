@@ -6,7 +6,7 @@ title: ZHUO FAN (Novels) FEATS
 alt_titles:
 - Zhuo Fan SCD document
 authors:
-- name: HORNY SENPAI a.k.a Reverie
+- name: Reverie
   source: doc-text
 series:
 - magic-emperor
@@ -44,8 +44,6 @@ found_in:
   link_text: Zhuo Fan SCD document
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
-  - characters
-  - series
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

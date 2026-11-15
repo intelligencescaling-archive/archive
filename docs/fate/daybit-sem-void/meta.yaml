@@ -6,7 +6,7 @@ title: Daybit Sem Void
 authors:
 - name: Nino_IQ
   source: doc-text
-- name: Yusha]
+- name: Yusha
   source: doc-text
 series:
 - fate
@@ -48,6 +48,6 @@ found_in:
   link_text: Daybit Sem Void
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'

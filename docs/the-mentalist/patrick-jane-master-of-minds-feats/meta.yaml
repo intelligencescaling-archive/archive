@@ -6,7 +6,7 @@ title: Patrick Jane Master Of Minds. Feats
 alt_titles:
 - PJ master of minds feats
 authors:
-- name: Zruft/@Talabat
+- name: Zruft
   source: doc-text
 series:
 - the-mentalist
@@ -48,6 +48,7 @@ found_in:
   link_text: Patrick Jane Master Of Minds. Feats
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'
+notes: Influenced by Acceology.

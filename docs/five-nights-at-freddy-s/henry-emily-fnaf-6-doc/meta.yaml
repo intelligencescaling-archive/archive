@@ -5,10 +5,7 @@ category: doc
 title: Henry Emily FNAF 6 doc
 authors:
 - name: kissingveneno
-  source: doc-text
-- name: Discord
-  source: doc-text
-- name: TikTok
+  reddit: Mediocre-Neat-1207
   source: doc-text
 series:
 - five-nights-at-freddy-s
@@ -49,6 +46,6 @@ found_in:
   link_text: Henry Emily FNAF 6 Doc
 added: '2026-11-15'
 review:
-  status: auto
-  check:
-  - authors
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-15'
