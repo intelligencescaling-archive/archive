@@ -5,13 +5,15 @@ category: doc
 title: Ozymandias 2
 alt_titles:
 - Ozymandias
-authors: []
+authors:
+- name: Toji
+  source: doc-text
 series:
 - dc-comics
 characters:
 - ozymandias
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -19,9 +21,13 @@ parts:
     url: https://drive.google.com/open?id=1mC-JhawTf05zuDWrtQHcx-rUHuxE0qvNQ8rBKNbbSww
     google_id: 1mC-JhawTf05zuDWrtQHcx-rUHuxE0qvNQ8rBKNbbSww
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 1576
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -35,8 +41,8 @@ found_in:
   character: Ozymandias
   link_text: Ozymandias
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
-  - language

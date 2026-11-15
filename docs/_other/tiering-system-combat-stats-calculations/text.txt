@@ -1,0 +1,358 @@
+Tiering System & Combat Stats calculations (OUTDATED and ABANDONED FOR TIME)
+
+Table of Contents
+Table of Contents        1
+Rules:        2
+2022 Calculation Format (Restrict Calculations to 1 Page)        3
+(Title)        3
+Attack Potency Calculations        4
+Tier Low 4-B (Fundamental Level)        4
+Tier 4-B (Molecular level)        5
+Tier High 4-A Calculations (Cellular Level)        5
+Tier Low 3-C Calculations (Below Average Human level)        6
+Tier 3-C Calculations (Legs & Kicks)(Human Level)        7
+Tier 3-C Calculations (Arms & Punches)(Human Level)        8
+Tier High 3-C Calculations (Street Level)        9
+Tier Low 3-B Calculations (Wall level)        10
+Tier 3-B Calculations (Building Level)        11
+Tier High 3-B Calculations (City Block Level)        12
+Tier Low 3-A to 3-A Calculations (Low Country level (City level is merged with this area))        13
+Tier High 3-A Calculations (Continental Level)        14
+Tiers Low 2-C to High 3-C Calculation Notes        15
+Tier 2-C to 2-B Calculations        15
+Tier High 2-B (Interstellar Level High End Border) Calculations        16
+Tier 2-A Calculations (Galactic Level)        16
+Tier High 2-A Calculations (Galactic Level+)        17
+Tier Low 1-C Calculations        17
++ Baselines for each tier        17
+Speed Calculations        18
+Average Human Running Speed        18
+Peak Human Running Speed        18
+Range Calculations        18
+Melee        18
+Extended Melee        19
+Building sized        19
+The Rest of Tier 3        19
+Tier 2        20
+LS Calcs        20
+All the water on Earth        20
+Desmos Scientific Calculator
+Note: All reliable sources & referential sources will be archived in the Internet Archive's Wayback Machine & archive.vn with the exception ofGoogle Docs. Big Credits to Wikipedia for helping me as a reference point! | Main page for attack potency stats
+
+CREATOR's NOTE (Jul 27, 2025): Initially, I wanted to powerscale stuff just for fun and to be your fun no life VSBW cringe user that powerscales for fun. However, I realized it took a lot of my time despite it's value to VSBW, so this along with many other links are abandoned for now. A lot of this is from a time where I was a more naive powerscaler, so don't be too surprised if some of this stuff (including the rules) is inaccurate and subject to scrutiny no matter how advanced it is for my high school time.
+
+Rules:
+Calc Stacking from random users from the internet shouldn’t be used as least as possible. Original/Reliable sources’ universal & scientific facts like the relation between weight & mass, & the Earth’s gravity on average are the exception.
+There are some equations that mathematically are correct but are unrealistic when put into real life. If for example any result is from a speed that’s mathematically correct but has an unrealistic variable like an unusually high amount of mass/speed, don’t use said results. My algebra teacher said on Oct 2, of 2021 that a student once asked her if you could get a mathematically correct  solution that wouldn’t fit into another problem, she said yes. For example, if you mathematically got a high amount of mass of a martial artist in this calculation:
+
+Martial Artists (both male & female) can produce 9000 lbs of force. Peak boxers can do around 3,500 - 4,800 N of force (Archived). | To convert mph to m/s, multiply the mph number by 4.4704E-1 or 0.44704. (pg 64 (pdf pages)) (Archived) | For lbf to be converted to N, multiply lb 4.448222 times (pg 65 (pdf pages)) (Archived). | Note that one of the mistakes that can be made is assuming that the weight of something = it’s mass. This isn’t true (Archived), but weight & mass are related to each other (Archived). This relation can be represented here: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second (Earth’s gravity on average is 9.8 m/s (pg 3) (Archived))) | F = ma (F = Newtons, m = kg, a = acceleration in 1m/1s^2)
+Martial Artist: 40033.998/(72*0.44704) N of force = m/(72*0.44704) -> 1243.798653 kg = m
+
+& compare it to the health complications (Archived) & records of the heaviest man ever, which is 635 kg (Archived), you’ll start to see the unrealisticness & inflationariness of the calculation.
+Make sure the sources are legit. The exception will be if the calculation needs to be from the original source, the relevant parts of the original source are allowed.
+The tiers are referring to this tiering system, in case there’s confusion to the tiers I’m referring to.
+(Some of) Vs Battles’ regulations & standards can be followed due to their experience with indexing fictional characters. Due to the fact that anyone can edit the profiles, the wiki is big (look at it’s statistics)(Archived)), the wiki is hard to manage by the staff (“...we do not enforce some of these regulations because we are censorship-happy and do not believe in the freedom of speech. The wiki is simply hard enough to manage as it is for the staff, and the rules are necessary to ensure that the task is not impossible.” (Archived), the profiles aren’t all reliable “Basically, we are well aware of that not all profiles are reliable, as it is an impossible task for so many characters from wildly different franchises. However, we consider everything a work in progress, and have worked extremely hard to manage, and gradually improve, the wiki as well as we are able under the circumstances.” (Archived), & that some pages don’t have references despite the rules requesting “Do not insert blatantly false information into pages.” (Archived), Vs Battles’ reliability is variable & in a grey zone. Vs Battles Wiki’s pages should only be taken as referential with the exception of it’s sections that have reliable/legitimate sources & references backing their claims.
+Archive every reliable source you’re using in each calculation/post unless it causes a great risk of a copyright violation. The 3 sites I use in archiving info are the Wayback Machine, Archive.vn & Ghostarchive. They’re all useful sites but know their limits (I can speak from experience). Limitations are listed below:
+WABAC Machine: The Wayback Machine can archive a page while rendering a video unplayable for a period of time until it’s ready to be played. Online Converters may not work in the Wayback Machine due to the programming of the tool. Unless it's a link, . Sections of sites that require the user to login or pay to gain access to them may be unarchivable even if you try to archive the segment in all 3 sites. | FAQ
+Archive.vn:  Archiving a video on a video sharing site on archive.vn results in the video being unplayable but I haven’t seen a video become playable after a period of time. The features on an archived page of archive.vn can be clicked on, but don’t work. Sections of sites that require the user to login or pay to gain access to them may be unarchivable even if you try to archive the segment in all 3 sites
+                Ghostarchive.org: FAQ (Archived), sections of sites that require the user to login or pay to gain access to them may be unarchivable even if you try to archive the segment in all 3 sites.
+
+(Buffer area (This area is for keeping things aligned up against the constantly updating table of contents.))
+
+2022 Calculation Format (Restrict Calculations to 1 Page)
+(First Use was in the Kardashev Scale 2022 Edition) (Formed around December 31, 2021, 9:02 PM)
+(Title)
+Notable Facts: |  | Ground Rules (Optional):
+        Units & Values (numbers exclusive to the calculation):
+        Conversions:
+        Notable Sources:
+Equations & Reliable Calculators:
+Calculation:
+Result:
+Calculation Finished & Reliable?:
+Attack Potency Calculations
+Table of Contents        1
+
+Tier Low 4-B (Fundamental Level)
+
+Units & Values: Speed of Light in a vacuum = 299792458 m/s (Archived) | Elementary Particle Masses (Archived) Higgs Boson mass (2020/recent estimate): 125.10 +/- 0.14 GeV/c^2 for it’s average (Archived) | Mass of the Top Quark: 172.76 +/- 0.30 GeV/c^2 (About Page) (Archived) | A GeV = a billion Electron Volts. The mass unit of eV is eV/c^2 (Archived). | 1 Volt = 1.602176634*10^-19 J (Archived)
+Notable Facts: Photons can reach the speed of light (Archived) | Due to requiring an infinite amount of energy to get to light speed (Archived), you can only get close to it (Archived). Being near the speed of light will be the chosen limit for this calculation.
+Equation(s) & Conversions: ½*mass*velocity^2 (Archived) |  E = mc^2 (Archived) (Calculator (Archived)) | (Desmos Scientific Calculator (Archived))
+Conversion(s):
+Conversion(s):  N/A
+Calculation:
+Minimum:
+Graviton, Gluon & Photon’s mass is 0 GeV. 0 GeV = 0 eV. 0/299792458^2 = 0 kg
+½*0*c^2 =  0 Joules
+Max: The highest masses on the chart are 170 GeV/c^2 from the top quark. The more recent estimate of 125.1 +/- 0.14 GeV/c^2 makes the result smaller & more accurate, so the mass of the top quark will be used. Due to requiring an infinite amount of energy to get to light speed (Archived), you can only get close to it (Archived). Since you have no limit to how small you can make a percentage, fraction & irrational number, the result of this calculation will be represented as c > r (r is the result & c is light speed). The highest mass will be chosen.
+(172.76(1.602176634(10^-19)(10^9))) = 2.76792035e-8 J. (125.1(1.602176634(10^-19)(10^9))) = 2.00432297e-8 J
+Result: 0 - (x < 2.00432297e-8) J (0 J will be chosen as the baseline).
+Calculation Refined & Fact-Checked?: Yes
+
+Tier 4-B (Molecular level)
+Units & Values: 1 amu (Atomic Mass Unit) = 1.67377 x 10^-27 kilograms (Archived) | Hydrogen amu = 1.008 u (Archived) | Og has 295.216 u (Archived) | u = atomic mass unit (Archived) = amu (Archived) | Speed of Light in a vacuum = 299792458 m/s (Archived) | A team broke a chemical bond. The chemical bond was an iron-carbon bond & it took 150 or 220 piconewtons to break the bond. (Archived) | SI Prefixes (Archived) | Properties of Equality (Archived) | Iron’s mass: 55.84u (Archived) | Carbon’s mass: 12.011u (Archived) | H-H Bond Dissociation Energy at 298 K is 436.002(4) kJ/ mol (Archived), though despite there being no weakest bond dissociation energy, the smallest measured bond energy is in He2, which has a bond dissociation energy at 0.021 kcal/mol (Archived) | Modern kcal to kJ conversion is (kcal)4.186 (Archived)
+Notable Facts: Photons can reach the speed of light (Archived) | Due to requiring an infinite amount of energy to get to light speed (Archived), you can only get close to it (Archived). Being near the speed of light will be the chosen limit for the mass to energy calculation. | As of Oct 27, 2021; Hydrogen is the element with the least mass & Oganesson is the element with the most mass (Archived). | (Definition of Molecule (Archived)) This section is more focused on measuring the attack potency & durability of molecules & elements on the periodic table. | The most abundant element in the universe is hydrogen (Archived)
+Equation(s): ½*mass*velocity^2 (Archived) | Standard Enthalpy of Formation & Bond Association (Archived) (Standard Enthalpy of Bond Association is when 1 mole of a covalent bonds in a gas covalent compound break to form products in it’ s gas state.) | F = ma (Archived) (F = Newtons, m = kg, a = acceleration in 1m/1s^2) | (Desmos Scientific Calculator (Archived)) | E = mc^2 (Archived) (Calculator (Archived))
+Conversion(s): Converting 1 amu to kg takes multiplying amu by 1.67377e-27 (Archived). | 1 mol of something (in chemistry) is 6.02214076e+23 of something (Archived)
+Calculation (Attack Potency):
+Hydrogen mass: (1.008(1.67377(10^-27)))(299792458^2) = x < 1.51634393e-10 J
+Breaking H-H bond: (436002(4))/((6.02214076(10^23))) = 2.89599342e-18 J
+(((0.021)4.186)1000)/((6.02214076(10^23))) = 1.45971347e-22 J
+Result: 1.45971347e-22 J will be chosen as baseline
+Calculation Refined & Fact-Checked?: Yes
+Tier High 4-A Calculations (Cellular Level)
+Notable Facts: | Some Lysis, apoptosis, & Necrosis are ways cells can die. Lysis is when a cell dies from holes in the cell wall, Apoptosis is programmed, necessary cell death by proteins dismantling the nucleus, DNA & cell skeleton to be made easier to be ingested, & Necrosis is an inflammatory response from a cell's bursted contents from it's swelling. | Degenerative diseases can result from too much apoptosis, while cancer can be caused by too little apoptosis. | Cell Membrane Anatomy (). | Membrane Lipids are made of phospholipids & sterols (cholesterol) generally (Archived) | Phospholipids are lipids that make up cell membranes (Archived) | There’s 5e+6 lipid molecules in a 1 μm area of lipid bilayer, & 1e+9 lipid molecules in a plasma membrane of a small animal cell (Archived)
+Ground Rules (Optional): Lipid definition (Archived) | Lipid Bilayer definition (Archived) | Layer def (Archived) | Coating def (Archived) | Cover def (Archived)
+        Units & Values (numbers exclusive to the calculation): SI prefixes (Archived) | (Earth’s gravity on average is 9.8 m/s (pg 3) (Archived)) | J/mol toughness on many lipid vesicle bilayer systems at 15 C (Archived)
+        Conversion(s): kgf to newton conversion is kgf number*9.80665 (pg 63 (pdf pages)) (Archived). | 1 mol of something (in chemistry) is 6.02214076e+23 of something (Archived)
+        Notable Sources:
+Equations & Reliable Calculators: ½*mass*velocity^2 (mass is in kilograms & velocity is in meters per second) (Archived) | Mass formula: m = w/g (Archived) (m is the mass in kg, w = the weight in newtons & g is the gravity in meters per second.) | (Desmos Scientific Calculator (Archived))
+Calculation: Since cells die if there’s holes, I’ll use the results from the amount of lipid bilayers to get the minimum values.
+Minimum: 19 J/mol ->(19/(6.02214076(10^23))) = 6.31004846e-23 J
+Median: ((34+65+106+132+79+86+83+64+57+72+68+91+78+65+102+49+34+19+32+27)/20) J/mol -> 2(((34+65+106+132+79+86+83+64+57+72+68+91+78+65+102+49+34+19+32+27)/20)/(6.02214076(10^23))) = 2.23010397e-22 J
+Max: 132 J/mol ->(132/(6.02214076(10^23))) = 4.38382314e-22 J
+1/(5e+6) = 2e-7 μm (2e-13 m) per lipid molecule in a square area. Using the technical definition of lipid bilayer, coating, cover & layer, I’ll assume 2 lipids = a lipid bilayer & make elimination of over half of the cell membrane as the goal. (((1e+9)/2)/2) = 250000000.
+6.31004846e-23(250000000) = 1.57751211e-14 J
+2.23010397e-22(250000000) = 5.57525993e-14 J
+4.38382314e-22(250000000) = 1.09595578e-13 J
+Result: 5.57525993e-14 J will be accepted, but 10^21 J will be used.
+Note: Due to the complexity, gaps of missing info that can’t be seen on the internet & immense time that was poured into this, the result will suffice at around 10^-21 to 10^-15 J
+Calculation Finished & Reliable?: Maybe to Yes
+
+Tier Low 3-C Calculations (Below Average Human level)
+Notable Facts: | The smallest things that can be seen to the naked eye are (Archived) 0.1 mm (pdf pg 2 (Archived)). | Weight & mass are related (Archived) | SI prefixes (Archived) | Ground Rules (Optional):
+        Units & Values (numbers exclusive to the calculation): | Due to the lack of data & different types of attacks being variable in this tier, 3 insects headbutts & slams will have their kinetic energy durability calculated. (Honeybees do collide with each other accidentally (Archived). Fleas can jump over 100 times their body weight (Archived), Jewelwing Dragonflies have been known to clatter with their wings in the middle of fight for their mate (Archived)) | Honey Bees can fly up to 20 mph, although averages out to be 15 mph () | The average fresh weight of a honey is 128 mg () | Fleas can jump up to 1.9 m/s () | Cat fleas weighed an average of 0.192 mg () | Dragonflies weigh up to 600 mg to 1 g (Archived) | Dragonflies fly 100 body-lengths forward per second & body-lengths backward per second (Archived), Nannophy pygmaea is 15 mm in body length, UK dragonflies are 85 mm long, Demoiselles have a body length of 50 mm (Archived).
+        Conversions: kgf to newton conversion is kgf number*9.80665 (pg 63 (pdf pages)) (Archived) If weight is in kg, then that is the mass of the object because: N = (kg)(9.80665) -> = ((kg)(9.80665))/(9.80665) from w/g = m & kg=N/g -> (m in kg(9.80665))/(9.80665) = (kg) \ | Inch to Centimeter conversion takes multiplying inch(es) by 2.54. (pg 62 (pdf pages)) (Archived) | Converting mph to m/s takes multiplying mph by 4.4704E-1 or 0.44704. (pg 64 (pdf pages)) (Archived)
+        Notable Sources:
+Equations & Reliable Calculators: (Desmos Scientific Calculator (Archived)) | (Kinetic Energy (K. E. = ½*mass*velocity^2) (Archived) | Weight mass relation: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second. | F = ma (Archived) (F = Newtons, m = kg, a = acceleration in 1m/1s^2) (Archived) |  Mass formula: m = w/g (Archived) (m is the mass in kg, w = the weight in newtons & g is the gravity in m/s.)
+Calculation:
+Result: 3.4656e-4 J or 346.56 μJ or 346.56 Microjoules accepted, 300 microjoules (3e-4 J) will be accepted as baseline (Durability).
+Calculation Finished & Reliable?: Yes
+
+Tier 3-C Calculations (Legs & Kicks)(Human Level)
+Notable Facts: | The human legs (among many other muscles in the human body (Archived)) are strong because it’s muscles are strong enough to keep the person standing, walking, running & more leg activities for long periods of time. We’ll use this as a max amount. | Weight & mass are related (Archived) | SI prefixes (Archived) | Ground Rules (Optional):
+        Units & Values (numbers exclusive to the calculation): The average adult can do 1000 pounds force per kick (Archived) | The gravity of Earth is officially declared 980.665 cm/s^2 (pdf pg 58) (Archived) or 9.80665 m/s^2 (Archived) | The average human’s weight: 62 kg (Archived) |  Velocity: 60 mph (Archived) | Entire limb of a leg is 17.555% of the total body weight on average, Thigh is 11.125% of body weight so 17.555-11.125%=6.43% of body weight (the reason why the mass is going to be on the lower leg is because when we kick, the lower leg moves more than the thigh). Leg average length is 25.2% of person’s height on average. Half of the leg’s height will be used. Body Segment Data (Archived) | Heights Internationally: 163.2 cm (Minimum), 182.5 cm (max) (Archived) | Table 1 for PLOS ONE velocity from a study (Archived).
+        Conversion(s): For lbf to be converted to N, multiply lb 4.448222 times (pg 65 (pdf pages)). N = lbf(4.448222) -> N/4.448222 = lbf(4.448222)/4.448222 = N/4.448222 = lbf (Archived) | Converting mph to m/s takes multiplying mph by 4.4704E-1 or 0.44704. (pg 64 (pdf pages)) (Archived) | kgf to newton conversion is kgf number*9.80665 (pg 63 (pdf pages)) (Archived). If weight is in kg, then that is the mass of the object because: N = (kg)(9.80665) -> = ((kg)(9.80665))/(9.80665) = (m(9.80665))/(9.80665) = (kg) = m | A joule = newton*meter (Archived)
+Equations & Reliable Calculators: Desmos Scientific Calculator (Archived) | (Kinetic Energy (K. E. = ½*mass*velocity^2)) (Archived) | The weight mass relation: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second. | F = ma (Archived) (F = Newtons, m = kg, a = acceleration in 1m/1s^2) | This relation of weight & mass can be represented here: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second) | Circumference of a circle = 2(pi)r = (pi)d (d is the diameter of the circle, & r is the radius of the circle) (Archived), I’ll do ⅛ or 3/16 of the potential kick distance since people usually don’t kick all the way up their leg.
+Calculations:
+        (25.2/2)% of human height:
+
+PLOS ONE peak linear velocities (table 1 average values):
+
+Result: Kinetic Energy is 1434.062028, 164.9442683, or 544.651086 J | N*m: (25.2/2)% of human height is 760.8801671 J or 1141.320251 J (middle values from ⅛ & 3/16 result)
+Stomps go up to 1907.161693 J (see stomp calculation for more details)
+Calculation Finished & Reliable?: Yes
+Tier 3-C Calculations (Arms & Punches)(Human Level)
+Units & Values: | The average human can do one tenth of 400 kgf, which is 40 kgf (Archived) | The gravity of Earth is officially declared 980.665 cm/s^2 (pdf pg 58) (Archived) or 9.80665 m/s^2 (Archived) | The average human’s weight: 62 kg (Archived) | The velocity of a punch best made by researchers in a study is 15 mph (Archived)| Heights Internationally: 163.2 cm (Minimum), 173.6 cm (Mid), 182.5 cm (max) (Archived) (2 reasons for picking this are to avoid calc stacking & it has the 1996 heights close to the other heights) | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | Fist is around 3 kg for males & 2 kg for females, theyŕe both within range of being close to 7 m/s (Archived). | Human skull breaks at 14.1 to 68.5 J (Ar)
+Notable Facts: Properties of Equality (Archived)| Weight & mass are related to each other (Archived). | Many other factors than arm mass & velocity play a role in a punch (Archived), but the average human would likely have little to some important combat knowledge, as they typically do overhand right punches (18m48s) (Ar).
+Equation(s): (Desmos Scientific Calculator (Archived (except for the calculator))) | A joule = newton*meter (Archived) | (Kinetic Energy (K. E. = ½*mass*velocity^2) (Archived) | The weight mass relation: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second. | F = ma (Archived) (F = Newtons, m = kg, a = acceleration in 1m/1s^2)  This relation of weight & mass can be represented here: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second) |
+Conversion(s): Converting mph to m/s takes multiplying mph by 4.4704E-1 or 0.44704. (pg 64 (pdf pages)) (Archived) | kgf to newton conversion is kgf number*9.80665 (pg 63 (pdf pages)) (Archived). | For lbf to be converted to N, multiply lb 4.448222 times (pg 65 (pdf pages)). N = lbf(4.448222) -> N/4.448222 = lbf(4.448222)/4.448222 = N/4.448222 = lbf | If weight is in kg, then that is the mass of the object because: N = (kg)(9.80665) -> = ((kg)(9.80665))/(9.80665) from w/g = m & kg=N/g -> (m in kg(9.80665))/(9.80665) = (kg)
+Calculation:
+Punches (Kinetic Energy): The weight of an arm on average is 5.335% of the total body weight (Archived). The body weight of the human is 62 kg. 62*(5.335%) = 3.3077 kg (weight).
+Assuming a jab (which typically isn’t done): (40*9.80665)((0.1725+0.1585)1.736) = 225.4023199 J
+
+Result: A punch by the average human by only the arm of 74.36548327 J (Kinetic Energy) or 17.7737771 Nanotons of TNT will be used. There’s also 49 or 73.5 J for males & females. Borders drawn between 40-100 J
+Calculation Refined & Fact-Checked?: Yez
+Tier High 3-C Calculations (Street Level)
+Units & Values: Kicking speed: 72 mph (Archived) (fastest martial arts kicking speed) | Fastest shot by a football player is 211 kph (Archived)| Theoretical Peak Human Running Speed: 40 mph, 28 mph for Usain Bolt (Archived), | Usain Bolt's weight 94 kg (Archived)) | Fastest punch (Archived) by a boxer is 44-45 mph (Archived) | The average human’s weight: 62 kg (Archived) | The gravity of Earth is officially declared 980.665 cm/s^2 (pdf pg 58) (Archived) or 9.80665 m/s^2 (Archived) | The martial artist can do 9000 N per kick (Archived) | The gravity of Earth is officially declared 980.665 cm/s^2 (pdf pg 58) (Archived) or 9.80665 m/s^2 (Archived) | The average human’s weight: 62 kg (Archived) | Entire limb of a leg is 17.555% of the total body weight on average, Thigh is 11.125% of body weight so 17.555-11.125%=6.43% of body weight (the reason why the mass is going to be on the lower leg is because when we kick, the lower leg moves more than the thigh). Leg average length is 25.2% of person’s height on average. Half of the leg’s height will be used. Body Segment Data (Archived) | Heights Internationally: 163.2 cm (Minimum), 182.5 cm (max) (Archived) | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 ExRx.net : Body Segment Data or 4.184e+9 J (pdf pg 67) (Archived)
+Notable Facts: The human legs (among many other muscles in the human body (Archived)) are strong because it’s muscles are strong enough to keep the person standing, walking, running & more leg activities for long periods of time. We’ll use this as a max amount. | Properties of Equality (Archived) | SI prefixes (Archived)
+Equation(s): K. E. = ½*mass*velocity^2 (Archived) | Weight & mass are related to each other (Archived). This relation can be represented here: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second (Earth’s gravity on average is 9.8 m/s (pg 3) (Archived))) | F = ma (F = Newtons, m = kg, a = acceleration in 1m/1s^2) | Circumference of a circle = 2(pi)r = (pi)d (d is the diameter of the circle, & r is the radius of the circle) (Archived), I’ll do ⅛ or 3/16 of the potential kick distance since people usually don’t kick all the way up their leg.
+Conversion(s): | To convert mph to m/s, multiply the mph number by 4.4704E-1 or 0.44704. (pg 64 (pdf pages)) (Archived) | For kgf to be converted to N, multiply kg 9.80665 times (pg 63 (pdf pages)) | For lbf to be converted to N, multiply lb 4.448222 times (pg 65 (pdf pages)). N = lbf(4.448222) -> N/4.448222 = lbf(4.448222)/4.448222 = N/4.448222 = lbf | If weight is in kg, then that is the mass of the object because: N = (kg)(9.80665) -> = ((kg)(9.80665))/(9.80665) from w/g = m & kg=N/g -> (m in kg(9.80665))/(9.80665) = (kg) | Joules (J) = Newton(s)*meter(s) (Archived) |  km/h to m/s conversion is ((km)/(1hr)) times 0.2777778 or 2.777778*10^-1 (pg 63 (pdf pages)) (Archived)
+
+Calculation:
+Charging Attack if it occured: Usain Bolt’s weight is used due to him having the record for being the fastest person alive as of October 30, 2021 at 4:16 PM (Archived)
+Usain Bolt Charging Kinetic Energy: 7.363879775 KJ
+Martial Artist:
+K. E. ->
+N*m -> (Average Height) -> (Standard Kick)
+Boxer Punches (KE): The weight of an arm on average is 5.335% of the total body weight (Archived). The body weight of the human is 62 kg.
+Boxer attack potency is 669.2893494 J
+Kick of a Football Player with max speed:
+
+Tons of TNT equivalent
+
+Result: 700-7000 J or 167-1670 μgTNT, bordered by human level & wall level (2-15 KJ or 478-3590 μgTNT)|
+Calculation Refined & Fact-Checked?: Yes
+Tier Low 3-B Calculations (Wall level)
+Units & Values: The gravity of Earth is officially declared 980.665 cm/s^2 (pdf pg 58) (Archived) or 9.80665 m/s^2 (Archived) | Ounce (US)(Weight) = International Avoirdupois Ounce = 28.349523125 grams or 0.028349523125 kg, 16 Ounces = 1 lb (Archived) | 1 grain or gr = 0.0648 grams or 0.0000648 kg in metric units (Archived) | M33 .50 BMG bullets weigh 661 grains or 1.5 ounces. M33 rounds can go 2750 fps (Archived) | One .50 BMG bullet weighs 750 gr & has a muzzle velocity of 2820 fps (Archived). | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived)
+Notable Facts: Barrett M82 is Anti-Material (Archived) | Barrett M82 can shoot .50 BMG bullets (Archived) | SI prefixes (Archived) | Materiel definition (Archived)
+        (Optional Area, note that the sources here are referential & may not be reliable.) Where I got the ideas from: https://vsbattles.fandom.com/wiki/User_blog:ThePerpetual/Defining_Tiers:_Street,_Athlete,_and_Wall_levels (The user mentioned having Wall Level’s borders situated on par with an anti-material weapon.) (Archived) | https://en.wikipedia.org/wiki/Anti-materiel_rifle (Archived) | https://en.wikipedia.org/wiki/.50_BMG (Archived)
+Equation(s): K. E. = ½*mass*velocity^2 (mass is in kg & velocity is in m/s) (Archived) | Desmos Scientific Calculator (Archived) | The relation of weight & mass (Archived) can be represented here: w = mg (w = weight in Newtons, m = mass in kg & g = gravity of the object in 1 meter per second
+Conversion(s): Converting fps to m/s takes multiplying fps by 3.048e-1 or 0.3048 (pdf pg 61) (Archived)
+Calculation:
+
+Result: 14.93833981-15.04671804 KJ or 3.5703489 - 3.59625192 mgTNT minimum, 17.95289189 KJ (15 KJ or 3.59 mgTNT value will be used)
+Calculation Refined & Fact-Checked?: Yes
+
+Tier 3-B Calculations (Building Level)
+Units & Values: Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | 1 kiloton = 10^12 calories (pdf pg 12). It’s likely that they’re referring to calorieth or calth10 in pdf pg 59 of this source (Archived) since (10^12)*1 calth10 = 4.184*(10^12) = a kiloton of TNT. | Minimum Dimensions for each of the rooms of a house: 4200 mm x 4800 mm, 3000 mm by 3600 mm, 3600 mm by 4200 mm, 2500 mm by 3900 mm, 1800 by 1800 mm, & 3000 mm by 3600 mm (Archived) | The smallest room is 25 ft^2 (Ar), though Hong Kong’s 15 ft^2 cubicles (Ar) & 1 sq m (Ar) home are smaller |, so 1 by 1 m is 1000 mm^2. | 1 ft = 12 in (Archived) | Minimum Ceiling Height is 6 ft 6 in (Archived).
+Notable Facts: The definitions of building including a structure built for human habitation & a closed structure with walls and a roof will be used (Archived). | Explosive charge is the amount of an explosive to be set off at 1 time (Archived). | SI prefixes (Archived) | When it comes to destruction, we mean the entire destruction/running of a thing. (Definition 1 of destroy from this link (Archived)) Destroying most of the building = ruining it. | TNT equivalent based method is used to measure the energy of explosions (Archived) | Properties of Equality (Archived)
+Equation(s): Blast Damage Estimation (Archived) | https://www.desmos.com/scientific (Archived) | Hypotenuse^2 = Base^2 + Perpendicular^2, so H = sqrt(B^2 + P^2) (Archived) | sin^-1 (O/H) = 0 (Archived) | (a/(sin(A))) = (b/(sin(B))) = (c/(sin(C))) (Law of Sines) (Archived)
+Conversion(s): Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived))
+Calculation:
+(5.32(10^-3))(4.184(10^9)) = 22258880 J
+Result: 22.25888 MJ or 5.32 kg of TNT minimum.
+Notes: The goal radiuses are rounded (Archived) up to the hundredth due to rounding down not completely destroying the house & being the limited digit of the UN safeguard calculator.
+Calculation Refined & Fact-Checked?: Yes
+
+Tier High 3-B Calculations (City Block Level)
+Units & Values: The smallest city block was 38 ft long & 27 ft wide (Arch-ived). | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | 1 kiloton = 10^12 calories (pdf pg 12). It’s likely that they’re referring to calorieth or calth10 in pdf pg 59 of this source (Archived) since (10^12)*1 calth10 = 4.184*(10^12) = a kiloton of TNT. This agreement was done to avoid ambiguity. | SI prefixes (Archived) | 1 standard block is 315 ft long (Ar) | An average US nuke yields 200 kilo tons of TNT (Ar)
+Notable Facts: Explosive charge is the amount of an explosive to be set off at 1 time (Archived). | Metric tons & tonnes are accepted in the SI system of units (pdf pg 101 - 102 for more info) (Archived). | A city block is a rectangular area in a city that has buildings & is bordered by streets (Archived), meaning that the entire rectangular area of buildings must be destroyed. | When it comes to destruction, we mean the entire destruction/running of a thing. Definition 1 of destroy from this link (Archived) will be used to define destroying a city block. | TNT equivalent based method is used to measure the energy of explosions (Archived) | The sum of all degrees of a triangle = 180 degrees (Archived). | Properties of Equality (Archived)
+Equation(s): Nuclear weapons blast effects calculator (Archived) | Blast Damage Estimation (Archived) | https://www.desmos.com/scientific (Archived) | Rectangle Area: length*breadth, Square Area is (Side)^2 ; the results are squared. (Archived) | Hypotenuse^2 = Base^2 + Perpendicular^2 (Archived), so sqrt(Base^2 + Perpendicular^2) = hypotenuse | Circle area = (pi)r^2 (Ar), -> sqrt(A/(pi)) = r
+Conversion(s): Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived))
+Calculations: (315(0.3048))^2 = 9218.304144, sqrt(9218.304144/(pi)) = 54.1689703 m or 54.17 (goal radius) or 0.06 km1.2296(4.184(10^9)) = 5.1446464E+9 J
+Result: 5.1446464 GJ or 1.2296 tTNT to entirely destroy/ruin all (brick) buildings in a city block.
+Notes: These calculations are assuming the blast is from the center of a square city block, which is supposed to be rectangular. The goal radiuses are rounded (Archived) up to the hundredth due to rounding down not completely destroying the house & being the limited digit of the UN safeguard calculator. The Blast Damage Estimation calculator’s results are in TNT
+Calculation Refined & Fact-Checked?: Yes
+
+Tier Low 3-A to 3-A Calculations (Low Country level (City level is merged with this area))
+Units & Values: The smallest country in the world by area is the Vatican City, it’s 0.17 square miles in area. (Archived) or it’s 0.44 km^2 (Archived) in area. | A ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | The Degree of Urbanization identifies a city of a population of at least 50 K inhabitants in continous, dense grids, having 1.5 thosuand inhabitants per km^2 (Ar) | An average US nuke yields 200 kilo tons of TNT, based off of this, 15000 warheads means 3 billion tTNT (Ar) | There’s 195 countries as of 2023 () & Earth has a total land area of 148.94 million km^2 ()
+Notable Facts: When it comes to destruction, we mean the entire destruction/ruining of a thing. Definition 1 of destroy from this link (Archived) | The definition of city in this context means a large, important town having a center of population, culture & commerce (Archived). This means that the entire area of the large town must be destroyed. | TNT equivalent based method is used to measure the energy of explosions (Archived) | SI prefixes (Archived) | Properties of Equality (Archived) | The most right digit in the calculators should round up 1 digit after the place of the goal radius's place if it doesn’t extend far into the right numbers of the goal radius (example: 0.220 km -> 0.3 km) | City-states are countries (Archived)
+Equation(s): Blast Damage Estimation (Archived)| (Desmos Scientific Calculator (Archived)) | (Circle Radius Formula is sqrt(Area/pi) (Archived)) | Nuclear weapons blast effects calculator (Archived)
+Conversion(s): Metric Tons (US tons) can be converted to kg by multiplying the tons by 1e+3 or 1000 (pdf pg 67) (Archived). | sq mi -> sq m = (sq mi)(2.589988E+6) (pdf pg 67 (Archived)) | A km^2 = 1,000,000 m^2 ()
+Calculation(s): sqrt((50000/1500)/(pi)) = sqrt(10610329.54 m^2) or sqrt(10.61032954 km^2) =  3257.36 m or 3.3 km (goal radius) (Low 3-A), sqrt(((1.4894*10^8)/195)/(pi)) = sqrt(243123.4587) = 493.0755101 km or 493.1 km or 493,075.52 m
+96566(4.184(10^9)) = 4.04032144e+14 J, 196000(4.184(10^9)) = 8.20064e+14 J. Since Blast Damage Estimation gave me a low-end value, I’ll use it for country level too. 334939770000(4.184(10^9)) = 1.401388*10^21 J
+Result: 4.04032144e+14 - 8.20064e+14 J or 96.566 - 196 Kilotons of TNT for City Level, 1.401388e+21 J or 3.3493977e+11 tTNT for Country Level (Used)
+Calculation Refined & Fact-Checked?: Yes
+
+Tier High 3-A Calculations (Continental Level)
+Notable Facts: When it comes to destruction, we mean the entire destruction/ruining of a thing. Definition 1 of destroy from this link (Archived) | SI prefixes (Archived) | Ground Rules (Optional): Use a legit definition/number of continents.
+        Units & Values (numbers exclusive to the calculation): The definition of continents varies, giving variable numbers of 5, 6, 7, or 8 continents (Archived) | Australia is the smallest continent in land area, having 7,686,884 km^2 (Archived) | 1 Foe = 10e+51 erg (Archived)/10e+44 J (1 erg=1e^-7 (pdf pg 70 (Archived))
+        Conversions: Metric Tons (US tons) can be converted to kg by multiplying the tons by 1e+3 or 1000 (pdf pg 67) (Archived).
+        Notable Sources: 148.94 million km^2 or 29.1% of the Earth's surface area is land (Archived). | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | Calculating the mean (Archived)
+Equations & Reliable Calculators: Blast Damage Estimation (Archived)| Desmos Scientific Calculator (Archived) | (Circle Radius Formula (Archived)) sqrt((Area)/pi) | Square Area is (Side)^2 (Archived) | Nuclear weapons blast effects calculator (Archived)
+Calculation: sqrt(((1.4894*10^8)/8)/(pi)) = sqrt(5926134.306) = 2434.365278 km or 2,434,365.28 m (goal radius)(40307313000000)(4.184(10^9)) = 1.68645798e+23 J
+Result:  (1.68645798e+23 J is Used),
+Calculation Finished & Reliable?: Yes
+
+Tiers Low 2-C to High 3-C Calculation Notes
+Vs Battles Wiki’s reputation on calculations are mid to high. Most calculations I’ve seen are decent & legit. The community is great so far in my current experience.
+Long story short, I’ll use this page (Archived) that Vs Battles uses for it’s Planetary to Universal tiers as a reference point. Notable concepts: Inverse Square Law (Archived) (I ∝ 1/(d^2); or I = S/4(pi)(r^2) (I is the Radiation Intensity in Candela or Lumen, S is the source, while d is the distance in meters) (Archived)) | Gravitational Binding Energy (GBE) (Archived) is the amount of energy it would take to disperse an entity from it’s gravitationally bound state. The equation that I can get reliably (Archived) is this:
+U = (3GM^2)/(5R)
+In this previously mentioned equation, U = GBE in Joules, M = the mass of the body in kg, R = the radius of the body in meters & G = the gravitational constant of 6.67430e-11 m^2 kg^-1 s^2 (Archived). Wikipedia & Vs Battles wiki notably shows the image version of this equation, also Vs Battles states that the equation is different with stars:
+|Ω| = (3/(5-n))((G(M^2))/R) (Archived) Or U = ((3GM^2)/(r(5-n))).
+In this previously mentioned equation, G & M stays the same as the one in the last equation, but r is the radius in meters, & n is the polytropic value  ((pdf pg 1) Archived) characterized by the type of star. Calculator (Archived)
+Based off of these facts & the fact that it’s been said that destroying things from a distance & even causing an omnidirectional blast is (common) in fiction, the Tier 4 Revisions Round 2 thread got this equation from Calc Group member Executor N0:
+E = 4*U*(Er/Tr)^2 (E = energy in joules, U = GBE in joules, Er = explosion radius in meters (radius that would destroy the area in question), & Tr is the target radius (outer space body’s radius) in meters. (Archived)) (Archived)
+My own custom equations (scrapped due to inflating results): E*(1/d^2) = GBE, so GBE/(1/d^2) = E, (OB) = S/(4(pi)(r^2)) or (OB)(4(pi)(r^2) = S
+Note: Links here that haven’t directly been shown to have been archived here are on the Wayback machine, Archive.vn, &/or Ghostarchive.org but haven’t been shown here due to the fact that standards like that of a wiki change with time. The omnidirectional blast/distance calculations are calculated exclusively to index fiction & not to be taken absolutely seriously for real world calculations.
+Tier Low 2-C to Low 2-B Calculations
+Notable Facts: | Notes | SI prefixes (Archived) | As dwarf planets are a category of planets (Ar), the smallest dwarf planet in the solar systerm (Ceres) will be used | Smallest Exoplanet around an Earth-like Sun (Archived) radius (Archived): (Kepler-37b) | Exoplanet definition (Ar) | Ground Rules (Optional):  (Note: as much as it is an argument against having GQ Lupi B, it’s in the boundary between a brown dwarf (star) & a planet (Archived). This detail suggests it should be a cap upper limit & upper border for this tier). Definition of planet (Ar) | Using the definitions of size (Archived) & large (Archived) of what’s biggest & smallest, the borders of this tier will be determined by size. | MvJ = Jupiter Mass (Archived) | The smallest moon in the solar system is Deimos (Ar) | Mercury is the smallest planet in the solar system () & Neptune is the smallest gas giant in the solar system ()
+        Units & Values (numbers exclusive to the calculation): (Kepler-37b): 0.296 * (6.371 Mm (Archived) (Volumetric mean radius)), mass (Archived): 3.1783 M⊕*(5.9724e24 kg (Archived)) |  G = 6.67430e-11 m^2 kg^-1 s^2 (Archived) | Largest exoplanet (Archived) found (GQ Lupi B): GQ Lupi B radius: 3.5 + 1.5 or - 1.03 (Archived)*(69.911 Mm (Archived) (Volumetric mean radius)); GQ Lupi B mass: 25 + 11 or -15 (Archived)*(1.89819e27 kg (Archived)) | Jupiter's mass = 1898.13 Ykg (Archived) | The speed of light, which is 299,792,458 m/s (Archived) | Deimos: 1.8*10^15 kg in mass (), 15 by 12 by 11 km in size (Ar) | Ceres: 9.1*10^20 kg in mass (), 476 km in radius () |Mercury: 3.301*10^23 kg in mass & 2439.7 km in volumetric mean radius (Ar) |  Neptune: 102.409*10^24 kg in mass, 24622 km in volumetric mean radius ()
+        Conversions: | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | 1 Foe = 10e+51 erg (Archived)/10e+44 J (1 erg=1e^-7 (pdf pg 70 (Archived))
+        Notable Sources: Earth Fact Sheet (Archived)
+Equations & Reliable Calculators: U = (3GM^2)/(5R) (Archived) (U is the Gravitational Binding Energy (GBE), M=Mass of body, & R is the radius of body) | Desmos Scientific Calculator (Archived) | E = MC^2 (Archived) (calculator (Archived))
+Calculation:
+Deimos: ((3(6.67430(10^-11))((1.8(10^15)))^2))/(((((15+12+11)/3)(10^3)))5) = 1.02432941e+16
+Ceres: ((3(6.67430(10^-11))((9.1(10^20)))^2))/(((4.76(10^5)))5) = 6.96679138e+25
+Mercury: ((3(6.67430(10^-11))((3.301(10^23)))^2))/(((2.4397(10^6)))5) = 1.78859329e+30
+Neptune: ((3(6.67430(10^-11))((102.409(10^24)))^2))/(((2.4622(10^7)))5) = 1.70572847e+34
+GQ Lupi B Middle Value: ((3(6.67430(10^-11))((25(1.89819(10^27))))^2))/(((3.5)(69.911(10^6)))5) = 3.68555414e+38
+Result: 6.96679138e+25 J is Low 2-C | 1.78859329e+30 J is 2-C | 1.70572847e+34 - 3.68555414e+38 J is 2-C
+The GBE of Jupiter is is 3e+36 J (pdf pg 8 (Archived)) (Author (Archived))
+Calculation Finished & Reliable?: Yes
+Tier 2-B to High 2-B Calculations
+Notable Facts: Notes | SI prefixes (Archived) | Polytrope definition ((pdf pg 1) Archived) | M⊙ = Solar Mass (The mass of the Sun) (Archived) | R⊙ = Solar Radius (Archived) (The radius of the Sun (Archived)) | The mass of the Sun is 1,988,500 Ykg & it’s radius is 695.7 Mm (Archived) (Extra source (Archived)) | Globular Cluster definition (Archived) | Ground Rules (Optional): be realistic with this calculation. Radius/radii will determine the size of the star, use a star that’s 1500 R⊙ or 1500 solar radius. The polytropic value of the sun should be over 1.5 (Archived) & under 5 since the radius is finite (Archived) when a polytropic value of 5 indicates an infinite radius ((pdf pg 2) Archived). Solar System definition includes anything orbiting the sun (Archived) | Red Dwarfs are the most common stars in the Universe ()
+        Units & Values (numbers exclusive to the calculation): G =  6.67430e-11 m^2 kg^-1 s^2 (Archived) | GBE of a Globular Cluster like ones in Andromeda is 10e+51 ergs or 1 Foe (Archived) | There's an average distance between stars in our galaxy (The Milky Way) is 5-10 ly if evenly distributed (Archived) | Farthest Object in the solar system is 2018 VG18, being 120 AU (Archived) | Red Dwarfs are 0.08-0.5 M & a few 1/10 of the sun’s diameter (or 1/20th of the sun’s radius), & 2500 - 4000 K in surface temperature) ()
+        Conversions: | 1 Foe = 10e+51 erg (Archived)/10e+44 J (1 erg=1e^-7 (pdf pg 70 (Archived)) | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | 1 light year (ly) = 9.46073*10^15 meters (m) (pdf pg 65 (Archived)) | 1 Astronomical Unit (AU) is 1.495979e+11 meters (m) (pdf pg 57 (Archived))
+Equations & Reliable Calculators: |Ω| = (3/(5-n))((G(M^2))/R) (Archived) Or U = ((3GM^2)/(r(5-n))) | U = (3GM^2)/(5R) (Archived) | Desmos Scientific Calculator (Archived) | (Archived) (calculator (Archived)) | E = 4*U*((Er/Tr)^2 (Archived) (E = energy in joules, U = GBE in joules, Er = explosion radius (distance from target/radius of explosion), & Tr is the target radius (outer space body’s radius) in meters (Archived), Y = the yield in megatons, R is the radius) (Archived)(Archived)
+Calculation: ((3(6.67430(10^-11))((1988500(10^24)))^2)/((695.7(10^6))(5-1.5))) = 3.25153267e+41 J,
+4(3.25153267(10^41))(((((7.5(9.46073(10^15)))/2)/(120(1.495979(10^11)))))^2) = 5.07979819e+48 J For a solar system.
+Result: 2.16499851e+50 J | 3.3823297e+57 J | 5.07979819e+48 J (Used)
+Calculation Finished & Reliable?: Yes
+Tier 2-A Calculations (Galactic Level)
+Notable Facts: | Notes | Galaxies are held together by gravity (Archived) | SI prefixes (Archived) | Elliptical galaxies are the most common galaxies observed (Archived) | Ground Rules (Optional): Galactic events at this scale has either galaxies merging into each other, or galactic phenomena destroying said galaxies. Fiction does use an omnidirectional blast from what I've heard. Galaxies have lower gravitational binding energy than clusters (Archived)
+        Units & Values (numbers exclusive to the calculation): Smallest galaxy (Archived) mass: 10^11 M⊙ Radius: (1500/2 or 300000/2 ly (Archived))  (If you see the source that has the smallest galaxy besides wordnik’s definition (Archived), tell me about it, including the source.) | Radius: 91.58/2 kpc (Archived) (credits to this source (Archived) for the hint) | Milky Way Radius: 292 +/- 61 kpc (Archived) (pg 12 (Archived)) | Milky Way’s thick disk height: 1.35 kpc (Archived) | 6.67430e-11 m^2 kg^-1 s^2 (Archived) | M⊙ = Solar Mass (The mass of the Sun) (Archived) | R⊙ = Solar Radius (Archived) (The radius of the Sun (Archived)) | The mass of the Sun is 1,988,500 Ykg & it’s radius is 695.7 Mm (Archived) (Extra source (Archived)) | The GBE for a galaxy/supermassive black hole like the Milky Way's is 10 Foe (10e+61 erg) (Archived) | The GBE of a typical galaxy is 2e+53 J or 2e+9 Foe (pdf pg 8 (Archived)) (Author (Archived)) | The average distance of each galaxy in a galaxy cluster is a million light years (Archived). | Elliptical galaxies can be 3 to >7000 thousand ly in diameter, I’ll do (3+7000)/2 = 3501.5 to get a middle value (Archived)
+        Conversions: (1 Foe = 10e+51 erg (Archived) or 10e+44 J (1 erg=1e^-7 J (pdf pg 70 (Archived))) | 1 parsec = 3.085678*10^16 meters (pdf pg 65 (Archived)) | 1 light year (ly) = 9.46073*10^15 meters (m) (pdf pg 65 (Archived)) | A 365 day year = 3.1536*10^7 seconds (pdf pg 68 (Archived)) | km/h to m/s conversion is ((km)/(1hr)) times 0.2777778 or 2.777778*10^-1 (pg 63 (pdf pages)) (Archived) | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived)
+Equations & Reliable Calculators: r = d/2 (Archived) | U = (3GM^2)/(5R) (Archived) (U is the Gravitational Binding Energy (GBE), M=Mass of body, & R is the radius of body) | Desmos Scientific Calculator (Archived) | E = 4*U*((Er/Tr)^2 (Archived) (E = energy in joules, U = GBE in joules, Er = explosion radius (distance from target/radius of explosion), & Tr is the target radius (outer space body’s radius) in meters (Archived), Y = the yield in megatons, R is the radius) (Archived)(Archived)
+Calculation:
+Low end galaxy diameter value: 4(2(10^53))(((((10^6)(9.46073(10^15)))/2)/(((3)(9.46073(10^15)))/2))^2) = 8.88888889e+64 J
+Mid galaxy diameter value: 4(2(10^53))(((((10^6)(9.46073(10^15)))/2)/(((3501.5)(9.46073(10^15)))/2))^2) = 6.52501817e+58 J
+Low end galaxy diameter value: 4(2(10^53))(((((10^6)(9.46073(10^15)))/2)/(((7000)(9.46073(10^15)))/2))^2) = 1.63265306e+58 J
+Result: 1.63265306e+58 J (Accepted)
+Calculation Finished & Reliable?: Yes
+Tier High 2-A Calculations (Galactic Level+)
+Notable Facts: SI prefixes (Archived) | Notes | 1 Googol = 10^100 (Archived) | Elliptical galaxies are the most common galaxies observed (Archived) Ground Rules (Optional): Supercluster (Archived)
+        Units & Values (numbers exclusive to the calculation): The GBE of a typical galaxy is 2e+53 J or 2e+9 Foe (pdf pg 8 (Archived)) (Author (Archived)) | There’s 10s of galaxies in a galaxy group cluster (Archived) | The average distance of each galaxy in a galaxy cluster is 1 million light years (Archived). | Rough Local Group Radius is 3e+22 meters (pdf pg 4 (Archived)) | The typical GBE of a cluster of Galaxies is 5e+57 J (pdf pg 8 (Archived)), or 5e+13 Foe. (Author (Archived)) (Used) | Average cluster distance is 10s of millions of ly, so 2*10^7 ly at a bare minmum (Ar) | Typical regular cluster size is 1-10 Mpc (5.5 Mpc is the median value that will be used here) (Archived) | Elliptical galaxies can be 3 to >7000 thousand ly in diameter, I’ll do (3+7000)/2 = 3501.5 to get a middle value (Archived) | The mass of the Sun is 1,988,500 Ykg & it’s radius is 695.7 Mm (Archived) (Extra source (Archived)) | GBE of Sun = 3.25153267e+41 J, along with the dimensions of the solar system
+        Conversions: | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | 1 light year (ly) = 9.46073*10^15 meters (m) (pdf pg 65 (Archived)) | 1 parsec = 3.085678*10^16 meters (pdf pg 65 (Archived))
+Equations & Reliable Calculators: | Desmos Scientific Calculator (Archived) | E = 4*U*((Er/Tr)^2 (Archived) (E = energy in joules, U = GBE in joules, Er = explosion radius (distance from target/radius of explosion), & Tr is the target radius (outer space body’s radius) in meters (Archived), Y = the yield in megatons, R is the radius) (Archived)(Archived)
+Calculation: 4(5(10^57))((((2(9.46073(10^15)(10^7)))/2)/(((5.5(10^6))(3.085678(10^16)))))^2) = 6.21516561e+57 J (Galaxy Cluster-busting)
+Result: 6.21516561e+57 J (Accepted)
+Calculation Finished & Reliable?: Yes
+Tier Low 1-C Calculations
+Notable Facts: | Notes | 1 Googol = 10^100 (Archived) | The big bang created all the matter & energy there is in the universe (Archived) | It's been suggested that the total net energy of the universe is 0 (Archived) (Another source (Archived)) | There's many sources suggesting that humans don't have certain data (Archived) on the observable universe's size (Archived), only educated guesses on weather or not it's finite or infinite (Archived). | Ground Rules (Optional): Make an Omnidirectional Blast that would destroy all galaxy clusters in the observable universe.
+        Units & Values (numbers exclusive to the calculation): Observable universe’s diameter: 93 Gly (Archived) | The typical GBE of a cluster of Galaxies is 5e+57 J (pdf pg 8 (Archived)), or 5e+13 Foe. (Author (Archived)) (Used) | Typical regular cluster size is 1-10 Mpc (5.5 Mpc is the median value that will be used here) (Archived)
+        Conversions: | Metric Tons & Tonnes are worth 1000 or 1e+3 kg, a ton of TNT converted into Joules is worth 4,184,000,000 or 4.184e+9 J (pdf pg 67) (Archived) | 1 light year (ly) = 9.46073*10^15 meters (m) (pdf pg 65 (Archived)) | 1 parsec = 3.085678*10^16 meters (pdf pg 65 (Archived))
+Equations & Reliable Calculators: | Desmos Scientific Calculator (Archived) | E = 4*U*((Er/Tr)^2 (Archived) (E = energy in joules, U = GBE in joules, Er = explosion radius (distance from target/radius of explosion), & Tr is the target radius (outer space body’s radius) in meters (Archived), Y = the yield in megatons, R is the radius) (Archived)(Archived)
+Calculation: 4(5(10^57))(((((93)(10^9))(9.46073(10^15)))/(((5.5(10^6))(3.085678(10^16)))/2))^2) = 2.15019869e+66 J
+Result: 2.15019869e+66 J (Accepted)
+Calculation Finished & Reliable?: Yes
+
+Baselines for each tier
+Notable Facts: SI prefixes (Archived) | Based off of Vs Battles’  baselines from ((lowest value) + (highest value))/2 | Ground Rules (Optional):
+        Units & Values (numbers exclusive to the calculation): (Link)
+        Conversions:
+Equations & Reliable Calculators: ((lowest value) + (highest value))/2 | Desmos Scientific Calculator (Archived)
+Calculation & Result: Low Hypoversal level - High Hypoversal level: 0+0/2 = 0 J | Fundamental level: (0+(1.459713*10^-22))/2 = 72.98565 yJ (7.298565e-23 J) | Molecular level: ((1.459713*10^-22)+(1*10^-21))/2 = 572.98565 yJ (5.7298565e-22 J) | Cellular level: ((1*10^-21)+(3*10^-4))/2 = 150 μJ (1.5e-4 J) | Below Average Human: ((3*10^-4)+40)/2 = 20.00015 J (2.000015e+1 J) | Average Human level: (40+100)/2 = 70 J (7e+1 J) | Athletic level: (100+300)/2 = 200 J (2e+2 J) | Street level: (300+15000)/2 = 7650 J (7.65e+3 J) | Wall level: (1.5e+4 + 1.33888e+7)/2 = 6701900 J (6.7019e+6 J) | Country level: | Continental level: | Planetary level: | Stellar level: | Interstellar level: | Galactic level: | High Galactic level: | Low Multiversal:
+Calculation Finished & Reliable?: No
+
+Speed Calculations
+Average Human Running Speed
+Units & Values: 5 - 5.9 mph average human running speed (Archived), 12-15 mph in short bursts (Archived)
+Notable Facts: 1 ft = 12 in, 36 in = 3 ft = 1 yd, 1 mi = 5280 ft = 1760 yd = 63,360 in (Archived) | 1 point/pt = 1/72 in, 1 pica/pc = 1/12 in (Archived)
+Equation(s): See Conversions & Calculation segment for equations. | Desmos Scientific Calculator (Archived
+Conversion(s): Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived)); m to ft is m/0.3048
+Calculation: 5(0.44704) = 2.2352 m/s, (2.2352/0.3048)/3 = 2.444444444 yd/s. | 15(0.44704) = 6.7056 m/s, (6.7056/0.3048)/3 = 7.333333333 yd/s
+Result: 2.2352 - 6.7056 m/s or 5 - 15 mph or 2.444444 - 7.333333 yd/s
+Calculation Refined & Fact-Checked?: Yes
+Peak Human Running Speed
+Units & Values: 11.15s qualification in 100 m (Archived). | 28 or 40 mph (Archived) | 1 ft = 12 in, 36 in = 3 ft = 1 yd, 1 mi = 5280 ft = 1760 yd = 63,360 in (Archived) | Bolt’s max speed is 12.34 m/s (pdf pg 8), though he ran 100 m in 9.58 s (Archived) | Hunter-gatherers could run 23 mph/37 kph - 45 kph (Archived)
+Notable Facts: Time in seconds is usually measured in a sprint (Archived) | Properties of Equality (Archived) | fps = feet per second (Archived)
+Equation(s): See Conversions & Calculation segment for equations. | Desmos Scientific Calculator (Archived
+Conversion(s): Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived)); m to ft is m/0.3048 | To convert mph to m/s, multiply the mph number by 4.4704E-1 or 0.44704. (pg 64 (pdf pages)) (Archived). ((mph)0.44704)/0.44704 = (m/s)/0.44704 -> mph = (m/s)/0.44704 | km/h -> m/s conversion is (km/h)0.2777778 (pdf pg 63 (Archived))
+Calculation: 100/11.15 = 8.968609865 m/s, 8.968609865/0.44704 = 20.0622089 mph, (8.968609865/0.3048 = 29.42457305 fps)/3 =  9.808191017 yd/s | (Usain Bolt) 12.34/0.44704 = 27.60379384 mph, (12.34/0.3048 = 40.4855643 fps)/3 = 13.4951881 yd/s. 100/9.58 = 10.43841336 m/s, (10.43841336/0.3048)/3 = 11.41558766 yd/s, 10.43841336/(0.44704) = 23.35006568 mph | 37(0.2777778) = 10.2777786 m/s, (10.2777786/0.3048)/3 = 11.23991535 yd/s, 10.2777786/0.44704 = 22.99073595 mph. 45(0.2777778) = 12.500001 m/s, (12.500001/0.3048)/3 = 13.67016732 yd/s, 12.500001/0.44704 = 27.96170589 mph
+Result: 8.96861-12.500001 m/s or 20.06221 - 27.96170589 mph or 9.808191017 - 13.67016732 yd/s. | 10.2777786 - 12.500001 m/s & 11.23991535 - 13.67016732 yd/s will be accepted.
+Calculation Refined & Fact-Checked?: Yes
+
+Range Calculations
+Melee
+I’ll be focusing on the arms & legs, since they’re the limbs that will often be used in a melee (Archived) fight. | Source (Archived) | Average lengths - arm (Upper Arm + Forearm + Hand): 17.2% + 15.7% + 5.75% = 38.65% of male height, 17.3+16+5.75=39.05% of female height. Leg: 24.7% of the average male’s height. 25.7% of female’s height on average | Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived)) | Male height average: 5 ft 7.5 in, female height average: 5 ft 2 in (Ar) | Desmos Scientific Calculator (Archived
+Calculation:
+Arm: 0.3048(0.3865(5+(7.5/12))) = 0.66265425 m, 0.3048(0.3905(5+(2/12))) = 0.6149594 m
+Leg: 0.3048(0.247(5+(7.5/12))) = 0.4234815 m, 0.3048(0.257(5+(2/12))) = 0.4047236 m
+Result: 40.47-66.27 cm
+Calculation Refined & Fact-Checked?: No
+Extended Melee
+Basically, this section will use the same values on the arm on the previous calculation minus the hand, but adding the length of the largest sword (Archived) thought about long weapons, & chose largest sword over longest spear for length, & reliability reasons). | Source (Archived) | Average lengths - arm (Upper Arm + Forearm + Hand): 17.2% + 15.7% + 5.75% = 38.65% of male height, 17.3+16+5.75=39.05% of female height. Leg: 24.7% of the average male’s height. 25.7% of female’s height on average | Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived)) | Male height average: 5 ft 7.5 in, female height average: 5 ft 2 in (Ar) | Largest Sword Length: 14.93 m (Archived) | Tallest person is 8 ft 11 in tall, through the upper limit is likely 9 ft tall (Ar) | Desmos Scientific Calculator (Archived)
+Calculation:
+Minimum: 0.3048(0.3865(8+(11/12))) = 1.0504297 m
+Max: 0.3048((0.3865-0.0575)(5+(7.5/12))) + 14.93 = 15.4940705 m
+Result: 1.05 - 15.49 m
+Calculation Refined & Fact-Checked?: Yes
+Building sized
+Average size of a US house is 2500 square feet (Ar) | Desmos Scientific Calculator (Archived) | Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived))
+Calculation: sqrt(2690) = 50 ft, 50(0.3048) = 15.24 m, 0.9(15.24) = 13.716 m
+Calc most reliable?: Yes
+
+The Rest of Tier 3
+Units & Values: The smallest city block was 38 ft long & 27 ft wide (Arch-ived). | Sweden minimum population for an urban area is 200 people (Ar) & has a population density of 25 people per Km^2 (Ar). | The smallest country in the world by area is the Vatican City, it’s 0.17 square miles in area. (Archived) or it’s 0.44 km^2 (Archived) in area. | A typical American city has 321,773 people & 161 people per square mile (Archived) | Area of square = side*side or side^2 (Archived) | mile -> m conversion is (mi)1609.344 (pdf pg 64 (Ar)) | Desmos Scientific Calculator (Archived) | The definition of continents varies, giving variable numbers of 5, 6, 7, or 8 continents (Archived) | Australia is the smallest continent in land area, having 7,686,884 km^2 (Archived) | All continents collectively have 148 million km^2 (Ar) | Asia is 44579000 km^2 ().
+Notable Facts: N/A
+Equation(s):
+Conversion(s): Converting feet to meters takes multiplying feet by 3.048e-1 or 0.3048. (pdf pg 61 (Archived))
+Calculation:
+City Block Level: 38 by 27 ft -> 11.5824 by 8.2296 meters, it overlaps with other range tiers
+City Level: sqrt(440) = 20.97617696 m, sqrt((200/25)) = 2.828427125 mi so 1609.344(2.828427125) = 4551.912223 m, sqrt(321773/161) = 44.70559319 so 1609.344(44.70559319) = 71946.67817 m,
+Continental Level: sqrt(7686884000) = 87.67487668 km, sqrt(148*10^11) = 384707.6812, 384707.6812/8 = 48.08846015 km, sqrt(44579000000) = 211137.396 m
+Result: City Block Level is 11.5824 by 8.2296 meters in length, City Level is 20.97617696 - 71946.67817 m in length, continental level is 48.08846015 - 211.137396 km.
+Calculation Refined & Fact-Checked?: Yes
+Tier 2
+0.296 * (6.371 Mm (Archived) (Volumetric mean radius)), mass (Archived): 3.1783 M⊕*(5.9724e24 kg (Archived)), Smallest Exoplanet around an Earth-like Sun (Archived) radius (Archived): (Kepler-37b) | Mercury is the closest planet to Earth (Ar), is on average 77 million km from Earth (Ar) | Largest exoplanet (Archived) found (GQ Lupi B): GQ Lupi B radius: 3.5 + 1.5 or - 1.03 (Archived)*(69.911 Mm (Archived) (Volumetric mean radius)) (Note: as much as it is an argument against having GQ Lupi B, it’s in the boundary between a brown dwarf (star) & a planet (Archived). This detail suggests it should be a cap upper limit & upper border for this range tier) | (average distance between 2 stars in the Milky Way is 5 ly) | 1 light year (ly) = 9.46073*10^15 meters (m) (pdf pg 65 (Archived)) | 1 parsec = 3.085678*10^16 meters (pdf pg 65 (Archived)) | Segue 1 is the smallest galaxy (Ar), being 30 pc in half life radius () | Typical regular cluster size is 1-10 Mpc | Biggest thing in the Universe is 10 Gly long () | Diameter of the observable universe is 28.5 Gpc/93 Gly/880 Ym (Ar)
+0.296(6.371*10^6) = 1885816 m, 77/2 = 38.5 Gm assuming the distance is half/inbetween Mercury & Earth, 3.5(69.911(10^6)) = 244688500 m, (5(9.46073*10^15))/2 = 2.3651825e+16 m or 2.5 ly or (2.5(9.46073*10^15))/(3.085678*10^16) = 0.7665033422 pc. (3.085678*10^16)30 = 9.257034e+17 m or ((3.085678*10^16)30)/(9.46073*10^15) = 97.84693147 ly, ((2.5*10^6)/2)(9.46073*10^15) = 1.18259125e+22 m or ((2.5*10^6)/2)(9.46073*10^15))/(3.085678*10^16) = 383251.6711 pc, (3.085678*10^16)1000000 = 30.85678 Zm or  (3.085678(10^21))/(9.46073*10^15) = 326156.4382 ly, (9.46073*10^15)(10^10) = 94.6073 Ym or ((9.46073*10^15)(10^10))/(3.085678*10^16) = 3.06601337 Gpc
+Results: 1.885816 Gm for Kepler-37b, 38.5 Gm for interplanetary, Over 244.6885 Gm for Stellar, 2.5 ly or 0.7665033422 pc for interstellar, 60 pc/195.6938629 ly/1.8514068e+18 m for galactic from 2r = d, 383.2516711 kpc/1.25 Mly/11.8259125 Zm for Intergalactic, 1 Mpc/3.261564382 Mly/30.85678 Zm for Multigalactic, 3.06601337 Gpc/10 Gly/94.6073 Ym for Outergalactic, & 28.5 Gpc/93 Gly/880 Ym for Universal
+Note: Half the distance between 2 objects will be used while the diameter of an object will also be used
+Calculation Refined & Fact-Checked?: Yes
+LS Calcs
+All the water on Earth
+Desmos Scientific Calculator (Archived) | All the water on Earth is 332.5 million mi^3 or 1386 million km^3. A cubic km is 1 trillion liters (Archived) | 1 cc -> m^3 is cc/(10^6), 1 km^3 is 1 billion m^3) (Archived) | The average global land & ocean surface temperature is 1.6 F higher than 57.2 F (58.8 F) (Archived) | g per cc at 60 F is 0.99907 (Archived)
+
+Calc: ((1386(10^9))(10^6))0.99907 = 1.38471102e+18 g or 1.38471102e+15 kg.

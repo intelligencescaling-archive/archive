@@ -20,9 +20,13 @@ parts:
     url: https://docs.google.com/document/d/1yahOsyaswFNNDbT_cVSBLdpTBYBX4V1jKi7KN_f3Gds/edit?usp=drivesdk
     google_id: 1yahOsyaswFNNDbT_cVSBLdpTBYBX4V1jKi7KN_f3Gds
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 4855
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -36,6 +40,7 @@ found_in:
   character: Junko Enoshima
   link_text: The Ascendent Superhuman
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: reviewed
   by: scd-archivist

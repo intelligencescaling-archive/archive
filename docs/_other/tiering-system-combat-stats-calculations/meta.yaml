@@ -9,7 +9,7 @@ characters: []
 tags:
 - wis
 - guide
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -17,9 +17,13 @@ parts:
     url: https://docs.google.com/document/d/1x789iIesL1PDZP3QJZHFPe1TH_k7WJ3L-DeqgQ5N-zA/edit?tab=t.0#heading=h.yhssuxowfcqj
     google_id: 1x789iIesL1PDZP3QJZHFPe1TH_k7WJ3L-DeqgQ5N-zA
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 11204
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -30,9 +34,9 @@ found_in:
   link_text: Tiering System & Combat Stats calculations
   note: (WIS)
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
   - characters
-  - language

@@ -10,7 +10,7 @@ characters: []
 tags:
 - writing-analysis
 - analysis
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -18,9 +18,13 @@ parts:
     url: https://docs.google.com/document/d/1Jg2l3QA13ewAC9RgpZF0tWgaWJad1FFExMIplx3wD9s/edit?tab=t.0
     google_id: 1Jg2l3QA13ewAC9RgpZF0tWgaWJad1FFExMIplx3wD9s
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 17667
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -30,9 +34,9 @@ found_in:
   section: 'MISCELLANEOUS:'
   link_text: Fathers and Son writing analysis
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
   - characters
-  - language

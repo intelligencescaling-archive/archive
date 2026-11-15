@@ -9,7 +9,7 @@ characters: []
 tags:
 - writing-categories
 - writing-analysis
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -17,9 +17,13 @@ parts:
     url: https://docs.google.com/document/d/1AuuBcrIg8GH28vDNzj1RxquUnHce2MQvQ4QwRmSyhBE/edit?tab=t.0#heading=h.87p4uogpdzyn
     google_id: 1AuuBcrIg8GH28vDNzj1RxquUnHce2MQvQ4QwRmSyhBE
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 1864
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -29,9 +33,9 @@ found_in:
   section: 'MISCELLANEOUS:'
   link_text: Character writing categories
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
   - characters
-  - language

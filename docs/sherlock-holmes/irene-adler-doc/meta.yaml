@@ -9,7 +9,7 @@ series:
 characters:
 - irene-adler
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -17,9 +17,13 @@ parts:
     url: https://drive.google.com/open?id=1U2YDd49RhZIdwXVcAQJg8VEpGCX-PL4VM6VUVKFQA4I
     google_id: 1U2YDd49RhZIdwXVcAQJg8VEpGCX-PL4VM6VUVKFQA4I
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 2977
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -29,10 +33,10 @@ found_in:
   section: 'MISCELLANEOUS:'
   link_text: Irene Adler Doc
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
   - characters
-  - language
   - series

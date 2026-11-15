@@ -12,7 +12,7 @@ characters:
 - patrick-jane
 tags:
 - feats
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -20,9 +20,13 @@ parts:
     url: https://drive.google.com/open?id=1YHQzQQNpnjZ5oi_kvVCxgli4cdjjUsZBN7R1wbnvXPI
     google_id: 1YHQzQQNpnjZ5oi_kvVCxgli4cdjjUsZBN7R1wbnvXPI
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 2843
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -36,8 +40,8 @@ found_in:
   character: Patrick Jane
   link_text: Patrick Jane [Feats Evaluation]
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
-  - language
