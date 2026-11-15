@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wildfire
+category: story
+title: Wildfire
+alt_titles:
+- Wildfire - RoyalRoad
+authors:
+- name: qwerty_8732
+  source: manual
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: web-page
+    url: https://www.royalroad.com/fiction/161988/wildfire-the-flame-that-ate-the-world
+  capture:
+    status: not-captured
+    files: []
+found_in:
+- library: stories
+  section: W
+  link_text: Wildfire - RoyalRoad
+links:
+- type: wayback
+  url: https://web.archive.org/web/20260717025038/https://www.royalroad.com/fiction/161988/wildfire-the-flame-that-ate-the-world/chapter/3254148/1-the-incident-at-wensworth-factory
+  note: Snapshot from 2026-07-17
+added: '2026-11-15'
+notes: This site blocks automated saving, so the archive links to it instead of keeping a copy. A Wayback Machine snapshot is linked as a backup.
+review:
+  status: auto
+  check:
+  - characters

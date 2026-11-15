@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vincent-lalo-1
+category: doc
+title: Vincent Lalo 1
+authors:
+- name: Acce
+  source: doc-text
+series:
+- usogui
+characters:
+- vincent-lalo
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1a5QKF59-SPOYtxbXASPmhivZn2d3SPiL4a7Fs2gQDPc
+    google_id: 1a5QKF59-SPOYtxbXASPmhivZn2d3SPiL4a7Fs2gQDPc
+  capture:
+    status: partial
+    date: '2025-12-03'
+    words: 9923
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Vincent Lalo 1
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251203170658/https://docs.google.com/document/d/1a5QKF59-SPOYtxbXASPmhivZn2d3SPiL4a7Fs2gQDPc/mobilebasic
+  note: Snapshot from 2025-12-03
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-12-03. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

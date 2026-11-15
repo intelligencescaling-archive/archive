@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan
+category: doc
+title: Fang yuan
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1gvI0xjK3EcZoSROiw1_8YKz2sUk2bsAA
+    google_id: 1gvI0xjK3EcZoSROiw1_8YKz2sUk2bsAA
+  capture:
+    status: partial
+    date: '2025-03-18'
+    words: 18764
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang yuan
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250318093117/https://docs.google.com/document/d/1gvI0xjK3EcZoSROiw1_8YKz2sUk2bsAA/edit?rtpof=true&sd=true&usp=drivesdk&ouid=102663991843180962015
+  note: Snapshot from 2025-03-18
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-03-18. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explanation-of-strategy-planning-and-tactics
+category: doc
+title: Explanation of strategy, planning and tactics
+authors: []
+series: []
+characters: []
+tags:
+- scd-theory
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/0/d/11WnnSrGc5bDHLXoAzhoEDdFHkqN9q09Ke0WV-ZsmQr4/mobilebasic
+    google_id: 11WnnSrGc5bDHLXoAzhoEDdFHkqN9q09Ke0WV-ZsmQr4
+  capture:
+    status: partial
+    date: '2025-08-01'
+    words: 1051
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Explanation of strategy, planning and tactics
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250801165226/https://docs.google.com/document/d/11WnnSrGc5bDHLXoAzhoEDdFHkqN9q09Ke0WV-ZsmQr4/edit?tab=t.0
+  note: Snapshot from 2025-08-01
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-08-01. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

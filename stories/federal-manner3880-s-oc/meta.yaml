@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: federal-manner3880-s-oc
+category: story
+title: Federal-Manner3880's OC
+alt_titles:
+- '||OC SCALING||'
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nr38a0/oc_scaling/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1436
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42991
+      sha256: 449b078bcc4899277765b4f8d3a45acd927155e6b1e2af49446c52443ff7dcb1
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: stories
+  section: F
+  link_text: Federal-Manner3880's OC
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

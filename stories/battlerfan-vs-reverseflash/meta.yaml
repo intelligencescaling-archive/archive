@@ -1,0 +1,85 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: battlerfan-vs-reverseflash
+category: story
+title: BattlerFan vs ReverseFlash
+alt_titles:
+- 'SCD FANFIC SCALING: ReverseFlash Vs BattlerUrishomiyaFan'
+- 'FANFIC SCALING: ReverseFlash Vs BattlerUshiromiyaFan: PT 2'
+- 'FANFIC SCALING: ReverseFlash Vs BattlerUshiromiyaFan, Pt. 3'
+- 'Fanfic Scaling: ReverseFlash Vs BattlerFan, FINALE (+plus a vs edit made for this)'
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- title: 'SCD FANFIC SCALING: ReverseFlash Vs BattlerUrishomiyaFan'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jtchzd/scd_fanfic_scaling_reverseflash_vs/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 835
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 165650
+      sha256: 005be39c1e5f3c2b258e75e49355577515da94eda5089552cb5917d3a8548bc2
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'FANFIC SCALING: ReverseFlash Vs BattlerUshiromiyaFan: PT 2'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jux3tt/fanfic_scaling_reverseflash_vs/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 752
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 75973
+      sha256: a198096ef81cef81c5099849a3fc58f125ee214145404953c7c208d0575d060b
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'FANFIC SCALING: ReverseFlash Vs BattlerUshiromiyaFan, Pt. 3'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jwhom9/fanfic_scaling_reverseflash_vs/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 674
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 122072
+      sha256: 81ff10f2007b07b5242e210a7f78412b755680b4d9aae597ade2c163d50a0260
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Fanfic Scaling: ReverseFlash Vs BattlerFan, FINALE (+plus a vs edit made for this)'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jyqdv7/fanfic_scaling_reverseflash_vs_battlerfan_finale/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1889
+    files: []
+    text:
+      file: text-4.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

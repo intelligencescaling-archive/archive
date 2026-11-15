@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fluxion-conspiracy-analysis-plan
+category: doc
+title: Fluxion Conspiracy Analysis Plan
+alt_titles:
+- Fluxion 's conspiracy plan analysis
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  source: reddit-post
+series:
+- minecraft
+characters: []
+tags:
+- analysis
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s18u0f/fluxion_s_conspiracy_plan_analysis/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2481
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 55646
+      sha256: 7b407077377d9c0409ee9227c1c4488d916eb0421ea78e4517f15eba3e2a0ee6
+    - format: png
+      name: image-2.png
+      bytes: 225100
+      sha256: 47a8943fe0c7a3e91bd2dc7207b72f94f52124b4d09c28a645cdc55606161485
+    - format: png
+      name: image-3.png
+      bytes: 349294
+      sha256: 0956851f0beae43d37fe2bc0ecc9a0184f818d9b2d610e5f0142b2c29bb3dded
+    - format: png
+      name: image-4.png
+      bytes: 281077
+      sha256: 8bcadeb9d5d1d07f5d323c26d31e5178891a87d56acba862ffb1835f5e0baacd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: old
+  section: MINECRAFT
+  link_text: Fluxion Conspiracy Analysis Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

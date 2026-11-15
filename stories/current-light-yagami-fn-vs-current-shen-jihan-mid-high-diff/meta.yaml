@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: current-light-yagami-fn-vs-current-shen-jihan-mid-high-diff
+category: story
+title: Current Light Yagami FN Vs Current Shen Jihan (Mid-High Diff)
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1stg9hs/current_light_yagami_fn_vs_current_shen_jihan/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 11
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 52819
+      sha256: 12c87a2260e161b4a0e754941716a5183c7afbc1b841740d72f2a0c79c0aa65b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 92093
+      sha256: 155a52544dde03c50f1fbf5064977b2a3d79964b8e50b64d4e1a5d38a3e62c9e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: stories
+  section: Match ups between OCs and fanfic characters
+  link_text: https://www.reddit.com/r/IntelligenceScaling/comments/1stg9hs/current_light_yagami_fn_vs_current_shen_jihan/
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - language

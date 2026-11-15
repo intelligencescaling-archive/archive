@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: deletinredditsoon-s-fanfic-collection
+category: story
+title: DeletinRedditsoon's fanfic collection
+alt_titles:
+- Considering Pt. 2 of my fanfic for the sub's finale is coming around, I compiled all of the chapters/parts I have written into this post
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: pt
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nh28bl/considering_pt_2_of_my_fanfic_for_the_subs_finale/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 418
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: stories
+  section: D
+  link_text: deletinredditsoon collection
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

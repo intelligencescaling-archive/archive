@@ -1,0 +1,191 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: faces-of-fate-cycle-three
+category: story
+title: 'Faces of Fate: Cycle Three (The Scholar''s Cycle)'
+alt_titles:
+- 'FANFIC OF THE SUB: CYCLE THREE, THE SCHOLAR. Part one'
+- 'FANFIC OF THE SUB, FACES OF FATE, CYCLE THREE: the Scholar, part two'
+- 'FANFIC OF THE SUB, FACES OF FATE, CYCLE THREE: the Scholar, part 3'
+- 'FANFIC OF THE SUB, CYCLE THREE, THE SCHOLAR: PART FOUR'
+- FANFIC OF THE SUB, THE SCHOLAR'S CYCLE; PART 5.
+- 'FANFIC OF THE SUB, THE SCHOLAR''S CYCLE: PT SIX'
+- 'FANFIC OF THE SUB; PART 7, SCHOLARS CYCLE: PRINCE OF DREAMS'
+- 'FANFIC OF THE SUB: SCHOLARS CYCLE: PART 8.'
+- FANFIC OF THE SUB; THE SCHOLARS CYCLE, PT. 9
+- 'FANFIC OF THE SUB, SCHOLARS CYCLE: PART 10, FINALE PT. 1'
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- title: 'FANFIC OF THE SUB: CYCLE THREE, THE SCHOLAR. Part one'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m2sgjd/fanfic_of_the_sub_cycle_three_the_scholar_part_one/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1590
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 55095
+      sha256: edaae9b965876ca7dcd5605a20ef9cbab52e4430677a475848a83c1b918f6306
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE, CYCLE THREE: the Scholar, part two'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m63zuu/fanfic_of_the_sub_faces_of_fate_cycle_three_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 3515
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 161337
+      sha256: 4016b8d60660c1f9451215c506ef5df6c6565091de6a30bb23fc4e5fbfb52f4d
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE, CYCLE THREE: the Scholar, part 3'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m9jw6k/fanfic_of_the_sub_faces_of_fate_cycle_three_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 3036
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 157769
+      sha256: b779f888607cf59fbc44e46c03320ddc090df148679aa327982c06e02a6d3926
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, CYCLE THREE, THE SCHOLAR: PART FOUR'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mcx0vb/fanfic_of_the_sub_cycle_three_the_scholar_part/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 3751
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 168477
+      sha256: b282a970a925631dc040a6265568c3bfb07988634e82b1cb497882447177d61e
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: FANFIC OF THE SUB, THE SCHOLAR'S CYCLE; PART 5.
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mnyrsg/fanfic_of_the_sub_the_scholars_cycle_part_5/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 5423
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 151560
+      sha256: 27fbfc88cc6c835a5f2a19752a7e98dd9ad07a11f503813373d886d52c675823
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, THE SCHOLAR''S CYCLE: PT SIX'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mqn8zm/fanfic_of_the_sub_the_scholars_cycle_pt_six/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 4107
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 157599
+      sha256: 5554857bcc7971d6603f4373b934f4ff811a908b126c71756d25f4e3c529ce8b
+    text:
+      file: text-6.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB; PART 7, SCHOLARS CYCLE: PRINCE OF DREAMS'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mym4mh/fanfic_of_the_sub_part_7_scholars_cycle_prince_of/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 4380
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 80847
+      sha256: 06df6f9628a50b9c5ba828f2c869f026b01f31ead645ad0b1a5a349225a64231
+    text:
+      file: text-7.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB: SCHOLARS CYCLE: PART 8.'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n2xlqg/fanfic_of_the_sub_scholars_cycle_part_8/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2931
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 113142
+      sha256: d648b347a3cfeb9eb5a81fa1d7dc646128318013afa2afc98a06d40a3d595b28
+    text:
+      file: text-8.txt
+      method: reddit-text
+- title: FANFIC OF THE SUB; THE SCHOLARS CYCLE, PT. 9
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n7534w/fanfic_of_the_sub_the_scholars_cycle_pt_9/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2536
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 146386
+      sha256: 5e0424fabe70ebc3e6b406c4fb8a67c624a270429c8c1ea1e578835a1ce68945
+    text:
+      file: text-9.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, SCHOLARS CYCLE: PART 10, FINALE PT. 1'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1najsmq/fanfic_of_the_sub_scholars_cycle_part_10_finale/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1312
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 99370
+      sha256: 5bf46fb198c0f901762db7f9a241bc975a1441657e3ea84bb44a0d2425bf1021
+    text:
+      file: text-10.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

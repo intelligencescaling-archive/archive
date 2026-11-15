@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dazai-feats-and-statements
+category: doc
+title: Dazai feats and statements
+authors: []
+series:
+- bungo-stray-dogs
+characters:
+- dazai-osamu
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vOiHaxsFBdNAJkHpZE0RZJaV4t6ExiB8iI33VzwYmG4
+    google_id: 1vOiHaxsFBdNAJkHpZE0RZJaV4t6ExiB8iI33VzwYmG4
+  capture:
+    status: partial
+    date: '2025-05-10'
+    words: 1945
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: Dazai feats and statements
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250510112226/https://docs.google.com/document/d/1vOiHaxsFBdNAJkHpZE0RZJaV4t6ExiB8iI33VzwYmG4/edit?usp=drivesdk
+  note: Snapshot from 2025-05-10
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-05-10. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

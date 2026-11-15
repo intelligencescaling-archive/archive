@@ -1,0 +1,72 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pokemon-mystery-dungeon-the-past-pursuits
+category: story
+title: 'Pokémon Mystery Dungeon: The Past Pursuits'
+alt_titles:
+- The first chapter of my fanfiction is (semi-officially) released (doc link and important info is in Body text)
+- 'Pokemon Mystery Dungeon: The Past Pursuits (CHAPTER 1)'
+- Announcement post
+- 'Pokemon mystery dungeon: the past pursuits - CHAPTER 1: the second life of ten'
+authors:
+- name: Less_Puddingdrawer
+  reddit: Less_Puddingdrawer
+  source: reddit-post
+- name: Equal_Custard0
+  source: doc-text
+series:
+- pokemon-mystery-dungeon
+characters: []
+tags:
+- fanfiction
+language: en
+completion: unknown
+parts:
+- title: Announcement post
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1teza5b/the_first_chapter_of_my_fanfiction_is/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 244
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 71894
+      sha256: 036baa417bf1a7ea618c25974ae3bbce18580f33d0744d8cef6117cbba612c3b
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Pokemon mystery dungeon: the past pursuits - CHAPTER 1: the second life of ten'
+  source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1OAKtH27S5BTUbVzbRkgaQsBDYe43tUAU3z5rL12f7eI/edit?usp=drivesdk
+    google_id: 1OAKtH27S5BTUbVzbRkgaQsBDYe43tUAU3z5rL12f7eI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 7791
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 885944
+      sha256: a38b7edacdd3c5fd5efb690d530773baaa9b536c2e6c137751eae7fb7a811a1b
+    - format: docx
+      name: document.docx
+      bytes: 724047
+      sha256: cddc7e1bf4a35a1ac27565e7ea16e66e1960545f49105dcab8bcb2ccc6d40802
+    text:
+      file: text-2.txt
+      method: google-export
+found_in:
+- library: stories
+  section: P
+  link_text: 'Pokemon Mystery Dungeon: The Past Pursuits (CHAPTER 1)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

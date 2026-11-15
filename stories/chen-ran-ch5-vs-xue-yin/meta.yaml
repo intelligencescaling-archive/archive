@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chen-ran-ch5-vs-xue-yin
+category: story
+title: Chen Ran (CH5) vs Xue Yin
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tp2ecp/chen_ran_ch5_vs_xue_yin/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 88
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 4583
+      sha256: 5079b3405ba54f2e140f44e9515eaade4534c2c82f4e906cb18ae0bfb0272e5e
+    - format: jpg
+      name: image-2.jpg
+      bytes: 597716
+      sha256: fd2ec5d322b839ca3160cff1f095866fad46320daa2baab3145ba17e5d5a6cee
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: stories
+  section: Match ups between OCs and fanfic characters
+  link_text: https://www.reddit.com/r/IntelligenceScaling/comments/1tp2ecp/chen_ran_ch5_vs_xue_yin/
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

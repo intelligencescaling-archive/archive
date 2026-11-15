@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-batman-capability-website
+category: doc
+title: The Batman Capability Website
+authors: []
+series:
+- dc-comics
+characters:
+- batman
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: web-page
+    url: https://batmanfeats.blogspot.com/p/
+  capture:
+    status: partial
+    date: '2026-07-21'
+    words: 1617
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Batman
+  link_text: The Batman Capability Website
+  note: (WIS + SCD)
+links:
+- type: wayback
+  url: https://web.archive.org/web/20260721045510/https://batmanfeats.blogspot.com/p/escape-artistry.html
+  note: Snapshot from 2026-07-21
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2026-07-21. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors

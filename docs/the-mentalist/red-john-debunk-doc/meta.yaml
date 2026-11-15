@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-john-debunk-doc
+category: doc
+title: Red John Debunk Doc
+authors: []
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_AZuC0zKDBGmdkgyQsBGJQWlPwa8RirR8cDyrHN1VFs
+    google_id: 1_AZuC0zKDBGmdkgyQsBGJQWlPwa8RirR8cDyrHN1VFs
+  capture:
+    status: partial
+    date: '2025-01-19'
+    words: 4167
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Red John Debunk Doc
+  note: (was deleted)
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250119175938/https://docs.google.com/document/d/1_AZuC0zKDBGmdkgyQsBGJQWlPwa8RirR8cDyrHN1VFs/edit?usp=drivesdk
+  note: Snapshot from 2025-01-19
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-01-19. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,191 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: faces-of-fate-cycle-two
+category: story
+title: 'Faces of Fate: Cycle Two (The Noble)'
+alt_titles:
+- 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO'
+- 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, the mansion'
+- 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two the Noble'
+- 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, The Meaning Of Capricorns'
+- 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, Memories.'
+- 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, the Noble''s memory continues'
+- 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, the memory fades'
+- 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, A Piece Of A Revelation'
+- 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, the questions choose to be unanswered'
+- 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, the Steward''s chapter.'
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- title: 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kyo4if/fanfic_of_the_sub_faces_of_fate_cycle_two/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 868
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 149100
+      sha256: b51097908d33dbea9070bc936bc2ef2b88f99b7aee2dab88bb87fd9a90cff05b
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, the mansion'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kzlsjo/fanfic_of_the_sub_faces_of_fate_cycle_two_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 955
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 98809
+      sha256: 90270f15fc5805348e59cc7ae22c2cc59b9f8b6e531a351e4d2e24baf49b01aa
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two the Noble'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l18i9r/fanfic_of_the_sub_faces_of_fate_cycle_two_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1238
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 213153
+      sha256: 34a8e481f1c85704d878b67d7b960958066bc6a1448f77f169cc065e724ef870
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, The Meaning Of Capricorns'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l230sh/fanfic_of_the_sub_faces_of_fate_cycle_two_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1752
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 137310
+      sha256: 7074b5311a79cd261a7af4580a1383134295c36e93da97216c9f9ad66e47a255
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, Memories.'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l4j7e3/fanfic_of_the_sub_faces_of_fate_cycle_two_memories/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2522
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 267387
+      sha256: e473223c00733052d65f4f4bac1b701d71faf3ca46dffd788f49d9cf772e6e0a
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, the Noble''s memory continues'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l6vgys/fanfic_of_the_sub_faces_of_fate_cycle_two_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2187
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 118300
+      sha256: 3f9ba0de235dcfa9ceaaad0dcdeb9cd05016c543cfee57a693dfa81f5b010203
+    text:
+      file: text-6.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, the memory fades'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l9d854/fanfic_of_the_sub_faces_of_fate_cycle_two_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2375
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 168954
+      sha256: 5aa1f460bcee223a0a40e4aede7ca8f273be04e0289d808a32b4269840cfb561
+    text:
+      file: text-7.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, A Piece Of A Revelation'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lcjioc/fanfic_of_the_sub_faces_of_fate_cycle_two_a_piece/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1347
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 302356
+      sha256: 11542f47e5ba3f69b2bcaef19aa837fc2cec045ba259cd6bb4fdae3de558bb20
+    text:
+      file: text-8.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: CYCLE TWO, the questions choose to be unanswered'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lf1xzw/fanfic_of_the_sub_faces_of_fate_cycle_two_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1581
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 334535
+      sha256: a6393afa9bb01935708c38b1df7e2f3165475c45f7efe8713acd05bcf72f3eb2
+    text:
+      file: text-9.txt
+      method: reddit-text
+- title: 'FANFIC OF THE SUB, FACES OF FATE: Cycle Two, the Steward''s chapter.'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lgnic2/fanfic_of_the_sub_faces_of_fate_cycle_two_the/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2293
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 203283
+      sha256: aaac5300f8614d6a26990a36cd3c75e51d758259a2201d85d3d1eda21b7c71c4
+    text:
+      file: text-10.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-poker-feat-analysis
+category: doc
+title: Patrick Jane Poker Feat Analysis
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: web-page
+    url: https://medium.com/@cindycosey/the-mentalists-patrick-jane-my-list-of-talents-personality-quirks-more-49f18daac956
+  capture:
+    status: not-captured
+    files: []
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Patrick Jane Poker Feat Analysis
+links:
+- type: wayback
+  url: https://web.archive.org/web/20250820214045/https://medium.com/@cindycosey/the-mentalists-patrick-jane-my-list-of-talents-personality-quirks-more-49f18daac956
+  note: Snapshot from 2025-08-20
+added: '2026-11-15'
+notes: This site blocks automated saving, so the archive links to it instead of keeping a copy. A Wayback Machine snapshot is linked as a backup.
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

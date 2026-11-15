@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aqua-hoshino
+category: doc
+title: Aqua Hoshino
+authors:
+- name: AgentNemo
+  source: doc-text
+series:
+- oshi-no-ko
+characters:
+- aqua-hoshino
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EAL7L7aNi8_L2qpbroq99CkTSBCGyXMwLPVJ2GDDpfc
+    google_id: 1EAL7L7aNi8_L2qpbroq99CkTSBCGyXMwLPVJ2GDDpfc
+  capture:
+    status: partial
+    date: '2025-12-03'
+    words: 4859
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Aqua Hoshino
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251203033204/https://docs.google.com/document/d/1EAL7L7aNi8_L2qpbroq99CkTSBCGyXMwLPVJ2GDDpfc/edit
+  note: Snapshot from 2025-12-03
+added: '2026-11-15'
+notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-12-03. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

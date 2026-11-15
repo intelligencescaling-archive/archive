@@ -1,0 +1,140 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: apocalypse-of-the-sub
+category: story
+title: The Apocalypse of the Sub
+alt_titles:
+- 'FANFIC SCALING: Own_Presentation vs the entire sub (mostly).'
+- 'FANFIC SCALING PT. 2: The Plot Deepens'
+- 'Fanfic Scaling Pt. 3: Apocalypse And Chaos'
+- 'Fanfic Scaling Pt. 4: The Father.'
+- 'Fanfic Scaling Pt. 5: Apple.'
+- 'Fanfic Scaling, Circle Of Fate: The Crow''s Plan'
+- Some updates and needed/clarification lore abt my Fanfic for the sub
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- title: 'FANFIC SCALING: Own_Presentation vs the entire sub (mostly).'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k1vjux/fanfic_scaling_own_presentation_vs_the_entire_sub/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 842
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 98809
+      sha256: 90270f15fc5805348e59cc7ae22c2cc59b9f8b6e531a351e4d2e24baf49b01aa
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'FANFIC SCALING PT. 2: The Plot Deepens'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k45hx7/fanfic_scaling_pt_2_the_plot_deepens/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1759
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 97571
+      sha256: 0848b2546d66aa2dbc3dfba9968efff320fd8f5478577ec0de468dd39e3299f4
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Fanfic Scaling Pt. 3: Apocalypse And Chaos'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k6j5nc/fanfic_scaling_pt_3_apocalypse_and_chaos/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1635
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 93724
+      sha256: 14aa3a6b1c2be9e7ee2c38c154f1354536f76d6608d41da1b6b03ac09e220b71
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Fanfic Scaling Pt. 4: The Father.'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k9mwf7/fanfic_scaling_pt_4_the_father/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2623
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 34324
+      sha256: 3f1bbd2ef770cfbd9b4c390c5e334877d1254a6818fbc6f5ad08310e6f8a7c77
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'Fanfic Scaling Pt. 5: Apple.'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kc09n9/fanfic_scaling_pt_5_apple/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1346
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 34324
+      sha256: 3f1bbd2ef770cfbd9b4c390c5e334877d1254a6818fbc6f5ad08310e6f8a7c77
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'Fanfic Scaling, Circle Of Fate: The Crow''s Plan'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kebaq9/fanfic_scaling_circle_of_fate_the_crows_plan/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 2447
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 78323
+      sha256: dd15b96664bf81f296a3497a5a748c957f2714d89f4db4c451519dac5bffb893
+    text:
+      file: text-6.txt
+      method: reddit-text
+- title: Some updates and needed/clarification lore abt my Fanfic for the sub
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kcr0k7/some_updates_and_neededclarification_lore_abt_my/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1184
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 180258
+      sha256: 1338e9ea57a19567a3c238c5392b7fbcd7a8a1d747bb54651fcab5f2872fe0a3
+    text:
+      file: text-7.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

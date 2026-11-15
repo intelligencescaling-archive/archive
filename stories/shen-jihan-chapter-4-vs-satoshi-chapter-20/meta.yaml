@@ -1,0 +1,34 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shen-jihan-chapter-4-vs-satoshi-chapter-20
+category: story
+title: Shěn Jìhán (Chapter 4) VS Satoshi (Chapter 20)
+authors:
+- name: RedDeathSwayOverAll
+  reddit: RedDeathSwayOverAll
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sm6c8o/shěn_jìhán_chapter_4_vs_satoshi_chapter_20/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 270
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: stories
+  section: Match ups between OCs and fanfic characters
+  link_text: https://www.reddit.com/r/IntelligenceScaling/comments/1sm6c8o/sh%C4%9Bn_j%C3%ACh%C3%A1n_chapter_4_vs_satoshi_chapter_20/
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

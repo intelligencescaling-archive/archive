@@ -1,0 +1,267 @@
+[Thinking]
+Abstract Thinking: the ability to operate on general/conceptual information detached from concrete instances
+Associative Thinking: forming useful links between distinct and remote information such as through contiguity, analogy, or contrast
+Systems Thinking: ability to model interdependent parts within any complex system
+Divergent Thinking: ability to generate various and novel solutions to a problem
+Convergent Thinking: ability to select the best solution given particular constraints
+Paraconsistent Thinking: reasoning under contradictions and inconsistencies without cognitive collapse
+Verbal Mastery: (Precision, Scope)
+(Precision): accuracy of vocabulary usage, nuance, contextual appropriateness, etc.
+(Scope): breadth and flexibility of expressive and comprehensible range.
+Quantitative Reasoning: number manipulation, formal logic, computation, etc.
+Qualitative Reasoning: non-numerical inference of information from incomplete data
+[Cognition]
+Working Memory: ability to hold and manipulate information within your mind over short intervals
+Declarative Memory: (Encoding, Consolidation, Retrieval)
+(Encoding): How well you can memorize information – short term
+(Consolidation): How well you can retain and stabilize the information – long term
+(Retrieval): how well you can recall information that you have memorized.
+Processing Speed: how quickly you can process or react to information
+Multitasking: ability to do multiple cognitively demanding and distinct tasks simultaneously
+Cognitive Adaptability: ability to handle shifts to novel or contrasting cognitive tasks with minimal cost
+Visuospatial Function: ability to visualize, manipulate, and make use of shapes or objects mentally
+Intuition: rapid subconscious automatic heuristic underlying our cognitive processes
+[Physical Intelligence]
+Dexterity: rapid, fine, motor coordination, like sewing or surgery
+Proprioception: sense of bodily position, movement, and balance
+Naturalistic Intelligence: ability to recognize, classify, and effectively reason about the natural physical world
+[Perceptual Intelligence]
+Exteroception: sensory perception of external stimuli such as through sight, hearing, etc.
+Interoception: perception of your internal bodily status such as your heart rate or the movement of your organs
+Chronoception: sense of duration, passage of time, pacing, synchronization, etc.
+Instinctual Perception: ability to perceive subliminal information beyond direct sensory input
+Aesthetic Sensibility: (Artistic, Poetic, Culinary, Musical)
+(Artistic): sensitivity to the use of colours, texture, etc., in intricate ways to induce emotion
+(Poetic): sensitivity to the rhythm, imagery, symbolism, and emotional resonance of language
+(Culinary): discerning of taste, pairing, and technique, to craft flavours or textures
+(Musical): perception, distinction, and production of pitches, rhythms, harmony, and sound quality
+[Emotional Intelligence]
+Emotional Perception: ability to detect and decode emotional cues
+Emotional Understanding: understanding of the causes, nature, and consequences of emotions
+Intraemotional Management: ability to regulate and control your own emotions
+Interemotional Management: ability to affect and control the emotions of other people
+Emotional Drive: Mental energy toward long term goals
+[Social Intelligence]
+Social Skills: ability to interact with other people effectively. Includes communication, leadership ability, coordination, etc.
+Social Awareness: ability to remain aware of moods, relationships, norms, social dynamics, etc., within particular contexts
+Social Understanding: the general understanding of group norms, roles, incentives, etc.
+Psychological Understanding: understanding of others' thoughts, motivations, emotions, and biases
+[Deception]
+Projective: steering beliefs via illusions, lies, false outputs, etc.
+Omissive: steering beliefs via concealment, hiding, withholding, ambiguity, etc.
+Simulative: also known as acting (Intensity, Scope, Fluidity, Durability)
+(Intensity): the degree of the act's departure from the neutral state of conduct
+(Scope): the repertoire of possible acts. For example the number of expressions you can fake or the number of archetypes you can imitate.
+(Fluidity): how easily you can switch between different, especially contrasting, acts.
+(Durability): how well you can hold up the act, especially over longer time periods or when faced with situations that trigger you to break the act.
+[Foresight]
+Scope: the breadth of the variables or domains within your predictions
+Horizon: how far in the future you can predict
+Granularity: the resolution of the variables/domains within your prediction
+Temporal Precision: how good you are at estimating the time for a particular event to occur
+Reliability: the ability to consistently make accurate predictions when necessary
+[Scheming]
+Microstrategy: tactical moves within the broader scheme
+System Optimization: ability to maximize the use of anything available within the system or the overall system itself
+Formulation Speed: how quickly you can form schemes or microstrategies
+Resilience: (Robustness, Adaptability)
+(Robustness): how well the scheme can endure external disturbances.
+(Adaptability): how well the scheme can be updated without costs when faced with changes
+Versatility: the types and diversity of scheming that the character can do across different contexts
+[Crystallized Intelligence]
+Explicit Knowledge: knowledge that can be clearly explained and shared using words, symbols, pictures, etc.
+Tacit Knowledge: knowledge based on personal experience, unable to be explicitly articulated
+[Counteraction]
+Risk Management: identification and reduction of risks; going for the most probabilistically rewarding or necessary choices
+Detection: ability to notice traps, flaws, deception, etc.
+Evasion: ability to dodge traps or schemes against you
+Disruption: ability to render an opponent's tool or scheme useless
+Mitigation: ability to limit the damage caused by disruptions or schemes that you confront.
+Unpredictability: varying patterns to resist exploitation or increase the difficulty of others scheming against you
+[Mentality]
+Ruthlessness: ability to carry out aims regardless of its ethical or social consequences
+Decisiveness: ability to reduce hindering hesitance when faced with uncertainty
+Patience: ability to endure periods of delay or boredom when necessary
+Caution: preference for safety margins to reduce the likelihood of failure
+Diligence: consistent effort and thoroughness in general conduct
+Fearlessness: ability to act when faced with terror-inducing barriers or obstacles
+Open-mindedness: ability to consider alternatives that contradict your current beliefs
+Lucidity: ability to distinguish and delineate the truth in the presence of noise or deception
+-
+IMPORTANT NOTE: There is no official category set. Even if there was, I wouldn't follow it, nor do you have to follow mine. The purpose of this category set is to reduce as much cognitive load for the scaler as possible while they document a character. This is why you won't see many categories that are otherwise very common; I found them redundant enough to warrant removal. Obviously there will still be overlaps because intelligence is highly interconnected and you can't separate something like "Thinking" from "Scheming" or something like "Emotional Intelligence" from "Social Intelligence." However, I do think that the remaining categories are important for covering the major aspects of intelligence and outsmarting capability as well as providing useful perspectives for evaluating how the intelligence of the character manifests itself.
+IMPORTANT NOTE: If you want to reduce the redundancy even further, you can delete Perceptual Intelligence because it is arguably dependent on your physical composition rather than your mind, you can throw Foresight under Scheming, you can delete Crystallized Intelligence which is too general and encompassing, you can combine and generalize the subcategories of Mentality with Counteraction, and much more. Honestly, if you want, you can even choose to ignore everything and just use Cognition which is purely intellectual ability. But like I said, it is very useful to keep in mind the different subcategories because they provide useful perspectives for evaluating how the intelligence of the character manifests itself and they also make it easier to determine which character would win in an outsmarting scenario when a specific context is given.
+IMPORTANT NOTE: I don't care about "the literature" or whatever is scientifically acceptable. Many such scientific subcategorizations are made for lab testing real life humans. Scaling fictional characters based on their feats and narrative isn't even scientific in the first place.
+IMPORTANT NOTE: I don't use the same definitions as other people for some of the categories. For example, the way most people use Intuition is the way I use Instinctual Perception, and the way most people use Learning Ability is similar to the way I use Intuition.
+Categories (no definitions):
+
+[Thinking]
+Abstract Thinking
+Associative Thinking
+Systems Thinking
+Divergent Thinking
+Convergent Thinking
+Paraconsistent Thinking
+Verbal Mastery (Scope, Precision)
+Quantitative Reasoning
+Qualitative Reasoning
+-
+[Cognition]
+Working Memory
+Declarative Memory (Encoding, Consolidation, Retrieval)
+Processing Speed
+Multitasking
+Cognitive Adaptability
+Visuospatial Function
+Intuition
+-
+[Physical Intelligence]
+Dexterity
+Proprioception
+Naturalistic Intelligence
+-
+[Perceptual Intelligence]
+Exteroception
+Interoception
+Chronoception
+Instinctual Perception
+Aesthetic Sensibility (Artistic, Poetic, Culinary, Musical)
+-
+[Emotional Intelligence]
+Emotional Perception
+Emotional Understanding
+Intraemotional Management
+Interemotional Management
+Emotional Drive
+-
+[Social Intelligence]
+Social Skills
+Social Awareness
+Social Understanding
+Psychological Understanding
+-
+[Deception]
+Projective
+Omissive
+Simulative (Intensity, Scope, Fluidity, Durability)
+-
+[Foresight]
+Scope
+Horizon
+Granularity
+Temporal Precision
+Reliability
+-
+[Scheming]
+Microstrategy
+System Optimization
+Formulation Speed
+Resilience
+Versatility
+-
+[Crystallized Intelligence]
+Explicit Knowledge
+Tacit Knowledge
+-
+[Counteraction]
+Risk Management
+Detection
+Evasion
+Disruption
+Mitigation
+Unpredictability
+-
+[Mentality]
+Ruthlessness
+Decisiveness
+Patience
+Caution
+Diligence
+Fearlessness
+Open-mindedness
+LucidityMethodology Scaling: characters are scaled by the assessable logic and processes behind their feats, rather than by the narrative magnitude or outcome of the feats.
+
+—[Mental Aspect]—
+Quantitative Reasoning
+Qualitative Reasoning
+Semantic Abstraction
+Syntactic Abstraction
+Associative Thinking
+Systematization
+Intrapersonal Understanding
+Interpersonal Understanding
+Linguistic Competence
+Cognitive Fluidity
+Paraconsistent Thinking
+Prospective Orientation
+Creativity
+Data Extraction
+Temporal Sequencing
+Working Memory
+Metacognitive Inhibition
+Pattern Randomization
+
+—[Strategic Aspect]—
+Multilayering
+Preparatory Measures
+Robustness
+Probabilistic Replicability
+Noise Injection
+Cognitive Overloading
+Flexibility
+Contingency Mapping
+Iterative Refinement
+Internal Consistency
+System Optimization
+Variable Exploitation
+Aim Consideration
+Contextual Rationality
+Repercussion Shielding
+Equilibrium Generation
+Mitigation
+Evasion
+Disruption
+Strategic Inclination
+
+Methodology Scaling Category Definitions
+-
+—[Mental Aspect]—
+Quantitative Reasoning: number manipulation, formal logic, computation, etc.
+Qualitative Reasoning: non-numerical inference from incomplete data
+Semantic Abstraction: understanding of expressible conceptual information detached from concrete instances
+Syntactic Abstraction: manipulation of symbols and representations independent of any inherent meaning
+Associative Thinking: formation of useful links between seemingly remote information
+Systematization: modeling interdependencies within any complex system
+Intrapersonal Understanding: awareness and understanding of one's own emotions, thoughts, beliefs, motivations, behavior, existence, etc.
+Interpersonal Understanding: understanding of others' emotions, thoughts, beliefs, motivations, behavior, and social interconnectedness
+Linguistic Competence: depth, nuance, and rhetorical adaptability in verbal usage and comprehension
+Cognitive Fluidity: capacity to shift between novel, contrasting, and versatile cognitive tasks
+Paraconsistent Thinking: consistent reasoning despite the presence of contradictions or inconsistencies
+Prospective Orientation: prioritization of long-term aims over short-term gains
+Creativity: generation of novel and unconventional ideas
+Data Extraction: identification and isolation of useful information from noisy and ambiguous contexts
+Temporal Sequencing: arrangement and reasoning through events in causal order
+Working Memory: capacity to hold and manipulate multiple distinct pieces of information
+Metacognitive Inhibition: overriding default heuristics, biases, and habitual patterns of thought
+Pattern Randomization: deliberate introduction of unpredictability within thought or action
+
+—[Strategic Aspect]—
+Multilayering: stacking layers of intent within schemes and actions
+Preparatory Measures: pre-planned measures taken to increase the probability of success
+Robustness: the capacity of the scheme to handle unexpected disturbances
+Probabilistic Replicability: likelihood of success given the identifiable sources of uncertainty
+Noise Injection: deliberately obscuring information by introducing deceptive or vague data
+Cognitive Overloading: the use of complexity to overwhelm the processing capacity of other entities
+Flexibility: the capacity of the scheme to undergo modifications without major drawbacks
+Contingency Mapping: considering multiple future pathways based on anticipated scenarios
+Iterative Refinement: continuous calibration of schemes using feedback loops and systemic adjustments
+Internal Consistency: ensuring that a scheme does not contain contradictions or exploitable flaws
+System Optimization: refining entire systems for maximum efficiency
+Variable Exploitation: leveraging overlooked objects within the system
+Aim Consideration: considering the aims and benefits when formulating the scheme
+Contextual Rationality: suitability of the scheme to ecologically rational contexts rather than idealized conditions
+Repercussion Shielding: the capacity of a scheme to confine or limit consequences so that failure does not propagate beyond its immediate scope
+Equilibrium Generation: stabilization of outcomes to prevent loss of control or to cause an impasse
+Mitigation: reducing damage caused by the aftereffects of failure or confrontation
+Evasion: avoiding detection, oppositional schemes, or negative consequences
+Disruption: deliberately causing disturbances for opposing plans, systems, or tools
+Strategic Inclination: the tendency to scheme when the opportunity or requirement presents itself

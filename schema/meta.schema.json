@@ -127,7 +127,7 @@
               "required": ["file", "method"],
               "properties": {
                 "file": {"type": "string", "pattern": "^text(?:-\\d+)?\\.txt$"},
-                "method": {"enum": ["google-export", "pdf-extract", "html-extract", "docx-extract", "manual"]}
+                "method": {"enum": ["google-export", "pdf-extract", "html-extract", "docx-extract", "reddit-text", "manual"]}
               }
             },
             "missing": {"type": "object", "additionalProperties": {"type": "string"}}

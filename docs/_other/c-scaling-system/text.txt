@@ -1,0 +1,510 @@
+Compiled from multiple pages within the SCDNexus website for easier navigation
+
+[Start]
+
+"A tiered system for ranking fictional strategists"
+
+Outsmarting Index: a formula-based, scope-sensitive tiering system that evaluates how characters think, adapt, and outmaneuver in increasingly complex systems—from localized mind games to recursive metaphysical wars.
+
+Each tier scales in scope, cognitive demand, and systemic abstraction.
+
+-----------------------------------------------------------------------------------------------------------
+
+The definitive framework for ranking strategic intelligence across fiction, cosmology, and abstraction.
+
+This index outlines the Eight major tiers of strategic capability, from local manipulators to entities who outmaneuver reality itself. Each tier represents a distinct level of outsmarting, based on a mathematical formula built from core metrics. These formulas aren’t just symbolic—they're the foundation of a strategist’s Outsmarting Index (OI). The purpose is not just to scale intelligence—but to map the ways strategists bend reality to their will, no matter the rules.
+
+Each tier is scored based on:
+
+1. Defined metrics sourced from psychological, narrative, and metaphysical paradigms.
+2. Real-world analogues (warfare, information theory, strategic planning).
+3. Fictional applications from characters in anime, literature, games, and media.
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 1 - Localized Outsmarting]
+
+Tactical-level strategies where local manipulation and acute opponent complexity define intelligence.
+
+This tier focuses on manipulation within localized systems—tight, rule-bound environments where the scale is small but the precision is high. These include one-on-one psychological duels, games like chess, or tactical planning within defined constraints.
+
+Scope:
+1. Interaction is highly focused and confined.
+2. Strategy is executed within a single or limited context.
+3. The intelligence challenge is direct, empirical, and personal.
+
+Examples:
+1. A tactician exploiting terrain in a duel.
+2. A con artist manipulating a single person with body language and persuasion.
+3. A lawyer breaking down an opponent’s testimony in a courtroom.
+
+Formula:
+OI = (Tactics + Psychological Insight) × Opponent Complexity
+
+Tactics: Precision and efficiency in executing strategies within well-defined systems. (Precision in executing plans within clearly defined, small-scale systems like games or negotiations.)
+
+Example: Winning a chess match by exploiting positional traps, or executing a calculated bluff in a single conversation.
+
+Psychological Insight: The ability to read and exploit human behavior in small-scale, personal or competitive interactions. (Understanding and exploiting cognitive or emotional tendencies of individuals.)
+
+Example: Bluffing an opponent into abandoning their best option.
+
+Opponent Complexity: A multiplier based on how difficult the opponent is to outsmart. (Sophistication and adaptability of the opponent.)
+
+Example: Outsmarting a chess grandmaster is inherently harder than tricking a novice.
+
+Opponent Complexity = (Base Complexity + Domain Expertise) × Context Alignment
+ - Base Complexity: The average difficulty of the opponent.  (How hard an average opponent is to outsmart.)
+ - Domain Expertise: Their specific skills—intellectual, athletic, creative, etc. (The opponent’s intelligence, combat skill, or creative finesse.)
+ - Context Alignment: How well their expertise applies to the situation. (How suited they are to the domain being manipulated.)
+
+Reasoning:
+Tactics and Psychological Insight contribute additively—they reflect different but complementary skills. Opponent Complexity is a multiplier—the more complex the opponent, the harder and more impressive the outsmarting feat becomes​
+
+Scoring and Bands:
+
+Input Range Per Variable: 1-10
+Raw Score Range (Typical): 10-99
+Normalized OI Range: 10-99
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 2 - Local-Global Systems]
+
+The strategist leverages information warfare and systemic manipulation within and across societal boundaries.
+
+This tier measures a strategist’s ability to operate across interconnected social, political, or economic systems—moving between local and global arenas with coherence and influence. It’s about scaling intelligence, not just intensity.
+
+Scope:
+
+Characters in this tier don't just manipulate individuals or groups—they operate through complex networks: institutions, media, insurgencies, or emergent systems. Their intelligence is modular, scalable, and strategically recursive.
+
+Examples:
+
+A manipulator who engineers regime change by influencing activists, corporations, and politicians across borders—without leaving a digital trace? That’s Tier 2
+
+Formula:
+OI = (Adaptation Velocity + Creative Innovation Index) × Multi Agent Complexity
+
+Adaptation Velocity: The strategist’s ability to evolve their tactics dynamically across new environments or challenges—especially in systems where conditions shift rapidly.
+
+Creative Innovation Index: Measures the strategist’s capacity to invent novel frameworks, metaphors, or ideologies that disrupt conventional systems. It's not just cleverness—it’s idea engineering.
+
+Multi-Agent Complexity: Reflects how many distinct actors, factions, or perspectives the strategist manages simultaneously. The more volatile the network, the higher the MAC.
+
+Reasoning:
+
+AV and CII define how dynamic and inventive a character is—but MAC determines scale. Operating in a village is different from managing chaos across continents. Tier 2 strategists don’t break under complexity—they weaponize it.
+
+Scoring and Bands:
+
+Input Range Per Variable: 5-15
+Raw Score Range (Typical): 100-299
+Normalized OI Range: 100-299
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 2.5 - Global Opposition]
+
+High-level maneuvering against global superpowers or organizations while outmatched in position or resources.
+
+This tier measures a strategist’s ability to operate against global-scale opponents, especially when they are outmatched in resources, reach, or institutional power. It focuses on asymmetrical warfare, information dominance, and strategic clarity under high-stakes pressure.
+
+Scope:
+Characters in this tier confront global superpowers—governments, intelligence networks, corporations—and endure or triumph through foresight, misdirection, and innovation, not brute force.
+
+Examples:
+
+A dissident who triggers a world power’s security apparatus to collapse under its own contradictions, staying one step ahead without ever being caught? That’s Tier 2.5.
+
+Formula:
+OI = (Systemic Foresight + Creative Innovation Index) × Opponent Complexity
+
+Systemic Foresight: The ability to perceive and anticipate large-scale systems over time. This reflects the strategist’s capacity to predict institutional behaviour, foresee long-term consequences, and act with clarity in volatile environments.
+
+Creative Innovation Index: Measures the strategist’s ability to devise novel frameworks, paradigms, or tactics that destabilize or outmaneuver larger systems. This is where innovation meets disruption.
+
+Opponent Complexity: A multiplier based on the intelligence, adaptiveness, and scope of the opposition. Outsmarting a global surveillance state or predictive AI carries far more weight than defeating a static or primitive regime.
+
+Reasoning:
+
+SF and CII combine to reflect both long-term clarity and short-term creativity—but OC scales the difficulty. Outsmarting a global, reactive intelligence multiplies the significance of each move. This is where intellect meets resistance.
+
+Scoring and Bands:
+
+Input Range Per Variable: 10-20
+Raw Score Range (Typical): 300-499
+Normalized OI Range: 300-499
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 3 - Galactic Systems]
+
+Strategic mastery over entire civilizations, planetary networks, or galactic empires.
+
+This tier captures a strategist’s capacity to operate within interstellar civilizations and galactic-scale systems, where emergent phenomena and diplomacy across alien or interplanetary factions come into play.
+
+Scope:
+
+Characters in this tier manipulate complex networks of civilizations, planetary coalitions, or interstellar dynamics—often over long durations and through deep systems of influence.
+
+Examples:
+
+A strategist who engineers the fall of an interstellar empire by subtly altering the emergent behavior of its trade, politics, and culture over generations—that’s Tier 3.
+
+Formula:
+OI = (Systemic Adaptability × Emergent Complexity) + Strategic Foresight
+
+Systemic Adaptability: The strategist’s ability to fluidly adjust to rapidly evolving galactic systems—where outcomes emerge from interactions among massive, diverse subsystems.
+
+Emergent Complexity: The scale and unpredictability of galactic networks. A strategist must grasp how unexpected properties arise from massive-scale interactions.
+
+Strategic Foresight: Multi-generational planning and deep anticipation of future events across civilizations, not just individuals or groups.
+
+Reasoning:
+
+SA and EC multiply because adaptability must match the emergent complexity of galactic dynamics. But SF is additive, operating as a standalone skill that elevates baseline strategy across the board.
+
+Scoring and Bands:
+
+Input Range Per Variable: 15-30
+Raw Score Range (Typical): 500-799
+Normalized OI Range: 500-799
+
+OnlyEinz Note: For some reason the website also gives OI = (SA × EC + SF × MAC) × SS in a different page (same tier), which adds multi-agent complexity and systemic scope that isn’t present in the formula given above (found on a different page of the wiki for the same tier). This is the only inconsistency I noticed for a same-tier formula.
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 4 - Universal Conceptuals]
+
+Influence over conceptual forces such as time, fate, or existence on a universal scale.
+
+This tier assesses a strategist's ability to operate conceptually and universally—where strategy isn’t about nations or galaxies, but about abstract systems like time, causality, and meta-structures.
+
+Scope:
+
+Characters at this level manipulate or account for forces that govern entire universes. They plan across timelines, operate through conceptual domains, and influence systemic structures far beyond material scale.
+
+Examples:
+
+A tactician who rewrites the laws of fate by altering conceptual paradigms across universes while remaining undetected? Welcome to Tier 4.
+
+Formula:
+OI = (Conceptual Influence + Foresight Depth) × Systemic Scope
+
+Conceptual Influence: The ability to strategically affect or manipulate abstract systems—time, space, causality, metaphysics. Not magic, but conceptual strategy.
+
+Foresight Depth: Measures the depth of long-term foresight across vast timelines or existential patterns. Planning a thousand years ahead—or through loops of fate.
+
+Systemic Scope: Assesses the scale of systemic reach. Does the character affect galaxies, universes, or the foundational structure of existence?
+
+Reasoning:
+
+CI and FD reflect how deeply and abstractly a strategist thinks. SS multiplies their influence—because abstract brilliance is only Tier 4 if it echoes across systems.
+
+Scoring and Bands:
+
+Input Range Per Variable: 25-50
+Raw Score Range (Typical): 800-1199
+Normalized OI Range: 800-1199
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 4.5 - Multiversal Structures]
+
+Strategic intelligence across layered realities, with optimized outcomes across timelines and systems.
+
+This tier measures a strategist’s ability to function across multiple realities—not just existing within them, but navigating, influencing, and optimizing outcomes on a multiversal scale.
+
+Scope:
+
+Characters in this tier actively shape timelines, cross realities, and manipulate dimensional architectures. They aren’t bound by one universe’s logic—they operate using multiversal logic, navigating across realities as if they were a single plane.
+
+Examples:
+A tactician who rigs multiversal probability trees, ensuring every reality folds into a scenario they predicted? That’s Tier 4.5.
+
+Formula:
+OI = (Multiversal Navigation Efficiency × Probability Optimization) + Systemic Influence
+
+Multiversal Navigation Efficiency: The strategist’s success in traversing and influencing multiversal structures, including the ability to act across universes without losing narrative or existential cohesion.
+Probability Optimization: The ability to exploit probabilistic systems across timelines to ensure desired outcomes—tilting chance itself toward strategic inevitability.
+Systemic Influence: The capacity to manipulate systems across any conventional modality of the multiverse. This includes dimensional layers, narrative structures, and cosmological systems that fall below metaphysical tiering. It reflects control over the full range of multiversal norms, before metaphysics takes hold.
+
+Reasoning:
+
+MNE and PO define how fluently a strategist moves through the multiverse and tilts timelines in their favor. SI ensures they can reshape the rules of multiversal architecture itself, within conventional bounds.
+
+Scoring and Bands:
+
+Input Range Per Variable: 35-65
+Raw Score Range (Typical): 1200-1499
+Normalized OI Range: 1200-1499
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 5 - Metaphysical Influence]
+
+Direct manipulation of metaphysical, pataphysical, and meta-transcendental systems.
+
+This tier measures a strategist’s ability to operate within and manipulate metaphysical systems—domains where existence itself is malleable, and logic is no longer bound to material or even multiversal frameworks.
+
+Scope:
+Characters at this level play within the architecture of reality itself—not merely outsmarting gods, but rewriting divine rulebooks. They interact with essence, paradox, and meta-systems, shaping truths that ripple backward through causality or rewrite identity.
+
+Examples:
+
+A strategist who breaks the concept of consequence itself, making it so their enemies cannot act without undoing themselves? That’s Tier 5.
+
+Formula:
+OI = (Ontological Manipulation + Paradox Exploitation Rate) × Meta-System Complexity
+
+Ontological Manipulation: The capacity to alter the fundamental rules of existence, not just bending reality, but reshaping what it means to be.
+Paradox Exploitation Rate: The strategist’s ability to leverage metaphysical contradictions—turning logical impasses into weapons, crafting victories that should be impossible even under conceptual scrutiny.
+Meta-System Complexity: A measure of how complex, layered, and pataphysical the manipulated systems are. This includes extended metaphysics, absurdities, imaginary frameworks, and recursive ontologies.
+
+Reasoning:
+
+OM and PER define how far outside conventional being and reason the strategist operates, while MSC magnifies their impact—because to master higher systems, one must first comprehend their infinite contradictions.
+
+Scoring and Bands:
+
+Input Range Per Variable: 50-100
+Raw Score Range (Typical): 1500-1999
+Normalized OI Range: 1500-1999
+
+-----------------------------------------------------------------------------------------------------------
+
+[Tier 6 - Transcendental Apex]
+
+The absolute summit of strategic intelligence—where outsmarting transcends even metaphysics. The strategist reconfigures the preconditions of existence, logic, and recursion. They don’t merely defy systems—they rewrite what it means for a system to exist.
+
+This is the apex of strategic intelligence—where outsmarting becomes indistinguishable from rewriting the **preconditions of thought, reality, and recursion itself**. These entities do not merely operate beyond metaphysics—they render its structure obsolete.
+
+Scope:
+Characters in this tier engage with the **structures behind existence, logic, and abstraction**. This is not metaphysical dominance—it is reflexive, paradoxical mastery over the very axioms that make metaphysical or narrative systems thinkable.
+
+1. They thrive in paradox, recursion, and self-reference.
+2. They weaponize contradiction, incompleteness, and anti-logic.
+3. They rewrite the rules of rules, operating in Gödelian or Turing-ordinal domains.
+
+Examples:
+
+Formula:
+OI = ATM × (RMC + ANLM + ATK)
+
+Abyssal Transcendental Manipulation (ATM): The baseline qualifier. Can the strategist even interface with **abyssal structures** such as Turing Ordinals, Gödelian collapse, or Ein Sof? Without ATM, higher operations collapse into incoherence.
+
+Recursive Multiversal Complexity (RMC): The strategist’s ability to function within infinitely recursive frameworks, weaponizing nested realities and feedback loops across cosmogonies.
+
+Absolute Non-Logical Mastery (ANLM): Operating coherently within paradox and contradiction. ANLM measures how much **cognitive and conceptual chaos** can be weaponized.
+
+Axiomatic Transcendental Knowledge (ATK): The ability to manipulate the preconditions of all structure—logic, identity, continuity, form. These axioms themselves become pliable.
+
+Reasoning:
+**ATM** acts as the multiplier: without abyssal-level engagement, recursion, paradox, and axioms are incoherent.
+**RMC, ANLM, ATK** are the canvas: recursion, anti-logic, and axiomatic subversion.
+Together, the formula captures the reflexive, paradoxical intelligence required to **outmaneuver infinity itself**
+
+Scoring and Bands:
+
+Input Range Per Variable: 100+ or Symbolic
+Raw Score Range (Typical): 2000+
+Normalized OI Range: 2000+
+
+Scoring and Bands:
+
+Raw Range: 2000+ (unbounded)
+Symbolic Scores: Ω (omega), ∞ (infinity), φ (golden collapse), ≡ (self-identity broken)
+Guidelines:
+1–3 (Low):** Briefly survives paradox but collapses in sustained recursion.
+4–6 (Intermediate):** Exploits contradictions selectively; recursive fluency but bounded.
+7–9 (High):** Stable within paradox engines and axiomatic subversions.
+10+ (Apex):** Rewrites the abyss itself—transcends definition, collapsing or redefining the possibility of structure.
+
+Worked Example (different page):
+
+Suppose a strategist demonstrates:
+
+ATM = 9.5 (consistent abyssal manipulation)
+RMC = 95 (infinite recursion fluency)
+ANLM = 92 (anti-logic coherence)
+ATK = 94 (axiom rewriting)
+OI_raw = 9.5 × (95 + 92 + 94) = 9.5 × 281 ≈ 2669.5
+Normalized ⇒ **OI_norm ≈ 2400+ (Transcendental Apex).**
+
+Philosophical Frame:
+
+Reflexive & Abyssal Transcendentals
+Hyperrealities beyond ontology and metasystems
+Gödelian self-reference, Turing incompleteness, and transcendental collapse
+
+*
+
+OnlyEinz Note: this doc from his channel has different formulas for some tiers to the ones on his wiki.
+Axioms of Outsmarting
+Complexity Scales with Scope:
+ As the scale of influence increases, for example, from local to universal, so does the complexity of systems being manipulated. Metrics like Multi-Agent Complexity (MAC) or Systemic Scope (SS) reflect this escalation.
+Multi-Factorial Nature:
+ Outsmarting is multifactorial in nature—a combination of several factors such as creativity, foresight, adaptability, and sophistication of opposition. This is why formulas are mostly additive or multiplicative.
+Interaction of Elements:
+ Outsmarting is nonlinear; factors often interact with each other dynamically, creating multiplicative relationships.
+ Example: A character's Conceptual Influence (CI) is far stronger when combined with Foresight Depth (FD) because manipulating abstract systems requires a vision for long-term effects.
+Sophistication of Opposition Matters:
+ It is significantly more impressive to outsmart a highly sophisticated opponent or system than to exploit a simple one. Metrics such as Opponent Complexity (OC) or Meta-System Complexity (MSC) capture this distinction.
+2. Empirical Basis
+ The structure of these formulas is drawn from observations in both human and narrative intelligence.
+Inspiratory Sources: Real-World and Fictional
+Game Theory: Multiplicative terms, like AV+CII×MAC, are inspired by how multiple strategies interplay in competitive scenarios.
+Complex Systems: Additive relationships reflect independent metrics, such as creativity and foresight, working together synergistically.
+Hierarchical Systems in Stories: Many narratives—from chess to galactic wars—illustrate an upward escalation in size and complexity, justifying hierarchical frameworks.
+Examples:
+Tier 1 (Localized):
+ In chess, Tactics and Psychological Insight predominate, but the complexity of the opponent determines the challenge.
+Tier 4 (Universal):
+ In a cosmic manipulation story, Conceptual Influence (CI) and Systemic Scope (SS) dominate as they reflect universal systems of causality and time.
+3. Logical Abstraction (A Priori Reasoning)
+Why Additive Terms?
+ Additive terms capture independent contributions.
+ Example: Foresight and Creativity may operate independently, but both contribute to overall effectiveness.
+Why Multiplicative Terms?
+ Multiplicative terms capture interdependent relationships.
+ Example: Manipulating abstract concepts (CI) is amplified by the breadth of influence (SS) because they act synergistically.
+Why Escalating Complexity?
+ As tiers rise, formulas incorporate more dimensions, reflecting an increasing dimensionality of influence, such as moving from two factors in Tier 1 to four in Tier 6.
+Tier 1: Focused, localized variables like Tactics.
+Tier 6: Requires handling ultimate principles, recursion, and paradoxes.
+4. Philosophical Basis (Derived A Priori)
+Scope of Intelligence and Outsmarting
+ These formulas align with philosophical theories of intelligence:
+Abstraction and Creativity (Immanuel Kant and Bloom Taxonomy): Higher intelligence synthesizes concepts across diverse domains, represented by CI × MCD.
+Emergent Complexity (Aristotle and Complexity Theory): Larger systems exhibit emergent properties that cannot be reduced to smaller subsystems. For instance, the EC metric applies specifically at Tier 3.
+Sophistication of Systems:
+ The increasing complexity from localized systems to universal or multiversal frameworks mirrors the evolution of abstract thinking:
+Tier 1: Empirical, direct logic (e.g., explicit manipulation).
+Tier 4+: Transcendence into conceptual or ontological spaces.
+5. Tier-Specific Justifications
+Tier 1 Formula (Localized):
+ OI=(TAC+PI)×OC
+Why Add TAC and PI?
+ Tactics (TAC) and Psychological Insight (PI) contribute additively.
+Why Multiply by OC?
+ Outsmarting scales with the complexity of the opponent; a simple tactical plan becomes exponentially harder against a sophisticated adversary.
+Tier 3 Formula: Galactic
+ OI=(SA×EC)+SF
+Why Multiply SA and EC?
+ Systemic Adaptability (SA) relies on handling Emergent Complexity (EC), making their relationship interdependent.
+Why Add SF?
+ Strategic Foresight (SF) serves as a baseline capability that operates independently of the other metrics.
+Tier 6 Formula: Cataphysical
+ OI=(UPM×MCD)+(RMC+ANLM)
+Why Multiply UPM and MCD?
+ Ultimate Principles (UPM) require mastery of Meta-Conceptual Systems (MCD) to function effectively.
+Why Add RMC and ANLM?
+ Recursive Multiversal Complexity (RMC) and Absolute Non-Logical Mastery (ANLM) are complementary but remain independent skills.
+Tiering System
+General metric across tiers Opponent Complexity = (Base Complexity (BC) + Domain Expertise (DE)) × Context Alignment (CA)
+Base Complexity (BC):
+ The intrinsic difficulty of outsmarting an average individual.
+Domain Expertise (DE):
+ The opponent's specialized skills, such as athletic, intellectual, or creative abilities.
+Context Alignment (CA):
+ A multiplier that adjusts how effectively those skills apply to the specific scenario.
+Tier 1: Localized Outsmarting
+ Scope:
+ Manipulation of localized systems, such as individual opponents, small groups, or confined rule-based frameworks like games or localized schemes.
+Key Metrics:
+Tactics (TAC):
+ Precision and efficiency in executing strategies within well-defined systems.
+ Example: Winning a chess game or navigating a single negotiation.
+Psychological Insight (PI):
+ The ability to read and exploit human behavior in small-scale interactions.
+Opponent Complexity (OC):
+ Intelligence and strategy level of the opponent.
+Formula:
+ OI=(TAC+PI)×OC
+ Tier 2: Local-Global Outsmarting
+ Scope:
+ Manipulation of multi-agent systems spanning local, societal, or planetary dynamics, such as politics, economics, or societal influence.
+Key Metrics:
+Adaptation Velocity (AV):
+ Speed and efficiency in dynamically shifting strategies.
+Creative Innovation Index (CII):
+ Novel solutions to address complex systemic problems.
+Multi-Agent Complexity (MAC):
+ The sophistication of the systems and agents being manipulated.
+Formula:
+ OI=(AV+CII)×MAC
+Tier 2.5: Global Outsmarting
+ Scope:
+ An extension of Tier 2, covering fully global systems, integrating elite multi-agent dynamics and layered strategies.
+Key Metrics:
+Systemic Foresight (SF):
+ Ability to anticipate long-term outcomes across multiple agents and systems.
+Creative Innovation (CII):
+ Expanded from Tier 2 to address global systems.
+Opposition Complexity (OC):
+ The sophistication of opponents requiring layered strategies.
+Formula:
+ OI=(SF+CII)×OC
+Tier 3: Galactic Outsmarting
+ Scope:
+ Interstellar manipulation involving emergent phenomena, large-scale diplomacy, and long-term strategy spanning civilizations.
+Key Metrics:
+Systemic Adaptability (SA):
+ Ability to adjust to galactic-scale systems with emergent properties.
+Emergent Complexity (EC):
+ Complexity of large-scale, interconnected systems.
+Strategic Foresight (SF):
+ Multi-generational or long-term planning.
+Formula:
+ OI=(SA×EC)+SF
+Tier 4: Universal Outsmarting
+ Scope:
+ Manipulation of universal systems, such as time, causality, and space, across vast systems and scales.
+Key Metrics:
+Conceptual Influence (CI):
+ Ability to influence or manipulate abstract systems like time, space, or causality.
+Foresight Depth (FD):
+ Long-term planning across universal scales and timelines.
+Systemic Scope (SS):
+ Impact across entire galaxies, universes, or cosmic systems.
+Formula:
+ OI=(CI+FD)×SS
+Tier 4.5: Multiversal Outsmarting
+ Scope:
+ Operating across multiple universes  and branching timelines, leveraging multiversal frameworks.
+Key Metrics:
+Multiversal Navigation Efficiency (MNE):
+ Success in traversing and influencing multiversal structures.
+Probability Optimization (PO):
+ Exploiting probabilities to ensure desired outcomes across timelines.
+Systemic Influence (SI):
+ Manipulating systems across universes and timelines.
+Formula:
+ OI=(MNE×PO)+SI
+Tier 5: Metaphysical Outsmarting
+ Scope:
+ Manipulating ontological structures and the foundational rules of reality itself.
+Key Metrics:
+Ontological Manipulation (OM):
+ Altering the fundamental rules of existence.
+Paradox Exploitation Rate (PER):
+ Leveraging paradoxes to create outcomes that defy conventional logic, where logic exists in a metaphysical sense and not its formal scientific sense.
+Meta-System Complexity (MSC):
+ Complexity of the metaphysical systems being manipulated, including extended metaphysics aka pataphysics which is where imaginary solutions and absurdities  are introduced.
+Formula:
+ OI=(OM+PER)×MSC
+Tier 6: Cataphysical Outsmarting
+ Scope:
+ Mastery over ultimate principles—beyond metaphysical systems—such as narrative, modality, and constants.
+Key Metrics:
+Ultimate Principle Manipulation (UPM):
+ The ability to manipulate absolute constants or frameworks present in an ultimate reality.
+Meta-Conceptual Dynamics (MCD):
+ Creation and control of systems that go beyond abstraction or meta-causality.
+Recursive Multiversal Complexity (RMC):
+ Thriving in and resolving infinite recursion loops where said loops interact on an absolute scale. (Cosmogony has more accurate usage than multiverse)
+Absolute Non-Logical Mastery (ANLM):
+ Functioning effectively within paradoxical, meta-logical, or incomprehensible frameworks. Where incomprehensible=Ineffability.
+Formula:
+ OI=(UPM×MCD)+(RMC+ANLM)

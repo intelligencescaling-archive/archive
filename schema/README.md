@@ -47,7 +47,7 @@ parts:                             # one per file; a story split into chapters h
     words: 3400
     files:
     - {format: pdf, name: document.pdf, bytes: 84137, sha256: f590...}
-    text: {file: text.txt, method: google-export}   # google-export | pdf-extract | html-extract | docx-extract | manual
+    text: {file: text.txt, method: google-export}   # google-export | pdf-extract | html-extract | docx-extract | reddit-text | manual
     missing: {pdf: HTTP 500}       # only when something couldn't be saved
 found_in:                          # where the community libraries list it
 - library: old                     # old | remastered | stories

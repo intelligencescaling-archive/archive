@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scaling-wildfire-william-sigerson-chapter-29-vs-elysius
+category: story
+title: 'Scaling ''Wildfire'': William Sigerson (Chapter 29) VS Elysius Blight (Chapter 29)'
+authors:
+- name: RedDeathSwayOverAll
+  reddit: RedDeathSwayOverAll
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1thszue/scaling_wildfire_william_sigerson_chapter_29_vs/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 880
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2641277
+      sha256: 1cf64be5466a2bfbe0c9b7605a0979e73e1ed935a3f1a96231fbccf1fb292195
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: stories
+  section: Match ups between OCs and fanfic characters
+  link_text: https://www.reddit.com/r/IntelligenceScaling/comments/1thszue/scaling_wildfire_william_sigerson_chapter_29_vs/
+added: '2026-11-15'
+review:
+  status: auto
+  check: []
