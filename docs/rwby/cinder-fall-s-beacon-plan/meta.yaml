@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cinder-fall-s-beacon-plan
+category: doc
+title: Cinder Fall's Beacon Plan
+alt_titles:
+- Cinder Fall Beacon's Plan
+authors: []
+series:
+- rwby
+characters:
+- cinder-fall
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WuQdpJs6BH80euJ-48pBa4C4gFwxFhN8sSUGGIln0fo/edit?usp=drivesdk
+    google_id: 1WuQdpJs6BH80euJ-48pBa4C4gFwxFhN8sSUGGIln0fo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 2649
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2067396
+      sha256: 0870a682cd323a5e0c866408d497fef8d202f83952c57a64053eda7165af9912
+    - format: docx
+      name: document.docx
+      bytes: 6208303
+      sha256: 09537542309aaad4557ce6d1d7666745120a4534699b01bfc3f5165648b6b173
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Cinder Fall Beacon's Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

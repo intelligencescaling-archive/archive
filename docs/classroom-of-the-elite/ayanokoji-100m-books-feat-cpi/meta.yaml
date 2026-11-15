@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-100m-books-feat-cpi
+category: doc
+title: AYANOKOJI 100M BOOKS FEAT (CPI)
+alt_titles:
+- Koji's 100.000.000 books CPI Feat
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1KijsAcjncUgkt-ytEvBe1ZTrAY9Le395ewBM4kNCfcQ/edit?usp=drivesdk
+    google_id: 1KijsAcjncUgkt-ytEvBe1ZTrAY9Le395ewBM4kNCfcQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 420
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1290321
+      sha256: 0208d47e908a1ea730cdcdeb8b60d6091840ed0eeaafd753ec70f126631e6fcb
+    - format: docx
+      name: document.docx
+      bytes: 1485951
+      sha256: 457d998dcd8e364c01795ffcdd16bf509c0cae5a12a63fc250e25d7435825b81
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's 100.000.000 books CPI Feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: AYANOKOJI 100M BOOKS FEAT (CPI)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

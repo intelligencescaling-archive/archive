@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: anime-lelouch-fsiq-document
+category: doc
+title: Anime Lelouch FSIQ document
+alt_titles:
+- Anime Lelouch FSIQ Feats
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-VYq-T686nyKRJCA0lYQ51MyUYFk6dMTL3Sv_ZchG1U/edit?tab=t.0
+    google_id: 1-VYq-T686nyKRJCA0lYQ51MyUYFk6dMTL3Sv_ZchG1U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2354
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 188463
+      sha256: d40453811dcf8c1f133c2470cad478f9819df3644a79f4c3faa4c0238fa94a98
+    - format: docx
+      name: document.docx
+      bytes: 14892
+      sha256: 875529a7ae472fbb0f455e6e991b50b95b74805ed5ea7965e3d2fc5200adf6c1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Anime Lelouch FSIQ Feats
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Anime Lelouch FSIQ Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

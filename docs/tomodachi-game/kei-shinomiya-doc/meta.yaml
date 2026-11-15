@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kei-shinomiya-doc
+category: doc
+title: KEI SHINOMIYA DOC
+alt_titles:
+- Kei shinomiya
+authors: []
+series:
+- tomodachi-game
+characters:
+- kei-shinomiya
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1931H2KEb_Alxl_MBOQhNLagS5ERsfr8eYqPDeBG4qDs
+    google_id: 1931H2KEb_Alxl_MBOQhNLagS5ERsfr8eYqPDeBG4qDs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 34
+    words: 7136
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1461203
+      sha256: d156a6f572ee52326a54056d1ec01ab9442da7cf494433ddedcac476bbae36f5
+    - format: docx
+      name: document.docx
+      bytes: 2319242
+      sha256: c322839d314fac2d9f132b41486475df58972c8200dca53528c342c50f418508
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Kei shinomiya
+- library: remastered
+  section: Tomodachi Game
+  character: Kei Shinomiya
+  link_text: KEI SHINOMIYA DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

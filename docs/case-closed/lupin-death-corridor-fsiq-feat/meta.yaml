@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lupin-death-corridor-fsiq-feat
+category: doc
+title: Lupin Death Corridor FSIQ Feat
+authors: []
+series:
+- case-closed
+characters:
+- lupin-iii
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11SAgr1kcmSqNH-5zuOp8aOI1AVrnxtUyCDju4wpknzE/edit?usp=drivesdk
+    google_id: 11SAgr1kcmSqNH-5zuOp8aOI1AVrnxtUyCDju4wpknzE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1570
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 131479
+      sha256: b441669f8337491916d87b6f13785ecb3c0abfbc1d729fe995cea44f129502b7
+    - format: docx
+      name: document.docx
+      bytes: 13406
+      sha256: 03a2a1a0468d061d290d45bdbb341914871abb97ca62dd903926d8fcacbb015a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Case Closed
+  character: Lupin III
+  link_text: Lupin Death Corridor FSIQ Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: charliebots-feat
+category: doc
+title: charliebots feat
+alt_titles:
+- Henry Charliebots Feat
+- Henry's Charliebot feat
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15kgQVGB7jG_wJ6G6iPIKca6aIfcjPt1IKifzAwhXFAg
+    google_id: 15kgQVGB7jG_wJ6G6iPIKca6aIfcjPt1IKifzAwhXFAg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1415
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2712226
+      sha256: 2daca384d0a84177eb6a5a325537c33e56e467c089dc3c5d55b6ad4b4622f6a3
+    - format: docx
+      name: document.docx
+      bytes: 2335912
+      sha256: 0e300518903c7dc9a2de5ad6f2829ec20ea676c9ffc78631265a56fff6999174
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Henry Charliebots Feat
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Henry's Charliebot feat
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: Henry Emily
+  link_text: charliebots feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

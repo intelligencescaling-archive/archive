@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-art-of-dissociation
+category: doc
+title: The Art Of Dissociation
+alt_titles:
+- Nightmare Sans manipulation of Killer
+authors:
+- name: Akuma Ujjain
+  source: doc-text
+series:
+- undertale-aus
+characters:
+- nightmare-sans
+- killer-sans
+tags:
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Jv9bC1U_r-1DfyjNUJi8vOLtEnQh-SHrQExHBcFlByQ
+    google_id: 1Jv9bC1U_r-1DfyjNUJi8vOLtEnQh-SHrQExHBcFlByQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 105
+    words: 13499
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4871791
+      sha256: 1c3ce170a750c04da5bb568d51df3469533e1f39cdafa38c42431dbf49276aa8
+    - format: docx
+      name: document.docx
+      bytes: 6053675
+      sha256: 7b3385cd3025e7b27be0d35973ec411d590358e2093fbefccf43c397caa71362
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Nightmare Sans manipulation of Killer
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

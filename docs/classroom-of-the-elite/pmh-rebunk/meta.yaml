@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pmh-rebunk
+category: doc
+title: PMH Rebunk
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- rebunk
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1u5YkvLUIBsjHLred2f7VdhiwkbxO__5V
+    google_id: 1u5YkvLUIBsjHLred2f7VdhiwkbxO__5V
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      file: download disabled by owner (HTTP 403-equivalent)
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: PMH Rebunk
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: PMH Rebunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

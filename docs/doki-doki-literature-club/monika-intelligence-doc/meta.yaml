@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monika-intelligence-doc
+category: doc
+title: Monika Intelligence Doc
+authors: []
+series:
+- doki-doki-literature-club
+characters:
+- monika
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=163CPzEbzm1vpE5_XUMaq4n4FviUxfHTH7BWjF8rOKtA
+    google_id: 163CPzEbzm1vpE5_XUMaq4n4FviUxfHTH7BWjF8rOKtA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 5412
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 270980
+      sha256: 13343e6a567c773cd17a02f634b7200faafce3eea553aa467a64504b5fcb540a
+    - format: docx
+      name: document.docx
+      bytes: 1074428
+      sha256: b64ae670784407131f4cb1febf6e688cc97d9067d5d8837578736c2e857dd188
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Monika Intelligence doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

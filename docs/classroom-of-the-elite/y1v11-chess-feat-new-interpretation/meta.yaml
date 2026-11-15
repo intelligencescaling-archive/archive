@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: y1v11-chess-feat-new-interpretation
+category: doc
+title: Y1V11 Chess Feat - New Interpretation
+alt_titles:
+- Koji's Y1V11 Chess Feat - New Interpretation
+authors:
+- name: yunodiaryy
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1k7wTVsv3Bbi0G38ogkCVcZawSVY4GrPt3iokingwqYs/edit?usp=drivesdk
+    google_id: 1k7wTVsv3Bbi0G38ogkCVcZawSVY4GrPt3iokingwqYs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1276
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 672092
+      sha256: 8ed9fffb3421601061b52fbb17d8038ce923417b2e5bbdd2554f20874d42fe1c
+    - format: docx
+      name: document.docx
+      bytes: 2046574
+      sha256: 01a142e0e9fd4f05bfb6bbc2ee341348c3710f5aa445dc93d0a66d1febc5a219
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Y1V11 Chess Feat - New Interpretation
+- library: old
+  section: 'COTE:'
+  link_text: Koji's Y1V11 Chess Feat - New Interpretation
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Koji's Y1V11 Chess Feat - New Interpretation
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

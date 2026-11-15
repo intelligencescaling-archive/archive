@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: y1v4-main-hidden-plot
+category: doc
+title: Y1V4 Main Hidden Plot
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JJR3at4GCd_MmHxxWvYoTq-PQCp-VXrVLDI3swwiEo8
+    google_id: 1JJR3at4GCd_MmHxxWvYoTq-PQCp-VXrVLDI3swwiEo8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 3320
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 123812
+      sha256: 02ab6b68d444969771c75ed94575483e2ad65472921fe7b8764de883892e1742
+    - format: docx
+      name: document.docx
+      bytes: 14409
+      sha256: c62d8f302726787cbda7b1c9bbafa2cd70a33cfa50de2a2a37f8a0d683eb5089
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Y1V4 main hidden plot
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Y1V4 Main Hidden Plot
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

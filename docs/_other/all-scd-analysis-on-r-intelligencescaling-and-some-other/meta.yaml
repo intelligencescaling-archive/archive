@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: all-scd-analysis-on-r-intelligencescaling-and-some-other
+category: doc
+title: All SCD analysis on r/IntelligenceScaling(and some other comunity)
+alt_titles:
+- All SCD analysis on Reddit
+authors: []
+series: []
+characters: []
+tags:
+- library
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1y6zbnHDrNgAOPpDYA1yZQg-DM5feytww3vzNXmZvz-I/edit?usp=drivesdk
+    google_id: 1y6zbnHDrNgAOPpDYA1yZQg-DM5feytww3vzNXmZvz-I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1427
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 295219
+      sha256: daf4fea0edb0c1f9f49ec5a0f643536ddc91ecf6fe8d0a6f63e93d53b4449c21
+    - format: docx
+      name: document.docx
+      bytes: 23157
+      sha256: 635e8420cd4b3728b49a7c387d0793c1854f9c8bd166e4307761ff14c723cdca
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: All SCD analysis on Reddit
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: character-writing-categories
+category: doc
+title: Character writing categories
+authors: []
+series: []
+characters: []
+tags:
+- writing-categories
+- writing-analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1AuuBcrIg8GH28vDNzj1RxquUnHce2MQvQ4QwRmSyhBE/edit?tab=t.0#heading=h.87p4uogpdzyn
+    google_id: 1AuuBcrIg8GH28vDNzj1RxquUnHce2MQvQ4QwRmSyhBE
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Character writing categories
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

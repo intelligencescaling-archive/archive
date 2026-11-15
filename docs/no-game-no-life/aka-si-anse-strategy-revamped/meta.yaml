@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aka-si-anse-strategy-revamped
+category: doc
+title: Akà Si Anse Strategy | Revamped
+alt_titles:
+- Riku's Àka Si Anse Strategy
+authors: []
+series:
+- no-game-no-life
+characters:
+- riku-dola
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1CZSY7F5WVc_qBnSkVDEITtFh4DUozIVaFyqs88UMqjg/edit?usp=drivesdk
+    google_id: 1CZSY7F5WVc_qBnSkVDEITtFh4DUozIVaFyqs88UMqjg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 6625
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 293779
+      sha256: 3765f818797b8ee659126264de73c3aac3c4ccbec07a3807d2ba5e8ba428022e
+    - format: docx
+      name: document.docx
+      bytes: 572748
+      sha256: 26227dc46eca822b1f77247e7c5b3fa64bc41f89b2627812f258dc79c46a3058
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Riku's Àka Si Anse Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

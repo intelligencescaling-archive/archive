@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: final-rebunk-for-dice-control
+category: doc
+title: FINAL Rebunk for Dice Control
+alt_titles:
+- Final Rebunk for Dice control feat
+- FINAL Rebunk for Yumeko Dice Control
+authors: []
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- feats
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13ingouNpAbKdavd1yqFefLLR4OqYCXtpMLCuQUk8BQA
+    google_id: 13ingouNpAbKdavd1yqFefLLR4OqYCXtpMLCuQUk8BQA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1524
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 435241
+      sha256: 284fc2d9184ac58f1065ac6a8c628ae1493214d08c852b8b2433c93e66ce5c08
+    - format: docx
+      name: document.docx
+      bytes: 795233
+      sha256: 5345a58c9121b70ff7d39c24ad44e1e74c6821485cfbb0cdc8a7df605f5d1b41
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Final Rebunk for Dice control feat
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: FINAL Rebunk for Yumeko Dice Control
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

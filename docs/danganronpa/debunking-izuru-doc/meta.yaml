@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-izuru-doc
+category: doc
+title: Debunking Izuru Doc
+alt_titles:
+- Izuru Debunk
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11GdlFnEU6p-w1Tqg6-VzLDona8943qpgiWfvRwAWR2I/edit?usp=drivesdk
+    google_id: 11GdlFnEU6p-w1Tqg6-VzLDona8943qpgiWfvRwAWR2I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 978
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 79086
+      sha256: ab6fd595cde424e311422928af55235a4ce566d1e195b140cb66612fafe12030
+    - format: docx
+      name: document.docx
+      bytes: 9788
+      sha256: ae0c4e3ecf69c77c991384a987997795f1cd6883cf10ed3fcab784bce2d1d874
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Izuru Debunk
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Debunking Izuru Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

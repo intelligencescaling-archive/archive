@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sparkle-doc
+category: doc
+title: Sparkle Doc
+authors:
+- name: Calculadora
+  source: doc-text
+series:
+- honkai-star-rail
+characters:
+- sparkle
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1aaeX0C-GMW7tXLXcg-FawmItm8qw6c9z2zehxNSaM5U/edit?usp=drivesdk
+    google_id: 1aaeX0C-GMW7tXLXcg-FawmItm8qw6c9z2zehxNSaM5U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 107
+    words: 31687
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19876052
+      sha256: ff27cf04407a5666466a597fa127a3b1165826da724d05fcf308ca0ebebae496
+    - format: docx
+      name: document.docx
+      bytes: 21501241
+      sha256: 6a3aa08621a0c1ad5ce52369dd0df0d620afaaaaa9019958d6db08f570ac1689
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sparkle Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

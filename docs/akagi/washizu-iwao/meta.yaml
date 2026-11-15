@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: washizu-iwao
+category: doc
+title: Washizu Iwao
+authors:
+- name: Osbis
+  source: doc-text
+series:
+- akagi
+characters:
+- iwao-washizu
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1yEMvA3gAkcGE_toOBF7BGD8gKkb6l8llPjXr2ydS_1A/edit?usp=drivesdk
+    google_id: 1yEMvA3gAkcGE_toOBF7BGD8gKkb6l8llPjXr2ydS_1A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 127
+    words: 7014
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 72771718
+      sha256: eeff33d0ec84e96ffff46d2ea150c9c3a3ca2930f897c496903bc8d4c625f6e3
+    - format: docx
+      name: document.docx
+      bytes: 76817475
+      sha256: 329667a1560de206d48064388564f46eed614ad450f2a08d9dbe367f39d4a437
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Washizu Iwao
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

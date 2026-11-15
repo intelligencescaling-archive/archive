@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: siesta-s-cognitive-feats
+category: doc
+title: Siesta's Cognitive Feats
+authors:
+- name: Reverie  a.k.a Horny Senpai
+  source: doc-text
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1fpFRPNnWLjsxIyt-I0dml87jMd8gnXcsOhlwLWXCOEQ/edit?usp=drivesdk
+    google_id: 1fpFRPNnWLjsxIyt-I0dml87jMd8gnXcsOhlwLWXCOEQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 244
+    words: 90991
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8647954
+      sha256: ca7c93c6f5ee5b5bece5e8c9fdbd1445cbf453579e2b6fe25bac7463cb5016f2
+    - format: docx
+      name: document.docx
+      bytes: 5429601
+      sha256: eefe0ebc710bf2cdfe249b53e6b2c298b1f1e43ef177eada608c91553ab7a6be
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Siesta's Cognitive Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

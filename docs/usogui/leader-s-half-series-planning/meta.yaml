@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: leader-s-half-series-planning
+category: doc
+title: Leader's Half-Series Planning
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1MnTqR2foxCqQMfg4d0POMGtO0hamsN0vR7ucvTz_WUI/edit?tab=t.0
+    google_id: 1MnTqR2foxCqQMfg4d0POMGtO0hamsN0vR7ucvTz_WUI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2108
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 356804
+      sha256: 8d69dc6647fac03db757facac1457546cf8f59606e11bd9e59a357566a8621d2
+    - format: docx
+      name: document.docx
+      bytes: 263188
+      sha256: 009ade0d7fd312bdd70397b59df7ed66da48f044690c0de079bd2cdd050ef99d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Leader's Half-Series Planning
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Leader's Half-Series Planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

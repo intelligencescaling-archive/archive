@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-gonna-be-over-2300-chapters-doc
+category: doc
+title: Fang Yuan Gonna be Over 2300 Chapters Doc
+alt_titles:
+- Fang Yuan
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1hYkIBNpC0_SoHTgBGlAGLWT_XnjTVeNn_oN0Kb0Csm0
+    google_id: 1hYkIBNpC0_SoHTgBGlAGLWT_XnjTVeNn_oN0Kb0Csm0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 5869
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 234448
+      sha256: 19e0d404833ee932fb6591f405a325a8a519e1f88b68dd8b9ec2bef10959e808
+    - format: docx
+      name: document.docx
+      bytes: 23807
+      sha256: 0a5e95f296aa2488755da9384ae79fd5714825843fc14599b0124acbe759e5c5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan
+  note: (idk what is this thing NGL)(NGL, 80% of this doc kind of looks like it was copy pasted from the actual Novel)
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Fang Yuan Gonna be Over 2300 Chapters Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

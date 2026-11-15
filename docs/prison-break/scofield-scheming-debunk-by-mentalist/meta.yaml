@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scofield-scheming-debunk-by-mentalist
+category: doc
+title: Scofield scheming debunk (by mentalist)
+alt_titles:
+- Michael Scofield Scheming debunk
+authors: []
+series:
+- prison-break
+characters:
+- michael-scofield
+tags:
+- debunk
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1SAsDWByYy3rlzUzyUh58s68V-5yko7lj-XQXaRRIgsI/edit?usp=drivesdk
+    google_id: 1SAsDWByYy3rlzUzyUh58s68V-5yko7lj-XQXaRRIgsI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 3157
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 126980
+      sha256: 37c3e815618991f15d609263a9f4812d079f289fea45276ff7b23d5500542b36
+    - format: docx
+      name: document.docx
+      bytes: 15474
+      sha256: 64de8a5971829bea9f9a71f8b5000d0d3e085db97ba75409e13f16b6515c736a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Michael Scofield Scheming debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

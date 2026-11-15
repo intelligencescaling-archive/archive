@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jestress-vier-doc
+category: doc
+title: Jestress / Vier doc
+alt_titles:
+- Jestress/Vier doc
+authors:
+- name: Beyond / Kiyo Nexus
+  source: doc-text
+series:
+- umineko
+characters:
+- jestress-vier
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1n5SQKAFhcwfC3tZkJZoOH0krVFGbU5-FmQGSD1Phl18
+    google_id: 1n5SQKAFhcwfC3tZkJZoOH0krVFGbU5-FmQGSD1Phl18
+  capture:
+    status: partial
+    date: '2026-11-15'
+    words: 18665
+    files:
+    - format: docx
+      name: document.docx
+      bytes: 209553041
+      sha256: cc106a9df85a538071121bb72952cc8c81b5a11d545fa3ee7530b84dde03a4a5
+    text:
+      file: text.txt
+      method: google-export
+    missing:
+      pdf: HTTP 500
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jestress / Vier doc
+- library: remastered
+  section: Umineko
+  character: Jestress/Vier
+  link_text: Jestress/Vier doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: eric-cartman-intelligence-scale
+category: doc
+title: 'Eric Cartman Intelligence Scale:'
+alt_titles:
+- Eric Cartman
+authors:
+- name: AppropriateRub6185
+  reddit: AppropriateRub6185
+  source: doc-text
+series:
+- south-park
+characters:
+- eric-cartman
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1AwNnrRcLuzHpaDBHcZi4H4prngOIGG9HPoL8xMxN5MQ
+    google_id: 1AwNnrRcLuzHpaDBHcZi4H4prngOIGG9HPoL8xMxN5MQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 16160
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2459195
+      sha256: 609b58f1e4022d114c579c06b43320b953aae27d9f4e89eb29f242f95a81eb97
+    - format: docx
+      name: document.docx
+      bytes: 1802180
+      sha256: 22bb93e317de226296f5c40edda703799e6c6550fe20be4c5a1f455cf07c99e1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Eric Cartman
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

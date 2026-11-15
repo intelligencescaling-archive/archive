@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-vocabulary-and-conceptual-framework-describing-and
+category: doc
+title: A Vocabulary and Conceptual Framework Describing and Categorising Emotions
+alt_titles:
+- A doc about emotions
+authors: []
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1gdPLFHI4-0nXSx_tVEVM6SUg3OfdeL3RSzoRWwws8tA/edit?usp=drivesdk
+    google_id: 1gdPLFHI4-0nXSx_tVEVM6SUg3OfdeL3RSzoRWwws8tA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 521
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 216674
+      sha256: 846fbbbe33c535732ab498aab9b246e8a7d685b178ece097653ef0707a582fbc
+    - format: docx
+      name: document.docx
+      bytes: 841730
+      sha256: 857765bcb7b12948dd1d11c123f33a04f30ed083d6464a115b47817e90259a0e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: A doc about emotions
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

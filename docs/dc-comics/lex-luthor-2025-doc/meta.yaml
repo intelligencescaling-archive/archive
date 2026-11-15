@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lex-luthor-2025-doc
+category: doc
+title: LEX LUTHOR (2025) DOC
+authors: []
+series:
+- dc-comics
+characters:
+- lex-luthor
+variant: Movies
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11WHhKoALq-hY7a7s6eURZyzhA8cqM8NsVpZ6dtwvk7s/edit?usp=drivesdk
+    google_id: 11WHhKoALq-hY7a7s6eURZyzhA8cqM8NsVpZ6dtwvk7s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1560
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1555015
+      sha256: 2784975cff79602e00e8b45a70e3f062769e3aab43c3e3634efdf5af0aa6ce97
+    - format: docx
+      name: document.docx
+      bytes: 1584483
+      sha256: b02185f0e6e5107e6f473008c2788840df45e15db5459f43b7f29e10c163612e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Lex Luthor (2025) DOC
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Lex Luthor - Movies
+  link_text: LEX LUTHOR (2025) DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

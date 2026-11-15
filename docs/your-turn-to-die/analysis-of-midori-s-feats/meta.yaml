@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-midori-s-feats
+category: doc
+title: Analysis of Midori's feats
+alt_titles:
+- Midori analysis
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series:
+- your-turn-to-die
+characters:
+- midori
+tags:
+- feats
+- analysis
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=180ZpT7XITOOessOg8WDtQ99HSNTlFYRA5ApeyHrWWjg
+    google_id: 180ZpT7XITOOessOg8WDtQ99HSNTlFYRA5ApeyHrWWjg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 61
+    words: 28462
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5668162
+      sha256: cd93da8a8a6000d2b696376220b9cc9ea3377899f94d97d6a2624df717173463
+    - format: docx
+      name: document.docx
+      bytes: 6228036
+      sha256: 921490a111bd0ab7f7df5864bc9069e5eff1a33457ccf8324ba14a5645890271
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DOCS I MADE:'
+  link_text: Midori analysis
+  note: (Completely Finished)
+- library: old
+  section: 'YTTD:'
+  link_text: Analysis of Midori's feats
+  note: (making a few additional changes on it)
+- library: remastered
+  section: Your Turn to Die
+  character: Midori
+  link_text: Analysis of Midori's Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

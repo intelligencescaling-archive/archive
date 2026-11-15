@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-ctw-continuity-feat-list
+category: doc
+title: L Lawliet [CTW Continuity] Feat List
+alt_titles:
+- CTW L
+- L Lawliet (CTW Continuity) Feat List
+authors:
+- name: Ace7116
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+variant: Change the World
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1e7Jy2fTgLD180VUpYo8gviXFS7BuJq13Np7Sg_tCiAw
+    google_id: 1e7Jy2fTgLD180VUpYo8gviXFS7BuJq13Np7Sg_tCiAw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 79
+    words: 26488
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1893141
+      sha256: 2659bf197123abdc036b88ac882905e44eeaa5d4efc23dcc1d1877c3d46951cb
+    - format: docx
+      name: document.docx
+      bytes: 1490641
+      sha256: 0e513ea51e0dd267806350cf170d03f8c41ee207f7ea5383401f061716ad77ed
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: CTW L
+- library: remastered
+  section: Death Note
+  character: L Lawliet - Change the World
+  link_text: L Lawliet (CTW Continuity) Feat List
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

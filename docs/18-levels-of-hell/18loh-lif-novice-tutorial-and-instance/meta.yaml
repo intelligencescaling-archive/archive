@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 18loh-lif-novice-tutorial-and-instance
+category: doc
+title: 18LOH-LIF Novice Tutorial and Instance
+alt_titles:
+- Chen Ran Novice Tutorial and Instance Feat Analysis
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1UZDUNkn1cjS5GN9rIvCAaXVAU4w--1POgxptuyNOw7M/edit?usp=drivesdk
+    google_id: 1UZDUNkn1cjS5GN9rIvCAaXVAU4w--1POgxptuyNOw7M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 5405
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 310480
+      sha256: f14b61b4934ce71de19efb0954fac4440c5eb4e5c00b9c1e45129b53ff5e9c48
+    - format: docx
+      name: document.docx
+      bytes: 190796
+      sha256: 2f93574ae7f9f5ab5a1a2e23d4ba864e2564d12b50020f23aa2581323e140afb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran Novice Tutorial and Instance Feat Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

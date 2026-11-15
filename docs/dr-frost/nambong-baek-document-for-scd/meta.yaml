@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nambong-baek-document-for-scd
+category: doc
+title: Nambong Baek document for SCD
+alt_titles:
+- Dr. Frost 3
+authors: []
+series:
+- dr-frost
+characters:
+- nambong-baek
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1rfwG6Dmby6-cO36DwDiy66QfzAtix9ldbM5VywFKR80/edit?usp=drivesdk
+    google_id: 1rfwG6Dmby6-cO36DwDiy66QfzAtix9ldbM5VywFKR80
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 56
+    words: 19963
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1752831
+      sha256: 3bd9934ef1adeb41edf0f0ef422163e9f961d005a47bfee7dd2b27c691956371
+    - format: docx
+      name: document.docx
+      bytes: 2514203
+      sha256: 138c130927c1b92f1ab10a012ef07d4f81ab91dfeb6f91324f161f13e1154529
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DR.FROST:'
+  link_text: Dr. Frost 3
+- library: remastered
+  section: Dr. Frost
+  character: Nambong Baek
+  link_text: Nambong Baek document for SCD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

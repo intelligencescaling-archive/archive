@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rj-s-fsiq
+category: doc
+title: RJ's FSIQ
+authors: []
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1atsMZGihlVreKJchNa4800ftRxYa6LX6XhNd_hXOsmo/edit?usp=drivesdk
+    google_id: 1atsMZGihlVreKJchNa4800ftRxYa6LX6XhNd_hXOsmo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 2525
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 238998
+      sha256: 62fbacbff006d377c17915ed7280f34d5ead127fb6435c97454ead580e20190b
+    - format: docx
+      name: document.docx
+      bytes: 896360
+      sha256: fa1bacf930cbcb9a36bb7c865c088be4f82438745f01ae49915e0603d82c39b9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: RJ's FSIQ
+- library: remastered
+  section: The Mentalist
+  character: Red John
+  link_text: RJ's FSIQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

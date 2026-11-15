@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jibril-vs-sora
+category: doc
+title: Jibril vs Sora
+alt_titles:
+- Jibril
+authors: []
+series:
+- no-game-no-life
+characters:
+- jibril
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EhjzzbJJ2dQHP-UeAfz6yApTK5cY7yi-EfhKKwSRauw
+    google_id: 1EhjzzbJJ2dQHP-UeAfz6yApTK5cY7yi-EfhKKwSRauw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 4239
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 176872
+      sha256: 319929f96ec1d33bf188a0a97bffce58b442a8eab3e440bc377c0f71e0c6413c
+    - format: docx
+      name: document.docx
+      bytes: 19367
+      sha256: a86c43d6ef25b4b8ad349b01ba530ad029cea068353872dada041af51c12a4b7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Jibril
+- library: remastered
+  section: No Game No Life
+  character: Jibril
+  link_text: Jibril vs Sora
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

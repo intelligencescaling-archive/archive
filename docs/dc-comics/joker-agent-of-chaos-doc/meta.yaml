@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joker-agent-of-chaos-doc
+category: doc
+title: JOKER - Agent of Chaos doc
+alt_titles:
+- Joker SCD document
+authors: []
+series:
+- dc-comics
+characters:
+- joker
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11yLO1BHjXFYdCcX8JHdwTT2OmefUIteHgJdPOXe0yaY/edit?usp=drivesdk
+    google_id: 11yLO1BHjXFYdCcX8JHdwTT2OmefUIteHgJdPOXe0yaY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 9066
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7979724
+      sha256: 335941a786b2bfceee7ddd6fb0d027c136a8b822a61f86a13775a46e6b3af42c
+    - format: docx
+      name: document.docx
+      bytes: 8614864
+      sha256: 4004479aa5bb43ca1a1f902c2933c5db7fa05674306e3d97bd72513444413ab8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Joker SCD document
+  note: (The Dark Knight)
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Joker
+  link_text: JOKER - Agent of Chaos doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

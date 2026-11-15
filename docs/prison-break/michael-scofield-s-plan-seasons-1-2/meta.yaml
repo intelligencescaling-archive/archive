@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-scofield-s-plan-seasons-1-2
+category: doc
+title: Michael Scofield's Plan — Seasons 1 & 2
+alt_titles:
+- Michael Scofield's Fox River Escape Plan
+authors:
+- name: Arthen
+  source: doc-text
+series:
+- prison-break
+characters:
+- michael-scofield
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1KU2J2Ya-BSv1K0NktfUscLScnO4jr_b0Iq0DAW5CEEI/edit?usp=drivesdk
+    google_id: 1KU2J2Ya-BSv1K0NktfUscLScnO4jr_b0Iq0DAW5CEEI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3165
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3915703
+      sha256: e823418e46043d533545435957e539d49af0c6aff9a0d173b4619e9318e1e849
+    - format: docx
+      name: document.docx
+      bytes: 2924390
+      sha256: bfe3064d3a42f6de87475650fb0a13769e2badf5e89b6471028bf1567724d61e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Michael Scofield's Fox River Escape Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

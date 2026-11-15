@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: inspector-tsukumo-doc
+category: doc
+title: Inspector Tsukumo doc
+alt_titles:
+- Inspector Tsukumo full doc
+authors:
+- name: sar6astic
+  source: doc-text
+series: []
+characters:
+- inspector-tsukumo
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1rMfpoByoDF9c5mSGjt1CkbBdWVSVQGEdpNbYkoxNjMs/edit?usp=drivesdk
+    google_id: 1rMfpoByoDF9c5mSGjt1CkbBdWVSVQGEdpNbYkoxNjMs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 6774
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1655766
+      sha256: a23239592fb48c74725409c4ce234dfa280736727050135e8dff8229b485f61c
+    - format: docx
+      name: document.docx
+      bytes: 1440728
+      sha256: f0f49e45c9771c6bf962d413c34c8d6ba16ead8e92c0a55a8341cbf92a3b6355
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Inspector Tsukumo full doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

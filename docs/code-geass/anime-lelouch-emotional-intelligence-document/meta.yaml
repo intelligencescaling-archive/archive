@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: anime-lelouch-emotional-intelligence-document
+category: doc
+title: Anime Lelouch emotional Intelligence document
+alt_titles:
+- Anime Lelouch Emotional Intelligence
+- Anime Lelouch Emotional Intel Feats
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+- eq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-l7jsRwN-lCfMel8t7S0K5sPiiBLdX_8UI4qTgdNHJk/edit?usp=drivesdk
+    google_id: 1-l7jsRwN-lCfMel8t7S0K5sPiiBLdX_8UI4qTgdNHJk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3597
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 219094
+      sha256: da9a90f8adc6d2701981f4f4d8c05786b8b7ba6cd9b82a1b9365a63ca22318fd
+    - format: docx
+      name: document.docx
+      bytes: 18096
+      sha256: 65ccc0da73fb6445a75cc44e69dbc2aca0a03a94372ce6ec26761c285d049c81
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Anime Lelouch Emotional Intelligence
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Anime Lelouch Emotional Intel Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

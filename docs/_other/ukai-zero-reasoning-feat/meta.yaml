@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ukai-zero-reasoning-feat
+category: doc
+title: Ukai Zero Reasoning Feat
+alt_titles:
+- Ukai Zero Reasoning
+authors:
+- name: JACKTHEZODIAC
+  source: doc-text
+series: []
+characters:
+- ukai-zero
+tags:
+- feats
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=16SkC6GLBL9xH7gG2UsyiMoIv4uIR4qqqDEZMSp_UF_s
+    google_id: 16SkC6GLBL9xH7gG2UsyiMoIv4uIR4qqqDEZMSp_UF_s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 801
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8656776
+      sha256: 5bed90c0d15b43ad86e1a249d571d38f797c207789a060eab46c5024968dca22
+    - format: docx
+      name: document.docx
+      bytes: 8024163
+      sha256: 053444e4a60154370214ccfed7e537205a7d799e6744fb453b3541fa12b29010
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ukai Zero Reasoning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shuichi-mastermind-plan
+category: doc
+title: Shuichi mastermind plan
+authors: []
+series:
+- danganronpa
+characters:
+- shuichi-saihara
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1wwKwRi4Vmb1-3zEUiWc6JHiQKyAUz0Rj
+    google_id: 1wwKwRi4Vmb1-3zEUiWc6JHiQKyAUz0Rj
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 994
+    files:
+    - format: pdf
+      name: Shuichi Mastermind plan.pdf
+      bytes: 75175
+      sha256: 4c285d81de12c951edb9a06f176e14120c6028b473aa5947552b68529c9d82cd
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Shuichi mastermind plan
+- library: remastered
+  section: Danganronpa
+  character: Shuichi Saihara
+  link_text: Shuichi Mastermind plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

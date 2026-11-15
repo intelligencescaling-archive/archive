@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scaling-systems
+category: doc
+title: Scaling Systems
+alt_titles:
+- Document proving that scaling systems are useful
+- A doc about Scaling systems
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1E6-A8WUz_HlVRINRCX1LFypQZ7imEQ1RarLkadyxA2E/edit?usp=drivesdk
+    google_id: 1E6-A8WUz_HlVRINRCX1LFypQZ7imEQ1RarLkadyxA2E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1662
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 83030
+      sha256: 70dd761c2560db18cec5cdc65ec7aab12272f40db13af9d4c95066d6a9a785a2
+    - format: docx
+      name: document.docx
+      bytes: 186507
+      sha256: 3a837b4cdad491edde19abd826f19335ddcb40b5fe28738c593309bcc22754b5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Document proving that scaling systems are useful
+- library: old
+  section: 'Scaling systems:'
+  link_text: A doc about Scaling systems
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

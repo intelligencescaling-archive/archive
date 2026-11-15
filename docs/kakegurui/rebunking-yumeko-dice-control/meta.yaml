@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rebunking-yumeko-dice-control
+category: doc
+title: Rebunking Yumeko Dice Control
+alt_titles:
+- Yumeko dice control feat rebunk
+authors:
+- name: SoundStorm
+  source: doc-text
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- feats
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12WAWTSwwwCdCAzSBIyzigBHAJ6FFSy0EfU7gK6anuJo
+    google_id: 12WAWTSwwwCdCAzSBIyzigBHAJ6FFSy0EfU7gK6anuJo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 786
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 85175
+      sha256: 4533250fa19af5e7fd2b83f9e980009923bcb89cfc009a2e8e93ea1f7566790d
+    - format: docx
+      name: document.docx
+      bytes: 9700
+      sha256: be87e559055b18f0d04ae54cab3ce3b4aa6ce49ca63671b630ac9379b1dcafbb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Yumeko dice control feat rebunk
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: Rebunking Yumeko Dice Control
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

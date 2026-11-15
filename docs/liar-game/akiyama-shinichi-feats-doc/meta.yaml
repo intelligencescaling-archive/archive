@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinichi-feats-doc
+category: doc
+title: Akiyama Shinichi Feats Doc
+alt_titles:
+- Akiyama 2
+authors:
+- name: Theller
+  source: doc-text
+- name: ScytherZilla Evaluated by Wanoxx
+  source: doc-text
+- name: mynameisntjoe
+  source: doc-text
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1j4ELePO0ppwf65HcaodNfq-nxO6O6cHQVV15H9LVJAY
+    google_id: 1j4ELePO0ppwf65HcaodNfq-nxO6O6cHQVV15H9LVJAY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 63
+    words: 23801
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14520292
+      sha256: 0f047a7818b64665bf041a514ffba8e9c1899abe83d1c942090b10b6b161c506
+    - format: docx
+      name: document.docx
+      bytes: 14333901
+      sha256: 61ab9320ff7303ad592a7b11b12af4ffab53bdff16754ec56e060cbcb60f4ca7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama 2
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama Shinichi Feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

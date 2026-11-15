@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-phoenix-wright-doc
+category: doc
+title: The Phoenix Wright Doc
+alt_titles:
+- phoenix
+authors:
+- name: Silhouette9999
+  source: doc-text
+series:
+- ace-attorney
+characters:
+- phoenix-wright
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=116c2GfY367RBVdM_oZOHc1wg0bivLiOIkQyVVzieU1s
+    google_id: 116c2GfY367RBVdM_oZOHc1wg0bivLiOIkQyVVzieU1s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 180
+    words: 45422
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 24302458
+      sha256: ba0ccc7af618d1d59c5790558cbc496a0a790a9b485f506521f22d5889045b14
+    - format: docx
+      name: document.docx
+      bytes: 70268568
+      sha256: c8d4f17f75d5bb7cfcd0fa89aa5c56355ea3f6ecf0dea57aadf9651272cc4cef
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: phoenix
+- library: remastered
+  section: Ace Attorney
+  character: Phoenix Wright
+  link_text: The Phoenix Wright Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: manfred-von-karma-revised-doc
+category: doc
+title: MANFRED VON KARMA (REVISED) DOC
+alt_titles:
+- DAHLIA HAWTHORNE (REVISED) DOC
+authors: []
+series:
+- ace-attorney
+characters:
+- dahlia-hawthorne
+- manfred-von-karma
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WWLXaJKjIP5Nv4mSLHhH3KKnHLvbsSbX41vAXnKKUEo/edit?usp=sharing
+    google_id: 1WWLXaJKjIP5Nv4mSLHhH3KKnHLvbsSbX41vAXnKKUEo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 5247
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4789222
+      sha256: 51dc8b2230aa28a5ee32daa94764789d38648e351926d46741797a84baa9c9a7
+    - format: docx
+      name: document.docx
+      bytes: 4292268
+      sha256: 3fe0c4e02bbe8b6734bc9fe14f840bd0c38269f050fe4c228358c5f4362abe11
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Ace Attorney
+  character: Dahlia Hawthorne
+  link_text: DAHLIA HAWTHORNE (REVISED) DOC
+- library: remastered
+  section: Ace Attorney
+  character: Manfred von Karma
+  link_text: MANFRED VON KARMA (REVISED) DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

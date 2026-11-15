@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: harimoto-takashi-doc
+category: doc
+title: Harimoto Takashi Doc
+alt_titles:
+- Harimoto DOC
+authors:
+- name: Red Duck
+  source: doc-text
+- name: Gekonen
+  source: doc-text
+series:
+- liar-game
+characters:
+- harimoto-takashi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1bC81hP_DarbzbWrJ9Xi88EnTiGBIXdrMxpKz4bsc1oU
+    google_id: 1bC81hP_DarbzbWrJ9Xi88EnTiGBIXdrMxpKz4bsc1oU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 88
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 130311
+      sha256: be792925d4c27a12c0e51e4668db3d8f39d50d438a3ef692288ff335dfbffae4
+    - format: docx
+      name: document.docx
+      bytes: 66600
+      sha256: 97d6f8892c9bcba5f26c6c80121d4141392a151d66d15a9f3695c8604f84f320
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Harimoto DOC
+  note: (the best doc I ever saw)
+- library: remastered
+  section: Liar Game
+  character: Harimoto Takashi
+  link_text: Harimoto Takashi Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,127 @@
+:SCD Intelligence Scaling:
+
+1.FSIQ Categories- (Full Scale Intelligence Quotient)
+
+ <>VCI (Verbal Comprehension Index) - Measures a person's ability to understand and use verbal information.
+ <>VSI (Visual Spatial Index) - Assesses a person's skills in visual perception and spatial reasoning.
+ <>CPI (Cognitive Proficiency Index) - Measures a person's overall cognitive proficiency, combining the Processing Speed Index and Working Memory Index.
+ <>FRI (Fluid Reasoning Index) - Measures a person's ability to think logically, solve problems, and apply reasoning skills.
+ <>GAI (General Ability Index) - Provides an estimate of a person's overall cognitive ability, excluding the Processing Speed Index.
+ <>WMI (Working Memory Index) - Assesses a person's ability to hold and manipulate information in their mind.
+ <>PSI (Processing Speed Index) - Measures a person's speed and accuracy in processing visual information.
+
+2.FSEI Categories- (Full Scale Emotional Intelligence)
+
+ <>EE (Emotional Engagement) - Measures a person's ability to engage with others or themselves emotionally.
+<>EP (Emotional Perception) - How a person perceives emotions. Basically the range of emotions someone can understand.
+<>EU (Emotional Understanding) - Pretty self-explanatory.
+ <>EF (Emotional Facilitation) - The ability to recognize and utilize the emotional impact of one’s actions on others and manage their emotional state.
+ <>ER (Emotional Realization) - The ability to identify, recognize, and understand the emotional and cognitive shortcomings and nuances in one’s self.
+ <>EM (Emotional Management) - Measures a person's ability to manage their own emotions.
+
+3.FSSI Categories- (Full Scale Social Intelligence)
+
+ <>SM (Self Management) - How they manage themselves in a social setting.
+ <>SA (Self Awareness) - How much and accurately they know about themselves.
+ <>SOM (Social Management) - How they manage their social surroundings.
+ <>SOA (Social Awareness) - How much they can know and understand their social surroundings.
+ <>SOS (Social Skills) - Basically how skilled they are in a social setting. It is a mix of SM & SOM.
+
+4.FSAC Categories- (Full Scale Adversity Capacity)
+
+ <>LC (Learning Capability) - How much they learn through the problems and adversities in life.
+ <>MF (Mental Fortitude) - How much trauma and struggle they can mentally endure.
+ <>ST (Stress Tolerance) - Similar to ME.
+ <>Perseverance - How much will power they have to go on.
+ <>Cognitive Discipline - Self-Explanatory.
+
+5.Reasoning Categories-
+
+ <>DR (Deductive Reasoning) [Reasoning skills to come to one decision from different Info in similar topics]
+ <>IR (Inductive Reasoning) [Reasoning skills to come to one decision from different Info in a single topic]
+ <>AR (Abductive Reasoning) [Reasoning skills to come to a few decisions from a single or few Info in a single topic]
+ <>LR (Logical Reasoning) [Reasoning that is fully logical and can be explained.Mix of DR,IR & AR]
+ <>PR (Perceptual Reasoning) [Connection of Perception and Reasoning]
+ <>ABR (Abstract Reasoning) [Basically the opposite of LR or in short Illogical Reasoning, can also be thought of creative reasoning]
+
+6.Thinking Categories-
+
+ <>LT (Linear Thinking) - Thinking in a linear path, coming to one decision from the previous similar fact.
+ <>NLT (Non-Linear Thinking) - Thinking in a non-linear path, coming to different decisions from different facts.
+ <>CT (Creative Thinking) - Similar to ABR.
+ <>LGT (Logical Thinking) - Similar to LR.
+ <>ILGT (Illogical Thinking) - Similar to ABR again.
+ <>AT (Analytical Thinking) - Mix of DR,IR & AR.
+ <>ST (Strategic Thinking) - In short, Strategy is very short-term planning that you can use in certain situations. This is how well a person thinks/makes a strategy.
+ <>ABT (Abstract Thinking) - Similar to ABR once again.
+
+7.Intelligence Categories-
+
+ <>Intrapersonal Intelligence - Intelligence about one's own self.
+ <>Interpersonal Intelligence - Intelligence about others.
+ <>Kinesthetic Intelligence - Intelligence about physical objects.
+ <>Spatial Intelligence - Intelligence about the space around one. Similar to Kinesthetic Intelligence.
+ <>Fluid Intelligence - Measures one's ability to adapt to situations and use their intelligence fluidly. Basically how well someone can use and apply their intelligence in various ways. Fluid Intelligence is raw and can’t be increased.
+<>Crystallized Intelligence - Opposite of fluid intelligence. This one can be increased through knowledge and experience.
+
+8.Manipulation Categories-
+
+ <>Direct Manipulation - Ability to manipulate a certain person by directly approaching and talking to them.
+ <>Indirect Manipulation - Ability to manipulate a single or multiple people by doing stuff indirectly or in the background.
+ <>Individual Manipulation - How well one can manipulate a single person.
+ <>Mass Manipulation - How well one can manipulate a mass amount of people.
+ <>Logical Manipulation - How logical the manipulation process is.
+ <>Illogical Manipulation - How abstract or illogical the manipulation process is.
+ <>Emotional Manipulation - How well a person can manipulate emotions.
+ <>Psychological Manipulation - How well a person applies psychological knowledge to manipulate someone.
+
+9.Planning Categories-
+
+ <>Strategies - Strategy is explained in ST.
+ <>Short-Term Planning - Self Explanatory.
+ <>Long-Term Planning - Self Explanatory.
+ <>Planning Practicality - How well the plan will work in real life. Also checks how well explained and detailed the plan is.
+ <>Planning Coverage - How much a person can plan. In other words, how many things are considered and included in the plan.
+ <>Detailed Planning - How detailed the plan is.
+
+10.Deception - Deceiving someone means convincing them something that is most probably not true by your words or body language or some sort of planning. One can deceive in many ways.
+
+11.Deduction - How well one can deduce something. A mix of DR, IR & AR. But mostly focuses on DR.
+
+12.Perception - How one perceives the world around them. A mix of EP, PR.
+
+13.Observation - How well one observes their surroundings.
+
+14.Pattern Recognition - How well one finds patterns in everything they observe.
+
+15.Problem Solving - How well one can solve problems in day-to-day life.
+
+16.Cold Reading - This is the ability to read a person or see through a person without interacting much. Cold Reading mostly relies on Observation skills.
+
+17.Hot Reading - This is the opposite of Cold Reading. This is how well one can read a person by interacting with them.
+
+18.Prediction - How accurately one can predict future events.
+
+19.Anticipation - How well one anticipates another's plans and strategies or their surrounding events.
+
+20.Knowledge - The amount of knowledge one has. [Not an actual Intelligence Feat]
+
+21.Experience - The amount of experience one has. [Not an actual Intelligence Feat]
+
+22.Academics - How well one performs academically. [Not entirely an actual Intelligence Feat]
+
+23.Memory - How much and how accurately one can memorize.
+
+24.Charisma - How well of a presence someone has socially. Charisma helps a person to deceive people easily. [Not an actual Intelligence Feat]
+
+25.Decision Making - Self Explanatory.
+
+26.Leadership - How well one can lead others. This skill needs good SQ, Charisma etc.
+
+27.Adaptability - How well one can adapt to the situation he/she faces.
+
+28.Unpredictability - How unpredictable their plans are. It makes his/her opponents not deduce his/her plans.
+
+29.Will to Act - Similar to MF from FSAC.
+
+30.Potential - How much potential a person has. [The person can't increase their intelligence, but can increase their knowledge and experience, which makes them able to apply their intelligence in a better way]

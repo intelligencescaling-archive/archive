@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-cannon-and-theory-doc-part-1-updated
+category: doc
+title: YUUICHI (Cannon and theory) doc PART 1 UPDATED
+alt_titles:
+- Yuuichi (canon and theory) doc part 1(updated version)
+authors:
+- name: Samuel Alistair
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17bivIi2Up59ikQKikDbkCVhjIDvyRzn30wSDXq2WSa4
+    google_id: 17bivIi2Up59ikQKikDbkCVhjIDvyRzn30wSDXq2WSa4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 49
+    words: 15082
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1972905
+      sha256: b3eae2144707d2cab1b05cac0678a6079dbb96c08ce53a36c75f5a7ce2cd1471
+    - format: docx
+      name: document.docx
+      bytes: 1456702
+      sha256: 9a341f2abc82c30a0448d46d45cef347e41725042b4c639bfd47bd8a3d993275
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi (canon and theory) doc part 1(updated version)
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: YUUICHI (Cannon and theory) doc PART 1 UPDATED
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

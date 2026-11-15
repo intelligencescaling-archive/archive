@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vol-1-kuze-masachika
+category: doc
+title: VOL 1 | KUZE MASACHIKA
+alt_titles:
+- Vol. 1 Masachika Kuze SCD doc
+authors:
+- name: COUNTERKOUJI
+  source: doc-text
+series:
+- alya-sometimes-hides-her-feelings-in-russian
+characters:
+- masachika-kuze
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1dHO1eYWQW_Ubv4brlS9RsAUFbV9johPR_-ukG1s-UeU/edit?tab=t.0
+    google_id: 1dHO1eYWQW_Ubv4brlS9RsAUFbV9johPR_-ukG1s-UeU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 7583
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 641640
+      sha256: f6115bd06ca1ad45ca17664079689db84d7416348ad33fb533769ca8d48faaf7
+    - format: docx
+      name: document.docx
+      bytes: 1302136
+      sha256: 9ea164c9197f5c13ef6069cdebc9640a7448e25f7d1a3ac45f313c5f64381392
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Vol. 1 Masachika Kuze SCD doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

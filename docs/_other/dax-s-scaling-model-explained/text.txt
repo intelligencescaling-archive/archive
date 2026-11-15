@@ -1,0 +1,245 @@
+Every category in Dax’s scaling explained
+
+Cognitive / IQ-Related (from Wechsler Adult Intelligence Scale-inspired + Cattell)
+-FSIQ — Full Scale Intelligence Quotient: overall general intelligence score.
+- WMI — Working Memory Index: ability to hold and manipulate information in short-term memory.
+- PSI — Processing Speed Index: speed and efficiency of cognitive processing.
+- VCI — Verbal Comprehension Index: verbal reasoning, knowledge, and language understanding.
+- VSI — Visual Spatial Index: ability to understand and manipulate visual/spatial information.
+- FRI — Fluid Reasoning Index: novel problem-solving and abstract reasoning (independent of prior knowledge).
+
+Emotional Intelligence (Salovey’s Ability Model)
+- EP — Emotional Perception: accurately detecting and identifying emotions in self and others.
+- EU — Emotional Understanding: comprehending emotional meanings, causes, and progressions.
+- EF — Emotional Facilitation: using emotions to aid thinking and decision-making.
+- EM— Emotional Management: regulating emotions in self and others.
+
+Social Intelligence
+- Social Cognition — Understanding social cues, norms, intentions, and mental states of others.
+- Social Integration — Ability to effectively operate within and navigate social groups/systems.
+
+Adversity Capacity (CORE Model)
+What is AC in SCD?
+Did you know that throwing emotional tantrums can be a good AC feat? How about the fact that AC by necessity avoids overlap with EI, mainly EM and EF? How about the fact that the categories you've been using for AC are WRONG!
+
+Adversity Capacity has been a normalized category used in SCD/Character Intelligence Scaling that has never really been properly defined in a scientific spectrum, and as a result people have misunderstood its use. Some feats with no real AC basis have been wanked while characters with proper AC grounding have been squashed for puny arguments that contradict the model. Let's fix that real quick, as bluntly as possible:
+
+Adversity Capacity, which when measured in a test of sorts is called Adversity Quotient (AQ), is the ability of an individual to respond to adversity in an outcome oriented manner. (in daily context functional, in scd context strategic). It focuses on how adversity is cognitively processed and handled in behavior.
+
+Adversity is the perceived negative disruption of a goal, value, or functioning state TIED to the individual itself. (examples: danger, failure, humiliation, pain, loss of attachment, frustration etc). As such, Adversity is NOT objective and it counts depending on how the character treats it as such. With this, we get a different framework of judgement for characters who were at peace with their own death but were traumatized, left broken and crumbled under pressure of different sorts easily (examples are various characters in many verses, including KG, DN, COTE etc), because now AC feats evaluate adversity engagement, with the previous suppression and desensitization to various stimuli now being part of a broader "mentality" or "resistances" related block.
+
+Despite dealing with effects that cause turbulence in one's self, adversity does not overlap with emotional intel such as management, nor does it make any reference to controlling emotions being by necessity a feat in AC. Someone can be emotionally unstable and still possess high Adversity Capacity and vice versa, one can be emotionally controlled and still possess low Adversity Capacity. Emotional manifestations are the body's own mechanisms of discharging negative energy, so in fact, using them appropriately could consist of a merit in AC, even if that doesn't mean it's always the case. Adversity Capacity looks at how someone believes to be able and IS able to maintain their competence under damaging conditions and emotional discharges are simply a sign of that.
+
+AC is measured by a proper scientific model too, as laid down by Dr. Paul Stoltz: The CORE model. It consists of - Control, Ownership, Reach, Endurance.
+
+So, those subcategories mean:
+
+Control - Ability to maintain agency and directed action when facing adverse conditions.
+Freezing, surrendering, or helplessness reflect low Control.
+Acting with purpose despite negative conditions reflects high Control.
+Previously reflected by mental fortitude, but in a different direction which implied misunderstood some overlaps.
+
+Ownership - Willingness and consistency in taking responsibility for resolving adversity rather than deflecting it.
+It is the backbone of tenacity, answers questions like:
+Blame-shifting, fatalism, or avoidance reflect low Ownership.
+Taking initiative to address the problem reflects high Ownership.
+Previously was reflected by Cognitive Discipline, but now it's better explained.
+
+Reach - Ability to compartmentalize adversity and prevent it from degrading unrelated functions.
+If one failure cripples all performance, Reach is low.
+If the adversity is compartmentalized and contained, Reach is high.
+(reversed for the sake of clarity)
+
+This is where Stress Tolerance as well as impulse control fall in, but again, now it's much more than that.
+
+Endurance - Capacity to sustain effort and functionality across prolonged or repeated adversity.
+Collapse over time reflects low Endurance.
+Sustained operation despite prolonged hardship reflects high Endurance.
+Previously covered by perseverance.
+
+Of course, all of those parameters are to be scaled in accordance to the context, so in some cases seemingly unimpressive feats are in fact very good, so there is still much more to discuss involving comparisons of AC.
+
+To conclude, AC is much more about the mental model and has much less to do with emotions than initially perceived. I hope this was a little bit helpful.
+Here are some sources backing my claims:
+https://www.ipl.org/essay/The-Importa...
+https://www.mdpi.com/2227-7102/15/8/1042
+https://studylib.net/doc/27745898/202...
+https://pmc.ncbi.nlm.nih.gov/articles...
+https://www.frontiersin.org/journals/.
+
+General Intelligence (Cattell-inspired, enhanced)
+- Crystallized Intelligence— Accumulated knowledge, skills, and experience-based competence.
+- Fluid Intelligence— Raw capacity for novel reasoning and problem-solving (less dependent on knowledge).
+- Cognitive Aids (or Cognitive Assets) — Tools, techniques, or supports that enhance cognitive performance.
+
+Observation
+- Visual Observation— Gathering and noticing information through sight.
+- Auditory Observation — Gathering and noticing information through hearing.
+- Proxyreceptive Observation — Gathering information indirectly through intermediaries, tools, or secondary sources (not direct senses).
+
+Perception
+Perception Resolution
+Sharpness/detail level at which sensory input is processed.
+Perception Invariance:Ability to recognize the same thing across changes in appearance/context.
+Perception Synthesis:Combining multiple perceptual inputs into a coherent whole.
+Perception Reframing:Reinterpreting or shifting how sensory information is understood.
+
+Thinking Styles
+-Critical Thinking  — Evaluating information rigorously for validity, bias, and logic.
+- Abstract Thinking — Handling concepts detached from concrete examples.
+- Applicative Thinking— Applying knowledge/principles to practical situations.
+- Systematic Thinking — Organizing thought in structured, ordered systems.
+- Associative Thinking — Linking ideas through connections and associations.
+- Convergent Thinking — Narrowing toward a single correct/optimal solution.
+- Divergent Thinking — Generating many possible ideas or solutions.
+- Lateral Thinking — Solving problems via indirect, creative, or non-obvious approaches.
+- Holistic Thinking — Viewing systems as integrated wholes rather than isolated parts.
+
+Reasoning
+- Deductive Reasoning — Drawing specific conclusions from general premises (if premises true → conclusion certain).
+- Inductive Reasoning— Generalizing from specific observations to broader principles (probable, not certain).
+- Abductive Reasoning — Inferring the most likely explanation from incomplete observations.
+
+Analysis
+- Analysis Deconstruction
+ — Breaking complex things into constituent parts.
+- Analysis Tracing
+ — Following causal chains, sequences, or origins.
+- Analysis Probing  — Deep questioning/testing to uncover hidden aspects.
+- Analysis Mapping — Creating relational structures or models of relationships.
+- Analysis Classification  — Sorting/organizing elements into categories based on properties.
+
+Insight
+- Insight Calibration — Fine-tuning the accuracy and reliability of sudden understandings.
+-  Insight Integration  — Incorporating new insights into existing knowledge frameworks.
+- Insight Optimization — Refining insights for maximum usefulness/effectiveness.
+- Expertise — Deep specialized knowledge and skill in a domain.
+- Heuristics  — Mental shortcuts or rules-of-thumb that enable fast, good-enough decisions.
+
+Foresight
+- Anticipation — Sensing or preparing for likely future events.
+- Prediction — Forecasting specific outcomes based on patterns/data.
+- Preclusion  — Preventing something from becoming possible in the first place.
+- Obviation  — Rendering a threat or problem unnecessary/irrelevant by design.
+
+Mental Warfare
+- Coercion  — Forcing compliance through pressure or threats.
+- Mind Control — Directly influencing or overriding another’s thoughts/will.
+- Inducement — Persuading or tempting someone into a desired action/state.
+- Exploitation — Taking advantage of weaknesses, vulnerabilities, or situations.
+- Reinforcements — Strengthening desired behaviors, beliefs, or positions (positive or negative).
+
+Manipulation
+- Direct Manipulation — Open, straightforward influence attempts.
+- Indirect Manipulation  — Subtle, behind-the-scenes influence.
+- Logical Manipulation  — Using reasoning/arguments to steer others.
+- Emotional Manipulation  — Using feelings to control or influence.
+- Manipulation Methods — Specific techniques and tactics of influence.
+
+Deception
+- Misdirection  — Diverting attention away from the true intent or reality.
+- Fabrication — Creating false information or realities.
+- Sophistry — Using clever but fallacious arguments to deceive.
+- Acting — Performance/role-playing to create false impressions.
+- Concealment  — Hiding information, intentions, or capabilities.
+
+ Unpredictability / Related Traits
+- Unconventionality  — Operating outside expected norms or patterns.
+- Volatility — Unstable, changeable, hard-to-predict behavior.
+- Creativity— Generating novel ideas, solutions, or approaches.
+- Risk Competence  — Skill in assessing, taking, and managing risks effectively.
+
+Psychology
+- Theory of Mind — Understanding that others have beliefs, desires, and perspectives different from one’s own.
+- Psychoanalysis— Analyzing underlying psychological motivations and dynamics.
+- Profiling — Building detailed psychological models of individuals.
+- Psych Techniques — Application of psychological methods/principles.
+- Reading— Accurately interpreting people’s states, intentions, or tells.
+- Conditioning— Shaping behavior through reinforcement or association.
+
+Leadership / Social Influence
+- Communication — Clear, effective transmission of information and intent.
+- Allocation  — Distributing resources, roles, or attention optimally.
+- Networking  — Building and leveraging connections.
+- Narrativization  — Framing events into coherent, persuasive stories.
+- Influence Building — Gradually establishing authority, credibility, or sway.
+
+ Subversion
+- Proxies — Using intermediaries or stand-ins to act.
+- Info Control — Managing what information is available or believed.
+- Destabilization — Undermining stability of systems, people, or positions.
+- Setting Traps — Creating situations that catch opponents.
+- Obfuscation  — Deliberately making things unclear or confusing.
+- Resistance Breach — Overcoming or penetrating defenses/resistance.
+
+Tactics
+- Tactical Potency  — Raw power/effectiveness of individual tactical moves.
+- Tactical Synergy — How well tactics combine and amplify each other.
+- Tactical Management  — Overseeing and adjusting tactics in real time.
+
+Composition / Operational Skills
+- Info Gathering — Collecting relevant intelligence/data.
+- Pacecraft  — Controlling the tempo/rhythm of interactions or conflicts.
+- Transitioning — Smoothly shifting between states, strategies, or phases.
+- Contingencies — Prepared alternative plans for unexpected developments.
+- Multitasking — Handling multiple threads effectively simultaneously.
+- Formulation — Constructing plans, arguments, or solutions from elements.
+
+ Counteraction
+- Trap Evasion  — Detecting and avoiding set traps.
+- Improvising  — Creating effective responses on the fly.
+- Shielding  — Protecting self or assets from harm/influence.
+- Responsiveness — Speed and quality of reaction to stimuli.
+- Capitalization — Turning opportunities or opponent mistakes into advantages.
+
+ Strategy
+- Strategy Logistics / Execution How well is the strategy being executed? Are all the tactics or plans that form the Strategy being used at the right time, in the right order, with no gaps or mistakes? This category also checks how well supervised it is during execution.
+Strategy Adaptability / Flexibility How flexible is the strategy when things go wrong or change unexpectedly? A good strategy has backup plans and alternate paths built in from the start, so the character doesn't have to panic and start over when something unexpected happens.
+Strategy Forecasting The ability to look ahead and predict how a strategy will play out, anticipating how the opponent might respond, what obstacles could arise, and how the overall strategic landscape could shift over time.
+- Strategy Balancing— Maintaining equilibrium among competing strategic elements.
+
+Planning
+- Planning Process — The methodical steps of creating plans.
+- Planning Intricacies — Handling fine details and complexities within plans.
+- Planning Coverage — Breadth of situations the plan addresses.
+- Planning Acclimation  — Adjusting plans to new conditions or learning.
+- Planning Versatility — Range of uses or adaptations a plan supports.
+- Planning Applicability — How well the plan translates to real execution.
+
+ Architecture / Systems
+- System Fluency — Ease and skill in operating within systems.
+- Systemic Fit— How well something aligns with the larger system.
+- Macroleverage — High-level, large-scale points of influence.
+- Microleverage — Fine-grained, small-scale points of influence.
+- Systemic Interoperability — Ability of systems/components to work together.
+- Systemic Resourcefulness — Finding and using resources within system constraints.
+
+ Prevention
+- Preventive Foundation — Building base structures that stop problems before they start.
+- Network Filtering— Selectively controlling what flows through networks.
+- Positioning — Strategic placement of self/assets.
+- Ally Safeguarding — Protecting partners or supporting elements.
+
+Adaptability
+- Adaptability Input — Ability to take in and process new information/conditions.
+- Adaptability Output — Ability to produce effective adjusted responses/actions.
+
+Judgment / Meta
+- Decisions  — Quality of choices made under uncertainty.
+- Awareness  — Overall situational and self-understanding.
+- Intuition — Fast, non-conscious pattern-based knowing.
+- Metacognition  — Thinking about one’s own thinking processes.
+- Methodology — Systematic approaches and frameworks used.
+
+ Resistances / Internal Traits
+- Mentality — Overall psychological orientation and mindset.
+- Mental Fortitude — Psychological toughness and resilience.
+- Impulse Control  — Ability to restrain immediate reactions/urges.
+- Autonomy — Independence of thought and action.
+-  Clarity — Mental clearness and lack of confusion.
+- Inscrutability — Difficulty for others to read or predict one’s inner state.
+
+Countering (Matchup-related)
+- Field Countering — Advantages against specific domains/environments.
+- Behavioral Countering — Advantages against particular behavior styles.
+- Operational Countering — Advantages in how operations/actions are executed.

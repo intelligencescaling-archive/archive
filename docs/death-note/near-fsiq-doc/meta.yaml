@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: near-fsiq-doc
+category: doc
+title: Near FSIQ Doc
+authors:
+- name: HiroIsHere
+  source: doc-text
+series:
+- death-note
+characters:
+- nate-river
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-7KnF9x9is_cjRZO9OxXDfUMg7os12qy4NE4uUn1BFo/edit?usp=drivesdk
+    google_id: 1-7KnF9x9is_cjRZO9OxXDfUMg7os12qy4NE4uUn1BFo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 2567
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2290497
+      sha256: baf9ac61759fba4b768355efcb792ae207b669480b2a5fc19d99456bd89a670b
+    - format: docx
+      name: document.docx
+      bytes: 4501832
+      sha256: 24755e2447a2ede75a6aec013dc57b85f1218bd2a00f1e7e52f7ed388fd14578
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Near FSIQ Doc
+- library: remastered
+  section: Death Note
+  character: Nate River (Near)
+  link_text: Near FSIQ Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

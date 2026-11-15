@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suteguma
+category: doc
+title: Suteguma
+alt_titles:
+- Suteguma Satoru Doc
+- Suteguma Satoru
+authors: []
+series:
+- usogui
+characters:
+- suteguma-satoru
+tags: []
+language: pt
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1SLbomGWzql3_aMJ6kq-mWtqNX8780q_RAVGqcDYsrKI/edit?usp=drivesdk
+    google_id: 1SLbomGWzql3_aMJ6kq-mWtqNX8780q_RAVGqcDYsrKI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 4690
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2558834
+      sha256: fe69b9ebf1a6cd32c3421cbb68f57c92bcb9917275448ee07bf1f70aed924dca
+    - format: docx
+      name: document.docx
+      bytes: 2470429
+      sha256: 38646d3dce34d5cb25ce8188140e46d1d27104f2240abb57770c21a094a5efa8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Suteguma Satoru Doc
+- library: remastered
+  section: Usogui
+  character: Suteguma Satoru
+  link_text: Suteguma Satoru
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

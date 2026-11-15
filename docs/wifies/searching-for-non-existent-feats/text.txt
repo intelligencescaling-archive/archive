@@ -1,0 +1,98 @@
+Cheatspeed
+POEM INDUCTION/DEDUCTION LR
+Doc made by Cheatspeed — I like D3rlord3
+
+Searching For A World That Doesn’t Exist
+Whatever you do, at the crossroads, don’t turn left. Don’t be fooled. It’s listening. You can’t outsmart it. It’s listening to me. It’s watching me. It isn’t from this world.
+-D3rlord3
+Maybe I am scared.
+So, there wasn't really a specific reason for me to make this document. I don't find D3rLord3 to be an impressive character in the context of SCD, but honestly, I like him a lot. That's why I wanted to at least bring this cipher to a level where it makes sense for people, and to explain just how broken the inductive reasoning and VCI were in Wifies' commentary. Even though it doesn't affect the character's overall performance much, I found it impressive, so I wanted to briefly cover and explain it.
+
+If we accept D3rlord3’s interpretation of what he sees from our side as correct from the beginning, then many password-related problems immediately come into play. Which character is supposed to represent exactly which letter or symbol?
+
+Because of the blocky, pixelated structure of the Minecraft font, the letters most commonly confused in the transcript, especially H, N, W, M, and K, look almost identical to each other. In the same way, the tiny one-pixel slant difference between O and D is an incredibly easy detail to miss.
+
+Even though this may look like a simple visual mistake, unfortunately in this case it is not, because it directly affects how you solve the password.
+
+Also, is the table actually a Vigenère table, or is there something else involved? These are especially important points to consider, because if you approach it with straightforward logic and apply the key you have to the table, you might not get a meaningful result.
+
+This is where the “cipher stacking” idea the character mentions becomes relevant. Even the key you find could itself be hidden using another encryption method, such as Caesar. If we assume that D3rlord3 solved the cipher using only pen and paper, based on Wifies’s video, then the process becomes several times more complicated than normal. You would constantly need to backtrack and start over, asking yourself: “Did I misread the letter? Did I transform the key incorrectly? Did I use the table wrong?”
+
+Redoing the entire process from the beginning under all this uncertainty creates a massive cognitive load just to find the correct combination.
+
+Of course, this does not mean that all of these possibilities have to be scanned one by one. In the end, the output you get will still guide you toward an approximately correct table. However, the fact remains that this is an added layer that extends the process and makes it harder to understand. That part does not change.
+Still, if we eliminate these possibilities one by one through logical reasoning, the correct letter table we end up with will be different from the one Wifies suggests.
+
+Instead of:
+OMCTSTJBHTHHAHUBWLVQCVYOML
+PCUIGVITUHQADUSSJHEWWAFABD
+CVDAVOGHPHAFHMUIGHGHGOOTH
+IUCCHNEPBGJLHCTAOHTHIJH
+we will most likely have these letters:
+DMCTSTJBWTKKAWUBWLVQCVYONL
+PCUIGVITUHQADUSSJMEWWRFABD
+DDDAVOGHPHAFHMUIGHGHGODTK
+IUCCHNEPBGJLHCTAOHTHIJM
+and these will be the correct letters.
+
+Now we need to address why we should specifically consider Vigenère or a similar type of encryption. You might ask whether there are no other alternatives, and technically there are, but the structure of the text rules them out one by one.
+
+For example, if it were a simple Caesar cipher or a basic substitution cipher, you would see certain patterns repeating constantly in the text. Words like “the” or “and” would always appear as the same symbols. But here, the letters are distributed in such a complex and irregular way that it strongly suggests the cipher is not based on a single fixed rule. Instead, it looks like it was encrypted using a constantly changing key, which is exactly what Vigenère and similar ciphers do.
+
+The most dangerous part begins right at this point. Because the letter distribution is so unclear, it traps you in a corner. If you proceed with the Vigenère assumption and test your strongest advantage, such as the key “YELLOW,” and you still cannot get a meaningful result, then you hit a wall. At that moment you have nothing left to rely on, and that is when you fall into the uncertainty pit of thinking, “Is the method wrong, or is the key wrong?”
+
+We will go into this point in more detail, but first we need to be aware of the possible interpretations for the cipher we have. Since the series references the novel “The King in Yellow,” we potentially have a few candidates for the key. These are, in order:
+
+→ The King
+→ Yellow
+→ Yellow King
+→ The Yellow King
+→ The King In Yellow
+→ Gold
+→ The Gold King
+→ Gold King
+UPDATE1: When I watched ARG for the second time, I noticed something. I previously claimed that D3rlord3 solved the possible ciphers by interpreting them through context, but that does not seem fully possible. Or, if it is possible, then it means we are missing something.
+
+Because even if D3rlord3 eventually figured out the Yellow King story, he would have had to do that only after reaching the village. Before that point, we were not explicitly given any prior information that clearly linked the entity to the Yellow King. You probably realize that intuition alone is not a sufficient explanation here.
+
+And since scenarios like solving the pattern in the poem and brute forcing a Vigenère cipher with pen and paper are not really plausible, I do not know how to interpret this point.
+
+The most likely explanation is that D3rlord3 somehow figured out the Yellow King context before reaching the village, which would strengthen the VCI and abductive reasoning aspects. Still, if you have any interpretation, I would appreciate hearing it.
+
+We have exactly five potential candidates that could solve this cipher, and yet we still run into the same wall.
+
+Did I mention that the cipher itself is also encrypted?
+
+This is exactly why I have been speaking so vaguely up to this point. Because even if you use the context the game provides, meaning the Yellow King theme, and find the most logical key, you still end up in an unavoidable dead end. None of our potential candidates, such as YELLOW, KING, GOLD, and so on, actually fit the table.
+
+Maybe this was an intentional design. Maybe it was a madness test that the Yellow King constructed specifically so that it could not be solved. Either way, it is a labyrinth complex enough to exhaust you mentally, wear you down, and make you give up.
+
+Because even if you spend hours using the Vigenère table and testing the strongest candidate combinations, the result is still nothing more than meaningless letter soup. And at that moment, the most logical hypothesis stops being to question the key, and becomes to question the method.
+
+Maybe it is not Vigenère. Maybe it is Beaufort, or Gronsfeld. Or maybe there is a completely unique encryption system specific to this universe. Maybe our letter matching in the first table was wrong and we misinterpreted it. Are we going to test every letter again one by one? Or maybe we are dealing with a logical mistake somewhere.
+
+In short, because the only branch we had to hold onto has broken, our hypothesis space suddenly expands in an uncontrollable way.
+
+But even here, it still does not end. We say the key is encrypted, but which key is it? We have dozens of potential keys derived from the “Yellow King” theme, such as “The King,” “Yellow,” “Yellow King,” “Gold,” and many others.
+
+The worse part is that when you say “a Caesar cipher,” that does not mean a single operation. It means 25 different shifting possibilities for every letter in the alphabet, such as ROT1, ROT2, all the way to ROT25. In other words, you have to take each potential key you have, for example “The King In Yellow,” shift it in 25 different ways, and then test every one of those 25 results one by one in the Vigenère table.
+
+This expands the hypothesis space enormously.
+
+Intuitively, if we narrow down the candidates from this, the trio of Yellow, Gold, and King remains the strongest. Since D3rlord3 solved it in such a short time, we can assume he interpreted the situation as simply as possible. He likely chose Yellow from those three strongest candidates, and then tested it step by step like this:
+
+ROT1 hypothesis tested → it did not fit the table and was eliminated  X
+ROT2 hypothesis tested → it did not fit the table and was eliminated X
+ROT3 hypothesis tested → it did not fit the table and was eliminated X
+ROT4 hypothesis tested → it fits the table ✓
+
+If we assume it progressed like this, then in the end it manages to lead us to a poem, even if it is somewhat distorted.
+
+And that is how, after pushing through all the visual confusion, the uncertainty of the key, and the piles of hypotheses, we finally isolate the correct combination. When we apply the correct sequence, meaning YELLOW, then ROT4, then CIPPSA, to the Vigenère table, we get a clean result:
+
+beneaththeskyofmeltinggold (Beneath the sky of melting gold)
+ancientechosofashepherdsmo (Ancient echoes of a shepherd’s mouth)
+ldbsgzohnzlqpmsarsohegoes
+isunseentruthallbutfaux
+
+There is an interesting detail here. The third line still looks a bit distorted: “ldbsgzohnzlqpmsarsohegoes”. However, the fact that the last word is “goes,” and the fourth line ends with “faux” in “isunseentruthallbutfaux,” suggests there is a poetic rhyme between goes and faux.

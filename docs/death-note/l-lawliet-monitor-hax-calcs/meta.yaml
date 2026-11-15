@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-monitor-hax-calcs
+category: doc
+title: L.Lawliet Monitor Hax calcs
+alt_titles:
+- L Lawliet Monitor Hax Calculations
+authors:
+- name: Baku’sfather1029
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1XMoZpRsfgrm9f7aPSi3qTWsDUCGPDiYYjNwsF_D_QOI/edit?usp=drivesdk
+    google_id: 1XMoZpRsfgrm9f7aPSi3qTWsDUCGPDiYYjNwsF_D_QOI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 587
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 49437
+      sha256: c12399b6f10acda7167a3985bd5500f904ecd769c35446b961ae47efa7beff21
+    - format: docx
+      name: document.docx
+      bytes: 9457
+      sha256: 7ffecf0791d44a415abc78b4774a12151cbf851a744720fd12b9b2943bd6611c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L.Lawliet Monitor Hax calcs
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L Lawliet Monitor Hax Calculations
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

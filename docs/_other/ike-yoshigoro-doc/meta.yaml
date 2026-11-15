@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ike-yoshigoro-doc
+category: doc
+title: Ike Yoshigoro Doc
+authors: []
+series: []
+characters:
+- ike-yoshigoro
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1xTo2RRBNY3KVUWVWYIHPo7KpjdVkrIbup0zA0Aukw8o/edit?usp=drivesdk
+    google_id: 1xTo2RRBNY3KVUWVWYIHPo7KpjdVkrIbup0zA0Aukw8o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 7217
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 337651
+      sha256: d080b287405e70a56ba22749c23e4b0acaccf5ba23720ae652abb590e058f699
+    - format: docx
+      name: document.docx
+      bytes: 31082
+      sha256: 10d4be98b8ce59da2537a39500947f4b2d4ac08a34bfba70fe3b166b3d91138c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ike Yoshigoro Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

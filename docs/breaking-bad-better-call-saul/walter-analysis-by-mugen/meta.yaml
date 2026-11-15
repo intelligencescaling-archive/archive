@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-analysis-by-mugen
+category: doc
+title: Walter Analysis by Mugen
+alt_titles:
+- Walter White writing analysis(by Mugen)
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- analysis
+- writing-analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1B4_cVRwBp6WpENsT1ESOSvOEDU6gosA9mMGFNyl6cpA/edit?tab=t.0
+    google_id: 1B4_cVRwBp6WpENsT1ESOSvOEDU6gosA9mMGFNyl6cpA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3860
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 358438
+      sha256: badeeb121f5e916543adf7c41e0c929ec3a10bc6c3bc342e5797d55b9ae1e76d
+    - format: docx
+      name: document.docx
+      bytes: 166372
+      sha256: 5a2327d0fb7b8564e3d32a736edf00ad7f129381e4eb8af24f3f37a2e9df1910
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'BCS + BB:'
+  link_text: Walter White writing analysis(by Mugen)
+- library: remastered
+  section: Breaking Bad | Better Call Saul
+  character: Walter White
+  link_text: Walter Analysis by Mugen
+  note: (Writing)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

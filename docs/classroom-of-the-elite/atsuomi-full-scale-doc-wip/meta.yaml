@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: atsuomi-full-scale-doc-wip
+category: doc
+title: ATSUOMI FULL SCALE DOC | WIP
+alt_titles:
+- Atsuomi Full-Scale Doc
+authors:
+- name: COUNTERKOUJI
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- atsuomi-ayanokoji
+tags:
+- fsiq
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1aJA-kgQspOw2fbCOOTiPvt6d6DHuJAM1OcT-TFMP9ts/edit?usp=drivesdk
+    google_id: 1aJA-kgQspOw2fbCOOTiPvt6d6DHuJAM1OcT-TFMP9ts
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1511
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 307618
+      sha256: 6a570bf0bfae356ad4ef409d3c5dc0b38bcb322d6da675795f66b7149cbdece9
+    - format: docx
+      name: document.docx
+      bytes: 502731
+      sha256: 186e56e282679a7996691bada85cd07d488aa453296ae3a2a10ad06813d9f6a8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Atsuomi Full-Scale Doc
+- library: remastered
+  section: Classroom of the Elite
+  character: Atsuomi Ayanokoji
+  link_text: ATSUOMI FULL SCALE DOC | WIP
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: games-sonic-cosmology
+category: doc
+title: Games Sonic Cosmology
+alt_titles:
+- Game Sonic Cosmology
+authors: []
+series:
+- sonic-the-hedgehog
+characters: []
+variant: Games
+tags:
+- wis
+- cosmology
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/0/d/1uzV0ik_xGtSKki_xmSSmg_pDgAsznnACgLBZO1RSego/mobilebasic#heading=h.4owj797rvh9t
+    google_id: 1uzV0ik_xGtSKki_xmSSmg_pDgAsznnACgLBZO1RSego
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 1883
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 35035345
+      sha256: 55e859638dbb4b3171e46c6973a2c37441a990bcc35a25bf5d58d2b9d09f89e1
+    - format: docx
+      name: document.docx
+      bytes: 33771434
+      sha256: 05d22ad214902fd148ae5ca255eaa9284bba28897d027bf017c26b9827db3b60
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Game Sonic Cosmology
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

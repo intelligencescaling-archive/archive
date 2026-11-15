@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: endur-scaling
+category: doc
+title: Endur Scaling
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1DOK1QPgctV9cRFB_MsVR7anK64nsmtrX6w9fjYEFgk8
+    google_id: 1DOK1QPgctV9cRFB_MsVR7anK64nsmtrX6w9fjYEFgk8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1425
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 918669
+      sha256: d4813f2f08922f03dae93f3c2d31aff8999508f6bb3541b6f8f00588e9794956
+    - format: docx
+      name: document.docx
+      bytes: 1840773
+      sha256: 8d5d2200a935899eb3d13d7f905bffe866bbf87c524dab5914457961c6eea02d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Endur scaling
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

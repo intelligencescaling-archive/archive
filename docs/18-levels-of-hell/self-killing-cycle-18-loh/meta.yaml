@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: self-killing-cycle-18-loh
+category: doc
+title: Self Killing Cycle - 18 LoH
+alt_titles:
+- Chen Ran Self Killing Feat
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1AGojW3qnuRBI21_Y_Qm8ZG5mQ4A3IiddUtDxPv31pqY/edit?usp=drivesdk
+    google_id: 1AGojW3qnuRBI21_Y_Qm8ZG5mQ4A3IiddUtDxPv31pqY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 8082
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 617325
+      sha256: c6571aa919444d9fb34fb2d43e8d22576d5cae96b756161087a50c0ff49087a4
+    - format: docx
+      name: document.docx
+      bytes: 394168
+      sha256: ecdaa219ff42ddfb2644cb3cdcfeeabd7a9764d32f7a10c65868dcb84ebc48b5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran Self Killing Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

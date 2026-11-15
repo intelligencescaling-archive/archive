@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wr-learning-ability
+category: doc
+title: WR — Learning Ability
+alt_titles:
+- WR Learning ability
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1iyyHqN0nWxITmsyeGNfC27C_sZb5raWaMg_ImxtfbAo/edit?usp=drivesdk
+    google_id: 1iyyHqN0nWxITmsyeGNfC27C_sZb5raWaMg_ImxtfbAo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 703
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 131832
+      sha256: e8c1d617f49d72273a94a0a4e2842b0ac2735b8ea9302b7475ec2d361f5513cb
+    - format: docx
+      name: document.docx
+      bytes: 52153
+      sha256: e69f23579417264038ecde33add5bc3c87561c1a76b1b17986b5451c21af216e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: WR Learning ability
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: WR — Learning Ability
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

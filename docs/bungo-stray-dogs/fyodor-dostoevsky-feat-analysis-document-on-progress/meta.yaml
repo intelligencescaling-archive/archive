@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fyodor-dostoevsky-feat-analysis-document-on-progress
+category: doc
+title: Fyodor Dostoevsky Feat Analysis Document (On Progress)
+alt_titles:
+- Fyodor Feat analysis document
+authors:
+- name: Noobyeditz
+  source: doc-text
+series:
+- bungo-stray-dogs
+characters:
+- fyodor-dostoevsky
+tags:
+- feats
+- analysis
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1TmrGnur3rsKY37JJpvMWHDLDey9BVGKbIbE_98JEmDs
+    google_id: 1TmrGnur3rsKY37JJpvMWHDLDey9BVGKbIbE_98JEmDs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 418
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4932311
+      sha256: 01b5e5d03b94d3885b9850398f69444b0e07fed6745ebff5b6de19064694c688
+    - format: docx
+      name: document.docx
+      bytes: 6298863
+      sha256: 12d30a3a57728c5a0af4c880237613ceb05e1f8c636ac848574370da69eebb99
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: Fyodor Feat analysis document
+  note: (not finished yet)
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Fyodor Dostoevsky
+  link_text: Fyodor Dostoevsky Feat Analysis Document (On Progress)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

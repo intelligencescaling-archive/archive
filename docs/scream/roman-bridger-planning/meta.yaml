@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: roman-bridger-planning
+category: doc
+title: Roman Bridger Planning
+authors: []
+series:
+- scream
+characters:
+- roman-bridger
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1L2tV7Kfo5s3zcH-teDU_wcpownwYqVBcjdmIInLoXYo
+    google_id: 1L2tV7Kfo5s3zcH-teDU_wcpownwYqVBcjdmIInLoXYo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 5546
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1125329
+      sha256: a1f3660d05819a9e87330f8b38a3d962b33e2d490dab134c6101e5070508894d
+    - format: docx
+      name: document.docx
+      bytes: 1932241
+      sha256: 5444ca8e0d58e3dfb1e0d29c24cb2bbd9fc9678d8da9ce3d0440b2d683234bfd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Roman Bridger Planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

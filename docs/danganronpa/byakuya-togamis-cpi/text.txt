@@ -1,0 +1,102 @@
+Byakuya Togami’s CPI
+
+This small document will cover the two main CPI feats which can be applied to his SCD scaling.
+
+One of them is valid by implied narrative upscaling and using game mechanics: if you don’t believe in Byakuya being able to perform the feat based on one of these two reasons (or both, or whatever else), then you can use the other feat, which is like, pretty much valid imo (simply to say that contentions are potentially possible, just that I’m kinda unaware of them, or just believe that they don’t negate the feat).
+
+Written on the whim, if there are any imprecisions, it’s either because I’m blatantly wrong, or because I’m forgetting stuff. Though I will try to put scans to ease the explanation.
+
+Komaru Naegi upscaling
+
+Context : in Danganronpa 3, Future Arc, Episode 7, Komaru Naegi and Toko Fukawa fall from Monaca’s truck thing that’s ascending into space. Needing to figure out a way to assure their safety upon falling, Komaru decides to use 4 Monokumas on the Monaca Tower rooftop, having them take each edge of a big red sheet, and using the fact that they’re on the top of the roof, utilise this gap below so that they don’t directly get crushed into the ground.
+
+Here is an image of the disposition.
+
+She does this via the Link bullets from the hacking gun. This function allows Komaru to take control of a Monokuma unit and the game likens this to directly inputting her consciousness into the robot (game mechanics), without any other narrative explanation to this.
+
+Therefore, using the Link bullets on 4 different Monokumas, thus injecting her consciousness into 4 different units at the same time, she is able to split her consciousness, and run 4 different cognitive threads simultaneously. This is beyond the simple multitasking some other characters can do by swiftly switching their attention from, say, one computer to another: Komaru here is doing everything at the same time, further proven by the fact that the Monokumas move in different directions, simultaneously, gripping different parts of the sheet, each having their own spatial awareness.
+
+Intrinsically, she should be processing different sensations at the same time from 4 different sources: meaning touch, vision, and sound.
+
+Extra note here, technically Komaru is also implied to stay conscious in her own body whenever she uses the Link function. Hence, it’s plausible to assume she’s actually managing 5 consciousnesses at the same time. Additionally, the feat doesn’t even seem to be that mentally straining for her, at least considering the immense cognitive load.
+
+Why does Byakuya upscale from this?
+
+Byakuya, although not branch leader, is seen taking leadership roles when Kyoko cannot, as evidenced when she was in the Killing Game. Thus, his presence in missions on the field involving high danger is likely, showcasing his experience in using the hacking gun. Especially given that he’s directly shown using one in the prologue of UDG, being far more proficient and handling several Monokumas (before eventually getting captured at one point).
+
+Also by general narrative, Byakuya is the type to integrate skills and train them at above average levels. And Komaru only learnt to use the weapon for little time, in comparison (though, take into account her situation in the Demon Hunting which supposedly, along with Nagito’s precise management of placement and difficulty of Monokumas, should’ve made her highly skilled than most in using the hacking gun by the end of her journey).
+
+And final point, Byakuya is implied to be the one who invented the hacking gun (the idea of it).
+
+In Danganronpa S, one of the events feature Byakuya, Miu and Genocide Jack interacting. Byakuya had given Miu the blueprint of a megaphone gun to counter the Monobeasts.
+
+You may have obvious doubts since this is a non-canon entry, but I believe that the implication is meaningful even in canon, due to the statement even being mentioned in the first place, taking the opportunity to sprinkle in some small bits of lore here and there.
+
+That’s the first feat. Ofc, you can have some arguments to disprove this, whether Komaru’s feat or Byakuya upscaling from it (or both, or whatever other point).
+
+Extra potential VSI portion: Komaru’s aiming seems to have been precise when shooting at the 4 Monokuma units. This is rather impressive, considering she is falling from a high height at rapid speeds, and that one of the units was moving. However, whether you believe she has that game skill of auto locking onto the Monokumas, this portion can be disqualified.
+
+Reviewing and verifying all the files in the archive room
+
+Context : in THH chapter 2, upon the discovery of the second floor, the cast explores the library. Byakuya takes immediate interest in the archive room, stopping anyone else from entering.
+
+What he was doing in that room was verifying the veracity of all the files and documents, all containing highly confidential information such as assassination attempts on presidents, internal police investigations on cold cases, etc… by comparing what was there in the archive and what he had read in his family library when he was younger.
+
+His confirmation that all files were authentic was made 4 days after the discovery of the second floor, during the investigation of Chihiro’s murder.
+
+This is a full view on the amount of documents present.
+
+So, the feat.
+
+Byakuya, in the span of 4 days, authenticated all of the files there. Naturally, we can do some basic calculations:
+
+4 days = 96 hours
+
+35 (shelves) × 16 (files per shelf, baseline average, not counting all that) = 560 files
+
+200 (pages per file, baseline average, not measuring all that) × 560 = 112,000 pages
+
+We’ll take 100,000 if you think 112,000 is a high end estimate, since we probably value average.
+
+We’ll assume he sleeps 6 hours per day:
+
+96 - (6 × 4) = 72 hours
+
+Using Chat GPT here for these values.
+
+Let’s take 200 because the documents also contain visual information, thus less words per page.
+
+200 (words/page) × 100,000 (pages) = 20,000,000 words total
+
+This means:
+
+* ~277,778 words/hour [20,000,000 ÷ 72]
+* ~4,630 words/minute [20,000,000 ÷ (72 × 60)]
+* ~23 pages/minute [100,000 ÷ (72 × 60)]
+
+We can also assume, say, images every page 70% of the time (70,000 images).
+
+Furthermore, although this is more so a VCI buff, chapter 5 showed that the Fenrir document was written in French (Byakuya being proficient in it, being able to do live translation for Makoto). This can indicate that some other files were written in other languages, needing not only for Byakuya to be fluent in them (or at least capable enough to read and understand the information on a similar speed to his mother tongue, as to not be slower in his overall speed), but notice the exact dialect of each document, matching it with what language it was in when he was younger.
+
+Average wpm (words per minute) is around 100-200 for nonfiction material. Byakuya does ~4,630 without skimming, with practically full comprehension and retention.
+
+But the reading speed itself isn’t the core of the feat.
+
+In order to verify the authenticity of each and every document, he needs to:
+
+* Cross-reference past documents from his youth.
+* Mentally compare subtle details, such as: dates, names, events, writing styles, formatting, metadata, etc… upon the initial read (using the calcs above, we assumed he’s not rereading passages).
+* Additionally to the above, photographs and images are also included in the details. He needs to analyse the pictures in their entirety, matching the ones he saw younger and the ones there (also VSI buffs).
+* Understand + recall historical/political context.
+* Analyse on a forensic-level, judging from the fact that there are also documents about murders (Genocide Jack example).
+* And, if you believe in the presence of diverse languages in the files, he has to do point 2 across different ones.
+
+Such performance is eidetic, or near-eidetic processing and memory.
+
+Do take into account this is assuming 6 hours of sleep, not counting the scenes where he’s seen doing something else, etc… as well as the fact that there are documents on the floor I haven’t mentioned (too much of a hassle trying to count those too).
+
+There are also args he’s reviewed the files multiple times during the 4 day span, but he’s likely just referring to him having read these same documents when he was younger.
+
+Anyways, I hope this document helped make you understand Byakuya’s prowess in CPI (subsequently FSIQ as a whole). Imo, he’s one of the few characters in Danganronpa to even get decent intellectual across the board, even using just games + anime (even just THH tbh).
+
+That one Byakuya scaler, Ranposano.

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-season-6-episode-16-doc
+category: doc
+title: Patrick Jane season 6 episode 16 doc
+alt_titles:
+- PJ 8
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JyTBiZ8p-KBXDChaatvki2L9q58yTLng880Vtp-GZ3U
+    google_id: 1JyTBiZ8p-KBXDChaatvki2L9q58yTLng880Vtp-GZ3U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3549
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 172539
+      sha256: b8a4f1f92d31dcaf3acd0570acd356d54abb1e0530896c779fce208bb0b48736
+    - format: docx
+      name: document.docx
+      bytes: 88498
+      sha256: 214159d5072d237934c7b2379131efa3527d87cb2eaa7e8e942ef19de4a8b70c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 8
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane season 6 episode 16 doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

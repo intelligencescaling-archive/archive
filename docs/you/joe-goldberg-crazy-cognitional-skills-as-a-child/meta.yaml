@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-crazy-cognitional-skills-as-a-child
+category: doc
+title: Joe Goldberg crazy cognitional skills as a child
+alt_titles:
+- Joe Goldberg insane FSIQ
+authors:
+- name: slick_editzzz
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15qyrzIBkYXV8v6parM_EseDyXDlG7TAU_qKKpvifLrw/edit?usp=drivesdk
+    google_id: 15qyrzIBkYXV8v6parM_EseDyXDlG7TAU_qKKpvifLrw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1141
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 281959
+      sha256: 11f02176dd6a4c23127a0088630ed478489b8bbf3e1c472df47d0c8344d91916
+    - format: docx
+      name: document.docx
+      bytes: 799731
+      sha256: b3a66e3502e2299d44c57f4b44c8710cadb53652639e9239373fb0bb0d7eb526
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe Goldberg insane FSIQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

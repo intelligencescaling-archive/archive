@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: san-joaquin-killer-doc
+category: doc
+title: San Joaquin Killer doc
+authors: []
+series:
+- the-mentalist
+characters:
+- james-panzer
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Htqzv_6tuXCgKDW4eCjds7Zg1GrzoNiLLHbdFarlrUw/edit?tab=t.0#heading=h.u4ysc4lo8zx6
+    google_id: 1Htqzv_6tuXCgKDW4eCjds7Zg1GrzoNiLLHbdFarlrUw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 514
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 80088
+      sha256: 1b22e9c8a4baa618b0f42d74f5000dc5bf1923d72a9aa55c8398882b10bb5cff
+    - format: docx
+      name: document.docx
+      bytes: 151496
+      sha256: bf9c1274c3f7d41c7d3671df6216bdf97fe6e81830ec013c39dd00a65e483c36
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: San Joaquin Killer Doc
+- library: remastered
+  section: The Mentalist
+  character: James Panzer (San Joaquin Killer)
+  link_text: San Joaquin Killer doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

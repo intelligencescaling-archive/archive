@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-legal-argument
+category: doc
+title: Joe Goldberg Legal argument
+authors: []
+series:
+- you
+characters:
+- joe-goldberg
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1f0IiYe0fyHt9kDaWGyB0bCC_O9KmxIljbsfe4x3JHck/edit?usp=drivesdk
+    google_id: 1f0IiYe0fyHt9kDaWGyB0bCC_O9KmxIljbsfe4x3JHck
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 4236
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2609490
+      sha256: 476dd263c6ae14659fb8fbe19ff83628fdb241051409c79e0fff95b4cf1cd5f4
+    - format: docx
+      name: document.docx
+      bytes: 2327817
+      sha256: 66805af75300b8de83a3d6f3e2e3e4b87cc0f88d1aaa9b956f20d7c63b82b225
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe Goldberg Legal Argument
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

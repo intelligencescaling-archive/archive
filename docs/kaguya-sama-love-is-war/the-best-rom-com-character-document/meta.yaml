@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-best-rom-com-character-document
+category: doc
+title: The Best Rom-Com Character Document
+alt_titles:
+- kaguya
+authors:
+- name: creationcawthon2
+  reddit: creationcawthon2
+  source: doc-text
+series:
+- kaguya-sama-love-is-war
+characters:
+- kaguya-shinomiya
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aTwmnx9D1aoE0zICD_gU-AEIlu5HfV7INjDsW8jrmLI
+    google_id: 1aTwmnx9D1aoE0zICD_gU-AEIlu5HfV7INjDsW8jrmLI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1595
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1010172
+      sha256: 05e4fe8d003d66f3bcd2a5a2dad47a9f08db1be0dd28f743a378151a1259e030
+    - format: docx
+      name: document.docx
+      bytes: 2273244
+      sha256: 5eb1e8751eecd2c508025a97f02fadbae77dd81d9bab616d8923b944ffaa81b6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: kaguya
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

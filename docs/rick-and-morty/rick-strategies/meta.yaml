@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rick-strategies
+category: doc
+title: Rick Strategies
+alt_titles:
+- Rick Sanchez Strategies
+authors: []
+series:
+- rick-and-morty
+characters:
+- rick-sanchez
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1qc40iZ4lqTx1Ov5mnmyJqpzsOY-vFNoDhsH70Gzt14I/edit?tab=t.0#heading=h.o0c7zk17auwy
+    google_id: 1qc40iZ4lqTx1Ov5mnmyJqpzsOY-vFNoDhsH70Gzt14I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 3677
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 134265
+      sha256: 6bfb8f53e35a15ba397b17005f95aa447d5c02bd9a96e0a6579db31457d27d1f
+    - format: docx
+      name: document.docx
+      bytes: 15174
+      sha256: e6375d486e75d3c4c2381a35e7952f80cfea75b8d90065a4b9d21a484cd041fe
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Rick Sanchez Strategies
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

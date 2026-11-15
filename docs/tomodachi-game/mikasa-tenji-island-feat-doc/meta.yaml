@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mikasa-tenji-island-feat-doc
+category: doc
+title: Mikasa Tenji island feat doc
+alt_titles:
+- Mikasa tenji doc
+authors: []
+series:
+- tomodachi-game
+characters:
+- mikasa-tenji
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=19CAl-ZP2lEeksnnTZxdTJnEowtEIuc9B
+    google_id: 19CAl-ZP2lEeksnnTZxdTJnEowtEIuc9B
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Mikasa tenji doc .docx
+      bytes: 4621420
+      sha256: 853e636e8ead740a128fb45ed38813a48fea7b1eed85a838bf0529a3fc6cc552
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Mikasa Tenji island feat doc
+- library: remastered
+  section: Tomodachi Game
+  character: Mikasa Tenji
+  link_text: Mikasa tenji doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

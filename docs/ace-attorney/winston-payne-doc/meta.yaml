@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: winston-payne-doc
+category: doc
+title: WINSTON PAYNE DOC
+alt_titles:
+- Winston Payne
+authors: []
+series:
+- ace-attorney
+characters:
+- winston-payne
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1rvKtKUHKXywOsDpRe7bLvrjwcLYjjTKu04bLPzGJUJk
+    google_id: 1rvKtKUHKXywOsDpRe7bLvrjwcLYjjTKu04bLPzGJUJk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 2253
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4289945
+      sha256: e1739e20a851da39487acd47b65b09ff98ed3005d0d1c2c17559b02ca1cba025
+    - format: docx
+      name: document.docx
+      bytes: 4371809
+      sha256: 6004291361cd41899081e6b16a239b4ccdaea9d778268727fca6b7f52dc1eae9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Winston Payne
+- library: remastered
+  section: Ace Attorney
+  character: Winston Payne
+  link_text: WINSTON PAYNE DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

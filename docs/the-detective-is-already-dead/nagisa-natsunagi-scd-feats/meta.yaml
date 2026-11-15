@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagisa-natsunagi-scd-feats
+category: doc
+title: Nagisa Natsunagi – SCD Feats
+alt_titles:
+- Nagisa Natsunagi SCD document
+authors: []
+series:
+- the-detective-is-already-dead
+characters:
+- nagisa-natsunagi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1N1yJylrUegz5FUXIzmYgIMe2HWi-ogP4l8XuIUQw4TI/edit?usp=drivesdk
+    google_id: 1N1yJylrUegz5FUXIzmYgIMe2HWi-ogP4l8XuIUQw4TI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 7798
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1406081
+      sha256: 1b98d570c81d3ba4c3a5dd79f5e65c50557c73626213dd80bd6002d1c1972251
+    - format: docx
+      name: document.docx
+      bytes: 1089024
+      sha256: 0babdeebd158244e67c63d6a5af828c6ecdbd81b5f44c1a7a50d421898db00ca
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Nagisa Natsunagi SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

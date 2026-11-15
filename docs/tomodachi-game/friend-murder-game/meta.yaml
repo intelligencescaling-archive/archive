@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: friend-murder-game
+category: doc
+title: Friend murder game
+alt_titles:
+- Yuuichi Friend Murder Game doc
+- Yuuichi Friend Murder Game Strategy
+authors:
+- name: Morreti_Amon
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11VfOrCEBLF43hV8m7fFOHb0gesmk5GKITZH8PO4pEMg/edit?usp=drivesdk
+    google_id: 11VfOrCEBLF43hV8m7fFOHb0gesmk5GKITZH8PO4pEMg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 78
+    words: 22068
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 860083
+      sha256: a92fcc4106297d7ef939bc9f4bb54048fb2579fa9478111fd64fcc9c19141f68
+    - format: docx
+      name: document.docx
+      bytes: 74400
+      sha256: 395b5cd04ab1d2e91bea695c3f0b576c81c0e7e61b300c562737353425faf1ab
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi Friend Murder Game doc
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi Friend Murder Game Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

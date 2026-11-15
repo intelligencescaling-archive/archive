@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hals-rubik-s-cube-feat
+category: doc
+title: HAL’S Rubik's Cube Feat
+alt_titles:
+- Hal's Rubik's Cube Feat
+authors:
+- name: C
+  source: doc-text
+- name: PatchiooX
+  source: doc-text
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pDGobgQviil3GeIjBKFJigTFCBiLotU-CQOsBZz5qTU
+    google_id: 1pDGobgQviil3GeIjBKFJigTFCBiLotU-CQOsBZz5qTU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 948
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 256386
+      sha256: 8e46043ac84196c80a3116aed2e93fb5063be41f6599e9fb51edda7b846e2ca3
+    - format: docx
+      name: document.docx
+      bytes: 97989
+      sha256: 11c7beb453036268a13a9a6d6aaed0d7c929690b5ff622911c29348b5a6bf096
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Hal's Rubik's Cube Feat
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: HAL’S Rubik's Cube Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

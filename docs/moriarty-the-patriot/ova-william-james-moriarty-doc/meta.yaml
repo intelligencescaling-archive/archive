@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ova-william-james-moriarty-doc
+category: doc
+title: OVA William James Moriarty Doc
+alt_titles:
+- OVA WJM SCD Doc
+authors:
+- name: KC Axolotal/KitchenCoyote7942
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+variant: OVA
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1e3DkmceIkOiBlicFYp_cuv04wpkiyghPL4D-vdSotbM/edit?usp=drivesdk
+    google_id: 1e3DkmceIkOiBlicFYp_cuv04wpkiyghPL4D-vdSotbM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 2683
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 345753
+      sha256: 18ec26c5e3f1d41d692b05d12945465bd5460b331d2b82b9bf8a6aa772e14679
+    - format: docx
+      name: document.docx
+      bytes: 627097
+      sha256: 0e45bf6c96e30215142abd0cf48e8bc516636b24a3695b972136e92ed1c5422f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: OVA WJM SCD Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

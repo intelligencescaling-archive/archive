@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tomohiro-machiya-feats-for-every-scaling
+category: doc
+title: Tomohiro Machiya - feats for every scaling
+alt_titles:
+- Machiya's feats for every category
+authors: []
+series: []
+characters:
+- tomohiro-machiya
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LFJEj-C_Egi1lGyU--i36aW1MICArmSxp-k1U7lF_vg/edit?usp=drivesdk
+    google_id: 1LFJEj-C_Egi1lGyU--i36aW1MICArmSxp-k1U7lF_vg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 44
+    words: 4574
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25839731
+      sha256: 454c77f29da6fa5791391eee0d18e0cdb9e1a6a057ef025a1d76771e80c71cfb
+    - format: docx
+      name: document.docx
+      bytes: 29054906
+      sha256: 655b311c3d0102199cdc0bdaa19cff8698139db04bf5ea886dc08a84bdafc517
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Machiya's feats for every category
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

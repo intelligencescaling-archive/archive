@@ -1,0 +1,108 @@
+Morse Code Test
+This document is meant to elaborate SED Ayanokoji’s feats from a flashback in Chapter 15.5 concerning a test he took in the White Room.
+
+Doc Keys:
+Pink — Strategy, Planning, Tactics, Thinking
+Blue — Foresight, Reasoning, Analysis, Psychology
+Red — Deception, Subversion, Manipulation, Social Engineering, SI
+Green — Cognition, General Intelligence, FSIQ, Sensory, EI
+Purple — Field Crafting, Adaptability, Counteraction
+Blue — AC, Resistances, Judgment
+
+In a WR exam room KA is tasked to take a test: He is given a piece of paper with “GOOD WORK” written in Morse Code on it. (He has no prior knowledge of Morse Code.) The instructor emphasizes that the test is meant to measure fluid intelligence, and he is given 10 minutes to solve the test. No additional context is given other than the test itself:
+--. --- --- -..
+.-- --- .-. -.-
+	Around 4 seconds later KA writes down “good work”. Most of this time was spent trying out numerous additional possibilities, making sure that another solution doesn’t exist, even going so far as to consider anagrams. If he had been less cautious, he probably would have been far quicker. [PSI]
+However the solution is false. In reality he should have written “GOOD WORK”. This is probably the only antifeat KA has ever shown.
+
+First it should be noted that KA previously made an abduction regarding the nature of a wall in the room he is taking the test.
+He has often noticed the presence of individuals behind it (most likely from the sounds they produced). He hypothesizes that the wall is made in a special way that makes it opaque on his side, but transparent on the other one. It is probably being used to secretly observe him. He suspects this is achieved by making the surface partially let light through, while reflecting the rest. According to his theory the light on his side is purposely made far more intense than on the other one, making the reflection more dominant on one side and the image of said side more dominant on the other one.
+The fact that less light is reflected from the wall than from others supports his theory.
+[Abductive Reasoning, Sensory, Crystallized Intelligence, Knowledge Application, Applicative Thinking]
+
+This insight then forms part of a deduction he makes about the true nature of the test:
+P1: The test is supposedly meant to measure fluid intelligence.
+->
+P2: If there exists a single definite solution, this would mean that there exists some striking kind of inherent symmetry or other mathematical pattern that ought to stand out. But no such solution exists.
+->
+C1: What the instructor’s remark implies is that I should just find some particularly interesting fluid pattern.
+->
+P3: However I wasn’t ordered to find a fluid pattern. I was simply told that my fluid intelligence would be measured.
+->
+P4: Without said instructions there is nothing which lends the test particularly towards fluid interpretation.
+->
+C2 (tentative): For some reason I am supposed to be told that the test requires fluid intelligence, despite it not being part of the assigned task. In other words the instructor lied to me.
+->
+P5: It seems unlikely that in the strict WR an instructor would simply misspeak instead of ordering him.
+->
+P6: Furthermore I have never seen the examiner before.
+->
+P7: The exam is being held in the room with the one-way mirror. And I can sense that somebody is behind that mirror.
+->
+P8: There also was something suspicious about the instructor’s body language.
+->
+C3: The instructor was indeed lying. There is something special about this test.
+->
+P9: The WR usually gives me challenges in the form of structured tests.
+->
+P10: Eventually I will be released to the outside world, where situations do not occur in such a structured framework as in the WR.
+->
+C4: The true purpose of the test is to see whether I am bound by the frameworks of the tests and problems set before me by the WR or whether I can look beyond it and critically analyze the system I have been in my entire life.
+->
+P11: The entire misdirection happened by means of a supposed side comment of an instructor. It never was part of the “official” task.
+->
+P12: If I considered the instructor’s comment at face value, it would mean that I have to find some particularly creative fluid solution.
+->
+C6: Said solution must be invalid regardless of the context of the instructor’s comment.
+->
+OVERALL CONCLUSION: That would mean that not only does there exist a non-fluid, crystallized solution, but that it also is a definite one. Otherwise it would have no claim of superiority over the numerous fluid interpretations.
+[Logical Reasoning, Critical Thinking, Convergent Thinking, Lateral Thinking, FRI, VCI, Observation, EP, Manipulation Resistance, Trap Evasion]
+
+KA tests out various solutions and manages to find a highly plausible one: It’s a code. His thought process went something like this:
+P1: There are eight different segments on two different lines.
+->
+P2: Each segment consists of three characters.
+->
+P3: Due to Occam’s razor a simple solution would be preferable.
+->
+C1: The test might be written in some kind of code. This would mean that its meaning consists of two four-letter words, with the letters being encoded by certain combinations of dots and dashes. (Although they are only three symbols long here, they could sometimes be shorter or perhaps even four characters long.)
+->
+P4: Even if one assumes the message is meant to be a code, there are numerous possibilities of meaningful encodings.
+->
+P5: If the solution is supposed to be definite, there must be something that differentiates the correct code from the others.
+->
+P6: The test generally seems to have a theme of actually requiring crystallized intelligence.
+->
+C2: The code wasn’t especially constructed for the test, but exists in real-life.
+->
+P7: They dot and dash are ideal symbols for a language designed for efficiency, only using two general symbols, ideal for representing on and off, short and long signals, etc.
+->
+P8: There is also a highly likely historical use-case for such a language. Before the telephone was popularized in 1872, communication was done via telegraph — a device only capable of transmitting information by means of the two states on and off. People are sure to have developed encryption methods to transmit messages in human language with it. For simplicity’s sake they probably only used two signal lengths: short and long — or perhaps, when written down: dot and dash?
+->
+OVERALL CONCLUSION/ABDUCTIVE THEORY: The dashes and dots constitute an encoded message, with each triple of symbols designating a letter.
+Of course this is not a solid deduction. It nonetheless is a highly plausible theory, of which KA did not find a noteworthy rival of.
+[Abductive Reasoning, Inductive Reasoning., Abstract Thinking, Divergent Thinking, Applicative Thinking, Crystallized Intelligence, Knowledge Application, FRI]
+
+As such we most likely have some code
+[A] [B] [B] [C]
+[D] [B] [E] [F]
+with the [A] to [F] denoting letters, most likely Latin ones.
+KA thoroughly tries out various languages and words, going even as far as to consider anagrams.
+[CPI, General Intelligence, VCI, Non-Linear Thinking]
+There however is one that seems particularly likely: “good work”.
+* It's English, the global lingua franca.
+* The WR is a school-like environment. Even though praise is not exactly common, it still seems like a fitting message for a test.
+Given that the code is made for long-term communication, efficiency must have been important in its design. Therefore it seems likely that no distinction is made between lower- and uppercase letters.
+He realizes that it also could be “GOOD WORK”, but can't decide which option is better.
+OVERALL CONCLUSION: The solution is either “good work” or “GOOD WORK”.
+He randomly chooses “good work”.
+[Abductive Reasoning, Deductive Reasoning]
+In the end “GOOD WORK” turned out to be the correct solution.
+
+The author explained in the comment section that there actually is a way to solve the test correctly. It is safe to say that current KA could have solved the problem, especially since he finally had first-hand contact with human society. His reasoning would have continued as follows:
+The code must be built for efficiency in communication. Therefore abbreviations are probably often used.
+For example “How is Kiyotaka Ayanokoji doing?” might be abbreviated as “How is KA doing?”. As he already surmised, the code must not distinguish between lower and uppercase for efficiency’s sake.
+So does that mean the message reads “how is ka doing”? Looks a bit weird doesn’t it? “HOW IS KA DOING” looks better. The reason is that people tend to capitalize abbreviated forms.
+Therefore it seems more likely that the message is “GOOD WORK”.
+[VCI, Crystallized Intelligence, Abductive Reasoning]
+[Background info on crystallized and fluid intelligence]

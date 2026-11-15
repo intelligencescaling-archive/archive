@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yumeko-jabami-doc
+category: doc
+title: Yumeko Jabami Doc
+authors: []
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1uHnhIlhjyj7AspFgI49i636wuKKza5kx2Tc75zZjFTs/edit?tab=t.0#heading=h.adgqt6x4zuzr
+    google_id: 1uHnhIlhjyj7AspFgI49i636wuKKza5kx2Tc75zZjFTs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 108
+    words: 36918
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2144557
+      sha256: 5eaa7c4c7a52126bf3ee48c0308f00aa423486cdaea2f7ce7154915a7dbd48ab
+    - format: docx
+      name: document.docx
+      bytes: 1820173
+      sha256: ffefcc628d3dfd3b56e0e8df29c49f937dc7b919cc0f886e47c587d566bb63b7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Yumeko Jabami Doc
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: Yumeko Jabami Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

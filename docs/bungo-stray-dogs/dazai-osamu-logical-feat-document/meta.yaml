@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dazai-osamu-logical-feat-document
+category: doc
+title: Dazai osamu logical feat document
+alt_titles:
+- Dazai Osamu Logical feats
+authors: []
+series:
+- bungo-stray-dogs
+characters:
+- dazai-osamu
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1dkV8FECCT3LShXCMb0Zo219fIJU-c2I0F-7_AwvpfnA
+    google_id: 1dkV8FECCT3LShXCMb0Zo219fIJU-c2I0F-7_AwvpfnA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 16
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 65279
+      sha256: 78ad83581ebc1c9c4ac41eb8b095608364d70e6fef644331be7e1df661a2195b
+    - format: docx
+      name: document.docx
+      bytes: 30286
+      sha256: 8dc312f279ff1bfec794ea8b8ac40e8c544f275509f8b9305d994c10a857beea
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: Dazai Osamu Logical feats
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Dazai Osamu
+  link_text: Dazai osamu logical feat document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

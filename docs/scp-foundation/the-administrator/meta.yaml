@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-administrator
+category: doc
+title: The Administrator
+alt_titles:
+- The Administrator Doc
+authors:
+- name: Sefiros3812
+  source: doc-text
+series:
+- scp-foundation
+characters:
+- the-administrator
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11uHcNCbqxLonFS72MgFd1SQQS-4pHN6Ecag8l71vKwA/edit?tab=t.0
+    google_id: 11uHcNCbqxLonFS72MgFd1SQQS-4pHN6Ecag8l71vKwA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 6294
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1889838
+      sha256: 37d4aa3508205cfee3ae4bb505e26e1b66503a391540ff0905e637f1e7ec9bb5
+    - format: docx
+      name: document.docx
+      bytes: 2317498
+      sha256: 8bdc6e82a414c273def2af7c447a12165e4ba28a5ce9bee6906bce0920a32c9e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: The Administrator Doc
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: The Administrator
+- library: remastered
+  section: SCP Foundation
+  character: The Administrator
+  link_text: The Administrator
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

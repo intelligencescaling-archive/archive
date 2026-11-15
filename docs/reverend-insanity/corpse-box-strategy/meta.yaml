@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: corpse-box-strategy
+category: doc
+title: Corpse Box Strategy
+alt_titles:
+- Fang Yuan corpse box strategy
+authors:
+- name: Herald
+  source: doc-text
+- name: Rain
+  source: doc-text
+- name: Kylizz
+  source: doc-text
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17xhPs0JUwbursa6_KIAFGG7Oie8mOsrjf6RfKK2ICXk
+    google_id: 17xhPs0JUwbursa6_KIAFGG7Oie8mOsrjf6RfKK2ICXk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 6557
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 252956
+      sha256: 9fab4b7718a8e5d7d1f2fc0af88a61efd79c50068bd5dd0bcf8a1d67942feec5
+    - format: docx
+      name: document.docx
+      bytes: 590498
+      sha256: ad41ca1694f8c7501286c40418b0bba243c2b63f07741d639bb5d0ca5fe921ee
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan corpse box strategy
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Corpse Box Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

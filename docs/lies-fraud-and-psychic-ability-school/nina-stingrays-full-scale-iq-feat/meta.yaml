@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nina-stingrays-full-scale-iq-feat
+category: doc
+title: Nina Stingray’s Full Scale IQ Feat
+alt_titles:
+- Nina Stingray FSIQ
+authors:
+- name: Slapstick_Editz
+  source: doc-text
+series:
+- lies-fraud-and-psychic-ability-school
+characters:
+- nina-stingray
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12nhFp1QtIEz0RjjUgyvZ2-J6MAAU0r_uIP0f32AIrl4/edit?usp=drivesdk
+    google_id: 12nhFp1QtIEz0RjjUgyvZ2-J6MAAU0r_uIP0f32AIrl4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 732
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 68211
+      sha256: f7da9a78e0eca7cc56090783d07dcc59a60d42f90721c8296890d7fb3a323b92
+    - format: docx
+      name: document.docx
+      bytes: 10129
+      sha256: 03bbc35e71e8e6c2fca9d17a87cfcdd0f3efdea53c3d936de58921de098d8d8b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Nina Stingray FSIQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

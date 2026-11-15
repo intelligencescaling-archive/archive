@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vladimir-makarov-doc
+category: doc
+title: Vladimir Makarov Doc
+authors:
+- name: Darthren132
+  source: doc-text
+series:
+- call-of-duty
+characters:
+- vladimir-makarov
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1MdAts1eZwlUp5H_EqSLCLHYEgb_KH6Hu5jzlJO5FGdM
+    google_id: 1MdAts1eZwlUp5H_EqSLCLHYEgb_KH6Hu5jzlJO5FGdM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1543
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 93258
+      sha256: 6ac075a21a0626822191d929b4686317e67c6b78e3f5132ffbff5f5da225f73a
+    - format: docx
+      name: document.docx
+      bytes: 148064
+      sha256: 4938d54c827437a89f9c7d2f1a7b797d46537d8947347f0f71cb0657748d6cdd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Vladimir Makarov doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-guide-to-strategy-in-scd
+category: doc
+title: A Guide to Strategy in SCD
+authors:
+- name: Ace
+  source: doc-text
+series: []
+characters: []
+tags:
+- guide
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1F1KI5I9aB6XqkNX7Yu5HV7SroAedx36gHNh4XuaNOpo
+    google_id: 1F1KI5I9aB6XqkNX7Yu5HV7SroAedx36gHNh4XuaNOpo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 4430
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5416760
+      sha256: b55e8ebb8af36cdc7ff4f71ce61d6b62bdf463fac646b6abb6713f3cfd159f4d
+    - format: docx
+      name: document.docx
+      bytes: 5893651
+      sha256: 0bd1319df925f175e1739c618639b96732a46a26231dffdfebe5662dff827cd9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: A guide to strategy in SCD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tsukumo-bomb-strategy-analysis
+category: doc
+title: Tsukumo Bomb Strategy Analysis
+alt_titles:
+- Inspector Tsukumo Bomb Strategy
+authors: []
+series: []
+characters:
+- inspector-tsukumo
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1kzM0y-sukt4soP8kreaVghgTvqYnRqoPVlM7KBiNL6Y/edit?tab=t.0
+    google_id: 1kzM0y-sukt4soP8kreaVghgTvqYnRqoPVlM7KBiNL6Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1262
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 154291
+      sha256: b274eedeab8ee19a9b5e979326e04151cb8a776d1e415801fac94b85a04f21b3
+    - format: docx
+      name: document.docx
+      bytes: 86082
+      sha256: 16ff6a2c19e3e2d785296303f33a8f317324d740bf5a0a1e2b48367b183b8397
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Inspector Tsukumo Bomb Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

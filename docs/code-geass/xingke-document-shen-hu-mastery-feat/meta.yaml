@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: xingke-document-shen-hu-mastery-feat
+category: doc
+title: 'Xingke document: Shen Hu mastery feat'
+alt_titles:
+- Xing Ke's Shen Hu mastery feat Doc
+authors: []
+series:
+- code-geass
+characters:
+- li-xingke
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=199FxSCrYwToYxVynPliwMNFucK6Gv2B72b7xQFg68Fs
+    google_id: 199FxSCrYwToYxVynPliwMNFucK6Gv2B72b7xQFg68Fs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 639
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 114774
+      sha256: f3e03b125d8518ee3a824f1aac109b07f0037269b2bf1e0f56d100e0d96ab607
+    - format: docx
+      name: document.docx
+      bytes: 9644
+      sha256: 7ca255f3cdccbb4de460572e296e413e2d0324a313297252a06fc86624db930e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Xing Ke's Shen Hu mastery feat Doc
+- library: remastered
+  section: Code Geass
+  character: Li Xingke
+  link_text: 'Xingke document: Shen Hu mastery feat'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-feat-list
+category: doc
+title: Johan feat list
+alt_titles:
+- Another Johan Document
+authors: []
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17OaKR-RfFEP3AWet__-ZeqvQLY8Qa02heO0BEERNvmE/edit?tab=t.0
+    google_id: 17OaKR-RfFEP3AWet__-ZeqvQLY8Qa02heO0BEERNvmE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 520
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 65734
+      sha256: ad8f5ef70d9a01118f8dcfb9459b0470c6e9395ff229b9f7050eed53c5068901
+    - format: docx
+      name: document.docx
+      bytes: 218833
+      sha256: 5c34d46eb2aee38fe4e2064dc5c770df32adb18e0417db9113604da59b6ea311
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Johan Document
+- library: remastered
+  section: Monster
+  character: Johan Liebert
+  link_text: Johan feat list
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

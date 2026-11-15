@@ -1,0 +1,91 @@
+PANDEMIC GAME LR
+Doc made by Enii — That’s from the upcoming Akiyama LR Doc
+Infected = IF
+Normal = NM
+Nao proposes a strategy during the Simulation Round:
+1. The 2 infected players should reveal themselves.
+2. The remaining 10 normal players contact each other, creating 9 vaccines each.
+As a result, Nao realizes she is IF+0.
+ROUND RESULTS: 9 IF, 3 NM.
+
+Immediately after the results are shown, Akiyama states that he already knows the truth behind it all.
+
+Q&A: “Wouldn’t that be susceptible to deceit?” No, if someone lies while writing the name, it will result in major inconsistencies which will be shown later.
+
+After all the names are written, Akiyama then shows us some possible situations he formulated by himself:
+
+PREMISE ONE: When 10 players begin to contact within a round-robin rotation and just one of them are infected, then the virus will only spread for 2 people. That’s because:
+* Player 1 (IF)  contacts Player 6 (NM) -> Player Six becomes IF.
+* 2 contacts 7, 3 contacts 8, 4 contacts 9 and 5 contacts 10
+First result: 1 & 6 are IF, the remaining are all NM with 1 vaccine each.
+* Player 1 (IF) contacts 7 (NM+1) -> One becomes NM and 7 becomes IF.
+* Player 6 (IF) contacts 5 (NM+1) -> Six becomes NM and 5 becomes IF.
+* All the remaining contact each other and receive a vaccine, totaling two vaccines for 2, 3, 4, 8, 9 & 10.
+Second result: 5 & 7 are IF, 1 and 6 are NM+0 and 2, 3, 4, 8, 9 & 10 are NM+2.
+* Player 5 and 7 contact each other (both IF) -> Nothing happens.
+* Player 1 (NM) contacts 8 (NM+2) & Player 4 (NM+2) contacts 6 (NM).
+* 2 contacts 9, 3 contacts 10.
+Third result: Players 1 and 6 are NM+1 and the remaining (excluding the IFs 5 and 7)  are NM+3.
+* Player 5 (IF) contacts 8 (NM+3) -> Player 5 becomes NM, 8 becomes IF+2.
+* Player 4 (NM+3) contacts 7 (IF) -> Player 7 becomes NM, 4 becomes IF+2.
+* Player 1 (NM+1) contacts 9 (NM+3), Player 2 (NM+3) contacts Player 10 (NM+3), Player 3 (NM+3)  contacts Player 6 (NM+1).
+Fourth result: Players 4 & 8 are IF+2, 5 & 7 are NM+0, 1 & 6 are NM+2 and the remaining are NM+4.
+* Players 4 & 8 contact each other (both are IF+2) -> Nothing happens.
+* The remaining contact each other, resulting in this as the end of the round:
+Player 1 is Normal with 3 Vaccines.
+Player 2 is Normal with 5 Vaccines.
+Player 3 is Normal with 5 Vaccines.
+Player 4 is Infected with 2 Vaccines.
+Player 5 is Normal with 1 Vaccine.
+Player 6 is Normal with 3 Vaccines.
+Player 7 is Normal with 1 Vaccine.
+Player 8 is Infected with 2 Vaccines.
+Player 9 is Normal with 5 Vaccines.
+Player 10 is Normal with 5 Vaccines.
+FIRST CONCLUSION: The results say there are 3:4 Infecteds out of 12, not 1:6 as shown there in the first premise. Therefore, this first premise is false.
+
+PREMISE TWO: Now, if there are two IF players, the pattern follows like this:
+
+So, the end of the round would result in:
+Player 1 is Normal with 1 Vaccine.
+Player 2 is Normal with 3 Vaccines.
+Player 3 is Normal with 5 Vaccines.
+Player 4 is Infected with 2 Vaccines.
+Player 5 is Infected with no Vaccines.
+Player 6 is Normal with 3 Vaccines.
+Player 7 is Normal with 1 Vaccine.
+Player 8 is Infected with no Vaccines.
+Player 9 is Infected with 2 Vaccines.
+Player 10 is Normal with 5 Vaccines.
+SECOND CONCLUSION: Here, the hypothetical results say there are 1:3 infecteds out of 12, which is still inconsistent. Therefore, the second premise is also false, which means the method of virus spreading couldn’t be Round-Robin by these standards.
+
+THIRD PREMISE: Akiyama proposed a situation that would justify these results. Assume that the first person is IF and also is someone who actively seeks contact. Remember that Nao was IF+0? Other players claimed they were too, including Akiyama himself, so:
+If Players 1 & 2 are IF and Player 1 seeks contacts, that would mean he could contact 3, 4 & 5 before they start contacting the rest in a Round-Robin manner.
+So, if we follow that, it will result in this situation:
+Which means, this situation is the only one that follows the rule of IF+0 and has 9 NMs that became IF.
+Now, summarizing these hypothesis and Akiyama’s reasoning:
+
+FIRST PREMISE: There were 9 IFs and 3 NM and all IFs were IF+0
+SECOND PREMISE: If there is one IF within a 10 player group and they start contacting in a round-robin way, the results would be inconsistent with P1.
+THIRD PREMISE: If there are two IF within a 10 player group and they start contacting in a round-robin way, the results would still be inconsistent with P1.
+FOURTH PREMISE: If there are two IF within a 10 player group and one of them contacts other three NM before they start contacting in a round-robin way, the results would be consistent with P1, which means P4 can be true.
+FIFTH PREMISE: There can only be two IF at the start.
+SIXTH PREMISE: Bangs and Fatty claimed to be infected.
+SEVENTH PREMISE: 4-Eyes was actually IF, but was pressured into spreading the virus. This is proven, because only one person wrote 4-Eyes as the first player they contacted, so the virus did not spread through him.
+EIGHTH PREMISE: Yokoya hurriedly contacted Bangs and Fatty after contacting the 4 NM people.
+
+-> If the virus had spread, then there has to be an instance where an IF is among them.
+-> If there are 9 IF and player 1 became normal, then P3 can be true.
+-> If P3 is true, then the first player to contact multiple players is the one who is IF, which is confirmed to be Yokoya.
+-> If Yokoya spreads the virus, then he is IF.
+-> If P3 and P7 are true, then Yokoya and 4-Eyes were the original IF.
+-> If Yokoya and 4-Eyes were the original IF, then P6 is false, since it is inconsistent with P5. So, Akiyama deduces that Bangs and Fatty were lying.
+-> If Bangs and Fatty were lying, then they are NM.
+-> If Bangs and Fatty were NM, and P8 happened, then Yokoya became NM.
+
+FINAL CONCLUSION: There are 3 NM, that being Yokoya, Fatty and Bangs. The rest were IF due to Yokoya’s contacts, then he became NM after contacting Fatty and Bangs. Fatty and Bangs lied about being IF, they were in fact, NM.
+A good trait of this deduction is that Akiyama formulated the first 3 premises and the first 2 conclusions just some seconds after being shown the results, even before writing it on the paper.
+
+This feat shows: Deductive Reasoning & Inductive Reasoning.
+Secondary strengths: Working Memory, Processing Speed & Formulation Speed, including thinking categories like Lateral, Critical, Analytical, Quick, Abstract, Divergent & Convergent.
+Q&A: “Why Abstract?” Akiyama was able to analyze a complex situation and apply his own rules with fluidity and reason with consistency through valid patterns to reach an immutable result in just some seconds, which is similar to making complex inferences in high-level maths in just some seconds, which is top-genius level FRI & AR.

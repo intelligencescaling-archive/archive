@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: takuya-having-120-iq
+category: doc
+title: Takuya having "120 IQ"
+alt_titles:
+- Debunk of takuya having 120 IQ
+- Takuya having “120 IQ”
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1h13nEEQ3f6xdv94I9qbffQDyHdkqxp4TSjs6UNFwl24
+    google_id: 1h13nEEQ3f6xdv94I9qbffQDyHdkqxp4TSjs6UNFwl24
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1805
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 118365
+      sha256: a2320388e06ae78f5a17f13992971271d08a1dcf7520978e2dd0a715a412f1c6
+    - format: docx
+      name: document.docx
+      bytes: 559505
+      sha256: 76688ff6fdd80a6b2ba208056ff9014dcfdf49cd4de7ba13335b7833c180ca37
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Debunk of takuya having 120 IQ
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Takuya having “120 IQ”
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

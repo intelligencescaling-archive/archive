@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aqua-hoshino-planning-doc
+category: doc
+title: Aqua Hoshino Planning Doc
+authors: []
+series:
+- oshi-no-ko
+characters:
+- aqua-hoshino
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aUUridtxVQpz5yUyHtmFtb75EJc3j0vffLoAc6cQ0qg
+    google_id: 1aUUridtxVQpz5yUyHtmFtb75EJc3j0vffLoAc6cQ0qg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 42
+    words: 5945
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10177384
+      sha256: 7c8a20a0ec927652dc93d27a3dcff616f2171da96cecc0d6b234e7831bc87e46
+    - format: docx
+      name: document.docx
+      bytes: 8109497
+      sha256: 866f2595492c719c1a68c733c2ffd385b92f2dca1ebc391d2fbbf8634c542e34
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Aqua Hoshino planning doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

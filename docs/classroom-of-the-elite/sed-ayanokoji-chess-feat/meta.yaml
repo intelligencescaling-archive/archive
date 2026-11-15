@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sed-ayanokoji-chess-feat
+category: doc
+title: 'SED Ayanokoji: Chess Feat'
+alt_titles:
+- SED Ayanokoji Chess Feat
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+variant: Solo Elite Disclosed
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1LsS20kX7ODVZfRKbCHJp9EfUY0RYQNEtqItYGx8WJJI
+    google_id: 1LsS20kX7ODVZfRKbCHJp9EfUY0RYQNEtqItYGx8WJJI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 667
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 99301
+      sha256: f81dbeee4dfee9f264f634451c26e2b0ba8bee3249f6abaceb0330c3ba0a6569
+    - format: docx
+      name: document.docx
+      bytes: 318986
+      sha256: fccc6b9e4c0a780cf1853284bbf2b6750d611bdba754f75e1d4466c23cbb73c8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: SED Ayanokoji Chess Feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji - Solo Elite Disclosed
+  link_text: 'SED Ayanokoji: Chess Feat'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

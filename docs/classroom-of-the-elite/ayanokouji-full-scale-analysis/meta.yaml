@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokouji-full-scale-analysis
+category: doc
+title: Ayanokouji Full-Scale Analysis
+alt_titles:
+- Ayanokoji 3
+- Ayanokoji Full-Scale Analysis
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1pmGQyno4PNOpD1ee4BMBq5RgwHQ0RaWLiXmPmV0owbc/edit?usp=drivesdk
+    google_id: 1pmGQyno4PNOpD1ee4BMBq5RgwHQ0RaWLiXmPmV0owbc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 6925
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 246624
+      sha256: 7088e729097bdf531cc8435962ce54fea5cbc13c45538b489ce334582a629ef8
+    - format: docx
+      name: document.docx
+      bytes: 22643
+      sha256: f91f089e5317c2ab51911bdb03df5ffb8a450ee6e2d6c69c4821f4af627545dd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ayanokoji 3
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokoji Full-Scale Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

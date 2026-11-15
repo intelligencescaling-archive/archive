@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: quiz-game-roshidere-analysis
+category: doc
+title: Quiz Game Roshidere Analysis
+alt_titles:
+- Masachika Kuze Quiz Game doc
+authors:
+- name: N-Ice
+  source: doc-text
+series:
+- alya-sometimes-hides-her-feelings-in-russian
+characters:
+- masachika-kuze
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1GSzHa3SbpbhqC5v1UdUEDrY5VbI9bglUix_IvPVdM-o/edit?usp=drivesdk
+    google_id: 1GSzHa3SbpbhqC5v1UdUEDrY5VbI9bglUix_IvPVdM-o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 2409
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2823086
+      sha256: edd35dc4b03292273c5787327aea389be3880955174f7eb9f349ead6cbecdf58
+    - format: docx
+      name: document.docx
+      bytes: 2771821
+      sha256: 476bb67a2ea8bd5641f2d1e7458ff9d0fb74b43e9dfdba546a3be5039ab3425c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Masachika Kuze Quiz Game doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

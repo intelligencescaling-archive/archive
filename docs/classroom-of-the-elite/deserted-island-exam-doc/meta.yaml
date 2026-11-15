@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: deserted-island-exam-doc
+category: doc
+title: Deserted Island exam Doc
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1P2DxE1GzNdcV9qjkHzcMdMLpn1n99FrPzfXJ_LVwFt0
+    google_id: 1P2DxE1GzNdcV9qjkHzcMdMLpn1n99FrPzfXJ_LVwFt0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 176
+    words: 22873
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 28044658
+      sha256: 5f9f8fd0e95070868cf28d295c2a64984ea25443c39e2740b520e33ab030fd3f
+    - format: docx
+      name: document.docx
+      bytes: 29356524
+      sha256: e4562ef3f488582912275fee6458a1e6b3c63aee1149ad1f3ca0873b5c67cf78
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Deserted Island Exam doc
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Deserted island Exam doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

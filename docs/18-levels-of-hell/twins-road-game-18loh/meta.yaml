@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: twins-road-game-18loh
+category: doc
+title: twins road game 18loh
+authors: []
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17BsrObq10QfI2Gu0N648zWU-lZihTpaLgPVjxs_FgXM
+    google_id: 17BsrObq10QfI2Gu0N648zWU-lZihTpaLgPVjxs_FgXM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 34
+    words: 17884
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 541055
+      sha256: 58cc70bc07f51bb03f218f026262373215999645cf57149f77d9615d1bbfa410
+    - format: docx
+      name: document.docx
+      bytes: 601367
+      sha256: 13ba5ee6df82e84d518509b6648e06f69439260482f68fc0f2b6c14a60db802d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Twins Road Game 18LOH
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

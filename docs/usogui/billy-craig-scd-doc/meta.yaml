@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: billy-craig-scd-doc
+category: doc
+title: Billy Craig SCD Doc
+alt_titles:
+- Billy Craig doc
+- Billy Craig
+authors: []
+series:
+- usogui
+characters:
+- billy-craig
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1VgPTfBgLTDyX50E4CpNGKwx0UIyz05JglKZUd0LNzJQ/edit?usp=drivesdk
+    google_id: 1VgPTfBgLTDyX50E4CpNGKwx0UIyz05JglKZUd0LNzJQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3304
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 159699
+      sha256: 2063aea4ba981ba91b602b4274a6509cdb38a3670ceb06abb62c592638426f7f
+    - format: docx
+      name: document.docx
+      bytes: 15865
+      sha256: e82f42aa2b166c20aea51417311dec44b8da71e4a0a09d28fdb50cf089b38e4f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Billy Craig doc
+- library: remastered
+  section: Usogui
+  character: Billy Craig
+  link_text: Billy Craig
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-pandemic-deduction-is-simply-bad
+category: doc
+title: Why Pandemic Deduction is simply BAD
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11Is6SYuciV3a3zYjZGPbG1ktyRZ4kTuuZ41CP0vSuiQ/edit?usp=drivesdk
+    google_id: 11Is6SYuciV3a3zYjZGPbG1ktyRZ4kTuuZ41CP0vSuiQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1683
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 193368
+      sha256: 498f5794e9394041201776c27c2f96d4d3bc05b71e2728db01de01abce8eef4b
+    - format: docx
+      name: document.docx
+      bytes: 470416
+      sha256: 22adf5e20ca24633d190c4a6b69b66b19f13652b47c8475e3be755fb36f52096
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Why Pandemic Deduction is simply bad
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Why Pandemic Deduction is simply BAD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

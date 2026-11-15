@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: satous-y2v4-5-strategy
+category: doc
+title: Satou’s Y2V4.5 Strategy
+alt_titles:
+- Satou's Y2V4.5 Strategy
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- satou
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1CaF-hnVO-VtJa0pvGje0ZIue7kmP_yAQ6den43rE_FA/edit?usp=drivesdk
+    google_id: 1CaF-hnVO-VtJa0pvGje0ZIue7kmP_yAQ6den43rE_FA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1031
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 64958
+      sha256: c98d85c4bf7927b736045970914338fe6c85a5fcd4ce3928d8f57a499b16d840
+    - format: docx
+      name: document.docx
+      bytes: 280560
+      sha256: 42fff1c1d5845d4d29954d935ddadab50bd09d9ea85652f4d98602dcfd6c5da7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Satou's Y2V4.5 Strategy
+- library: remastered
+  section: Classroom of the Elite
+  character: Satou
+  link_text: Satou's Y2V4.5 Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

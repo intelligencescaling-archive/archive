@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: klein-moretti-chapter-75-strategy
+category: doc
+title: Klein Moretti Chapter 75 Strategy
+alt_titles:
+- Klein Moretti Chapter 75 Strategy Analysis
+authors: []
+series:
+- lord-of-the-mysteries
+characters:
+- klein-moretti
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1NQ2tyBRB9rbeSf0Na-I85Ryzed_37GR_NDomA8CJIwg/edit?tab=t.0#heading=h.obx20d17d4aj
+    google_id: 1NQ2tyBRB9rbeSf0Na-I85Ryzed_37GR_NDomA8CJIwg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 896
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 57272
+      sha256: 66d0ef13b73ca2243d0398a968839a79bdbfd4bd46e308b0f9871530fd3df837
+    - format: docx
+      name: document.docx
+      bytes: 1294678
+      sha256: c2a2f964f2369e13aab56af81c7c0525f3ed87d4cbf169164b8cb410e125b347
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Klein Moretti Chapter 75 Strategy Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

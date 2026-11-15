@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: introducing-methodology-scaling
+category: doc
+title: Introducing Methodology Scaling
+alt_titles:
+- Methodology scaling
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1XeFYr3LkVMeaegTpZQfBqifntdODOYzI9laOO1W_mZU
+    google_id: 1XeFYr3LkVMeaegTpZQfBqifntdODOYzI9laOO1W_mZU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1266
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 67153
+      sha256: c4e6cd37fc907f02d9140386a0015c061b4d49b5d0f5b86acfafbc5f3c6652a3
+    - format: docx
+      name: document.docx
+      bytes: 10527
+      sha256: b799bb61230ca37bc74c165df368695f36efe23a28cd253627729ccbbca44112
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Methodology scaling
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

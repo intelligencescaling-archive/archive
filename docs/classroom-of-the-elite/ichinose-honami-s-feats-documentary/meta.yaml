@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichinose-honami-s-feats-documentary
+category: doc
+title: Ichinose Honami's Feats Documentary
+alt_titles:
+- Honami Ichinose DOC
+- Ichinose Honami’s Feats Documentary
+authors:
+- name: XorPaw
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- ichinose-honami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14p2PDbw4TDDBNYpAz12sI6MQkjkjvfeYvbbm51lCxiE
+    google_id: 14p2PDbw4TDDBNYpAz12sI6MQkjkjvfeYvbbm51lCxiE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 170
+    words: 62226
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 45727992
+      sha256: 8334fdbfc1f98d5eb5dda57324ad3517155f672be3a2f828e4348f6b9287f0c4
+    - format: docx
+      name: document.docx
+      bytes: 48593836
+      sha256: 20a001fa6f8d8a3ffe4fcbeee3539afe141e1e5b77229acbf83060de59cbf4a9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Honami Ichinose DOC
+- library: remastered
+  section: Classroom of the Elite
+  character: Ichinose Honami
+  link_text: Ichinose Honami’s Feats Documentary
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

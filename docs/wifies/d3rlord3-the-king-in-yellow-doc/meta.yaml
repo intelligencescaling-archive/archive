@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d3rlord3-the-king-in-yellow-doc
+category: doc
+title: D3rlord3 & the king in yellow doc
+authors:
+- name: Veneno
+  source: doc-text
+- name: Reddit
+  source: doc-text
+series:
+- wifies
+characters:
+- d3rlord3
+- the-king-in-yellow
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19fBz4-aSU971PvBIwMNXv2MPK0ulfHGBDNuvdHrLYKA
+    google_id: 19fBz4-aSU971PvBIwMNXv2MPK0ulfHGBDNuvdHrLYKA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 6175
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1522367
+      sha256: 2056e02f6e71486f56edc79e37cb9ff48ec7632b7eb7d37ced00177d863b5d09
+    - format: docx
+      name: document.docx
+      bytes: 9028998
+      sha256: fe6cb925ccbc270b10308a3a1f96ca16079a2749a2cc0afed54c77b5be991688
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: D3rlord3 & the king in yellow doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

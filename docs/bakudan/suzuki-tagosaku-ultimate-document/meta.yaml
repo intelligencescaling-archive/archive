@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzuki-tagosaku-ultimate-document
+category: doc
+title: Suzuki Tagosaku Ultimate Document
+alt_titles:
+- Suzuki Tagosaku SCD document
+authors:
+- name: Whanks 🇧🇷
+  source: doc-text
+series:
+- bakudan
+characters:
+- suzuki-tagosaku
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1bXRMvI3N7saj9A2MRMAmfAQ2xvqTqkoL7kKCM3hNSGM/edit?usp=drivesdk
+    google_id: 1bXRMvI3N7saj9A2MRMAmfAQ2xvqTqkoL7kKCM3hNSGM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 4491
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 640142
+      sha256: 023c437f68b73a150aaf894df77b85a84ed3b20ec859eca45eb90f59973e8ec6
+    - format: docx
+      name: document.docx
+      bytes: 384442
+      sha256: 1f48f87f38d9edfc14e7bd5c9ef44c532b94c223014091bade8a406c27683271
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Suzuki Tagosaku SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

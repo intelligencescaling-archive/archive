@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: soulsborne-outsmarting-content
+category: doc
+title: SOULSBORNE OUTSMARTING CONTENT
+authors: []
+series:
+- soulsborne
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17aWRtRuBva9TkeSt0wyVJAsbNpcdjQmrWfXeScIyMa4
+    google_id: 17aWRtRuBva9TkeSt0wyVJAsbNpcdjQmrWfXeScIyMa4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 218
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 77114
+      sha256: da56a0b695d0aeae1411e445a122ee5893d81bb4d42caa5f9c07af54cf1f2d6d
+    - format: docx
+      name: document.docx
+      bytes: 8276
+      sha256: 2108195528c2f36e7da0e1982170b878223c7e10e870032c886d2db7645bb449
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Soulsborne outsmarting content
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

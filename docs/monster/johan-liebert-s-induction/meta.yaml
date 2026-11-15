@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-liebert-s-induction
+category: doc
+title: Johan Liebert's Induction
+authors: []
+series:
+- monster
+characters:
+- johan-liebert
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mZTLS2OlLgvvGLuFu8Oe3oyNLiucPgr_IBOiGeSmgVg/edit?usp=drivesdk
+    google_id: 1mZTLS2OlLgvvGLuFu8Oe3oyNLiucPgr_IBOiGeSmgVg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1498
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 174617
+      sha256: a9c99cda1b2a4e88b43147949d7b79f9f614983e8935c4463bfcdb69c297a9c4
+    - format: docx
+      name: document.docx
+      bytes: 1993101
+      sha256: 4deac2506785bc4d5759ed7a01c1950f30c433fdae3bd5cd9cffb58f1b2a7ff3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Johan Liebert's Induction
+- library: remastered
+  section: Monster
+  character: Johan Liebert
+  link_text: Johan Liebert's Induction
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

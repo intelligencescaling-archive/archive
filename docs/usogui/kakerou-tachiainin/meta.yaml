@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kakerou-tachiainin
+category: doc
+title: Kakerou Tachiainin
+alt_titles:
+- Baku Spin-off feats
+authors:
+- name: Axolotol4044/KitchenCoyote7942
+  source: doc-text
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12yQpPnng4rsuVMW44NsZkIHajy1vyU8EEnXEJRNFdm8/edit?usp=drivesdk
+    google_id: 12yQpPnng4rsuVMW44NsZkIHajy1vyU8EEnXEJRNFdm8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 3252
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3532289
+      sha256: 0d1178a080d791ead92ce443ffa70130311016c0321192a20723c2e6da3ba752
+    - format: docx
+      name: document.docx
+      bytes: 8612456
+      sha256: 459bb5ea16743c33de945d6cbdba75fb4828413342b7416cecab332eb096a167
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku Spin-off feats
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Kakerou Tachiainin
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

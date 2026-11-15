@@ -1,0 +1,225 @@
+Calculating the CPI of Akiyama’s Pandemic Reasoning.
+Made by: Difuge1 & Tokho.
+Abstract
+This research investigates the Cognitive Proficiency Index (CPI) of Shinichi Akiyama during the Pandemic Game.
+By analyzing the complexity of the mental tasks involved and estimating the time taken using Japanese dialogue
+speech metrics, we calculate a rough approximation of Akiyama’s processing efficiency. This analysis will also
+assess the weaknesses of this method.
+
+Pandemic Game Feat:
+1. Memory works the status of all the players,
+After the virus spread among the players, is already calculating in his head how the virus spread that much, he
+calculates different situations in his head
+2. 1 infected hypothesis,
+Akiyama calculates how much the virus would spread if only one person was infected among them, Akiyama
+calculates in his head: the order the players will have contact, the number of vaccines they generate after the contact
+while keeping in track the virus development, Akiyama is able to conclude that even with one infected the virus will
+spread maximum to two individuals
+3. 2 infected hypotheses,
+After the result of this hypotheses doesn’t matches the result of the game, Akiyama calculates the contact now with
+2 infected people, again Akiyama processes the order the players will have contact, the number of vaccines they
+generate after the contact while keeping in track the virus development, the result is 4 players contaminated.
+4. Active infected and passive infected theory,
+Finally, Akiyama processes the result of how the virus will spread with a contact seeker infected and a non-active
+infected, Akiyama here reaches the conclusion that the virus will spread after a round of contact made by the contact
+seeker infected and a round robin session In total, Akiyama calculated in his mind: 58 contacts, 52 vaccines, 63
+fluctuant infected, 16 permanent infected, 158 normal statuses, and 120 results post contact, making a total of 467
+objects Akiyama manipulated in his brain through all this process. This was done in a short amount of time, since
+right after the results of the rehearsal were revealed, Akiyama jumped to this conclusion immediately, so he
+calculated all of this in around 1 minute, since as he says “I know the process that made this result, as well as the
+guilty” to know the process that made the result, it means Akiyama already processed the 1 and 2 infected
+hypothesis to be sure the contact seeker infected and a non-active infected was the process that occurred in the
+game.
+
+Methodology of time estimate
+
+The segment of Liar Game which has the time that Akiyama will able to calculate the Pandemic Reasoning will be
+calculated through the dialogue in the segment. Using the syllables and the speaker changes, the time will be
+calculated through the average speech speed as well as the average gap between speaker changes. There will also be
+low ball and high ball estimates for the uncertainty.
+
+ご覧の通り、中間発表の画面に表示されるのは感染者数と正常者数のみ – 33
+もちろんゲーム終了時には全員の成績が開示されますがね – 31
+……全員としても模擬ゲームの結果が感染者9と正常3 – 30
+ふふふっ – 4
+ゲーム開始までは、残り30分ほどとなりました – 29
+それまでの時間、模擬ゲームの反省をするなり、本番への作戦を立てるなりしてお過ごし下さい – 50
+
+では、30分後に再びお会いしましょう – 21
+
+Changes Speaker
+
+おい…… - 2
+おっい…… - 3
+
+いい加減白状しろよ。どっちとグルだったのか…って – 24
+だから選んだんだ …俺は本当に… - 15
+てめーっ！が吐けじゃ- 6
+知らねーよ- 5
+
+だから俺じゃねーって – 9
+
+Changes Speaker
+
+いや、問題はほかにもあるぜ - 12
+ボード見ろよ – 6
+感染者数は「9」じゃない。「10」- 13
+
+Changes Speaker
+
+ああ!! そうだ!! – 6
+
+Changes Speaker
+
+俺達の他10人のプレイヤーは、根絶ルール終了時… 実際、全員が感染+0だったって言ったよなァ!! – 57
+誰かがウソをついてるって話さ – 16
+
+Changes Speaker
+
+何イィィィィィィッ!? – 8
+
+お前、結局感染だったくせに最後はまんまと「正常」になりやがったなァ!! – 37
+
+Changes Speaker
+
+違うよ… 俺は本当に最後まで感染+0だったんだ – 24
+
+…って事はほかにもウソをついてる人がいるかもって事か！- 24
+
+Changes Speaker
+
+だとすればそいつが本当の黒幕だと思うね – 22
+
+Changes Speaker
+
+マジか!? – 4
+誰だよ!! - 4
+
+Changes Speaker
+
+誰!? – 2
+
+Changes Speaker
+
+お前かッ!? - 4
+
+Changes Speaker
+
+俺じゃねぇ!! – 5
+
+Changes Speaker
+
+やめてっ!! – 5
+やめてくれぇっ!! - 8
+こんなんじゃ… - 5
+力を合わせて全員で勝ち上がるなんてできない… - 25
+
+Total Syllables – 549
+Total Changes in Speaker – 12
+
+In casual everyday Japanese speech, native speakers typically talk at about 7.8 syllables per second
+Low Ball: 6 syllables per second
+High Ball: 12 syllables per second
+(Koichi, 2012) (Mair, 2009)
+
+In spoken Japanese conversation, the average time between one person’s speaking turn ending and the next person
+beginning is extremely short, typically only 200 milliseconds (0.2 seconds).
+Low Ball: 7 milliseconds
+High Ball: 1–8 seconds (will be taking the mean of 4 seconds)
+(Yong, 2016) (ゆうどう, 2025)
+
+I’m going to be pairing the Low Ball of the speech speed with the High Ball of the gap in speeches and the High
+Ball of the speech speed with the Low Ball of the gap in speeches to get the lowest and highest times possible
+respectively (For the Low Ball and the High Ball)
+
+Speech Time is calculated by Total Syllables (Which is 549 in this case) divided by Speech per Second
+
+Rate Type Syllables/Sec Speech Time = 549 / sps
+Low Ball 6 91.5 s
+Mid Ball 7.8 70.38 s
+High Ball 12 45.75 s
+
+Total Gape Duration = Total Changes in Speaker (Which is 12 in this case) × Gap Time
+
+Rate Type Gap Time Gap Duration = 12 × Gap Time
+Low Ball 0.007 0.084 s
+Mid Ball 0.2 2.4 s
+High Ball 4 48 s
+
+Total Dialogue Time:
+
+Rate Type Calculation
+Low Ball 139.5 s
+Mid Ball 72.78 s
+High Ball 45.834 s
+
+Cognitive Proficiency Index Calculation
+
+In standardized tests like the WAIS-IV, CPI measures:
+- Speed of mental processing
+- Visual scanning
+- Attention and accuracy under time pressure
+- Working memory span
+- Mental manipulation
+- Focused attention
+- Resistance to distraction
+
+How Can We Estimate CPI?
+We’ll base this on the rate of distinct cognitive comparisons, associations, and updates per second, which simulates
+CPI test conditions. This includes the number of mental manipulations (WMI) and quick decision based
+comparisons (PSI) performed over a period of time. By converting these into standardized rates and averaging them,
+we can estimate a Cognitive Proficiency Index that reflects both depth and speed of mental processing.
+
+Assumptions:
+- Each of the 467 manipulations requires at least one perceptual comparison, rule check, or inference
+
+Calculation:
+The Processing Rate (PR) equation
+
+𝑃𝑅  =   𝑁 𝑡
+
+Where:
+- PR is processing rate
+- N is the number of discrete operations (In this case, 467)
+- T is the time in seconds taken to complete them
+
+So, when we plug in the values of t into the equation:
+Rate Type Time (s) Operations per Second
+Low Ball 139.5  467 ÷ 139.5 ≈ 3.35
+
+Mid Ball 72.78  467 ÷ 72.78 ≈ 6.42
+High Ball 45.834  467 ÷ 45.834 ≈ 10.19
+
+This is both the number of operations and memory manipulations done per second.
+
+Limitations:
+Akiyama’s Calculation’s Time Frame
+- Akiyama’s calculations might have ended earlier than the time taken from the start of the dialogue to the
+end, so it could’ve been much faster than the high ball estimation, but it could also be slower as Akiyama
+could’ve anticipated the infected to non-infected to look like what was shown, meaning he could’ve
+calculated it before it was revealed and even into the dialogue time. Which would mean it took him much
+longer than the low-ball estimation.
+The Time Calculation:
+- It assumes speech rates and gap durations are consistent across scenes, which is good enough for an
+estimate, but the answer gotten from this could be very different if the actual scene itself had a time frame
+linked to it.
+- It also does not account for nonverbal pauses.
+Why is this feat impressive?
+Besides the obvious high number of mental processes and short time-frame Akiyama executed the feat, he executed
+it as well with high mental pressure. Pandemic is probably the most collaborative-based round in the Liar Game. At
+that point, if Akiyama couldn't uncover the truth of the virus spread, all players would have remained static, since
+they'd think "this will happen again if I have contact". Based on this, Akiyama, knowing the connections the
+Corporation had with the Black Market, feared about the integrity of the participants, as well Nao's and his. By
+Akiyama uncovering the process and the culprit, it allowed the game-flow to advance, since now at least people
+knew who the “secure” normal players were, forcing those with "unknown" status to cooperate yes or yes since they
+knew Yokoya's nature is selfish and egoistic. This feat was key to setting the game in motion, and later, it allowed
+Akiyama to secure everyone's pass to the next round.
+
+Koichi. (2012, May 1). Why do Japanese people talk so fast? Tofugu. https://www.tofugu.com/japanese/why-do-
+japanese-people-talk-so-fast/
+Mair, V. (2009, 26 Apr). Language Log » Fast talking. https://languagelog.ldc.upenn.edu/nll/?p=63362
+Yong, E. (2016, January 5). How Turn-Taking and short gaps in conversation are universal. The Atlantic.
+https://www.theatlantic.com/science/archive/2016/01/the-incredible-thing-we-do-during-
+conversations/422439/
+ゆうどう. (2025, April 21). 会話の科学 あなたはなぜ「え?」と言ってしまうのか. ゆうどうの読書記録.
+https://gotobooks.blog.ss-blog.jp/2023-07-24

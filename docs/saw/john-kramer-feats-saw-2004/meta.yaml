@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-kramer-feats-saw-2004
+category: doc
+title: John Kramer feats (Saw 2004)
+authors:
+- name: Bittus
+  source: doc-text
+series:
+- saw
+characters:
+- john-kramer
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1wmDUD3bWBDlVCtck5nwkVoHb4xbTqd6F2aVtDizJcDM
+    google_id: 1wmDUD3bWBDlVCtck5nwkVoHb4xbTqd6F2aVtDizJcDM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 12360
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 543962
+      sha256: 45771d13d211a554be749b1126a7da57803b8f42cf0c25a06f14c773ea73df95
+    - format: docx
+      name: document.docx
+      bytes: 328021
+      sha256: 2b7b0c32d5e81425a3dc272a368bacd123b6763754f3ee63d829edfd6a5f6463
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: John Kramer feats (Saw 2004)
+- library: remastered
+  section: Saw
+  character: John Kramer
+  link_text: John Kramer feats (Saw 2004)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

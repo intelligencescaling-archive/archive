@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: supreme-administrator-s-h-c-hax
+category: doc
+title: Supreme Administrator's H.C. Hax
+alt_titles:
+- Supreme Administrator H.C. Hax
+authors: []
+series:
+- counter-side
+characters:
+- supreme-administrator
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ITtXtZk3gLE0AkZtt2BnbQHSpiFy7M1o1jTPEjEc4Xo/edit?usp=drivesdk
+    google_id: 1ITtXtZk3gLE0AkZtt2BnbQHSpiFy7M1o1jTPEjEc4Xo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 1440
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1150903
+      sha256: b45e4c1014bbf558166778564423deaf734437921ea53f8a35d349143a929b5a
+    - format: docx
+      name: document.docx
+      bytes: 1713066
+      sha256: 386e29982689b70b57b7017f7b701d76a275f4f09b9276a1ecf0f03bb43c80d4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Supreme Administrator H.C. Hax
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

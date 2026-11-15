@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: subaru-pride-if-feats
+category: doc
+title: Subaru (Pride IF) Feats
+alt_titles:
+- Subaru Natsuki Pride IF
+authors: []
+series:
+- re-zero
+characters:
+- subaru-natsuki
+variant: Pride IF
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IlQvMlR7z5kiw31Y30wUUItPK3kOcLT21Z6zjo7mdo8
+    google_id: 1IlQvMlR7z5kiw31Y30wUUItPK3kOcLT21Z6zjo7mdo8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1950
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 180617
+      sha256: 293b32d15c4bb88d918dab9cdf9e62da4101fcb93c2fd53f81109802084b2c6e
+    - format: docx
+      name: document.docx
+      bytes: 244321
+      sha256: d20d29554e741b18e5c697245a15c025f60fa2f6ad4ee90791b71157b47583ea
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Subaru Natsuki Pride IF
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

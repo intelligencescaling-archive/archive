@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: trapping-li-hailong-analysis-chen-ran-s-tomb-arc-of-18loh
+category: doc
+title: Trapping Li Hailong Analysis (Chen Ran's Tomb Arc of 18LoH)
+alt_titles:
+- Chen Ran Li Hailong Trap Scheme
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+- han-fei
+tags:
+- analysis
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Vfx_dTs-CFw1yTNYDWZkD9u9mqTuNV3AQaprBh08Z5Q
+    google_id: 1Vfx_dTs-CFw1yTNYDWZkD9u9mqTuNV3AQaprBh08Z5Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 6014
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 193791
+      sha256: 6ae375ffefb4ab979a6ea4ee7b3c0cf214f047a01a871a10be2657f06cf26c2a
+    - format: docx
+      name: document.docx
+      bytes: 733404
+      sha256: 10876a0a1865e9db5f794df594242f3126f3c3a36b6245b951f94ded2ece115e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran Li Hailong Trap Scheme
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

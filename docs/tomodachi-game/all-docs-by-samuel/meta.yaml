@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: all-docs-by-samuel
+category: doc
+title: All docs by Samuel.
+alt_titles:
+- All Yuuichi docs made by Samuel
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- collection
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1o8At37k24h9kKeHhMHH2i0Zv1jkAWmVmRDdVLd3VuMk
+    google_id: 1o8At37k24h9kKeHhMHH2i0Zv1jkAWmVmRDdVLd3VuMk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 30
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25166
+      sha256: ce0452d85c3c1f2082602d032c106396501f384b5db9fcc6de186cc68c22d6fc
+    - format: docx
+      name: document.docx
+      bytes: 7039
+      sha256: ad177adf8e90e832af380fe5099b813937c51b2a71418ebffb3a9fc8875086f6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: All Yuuichi docs made by Samuel
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

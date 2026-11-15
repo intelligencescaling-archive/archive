@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichika-y2v6-observation-sensory-feat-by-wanoxx
+category: doc
+title: Ichika Y2V6 Observation/Sensory feat | By Wanoxx
+alt_titles:
+- Ichika observation/sensory
+- Ichika Y2V6 Observation/Sensory feat | By Wannox
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- ichika-amasawa
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vijdro8gz5uhdWJMkLcdtg_urcXbRz9MJBnT5pVMiww
+    google_id: 1vijdro8gz5uhdWJMkLcdtg_urcXbRz9MJBnT5pVMiww
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 3710
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2744900
+      sha256: c74521dca15072bdf295ef104810914b69284b8565d733bdc816a8e6fd91860d
+    - format: docx
+      name: document.docx
+      bytes: 3282076
+      sha256: b661777c705aedab3ca10078dcb05075d0944d7246c255bab72d75a9af7b6f26
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ichika observation/sensory
+- library: remastered
+  section: Classroom of the Elite
+  character: Ichika Amasawa
+  link_text: Ichika Y2V6 Observation/Sensory feat | By Wannox
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: s-h-i-t-scaling-doc
+category: doc
+title: S.H.I.T Scaling doc
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vR8_4OTb4J8wTZAUURQA1QVmXJgRJewCcEsmsfDjxlatE8W8qYFAFODa3fTMoX6gC910oMDj7LL4KIO/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vR8_4OTb4J8wTZAUURQA1QVmXJgRJewCcEsmsfDjxlatE8W8qYFAFODa3fTMoX6gC910oMDj7LL4KIO/pub
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 3372
+    files:
+    - format: html
+      name: published.html
+      bytes: 206335
+      sha256: c5a6df2653ec72c07fbacdb1979f9ccce583eddd46730996a389718d4853645d
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: S.H.I.T Scaling doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

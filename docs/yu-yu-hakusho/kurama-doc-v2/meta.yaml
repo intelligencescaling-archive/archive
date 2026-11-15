@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kurama-doc-v2
+category: doc
+title: Kurama doc V2
+authors: []
+series:
+- yu-yu-hakusho
+characters:
+- kurama
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12aMsT4bbtYStNHP9XXI0VRnXSDqFVNMkyyyVjmb531E/edit?usp=drivesdk
+    google_id: 12aMsT4bbtYStNHP9XXI0VRnXSDqFVNMkyyyVjmb531E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1478
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 97689
+      sha256: 7fcc23322956c2ca3e79f168904e151c4519867caaba2a661f4770e8237632ee
+    - format: docx
+      name: document.docx
+      bytes: 11640
+      sha256: a3adc411dbdab78277e804f110ca16acdd2698375cebddca7678d7975e891f9d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kurama Doc V2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

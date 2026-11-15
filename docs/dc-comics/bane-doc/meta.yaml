@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bane-doc
+category: doc
+title: BANE doc
+alt_titles:
+- Bane
+authors:
+- name: Banes manifold
+  source: doc-text
+series:
+- dc-comics
+characters:
+- bane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15gZJLQBdHRNv94ixnDNRyzaxcHV0xM5WxjQGXzc8Gqk
+    google_id: 15gZJLQBdHRNv94ixnDNRyzaxcHV0xM5WxjQGXzc8Gqk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 2957
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 440541
+      sha256: 0fad9c20aeef8ac8a41b0c30e75952c71b1da596d0d25a196aa580183e43a66c
+    - format: docx
+      name: document.docx
+      bytes: 1564659
+      sha256: 024de7875d255326dbf234481c5a3e1998f19ae693f8624a735c10c67cca9afd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Bane
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Bane
+  link_text: BANE doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

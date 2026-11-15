@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-pf-analysis-rebunk
+category: doc
+title: Patrick Jane PF analysis rebunk
+alt_titles:
+- Patrick Jane Poker Feat Rebunk
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- analysis
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14MVyEFrT9LYQ1KYeP4XRK5Xe72xoetA_3GXYU7FdqP4/edit?usp=drivesdk
+    google_id: 14MVyEFrT9LYQ1KYeP4XRK5Xe72xoetA_3GXYU7FdqP4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1537
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 358355
+      sha256: 0f480eab7cc65db2d93147450aebfb5b4dd76d2f58b54762d32eb43bfcff5c75
+    - format: docx
+      name: document.docx
+      bytes: 300603
+      sha256: 5c915efa8ba2424e278dfd93ec897a1e0bd373bd45f59adc297ce12ceaaaf655
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Patrick Jane Poker Feat Rebunk
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane PF analysis rebunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

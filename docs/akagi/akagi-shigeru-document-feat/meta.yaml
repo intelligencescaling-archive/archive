@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akagi-shigeru-document-feat
+category: doc
+title: Akagi Shigeru Document feat
+alt_titles:
+- Akagi doc
+authors: []
+series:
+- akagi
+characters:
+- shigeru-akagi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1hlE71Xol6RN-KrODGzsDun7dkkYLB_MKrQABHUPPPzw/edit?usp=drivesdk
+    google_id: 1hlE71Xol6RN-KrODGzsDun7dkkYLB_MKrQABHUPPPzw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 4400
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2692963
+      sha256: 8e3ce5bbb906a747404ecb0c555c3ecdbd884d26ae92f3ce889a279bd6eb063e
+    - format: docx
+      name: document.docx
+      bytes: 2416637
+      sha256: 65f2547349766222cda704b914222a67265caba6a57c8f8ee794d650db1ed132
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akagi doc
+  note: (old version)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

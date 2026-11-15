@@ -1,0 +1,452 @@
+Hello, I'm Federal-Manner3880. Some of you might be wondering what this “PF Analysis” even is so here's a link- https://docs.google.com/document/u/0/d/1459z3D8y_Ss4eRfXMZZxh-L_R6ZO1MbXA9sxk48pTUQ/mobilebasic
+
+Be sure to read that doc before reading this one because I will NOT be doing a recap. That said, let's get on with the debunk.
+
+—
+
+The doc creator, Arthen wrote:-
+
+* 1) Patrick didn’t look in her direction. 2) Patrick was able to see van Pelt shuffling only via peripheral vision 3) He guessed the dealer’s card before she finished shuffling…First, for Patrick to shuffle the cards in the deck, he would need to see how she's shuffling, but he wasn’t looking in her direction. It means that he either knew how she would shuffle or he has unrealistic vision, which makes his peripheral vision as clear as his central vision. I pick the second variant, you’ll ask me why and I’ll say because it is the most conservative version…In this article(linked in the doc), you want to find the Lorenz equation which is directly connected to the butterfly effect. It states that the chaotic system is very sensitive to its starting conditions. There’s an example of the Lorenz equation so it's almost impossible to predict it. So I’ll choose the 2nd variant since it’s the most conservative one. So Patrick’s vision (perception) is unrealistic…Patrick had to move 72 cards per second around in his memory palace.
+
+I'll be addressing the first three points, but to do that, I have to deal with the ones that validate it:
+
+* In this article(linked in the doc), you want to find the Lorenz equation which is directly connected to the butterfly effect. It states that the chaotic system is very sensitive to its starting conditions. There’s an example of the Lorenz equation so it's almost impossible to predict it.
+
+[Is the use of Lorenz Equations valid in this scenario?]
+
+First off, the Lorenz equations do not apply to the specific mathematics of shuffling cards.
+
+The two concepts are related—through the broader subject of Chaos Theory and Randomness—but they are analyzed using different mathematical models:
+
+Card shuffling focuses on probability, permutations, and group theory. The primary goal of shuffling is to achieve a state of near-uniform randomness, where every possible arrangement (52 factorial, or approximately 8 x 10^67 different orders) is nearly equally likely. The effectiveness of shuffling methods, such as the riffle shuffle, is analyzed using models like the Gilbert-Shannon-Reeds model and concepts like total variation distance and Markov chains, as demonstrated by mathematicians like Persi Diaconis.
+
+The overhand shuffle specifically can use Markov chains to determine the mixing time (how many shuffles are needed to achieve near-randomness) but it isn't restricted to it. The calculations are often more complicated than that.
+
+THE OVERHAND SHUFFLE MIXES IN Θ(n² log n) STEPS
+BY JOHAN JONASSON
+Chalmers University of Technology
+
+☝️That's a taste of how complicated this stuff can get when calculating. A fact that leads to a BIG difference between answers after comparing the correct and incorrect models.
+
+Add that to the fact Lorenz was initially developed to analyze atmospheric convection along with long term Meteorological patterns via use of elements in Fluid Dynamics, Engineering and Physics while Markov Chains are used for Natural Language processing, Algorithms, Statistics, Finance and Biology—with one of the only intersecting points between the two being Weather prediction at varying degrees—and you can see the problem even more clearly.
+
+Lorenz Equations are NOT applicable to Overhand Shuffling. Page 13 in the ESSENCE OF CHAOS, Lorenz uses an example to describe the purpose of his equations:
+
+An example, which, like
+tossing a coin, is intimately associated with games of chance, is the
+shuffling of a deck of cards. The process is presumably random,
+because even if the shuffler should wish otherwise—for example, if
+on each riffle he planned to cut the deck exactly in the middle, and
+then allow a single card to fall on the table from one pile, followed
+by a single card from the other pile, etc.—he probably could not
+control the muscles in his fingers with sufficient precision to do so,
+unless he happened to be a virtuoso shuffler from a gaming
+establishment. Yet the process is not completely random, if by what
+happens next we mean the outcome of the next single riffle, since
+one riffle cannot change any given order of the cards in the deck to
+any other given order. In particular, a single riffle cannot completely
+reverse the order of the cards, although a sufficient number of
+successive riffles, of course, can produce any order.
+
+[Why I called attention to this is because a riffle shuffle interleaves two packets of cards for superior randomization, requiring only about seven shuffles to mix a deck thoroughly.
+
+An overhand shuffle, in contrast, involves pulling off packets of cards one by one, which is less efficient for mixing and may take up to 10,000 shuffles for a standard deck to be truly randomized.
+
+Lorenz analyzes the initial complexity of a system to determine the long term effects. Markov is useful for simpler, more erratic systems that allow for quick calculations in the short term.]
+
+So based on that, although both of them do share the umbrella term of Chaos Theory and Randomness, this specific type of Card Shuffling not being restricted to one model is NOT a relevant basis for inserting another that is unrelated to the topic at hand.
+
+[How much information did Patrick Jane have/need?]
+
+Since we now know that Lorenz does not apply here, we now know Patrick does not need perfect data consisting of the room’s temperature, volume, Van P’s personality and “so on”.
+
+The position of the cards + amount (38) and her expertise (amateur) are all that was required to make an accurate inference.
+
+The time she shuffled those cards, according to the doc, are 11 seconds.
+
+That said, how long she shuffled the cards is irrelevant. How many times she does it is.
+
+Why do I say that?
+
+There are 38 cards (according to the doc)
+
+->
+
+Patrick had memorized them prior to handing van Pelt the deck.
+
+->
+
+Patrick labelled each with a different name and stored them in his memory palace via use of mnemonics.
+
+->
+
+He had already seen the initial position of all the cards after flicking up and releasing the corners quickly.
+
+He shuffled those cards in his head based on the amount of times Van Pelt had shuffled the deck herself.
+
+This means, there was no need for him to shuffle 72 (it's 76) cards in his head. Only 38. And since he memorized those 38 already after discreetly checking the cards by misdirecting the group in such a casual manner, he had already eliminated each and every card from his, Rigby and Cho’s hands in one go.
+
+He had more than 1 minute to assign each card with a mnemonic so it isn't an impressive showing of PSI due to this. It is a VSI and Minor WMI feat (because he memorizes them instead of keeping them in his working memory at this point)
+
+Van Pelt‘s shuffling speed was roughly 7 cards every 1.5 seconds in this scene
+
+When he shuffles the deck in his head in congruence with van Pelt’s shuffling speed, he had already reached the position before her and told her to deal the card after making his predictions of Cho and Rigby's hands.
+
+Him saying “deal the river card” and Van Pelt showing the Ace further proves that he'd been aware of the position in which the cards had been.
+
+If you refer back to the scene above, you can make out the black marking of the Ace of Spades right under the 2 of diamonds.
+
+This is a trick almost every non-professional card dealer is aware of. My friend and I have practiced it once before as well to trick people into thinking we can read minds.
+
+The trick is basically you placing a card, any amount of cards, above the one you want (the Ace).
+
+All you have to do is track that card (Ace), which is currently behind the one at the very bottom of the deck. This is not mandatory though. You can track any card in the deck, so long as you're aware of the initial position of the one you want.
+
+The Jack is the 10th
+
+The 2 of diamonds is the 36th
+
+36 - 10 = 26
+
+The Ace is 37 so you'd just add 1
+
+Which means that all he had to do was n + 1 (I'll explain why it isn't x - n +1 down below). There was no need for anything overly complex.
+
+[Debunking Unrealistic Perception in this scene]
+
+(Right here, he discretely places those cards under the existing deck.)
+
+The Ace is now at the very bottom.
+
+But how?
+
+Wasn't there a card in front of it?
+
+Yes, it was.
+
+You see that card that's on the table? He purposely left it out. Go check the scene for yourselves and you'll see that it was initially at the bottom of the deck, covering the Ace (like I'd mentioned previously).
+
+Now van Pelt was only shuffling 37 cards. Not 38. He pushed the extra card into the pile after handing her the deck to shuffle but no one noticed it.
+
+Saying he perceived her shuffling via use of peripheral vision is valid. But saying he perceived everything clearly is not. There was no evidence in the later season, from what I'm aware, that supports his field of focus being as wide as 180 - 220°
+
+I'm aware of him looking at many monitors when he works for the FBI eventually in the later seasons, but it wasn't anything on that level. I could be wrong since it's been so long but either way, the interpretation of him using his memory palace and counting how many times Pelt shuffles rather than all the other things present in the doc is more consistent when considering canon evidence.
+
+Also, Patrick doesn't have to see her actions clearly to know how many times she shuffled. He can easily visualize the details that aren't in focus. He's got the necessary VSI due to the construction of the memory palace so it is a viable interpretation.
+
+But even if he did perceive her actions fully, claiming he's done something incredible, when it is in fact so simple, isn't ideal.
+
+[Summary]
+
+Since Patrick was already aware of the position of each card from the start and has now marked his spot, there really was no need to calculate as many variables or nearly as quickly as the initial doc implies.
+
+All he had to do was get Van Pelt to stop when he wanted so that his predictions would be correct. Which he does quite easily. He just tells her "deal the river card” and the Ace was dealt on cue.
+
+[Conclusion]
+
+This is a misdirection, minor WM, minor PSI (cuz van Pelt was slow) and VSI feat.
+
+—
+—
+—
+
+[DEFINING TERMS]
+
+Mixing Time: The overhand shuffle is less efficient than the riffle shuffle. Studies have shown it requires on the order of Θ(n² log n) steps to mix a deck of cards well, as opposed to about seven riffle shuffles for a standard 52-card deck.
+Permutations: The state of the deck after shuffling is represented as a permutation, and the goal of a good shuffle is to approach a uniform distribution where every permutation is equally likely. The permutation formula is “nPr = n! / (n-r)!”, where "n" is the total number of items in a set, and "r" is the number of items to be arranged. The formula calculates the number of ways to order a subset of items where the order of selection is important. In this formula, "n!" represents "n factorial," which is the product of all positive integers up to n.
+
+n - The total number of items in the set.
+r - The number of items being chosen and arranged from the set.
+n! (n factorial) - The product of all positive integers less than or equal to n (e.g., 5!=5 × 4 × 3 × 2 × 1).
+
+E.g: To find the number of permutations of selecting 3 letters from the set of letters {A, B, C, D}, you would use the formula with n = 4 and r = 3.
+
+4P3 = 4!/(4 - 3)! = 4!/1! = 24/1 = 24 (1 × 2 × 3 × 4 = 6 × 4)
+
+There are 24 possible ordered arrangements of these letters.
+Probabilistic Models: Mathematicians like Persi Diaconis and Jim Pemantle have developed and analyzed mathematical models for the overhand shuffle, focusing on the number of shuffles required to achieve a desired level of randomness using probability theory.
+Alright, so, here's the doc by Arthen. I attached my previous debunk to this one for better accessibility.
+
+—
+
+Firstly, he says I've misinterpreted his point; this is his reasoning:
+
+A.1) I didn’t use Lorenz's equation as exactly the same thing, I used it as an example. Now I think he misinterpreted my analysis. I know that her shuffle of cards is not random and will not make the deck random, I never was thinking that.
+
+A.2) The chaos system prediction is Patrick PREDICTING her last 2 shuffles, how she will shuffle the deck in the last second. For people that were lazy and didn’t read PF analysis doc: there was a context part, where I said that 1 second before she finishes shuffling - he guesses the dealer card and that 1 last second is when she did 2 shuffles.
+
+A.3) And her WAY OF SHUFFLING is a chaotic system. He predicted her WAY OF SHUFFLING which is a chaotic system since Van Pelt’s personality can react a bit differently in almost the same conditions but that’s the point, she won’t react the same way, so Patrick has to have almost perfect data which I listed in the PF analysis doc
+
+He also stated that my point about the trick is correct, saying it is only applicable if the person shuffling is the one with the deck and is the one making the prediction/keeping tack of the card:
+
+B.1) Very impressive job, but there is a problem - it only works if you are shuffling the deck & if you’re in control.
+
+B.2) Let me explain to you how it works. So let’s say we have cards 1, 2, 3 and 4 and they’re in positions A, B, C and D. When you shuffle the cards, you know how exactly you move them, as Federal said in the debunk, you place the card wherever you want and you move it in a very determined way so you can easily find it or you do not touch it, you just remember its position in the deck. It doesn’t work when someone else is shuffling for one, simple reason: you can’t control how exactly they’ll shuffle.
+
+B.3) They don’t give a fuck about where the card is and other stuff, they just shuffle it so you now cannot keep a track of it. Actually, you can, but you have to keep track of EVERY card because you can’t know which one in the result will be the dealer one and it’s insanely hard. Let me use the numbers & letters.
+
+He also said this:
+
+C.1) A-4
+
+B-1
+
+C-2
+
+D-3
+
+Now let’s pick any of these cards, I’ll pick 2. So now when you shuffle, you can determine where it will be, you either move it very determined so it will be easy to know where it is. Like that
+
+A-2
+
+B-1
+
+C-3
+
+D-4
+
+and you keep doing that so you can easily determine the dealer card cause you moved the card you wanted on the up top.
+
+Now, other people wouldn’t do that, they’ll move this Ace of spades anywhere they want, so it might go from 38 position to position 17, then to 27, then to 6, then to 10, etc. and you won’t be able to control how he’ll shuffle.
+
+2.C) How could he possibly visualize the details that aren’t in focus? It’s like saying he could read small text from the distance of 100m by just “visualizing the details”. I can accept it though, he can support it via his insane intuition. Anyway, the almost perfect data needs unrealistic perception, so yes.
+
+—
+
+I'll address each of these one by one. From bottom up:-
+
+[Addressing C 1 and C 2]
+
+>How could he possibly visualize the details that aren’t in focus? It’s like saying he could read small text from the distance of 100m by just “visualizing the details”.
+
+Firstly, that is a false analogy.
+
+Why?
+
+Well, it misconstrues my stance seeing as it assumes I said Jane can't make out anything notable enough that would allow him to infer certain details (if I said this, my argument would have fallen apart under its own logic).
+
+The text being 100m away from Jane while van Pelt is roughly 1 - 2 feet to his left (Simon Baker is 5’11” and one of his arms would measure up to 2’ 9” because your wingspan is almost proportional to your height. Van Pelt was close enough that he would need to keep his arms bent to touch her so I'll shave off 1.5 feet, leaving back 1.4) is also another point of contention.
+
+She was in Jane’s periphery from beginning to end. The degree of peripheral view he had of her varies from roughly 130 - 180°
+
+That is their seating arrangement. As you can see from both the show and the sketch from a bird's eye view, Jane has about a 145°+ view of van Pelt from where he is.
+
+The rest of her body falls into the 150 - 179° of his periphery.
+
+This is a usable sketch because of the other screenshots provided in the previous doc that shows both Rigby and Cho’s position.
+
+He has enough view of her bodily movements (shuffling style) showing in his periphery that allow him to infer details such as where she is holding the cards, how fast or slow she is shuffling them and when she switches up her shuffle style.
+
+This is more than enough info for Jane to visualize the rest of the details. He's already got a template (her perceived blurry movements) and has already marked all the cards from the start (1+ minute earlier) so whatever she does to throw him off doesn't matter.
+
+He's already prepared for it.
+
+>I can accept it though, he can support it via his insane intuition. Anyway, the almost perfect data needs unrealistic perception, so yes.
+
+Again, perfect data is not needed. That only works if you're using Lorenz Equations since you'd need to know everything about the current position of an object and what is affecting it to correctly predict what is happening after it begins to change state.
+
+Stating Lorenz Equation to validate a section of the feat then saying it wasn't the point of the argument—despite using it as a support structure—is simply wrong.
+
+Why? Well, that'd be indirectly admitting to it being word soup.
+
+I attacked the Lorenz Equation because it was the most important support structure of your argument seeing as it validated the prediction aspect you've postulated.
+
+It is plausible for Jane to have predicted van Pelt’s last two shuffles and the factors that require Lorenz (temperature and all that) aren't needed in that. Only the number of cards, the initial placement of the cards and van Pelt’s skill level (amateur)
+
+We know from the scene before they play Poker that Jane had bought some souvenirs for the 4 of them. We know that Jane usually expresses his knowledge of people via use of trinkets and such that they'd like. We also know that Jane, earlier that morning, had cold read Cho and revealed the fact that he had been saving coins since he was 15. So from that we know that Jane has a deep understanding of the people around him even if he didn't initially voice it.
+
+He already understood enough about van Pelt to anticipate/predict her actions + he always had just enough view of her hand, despite looking at Rigsby and Cho the whole time, to know what she was doing with the cards from beginning to end.
+
+Rigby's eyes drifted towards van Pelt when she was doing the last two shuffles. We know Jane is observant so he wouldn't miss a detail like that.
+
+It's immediately after this that he told van Pelt to “deal the river card”. Why, though?
+
+Because Rigsby, who likes van Pelt, will always take notice of her. It's a repeated pattern in human psychology. When you like an object/person or find it/them important/attractive, you always find yourself looking for it/at them. It's an involuntary response.
+
+For example: You have 10,000 dollars in your pocket and you're walking in public. Every couple seconds, you find yourself patting the pocket where the money is without realizing.
+
+Anyhow, Patrick uses Rigby as his cue for when van Pelt makes her move to trip him up and as soon as she does, he calls her out on it.
+
+But the fact that she was always close enough for him to perceive her movements at all times allows for him to easily visualize the finer details of the cards in the deck and shuffle them in his head.
+
+There was no need for the factors you listed (room temperature + volume) aside from the ones I've singled out. So again, there was no perfect data needed to do this feat.
+
+This also addresses C1 indirectly so I don't need to restate another point.
+
+—
+
+[Addressing B1, B2 and B3]
+
+I think you misunderstood something. I did say that Patrick had memorized all the cards in the deck inside the other doc, so I don't really get why you'd emphasize that fact here despite me previously agreeing with it.
+
+Although, you prolly did that cuz of me using my own experience as a supporting argument. I'll explain why I did it tho.
+
+It was just a way to give readers a proper way of comparison for the feat.
+
+Your description of it makes the feat seem better than it actually is. I used myself and a friend—who are both non-professionals in the card business—to ground the feat and show that any lay person can do the same thing with less mental effort.
+
+And also, you don't have to be the one to shuffle the deck. But that does not mean the person shuffling it has to switch up the way they shuffle.
+
+What is true for a part is not necessarily true for a while and vice versa.
+
+In this case, van Pelt switching up her shuffling method towards the end is problematic to lay people, but to a professional like Jeremy Tan on YouTube, that isn't much of an issue.
+
+[Addressing A1, A2 and A3]
+
+Well, I sort of already addressed these in the previous points. Read the rebuttals of the previous points and you'll see. I'm too hungry to write up a coherent summary.
+
+No, almost perfect data is needed because Van Pelt shuffling is a chaotic system. Lorenz equation is only one of the examples of chaotic systems, there are other things. To prove that Van Pelt shuffling cards is a chaotic system let’s make a thought experiment. Imagine a person shuffles the same exact deck 20 times in a row for the same amount of time but the conditions when they shuffle a deck are different in every shuffle. So what do you think is gonna happen?
+
+I think it is obvious that every result of shuffling will be different, every deck in the result is gonna be different. I would prove it by math or stuff if I could, but I can’t. But at this point it should be obvious it is very sensible for starting conditions and let me make another thought experiment.
+
+Imagine you are playing poker with your friends in the same room and the same deck and you are shuffling it. Do you think the resulting deck is always gonna be the same? I don’t think so. Yes, I still cannot prove it experimentally, but no one actually can because conditions are gonna be not “slightly” different but highly different. But I hope now you understand. It fits the criteria of being very sensible to the starting conditions.
+
+ I explained before - it’s not enough for predicting the chaotic system.
+
+ I have a quick question. Who shuffled the cards?
+
+What is that? Why did you subtract 10 from 36? What’s the point of it? How will it possibly help you? Is it by relation between the cards? Who was shuffling? The stranger? What is you talking about bro🫩 To keep track of the card? Yes, how will it help you determine from the start how someone will shuffle the card? How did you determine the dealer card will be ace of spades if you started tracking it before the trick? That’s a circular argument, you are determining the card by the trick but to do the trick you have to determine the card that will be the dealer one.
+
+There was also other stuff in the doc but I don’t think it’s important.
+
+—
+
+The points above are all of Arthen’s points. He still seems to not only misunderstand what I've said, but simply hasn't understood various parts of my argument and why elements of his own just cannot work within the card shuffling system.
+
+This is the final time I'll be breaking this down. If he replies again I'll just let him do what he wants cuz he hasn't refuted any of my points thus far (he even agreed with me without even realizing once) nor is he able to prove his position (he said he can't do the necessary math) so further argumentation after this is kinda pointless.
+
+Anywho, let's get on with it.
+
+—
+
+>I have a quick question. Who shuffled the cards?
+
+https://youtube.com/shorts/SS7naQQ6BMg?si=pDQmojEjC5-d8Msd
+
+The video above is Jeremy Tan and another magician doing a card shuffle of even greater complexity than van Pelt's final shuffle. The magician correctly plucks out the card from the deck without much issue. So yeah, like I said, YOU don't need to shuffle the deck yourself to get the card you desire.
+
+>What is that? Why did you subtract 10 from 36? What’s the point of it? How will it possibly help you? Is it by relation between the cards? Who was shuffling? The stranger? What is you talking about bro? To keep track of the card? Yes, how will it help you determine from the start how someone will shuffle the card? How did you determine the dealer card will be ace of spades if you started tracking it before the trick? That’s a circular argument, you are determining the card by the trick but to do the trick you have to determine the card that will be the dealer one.
+
+Look at the calculations, then look at the words beside the 36 and the 10. What does it say?
+
+Two of diamonds and Jack.
+
+Why does it say that though? The numbers are the position in the deck the cards are initially at.
+
+Me subtracting the 10 from the 36 was done to show the amount of cards present between the 10 and the 36. Which happens to be 26. I then said that the +1 (36 + 1) is 37, which is the Ace of Spades.
+
+With that, Jane can always keep track of the Ace using a reverse because of the mnemonic techniques that he uses to store all the cards in his memory palace.
+
+If he loses track of the 2 of diamonds due to van Pelt’s final shuffle, it is his cue to have her deal the cards.
+
+Why is that?
+
+In the show, as I had already stated, Jane has proven to have exceptional cold reading skills and understanding of his teammates and because of that:
+
+1. He knew that Rigsby liked van Pelt, so he used Rigby's reaction to determine when to have her deal.
+2. He also had van Pelt in his peripheral vision the whole time. I've given you 2 diagrams and 2 screenshots of the scene so you can understand the position yourself.
+3. Because van Pelt is always in his peripheral vision he only needs to infer an accurate visual from the blurry information provided.
+
+Do you know that peripheral vision tracks movement very well?
+
+* Your peripheral vision is fed by "Rod Cells" in the eye. These cells are packed on the outer edges of the fovea (the center of your eye) and therefore pick up information from the environment that is not directly being looked at (peripheral visual space). Your direct vision is supplied by "Cone Cells" in the eye, which are densely packed within the fovea. These cells are sensitive to colors and fine details (since they are so closely packed). [Hold your arm outstretched and give a "thumbs up", your thumb-nail at this distance is approximately the amount of visual space that the cone-cells are able to make fine discriminations]
+
+* Unlike the fine-discriminating cone-cells, the rod-cells are attuned to MOVEMENT in the periphery, and are not reliant on bright-light situations. This is why you tend to notice movement in your periphery very well. Heck, this is a great evolutionary advantage to be keenly aware of movement in your non-immediate visual space.
+
+* A fun little test cone and rod receptor test: during the night, take focus on a single star. Stare directly at it, and soon it will "disappear". Now try looking just to the side of it, and you will see it re-appear. This is because your rod-cells are better in low-light situations.
+
+With that knowledge, wouldn't it be logical to assume that Jane—someone with exceptional sensory skills—could perceive that kind of movement just like a normal person would? Especially since said movement happened roughly 1.5 ft to his left (less than full arm length) the whole time?
+
+Him being able to keep an eye on van Pelt always allows for him to infer the nature of her movements and visualize them well enough that he will not miss any sleight of hand.
+
+Add that to the fact that, as I've said, Rigsby liked van Pelt and will always look to her unconsciously whenever she does something—this gives Jane a two step verification process.
+
+We know this is the case because as soon as Rigsby looks over to van Pelt and she makes the double shuffle, he has her deal.
+
+Why?
+
+Because his card reached the top.
+
+Why?
+
+Because he was prepared for it.
+
+How?
+
+He simply anticipated the possibility of her making a cheeky move and used Rigby's reaction to determine when he should make her stop. Even if Rigsby hadn't moved I don't doubt that Jane wouldn't have told her to stop anyway.
+
+Do you know what a Chaos system is? Do you know how much chaos 2 shuffles create?
+
+A riffle shuffle is the most efficient method of shuffling. It is a chaos system.
+
+* A chaos system is a deterministic system that is highly sensitive to initial conditions, meaning small changes can lead to large and unpredictable outcomes. Though the system follows a set of rules, its future behavior is practically impossible to predict long-term due to this sensitivity, a concept often called the "butterfly effect”.
+
+If your reasoning for appealing to Lorenz was because the chaos system relied on the butterfly effect, then that's just not gonna work cuz the butterfly effect does not always incorporate Lorenz Equations.
+
+The butterfly effect is just a general concept within Chaos Theory.
+
+An overhand shuffle is the most inefficient method of shuffling. It is hardly a chaos system.
+
+Van Pelt doing a double shuffle at the end does not mean she suddenly entered a chaos system.
+
+This is especially true because Lorenz equations do not APPLY to cards. It simply doesn't. Look it up. Saying “there are others” is not naming them.
+
+That is you using ambiguity to refrain from addressing the argument. That leaves me with no system to analyze and it leaves you with no support system for your prediction.
+
+Provide me with a chaos system that applies to the situation.
+
+Provide me with the evidence that validates your argument.
+
+Provide me those and you win.
+
+If you can't provide either of those in the next reply then don't bother creating a reply.
+
+>To prove that Van Pelt shuffling cards is a chaotic system let’s make a thought experiment. Imagine a person shuffles the same exact deck 20 times in a row for the same amount of time but the conditions when they shuffle a deck are different in every shuffle. So what do you think is gonna happen?
+
+I think it is obvious that every result of shuffling will be different, every deck in the result is gonna be different.
+
+Yet another false analogy.
+
+You yourself have said that the time van Pelt took to shuffle was 11 seconds. She is also an amateur. She shuffles approximately 1.5 seconds at a time.
+
+11 ÷ 1.5 = 7.3 seconds
+
+She takes roughly 6-7 cards with each shuffle and shuffles 4-5 times using an overhand shuffle then shuffles another 2 times with a different method.
+
+These do not correlate with the 20 deck shuffle in the example. Especially since, for each shuffle, they use a different method. In fact, it's nowhere near it for obvious reasons.
+
+It weakens your stance because it shows you really don't understand your own argument. Analogies are meant for clarification of points, not for misconstruing them.
+
+>Imagine you are playing poker with your friends in the same room and the same deck and you are shuffling it. Do you think the resulting deck is always gonna be the same? I don’t think so.
+
+I don't see the purpose of this one. Obviously the resulting deck isn't going to be the same if you keep shuffling it continuously.
+
+This analogy doesn't support your argument in the way you probably think it does. It's kinda just…there, idk.
+
+This doesn't attack any of my points cuz I know for a fact that I hadn't argued for the deck returning to its initial state.
+
+>I still cannot prove it experimentally, but no one actually can because conditions are gonna be not “slightly” different but highly different. But I hope now you understand. It fits the criteria of being very sensible to the starting conditions.
+
+>No, almost perfect data is needed because Van Pelt shuffling is a chaotic system. Lorenz equation is only one of the examples of chaotic systems, there are other things.
+
+You've walked pretty far from your original argument honestly.
+
+If you're arguing that the unstated chaos system you've been appealing to works here then you'll have to prove it. If you can't then that's honestly a you problem cuz upscaling a feat shouldn't rely on ambiguous or incomplete logic.
+
+Don't rush to reply to me. Take the time to construct an argument based on actual logical grounding. If you're gonna cite formulas to validate your claim, you've got to use it correctly.
+
+Because the simplest fact is, the support system of Lorenz has collapsed. So the unrealistic prediction and the factors that facilitate that prediction (volume, temperature etc) are thereby invalid.
+
+Why?
+
+Those factors rely on Lorenz. And Lorenz does not apply to card shuffling bro.
+
+If you still insist that those factors have to be present, prove it.
+
+PS: Van Pelt’s behaviour is Stochastic human behaviour, not chaos Theory.
+
+Also,if you claim an extraordinary requirement (perfect data), you must establish the extraordinary premise (formal chaos). Failing to do so is failing to meet your burden because YOU are making a positive claim in this instance.
+
+Your argument in regards to chaos theory has been circular cus you say you can't prove it -> then say it is what happened -> then when I ask for proof again you say you can't prove it.
+
+Arguments are not built on unsupported evidence my friend. You'll need a lot of backing to support your claim.

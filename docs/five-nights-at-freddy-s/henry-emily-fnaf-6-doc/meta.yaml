@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-emily-fnaf-6-doc
+category: doc
+title: Henry Emily FNAF 6 doc
+authors:
+- name: kissingveneno
+  source: doc-text
+- name: Discord
+  source: doc-text
+- name: TikTok
+  source: doc-text
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1763KXcSqBxQGQ5H1p_DpylConhy4v6ZrXxs61Izs60w/edit?usp=drivesdk
+    google_id: 1763KXcSqBxQGQ5H1p_DpylConhy4v6ZrXxs61Izs60w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 6919
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 358938
+      sha256: 05353fa644d2aec55b262acdf77a1fa7161518de852749adaa587055bd46d351
+    - format: docx
+      name: document.docx
+      bytes: 2320354
+      sha256: a3d6650b1b727ea4f3c4b365e8be90597cd57fa9d2d94ddf98fbda99c3674632
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Henry Emily FNAF 6 Doc
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: Henry Emily
+  link_text: Henry Emily FNAF 6 Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

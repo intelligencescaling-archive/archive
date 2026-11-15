@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-soul-s-manipulation-of-noelle
+category: doc
+title: The SOUL's Manipulation of Noelle
+authors:
+- name: ForAllPosterity
+  source: doc-text
+series:
+- deltarune
+characters:
+- the-soul
+- noelle
+tags:
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1W2rkCRXBgprbLYjkWA_oUv7WxpNRjSm6G4cVGENGky4
+    google_id: 1W2rkCRXBgprbLYjkWA_oUv7WxpNRjSm6G4cVGENGky4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 59
+    words: 7405
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19485411
+      sha256: 567e6bdc8fbd728538b61e6b213bfd3688fdb64be59598c4a14bcd5f6ff8223f
+    - format: docx
+      name: document.docx
+      bytes: 23690584
+      sha256: 38f1e0555949f9304f159974c6ad8239665bea940578ef62decc77c432ef97e9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: The SOUL's manipulation of Noelle
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

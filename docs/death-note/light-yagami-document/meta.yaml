@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-document
+category: doc
+title: Light Yagami Document
+alt_titles:
+- collection of all Light feats
+- Light Yagami doc
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1s8lapMtpZSvc4ncR0o8fuKSTCgXb7Rg4pIMhj6gBVNE
+    google_id: 1s8lapMtpZSvc4ncR0o8fuKSTCgXb7Rg4pIMhj6gBVNE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 65
+    words: 32434
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6348660
+      sha256: 0170d98746325efc6fd927f17793f52100b615087d92334d724e850e934e0983
+    - format: docx
+      name: document.docx
+      bytes: 8357022
+      sha256: 8a4e714fd89cc978e07564c71c6d821b0f3791e9f3bacb66ebf8a263e73cec48
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DOCS I MADE:'
+  link_text: collection of all Light feats
+  note: (Finished)
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Light Yagami doc
+  note: (the one I, Hyper, made)
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Light Yagami Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

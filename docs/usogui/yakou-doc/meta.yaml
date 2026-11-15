@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yakou-doc
+category: doc
+title: Yakou doc
+alt_titles:
+- Yakou SCD document
+- Yakou Hikoichi
+authors:
+- name: Axolotol4044/KitchenCoyote_The2nd
+  source: doc-text
+series:
+- usogui
+characters:
+- yakou-hikoichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1KMPmp002mUivoGNDFZDoJi5xO-ghMFU4psvjVwes8T4/edit?usp=drivesdk
+    google_id: 1KMPmp002mUivoGNDFZDoJi5xO-ghMFU4psvjVwes8T4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 35
+    words: 9057
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 546210
+      sha256: dfd588666f25daaa5ce215206664d0309aad54414ac13650ba3b63a17e7679ef
+    - format: docx
+      name: document.docx
+      bytes: 1042001
+      sha256: 621dfbe2e2cca1a89849707932120f5eaecb3fb89d47cfe7f33840ca8199d3ab
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Yakou SCD document
+- library: remastered
+  section: Usogui
+  character: Yakou Hikoichi
+  link_text: Yakou Hikoichi
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-s-usc-and-utd-feats
+category: doc
+title: Izuru's USC and UTD Feats
+alt_titles:
+- Izuru Kamukura Ultimate Summer Camp And Ultimate Talent Development Plan Feats [On Going]
+- '[On Going]'
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+- planning
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-qBFwc9Rbu6g-TfwMfd5GnhmqOCg99APa0sG3uLqnYI/edit?usp=drivesdk
+    google_id: 1-qBFwc9Rbu6g-TfwMfd5GnhmqOCg99APa0sG3uLqnYI
+  capture:
+    status: partial
+    date: '2026-11-15'
+    words: 8442
+    files:
+    - format: docx
+      name: document.docx
+      bytes: 246830409
+      sha256: cac82d1231805715e098115b7171a191733f32412e9db3ec1b61536ce1e7484b
+    text:
+      file: text.txt
+      method: google-export
+    missing:
+      pdf: HTTP 500
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Izuru's USC and UTD Feats
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura Ultimate Summer Camp And Ultimate Talent Development Plan Feats [On Going]
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: '[On Going]'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

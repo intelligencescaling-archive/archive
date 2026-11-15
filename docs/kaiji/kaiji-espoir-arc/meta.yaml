@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kaiji-espoir-arc
+category: doc
+title: 'Kaiji: Espoir Arc'
+alt_titles:
+- Kaiji Itou document
+authors:
+- name: Coolguy
+  source: doc-text
+series:
+- kaiji
+characters:
+- kaiji-itou
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1J2i4uwpwZugIK8gZ9AYotv2HUCdHgAgZwPRR7zuBhGE/edit?usp=drivesdk
+    google_id: 1J2i4uwpwZugIK8gZ9AYotv2HUCdHgAgZwPRR7zuBhGE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 30
+    words: 10366
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 542697
+      sha256: 8484d81c215c28cabe5d9b1ca092b78df0fe28e9a0d6d8d791538d90637bb274
+    - format: docx
+      name: document.docx
+      bytes: 1428458
+      sha256: babc455bb3b919b5c8b2faef2473af1452770825e3b56ee3013664200943f22e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kaiji Itou document
+  note: (Espoir Arc)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

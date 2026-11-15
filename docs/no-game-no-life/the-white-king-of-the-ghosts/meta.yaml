@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-white-king-of-the-ghosts
+category: doc
+title: THE WHITE KING OF THE GHOSTS
+alt_titles:
+- Riku dola 2
+authors: []
+series:
+- no-game-no-life
+characters:
+- riku-dola
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1d6a4cyievbHZ6bnJQ2EFJ9_wMAKHRqMGkjpDseNKqpg
+    google_id: 1d6a4cyievbHZ6bnJQ2EFJ9_wMAKHRqMGkjpDseNKqpg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 134
+    words: 9521
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 22007406
+      sha256: fdc18c46c2db6f8de525e6cb5dbfa9666e8a76fc418ee02505fcfccd98a48f97
+    - format: docx
+      name: document.docx
+      bytes: 20009807
+      sha256: 31804d39cd902536859c2d99df65c4dda5a436145543f3711d0349ee8510c210
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Riku dola 2
+- library: remastered
+  section: No Game No Life
+  character: Riku Dola
+  link_text: THE WHITE KING OF THE GHOSTS
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

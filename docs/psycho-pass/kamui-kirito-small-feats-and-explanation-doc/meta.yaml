@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kamui-kirito-small-feats-and-explanation-doc
+category: doc
+title: Kamui Kirito small feats and explanation doc
+alt_titles:
+- Kamui Kirito
+authors:
+- name: YuuichiGiri
+  source: doc-text
+series:
+- psycho-pass
+characters:
+- kirito-kamui
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BgaxjNKCcGWnmGeDth3IdXqWiDpVt_5pY9QuuaKiIWA
+    google_id: 1BgaxjNKCcGWnmGeDth3IdXqWiDpVt_5pY9QuuaKiIWA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 4053
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 248522
+      sha256: 85752c0220cf0579b76ef01792e47944b4abd1fbe6c1bff47dbcda5e53a16ef8
+    - format: docx
+      name: document.docx
+      bytes: 18363
+      sha256: e4f6e3afe5b18fe38404a69760987073504dac8fdaf84f117a847e7509ec75bc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kamui Kirito
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

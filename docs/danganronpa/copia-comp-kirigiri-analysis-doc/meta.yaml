@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: copia-comp-kirigiri-analysis-doc
+category: doc
+title: (COPIA) COMP Kirigiri Analysis doc
+alt_titles:
+- Comp Kyoko Kirigiri analysis doc
+- COMP Kirigiri Analysis doc
+authors: []
+series:
+- danganronpa
+characters:
+- kyoko-kirigiri
+variant: Composite
+tags:
+- analysis
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1sygx5jOSfpGR5x7Sv8f8gsXbk4y2xvdRnp5_XaqrUsw
+    google_id: 1sygx5jOSfpGR5x7Sv8f8gsXbk4y2xvdRnp5_XaqrUsw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 171
+    words: 75615
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11585394
+      sha256: e9bc70d04daa507a06531a948067f5a598265f1bd4e7fa9df7cdbe31371d2fbf
+    - format: docx
+      name: document.docx
+      bytes: 8057692
+      sha256: 176a6a1adc95584dff1385346b8cbbd8902129489e3789c778182ee2de99d419
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Comp Kyoko Kirigiri analysis doc
+- library: remastered
+  section: Danganronpa
+  character: Kyoko Kirigiri - Composite
+  link_text: COMP Kirigiri Analysis doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

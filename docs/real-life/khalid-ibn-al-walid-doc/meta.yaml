@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: khalid-ibn-al-walid-doc
+category: doc
+title: Khalid Ibn Al-Walid Doc
+authors: []
+series:
+- real-life
+characters:
+- khalid-ibn-al-walid
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1sJAP6bit6cN-oPz-i38BP45tR0L5Evm0y_ZmpuDKTnc/edit?usp=drivesdk
+    google_id: 1sJAP6bit6cN-oPz-i38BP45tR0L5Evm0y_ZmpuDKTnc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 7649
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4443344
+      sha256: c3fd95b3f54c379478c72cb55dd163b06c4dfa67fcee8a70c065231f78cadfb3
+    - format: docx
+      name: document.docx
+      bytes: 4565978
+      sha256: f241f9ac2cb3a6bd169451b13ad7db8726480fa397002834efdf4bc61018693c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Khalid Ibn Al-Walid Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

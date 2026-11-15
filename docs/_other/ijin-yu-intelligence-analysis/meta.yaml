@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ijin-yu-intelligence-analysis
+category: doc
+title: Ijin Yu Intelligence Analysis
+alt_titles:
+- ijin yu
+authors: []
+series: []
+characters:
+- ijin-yu
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15iv-Mb0k7erqYgKsyl-W4-ULkzguftIGqS0RGo85IdM
+    google_id: 15iv-Mb0k7erqYgKsyl-W4-ULkzguftIGqS0RGo85IdM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3129
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1359720
+      sha256: 5ca838f18e56932e1e3a5fde97662fe897db48baee2be0a93d9955f37e012e6d
+    - format: docx
+      name: document.docx
+      bytes: 1172117
+      sha256: 86ecf6cc408730bb7c3d3bbf427335c443020965bbeef5a4f3f847e1d188c0b7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: ijin yu
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

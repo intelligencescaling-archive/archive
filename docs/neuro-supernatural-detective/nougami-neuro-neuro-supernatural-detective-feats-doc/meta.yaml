@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nougami-neuro-neuro-supernatural-detective-feats-doc
+category: doc
+title: 'Nougami Neuro - Neuro: Supernatural Detective Feats Doc'
+alt_titles:
+- Nougami Neuro Doc
+authors: []
+series:
+- neuro-supernatural-detective
+characters:
+- neuro-nougami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1AhHEmjLtooZHmOFed-10b68nH0cUN-X4s5aJMUXr1e4
+    google_id: 1AhHEmjLtooZHmOFed-10b68nH0cUN-X4s5aJMUXr1e4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 90
+    words: 2470
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 91033546
+      sha256: c06c6918d604609609371e57116a42db85867bcb25cd4a7df369ae25f44ff665
+    - format: docx
+      name: document.docx
+      bytes: 84419799
+      sha256: 64ffc7b1fa269534a9031e029604e5fdfef06ca338dae54bfc260bbf93be42b8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Nougami Neuro Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

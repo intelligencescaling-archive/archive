@@ -1,0 +1,27 @@
+CHEATSPEED
+
+What is Time Keeping Feat?
+Dexter Morgan, after killing his brother Brian Moser at the end of the first season, kept track of the time since his brother's death, down to the minute, for a considerable period.  If this feat were valid and flawless, it would be absolutely extraordinary, because for a human to consciously count every second while simultaneously engaging in daily life activities would require incredibly exceptional cognitive abilities and multitasking skills.  Furthermore, the frequency of the brain would need to be higher than that of an ordinary human brain (on average, the human brain operates in the range of 8-12 Hz for alpha waves, 12-30 Hz for beta waves, and 30-100+ Hz for gamma waves; however, the processing speed required for continuous and conscious time tracking is far beyond these ranges).  To make an estimated calculation, we first need to express this duration in seconds. 39 days, 22 hours, 18 minutes:
+
+To be able to keep track of this time with an accuracy of 1 second, we need to use the following error propagation formula to calculate the required time measurement uncertainty (Δt) and oscillator frequency (f):
+
+Here, ΔT = 1 second (our target total uncertainty), and n = 3,449,880 seconds.  Therefore:
+
+This means that Dexter would need to measure each second with an error margin of approximately 290 nanoseconds. The required oscillator frequency is:
+
+Nevertheless, this would be a theoretical calculation, and keep in mind that the human brain might require a slightly higher frequency to be more functional.
+
+this also means that Dexter's brain operates 34,500 times faster than a normal human brain, which is an incredibly absurd value.
+I stealed formula from here :)
+The real issue with Senku's counting of 3700 years : r/DrStone
+
+Debunk
+The argument clearly contains gaps. First, the proposition falls under the scope of ECREE (Extraordinary Claims Require Extraordinary Evidence). The claim that Dexter performed such a precise count is highly absurd. We've also explained this by pointing out the excessively high Hz value of his brain. So, how does this debunk the feat? Let's explain: Can you prove that Dexter actually made a completely error-free count? According to ECREE, you need to prove this, because the claim you're making is extremely extraordinary, and extraordinary claims require extraordinary evidence. There is no narrative or statement at any point in the show that proves Dexter's count is completely accurate. Under normal conditions, if Dexter truly counted second by second or minute by minute, there should be a deviation of approximately 4 days, according to the formulas. So, it should have been 43 days since his brother died, not 39. And what about while sleeping? How did he manage to continuously maintain such a precise measurement while sleeping? This isn't impossible; if the brain continues this count unconsciously, it's theoretically possible for the count to continue during the REM phase. However, the human brain is not constantly in the REM phase, and keep in mind that subconscious processes are not sufficiently correlated with cognitive ability. This is also the nature of speed reading.
+I would also like to debunk Dexter's speed reading, but I already have a doc on why speed reading isn't CPI, and I will direct you to that.
+Why speed reading IS NOT CPI!
+
+Also, don't forget that such an advanced brain would consume an incredibly large amount of energy. To calculate this, the human brain in its current state consumes around 20 Watts of energy. We can adapt this to Dexter's brain approximately as follows:
+
+690 kW, which is a highly absurd value. The human body, even at its peak during high-intensity athletic activity, can only produce about 250 Watts of energy. It's impossible for the human body to produce such an amount of energy. You could easily power a small town with that much energy. These are some of the gaps in the feat that I've been able to think of right now. I'm sure you've also thought of similar loopholes. Also, if you'd like to discuss this with me, you can message me on Discord at @yildizya (God, please let this be enough, I'm tired of arguing with people on SCD). Also, I used translation tools like DeepL and Google Translate while translating this document. Please excuse me if some sentences are translated incorrectly or inaccurately. :)
+
+Respect my G.O.A.T. Brian Moser

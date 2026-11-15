@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-feat-list-wip-soon-to-be-overhauled
+category: doc
+title: Johan feat list (WIP + Soon to be overhauled)
+alt_titles:
+- Johan liebert 3
+authors: []
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xno0XaEgHahTA0fu2uf_YP92zqsCv8yVnGNwd2dGNW4
+    google_id: 1xno0XaEgHahTA0fu2uf_YP92zqsCv8yVnGNwd2dGNW4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 6194
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 239191
+      sha256: c005ff8086f3747000c762f3e63bde94f581f705ccc4eff1c1bf5039b4a44545
+    - format: docx
+      name: document.docx
+      bytes: 1046219
+      sha256: e09316174f31f940869c7582ebf2a9a62708ba3edb43e54f13fd395498ab7a3d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Johan liebert 3
+- library: remastered
+  section: Monster
+  character: Johan Liebert
+  link_text: Johan feat list (WIP + Soon to be overhauled)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

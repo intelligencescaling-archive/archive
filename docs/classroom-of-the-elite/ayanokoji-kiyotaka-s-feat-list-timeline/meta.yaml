@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-kiyotaka-s-feat-list-timeline
+category: doc
+title: Ayanokoji Kiyotaka's Feat List - Timeline
+alt_titles:
+- Ayanokoji Kiyotaka’s Feat List - Timeline
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ttjlw4BK7y7E1eCyOfhteFaSGygIN6bMyGA6p-0-Sg8/edit?usp=sharing
+    google_id: 1ttjlw4BK7y7E1eCyOfhteFaSGygIN6bMyGA6p-0-Sg8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 5420
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 854794
+      sha256: 373e1236e153a7d6f13859ca0d5b2a9879cd6cfa26d8a4361852988a0c9f1251
+    - format: docx
+      name: document.docx
+      bytes: 1058358
+      sha256: 0b5f2c7d90dc93221301f6951230063f55ec893bc6fd90f7c5ddbc677d3f4146
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokoji Kiyotaka’s Feat List - Timeline
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: document1
+category: doc
+title: Document1
+alt_titles:
+- L monitor hax
+- L’s monitor hax
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1LMybNDRjwXu-9_t0aUnEt4b9HV4B2fmJ
+    google_id: 1LMybNDRjwXu-9_t0aUnEt4b9HV4B2fmJ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 699
+    files:
+    - format: pdf
+      name: L's monitor hax.pdf
+      bytes: 5872682
+      sha256: bb977e504dc3cdc27bf400b56c4078b9c3712005043409e38dca781ffb8f5be8
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L monitor hax
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L’s monitor hax
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,271 @@
+Cheatspeed
+SCD Categories Doc
+Introduction
+I have realized that there is still a lack of understanding of some categories within the SCD community, in particular that some of the basic points about categories remain unclear to many people. The purpose of this doc is to provide not only existing members, but also new members to the community with a more organized and understandable guide to SCD categories and subcategories.
+Also, the translations in the doc were largely obtained using DeepL, Google Translate, ChatGPT, Gemini AI and similar software. If you see any grammatical errors or incorrect information in the document, please contact me and kindly point it out.
+!!!THIS IS ONLY AN EARLY, UNFINISHED VERSION OF THE DOCUMENT. I WOULD GREATLY APPRECIATE YOUR SUPPORT AND FEEDBACK DURING ITS DEVELOPMENT!!!
+This doc made by Cheatspeed (yildizya on discord)
+Special Thanks for supporting Document: Tensai, Jojolon, Kavv
+
+Full Scale IQ
+Although it is one of the most basic categories of the SCD, it is less frequently used today than it used to be. The Full Scale Intelligence Quotient is a standardized intelligence test that aims to express an individual's conscious and general cognitive processes, abilities and mental capacity in a numerical value. Within the community, three different versions of the Full Scale IQ are used by different people: WISC-V, WAIS-IV and WAIS-V.
+
+The WISC-V and WAIS-V tests aim to measure cognitive functioning under five main categories through specific primary and secondary subtests, while the WAIS-IV has a similar structure but assesses only four main categories.
+* PSI - Processing Speed Index
+It measures an individual's ability to perceive and process routine visual information quickly, accurately and coherently and reflects components of attention and motor coordination. It consists of 2 primary and 1 secondary tests
+* Coding (primary)
+They are asked to match the symbols with numbers and make the correct match within the given time. Speed, attention and hand-eye coordination are measured. For Example:
+1 → ◆    2 → ●    3 → ▲    4 → ■    5 → ★  6 → ✚    7 → ☀    8 → ⬤    9 → ♣
+Numbers:   2   6   9   1   4   7   3   5   8
+Symbols: ___ ___ ___ ___ ___ ___ ___ ___ ___
+Anwser: ●   ✚   ♣   ◆   ■   ☀   ▲   ★   ⬤
+* Symbol Search (primary)
+The participant is asked whether a given symbol appears in a sequence shown in a short time and is expected to give as many correct answers as possible within a given time limit. This test measures visual scanning speed, attention and quick decision-making skills. You can make this symbol search test for better understanding.
+For Example:
+Target:       Group:                   Response:
+★  ▲          ◆ ● ▲ ✚ ♣               → Yes
+* Cancelling (secondary)
+The participant is given lines containing mixed symbols with some shapes. The participant's task is to mark only the target shapes within these lines as quickly and accurately as possible. This test reflects a combination of attention, processing speed and visual scanning skills.
+For Example:
+Symbols: ▲  & ⬤
+Row:   ●   ✚   ♣   ▲   ⬤   ★   ▲   ◆   ●   ☀   ■
+Answer: [●] ✚ ♣ [▲] ⬤ ★ [▲] ◆ [●] ☀ ■
+* Misconceptions
+ 1. Some people may confuse quick thinking with PSI, or think they are the same thing. Although this confusion is no longer as common as it used to be, even individuals who are theoretically aware of it can sometimes have difficulty distinguishing between these two concepts in practice. PSI, by definition, refers to an individual's capacity to perceive and process visual information quickly, accurately and consistently. In other words, it is based on the processing of visual inputs from the external world in the mind. In contrast, without direct visual perception, PSI is by definition not PSI. Of course, due to correlations, there may be some exceptions within such cases. However, instead of addressing such examples directly within the scope of PSI, we will consider the relevant explanations under the main category of “Correlations”. What we are talking about here is not a direct scoring system - this heading is only intended to give you a better understanding of how scaling works.
+2. Furthermore, subconscious processes are not directly considered within the scope of PSI. This is also directly related to the definition of the FSIQ. By definition, the Full Scale IQ aims to measure an individual's conscious and general cognitive processes. Therefore, automatized or reflexive cognitive activities that operate outside of awareness - although they may contribute to performance - are not the direct subject of these scales.
+* WMI - Working Memory Index
+is an index of cognitive performance that measures an individual's short-term memory capacity, mental manipulation ability and attentional control. It reflects the ability to temporarily retain, update and sequentially process information. It consists of 2 primary and 1 secondary subtest
+   * Digit Span (primary)
+Digit Span is divided into many variants: Forward, Backward and Sequencing. Some tests include both auditory and visual versions of this subtest. Although these variants appear to involve different tasks, in essence they all measure similar cognitive functions. Research has shown that the Auditory Digit Span activates some different brain regions. But its overall functional purpose is largely common across all variants. Forward You repeat the numbers exactly in the order they are given to you. Backward You repeat the numbers in the reverse order in which they were given to you. Sequencing You repeat the numbers in order from smallest to largest. You can check this online test for better understanding on digit span
+For Example:
+Given sequence of numbers: 5 – 8 – 3
+Forward: 5 – 8 – 3 , Backward: 3 - 8 -  5 , Sequencing: 3 – 5 – 8
+* Picture Span (primary)
+The participant is shown a certain number of pictures and is expected to identify them in the correct order. The demonstration is short and each visual is unique. This test is a visual version of the classic digit span test
+For Example:
+Visuals shown: 🟢 - 🔺 - ⭐ - 🔵
+The visuals are repeated in the order shown: 🟢 - 🔺 - ⭐ - 🔵
+* Letter-Number Sequencing (secondary)
+The participant is read or shown a sequence of mixed letters and numbers. The participant is first asked to repeat the numbers sorting them from smallest to largest and then the letters in alphabetical order. This test measures the organization and sequencing skills of working memory. You can check this online test for better understanding on Letter-Number Sequencing
+For Example:
+Given sequence: D - 3 - A - 1
+Correct answer: 1 - 3 - A - D
+* VSI - Visual Spatial Index
+is a cognitive performance index that measures an individual's ability to understand, analyze, manipulate and integrate visual information. Visual-spatial skills include complex operations such as visualizing the shape, position, relationship and details of objects, rotating or combining parts. It consists of 2 primary subtests.
+* Block Design (Primary)
+Block Design is a subtest that measures an individual's visuospatial processing, mental manipulation and problem solving skills. The participant is asked to construct a given two-dimensional model as quickly and accurately as possible using three-dimensional red and white blocks. This test specifically measures visual perception, analytical thinking and motor coordination skills.
+For Example: (The picture in black and white because it is more suitable for the theme of the document :P)
+
+* Visual Puzzles (primary)
+The participant is shown a shape and asked which three parts can be used to create this shape. The participant has to choose the correct three parts from the given options. The pieces can be rotated, so it is necessary to correctly assess not only the shape but also the orientation.
+For Example:
+
+* Misconceptions
+VSI is not only the ability to visualize or recall images, but also the ability to perform mental operations on these visual images. Many people nowadays equate VSI with visual memory, but visual memory is only about storing an image, for example a map, in the mind and recalling it when needed. If in this process one retrieves the visual information as it is, but does not perform any mental manipulation or spatial analysis with it, this is pure visual recall and not directly VSI. If the person mentally tries to orient themselves on the map they remember, calculates the distance between two points, or analyzes their position by rotating the map in their head - this is where the process of making sense of and actively using visual information begins. VSI is not just about “seeing” or “remembering”, but about doing mental processing with these images.
+* VCI - Verbal Comprehension Index
+It is one of the cognitive performance indexes that assesses an individual's verbal comprehension, verbal reasoning, and conceptual thinking skills. This index measures how well an individual understands words and concepts, how they establish relationships between words, and their ability to process verbal information and make logical inferences. It also covers skills such as the ability to think abstractly using language and to identify similarities and differences. It consists of 2 primary and 2 secondary subtest
+* Similarities (primary)
+Similarities is one of the primary subtests of the VCI and measures an individual's ability to relate verbal concepts, identify commonalities, and think abstractly. In this subtest, the individual is given two different words and asked to express the commonalities or similarities between them. This assesses the extent to which the individual can see the connections between words and concepts and express them clearly in verbal terms.
+For Example:
+What is the similarity between apples and bananas?
+Answer: Both are fruits.
+* Vocabulary (primary)
+Vocabulary is one of VCI's primary subtests and measures an individual's vocabulary, word knowledge, and conceptual explanation skills. In this test, the individual is given a specific word and asked to explain its meaning in their own words. The aim is to assess both how accurately the individual understands the true meaning of the word and how clearly, concisely, and accurately they can express this meaning.
+For Example:
+What does “small” mean?
+Answer: of a size that is less than normal or usual.
+* Information (secondary)
+Information is one of the secondary subtests of the VCI and measures an individual's general knowledge, acquired facts, and understanding of the world. In this subtest, the individual is asked direct questions about common facts, cultural knowledge, or everyday phenomena. The goal is to evaluate how much the individual has learned from life experience, education, and exposure to information, and how well they can recall and clearly express these facts.
+For Example
+What is the capital of France?
+Answer: Paris
+* Comprehension (secondary)
+Comprehension is one of the secondary subtests of the VCI and measures an individual’s ability to understand and reason about social situations, practical concepts, and common principles. In this subtest, the individual is asked questions that require them to explain why certain actions are taken, what social norms mean, or how to approach everyday problems. The goal is to assess how well the individual can interpret implicit information, understand social expectations, and apply logical reasoning to real-life scenarios.
+For Example:
+Why do we wear seat belts in a car?
+Answer: To protect ourselves in case of an accident
+   * FRI - Fluid Reasoning Index
+Since the concept of FRI is interpreted in two different ways within the SCD community, I will try to explain both approaches as best I can. But first, I need to define what FRI is. FRI is the capacity to think logically, establish connections, and solve problems in new situations without relying on acquired knowledge. This ability measures an individual's skill in generating a new solution by analyzing the current situation entirely, without using memorized information or past experiences.
+I would also like to point out that having a different approach for SCD does not mean you are required to use it. You can always stay true to the scientific definitions. This is not a matter of what is right or wrong, it is simply a matter of personal preference.
+Subcategories of FRI in SCD
+CPI (WMI+PSI, WMI>PSI) + Logical Reasoning + Adaptability + Learning Ability + Novel Complex Problem-Solving
+   * Novel Complex Problem Solving
+It is the ability to analyze a complex problem, establish logical relationships, and produce an effective solution without resorting to a previously encountered, pre-learned solution path. The fundamental difference is that the solution is based on immediate cognitive processing and flexible thinking rather than existing knowledge.
+You will eventually read and understand the other important subcategories        yourself. My goal here is to explain why such an approach was adopted in the SCD. The subcategories included in the WISC and WAIS tests cannot be applied to many of the characters in the SCD on their own, in their pure form. This is because these characters do not correspond exactly to real-life measurement conditions. Therefore, the cognitive processes measured by the FRI have been reinterpreted in a more flexible manner, tailored to the characteristics. Solving novel problems requires not only possessing knowledge but also developing new approaches, adapting to the situation, and thinking abstractly. For this reason, adaptability is recognized as one of the subcategories of the FRI in the SCD. Furthermore, establishing logical connections between these processes requires inductive reasoning skills; therefore, logical reasoning has also been made a subcomponent of FRI. Finally, a direct relationship between CPI (Cognitive Proficiency Index) and FRI has been proven: individuals with high CPI solve problems faster, adapt to new information more quickly, and have higher learning speeds. This relationship is fundamentally related to learning and adaptation capacity.
+Subcategories of FRI in WISC/WAIS
+      * Matrix Reasoning (primary)
+Matrix Reasoning is a primary subtest that measures fluid reasoning and nonverbal problem-solving skills. In this test, the participant is typically presented with a 3x3 grid containing different shapes with one piece missing, and is asked to select the correct option that best completes the pattern. This subtest evaluates the ability to recognize relationships between visual elements, solve logical sequences, analyze patterns, and extract abstract rules.Because there is no verbal data involved, it measures problem-solving capacity in its purest form. For this reason, Matrix Reasoning is also closely related to inductive reasoning, which I will explain in more detail later.During the pattern recognition process, the individual observes different shapes, tries to understand how they change and interact with one another, and derives a general principle from these observations. Since this process aims to reach a general rule from specific examples, it forms the core of inductive reasoning.That’s why some people in the community evaluate this score purely as an indicator of inductive reasoning ability.
+For Example:
+
+      * Figure Weights (primary)
+Figure Weights is one of the primary subtests that assesses fluid reasoning and logical problem-solving skills. In this test, the participant is presented with a visual image showing shapes on a scale. One side of the scale is incomplete, and the participant is asked to select the correct shape from the given options to balance the scale. I have explained the inductive aspect of Matrix Reasoning, and since this has a similar basis, I will not go into detail. When you see the example, you will probably understand it yourself.
+For Example:
+
+Overall EQ
+Emotional intelligence is the ability to monitor one’s own and others’ feelings and emotions, to distinguish among them, and to use this information to guide thinking and actions. Although there are many different models of Emotional Intelligence today, within the SCD framework the foundation is based on Salovey’s Ability Model, adapted into a 4-subcategory EQ model.In addition, within the community there is also a 6-subcategory model, derived from the same Ability Model, which aims to distinguish between the intrapersonal and interpersonal aspects of EQ. EI can also be understood through the Mixed Model approach, which integrates cognitive and personality-based components and can be related to the concept of Social Intelligence. While the SCD community uses the Mixed Model primarily to represent social intelligence.
+Emotional Intelligence- 6-Subcategory EI Model (SCD)
+Four Branches of the Ability Model of Emotional Intelligence
+         * Emotional Understanding (EU)
+Emotional Understanding refers to the extent of one’s unconsciously formulated theoretical knowledge, derived from experience and observation, about why people feel certain emotions. It involves recognizing the differences between emotions, understanding the causes and consequences of specific emotions, and analyzing transitions between them.
+         * Emotional Perception (EP)
+Emotional Perception is the ability to detect emotional information in our surroundings through our senses and to recognize and identify it using multiple emotional cues. These cues may include facial expressions, emotional prosody, body posture, and contextual elements such as the relationship between speakers.
+         * Misconception
+1. It is important to emphasize the difference between these two concepts, as I myself did not fully grasp the distinction when I first started in SCD. EP refers to your ability to recognize and distinguish the emotions a person is feeling in the moment by using your senses. EU, on the other hand, involves a completely different process; its aim is to understand why those emotions are being experienced at that moment, what conditions or experiences have shaped them, and how they have developed. While EP focuses on understanding what is being felt, EU focuses on analyzing why it is being felt.
+2. Understanding that a person is lying from their facial expression, detecting encephalitis by smell, or recognizing someone’s psychological condition are not examples of EP or EU. The key point here is that, by definition, EQ requires a feeling to be at the core of the inference being made. Lying, in itself, is not an emotion; therefore, it is not considered within the subcomponents of EQ. In EQ, what you perceive or understand must always be an emotional state otherwise, the process falls outside the scope of EQ.
+            * Emotional Management (EM)
+Emotional management is the process of effectively directing and controlling your own emotions in a healthy way, as well as managing the emotions of others.
+            * Misconception
+1. Emotional Management is the process of managing your emotions, but this process is different from managing your body's physical or mental responses. For example, situations where a person interferes with their own physiological responses, such as ingesting poison or consuming excessive alcohol, aren't considered EM because they aren't directly related to managing emotions.
+            * Emotional Engagement (EE)
+EE is the conscious use of emotions to support cognitive processes. The individual recognizes their emotional state and uses it as a tool for tasks such as problem solving, focusing, or creative thinking.
+
+Reasoning
+Reasoning is the process of mentally evaluating a situation in order to reach a decision or conclusion.
+               * Deductive Reasoning
+Just check here
+               * Inductive Reasoning
+Induction is a method of reaching a general conclusion based on observations. We observe a situation one or more times and derive a general principle from these observations.
+Pattern Recognition Stages in Inductive Reasoning
+1. Descriptive Pattern
+At this stage, the individual merely observes and describes the pattern, but does not draw any conclusions about how it works or make any predictions about the future. In other words, the person notices superficial similarities in shapes or sequences but has not yet begun to process this information mentally.
+2. Exploratory Pattern
+At this stage, the individual no longer merely notices the pattern; they begin to actively engage in mental processing to understand how the pattern works. They explore the logical relationships between shapes or sequences, mentally test possible rules, and compare different possibilities.
+3. Predictive Pattern
+At this stage, the individual has discovered how the pattern works and now possesses a logical model that allows them to anticipate the next step. They transform the relationships they noticed in the descriptive stage and solved in the exploratory stage into a general rule and use this rule to predict the future shape, sequence, or outcome.
+Inductive reasoning does not always have to include all stages; sometimes it may only be descriptive. However, what makes an inductive inference powerful and compelling is how many of the pattern processing stages this process includes, how extensive the data set is, and how close it gets to the highest level of these stages (Predictive > Exploratory > Descriptive). The higher the level an individual reaches, the greater the inference's predictive power, logical certainty, and generalization capacity.
+                  * Difference between Induction and Deduction
+To better understand induction, I would like to give an example in this section. For example, Dexter actively uses deductive reasoning in crime scene investigations. When examining a crime scene, he looks at the spatter patterns to try to understand where someone was struck or how they were shot. This process is deductive because it attempts to explain a single event using existing general rules (such as the relationship between blood spatter angles and direction of movement).
+For example:
+P1: The long axis of the elliptical bloodstains indicates the direction from which the blood came (general rule).
+P2: The long axes of the ellipses identified on the wall point in the same direction.
+C: Therefore, the direction from which the blood came is that direction; the attack position is in that direction.
+Let’s reverse the situation for a moment:
+P1: Most of the blood droplets at the crime scene are elliptical and their long axes point in a specific direction.
+P2: This kind of pattern has shown the same direction in similar cases.
+C: Therefore, the long axis of elliptical blood droplets may indicate the direction the blood came from (a general rule is derived).
+Since a general rule is derived here, this is inductive reasoning.
+A simpler version:
+Deduction
+P1: All humans are mortal (General rule)
+P2: Socrates is a human
+C: Therefore, Socrates is mortal
+Induction
+P1: Socrates is a human
+P2: Socrates is mortal
+C: Therefore, all humans are mortal (a general rule is derived)
+In inductive reasoning, there is no guarantee that the conclusion you reach from your observations is correct. You are simply trying to form a general principle based on the patterns or examples you’ve observed. Because of this, the result is always probabilistic, not certain.
+This is exactly where it differs from deductive reasoning:
+In deductive reasoning, if the premises are true, the conclusion is necessarily true. The only way for the conclusion to be wrong is if one of the premises is false.
+In inductive reasoning, however, there is no such certainty. The conclusion is based on your observations or your approach, meaning it can always be disproven by new observation.
+                  * Abductive Reasoning
+In abductive reasoning, the goal is not to reach a certain conclusion or to derive a general rule; it is to find the most plausible explanation. We work with limited or incomplete information and form a reasonable, hypothetical explanation based on that data. Because of this, abductive inference naturally involves both uncertainty and interpretation.
+                  * Misconception
+The key difference between abductive and inductive reasoning is that inductive reasoning gives you a general rule or principle, while abductive reasoning gives you the most plausible explanation for a situation.
+Inductive reasoning example:
+P1: It rained.
+P2: The grass got wet,
+C: So the rain wets the grass, the rain falls.
+Here, you observe a relationship between rain and wet grass and derive a general rule from it. That’s why this is inductive reasoning.
+Abductive reasoning example:
+P1: The grass is wet.
+C: Then it probably rained.
+Here, you don’t have certain evidence. Instead, you form a hypothesis that best explains the fact that the grass is wet. This hypothesis is reasonable, but not certain, because the grass could have also been watered by a gardener. In abductive reasoning, the conclusion is always probable, not guaranteed.
+Deductive reasoning example:
+P1: The grass is wet.
+P2: The grass only gets wet when it rains.
+C: Therefore, it rained.
+This is a deductive reasoning because you’re explaining the wet grass using a general rule (the assumption that grass only gets wet when it rains). However, if the premise is weak or false, the conclusion will also fail, even if the logic is valid.
+Strategy
+In this community, there are two main strategy scaling systems that are generally accepted: one created by Lloyaro and the other by Ace. Which one you choose to use or whether you prefer to build your own system is entirely up to you.
+A guide to Strategy - Lloyaro’s Strategy Document
+A Guide to Strategy in SCD - Ace’s Strategy Document
+Brief explanation for methods
+                     * Lloyaro’s Document
+In Lloyaro’s system, strategy is evaluated in terms of both outcome and execution. The main point is how effective the strategy is in achieving its goal and how it reaches that goal. This approach assumes logical soundness as a given and focuses mainly on how the strategy is executed and how effectively it achieves its goal. In other words, even if a strategy is well-designed, if it is executed poorly, it cannot be rated highly. A strategy is not just an idea but a concrete chain of tactics, and its value is measured through both its outcome and its execution. Success is determined not by the structural soundness of the process but by its implementation and results.
+                     * Ace’s Document
+In Ace’s system, strategy is scaled more by whether it has a logical foundation than by its outcome. The main point is how well the strategy is built, how consistent it is, and how likely it is to succeed without outside factors. In this approach, the outcome is not the main focus; what matters is that the strategy is logical, controllable, and flexible on its own. Even if a strategy fails, if it has a strong logical base, it can still be rated highly, because in this system success depends not on luck or external factors but on the intellectual quality of the strategy.
+                     * Misconception
+You might think that logical soundness is much less important in Lloyaro’s system compared to Ace’s, but that would be a misunderstanding.
+Simply put, in Lloyaro’s system, logical soundness is something that is already expected to exist as a core part of any strategy. However, the main focus of evaluation is on the quality of execution and how effectively the strategy achieves its goal. Whether a strategy is logical or not is important, but it’s not something directly scored; a solid logical foundation is treated as a starting point, something that any good strategy should naturally have. The actual evaluation revolves around “How well was this strategy executed?” and “How effective was it?” What makes Ace’s system different is that it actively scores the logical foundation itself, while Lloyaro’s system treats it as an assumed baseline, not a scoring category.
+Manipulation
+Manipulation is the act of directing an individual, system, or situation to one's own advantage. Although this concept is generally applied to people today due to the influence of psychology, by definition, manipulation is not limited to conscious beings. Even inanimate systems can be subject to manipulation, such as manipulating stock market prices.
+                        * Direct Manipulation
+Direct manipulation is the act of exerting immediate and observable influence over an individual, system, or situation in order to achieve one’s own advantage. It involves a clear causal link between the manipulator’s action and the resulting change, without relying on intermediaries or subtle psychological cues.
+                        * Indirect Manipulation
+Indirect manipulation is the act of influencing an individual, system, or situation in a way that the effect is not immediate or directly observable. It works through intermediaries, delayed effects, or subtle cues, rather than a clear and direct causal link.
+                        * Logical Manipulation
+Logical manipulation involves guiding an individual through logical arguments, inferences, or reasoning to act in accordance with one's own objectives. In this type of manipulation, the effect is established through the reasoning process; even if the person does not directly recognize the manipulation, they make decisions believing they are based on logical grounds.
+                        * Mass-Scale Manipulation
+Mass-scale manipulation is the act of influencing or directing the behavior, perception, or decision-making of a large group of people or entire populations to serve a specific purpose or agenda.
+                        * Emotional Manipulation
+Emotional manipulation is the process of directing or controlling an individual's behavior or decisions by targeting their emotions. In this type of manipulation, the person uses words, actions, or situations that trigger emotional responses rather than logical arguments. The goal is to reduce the individual's rational thinking and make them decide on an emotional basis.
+Deception
+The goal in deception is to use methods to conceal the truth and present false information. These methods may include fabrication, acting, bluffing, and concealment. The aim is not to directly control the other person, but rather to convince them of something untrue.
+Difference Between Deception and Manipulation
+As I said, the goal of deception is not to control the other person, but to hide the truth from them. Manipulation can involve deception, but these are different concepts. In one, you control the individual for your own purposes, while in the other, you aim to conceal the information you have. For example, a serial killer frames someone else, but the goal is to mislead the police and conceal the fact that they are the killer.
+                           * Fabrication
+Fabrication is the act of producing and presenting false or fabricated information; its purpose is to conceal, mislead, or create a false impression of the correct information at hand. It usually involves deliberately putting forward fabricated claims or distorted evidence in place of real data.
+                           * Framing
+Framing is a form of deception that aims to influence perception by presenting a situation or event within a specific perspective or framework. The goal of this method is not to provide false information, but to change the way information is presented so that the other party perceives the situation differently. Thus, even if the person has the correct information, they become inclined to interpret the event in the way the frame directs.
+                           * Difference Between Framing and Fabrication
+1. Personally, I think the difference is clear, but I thought it wouldn't hurt to elaborate here. In fabrication, you aim to present false information directly to the other person. For example, let's say you're playing a game. 100% chance of winning $100K, or take a risk with a 60% chance of winning $1 million. You play the game, and in the next round, to prevent your opponent from winning the money, you tell them that the chance of winning $1 million is 30%. So you've fabricated a lie. But in framing, you tell your opponent “Carl, think about it, there's a 40% chance you won't win anything at all. Do you really think it's worth the risk? If I were you, I wouldn't do it.”
+                           * Concealment
+Concealment aims to prevent the correct assessment of a situation by deliberately hiding information, restricting access, or keeping it from individuals or the public.
+                           * Difference Between Concealment and Framing
+Framing and Concealment may seem similar at first glance, but they are fundamentally different concepts. In Framing, the goal is not to withhold information but to influence perception by changing the way the information is presented. The information itself is visible, but the focus is deliberately shifted, preventing the other party from seeing the bigger picture. In Concealment, however, the information itself is hidden, meaning there is nothing for the other party to evaluate. In this way, deception is achieved through absence, not misdirection.
+                           * Sophistry
+Sophistry refers to arguments that appear logical but are flawed. The purpose of these arguments is to create the impression of a valid conclusion. They aim to use the formal structure of logic not to discover truth, but to influence or persuade the other party.
+                           * Difference Between Sophistry and Logical Manipulation
+Logical manipulation is the strategic use of a correct logical structure. The argument does not have to be flawed, but the aim is to use logic for one's own benefit. Sophistry, however, is a form of reasoning that appears logically valid but is flawed. Here, logic is used only to appear persuasive, but the basis of the argument is empty.
+                           * Misdirection
+Misdirection is a method used to deliberately divert someone’s attention to another point in order to prevent them from focusing on the actual information, goal, or action. Although this concept originally comes from stage magic, which I’ve also recently taken an interest in, it has now become widely used in many other fields as well.
+                           * Misconception
+This concept can be a bit more complex, but I’ll explain it simply. In misdirection, you’re not presenting false information. For this reason, it’s often easier to distinguish it from fabrication, but its difference from framing can sometimes be harder to grasp.
+In misdirection, you do not change the way information is presented — the information remains there in its pure, unaltered form. What changes is where the attention is directed, distancing the target from the critical information.
+Put even more simply:
+                              1. In framing, the information stays the same, but its presentation changes.
+                              2. In misdirection, the information stays the same, but attention shifts.
+Also, misdirection can seem somewhat similar to concealment, but concealment has a broader scope. For example, if you take a document and lock it in a safe, you are preventing someone from accessing the correct information directly. That is still a form of deception. But with misdirection, you must achieve the same effect by shifting their attention, not by hiding the information itself.
+
+Deductive Reasoning and Hypothetico-deduction
+I originally wrote this explanation a few time ago in my native language to clearly explain how deduction and the hypothetico-deductive method work on my server. I decided to add it to the document in its raw form because I already had a detailed analysis, and I didn’t see any need to rewrite something that was already complete.
+Before anything else, let’s establish what deduction is by definition.
+Simply put: “Deduction is a method of reaching a conclusion that logically follows from one or more premises through the application of logical rules.”
+P1: All birds hatch from eggs.
+P2: A sparrow is a bird.
+C: Therefore, a sparrow hatches from an egg.
+For a deductive inference to be valid, the premises don’t have to be true. What matters here is the correctness of the logical form, not the truth of the premises.
+P1: All humans are green.
+P2: Socrates is human.
+C: Socrates is green.
+This inference is valid because the logical structure is correct.
+“All A are B. x is A. Therefore, x is B.”
+However, since the premises are false, the argument is not sound.
+Now that we’ve established this, we can move on to the hypothetico-deductive method. The hypothetico-deductive process is commonly used in science. First, a hypothesis (assumption/model) is generated, and then deduction is carried out based on that hypothesis.
+Simply: X is a strategic individual because they calculate every move (Hypothesis).
+P1: X is a strategic individual.
+P2: The strategic points here are A, B, and C.
+P3: A strategic person would want to stand at these points.
+C: X will be at one of the points A, B, or C.
+This conclusion, if the premises are true, is logically necessary.
+But here’s the important point: in the hypothetico-deductive method, the truth of the premises is not guaranteed—only the validity of the deduction is. That means the conclusion doesn’t have to be “true,” but it is “logically consistent.”
+In this process, deduction is the act of deriving logically necessary consequences from a hypothesis. Whether the hypothesis is true is a separate issue, but the validity of the inference rests purely on logical structure.
+This is why --> IN SCIENCE <-- the hypothetico-deductive method is not used to “prove” something, but to “test it through falsification.”
+I repeat: IN SCIENCE.
+Regarding comprehension in deduction:
+In deductive reasoning, comprehension doesn’t stem from the structure of the inference itself but from the complexity of the knowledge being applied. Deduction reduces a phenomenon to a single logical target through given premises, which simplifies the structure. The cognitive load here comes from knowing the correct principles, applying them properly, and managing the difficulty of that application.
+The hypothetico-deductive process, on the other hand, requires much more comprehension. Because you don’t just apply existing knowledge—you first construct a hypothesis, then deduce from it. Comprehension in this case is embedded in the entire process:
+                              * Mentally modeling the situation,
+                              * Selecting important facts and framing them,
+                              * Deriving logical consequences from this model.
+This process demands greater cognitive flexibility because you’re not just applying knowledge—you’re reconstructing it.
+Additionally, I want to clarify something independently of the hypothetico-deductive method, to make the functioning of deduction clearer:
+Saying “This cannot be deductive because X might not have known where A, B, and C are!” does not refute the deductive structure itself.
+Because deduction depends not on the individual’s level of knowledge, but on the logical form itself.
+If the premises are “X is a strategic individual” and “A strategic individual will be at one of the points A, B, or C,” then as soon as these premises are accepted as true, the conclusion is logically necessary. Whether X actually knows this information or not doesn’t break the structure.
+This is confusing the epistemic content of a premise with its logical form.
+Deductive inference concerns itself with the logical relationship between premises, not with the subject’s lack of knowledge. Even if X doesn’t know, if the premises are true, the inference remains valid.
+In other words: “X’s lack of knowledge” may affect the truth of the inference but never its validity.
+ https://www.scribbr.com/methodology/deductive-reasoning/
+https://www.cambridge.org/core/books/abs/theories-of-scientific-method/hypotheticodeductive-method/A23939B9520B5DF79FF0E96738EEA906
+ https://www.britannica.com/science/hypothetico-deductive-method

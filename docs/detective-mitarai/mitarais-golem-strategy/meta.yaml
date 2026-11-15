@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mitarais-golem-strategy
+category: doc
+title: Mitarai’s Golem Strategy
+alt_titles:
+- Mitarai's Golem Strategy
+authors:
+- name: Aquitosias
+  source: doc-text
+series:
+- detective-mitarai
+characters:
+- kiyoshi-mitarai
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1g1kN3tfR20Xu81IxKGnWtkIKVBDLWlTfffdSkoF_bn4/edit?usp=drivesdk
+    google_id: 1g1kN3tfR20Xu81IxKGnWtkIKVBDLWlTfffdSkoF_bn4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 9898
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4239062
+      sha256: 0d87342ec86506f603a312e391624eb03bfcf068c1044d3e6e1dfcd0cb9c5be7
+    - format: docx
+      name: document.docx
+      bytes: 3118706
+      sha256: d3927394ecbe5a76aa3a03305d43f9a2c35a6039978ee534a043a0c5ec8a29fd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Mitarai's Golem Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

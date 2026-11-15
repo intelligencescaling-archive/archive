@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: isagis-full-scale-eq-by-jibril
+category: doc
+title: Isagi’s Full Scale-EQ (By Jibril)
+alt_titles:
+- Isagi FSEQ
+authors: []
+series:
+- blue-lock
+characters:
+- yoichi-isagi
+tags:
+- fsiq
+- eq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11bJTMrqn3eIESxAgkY_imGFfBfzND6ElfFlzL2djvqo
+    google_id: 11bJTMrqn3eIESxAgkY_imGFfBfzND6ElfFlzL2djvqo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1913
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 453960
+      sha256: ec38de725e502cb465b97a1866fd0a519f31f6aed2b54e835b9c18c97767be3f
+    - format: docx
+      name: document.docx
+      bytes: 503090
+      sha256: 8465a74ffed1ee003bf24401dad4994caa9c73fd6fe00a8e24d6d78176aba992
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Isagi FSEQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

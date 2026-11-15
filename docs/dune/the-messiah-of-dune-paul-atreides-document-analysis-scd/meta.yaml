@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-messiah-of-dune-paul-atreides-document-analysis-scd
+category: doc
+title: The Messiah Of Dune, Paul Atreides Document+Analysis [SCD, Powerscaling] (Outdated)
+alt_titles:
+- Paul atreides DOC
+authors: []
+series:
+- dune
+characters:
+- paul-atreides
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1v2zp5MfzQtOFFM0hieuNz3Y1aRc4EXVoB6Yv_A1_vpg
+    google_id: 1v2zp5MfzQtOFFM0hieuNz3Y1aRc4EXVoB6Yv_A1_vpg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 67
+    words: 16356
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 17650478
+      sha256: b0bc6e643ccb38fbcfbae5a931f3d455aadf5591610c8e4de7c5403a35a72f45
+    - format: docx
+      name: document.docx
+      bytes: 14003920
+      sha256: bfd28cf658bf06671ced038b002c62c7b6c4a775d3782c09ed4a87e8d3c2ae8b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Paul atreides DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

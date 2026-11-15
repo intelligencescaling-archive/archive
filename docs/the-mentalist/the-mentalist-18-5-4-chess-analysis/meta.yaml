@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-mentalist-18-5-4-chess-analysis
+category: doc
+title: 'The Mentalist: 18-5-4 (Chess Analysis)'
+alt_titles:
+- The Mentalist Chess analysis
+authors:
+- name: magadaz
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NFXRhoqtUY9thibrRx-oiNom4PdM5gC6AbJ2-Nnd-to
+    google_id: 1NFXRhoqtUY9thibrRx-oiNom4PdM5gC6AbJ2-Nnd-to
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1759
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5250097
+      sha256: b2d96ccdc8af4f166bd0663848018e6ea54b732c7ea703cdf0a17a8ab8054a73
+    - format: docx
+      name: document.docx
+      bytes: 5263240
+      sha256: f8c45d7a3e0b1730488ca56f7e807e6e341189e5825e3971b1575422564a88f7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: The Mentalist Chess analysis
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: 'The Mentalist: 18-5-4 (Chess Analysis)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-7x9-plan
+category: doc
+title: Patrick Jane 7x9 Plan
+alt_titles:
+- PJ 7x9 Plan
+authors:
+- name: Arthen
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/19Z71ILVbY2JixTbQdLxbwp-LsHFRSyj_blB-muviUnI/edit?usp=drivesdk
+    google_id: 19Z71ILVbY2JixTbQdLxbwp-LsHFRSyj_blB-muviUnI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1976
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 109114
+      sha256: f2b8ed4ba6c15f2237d7ce9cdb394a5aeb413036d63f323d0b2c16035718b485
+    - format: docx
+      name: document.docx
+      bytes: 11945
+      sha256: 025841f165f3eea897c1086c2faa7e8b30369b666579f9e5e04f22fbb14c15ee
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 7x9 Plan
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane 7x9 Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-fugitive-bee
+category: doc
+title: The Fugitive Bee
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1HwU7DVNyYxkTNS_XYvMFRzVjcg87aMSY/view
+    google_id: 1HwU7DVNyYxkTNS_XYvMFRzVjcg87aMSY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 9537
+    files:
+    - format: pdf
+      name: The Fugitive Bee.pdf
+      bytes: 2449627
+      sha256: 726b298593f6a39783df3c33d9d1da4112d3cb5a6c7d7d34eee7b89f72be41ef
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: The Fugitive Bee
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: The Fugitive Bee
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

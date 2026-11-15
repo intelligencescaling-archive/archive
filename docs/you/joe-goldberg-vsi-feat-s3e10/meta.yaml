@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-vsi-feat-s3e10
+category: doc
+title: Joe Goldberg VSI Feat (S3E10)
+authors:
+- name: umogrimes
+  source: doc-text
+- name: tt
+  source: doc-text
+- name: sido75
+  source: doc-text
+- name: yildizya/cheatspeed
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- feats
+- vsi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1lI1ZR8I2_AXZl-4ggkYfRpk6pd0yirk2oGdXYhvtxkA/edit?usp=drivesdk
+    google_id: 1lI1ZR8I2_AXZl-4ggkYfRpk6pd0yirk2oGdXYhvtxkA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 384
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10734976
+      sha256: a919fbf76111b39fced774f6b195a14c2edd3cbe1d97da2a9a4bcf2869a75fdd
+    - format: docx
+      name: document.docx
+      bytes: 17068605
+      sha256: 7bbe30cd0531c8d36642c604ee9197edd45cff87a1c6a9dd1e60e03b4bdb1bc9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe Goldberg VSI Feat (S3E10)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

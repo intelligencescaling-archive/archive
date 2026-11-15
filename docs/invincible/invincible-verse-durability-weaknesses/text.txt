@@ -1,0 +1,157 @@
+CREDIT TO: khadz.
+—All crossovers are canon.
+
+Newton’s 3rd law:
+•In simple terms, Newton’s 3rd law postulates that if object A exerts a force on object B, object B exerts a force (equal in magnitude but opposite in direction) on object A. Action = Reaction. ~ Therefore, all feats presented and calculated here would scale for the durability of said characters. Any character bullrushing or striking would also need to withstand the recoil of their own attack.
+_______________________
+
+CoP ship destroys artificial satellite calc:
+
+•Assuming the Rognarr Planet is at least Earth-sized (which is fair to say the least, as the gravity on their planet is far stronger than on Earth):
+
+•The distance between Planet & Solar disk is 15968.5781455km.
+
+Now, for obstruction:
+
+•R is the radius of the Sun/Star, r is the radius of the Planet, and d is the Planet to Sun distance. We need to find z (the size/radius of the object which will block all the light) and y the distance that object is from the Planet (which we have already). In order to do this, we also need to determine x which is the distance at which the umbra becomes a point. We can take advantage of the properties of similar triangles to write:
+
+R/(d+x) = r/x.
+Therefore:
+x = rd/(R - r).
+•Substituting in the radius of the Sun, the Planet to Sun distance at perihelion and the radius of the Planet (using Earth), we get:
+x = 6371×149600000/(696340-6371).
+x = 1381368.72816km.
+•In order to obstruct all sunlight from the planet, the object needs to have a radius of:
+z = (6371(y+1381368.72816))/1381368.72816 = (6371(15968.5781455+1381368.72816))/1381368.72816.
+z = 6444.64855544km (radius of the Solar Disk).
+Volume of sphere = 4/3πr³ = 4/3×π×6444.64855544³ = 1.12e+12km³ (volume of the Solar Disk).
+Solar panels are almost entirely made of Silicon, so we will use that.
+Density of Silicon = 2330000000000 kg/km³.
+Mass: ρV = 2330000000000×1.12e+12 = 2.6096e+24kg.
+GBE formula [GBE applies to any object, aritifical or not, with a massive size] — 3GM²/5r:
+= 3×6.6742867e-11×2.6096e+24²/(5×6444648.55544) = 4.2316014e+31J//10.114 Zettatons of TNT.
+
+Final Tally, assuming 3 Viltrumites did equal work: AP - 10.114/3 = 3.37 Zettatons of TNT (Small Planet Level) FOR EACH.
+
+•As clearly established, in-universe, Viltrumites are "virtually unstoppable", even individually. It's also said that, to combat the viltrumite empire, the whole of the CoP has to unite with other planets and their armies to even stand a chance. A single Viltrumite possibly joining their side was seen as massive and could be a turning point:
+
+•This means that no weapon of the CoP can put down a single Viltrumite; this is further reaffirmed when Omni-Man and Allen had to collect specific weaknesses and beings strong enough to do anything to Viltrumites, i.e. Klaxus plants, Rognarrs, Battle Beast, the perfected Scourge virus, etc. It takes place in the same issue itself. Thaedus had a SPECIAL list of things that could harm Viltrumites, and sent the duo on a secret mission to retrieve such things:
+
+Random travel ships that the CoP have should NOT have any weapons powerful enough to harm Viltrumites in any way.
+
+•Also to be noted; Conquest destroys the same ship which withstood the recoil of the blast coming out of it:
+
+*It’s the exact same ship and captain/crew.
+
+_______________________
+
+Invincible no-sells a super-nuke calc:
+
+•Inverse square law states that the intensity of a source is inversely proportional to square of the distance away from the source, i.e. a source gets weaker in intensity on a body the further the body gets away from it.
+
+Yield : 9.56 petatons.
+
+Distance Invincible was from the nuke : Around 0.5m.
+
+Surface Area of the explosion at point in which it hits Invincible: 4πr² = 4×π×0.5² = 3.14159265359m².
+
+Intensity: Yield/Area = 9.56/3.14159265359 = 3.04304251192 Petatons/m².
+
+Body surface area: √(height×weight/3600) = 2m².
+
+Cross-sectional area ≈ Body surface area/2 = 1m².
+
+Total yield energy taken by character = Intensity×Cross-sectional area = 3.04304251192 Petatons of TNT (Multi-Continental level).
+
+FOR FORCE:
+
+P: 2I/c.
+
+•P is pressure in Pascals//N/m².
+•I is intensity. = 3.04304251192 Petatons/m² = 1.273208982e+25J/m².
+•c is the speed of light. = 299792458m/s.
+
+= (2×1.273208982e+25)/299792458 = 8.493936e+16Pa.
+
+Force: PA = 8.493936e+16×1 = 8.493936e+16N//8.66 trillion tons of force.
+
+_______________________
+
+Amazon Omni-Man tanks an orbital laser calc:
+•Scene.
+
+•Pine: 15px | 45m.
+•Diameter: 1800px | 5400m.
+•Height: 42px | 126m.
+Cylinder Volume: Area×Height = (π×2700²)×126 = 2885678516.03m³ (2885678516028369cm³).
+Energy of rock fragmentation: 8J/cm³.
+Energy = 2885678516028369×8 = 2.3085428e+16J//5.52 Megatons of TNT (Small City level).
+
+The beam continuously went on for 3 seconds to make as much damage as it did in the calc above, Omni-Man was exposed to the beam for 19 seconds until it was turned off, so…
+
+(5.5/3)×19 = 34.83 Megatons of TNT (City level).
+
+•Omni-Man later no-diffs and no-sells the beam, effortlessly overpowering it.
+
+•Result above is only for the DC of the beam, the AP should be much higher considering it’s a concentrated beam which dug him deep into the Earth, as we see the hole it made. The beam also cost $400 billion, so it wouldn’t make sense as to why the yield would be lower than a lot of nukes that were manufactured much cheaper.
+______________
+
+Viltrumite Weaknesses:
+
+Heat:
+
+•Viltrumites have a specific weakness to prolonged exposures to extreme temperatures, due to plasma making their smart atoms too energetic, hence normal bodily functions, subatomic processes and biological feedback loops are interfered with.
+
+•We see Thragg and Invincible extremely burnt up from the Sun, due to prolonged exposure (an entire issue showing their fight on the corona, surface and inside of the Sun):
+
+—In short-burst exposures, Viltrumites can no-sell temperatures hotter than the Sun:
+
+•Invincible and Thragg no-sell solar flares, which are comparable/relative to the temperature at the Sun’s core:
+
+•Invincible no-sells a taser 10 times more powerful than lightning (lightning alone is 5 times hotter than the Sun):
+
+•As aforementioned, Invincible can no-sell a super-nuke which detonates at several Petatons of TNT:
+
+Yield : 9.56 petatons//3.9999e+25J.
+
+Energy radiated (E): σϵAT⁴ —> T = ∜(E/σϵA) = 122413152°C (using this calculator)~Around 8 times hotter than the Sun’s core.
+_______________________
+
+Specific sound-wave frequencies:
+
+•Viltrumites aren’t simply vulnerable to loud sounds. Their weakness is that of a specific frequency/pitch of sound which disrupts the equilibrium in their inner ear; this is far different to loudness/amplitude/acoustic pressure:
+
+•Robot later stops Cecil’s transmission (in Invincible’s earpiece) by finding and blocking the specific frequency:
+
+•Robot states that this frequency is inaudible:
+
+•The frequency is high:
+
+•Another frequency can even simply paralyse them, rather than physically hurt them:
+
+•The flaxans, who seemingly utilised the inner-ear weakness, depowered Omni-Man entirely:
+
+•Kirkman confirms the Viltrumite equilibrium weakness isn’t any more heightened to them than it is any usual bipedal species:
+
+_______________________
+
+Scourge virus:
+
+•The scourge virus is unique to Viltrumite DNA; it killed nearly the entire population of Viltrum - the ones who survived it were left with permanent scarring (and before that, with severely depleted physical stats for a short while), i.e. Conquest.
+
+•Dinosaurus cloned Invincible during the time he was weakened with the virus, and managed to bisect this clone casually - Invincible, during the time he was infected, was massively weakened in both physical strength and durability:
+
+_______________________
+
+Klaxus Plant:
+
+_______________________
+
+Other weaknesses:
+•The infinity ray.
+•Rognarr/Ragnar.
+•Space sharks.
+•Geldarian technology.
+•Other unnamed, previously extinct animals on different planets.
+•Allen the Alien/Battle Beast/other Viltrumites.
+_______________________

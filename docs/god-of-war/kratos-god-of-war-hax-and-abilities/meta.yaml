@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kratos-god-of-war-hax-and-abilities
+category: doc
+title: Kratos (God of War) hax and abilities
+alt_titles:
+- Kratos hax and abilities
+authors: []
+series:
+- god-of-war
+characters:
+- kratos
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1EBzWE1qM10WucTUvya1lsKLr6HV55OfkuYbORzltP5U/mobilebasic
+    google_id: 1EBzWE1qM10WucTUvya1lsKLr6HV55OfkuYbORzltP5U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 58
+    words: 3954
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 71104222
+      sha256: 764f01b22e738b9034d43b78d99f56be0da7563da0cc402a9a2cb809bea1142d
+    - format: docx
+      name: document.docx
+      bytes: 61373590
+      sha256: e8301b661b2aedaa7817349232b7321b462de2a7d98dcd1e66d8388a05084a74
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kratos hax and abilities
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

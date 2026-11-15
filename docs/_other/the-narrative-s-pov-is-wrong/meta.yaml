@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-narrative-s-pov-is-wrong
+category: doc
+title: The Narrative's POV is WRONG
+alt_titles:
+- Intelligence≠Narrative
+- Narrative POV is wrong
+authors: []
+series: []
+characters: []
+tags:
+- scd-theory
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11Nm2Og4qAyIcddHZq-N6cZn41ZL49bgPsQwzMFdegzM
+    google_id: 11Nm2Og4qAyIcddHZq-N6cZn41ZL49bgPsQwzMFdegzM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 58
+    words: 12156
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 727036
+      sha256: 1c26bb28a87d05c70f31865ad4f683ee9ef41e7195efd670442bba8d82f2942d
+    - format: docx
+      name: document.docx
+      bytes: 1735825
+      sha256: 0afb23a181ce61beb6bb3d4b0cedec5f27fe0178c93cbea63c0586191ecd0469
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Intelligence≠Narrative
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Narrative POV is wrong
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

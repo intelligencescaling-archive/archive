@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-protagonist-tenet-scd-doc
+category: doc
+title: The Protagonist (Tenet) SCD Doc
+alt_titles:
+- The Protagonist Tenet SCD Doc
+authors:
+- name: ForAllPosterity
+  source: doc-text
+series:
+- tenet
+characters:
+- the-protagonist
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1uuIf41aczG69PHssCZ0lNoxvGFc0I-cqrkbcRxryx7w
+    google_id: 1uuIf41aczG69PHssCZ0lNoxvGFc0I-cqrkbcRxryx7w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 105
+    words: 16725
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 29705691
+      sha256: e3cac331d7cf223f5545d5caab7b3b7ca66699bc0dcfeba0ea8bd76c3dc24d22
+    - format: docx
+      name: document.docx
+      bytes: 25993792
+      sha256: fc6db79af28a971b060f032c7e5c95a78bf2544cd232e1bf6394b211249f2118
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: The Protagonist Tenet SCD Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

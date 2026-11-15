@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: zhuo-fan-novels-feats
+category: doc
+title: ZHUO FAN (Novels) FEATS
+alt_titles:
+- Zhuo Fan SCD document
+authors:
+- name: HORNY SENPAI a.k.a Reverie
+  source: doc-text
+series:
+- magic-emperor
+characters:
+- zhuo-fan
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1D6lqPYgTL7QtzR5wnAljAX2HSMKuG0Fg-uR8J5shpuQ/edit?usp=drivesdk
+    google_id: 1D6lqPYgTL7QtzR5wnAljAX2HSMKuG0Fg-uR8J5shpuQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 8473
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 981734
+      sha256: 955b1ad0f6b29f0cef701f27e14d8c3eddcea9b99f5ace16f2ad40f604bebbff
+    - format: docx
+      name: document.docx
+      bytes: 1063229
+      sha256: 80d3add96b447c7b42f0778224053297925de7f97042397078d9d57219f38de7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Zhuo Fan SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

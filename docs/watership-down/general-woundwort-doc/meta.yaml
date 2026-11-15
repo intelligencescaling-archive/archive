@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: general-woundwort-doc
+category: doc
+title: GENERAL WOUNDWORT DOC
+authors: []
+series:
+- watership-down
+characters:
+- general-woundwort
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1YowY--AiSXYmRHY8AfWgav0ErkTDWvGuITHn334Zj_c
+    google_id: 1YowY--AiSXYmRHY8AfWgav0ErkTDWvGuITHn334Zj_c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1024
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4516120
+      sha256: fe5904586435c1f36b55c7e1b073754d7bfac3eb74b07a7e3dc9f37be7662b2c
+    - format: docx
+      name: document.docx
+      bytes: 3930897
+      sha256: 06c56949ae783d5b44cd798dcf5244ada9ea36c2f12021986f99f743253e702a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: General Woundwort Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

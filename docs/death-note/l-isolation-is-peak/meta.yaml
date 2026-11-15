@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-isolation-is-peak
+category: doc
+title: L Isolation is Peak
+authors: []
+series:
+- death-note
+characters:
+- light-yagami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1yDvKx_YNz0cPp3GzskXOw7SFkfP2mcszq8hzDnplCP4/edit?usp=drivesdk
+    google_id: 1yDvKx_YNz0cPp3GzskXOw7SFkfP2mcszq8hzDnplCP4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 2203
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9171643
+      sha256: 6ad97af78226faab4d406987eab70c2ee621031249936f5772df349c6f989cb6
+    - format: docx
+      name: document.docx
+      bytes: 8622406
+      sha256: 6d95454c89136d490286fac500d4fd8d84b2b840b09a8ac8e1292a91edbf36e7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L Isolation Is Peak
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: L Isolation is Peak
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

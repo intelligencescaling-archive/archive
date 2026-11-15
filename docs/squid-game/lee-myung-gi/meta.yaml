@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lee-myung-gi
+category: doc
+title: Lee Myung Gi
+alt_titles:
+- Lee Myung Gi Doc
+authors:
+- name: umontrose
+  source: doc-text
+series:
+- squid-game
+characters:
+- player-333
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cy1ISFIZf86a--Gud47RXRd6I7K5_D1lknGzKToddT4
+    google_id: 1cy1ISFIZf86a--Gud47RXRd6I7K5_D1lknGzKToddT4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2577
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2545258
+      sha256: 92bbae30981e45ccf38757ba1b1680b5ed9f7ed8f55254513a7787ff1e449dab
+    - format: docx
+      name: document.docx
+      bytes: 4804150
+      sha256: d28068202b0103d874ee7c26cb71b5515cd8b75ad139f30b477a117cd6ed01ee
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lee Myung Gi Doc
+  note: (Squid Game)
+- library: remastered
+  section: Squid Game
+  character: Player 333 (Lee Myung-gi)
+  link_text: Lee Myung Gi
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

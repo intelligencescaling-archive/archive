@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 12d-feat
+category: doc
+title: 12D Feat
+alt_titles:
+- Sparkle's Twelvefold Deception
+authors:
+- name: Lena_Fox8
+  source: doc-text
+series:
+- honkai-star-rail
+characters:
+- sparkle
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aYW7WitWFUhKl1rH5QSN6YtUMydQPueilKEqKJTD0KM
+    google_id: 1aYW7WitWFUhKl1rH5QSN6YtUMydQPueilKEqKJTD0KM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 48
+    words: 14534
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2959172
+      sha256: 598c0880219a2be973361d694b3c88f08a8ec4d0544ea127dc027e37a2db6b63
+    - format: docx
+      name: document.docx
+      bytes: 2347953
+      sha256: 28c624557f0bb9f11a1978965fb6976b000a35165709cf48888d04406e5464a3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sparkle's Twelvefold Deception
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

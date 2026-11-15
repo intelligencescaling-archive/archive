@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jin-sakai-analyzes
+category: doc
+title: Jin Sakai analyzes
+alt_titles:
+- Jin Sakai Writing Analysis
+authors:
+- name: Parladax
+  source: doc-text
+series:
+- ghost-of-tsushima
+characters:
+- jin-sakai
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1OF9bIxB6k8UUFWnRbj6C7WNfc1HUKel-Te1v_zaSUkw/edit?usp=drivesdk
+    google_id: 1OF9bIxB6k8UUFWnRbj6C7WNfc1HUKel-Te1v_zaSUkw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 4531
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 206828
+      sha256: 200366d1c91f7371ca44a45e4eff7b73bb230e156e05c1c72ed9bf7971b0edaa
+    - format: docx
+      name: document.docx
+      bytes: 420639
+      sha256: d0b8cbb7eb1f38c37d195561de56f273cd6ff62b0cb97d44e9ba0e401b9e62d2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jin Sakai Writing Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

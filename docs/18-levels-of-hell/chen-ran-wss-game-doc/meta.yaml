@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chen-ran-wss-game-doc
+category: doc
+title: Chen Ran WSS Game Doc
+alt_titles:
+- Chen Ran's Wolf Sheep Shepherd Game doc
+authors:
+- name: Jarionn
+  reddit: Jarionn
+  source: doc-text
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JywZc7PkCB-0Xh7E7_-O9vOQDDgAbPRCudftxkwsGkw
+    google_id: 1JywZc7PkCB-0Xh7E7_-O9vOQDDgAbPRCudftxkwsGkw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 103
+    words: 22377
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2479665
+      sha256: 537a346aa414cbe5f83e321cece44a7c6be5d70df5b9ad533d831626b52bea7b
+    - format: docx
+      name: document.docx
+      bytes: 2265233
+      sha256: ccaff28c9afa8ff0024799bcde22d389dad989feac4a587552b352c64a7e47c9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran's Wolf Sheep Shepherd Game doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

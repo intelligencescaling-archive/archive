@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: guo-jia-scd-feats-summary-doc-by-destruction-jackthezodiac
+category: doc
+title: Guo Jia SCD feats summary doc (By Destruction + Jackthezodiac)
+alt_titles:
+- Guo Jia Feats Summary document
+authors: []
+series:
+- ravages-of-time
+characters:
+- guo-jia
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1TI4AlXD6bGrxbHDRtRzA7wrQDyUBHK1Q6DJlStwer70/edit?usp=drivesdk
+    google_id: 1TI4AlXD6bGrxbHDRtRzA7wrQDyUBHK1Q6DJlStwer70
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 255
+    words: 17497
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 178817652
+      sha256: ccda1a08e5149dd4f89f27cdca91c816cf45c8015374bceeaa528869520037b2
+    - format: docx
+      name: document.docx
+      bytes: 158511919
+      sha256: c602f9ee29d38837969d4811f4ba67aed2d4d61c51099f9fe27a0749eaa120d2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Guo Jia Feats Summary document
+- library: remastered
+  section: Ravages of Time
+  character: Guo Jia
+  link_text: Guo Jia SCD feats summary doc (By Destruction + Jackthezodiac)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

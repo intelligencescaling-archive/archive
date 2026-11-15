@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: battler-s-solution-of-bernkastel-s-game-doc
+category: doc
+title: Battler's Solution of Bernkastel's Game doc
+alt_titles:
+- Battler's Solution of Bernkastel's Game
+authors: []
+series:
+- umineko
+characters:
+- battler-ushiromiya
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vSdWlknreRZ333s8xFc3JPliJZ0Yg3gKptEy4ZkLGb86DYzOnefKTqBTw1w-RtKhGAZWdXpEqgi0LLq/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vSdWlknreRZ333s8xFc3JPliJZ0Yg3gKptEy4ZkLGb86DYzOnefKTqBTw1w-RtKhGAZWdXpEqgi0LLq/pub
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 3767
+    files:
+    - format: html
+      name: published.html
+      bytes: 223102
+      sha256: 915e6398086d2736bb0c2a0adf3aaaf273f828b534ffad2bed904bfea22208c6
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Battler's Solution of Bernkastel's Game doc
+- library: remastered
+  section: Umineko
+  character: Battler Ushiromiya
+  link_text: Battler's Solution of Bernkastel's Game
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

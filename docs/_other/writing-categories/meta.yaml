@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: writing-categories
+category: doc
+title: Writing categories
+alt_titles:
+- Character writing categories 2
+authors: []
+series: []
+characters: []
+tags:
+- writing-categories
+- writing-analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-L-JF4reWNNU2srCfCkODQb80AyMFXopqwVudfA6cMg/edit?tab=t.0
+    google_id: 1-L-JF4reWNNU2srCfCkODQb80AyMFXopqwVudfA6cMg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1740
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 83270
+      sha256: aa34ce5abf9746b3fff5948eeecf7be0ab42a527ab27c266c72e1882c6be7798
+    - format: docx
+      name: document.docx
+      bytes: 11129
+      sha256: 65bfff130f17a4960200aac010fafdcdab2c8183248b4246acf6ca3407cfd9ac
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Character writing categories 2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

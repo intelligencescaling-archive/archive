@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: feats-of-koji-doc
+category: doc
+title: feats of Koji Doc
+alt_titles:
+- Ayanokoji doc 4
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1H_Cur-QQZO3KkltSHUJ4WyRihm33-aWyFpvSz8JJe4M/edit?usp=drivesdk
+    google_id: 1H_Cur-QQZO3KkltSHUJ4WyRihm33-aWyFpvSz8JJe4M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 37
+    words: 20343
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 640534
+      sha256: 835ad4107975b422b3036e2057350c76577119404437c15a5faed9033c4eb276
+    - format: docx
+      name: document.docx
+      bytes: 538585
+      sha256: 65d65f241b0b6fe46d764686bc654a351dff223616976349194f260dde5b2f6f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ayanokoji doc 4
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

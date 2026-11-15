@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moritary-feats
+category: doc
+title: Moritary Feats
+alt_titles:
+- Moriarty Feats Doc
+authors:
+- name: Indra
+  source: doc-text
+- name: Ray
+  source: doc-text
+- name: Dominoo
+  source: doc-text
+- name: Druxzy
+  source: doc-text
+- name: Awaken
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1HvLhUzbKd1DoTI7xMBaBAG7UBdFqyZlK9x4oVjJdX3A/edit?tab=t.0
+    google_id: 1HvLhUzbKd1DoTI7xMBaBAG7UBdFqyZlK9x4oVjJdX3A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 6456
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1790263
+      sha256: a9e37acd0d557ab913fb566eca19a191f08c29a6d6f4144fd7c1b8bda4ec0d0d
+    - format: docx
+      name: document.docx
+      bytes: 2031451
+      sha256: 928fddacee5eae3d62460221cf93d82eb44043a77d2b84a50a8e561e7649a7c3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Moriarty Feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

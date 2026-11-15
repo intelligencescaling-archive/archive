@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: damon-gant-doc
+category: doc
+title: DAMON GANT DOC
+authors: []
+series:
+- ace-attorney
+characters:
+- damon-gant
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1bT065d6eQ3_Q30LBjIFwZ4CgaXas4VecYEoQS3rj-Kc/edit?usp=drivesdk
+    google_id: 1bT065d6eQ3_Q30LBjIFwZ4CgaXas4VecYEoQS3rj-Kc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 2156
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2241264
+      sha256: a9e32ad95c976b1a9d2c9869186424b2ac0934532cdbfb6bf07f6de08090353d
+    - format: docx
+      name: document.docx
+      bytes: 2410574
+      sha256: 637922eea1a2427ace4745a72381d42ff3aee22145465bd0ad08f227fce8b1a4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Damon Gant Doc
+- library: remastered
+  section: Ace Attorney
+  character: Damon Gant
+  link_text: DAMON GANT DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

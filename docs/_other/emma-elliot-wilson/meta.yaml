@@ -1,0 +1,108 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: emma-elliot-wilson
+category: doc
+title: Emma Elliot Wilson(OC)(ENG version)
+alt_titles:
+- Emma Elliot Wilson(First Doc)
+- Emma Elliot Wilson(Second Doc)
+- Emma Elliot Wilson(Final Doc)
+- Emma doc part 2(ENG VERSION)
+- Emma Elliot wilson(Final doc)(ENG VER)
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series: []
+characters:
+- emma-elliot-wilson
+tags:
+- oc
+language: en
+completion: finished
+parts:
+- title: Emma Elliot Wilson(OC)(ENG version)
+  source:
+    type: google-doc
+    url: https://docs.google.com/document/d/103naEhnWb02CBizGD5ODBLVQ0uYGBwSnL7qhKNbTg8w/edit?usp=drivesdk
+    google_id: 103naEhnWb02CBizGD5ODBLVQ0uYGBwSnL7qhKNbTg8w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 15931
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 471526
+      sha256: 7fd565b31009da70b4d20fe8efc759105acfc97120bba629c7f6a70c71e51741
+    - format: docx
+      name: document.docx
+      bytes: 41506
+      sha256: bb1f06c6777a34c0d9bd3deb31a99a8cc167786305e966605f132a5928ce5336
+    text:
+      file: text-1.txt
+      method: google-export
+- title: Emma doc part 2(ENG VERSION)
+  source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1yFTYaTBmJvNUWDXtJabCjUr9_L9ZRaGCFA0zI82tdvA/edit?usp=drivesdk
+    google_id: 1yFTYaTBmJvNUWDXtJabCjUr9_L9ZRaGCFA0zI82tdvA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 17924
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 505945
+      sha256: 32ca7592897d909fb4d884f0b388932b540ba9993bda92c9afb66111b5d405e1
+    - format: docx
+      name: document.docx
+      bytes: 43132
+      sha256: a0f47963bb22d1886aebb136894a0175626c8dad5c35561c7f05039f3e7eec67
+    text:
+      file: text-2.txt
+      method: google-export
+- title: Emma Elliot wilson(Final doc)(ENG VER)
+  source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1CHZcWzJfGRk7XXX_w_z8zRcEYQPQjaFooJfz13dXOQQ/edit?usp=drivesdk
+    google_id: 1CHZcWzJfGRk7XXX_w_z8zRcEYQPQjaFooJfz13dXOQQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 16552
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 474986
+      sha256: 9bd5b5bf695de5b67bed9881946ab9b0d77fc044a17b33619138fbcbcac201eb
+    - format: docx
+      name: document.docx
+      bytes: 41386
+      sha256: ad947d7f4ec355c18caaeb1bb7f78b7b8d765616f6991badad53a2122e1d675d
+    text:
+      file: text-3.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Emma Elliot Wilson(First Doc)
+  note: (Finished)
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Emma Elliot Wilson(Second Doc)
+  note: (Finished)
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Emma Elliot Wilson(Final Doc)
+  note: (Finished)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

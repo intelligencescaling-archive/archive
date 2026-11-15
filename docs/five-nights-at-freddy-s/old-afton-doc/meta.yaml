@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: old-afton-doc
+category: doc
+title: Old Afton Doc
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EUzZrShvVJTqLl1JemLAqtqTtjg2pLqJsmc4VN9JHNk
+    google_id: 1EUzZrShvVJTqLl1JemLAqtqTtjg2pLqJsmc4VN9JHNk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3812
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 145499
+      sha256: a08da960ac81ae2ee06fed42544baf88646b4e72925c83633c0b32645db41699
+    - format: docx
+      name: document.docx
+      bytes: 16999
+      sha256: 0cd2ccd481a0ebb47eeb9f776a2ebcbbb102f75895515078a430d8c603d0b908
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Old Afton Doc
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Old Afton Doc
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: William Afton
+  link_text: Old Afton Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

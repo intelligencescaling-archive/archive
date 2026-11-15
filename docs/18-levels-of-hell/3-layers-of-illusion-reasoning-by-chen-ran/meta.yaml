@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 3-layers-of-illusion-reasoning-by-chen-ran
+category: doc
+title: 3 layers of illusion reasoning by Chen Ran
+alt_titles:
+- Chen Ran's 3 layers of illusion Reasoning Feat
+authors:
+- name: Ancient-End
+  source: doc-text
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1do_QT6EleDyx7eztb8ALmx-Bd02l2k4iCxsL2QW3lrA/edit?usp=drivesdk
+    google_id: 1do_QT6EleDyx7eztb8ALmx-Bd02l2k4iCxsL2QW3lrA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 4835
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 253338
+      sha256: 73d70fc464648bcc1665c3f9dac5d036c16c4a22eb70956fdc628bb04ae63f9b
+    - format: docx
+      name: document.docx
+      bytes: 21509
+      sha256: c794696f83bf3b473121bd4efd60548f1723a89bffcf8710eebb1d96b399424d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran's 3 layers of illusion Reasoning Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: emotional-intelligence
+category: doc
+title: Emotional Intelligence
+authors: []
+series: []
+characters: []
+tags:
+- guide
+- eq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1jJCoNwrft8zvqKbikzTFNLC8FZNdDixgx0OvO3G1_iA/edit?tab=t.0#heading=h.3wtgolos4ssh
+    google_id: 1jJCoNwrft8zvqKbikzTFNLC8FZNdDixgx0OvO3G1_iA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1205
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 109245
+      sha256: 352a5e57fe2fae1874ba9a0bedd0276d847a628de7abe3eb42cfcea338c105d8
+    - format: docx
+      name: document.docx
+      bytes: 557929
+      sha256: 32875207bdd758bd42b8b96b89f82844829d87dc9d7c1d2cdd63dbf995a2b137
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Emotional Intelligence
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

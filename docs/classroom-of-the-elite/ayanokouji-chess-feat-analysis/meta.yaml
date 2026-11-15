@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokouji-chess-feat-analysis
+category: doc
+title: Ayanokouji Chess Feat Analysis
+alt_titles:
+- Ayanokoji chess feat analysis
+authors:
+- name: TheHuntsman1001
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1MSTeWYP318xytHGpu8QujQtJTSKTscZrpKJag-zvOW4
+    google_id: 1MSTeWYP318xytHGpu8QujQtJTSKTscZrpKJag-zvOW4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 8172
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1247305
+      sha256: c28a39e0f60444c440cbafaf84de0f7345a99f4cfb7dc3b93c4a7f2929fb0779
+    - format: docx
+      name: document.docx
+      bytes: 1670835
+      sha256: 547264e5db99d629b20afe4ab52fb0d30232284eba6bd1f1c8df5dea4551ca28
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ayanokoji chess feat analysis
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokouji Chess Feat Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

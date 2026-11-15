@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-junko-doc
+category: doc
+title: Another Junko Doc
+alt_titles:
+- The Ascendent Superhuman
+authors: []
+series:
+- danganronpa
+characters:
+- junko-enoshima
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1yahOsyaswFNNDbT_cVSBLdpTBYBX4V1jKi7KN_f3Gds/edit?usp=drivesdk
+    google_id: 1yahOsyaswFNNDbT_cVSBLdpTBYBX4V1jKi7KN_f3Gds
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Another Junko Doc
+- library: remastered
+  section: Danganronpa
+  character: Junko Enoshima
+  link_text: The Ascendent Superhuman
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

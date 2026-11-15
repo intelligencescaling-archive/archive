@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lunge-s-brilliance
+category: doc
+title: Lunge's Brilliance.
+alt_titles:
+- Lunge
+- Lunge’s Brilliance.
+authors:
+- name: kingjemz
+  source: doc-text
+series:
+- monster
+characters:
+- heinrich-lunge
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-IURKTA0VabVvD2QNlWdmPpoa9RniP-H88nyQ6IE2wk
+    google_id: 1-IURKTA0VabVvD2QNlWdmPpoa9RniP-H88nyQ6IE2wk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2056
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 126344
+      sha256: 861bbf0e6e9c5197e1180689a41276f65476c316d9713168e0acd95f89d35200
+    - format: docx
+      name: document.docx
+      bytes: 12808
+      sha256: 1116c2b96f9607b78b893aa058aeef456dbc4a3b3014fa545949ec2598cb3621
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lunge
+- library: remastered
+  section: Monster
+  character: Heinrich Lunge
+  link_text: Lunge’s Brilliance.
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

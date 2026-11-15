@@ -1,0 +1,72 @@
+SED Ayanokoji: Chess feat
+made by : scd_scal489
+
+Well, this document serves to explain the feats of this version of Ayanokoji, shown in Chapter 12, which are related to calculation skills and chess.
+
+Clarification
+
+A character will be as intelligent as the writer wants.
+
+quote
+
+“In my early years, I relied solely on my cognitive abilities to calculate the
+best possible moves while discarding unnecessary ones. This allows me to
+perform calculations at a rapid pace, easily reaching up to hundreds to
+thousands moves per second at lowest.
+However, due to my perfect memory, such calculations are no longer
+necessary. I have memorized every single move...
+Well, that's not entirely accurate.
+It wouldn't be fair to say that I have memorized every possible move in
+chess, considering that games can theoretically go on indefinitely.
+That's why I've sacrificed a small portion of my consciousness to create a
+perpetual mental chess game within my mind.
+In this perpetual state, I continuously memorize all available moves up to
+the current turn, then proceed to memorize all possible moves in the next
+turn, repeating this process indefinitely.
+During the actual match, it feels as if I'm not playing chess in the present
+moment, but rather recalling moves I have already played out mentally.
+My chess prowess is no longer about skill or calculation, but rather the
+flawless execution of these pre-memorized and simulated moves.”
+
+Feats
+
+1.
+"This allows me to perform calculations at a rapid pace, easily reaching up to hundreds to thousands moves per second at lowest."
+We compare this to real-world chess engines, such as Stockfish. a chess engine's power isn't measured in "moves per second," but in "nodes per second" (NPS), or positions evaluated per second.
+
+Low-low ball:
+
+100 moves/second
+6000 moves/minute
+360000 moves/hour
+
+SED ayanokoji could calculate up to three hundred and sixty thousand players per hour
+
+High-low Ball
+
+1000 moves/second
+60000 moves/minute
+3600000 moves/hour
+
+SED ayanokoji could calculate up to three million six hundred thousand moves per hour
+
+note:Please note that it is said that Ayanokoji could calculate a greater number of movements per second if he wanted to.
+
+2.
+
+"That's why I've sacrificed a small portion of my consciousness to create a perpetual mental chess game within my mind. In this perpetual state, I continuously memorize all available moves up to the current turn, then proceed to memorize all possible moves in the next turn, repeating this process indefinitely."
+
+Ayanokoji has created a dynamic and continuous process in his mind. He has dedicated a portion of his brain to function like a chess engine that never shuts off, constantly exploring the future of the game from the current state.
+When he plays a real game, he doesn't need to calculate anything at that moment. His "background process" has already explored all the future ramifications. Ayanokoji simply "remembers" the optimal move he has already processed.
+
+Chess has an average "branching factor" (I don't know if this is spelled correctly, the translator wrote it that way). This is the number of legal moves available in a typical position. It's estimated at around 30-35 moves. Let's use 30 as the low ball.
+
+Turn 1: 30 possible moves.
+Turn 2 : For each of those 30, it explores another 30. Total: 30 * 30 = 900 positions.
+Turn 3: 900 * 30 = 27,000 positions.
+Turn 4: 27,000 * 30 = 810,000 positions.
+Turn 5: 810,000 * 30 = 24.3 million positions.
+
+It does not store all games, but generates and stores all relevant future games from the present moment.
+
+Take into account that he said that only a small part of his consciousness is needed to make this feat possible, meaning that while he is doing his super complex plans and strategies and all his feats (like accelerating his thinking speed to the point where it seems like everything has stopped) he is doing this non-stop.

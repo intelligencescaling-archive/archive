@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: detailed-analysis-of-joe-goldberg-s-cage-feat
+category: doc
+title: Detailed Analysis of Joe Goldberg's Cage Feat
+authors:
+- name: Cheatspeed
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1gpUhegd-hwMgx5v3EVM5SjjFOCUUdVFKJtoPkoQRVFM/edit?usp=drivesdk
+    google_id: 1gpUhegd-hwMgx5v3EVM5SjjFOCUUdVFKJtoPkoQRVFM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1493
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 416247
+      sha256: 085d441d937e2bebfac57a7e7f8e50201993af5042e4e6975acd55258ffdf77e
+    - format: docx
+      name: document.docx
+      bytes: 796159
+      sha256: 0ac17e79e822d9be91c80ddf57d4486eb641da15b75724db233dabcbaff2f4dc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Detailed analysis of Joe Goldberg's Cage feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

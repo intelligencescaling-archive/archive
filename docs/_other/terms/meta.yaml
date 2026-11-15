@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: terms
+category: doc
+title: Terms
+alt_titles:
+- SCD Categories Doc 11
+authors:
+- name: raiontoku
+  source: doc-text
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NUivdP8ALWUMoFVUqgC9_Exl5fqllvxwBJaOm-oMtks
+    google_id: 1NUivdP8ALWUMoFVUqgC9_Exl5fqllvxwBJaOm-oMtks
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2243
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 180988
+      sha256: 738a666da5788fd7073defcc56ea38ff6f634fd69803b0df5beb9c3bfab7669d
+    - format: docx
+      name: document.docx
+      bytes: 18451
+      sha256: 182be1bbb5e2c383e1dab99d0a96af224dcafccfe7d47b8050ba32591f93271b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 11
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

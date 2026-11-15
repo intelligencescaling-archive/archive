@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-feats-doc-made-by-overlordthresh
+category: doc
+title: Walter White feats doc made by OverLordThresh
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1_dCaRjWtWcfQi2h23BoLxlilSMOzfxO2/edit?usp=sharing&ouid=108189948501814057137&rtpof=true&sd=true
+    google_id: 1_dCaRjWtWcfQi2h23BoLxlilSMOzfxO2
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Walter White Doc (Feats) - OverLordThresh.docx
+      bytes: 546648
+      sha256: 4f0e83f5929e5987f11273f8d4bd34fa6ae97730db79c0e5259d3806ab8d01d2
+found_in:
+- library: old
+  section: 'BCS + BB:'
+  link_text: Walter White feats doc made by OverLordThresh
+  note: (old document)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

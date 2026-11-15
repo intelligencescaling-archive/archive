@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kokichi-s-etkg-plan-full-preparation-execution
+category: doc
+title: Kokichi's ETKG Plan (Full Preparation + Execution)
+alt_titles:
+- Kokichi's ending the killing game plan
+authors: []
+series:
+- danganronpa
+characters:
+- kokichi-oma
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Etu_2GpkKXxjc839EpCMhugHArs6algUJdWXmj4PUOU
+    google_id: 1Etu_2GpkKXxjc839EpCMhugHArs6algUJdWXmj4PUOU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 12358
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7194162
+      sha256: a6eb4789dde19d9a295213b330a12d50a4fef7a392412bb9c7b636e1adbf17d1
+    - format: docx
+      name: document.docx
+      bytes: 5746116
+      sha256: 821af1256a220609ceaaa7c63aabfb93c241fc4927a4641692c0767cbdba6bd2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Kokichi's ending the killing game plan
+- library: remastered
+  section: Danganronpa
+  character: Kokichi Oma
+  link_text: Kokichi's ETKG Plan (Full Preparation + Execution)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

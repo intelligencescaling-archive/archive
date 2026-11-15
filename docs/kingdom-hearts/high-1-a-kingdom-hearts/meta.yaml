@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: high-1-a-kingdom-hearts
+category: doc
+title: High 1-A Kingdom Hearts
+alt_titles:
+- High 1-A Kingdom Hear
+authors: []
+series:
+- kingdom-hearts
+characters: []
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1dJvX6R1Mduut421VeHkMzEsabzP3AkkAHOI-flQsslk/edit?tab=t.0#heading=h.493lj1vl0zlp
+    google_id: 1dJvX6R1Mduut421VeHkMzEsabzP3AkkAHOI-flQsslk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3169
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 226936
+      sha256: 1679193abd9eb3f30170248efb0100eb9b213ee4ea2ed4e6ba0b8850d537bf49
+    - format: docx
+      name: document.docx
+      bytes: 329592
+      sha256: 2a5b5f4d68270157c90f9131e913e759f6d66b3c7f4884087367cd236e7f7a30
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: High 1-A Kingdom Hear
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

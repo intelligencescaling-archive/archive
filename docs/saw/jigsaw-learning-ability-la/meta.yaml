@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jigsaw-learning-ability-la
+category: doc
+title: Jigsaw Learning Ability (LA)
+alt_titles:
+- Jigsaw Learning Ability
+authors:
+- name: BITTUS
+  source: doc-text
+series:
+- saw
+characters:
+- john-kramer
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10pSXFWalXRlc6swZbzj4CiuPR5pjaEOx_AfWTOebiow
+    google_id: 10pSXFWalXRlc6swZbzj4CiuPR5pjaEOx_AfWTOebiow
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2698
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 812217
+      sha256: f5f0f757f729f4e1c2afc40f188c7319b6c148448ce86137a881bfaa0415b5ba
+    - format: docx
+      name: document.docx
+      bytes: 2757487
+      sha256: b1e1ec6303ff31b91b2c3e8d80beb223de966cda1f0a70e2518b5ced7ae8f52e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jigsaw Learning Ability
+- library: remastered
+  section: Saw
+  character: John Kramer
+  link_text: Jigsaw Learning Ability (LA)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

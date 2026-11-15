@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokojis-chapter-3-strategy-for-those-who-dont-know
+category: doc
+title: 'KANADE OTONOKOJI’S CHAPTER 3 STRATEGY FOR THOSE WHO DONT KNOW:'
+alt_titles:
+- kanade chapter 3 strategy analysis
+- 'KANADE OTONOKOJI’S CHAPTER 3 STRATEGY FOR THOSE WHO DON’T KNOW:'
+authors: []
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1I_BzeGRu1nhUajwTAuzBe5fnY24bLN5IiPmMhNDDQP0
+    google_id: 1I_BzeGRu1nhUajwTAuzBe5fnY24bLN5IiPmMhNDDQP0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3923
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 137108
+      sha256: e00d2c2f0f507ec8b15041682c2b85a4554ce16bfedbfc962023696888f70758
+    - format: docx
+      name: document.docx
+      bytes: 570965
+      sha256: b67b5ec809ecbcfbfc306506aa7a5c139d90d0c2a5e52f5431cef104c06c3085
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: kanade chapter 3 strategy analysis
+- library: remastered
+  section: Danganronpa
+  character: Kanade Otonokoji
+  link_text: 'KANADE OTONOKOJI’S CHAPTER 3 STRATEGY FOR THOSE WHO DON’T KNOW:'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

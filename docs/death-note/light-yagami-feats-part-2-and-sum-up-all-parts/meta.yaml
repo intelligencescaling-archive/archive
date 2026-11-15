@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-feats-part-2-and-sum-up-all-parts
+category: doc
+title: Light Yagami feats (Part 2 and sum up all Parts)
+alt_titles:
+- light Yagami 1
+authors: []
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ykkNSKF32erGaZ3OWcLx3nuCmyFEAepqpiZLA5O3Apc
+    google_id: 1ykkNSKF32erGaZ3OWcLx3nuCmyFEAepqpiZLA5O3Apc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 11342
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 427742
+      sha256: a5c55fdce1380a3244fd37f17f3a3709f847540a4bc62b629afb6886e42a164e
+    - format: docx
+      name: document.docx
+      bytes: 36325
+      sha256: 7aa6ddc5793dd18bfc4ce2c5630126659886092c82e71653caf748383dbd49b3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: light Yagami 1
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Light Yagami feats (Part 2 and sum up all Parts)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

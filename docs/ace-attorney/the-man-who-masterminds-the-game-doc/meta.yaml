@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-man-who-masterminds-the-game-doc
+category: doc
+title: The Man Who Masterminds The Game doc
+alt_titles:
+- AAI2 Mastermind SCD doc
+- AAI2 Mastermind
+authors: []
+series:
+- ace-attorney
+characters:
+- aai2-mastermind
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12IkjrySrwt04QiSh2Q4PamAoJ57heLMrxEWcsZCRFrY/edit?usp=drivesdk
+    google_id: 12IkjrySrwt04QiSh2Q4PamAoJ57heLMrxEWcsZCRFrY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 8184
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3355102
+      sha256: a3dba314242b62f57a1896c8e2eb31821880e2d5369a674769c017f4be43640b
+    - format: docx
+      name: document.docx
+      bytes: 2948890
+      sha256: f424e852c9e7adcb75d92ebbe9ab575a1b6e121f79c46cd1ff2555d782e461fa
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: AAI2 Mastermind SCD doc
+- library: remastered
+  section: Ace Attorney
+  character: AAI2 Mastermind
+  link_text: AAI2 Mastermind
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

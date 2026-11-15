@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-golf-feat-analysis
+category: doc
+title: Patrick Jane's Golf Feat Analysis
+alt_titles:
+- PJ's Golf Feat Analysis
+authors:
+- name: G.I.H.F
+  source: doc-text
+- name: rorokelly
+  source: doc-text
+- name: XDwasGone
+  source: doc-text
+- name: Reda
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1gyXguL7DNY_P68F7GvW6b3R_HB9nl1LNQwyf1tfbbOU
+    google_id: 1gyXguL7DNY_P68F7GvW6b3R_HB9nl1LNQwyf1tfbbOU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1058
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 595565
+      sha256: dbe9db40b56b6c89bfe457ec373ba7d284c1a19570a79bb2f9a4c5b1ab69fdc7
+    - format: docx
+      name: document.docx
+      bytes: 498214
+      sha256: 1e691970bb4941e620999e42c5d990a9f10c0253e248afe10d9c083c46b4c69b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ's Golf Feat Analysis
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane's Golf Feat Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

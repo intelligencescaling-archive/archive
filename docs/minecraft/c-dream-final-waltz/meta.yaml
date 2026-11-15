@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: c-dream-final-waltz
+category: doc
+title: C!Dream Final Waltz
+alt_titles:
+- C!Dream Final Waltz Scheme
+authors: []
+series:
+- minecraft
+characters:
+- dream
+tags:
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_cPNX1PE8XzCmN2I8H4aVLFcVVnA5db0YFEZEUq2Npc
+    google_id: 1_cPNX1PE8XzCmN2I8H4aVLFcVVnA5db0YFEZEUq2Npc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 48
+    words: 14454
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 36703118
+      sha256: 2927a26b7cdb96573a4700e32bd3ad1572c8e572a1d895fc8983913eaa5e3054
+    - format: docx
+      name: document.docx
+      bytes: 32831377
+      sha256: 0c4e0d50c853c7ea0c944602460df2d410dedaf35add93140cf6dd3e9f718254
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: MINECRAFT
+  link_text: C!Dream Final Waltz Scheme
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

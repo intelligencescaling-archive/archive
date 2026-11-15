@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: clef-doc
+category: doc
+title: Clef-Doc
+alt_titles:
+- Dr Alto Clef Doc
+authors: []
+series:
+- scp-foundation
+characters:
+- alto-clef
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1qytyEQF4-SzN_ljkO8LMmk-yxUEQuFLvYOt6-ib0GHI
+    google_id: 1qytyEQF4-SzN_ljkO8LMmk-yxUEQuFLvYOt6-ib0GHI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 47
+    words: 11842
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1421870
+      sha256: c786e138cbc2057465f357ae3e7076497ed8478e688e97b4a0ce4f59fbc55203
+    - format: docx
+      name: document.docx
+      bytes: 851386
+      sha256: 09c089e876be560ebf9571d8c97478bdcbd6d2661d7d7960bc2125b4ec38ae3a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: Dr Alto Clef Doc
+- library: remastered
+  section: SCP Foundation
+  character: Alto Clef
+  link_text: Clef-Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

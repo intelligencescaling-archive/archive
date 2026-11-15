@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monaca-towa-doc
+category: doc
+title: MONACA TOWA DOC
+alt_titles:
+- Monaca Towa SCD doc
+- Monaca Towa
+authors: []
+series:
+- danganronpa
+characters:
+- monaca-towa
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ahi8jrV2bLrsI1uyjxNehonL-W6qn4MfGxjNatEc4xs/edit?usp=drivesdk
+    google_id: 1ahi8jrV2bLrsI1uyjxNehonL-W6qn4MfGxjNatEc4xs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 37
+    words: 3262
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 78587253
+      sha256: b7b0a0cac9ec97d6ce8e242e802f8c7028d3a5495dd9fe2b3a7a028bf800f2da
+    - format: docx
+      name: document.docx
+      bytes: 65105826
+      sha256: 2c9a45434ce30acb00c4123917938254597097c896f736437ee47a3a9c356493
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Monaca Towa SCD doc
+- library: remastered
+  section: Danganronpa
+  character: Monaca Towa
+  link_text: Monaca Towa
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

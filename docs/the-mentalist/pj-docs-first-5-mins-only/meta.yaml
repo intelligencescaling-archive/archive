@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pj-docs-first-5-mins-only
+category: doc
+title: PJ docs (First 5 mins only)
+alt_titles:
+- PJ 11
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1qNTuJTwFFh1576aVHslR1t32ioSxtDjexOL8P5Pa4PQ/edit?usp=drivesdk
+    google_id: 1qNTuJTwFFh1576aVHslR1t32ioSxtDjexOL8P5Pa4PQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 688
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 61276
+      sha256: 7fc6b5ad469a5f6207b39c0f6dc52d2b23a36f23de2257ed0986287df48ed736
+    - format: docx
+      name: document.docx
+      bytes: 9295
+      sha256: 7cfd98e068111636902598ea1c78f5182eef76504d5d1ad1c592dd71cd674c5e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 11
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: PJ docs (First 5 mins only)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

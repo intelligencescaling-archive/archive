@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-17-poker-fsiq-feat-low-end
+category: doc
+title: Akiyama's 17 Poker FSIQ Feat (Low End)
+alt_titles:
+- Akiyama's 17 poker CPI Feat (Low End)
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- feats
+- fsiq
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18IO9ZRqAbiHXOHGjDjuKfyhtPmNyKthpEuy0P_umQPc/edit?usp=sharing
+    google_id: 18IO9ZRqAbiHXOHGjDjuKfyhtPmNyKthpEuy0P_umQPc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2467
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3198853
+      sha256: bef5705cfcab8c5b75d98e7c2b5aa3460e819131dbf95e68b7a48be49a200b80
+    - format: docx
+      name: document.docx
+      bytes: 2973237
+      sha256: 1ad104a49de83ef8a4725e177bd64ec2852e949361364a72ad989d04ef2429e9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama's 17 poker CPI Feat (Low End)
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama's 17 Poker FSIQ Feat (Low End)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

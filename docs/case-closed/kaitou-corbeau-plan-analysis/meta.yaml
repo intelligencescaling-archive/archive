@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kaitou-corbeau-plan-analysis
+category: doc
+title: Kaitou Corbeau Plan analysis
+alt_titles:
+- Kaito Kid Corbeau plan analysis
+authors:
+- name: Nox
+  source: doc-text
+series:
+- case-closed
+characters:
+- kaito-corbeau
+tags:
+- analysis
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1kEsGyAyhgFZZ6zmNnsOx9y_MqHfKrRu1jHd5db1cIB0
+    google_id: 1kEsGyAyhgFZZ6zmNnsOx9y_MqHfKrRu1jHd5db1cIB0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 697
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 424285
+      sha256: 894c8b586bc00a0336dabef4cf366441530c48b94ef42aac5c25a9aac55cdada
+    - format: docx
+      name: document.docx
+      bytes: 348144
+      sha256: c6320b72196d27e24ca8e33a56c13bb7a3aee7dcc7dccdb7f3a577580715cee6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kaito Kid Corbeau plan analysis
+- library: remastered
+  section: Case Closed
+  character: Kaito Corbeau
+  link_text: Kaitou Corbeau Plan analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

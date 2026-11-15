@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: megumin-5-years-old-emotional-management
+category: doc
+title: Megumin 5 years old Emotional Management
+alt_titles:
+- Megumin 5 years old emotional management doc
+authors: []
+series:
+- konosuba
+characters:
+- megumin
+tags:
+- eq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15cD94pPhrJdVwsyj8KJxNpgJNutQig72yM5H_VRr66Q/edit?usp=drivesdk
+    google_id: 15cD94pPhrJdVwsyj8KJxNpgJNutQig72yM5H_VRr66Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 572
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 325049
+      sha256: fa599073b9c6188c945f9f4748e979b9885a5bf698e04922a4efde529635e37d
+    - format: docx
+      name: document.docx
+      bytes: 974697
+      sha256: 1c4aa6a33ece6f9064fd26562caa9742934a525acf314f2b710374e1f6b0bb6e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Megumin 5 years old emotional management doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

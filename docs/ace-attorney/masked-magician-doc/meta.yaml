@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: masked-magician-doc
+category: doc
+title: MASKED MAGICIAN DOC
+alt_titles:
+- Masked Magician
+authors: []
+series:
+- ace-attorney
+characters:
+- masked-magician
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1O-9ODNx-KxFQB0OH8XfR512515fla442AKH_8oATjD8
+    google_id: 1O-9ODNx-KxFQB0OH8XfR512515fla442AKH_8oATjD8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 2579
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14110611
+      sha256: 9e26c48a808458754957a146801ccc0e3435bba7d094aecbf63f8fd96be3c968
+    - format: docx
+      name: document.docx
+      bytes: 14112391
+      sha256: a45cd586fdccc9d83afa8ffba1791dd3f9bbef9be1841250a6a446dab5f924ac
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Masked Magician Doc
+- library: remastered
+  section: Ace Attorney
+  character: Masked Magician
+  link_text: Masked Magician
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

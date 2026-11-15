@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kamui-kiritos-planning
+category: doc
+title: Kamui kiritos planning
+alt_titles:
+- Kamui Kirito planning
+authors: []
+series:
+- psycho-pass
+characters:
+- kirito-kamui
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ZziT3kA2x6TwtahCqhABKq4gOyMrXMbsa2kQVycV37o
+    google_id: 1ZziT3kA2x6TwtahCqhABKq4gOyMrXMbsa2kQVycV37o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 4457
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 228204
+      sha256: 7fd160ebf84f10c38122f071d6df2eaad465e9f360b66703110c1b56611b79b9
+    - format: docx
+      name: document.docx
+      bytes: 81771
+      sha256: 72bbcdea9dc3198c5ce7708ba6d33627db1b2247779807dacddb0b96e5b2236a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kamui Kirito planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

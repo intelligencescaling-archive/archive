@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-contraband-strategy-mini-analysis
+category: doc
+title: Yokoya Contraband strategy mini analysis
+alt_titles:
+- Yokoya's Contraband Strategy Mini Analysis
+- Yokoya Norihiko Contraband Game Strategy
+authors:
+- name: /Echonomy
+  reddit: Economy_Echo_8500
+  source: doc-text
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1YIxel1TlHYaKDgmkunYaHU-V_PCE1_Y9MYgq9_qaBnw/edit?usp=drivesdk
+    google_id: 1YIxel1TlHYaKDgmkunYaHU-V_PCE1_Y9MYgq9_qaBnw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 6409
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 216093
+      sha256: 4476d88dbcd41debabca79ad66d5cf8ec57f432e18f3103e3b9bdceb12845415
+    - format: docx
+      name: document.docx
+      bytes: 22502
+      sha256: 727903021614c95aa0389b474913b1e0e69c0438c5c39c5242f7e01ba2b6cbe6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Yokoya's Contraband Strategy Mini Analysis
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: Yokoya Norihiko Contraband Game Strategy
+  note: (the same analysis made by the Reddit user, but in a doc format)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

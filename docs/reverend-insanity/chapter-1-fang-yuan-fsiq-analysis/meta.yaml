@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chapter-1-fang-yuan-fsiq-analysis
+category: doc
+title: Chapter 1 Fang Yuan - FSIQ Analysis
+alt_titles:
+- Chapter 1 Fang Yuan FSIQ analysis
+authors:
+- name: PatchiooX
+  source: doc-text
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- analysis
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NWFIlJ3eqokc0DZYw-diSOz3zdTvCL_nf4PAf31VwjQ
+    google_id: 1NWFIlJ3eqokc0DZYw-diSOz3zdTvCL_nf4PAf31VwjQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1019
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 281963
+      sha256: 90bc936554ed686c60175419fe34b0ecbde3242edd86f788705f660dbc22b83f
+    - format: docx
+      name: document.docx
+      bytes: 988801
+      sha256: df40f3dceb6d5dbc9f8df80ad474fe0cfa177411c4e6706a993707f9ff8d0e74
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Chapter 1 Fang Yuan FSIQ analysis
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Chapter 1 Fang Yuan - FSIQ Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

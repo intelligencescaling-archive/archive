@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-liebert-document
+category: doc
+title: Johan Liebert Document
+alt_titles:
+- Johan 1
+authors:
+- name: Survoyd
+  source: doc-text
+series:
+- monster
+characters:
+- johan-liebert
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Gmd_6eZE4CYRLhqeam7EyNM6quRhaStwsB3H4UQwrmc
+    google_id: 1Gmd_6eZE4CYRLhqeam7EyNM6quRhaStwsB3H4UQwrmc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 50
+    words: 19247
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1515771
+      sha256: 37418b885128b5c82c2270c3a640245abdec266e45d44578e0674fc7a1adfe37
+    - format: docx
+      name: document.docx
+      bytes: 2268337
+      sha256: 2d9e282b11fa7b49c556606f8c9e37bd0929c35f92a8ecfb5e37663a2968c28a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Johan 1
+- library: remastered
+  section: Monster
+  character: Johan Liebert
+  link_text: Johan Liebert Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

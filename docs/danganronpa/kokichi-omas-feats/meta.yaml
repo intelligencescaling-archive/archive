@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kokichi-omas-feats
+category: doc
+title: Kokichi Oma’s Feats
+alt_titles:
+- Kokichi
+authors:
+- name: Riiruu with the help of Machiavelli
+  source: doc-text
+series:
+- danganronpa
+characters:
+- kokichi-oma
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1TYXnQ6Lry6x4_vHUG57xvxNmA_XellpdndiaAhxCYVA/edit?usp=drivesdk
+    google_id: 1TYXnQ6Lry6x4_vHUG57xvxNmA_XellpdndiaAhxCYVA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 116
+    words: 52230
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2539909
+      sha256: c307f6f68b60c32ae8357e5ca9a93040870094f5cceb70d840b488bdcdb37770
+    - format: docx
+      name: document.docx
+      bytes: 993051
+      sha256: dc8e59bfedb5667fd7a3fa1a87f83dbf65c2dc0e7f3d8e1504588ebd80cb895b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Kokichi
+- library: remastered
+  section: Danganronpa
+  character: Kokichi Oma
+  link_text: Kokichi Oma’s Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cho-sang-woo-document-for-scd
+category: doc
+title: Cho Sang-woo Document for SCD
+alt_titles:
+- Cho Sang-woo the failed genius of Ssangmun-dong
+authors: []
+series:
+- squid-game
+characters:
+- player-218
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=18SMYP2dThSuOWFIUfd3GSUzBps_xQr_x
+    google_id: 18SMYP2dThSuOWFIUfd3GSUzBps_xQr_x
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Cho Sang-woo the failed genius of Ssangmun-dong_20250306_152122_0000.docx
+      bytes: 7850268
+      sha256: ed7cf79ff38125d68b5ed3a774999cf4be8cf040cbb885a49f0d073863f12c72
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Cho Sang-woo Document for SCD
+- library: remastered
+  section: Squid Game
+  character: Player 218 (Cho Sang-woo)
+  link_text: Cho Sang-woo the failed genius of Ssangmun-dong
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

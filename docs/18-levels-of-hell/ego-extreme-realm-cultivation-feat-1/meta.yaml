@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ego-extreme-realm-cultivation-feat-1
+category: doc
+title: Ego Extreme Realm Cultivation Feat 1
+alt_titles:
+- Ego Extreme Realm Cultivation doc
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1sfoK433dVnbaG_4Jg2vgle7EwMtYV2GQ-emIvpe1l5k/edit?usp=drivesdk
+    google_id: 1sfoK433dVnbaG_4Jg2vgle7EwMtYV2GQ-emIvpe1l5k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3732
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 833103
+      sha256: 6ce03514572f42d06579b7969711e0defb6b5c9ca983e44d3d20fa521d0aee3f
+    - format: docx
+      name: document.docx
+      bytes: 539073
+      sha256: 75ff77f53d9cb12c58de88be09eea2f60da81262dd98f3ee94a0705c5225130c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Ego Extreme Realm Cultivation doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

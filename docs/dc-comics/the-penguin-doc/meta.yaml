@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-penguin-doc
+category: doc
+title: The Penguin Doc
+alt_titles:
+- The Penguin SCD Doc
+authors: []
+series:
+- dc-comics
+characters:
+- the-penguin
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14o2dq6_kX4HluC7KnCP6GiAfKo_ynzCqlojL4-AmZa4/edit?usp=drivesdk
+    google_id: 14o2dq6_kX4HluC7KnCP6GiAfKo_ynzCqlojL4-AmZa4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 5609
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 253273
+      sha256: 137cae2a6e26343f0a4e2b6180ba40b0e745e4fcde89e5bd00add937066c639e
+    - format: docx
+      name: document.docx
+      bytes: 310527
+      sha256: 0ce295d0a15fd96feaad2d6939e374f88f13d681391b1510d26c95896499431c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: The Penguin SCD Doc
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: The Penguin
+  link_text: The Penguin SCD Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

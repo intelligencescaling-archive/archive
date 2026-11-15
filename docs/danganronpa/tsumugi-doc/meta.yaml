@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tsumugi-doc
+category: doc
+title: Tsumugi Doc
+alt_titles:
+- Tsumugi
+authors:
+- name: SoundStorm
+  source: doc-text
+series:
+- danganronpa
+characters:
+- tsumugi-shirogane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-9ykp8TbfzQqJpf4LFSD7BSWvha-i6wT8-nEALQLADQ
+    google_id: 1-9ykp8TbfzQqJpf4LFSD7BSWvha-i6wT8-nEALQLADQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 48
+    words: 20175
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4944509
+      sha256: 639bfb3ee360f98392321fc23ffbb948a954711fb6709536d562a609a95f0768
+    - format: docx
+      name: document.docx
+      bytes: 6479032
+      sha256: f067b66da36e14a08942266bbe1e1479fde3cddfec02478e818d6168968b350c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Tsumugi
+  note: (
+- library: remastered
+  section: Danganronpa
+  character: Tsumugi Shirogane
+  link_text: Tsumugi Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

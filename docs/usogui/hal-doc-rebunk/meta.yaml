@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hal-doc-rebunk
+category: doc
+title: HAL DOC- REBUNK
+alt_titles:
+- Hal rebunk 1
+authors:
+- name: JoJolon
+  source: doc-text
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14Iy-c12EIGTURJbSvutpNyhX4pkhzVshJ11uHQmxg4c
+    google_id: 14Iy-c12EIGTURJbSvutpNyhX4pkhzVshJ11uHQmxg4c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 91
+    words: 7959
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 36316691
+      sha256: dd19390c8e02bdea33113e41b433b50485630e9ff780c1570f6a16f4955b2fe1
+    - format: docx
+      name: document.docx
+      bytes: 31056510
+      sha256: 83f28398d860fdb8b9021667963e0993c47ade0033b18afa74ede9f1c4dce3fe
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Hal rebunk 1
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: HAL DOC- REBUNK
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

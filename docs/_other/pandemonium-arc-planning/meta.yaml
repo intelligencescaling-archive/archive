@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pandemonium-arc-planning
+category: doc
+title: Pandemonium arc planning
+alt_titles:
+- Kang Jinhyeok pandemonium planning
+authors: []
+series: []
+characters:
+- kang-jinhyeok
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1DxGuDPuF861YP0QbIm5yagekolUD4ahsm3LMdX8iL7U
+    google_id: 1DxGuDPuF861YP0QbIm5yagekolUD4ahsm3LMdX8iL7U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 5761
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 501606
+      sha256: 33ae585039ad840736933981202ed4852065ff4b2de9a4148d9953248557eb08
+    - format: docx
+      name: document.docx
+      bytes: 331813
+      sha256: 2952bb8774365ef56590611d5c1ef9279cdd4eb6229b0948e2a478f2f473396c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kang Jinhyeok pandemonium planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: takuya-tablet-feat-debunk
+category: doc
+title: Takuya Tablet Feat Debunk
+alt_titles:
+- Tablet Feat Debunk (Summarized)
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vTx4db1pg4xUtK_v_PVXCcwsRdDiMRWeQbGVc8AxTTBXNvWx9SVKGH1LccxGqjiNDO6K4P4ukickc_P/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vTx4db1pg4xUtK_v_PVXCcwsRdDiMRWeQbGVc8AxTTBXNvWx9SVKGH1LccxGqjiNDO6K4P4ukickc_P/pub
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 607
+    files:
+    - format: html
+      name: published.html
+      bytes: 182916
+      sha256: 9afad63f006073b74b8512ada9cf3881821bda724c6d15ae64f56430f38e0a77
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Takuya Tablet Feat Debunk
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Tablet Feat Debunk (Summarized)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

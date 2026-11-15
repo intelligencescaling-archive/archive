@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: afton-movie-doc
+category: doc
+title: Afton Movie Doc
+alt_titles:
+- William afton movies feat doc
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+variant: Movies
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RthZMn74jfE4p0zyrsj-JY669DZzX3AS4WzIkNLQUkw
+    google_id: 1RthZMn74jfE4p0zyrsj-JY669DZzX3AS4WzIkNLQUkw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3240
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 507758
+      sha256: 3cc2091b53f613975d744fabedf819a3ca3ccda9a8547b4aed58ee325cd91834
+    - format: docx
+      name: document.docx
+      bytes: 819249
+      sha256: 486964c574b5bddd8e2279ea1aae991fbad2265702c6e2c26bb81983372a1284
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Afton Movie Doc
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: William afton movies feat doc
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: William Afton - Movies
+  link_text: Afton Movie Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

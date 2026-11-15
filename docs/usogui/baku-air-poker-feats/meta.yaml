@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-air-poker-feats
+category: doc
+title: Baku Air Poker Feats
+authors: []
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JoqVZsKnodITrzK8Uu2bMR8jzCIejonyMwCSlXAMEH0
+    google_id: 1JoqVZsKnodITrzK8Uu2bMR8jzCIejonyMwCSlXAMEH0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 30
+    words: 2220
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5588950
+      sha256: e668bfa324f01dffb227cd305de05b34323d07b09118ccc05d13ef48b96fac63
+    - format: docx
+      name: document.docx
+      bytes: 5554250
+      sha256: 162f370cbbf46647a391e9394148c15ff693c27985a7848f1aff945e22c68e76
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku Air Poker Feats
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Baku Air Poker Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

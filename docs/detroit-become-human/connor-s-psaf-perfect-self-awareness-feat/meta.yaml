@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: connor-s-psaf-perfect-self-awareness-feat
+category: doc
+title: Connor's PSAF (Perfect Self Awareness Feat)
+alt_titles:
+- Connor PSAF Doc
+authors: []
+series:
+- detroit-become-human
+characters:
+- connor
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1tegRbsfyjQyR__8Iz8g8yXKqdOgNs3k_AT-WQDZPNUI
+    google_id: 1tegRbsfyjQyR__8Iz8g8yXKqdOgNs3k_AT-WQDZPNUI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 891
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1200017
+      sha256: 9b41c36557ebdb19ab9665a17eb33eb97b4df1acd9a76da9d3faf576133b7efc
+    - format: docx
+      name: document.docx
+      bytes: 1254659
+      sha256: 04ad88139ba2aa6b65021028c2ebf33b46d9ced6d7ee472e1604e37f0e3b1b85
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Connor PSAF Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

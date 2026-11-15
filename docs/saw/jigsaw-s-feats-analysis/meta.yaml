@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jigsaw-s-feats-analysis
+category: doc
+title: Jigsaw's Feats Analysis
+authors: []
+series:
+- saw
+characters:
+- john-kramer
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ABPEyOILalvJQ_OeA6QqEvosn8xpAJJ9LeJblt6KWQY/edit?tab=t.0
+    google_id: 1ABPEyOILalvJQ_OeA6QqEvosn8xpAJJ9LeJblt6KWQY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 7113
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 261838
+      sha256: fa8e183e84b026c162201f1d56c00fac92a5237c63b72ed4195e3111716c7a5b
+    - format: docx
+      name: document.docx
+      bytes: 24626
+      sha256: b8574adf9491aa292d8c67d92d73ca7d6d8161027b4e74e8160c2938c9d3a2b3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jigsaw's Feats Analysis
+- library: remastered
+  section: Saw
+  character: John Kramer
+  link_text: Jigsaw's Feats Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

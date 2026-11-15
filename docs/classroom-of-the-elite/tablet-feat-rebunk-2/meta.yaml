@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tablet-feat-rebunk-2
+category: doc
+title: Tablet Feat Rebunk
+alt_titles:
+- Takuya's Tablet Feat Rebunk
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags:
+- feats
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mx5ydDCj7eXomloMFeBpRmcc1BBRE0VV1yKRvgd_tMM/edit?usp=drivesdk
+    google_id: 1mx5ydDCj7eXomloMFeBpRmcc1BBRE0VV1yKRvgd_tMM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 667
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 356288
+      sha256: f751f7ef78adc2512f902033750a5a45358727f6133e9798b82c552388a8aa91
+    - format: docx
+      name: document.docx
+      bytes: 260227
+      sha256: 452c737c542db0789fdc558db53c77b50a23e13672b334b787897090af842abd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Takuya's Tablet Feat Rebunk
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Tablet Feat Rebunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

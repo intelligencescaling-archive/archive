@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: byakuya-togami-kudan-feat
+category: doc
+title: Byakuya Togami - Kudan feat
+alt_titles:
+- Byakuya Togami Kudan feat
+authors:
+- name: akuya Togami - Kudan feat
+  source: doc-text
+series:
+- danganronpa
+characters:
+- byakuya-togami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1G8_DbBfJVwoG2aP5MmLkXLkdgFTyqYlvuzaTFVL5iSw
+    google_id: 1G8_DbBfJVwoG2aP5MmLkXLkdgFTyqYlvuzaTFVL5iSw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2098
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3148307
+      sha256: 72ddd81c38b6ff5f8341ce9bc1c681ccc5a0882c77195274ca23e097077a59f5
+    - format: docx
+      name: document.docx
+      bytes: 3591593
+      sha256: 6966a58b0f93cb1d1cab1a88095ead9aff3632a953609eb90393252a950845a2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Byakuya Togami Kudan feat
+- library: remastered
+  section: Danganronpa
+  character: Byakuya Togami
+  link_text: Byakuya Togami - Kudan feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

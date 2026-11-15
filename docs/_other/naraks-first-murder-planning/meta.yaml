@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: naraks-first-murder-planning
+category: doc
+title: Narak’s First Murder Planning
+alt_titles:
+- Narak's first murder planning
+authors: []
+series: []
+characters:
+- narak
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=111oJoMb96_tX0Lxl-cM2DKdYNy1g3PGBogaFhi5gTkk
+    google_id: 111oJoMb96_tX0Lxl-cM2DKdYNy1g3PGBogaFhi5gTkk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 41
+    words: 21652
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 620855
+      sha256: 11832427b763eb4bf16714415974c10b279152c20253056c7144e0b6e9462962
+    - format: docx
+      name: document.docx
+      bytes: 56029
+      sha256: 562e5bcb6e02d8cf0e19155d5b06ebdc4a0157d8452216a60c3ff70735cb8004
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Narak's first murder planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

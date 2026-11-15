@@ -1,0 +1,63 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagito-vs-sou
+category: doc
+title: Nagito Vs Sou
+alt_titles:
+- Sou vs Nagito
+authors: []
+series:
+- danganronpa
+- your-turn-to-die
+characters:
+- nagito-komaeda
+- shin-tsukimi
+- sou-hiyori
+tags:
+- hall-of-shame
+- debunk
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1amU0amU9_ilGxMjtiheIta2y-v7kXnssLpSV6iBR48M
+    google_id: 1amU0amU9_ilGxMjtiheIta2y-v7kXnssLpSV6iBR48M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 9910
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 350974
+      sha256: f8b0bcaf4dcce66ad916eb07640f49837d070b94e9c082589e597f7f45807ea9
+    - format: docx
+      name: document.docx
+      bytes: 32518
+      sha256: 9ec4bc826aa7b122ccb8e3b60abe0b0441c121e5d2c256ec44b7012785dfbbbc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Hall of shame
+  link_text: Sou vs Nagito
+  note: (bro literally said that Nagito is featless in emotional engagement Lol)
+- library: remastered
+  section: Danganronpa
+  character: Nagito Komaeda
+  link_text: Nagito vs Sou
+  note: (DEBUNKED)
+- library: remastered
+  section: Your Turn to Die
+  character: Shin Tsukimi | Sou Hiyori
+  link_text: Nagito vs Sou
+  note: (DEBUNKED)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

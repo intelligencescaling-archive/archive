@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: commissioner-wiktor-forst-mrozoverse-novels-intelligence-doc
+category: doc
+title: Commissioner Wiktor Forst (Mrozoverse Novels) Intelligence DOC
+alt_titles:
+- Commissioner Wiktor Forst Document
+authors: []
+series:
+- mrozoverse
+characters:
+- wiktor-forst
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aFKhI_hHpkkc8i8iQGgRdaScmHyQQedMeDLH0A8vQcM
+    google_id: 1aFKhI_hHpkkc8i8iQGgRdaScmHyQQedMeDLH0A8vQcM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 73
+    words: 24417
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1549941
+      sha256: a2ab44073add905b3ac614cb599b472cc192607ca77ec14454a94bcbcb104746
+    - format: docx
+      name: document.docx
+      bytes: 613097
+      sha256: 055cce7cc9a36225fe2493de80eddcaf664347cfab96ddf51abd4d6f33e5c3b2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Commissioner Wiktor Forst Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-planning-and-strategy-feats-in-detail
+category: doc
+title: Izuru Kamukura Planning And Strategy Feats in Detail
+alt_titles:
+- izuru kamukura 3
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ZazkMp818FoKJIH-lPzZjxc4CGuH-GJRbbRSEBwZUwo/edit?usp=drivesdk
+    google_id: 1ZazkMp818FoKJIH-lPzZjxc4CGuH-GJRbbRSEBwZUwo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 6920
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2390603
+      sha256: 36dde2b22fe791e9253f7aca11ca362f127ce1b110320ad0fd96ebc948768fe5
+    - format: docx
+      name: document.docx
+      bytes: 2065971
+      sha256: 8396b4ba7fe703b08f4994d074be957f6c0691e04a9ffa1192274b4b5ed64437
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: izuru kamukura 3
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura Planning and Strategy Feats in Detail
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

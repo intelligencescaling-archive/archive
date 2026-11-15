@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yumeko-dice-control-debunk
+category: doc
+title: Yumeko dice control debunk
+alt_titles:
+- DEBUNK YUMEKO DICE CONTROL FEAT
+authors: []
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- feats
+- debunk
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1aBmEk0lh0w5LXw_BAc9bNay3ekuAfRbZ
+    google_id: 1aBmEk0lh0w5LXw_BAc9bNay3ekuAfRbZ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: DEBUNK YUMEKO DICE CONTROL FEAT.docx
+      bytes: 10351
+      sha256: 6a38a5c8c86e0947fd2ddf35fb945802c7ac8ac85bbe4fc05726e7dc370a380e
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Yumeko dice control debunk
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: DEBUNK YUMEKO DICE CONTROL FEAT
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

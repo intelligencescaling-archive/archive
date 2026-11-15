@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scp-049-article-feat-list
+category: doc
+title: SCP 049 Article feat list
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- scp-foundation
+characters:
+- scp-049
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1FM_84gIucGv3WvMzffCzjq0JmuuseUHEGDrSqeUow_c/edit?usp=drivesdk
+    google_id: 1FM_84gIucGv3WvMzffCzjq0JmuuseUHEGDrSqeUow_c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 372
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 121716
+      sha256: 8209d121f2cb55bef0effcf6471fd6b82a1a26311b1748431992310894d9005c
+    - format: docx
+      name: document.docx
+      bytes: 2189196
+      sha256: bb9e9294294e2323253f7f49e497995965a963249ad13030dc298c83f056ef48
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: SCP 049 article feat list
+- library: remastered
+  section: SCP Foundation
+  character: SCP-049
+  link_text: SCP 049 Article feat list
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

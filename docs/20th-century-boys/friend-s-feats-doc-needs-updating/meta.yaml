@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: friend-s-feats-doc-needs-updating
+category: doc
+title: Friend's feats doc (needs updating)
+alt_titles:
+- Friend
+authors: []
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KcaXlOh0OVtLbD2NjhpFeX1A9ZXcbBImHyXGI3J2PNA
+    google_id: 1KcaXlOh0OVtLbD2NjhpFeX1A9ZXcbBImHyXGI3J2PNA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 116
+    words: 32318
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1516323
+      sha256: eea1f1744f1d57e2e967df6443ece34e6f224525e28aed017a7c56711c0b32d3
+    - format: docx
+      name: document.docx
+      bytes: 1268067
+      sha256: 1d22cde04777fec80a5dc832854e399a46f031ab46377984841d009a5cd27d25
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Friend
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

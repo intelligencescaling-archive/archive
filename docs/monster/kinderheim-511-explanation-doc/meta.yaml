@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kinderheim-511-explanation-doc
+category: doc
+title: Kinderheim 511 explanation doc
+alt_titles:
+- Another Johan's kinderheim 511 feat doc
+authors: []
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-9DslO0bqQ7s-cVJ8UGiP_E530qWHecRya2BpSfMSh4
+    google_id: 1-9DslO0bqQ7s-cVJ8UGiP_E530qWHecRya2BpSfMSh4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2737
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 104272
+      sha256: afe3f03b6bdefa9811c8f28d282b07d33b66a06376d7c881d73d221993779dc8
+    - format: docx
+      name: document.docx
+      bytes: 13308
+      sha256: ed3d1c9fa0180ada2256712c8247040d443852a1d46aef1c579c2b975b2856f2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Johan's kinderheim 511 feat doc
+- library: remastered
+  section: Monster
+  character: Johan Liebert
+  link_text: Kinderheim 511 explanation doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

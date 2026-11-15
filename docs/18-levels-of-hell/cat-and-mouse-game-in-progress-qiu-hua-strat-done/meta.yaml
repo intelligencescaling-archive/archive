@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cat-and-mouse-game-in-progress-qiu-hua-strat-done
+category: doc
+title: Cat and Mouse Game - In Progress (Qiu Hua Strat done)
+alt_titles:
+- Cat and Mouse Game - A definitive doc
+authors: []
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1brJcgB80jlddNpi44vMfjtv-dJHOAHAsJvgBiTT91mY/edit?usp=drivesdk
+    google_id: 1brJcgB80jlddNpi44vMfjtv-dJHOAHAsJvgBiTT91mY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 3957
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 214904
+      sha256: f72f9d4ce9e9644432544b2b914f1008cd43bfa5f8c978f23ddac1599af955ee
+    - format: docx
+      name: document.docx
+      bytes: 2018971
+      sha256: e876db42f74c12f3d0b5b1b41985d20325544892fec11ebe83f62377a8d82bb9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Cat and Mouse Game - A definitive doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

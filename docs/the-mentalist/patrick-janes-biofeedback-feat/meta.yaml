@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-janes-biofeedback-feat
+category: doc
+title: Patrick jane’s Biofeedback Feat
+alt_titles:
+- PJ BioFeedback feat
+- Patrick jane's Biofeedback Feat
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/133C_YcBoV23rXNdQWITBxGbo0tBBKj1V8FGHz7fWpyM/edit?usp=drivesdk
+    google_id: 133C_YcBoV23rXNdQWITBxGbo0tBBKj1V8FGHz7fWpyM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 473
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3727985
+      sha256: fe62ec0931cbf732e13cfed2a50bb2f512c10e0342b71d43b6273cdb4baa3e80
+    - format: docx
+      name: document.docx
+      bytes: 6034995
+      sha256: 03b0fac4ba638e8dd8a51ccb376c2db53966564ad9c3ef768e50351ef4f31b68
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ BioFeedback feat
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick jane's Biofeedback Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

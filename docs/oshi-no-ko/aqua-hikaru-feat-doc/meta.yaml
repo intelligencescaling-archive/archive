@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aqua-hikaru-feat-doc
+category: doc
+title: Aqua Hikaru Feat Doc
+alt_titles:
+- Aqua's Hikari feat document
+authors: []
+series:
+- oshi-no-ko
+characters:
+- aqua-hoshino
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1_3BnPSaJ3BdbXPSQblqNhmpbWtyzGdyiMv-p--wN9Qg/edit?usp=drivesdk
+    google_id: 1_3BnPSaJ3BdbXPSQblqNhmpbWtyzGdyiMv-p--wN9Qg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1067
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 60682764
+      sha256: 5f83faa3ef815d51181209de257bfcc23abd55a5f2f10477f7f77998f5ff9eb2
+    - format: docx
+      name: document.docx
+      bytes: 45681308
+      sha256: ba95755bb6a8a46885a7357e6967e7ba96741b278c78a22d9328d246c2f9ac5f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Aqua's Hikari feat document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

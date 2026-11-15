@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: canon-l-doc-old-doc
+category: doc
+title: Canon L doc (OLD DOC)
+alt_titles:
+- Canon L Lawliet document
+- Canon L doc
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=191G7r4JL3cwgirXVAT6-3H_J13Ax4lr2PGzVJXSKVis
+    google_id: 191G7r4JL3cwgirXVAT6-3H_J13Ax4lr2PGzVJXSKVis
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 65
+    words: 21014
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 16457384
+      sha256: 089af8bebaa46c0f803f393eb683df5115ca31be5643c09109ee4745a5ee48b9
+    - format: docx
+      name: document.docx
+      bytes: 14880382
+      sha256: a32a6167f65dbddb4d981c274433a21926f2b635e216f8ab0cc42a8258890682
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Canon L Lawliet document
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: Canon L doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

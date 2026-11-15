@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: arisu-fsiq-island-feat-by-wanoxx
+category: doc
+title: Arisu FSIQ Island Feat | By Wanoxx
+alt_titles:
+- Arisu FSIQ island feat
+- Arisu FSIQ Island Feat | By Wannox
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- arisu-sakayanagi
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xqr-XH7PcxwGD1sw1T2iDHTSabZDhS7S8Y-SjlZyb8g
+    google_id: 1xqr-XH7PcxwGD1sw1T2iDHTSabZDhS7S8Y-SjlZyb8g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 5681
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10773180
+      sha256: cfdf7e3f75bf31c2e6a3f3939fe70dc35777892e8b123e8974c03f0cec3c4c8f
+    - format: docx
+      name: document.docx
+      bytes: 10066001
+      sha256: 83250ecd672f2d3657697e1c0d051a871cfacd189120c835538dd710925ee649
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Arisu FSIQ island feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Arisu Sakayanagi
+  link_text: Arisu FSIQ Island Feat | By Wannox
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

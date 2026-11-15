@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nettspend-doc
+category: doc
+title: Nettspend doc
+authors: []
+series:
+- real-life
+characters:
+- nettspend
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1b-qDMwn8fxy2ChTsVDuYKfbWhaV9fMJcW1Qa96VyqYI/edit?tab=t.0
+    google_id: 1b-qDMwn8fxy2ChTsVDuYKfbWhaV9fMJcW1Qa96VyqYI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 830
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1443847
+      sha256: 4d6c6f20ca328d47f211cc1a6f4b1797f84b253a103d729e5875d3beb9e4322d
+    - format: docx
+      name: document.docx
+      bytes: 18609492
+      sha256: eef488cb2412f78adf6634c2c62796ffc458d3b71d13436e7c3c0e055fe44044
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: NettSpend Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

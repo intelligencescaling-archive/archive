@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: niu-youdao-plan-in-the-heavenly-realm
+category: doc
+title: Niu Youdao - Plan in the Heavenly Realm
+alt_titles:
+- Niu Youdao's plan in the Heavenly Realm
+authors: []
+series: []
+characters:
+- niu-youdao
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mjOWGpQdKcaLMeWEkhlb6n7VVLy7jrAYouGXmSlprrw/edit?usp=drivesdk
+    google_id: 1mjOWGpQdKcaLMeWEkhlb6n7VVLy7jrAYouGXmSlprrw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 15270
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 650620
+      sha256: 99edc6c3b98c4af2715f06412dd94c73c1722878a90553bc0890a309a89ff925
+    - format: docx
+      name: document.docx
+      bytes: 161231
+      sha256: 47d3efa63591a39ab4373ad26fb90113bc7b2ed85245b58e491db863c3456058
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Niu Youdao's plan in the Heavenly Realm
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

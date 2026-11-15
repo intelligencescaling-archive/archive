@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pj-feats-1-151
+category: doc
+title: PJ feats (1/151)
+alt_titles:
+- PJ 1
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1h7hTI3QPtqKzFOSth1zvj7NPGiU0ux6k49NzY5bfY8c
+    google_id: 1h7hTI3QPtqKzFOSth1zvj7NPGiU0ux6k49NzY5bfY8c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 2479
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 347957
+      sha256: 105f5f441ed4d31ee7d1fa6d6608d0d6385390f15b29a4fc57e1f0b22e194689
+    - format: docx
+      name: document.docx
+      bytes: 1354479
+      sha256: 6c6721f3c194bd6195c185fb34f4e5b9a197c79115dcc75811c72c4bf499e582
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 1
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: PJ feats (1/151)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

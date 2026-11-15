@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: prison-game
+category: doc
+title: Prison Game
+alt_titles:
+- BSD Prison Game Rebunk
+- Prison Game Rebunk
+authors: []
+series:
+- bungo-stray-dogs
+characters:
+- dazai-osamu
+- fyodor-dostoevsky
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13XgqW-IDRu5heXnmo1lOTop2HyVlAEAJQz26OZS2D54
+    google_id: 13XgqW-IDRu5heXnmo1lOTop2HyVlAEAJQz26OZS2D54
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1510
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1105538
+      sha256: 5f6ff3c23859d9f2c26860cfac09d77cc79ee72196e8217db1b96c950dd04895
+    - format: docx
+      name: document.docx
+      bytes: 2908064
+      sha256: 231e019dfa22f598ce204d698ff7eb1598bfc42db5ecadf6b583c2204ae9b665
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: BSD Prison Game Rebunk
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Dazai Osamu
+  link_text: Prison Game Rebunk
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Fyodor Dostoevsky
+  link_text: Prison Game Rebunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mikaela-elliot-wilson-oc
+category: doc
+title: Mikaela Elliot Wilson(OC)
+alt_titles:
+- Mikaela Elliot Wilson
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series: []
+characters:
+- mikaela-elliot-wilson
+tags:
+- oc
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1tOdqsFacnvpzfUXJIMKiLFpf8czYv6IOvwBigNxyuQk
+    google_id: 1tOdqsFacnvpzfUXJIMKiLFpf8czYv6IOvwBigNxyuQk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 58
+    words: 31029
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 892534
+      sha256: 3b2b27b90b42df7371a094c2595a64eb6b908c9a2924c089b48022bd26b0a19c
+    - format: docx
+      name: document.docx
+      bytes: 215080
+      sha256: 9f87802b0b1822da7e6e1f74f4c0007230b289007ad29e801ef733f081ec0dbc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Mikaela Elliot Wilson
+  note: (Not Canon to the Main storyline) (Finished)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-cats
+category: doc
+title: SCD Cats
+alt_titles:
+- SCD Categories Doc 12
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1vCoyk4BjWpNYeNPnM7AIRedmvsnC0-p7sNvjUhQyuEs/edit?tab=t.0
+    google_id: 1vCoyk4BjWpNYeNPnM7AIRedmvsnC0-p7sNvjUhQyuEs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 1243
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 158296
+      sha256: 1317162bfdd14528088510d84c305616ec98760689c1bbc25648b4e549fcb4f6
+    - format: docx
+      name: document.docx
+      bytes: 55995
+      sha256: d9df24e7893f4d821495f48c9726359f91fe160b32026be3286580821448d1f4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 12
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

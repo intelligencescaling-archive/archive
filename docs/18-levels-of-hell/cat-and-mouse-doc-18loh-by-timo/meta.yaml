@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cat-and-mouse-doc-18loh-by-timo
+category: doc
+title: Cat and mouse doc 18loh by Timo
+alt_titles:
+- Cat and Mouse Chen Ran Feat
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/19a6FjKIli3IZV6LC1AN5QyrTpjRhjIOcdCO3kiiTHEc/edit?tab=t.0
+    google_id: 19a6FjKIli3IZV6LC1AN5QyrTpjRhjIOcdCO3kiiTHEc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 10963
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 398318
+      sha256: fb271651668a31f25220efa3becaf3f236daa3cf89466270bc12b828260c495a
+    - format: docx
+      name: document.docx
+      bytes: 33209
+      sha256: 911e0753914b6f3326e67aa13535b8c3ffae200f76e76330b6a8c377df8c5887
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Cat and Mouse Chen Ran Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

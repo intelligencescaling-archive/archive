@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: phantom-thief-sai-case
+category: doc
+title: Phantom Thief Sai Case
+authors: []
+series:
+- neuro-supernatural-detective
+characters:
+- phantom-thief-sai
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15kl040l-fFnZLo0z5xyUyWbw_2FWjJ7_ihR7npgW2kc
+    google_id: 15kl040l-fFnZLo0z5xyUyWbw_2FWjJ7_ihR7npgW2kc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 524
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 116130
+      sha256: 8c4ed1a5b8673b568983ce4d9ae21d3cfceb5e10356f032de4a359053e361fdc
+    - format: docx
+      name: document.docx
+      bytes: 42090
+      sha256: 31ad187b903343a7930e943fea5412a64d4858f36c0369523a59bc358178b7f4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: phantom thief sai Case
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

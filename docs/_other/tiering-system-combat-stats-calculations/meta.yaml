@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tiering-system-combat-stats-calculations
+category: doc
+title: Tiering System & Combat Stats calculations
+authors: []
+series: []
+characters: []
+tags:
+- wis
+- guide
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1x789iIesL1PDZP3QJZHFPe1TH_k7WJ3L-DeqgQ5N-zA/edit?tab=t.0#heading=h.yhssuxowfcqj
+    google_id: 1x789iIesL1PDZP3QJZHFPe1TH_k7WJ3L-DeqgQ5N-zA
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Tiering System & Combat Stats calculations
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

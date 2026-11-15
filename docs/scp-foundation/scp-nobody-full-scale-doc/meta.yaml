@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scp-nobody-full-scale-doc
+category: doc
+title: SCP - Nobody Full Scale Doc
+alt_titles:
+- nobody full scale DOC
+authors: []
+series:
+- scp-foundation
+characters:
+- nobody
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12h7q3suUKR1vEz-eWS6izB8Ks16gEgstKa6vAD9RUic
+    google_id: 12h7q3suUKR1vEz-eWS6izB8Ks16gEgstKa6vAD9RUic
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 8998
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 664203
+      sha256: c6a44b276fe9fa7ec74702b8ba8e6f749117d9d22c8cfc9473980078939dcaa7
+    - format: docx
+      name: document.docx
+      bytes: 1693328
+      sha256: 0b9229e687788957301eecc5cd59a4c9f43dcafb3046fbdf20391199a80bb891
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: nobody full scale DOC
+  note: (outdated)
+- library: remastered
+  section: SCP Foundation
+  character: Nobody
+  link_text: SCP - Nobody Full Scale Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

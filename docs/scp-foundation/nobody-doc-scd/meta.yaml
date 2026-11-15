@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nobody-doc-scd
+category: doc
+title: Nobody Doc (SCD)
+alt_titles:
+- Another Nobody Doc
+authors: []
+series:
+- scp-foundation
+characters:
+- nobody
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1fWJcZ5YH1W_x6s9OCrRnFXxbwIW6NxXgPC0hXUELP54/edit?usp=drivesdk
+    google_id: 1fWJcZ5YH1W_x6s9OCrRnFXxbwIW6NxXgPC0hXUELP54
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 4345
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1060793
+      sha256: 2f83740e3ec997590f8c2d55301befa2569c95e2a8b2d04ea82cb994e523f473
+    - format: docx
+      name: document.docx
+      bytes: 2161672
+      sha256: de1ebd59c1536caeaaf579c79799c32ec0d3719b3ec5e6624d5e339c5cb231db
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: Another Nobody Doc
+- library: remastered
+  section: SCP Foundation
+  character: Nobody
+  link_text: Nobody Doc (SCD)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

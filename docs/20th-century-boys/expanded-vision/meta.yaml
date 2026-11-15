@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: expanded-vision
+category: doc
+title: Expanded Vision
+alt_titles:
+- Friend VSI
+authors: []
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- vsi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1UEWr4FfH4SOFNrXSnnPcFsYtg7838kdnFf4qbNeWpB4
+    google_id: 1UEWr4FfH4SOFNrXSnnPcFsYtg7838kdnFf4qbNeWpB4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2719
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 179100
+      sha256: a6af780ee463479d95f6ee60d3829c826a577625e08656296c47ce7007e7e026
+    - format: docx
+      name: document.docx
+      bytes: 1165566
+      sha256: 0883d1e18f16425a7871123db4ffb857d4cc61b8aeed892d7c0938db1c627da5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Friend VSI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

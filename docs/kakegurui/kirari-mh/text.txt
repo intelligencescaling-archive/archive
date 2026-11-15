@@ -1,0 +1,53 @@
+Kirari’s Monitor Hax Feat
+By: Hayatoz
+
+Overview
+In chapter 82 of the Kakegurui manga, it is revealed that Kirari Momobami was watching the Fasciation Hall game on twelve (12) monitors at the same time that were in the ceiling above her. Foto em preto e branco de pessoa na frente de uma loja
+
+Descrição gerada automaticamente
+
+It is shown to us that Kirari was interfering with the games, which means she was keeping up with them. This is further confirmed by her conversation with Terano, where Kirari confronts Terano about her strategy in the game, demonstrating that she has kept up with everything that had happened in those twelve monitors.
+
+ Texto
+
+Descrição gerada automaticamente
+ Texto
+
+Descrição gerada automaticamente
+
+The Calculations
+So, to understand how much information Kirari was processing and manipulating in her memory, we must first establish the two different types of information she was processing:
+1. Auditory information
+Kirari is constantly processing auditory information from the game, as the characters are always speaking in the manga panels.
+Considering that the game is happening in only 8 rooms at a time (There are 12 rooms and, while all the monitors are on, the game only happens at 8 rooms per turn), we will consider 8 as the value of monitors that auditory information is coming from.
+Now we need to establish what is the average number of syllables spoken per second in the Japanese language (since that is the auditory info she will be processing). According to this study: [https://worldcrunch.com/tech-science/syllable-counting-and-the-secret-to-the-39speed39-of-languages] the number is 8.03 syllables per second (It can vary from study to study, but it usually is 7 to 8 syllables).
+Calculating the amount of information Kirari is processing would be: 8 * 8.03, which equals 64.24 different auditory information processed per second.
+2. Visual information
+Kirari is keeping up with and understanding everything that’s happening in the different rooms of the Fasciation Hall. Furthermore, she is visualizing the pentagonal structure of the Hall and each one of the twelve rooms through the monitors to decide which number she should assign to each door to ensure that the game goes in the direction that she wishes.
+So, Kirari is visually keeping up with everything that is happening in each room and is also interfering with the game. She is processing and keeping up with far more visual information than auditory information. Unlike the auditory one, which can be exactly calculated, visual information cannot. But assuming that we know that she is processing far more visual information than auditory, we can make estimations:
+Low-ball: 2 times more – 64.24 * 2 = 128.48
+Mid-ball: 3 times more – 64.24 * 3 = 192.72
+High-ball: 4 times more – 64.24 * 4 = 256.96
+
+Conclusion
+Kirari is processing and manipulating in her memory: auditory + visual information + performing parallel thoughts to be able to interfere with the game.
+
+Low-ball: 128.48 + 64.24 = 192.72 different information per second
+Mid-ball: 192.72 + 64.24 = 256.96 different information per second
+High-ball: 256.96 + 64.24 = 321.2 different information per second
+
+So, Kirari is processing and mentally manipulating all that information per second while also performing parallel thoughts to be able to interfere with the game.
+For this feat: CPI > VSI
+
+Other possible interpretations of the calculation:
+So, we know for sure that Kirari was recalling information from the entire game of at least 6 of the 8 participants (The 4 NPC’s, Yumi, and Terano) during her talk with Terano.
+
+As both the image, the text above, and the other parts of their conversation shows us, she recalled audio and visual information from at the very least the entire game of those 6 people in just a few seconds, demonstrating that she had kept up with everything that happened on the monitors.
+Therefore, we can look at the bare minimum amount of visual information Kirari was shown to be recalling. By using her perception speed (average human: 0.13 seconds) and the time frame of the game, we can calculate how many visual images she should be recalling and processing at once during the talk with Terano.
+Calculations:
+-          Low-Ball – 20 minutes game (20 minutes * 60 seconds = 1,200 seconds / 0.13 = 9,230.76 images)
+-          Mid-Ball – 30 minutes game (30 minutes * 60 seconds = 1,800 seconds / 0.13 = 13,846.15 images)
+-          High-Ball – 60 minutes game (60 minutes * 60 seconds = 3,600 seconds / 0.13 = 27,692.3 images)
+In conclusion, Kirari should have recalled all that information in a few seconds during her talk with Terano as shown in the image.
+Even if one disagrees with the “few seconds” time span, the fact still remains that she should have recalled all that information (as both the image and the text showed us, she demonstrates to know about how at least 6 of the 8 participants conducted their entire game [which already shows that she is recalling that], plus the image also is an indicator that she is recalling this information at that moment) in way less than a minute.
+But, as I said, this is just another possible interpretation, which is far less concrete than the previous one. So, you should read the doc and make your own opinions about it.

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-kramer-jigsaw-saw-ii-feats
+category: doc
+title: John Kramer / Jigsaw, Saw II feats
+alt_titles:
+- John Kramer SCD Doc
+authors:
+- name: Bittus
+  source: doc-text
+series:
+- saw
+characters:
+- john-kramer
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LzPDdd4HiYlh-mIWkAwrjscqCzGWHRDwGm1jKbSDjA8/edit?usp=drivesdk
+    google_id: 1LzPDdd4HiYlh-mIWkAwrjscqCzGWHRDwGm1jKbSDjA8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 80
+    words: 18462
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4669011
+      sha256: c281b11b461cefd071c0197c7bafbc007dfdc0d28b65eedf09075b77cbf146f1
+    - format: docx
+      name: document.docx
+      bytes: 24795561
+      sha256: 8b0d6fa4deea9a52eb1699df78b8538a71dc7d8a65765bf85d8cfd6858782da6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: John Kramer SCD Doc
+  note: (Saw II)
+- library: remastered
+  section: Saw
+  character: John Kramer
+  link_text: John Kramer / Jigsaw, Saw II feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

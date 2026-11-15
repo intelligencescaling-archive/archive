@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tsumugi-doc-rebunk
+category: doc
+title: Tsumugi Doc Rebunk
+alt_titles:
+- Tsumugi rebunk
+authors: []
+series:
+- danganronpa
+characters:
+- tsumugi-shirogane
+tags:
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10U6RgFXvMPNMfJerDwn-d-oFpX80TrgaTcYs_dAZ0sw
+    google_id: 10U6RgFXvMPNMfJerDwn-d-oFpX80TrgaTcYs_dAZ0sw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2814
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6441351
+      sha256: 5f504587efcd4aa04858cd5adbe822d8fb91b6e2637188533100c9cab8daf811
+    - format: docx
+      name: document.docx
+      bytes: 4914684
+      sha256: 364340b3b86be6ec84703ed2555beddee18b18dcb85daf79454ae7bdf8aa5595
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Tsumugi rebunk
+  note: )
+- library: remastered
+  section: Danganronpa
+  character: Tsumugi Shirogane
+  link_text: Tsumugi Doc Rebunk
+  note: (Someone tried to debunk Tsumugi Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

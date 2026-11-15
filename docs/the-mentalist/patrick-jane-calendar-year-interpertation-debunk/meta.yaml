@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-calendar-year-interpertation-debunk
+category: doc
+title: Patrick Jane Calendar Year Interpertation & Debunk
+alt_titles:
+- PJ Calendar Year PSI Feat Interpretation
+- Patrick Jane Calendar Year Interpretation & Debunk
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- debunk
+- psi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1wkuPOYlT0sBBJuH_A2ljmKfLJSEaOJjQLplV3qPMQ9Q
+    google_id: 1wkuPOYlT0sBBJuH_A2ljmKfLJSEaOJjQLplV3qPMQ9Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 757
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 58302
+      sha256: b633661063ec662bfe0d4c83d9b9b8d956058b036f565ce633b42adcb7d996dd
+    - format: docx
+      name: document.docx
+      bytes: 2009832
+      sha256: 7be6c8f49f82470da845efe26d1c8fe8e3842e70758f025eca50254186328ed0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ Calendar Year PSI Feat Interpretation
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane Calendar Year Interpretation & Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

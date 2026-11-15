@@ -1,0 +1,40 @@
+A short doc about Patrick Jane Year Calculation Feat
+
+Made by: River and RatJoe_
+
+In The Mentalist season 3, episode 21, Patrick Jane and Lisbon go to a Criminology university for questioning. During the lesson, the teacher says: "The human brain is not a computer." As an example, she writes on the board that May 31, 1976 and asks the class what day it fell on?
+Patrick immediately replies monday. And the answer is correct.
+
+Well the series doesn't explain how Patrick Jane calculated it, so we use the simplest method as a basis.
+
+The simplest algorithm for calculating the year is Zeller's congruence.
+
+* Year: 1976
+* Month: May (m = 5)
+* Day: 31 (q = 31)
+* Last two digits of the year: K=76
+* First two digits of the year: J=19
+Step 1
+
+Step 2
+19
+Step 3
+
+Step 4
+h= (31+15+76+19+4−38) mod7
+
+ h=107
+ mod  7=2
+Step 5: Determine the day of the week
+The result h=2h corresponds to Monday in the following scheme:
+0 = Saturday
+1 = Sunday
+2 = Monday
+3 = Tuesday
+4 = Wednesday
+5 = Thursday
+6 = Friday
+Conclusion
+May 31, 1976, fell on a Monday.
+And Patrick calculated this in 1 second. 🗿
+Thanks For reading our doc

@@ -1,0 +1,156 @@
+DEATH CORRIDOR FSIQ FEAT
+cpi + fri + vsi:
+here is the context and scene of the feat - https://imgur.com/a/Dt55EiG
+
+in the lupin iii 2019 movie, lupin’s crew comes across the  death corridor, an enormous structure with a circular chamber. there are 2x2 holes— 2 circular & 2 lung shaped holes — within a patch that constantly move along the walls, floor, and ceiling & emit lasers upon detecting movement
+there are 5,500,000 lasers within the death corridor
+
+each laser in the corridor has two possible binary states: off & on
+each laser’s state is independent of the others, so the total number of possible combinations of laser states can calculated as  2ⁿ, where n  is the number of lasers
+for 5,500,000 lasers, this becomes 2⁵⁵⁰⁰⁰⁰⁰ possible configurations of on/off states for the lasers across the entire corridor
+
+for example
+with 3 lasers, the possible configurations are:
+
+1.   laser 1: off
+          laser 2: off
+          laser 3: off
+ 2.       laser 1: on
+           laser 2: off
+           laser 3: off
+
+ 3.       laser 1: off
+           laser 2: on
+           laser 3: off
+
+ 4.       laser 1: on
+           laser 2: on
+           laser 3: off
+
+5.        laser 1: off
+           laser 2: off
+           laser 3: on
+
+6.        laser 1: on
+           laser 2: off
+           laser 3: on
+
+7.        laser 1: off
+           laser 2: on
+           laser 3: on
+
+8.        laser 1: on
+           laser 2: on
+           laser 3: on
+
+3 lasers gives  2³ = 8  configurations, so 5,500,000 lasers gives 2⁵⁵⁰⁰⁰⁰⁰ total configurations of lasers
+
+WHAT DID LUPIN DO IN THIS FEAT
+1. lupin threw his hat, partially activating some lasers, to briefly observe the laser corridor and then mentally constructed the full layout of the death corridor
+
+2. lup
+
+in just five seconds, lupin processed the complex laser configurations to pick a safe trajectory through the corridor
+2⁵⁵⁰⁰⁰⁰⁰/5
+=10¹⁶⁵⁵⁶⁶⁴ laser configurations processed per second
+within 5 seconds, lupin developed a deep understanding of the death corridor’s layout, consisting of 2⁵⁵⁰⁰⁰⁰⁰ laser configurations & the constant shifts in the laser’s direction on his first time
+
+argument for validity:
+
+essentially, this feat can be identified as a cognitive feat— indicated by:
+* lupin closing his eyes, taking time to process and think
+
+* after processing, he becomes confident that he can safely transverse the corridor compared to what how he was feeling before about the corridor
+
+* after processing, he performed the feat without needing to look at lasers whereas he initially had to look and consciously dodge the lasers before processing
+
+* throughout the series, lupin when it comes to bypassing security has been shown consistently to think about possible outcomes. here and here are the fewest of examples. therefore it’s likely lupin in character must have thought of all possible outcomes before traversing the death corridor
+this feat is then narrowed down further to lupin processing the configurations as lupin couldn't:
+* pattern recog
+* simply memorise the laser layout
+* solely visualise a way through the corridor
+
+these will be addressed in the contention section below
+
+some might argue that:
+
+1. lupin didn’t need to process 2⁵⁵⁰⁰⁰⁰⁰ configurations of the death corridor’s lasers. instead, he could have only memorised the positions of 1,100,000 lasers per second
+this argument is inconsistent with the dynamic of the death corridor
+processing out lasers would suffice only if the laser beams are constantly fixed to specific positions and sadly, the lasers aren't constantly fixed to specific position, shown by
+* the laser layout is constantly shifting (clip 1)
+
+* lasers adapting to lupin's traversal, meaning the laser can reconfigure on his position, trajectory, and speed, creating new hazards (clip 1 & 2)
+
+therefore memorising the laser layout wouldn't suffice and would result in lupin unexpectedly being fried
+
+processing possible laser configurations would suffice only if the laser beams can move around, or shift in response to lupin’s movements or the system’s design and thats shown to be the case
+therefore, lupin couldn't have only mapped out a snapshot of the contemporary positions and instead look at the possible configurations to determine the safest route through the adapting corridor
+2. lupin could have relied on pattern recognition or shortcuts instead of solely processing
+
+this argument is inconsistent with the context of the scene. after lupin throws jigen’s hat to test the lasers, lupin closes his eyes, removing any external visual information
+lupin closing his eyes signals a shift from external observation to internal processing implies more that lupin is mentally simulating the entire laser maze to work out the safest path as opposed to using his vision to track the holes for a weakpoint
+this argument also falls victim to the counterargument shown in 1.
+
+3. lupin could have solely visualised a way through the corridor instead of processing configurations
+
+that alternative explanation gets outweighed by many arguments:
+
+1. visualisation alone relies on a fixed sequence of movements, meaning lupin’s success would depend on the environment remaining unchanged but the lasers still shift positions, meaning his pre-planned route would immediately become invalid
+
+2. lupin got distracted by his grandfather’s cane and got caught by a laser but immediately corrected his movement without hesitation and without looking at the lasers. if lupin had only visualised a fixed path, the distraction would have completely thrown off his execution, forcing him to stop and reassess or possibly get fried
+
+3. lupin’s statement “i can do this” strongly suggests he had reached a level of certainty beyond mere visualization
+
+visualization alone wouldn’t guarantee success. picturing a path, still doesn't account for unexpected changes in the laser patterns that could disrupt his route
+
+instead, his confidence indicates he had fully comprehended the system rather than half heartedly visualise the layout
+
+this confidence wasn’t based on assumption and was based on a deep, systematic grasp of how the corridor functioned
+4. most of the total configurations lupin processed are probably easy to rule out (for instance, one configuration could have the first laser on while all others off)
+
+this is a valid concern however there are 2 counterarguments to this:
+1. SIMPLE CONFIGURATIONS CAN STILL BE APART OF COMPLEX CONFIGURATIONS
+this argument assumes that most configurations lupin processed are simple and can be ruled out. however, this overlooks the fact that even seemingly “simple” configurations can still be part of a larger, non-simple sequence that lupin must navigate
+for example, a simple setup with only one laser activated may quickly transition into a much more complex arrangement of laser, requiring lupin to anticipate how the pattern evolves
+example setup:
+let’s assume there are 10 lasers with two possible states: on or off, giving us a total of 1024 possible configurations, ranging from all lasers off to all lasers on
+a simple configuration:
+* laser 1 off
+* laser 2 ON
+* laser 3 off
+* laser 4 off
+* laser 5 off
+* laser 6 off
+* laser 7 off
+* laser 8 off
+* laser 9 off
+* laser 10 off
+while all the other lasers are off. this might seem insignificant or easy to rule out, but the problem arises when the laser configuration evolves to become a larger, more complex pattern
+a larger pattern:
+* laser 1 off
+* laser 2 ON
+* laser 3 ON
+* laser 4 ON
+* laser 5 off
+* laser 6 off
+* laser 7 ON
+* laser 8 ON
+* laser 9 ON
+* laser 10 off
+even a simple configuration like laser 1 on and all others might evolve to a configuration with more complex patterns. lupin can’t just rely on a simple rule of thumb and would have to account for all the interactions and potential changes in laser configurations, no matter how simple they seem.
+in this case, lupin wouldn’t just ignore the single laser configurations, because there could be multiple ways in which such a simple starting point can evolve and interact with others as he moves through the corridor. even these “easy” configurations could contribute to the overall safe path he needs to follow, depending on how the lasers trigger and adapt as he advances
+
+ 2. COMPLEXITY OF SCALE
+lets say there are simple configuration that obvious to not trigger and that there complex configuration that need consideration
+say that 0.1% of the total configurations were complex, the number of configurations lupin would need to process would still be enormous
+this still results in an astronomically large number of configurations, which would require insane processing
+
+5.  lupin could have analysed the corridor as he went throughout it, so his calculations were approximate or incomplete
+when lupin reopens his eyes and exclaims, “i can do this ”, he immediately executes his plan without even looking at the lasers, showing that his route was fully calculated from the start, demonstrating that his visualisation was perfect and required no mid-course corrections
+
+6. this feat is comedic/exaggerated/outlier blah, blah
+
+lupin’s narrative as a genius who "doesn't have the word impossible in his dictionary"  supports the plausibility of this feat within his established abilities. his mental processing is portrayed as one of his defining traits, and there is no indication in the scene that he used external tools or relied on anything beyond his own cognitive abilities
+
+7. lupin didn't successfully complete the corridor untouched
+its blatant he was distracted by the sight of his grandfather's cane and rather he had to readjust quickly not that his processing was incorrect to begin with

@@ -1,0 +1,700 @@
+The Fugitive Bee Doc
+Created by: Whitty
+
+I’m back, baby
+
+How to read
+This doc is split into two parts. The first part is a detailed retelling of the events of the Fugitive
+Bee arc. It focuses on tactics, strategic intent, and explanations on the scheming aspects of the
+arc from Hachina Nanaoki’s (whom we’ll call Hal) perspective. The second part serves as a
+collection of ideas that support the main retelling. This part includes justifications for certain
+ideas, deeper explanations for events, author’s side notes, or any other kind of auxiliary remarks
+that do not fit into the main first part but are still relatively important for complete understanding
+of the arc and feats. Throughout the doc, you will see the ✞✞✞ symbol. These are links to the
+parts that provide additional context to the part where they stand. Simply click on them and the
+doc will take you to the corresponding additional information section. Test it out by clicking this
+✞✞✞.
+
+THE ENTIRETY OF
+FUGITIVE ARC DIAGRAM
+
+The Fugitive Bee
+Background info
+Gakuhito and Hal are solving a weapons smuggling case and finding the wirepuller who is
+leaking info and creating these incidents. The leaker is hypothesized to be a high-ranking
+administrator of the MoD. The wirepuller intends to sell missiles (presumably to the Middle
+East). To disguise it as a burglary incident, they let a foreign smuggling group join the deal. The
+foreign group will smuggle the weapons out by boat, and they are scheduled to leave today,
+putting Gakuhito and Hal under time pressure. In exchange for the weapons, the wirepuller will
+receive money that needs to be laundered. Gakuhito and Hal will wiretap the office of the
+launderers to find a trail back to the leaker.
+Hal also has to hide from Kakerou after the events of last arc. He realizes that there must be a
+recording of the phone call he had with Gakuhito at the MPD that could lead Kakerou right to
+him through Gakuhito (see figure 1). Hal must fake Gakuhito's death so that Kakerou's
+investigation on him will come to a dead end. He steals Gakuhito's ID card to do so as he plans
+to plant it on the ship and let it sink at sea.
+Hal and Gakuhito locate the client of the money laundering ring. He is still sitting at the diner
+where they held their meeting.
+
+Figure 1: First panel shows Hal’s phone call with Gakuhito at the MPD towards the end of Tower
+of Karm incident. Second panel shows Hal realizing Kakerou can track that call back to him
+
+Diner Encounter
+Despite Gakuhito's suggestion of taking a passive approach, Hal decides to confront the client in
+the diner primarily because he cannot waste more time and let Kakerou catch his trail through
+Gakuhito. Hal identifies Kidou, the "Dark Sleeper", as a man from an organization deeply
+connected to the JSDF and U.S forces in Japan and was abolished due scandals. Hal figures that
+
+Kidou would be the client of the money launderers based on his background. Kidou himself is
+not the Wire Puller but an agent working to orchestrate the smuggling operation and money
+laundering.
+Before meeting Kidou at his table, Hal asks the diner’s reception to hold onto his bag with the
+100M. He must find out the location of the boat from Kidou, which is why establishing a reason
+to be there is important as Kidou would refuse to speak if he finds Hal too suspicious. But he
+observes a few details about Kidou
+- Kidou’s habit of tapping the table twice when asked if he wishes for a refill on his drink
+- Kidou's habit of touching the bottom of coffee creamers to check the numbers printed
+below them
+- The stacks upon stacks of empty plates that are already on the table
+The first is a gesture in gambling card games when a player wants to receive another card such as
+in Poker or Blackjack. The second is a common practice in Mahjong, another gambling game.
+Mahjong players perform this maneuver when they want to check the pattern of a tile before
+discarding it, allowing for easy memorization of several tiles at once. These together with his
+gluttonous behavior of having stacks of finished plates at his table, Hal profiles Kidou to be a
+gambling addict with huge debt issues. He accordingly pretends to be a hounding debt collector
+looking for money Kidou owes from gambling. He tells Kidou "The amount of money has
+become very large", letting him fill in the blanks and come to the intended conclusion himself.
+This clears Kidou suspicion of Hal for now.
+Kidou does not have enough money to cover his debt, so he offers Hal to play a simple game
+with a wager. If Hal wins, he’ll pay the debt straight away, but if he wins, Hal has to leave him
+alone for now.
+
+The rules of Coin Pusher are as follows:
+1. The beginning
+2. Decide who will go first.
+3. Take turns pushing one of their coins
+4. Each turn, players can push their coin any number of squares forwards or backwards as
+long as they remain in the squares of the row and do not cross the opponent’s coins.
+5. If a player cannot move either of their coins on their turn, they lose.
+
+Upon hearing the rules, Hal immediately deduces the mechanism of the sure-win strategy of the
+game, because there is a way for a player to secure the win with perfect play. The strategy boils
+down to, “you want to maintain the separation between the coins on both rows when it is your
+turn” ✞✞✞. Since the first player can use this strategy by moving the 10-row coin 5 squares,
+
+making the separation in both rows 3 squares, then the first player will always win. Of course,
+this also makes the moves of the first player very predictable, as they have to mirror what the
+second player plays ✞✞✞. Hal will use this fact later on to engineer the precise game state he
+needs for his trap.
+When Kidou was about to decide who to go first using the creamers, Hal excuses himself to
+retrieve the bag which, unbeknownst to Kidou, contains the 100M. When away from the table, he
+gathers 18 coffee creamers with specific numbers on them and instructs the waitress to bring
+them to his table. Since Kidou was going to use the creamers to decide who to go first, it’s likely
+that he would use them as dice for the coin pusher game as well if needed. Kidou would
+memorize the numbers on the 18 creamers and distribute them in the most advantageous way for
+him. Memorizing 18 different objects in this way would be a tall task, but Hal knows Kidou, the
+avid Mahjong player, would be capable of doing so. If the movement of the game were to be
+randomly decided in this way, the side with more different numbers producing more options
+would have the advantage. From this principle, Hal precisely predicts that Kidou would
+distribute the 18 creamers he picked into:
+- Hal: 66, 12 11, 8, 3, 33, 38, 20, 13
+- Kidou: 72, 5, 2, 1, 15, 39, 21, 43, 63
+Hal also pockets a creamer with the number 6. As stated before, since the 1st player has to mirror
+the 2nd player’s moves, Hal can control Kidou’s moves to engineer a game state where Kidou
+would instantly lose if he chooses a number 6. This shows that Hal has already constructed a way
+to trick Kidou into using the 6 in the game, and even the number 6 itself has strategic meaning as
+we will see later. He has also memorized the patterns on each of the creamer covers, so he can
+easily identify any even when their numbers are faced down.
+Hal returns to the table with the bag and plays one game with Kidou. The waitress returns and
+places the 18 creamers on the table before leaving. Hal forces Kidou to yield 1st turn to him, but
+he loses on purpose to make Kidou think that he does not know about the strategy. However, Hal
+doesn’t technically lose, he only pretends to be put into a forcibly losing position and refuses to
+play the game until completion. Accusing Kidou of trying to trick him with a rigged game, Hal
+demands Kidou to play another game or he won’t leave him be. Kidou doesn’t think that Hal
+knows about the strategy based on his 1st game performance, so he agrees with Hal’s proposal.
+However, to convince Hal that there is no trick, Kidou suggests using the coffee creamers as dice
+to add randomness into the game. This way, Hal cannot claim that Kidou is cheating since his
+moves should be decided randomly anyways. Of course, this is a façade and Kidou plans to
+memorize the creamers and distribute them unfairly. Hal completely predicted this down to the
+exact numbers both would receive.
+Since Kidou is granting Hal’s request for a second game, he forces Hal to bet money on this
+second game as well. Specifically, he adds a few rules to the game
+
+1. You can’t stop the game with excuses like last time, the game has to be played until its
+end.
+2. Both players will be betting money on this next game and the total pot is determined by
+adding the numbers used during the game multiplied by 10,000
+When it comes to picking who would go first in the second round, Kidou and Hal use the
+creamers. Hal picks 66 and forces Kidou to pick 72 to get the first move. Hal then retrieves both
+the 66 and 72, opens the 66 and pretends to accidently drop it on the floor. Underneath the table,
+away from Kidou's sights, Hal opens the 72 and empties its contents. He then slots a number 6
+which he had hidden into the empty 72 container, effectively disguising the number 6 as 72. He
+then dropped the opened 66 and the 6 disguised as 72 into separate glasses.
+
+First three rounds of the game go as follows:
+Rounds creamer Moves Total pot amount
+R1 Kidou turn 5 5 forward in 10-row (5 + 12)  × 10𝐾
+= 170𝐾 R1 Hal turn 12 2 forward in 10-row
+R2 Kidou turn 2 2 forward in 5-row (17 + 2
++ 11) × 10𝐾
+= 300𝐾 R2 Hal turn 11 1 forward in 5-row
+R3 Kidou turn 1 1 forward in 10-row (30 + 1
++ 13) × 10𝐾
+= 440𝐾 R3 Hal turn 13 1 back in 5-row
+
+Hal has been putting the total pot amount on the table as a tactic perturb Kidou. During the 3rd
+round, Hal buys boxes of creamers from the manager using three bundles of cash from the 100M
+dirty money. He bluffs that he can use the creamers to analyze their covers and deduce some kind
+of pattern between the cover of a creamer and its number. Bluff aside, seeing Hal spend so much
+on something so idiotic and trivial further disturbs Kidou, which is what Hal intended. Hal in the
+meantime message Gakuhito that he should enter the diner and sit at a place where he can
+scrutinize Kidou but only after he receives and verify the information from Kidou.
+Kidou continues with his turn of round 4. He picks 15 and moves 1 forward in the 5-row, Hal’s
+coin in the 5-row is now completely cornered. It is here where Hal reveals that he has seized and
+has been using the 100M of dirty money that Kidou was meant to launder. Simultaneously, Hal
+picks creamer 20 for his round 4 turn, he moves 2 back in the 10-row, making the total 790k.
+Kidou completely shuts down. His perturbed state makes his decision-making desperate and
+predictable. Kidou tries to win all the money back through the game and he so demands to up the
+wager. It is now that Hal lets him know that he wants the information about the boat smuggling
+
+the weapons. If Kidou agrees to tell him, he will raise the wager by multiplying the creamers
+they use after this instead of just adding them to the preexisting total.
+As a part of his plan, Hal’s displaying of money and spending on the boxes of creamers attracted
+other customers of the diner wanting to sell their own creamers to him. To Kidou’s dismay, Hal
+starts spending more of the dirty money on random creamers from different customers until only
+56M of the 100M remains. The amount of 56M was an intentional, as Hal foresaw that he would
+need to give away this much money in order to make Kidou crack ✞✞✞.
+By this point, Kidou has had to deal with mental exhaustion from multiple sources (the purchase
+of the boxes of creamers, the displaying of the wagered money, the revelation of the 100M, the
+further spending on random creamers, etc.). Wanting this to end and seeing no other way, Kidou
+decides that he must run away and start a new life to avoid retribution from his client. So, Kidou
+chooses to tell Hal the name, location, and schedule of the boat to raise the wager and try to win
+the rest of the money ✞✞✞. Gakuhito receives the information from the wire that Hal is wearing.
+He verifies the information and heads on into the dinner as instructed by Hal.
+For the 5th round, Kidou needs to play a number with digit 2 to move 2 forward in the 10-row
+and win, which means he can only play his number 21. However, that would only bring the total
+wager to 16M 590k, which is nowhere near the remaining amount. Kidou spots the 72 used in
+the beginning of the game to decide order of play. If he could use that 72, not only would he win,
+but he would also raise the wager to 56M 889k, more than enough. Kidou sees Gakuhito staring
+at him periodically, he uses that chance to point him out and accuses Hal of collaborating with
+him as some form of coercion. Hal pretends to be distracted by turning to face Gakuhito,
+allowing Kidou to switch his 21 with the 72. After Hal diffuses the situation, Kidou calls a
+waitress to take away the glasses containing the used 66 and the now 21 so that Hal doesn’t
+notice the switch.
+Both players return to the game and Kidou picks the 72. Of course, this 72 is in actuality the
+disguised 6 that Hal had produced before the second game started. Kidou is forced to move 6
+back in the 10-row, which triggers a losing sequence of moves illustrated in figure 2. Hal can
+pick 8 for his round 5 turn. Then both players can only play numbers with digit 3 for round 6.
+This moves Kidou’s coin all the way back in the 5-row and Hal’s coin moves up to corner it.
+This is an unstoppable checkmate as well as it was Hal who indirectly Kidou into discarding the
+21 which could’ve been used to escape the sequence, and he also induced Kidou into making the
+rule about both of them being forced to play the game till its completion, so Kidou cannot refuse
+to play like Hal did in the first match.
+
+Figure 2: Coin Pusher game 2 play-by-play
+
+Figure 3: Entirety of dinner encounter with Kidou
+Link to the full readable diagram
+
+Boarding the Jalloud
+The boat's name is Jalloud and the port is at the 5th Mooring, the central wharf of the port of
+Yokohama. On their way, Gakuhito calls Yokoi who's supposed to already be at the port looking
+for Jalloud, but Yokoi informs them that the Jalloud has already left. Instead, they should meet
+him on another boat called the Gallop as he has found witnesses on board. Hal sends a message
+to Yokoi's phone with Gakuhito's other phone during their conversation. Yokoi's voice on the
+other end very briefly became quiet. Hal abduces the reason for this is because Yokoi is being
+held captive by the crew of Jalloud ✞✞✞.
+When Hal and Gakuhito arrive at port, due to what happened to Yokoi and various other reasons,
+Gakuhito decides to reconsider his covert approach and calls for reinforcements from the MoD.
+Gakuhito volunteers to board the ship to buy time for backup to come. In the meantime, Hal
+notices that there are still some containers carrying the weapons that have yet to be loaded on
+board. He manages to steal those containers and hide them, going as far as to throw away any
+documented information related to the containers to conceal them even further. Now, Gakuhito
+can use those hidden containers as leverage against the captain of the ship as they cannot leave
+without them. This is also where Hal finds out that there are 20 weapons containers in total.
+If Gakuhito’s reinforcements from the MoD arrives, Hal can no longer enact his plan of faking
+Gakuhito’s death at sea to conceal them both from Kakerou. Not to mention that Kakerou’s eyes
+and ears may be within the MoD, which would lead them to Hal sooner. Hal must prevent this,
+and he does so by using Kidou. After losing everything in Coin Pusher, there were only two
+things Kidou could’ve done. The first is to follow Gakuhito and Hal in hopes of retrieving the
+money for his escape, since Hal spent so much of the money that making it back is impossible
+for Kidou. The second is to call his handler to ask him for assistance, which Kidou will find
+possible since he can shift all the blame onto Hal. The handler will relay this information through
+different people within the wirepuller's network until it reaches the wirepuller who is a high
+ranking official in the MoD, which means that Gakuhito’s call for reinforcements from the MoD
+will be intercepted.
+Of course, Hal indirectly manipulated Kidou to make that call and set off that entire chain of
+events as it benefits him on multiple layers.
+1. the reinforcements Hal predicted Gakuhito would call will be intercepted by the
+wirepuller, which allows him to proceed with his plan of faking Gakuhito’s death by
+sinking the boat at sea.
+2. Hal predicts that Kidou would follow them onto the ship and he will use Kidou for
+potential misdirection tactics against the ship’s crew, but also to fortify one of his final
+goals of compelling the wirepuller to use Gakuhito’s presence on the sunken ship to
+frame Gakuhito as a dead traitor (Hal plans to do this by getting Kidou killed and using
+
+his corpse to give the wirepuller the perfect opportunity to declare Gakuhito dead, but
+more on that later).
+3. Hal will retrieve Kidou’s phone to memorize all of its stored contacts to investigate
+phone call recordings of people connected to Kidou and the wirepuller. Hal knows that
+this is possible since he has been worried about Kakerou finding the recordings of the call
+between him and Gakuhito at the MPD.
+4. In the wirepuller's frantic reaction to intercept Gakuhito's request, he will undoubtedly
+leave traces of his actions and identity that can later be investigated by Hal through
+Kakerou ✞✞✞.
+Note that Hal indirectly manipulated Kidou into taking these actions through his performance
+against him in Coin Pusher, which means Hal would’ve had to foresee everything from
+Gakuhito’s call for back up to Kidou’s actions after the game and all of the ways that would
+benefit his strategy as early as when the rule for Coin Pusher was explained to Hal ✞✞✞. Since
+Gakuhito’s reinforcement will never come, Hal can proceed with his plan.
+Gakuhito enters the bridge and meets Captain Lacy for the first time. He is also wearing a
+transmitter so that Hal can hear everything he hears. Yokoi and Kaji is also in the same room as
+Lacy and Gakuhito, as well as most of the crew of the Jalloud. Usually, Gakuhito would be in
+trouble, but his postering and the weird e-mail sent by Hal during their call with Gakuhito gives
+Lacy the suspicion that Gakuhito has more up his sleeve. He correctly infers that Gakuhito may
+have called for reinforcement, but Gakuhito purposefully keeps that ambiguous to buy time for
+the reinforcement he thinks is coming. This is also the time when Hal hears Lacy give someone
+called Voja several orders through the transmitter on Gakuhito. Hal deduces that Voja must be the
+second in command of this ship and is most likely someone highly competent and poses a lot of
+danger. He may have to come up with a way to eliminate them if needed.
+News that weapons containers are missing sends the crew into a panic. Because of the perceived
+time constraint from Gakuhito’s bluff of reinforcements, Lacy has no choice but to send most of
+the crew to go looking for them. Hal uses this opportunity he purposefully created to disguise as
+one of the crewmates he subdued and infiltrates the ship where he can move around more freely
+with the lowered security. The crewmate Hal subdued was planning to steal a box of diamonds
+belonging to the captain. With him were several items necessary for the heist, such as
+communication with accomplices, a key to the captain's cabin and the safe box, and information
+on the safe code. Hal takes all of this with him.
+Gakuhito and Lacy maintain the deadlock with both sides having to tread carefully. Lacy cannot
+harm Gakuhito as (to his knowledge) only Gakuhito knows the whereabouts of the hidden
+containers, not mentioning that Lacy is still unsure about probability of Gakuhito’s
+reinforcements showing up. Similarly, Gakuhito cannot push too hard as Lacy could decide to
+abandon those hidden containers the moment he deems it too risky to wait any longer. In the
+meantime, Hal moves on to the ballast pump room where he rigs the ballast pump to discharge
+
+the ship's ballast water the moment it leaves port and damages the pump so that it cannot be used
+to refill the ship's ballast mid journey. The ballast serves to stabilize a ship by using the water it
+stores to submerge the ship at an appropriate level. Discharging the ballast water will cause the
+ship to float too high above the water and easily capsize from the high waves in open ocean. Hal
+sabotages the ballast pump to sink the boat well into its journey.
+At this point, the rest of Hal's plan roughly speaking was to sabotage the ballast pump, plant
+Gakuhito's id card, use the crew’s preoccupation with finding the hidden containers to extract
+Gakuhito and Yokoi, and sink the boat in the middle of the ocean. However, Kaji proposes to call
+a Kakerou referee to settle the stalemate between Lacy and Gakuhito. This is disastrous for Hal
+as the introduction of Kakerou completely shatters his plan on multiple fronts.
+1. During his proposal, Kaji articulates the possibility that Gakuhito’s reinforcements may
+not come as there is a possible high-ranking accomplice within the MoD that has
+intercepted his request. This inference was dead on and invokes a visible reaction from
+Gakuhito. Even though Lacy is still skeptical, it is no doubt that the advantage has shifted
+to his side in the negotiations, which makes extracting Gakuhito more difficult for Hal.
+2. Through Kakerou, Lacy will eventually negotiate loading the hidden containers onto the
+ship as a prerequisite for the game. Gakuhito will have no power to argue against it for
+long. Loading the containers would bring the entire crew back on board, which nullifies
+Hal’s efforts in lowering the number of enemies on board to begin with and makes
+extracting the hostages and Gakuhito even more difficult. Hal will have to incapacitate or
+distract as many of the crewmates as possible and eliminate Voja, who he has deemed to
+be the most dangerous.
+3. Kakerou will see Gakuhito alive when they arrive at Jalloud. It isn't enough to just extract
+Gakuhito without Kakerou noticing as it would not fool Kakerou into believing that
+Gakuhito's is truly dead when the ship eventually sinks and his ID is found. Faking
+Gakuhito's death to fool conceal the last trail towards him is one of Hal's primary
+objectives from the start. Hal must find a way to make the referee believe that Gakuhito
+will be sent off with the boat and die when it eventually sinks
+4. Kakerou would just add another layer of obstacles for Hal on the ship. For starters, if
+Hal’s apprehension about Kakerou finding the phone call between him and Gakuhito has
+already happened, then that is the end for Hal right then and there as Kakerou will stay on
+high alert and may even call for reinforcements to retrieve their leader whom they now
+know is on board. Even if this isn’t the case, Hal now has to dodge Jalloud crewmates
+and Kakerou staff simultaneously.
+Hal swiftly restructures his approach.
+
+Figure 4: Everything that happened from diner to Kaji’s proposal
+Link to the full readable diagram
+
+Battleships
+Hal tracks down Kidou on the ship and kills the crewmate who was hounding him. He steals
+Kidou's phone and memorizes its entire contact list as he intended to do ever since the beginning
+of Coin Pusher. A call was made 40 minutes ago, around the time Kidou was following Gakuhito
+and Hal by car. This call was indeed to Kidou’s handler for this case, and Hal confirms his
+manipulation of Kidou was successful. Hal plants all of the items and information from the
+crewmate trying to steal the captain's diamonds onto the dead crewmate's corpse and orders
+Kidou to hide in the restroom with it. He also switches the corpse’s phone with the phone of the
+crewmate planning the heist. Finally, he tells Kidou that he will be busy with something on the
+deck and leaves Kidou with some inspiring words, telling him to he should find his "last chance".
+This is Hal manipulating Kidou to steal the diamonds. After doing so, Kidou would eventually
+side with the crewmates by telling them that Hal is the true intruder that they've been looking for.
+In the first place, Kidou was the agent who introduced the foreign smuggling crew into the
+weapons deal, so he can easily divulge information about the case to convince crewmates that he
+is on their side. However, if Kidou surrenders to the crew, they will inevitably search and find the
+diamonds on him. Kidou, with his established gluttonous character, would then have to eat the
+diamonds to conceal them. Since they're dealing with an intruder who has at the very least
+murdered two of their members, the crewmates who find Kidou will report back to the highest
+authority available, which is Voja now that Lacy is preoccupied with the game. Kidou will lead
+Voja and a portion of the crew towards on to the deck as that was where Hal told Kidou he would
+be. Foreseeing all of this, Hal already has the intention of using Kidou's phone to construct a trap
+using one of the containers on the deck for Voja and her allies.
+Referee Mogami enters the scene. Since Kakerou is now involved, Hal tells Gakuhito to accept
+the match while he sets up a situation where Lacy won't be able to overwhelm Gakuhito in the
+bridge with his crew after he wins, so that Gakuhito can be extracted. As one of his conditions,
+Lacy demands that Gakuhito raise his arms as high as he can so that he can search Gakuhito for
+concealed weapons. If Lacy was truly searching, he should've easily discovered the transmitter
+Hal is using to listen to their conversation. Since this doesn't happen, Hal knows that Lacy must
+have another motive for that demand. Gakuhito calls Hal for instructions under the guise of
+listening to a recording of the rules. Hal wants to establish way to cheat in this game, so he tells
+Gakuhito to do what he says:
+- First, don't accept the condition of loading the hidden weapons' containers onto the ship
+and deny the game system for being too suspicious as it belongs to Lacy to begin with.
+- Bring the example of ship positions changing mid-game through special software in the
+system. If Lacy's system has to be used, then he needs 100% guarantee that the positions
+of Lacy's ships will not change during the game
+- Even with referee Mogami's word to be guarantor, deny her too by saying he doesn't trust
+her or Kakerou, who appeared out of nowhere.
+
+- Finally, urge her to look outside towards the deck of the ship, he's powerless and deep
+into enemy territory so he wants irrefutable evidence of Lacy's placements.
+Lacy informs Mogami that there are 20 containers with weapons upon her inquiry. The total
+number of squares taken by ships in the game is also 20. Since the number of weapons'
+containers matches the number of ship squares, Mogami decides to create the "irrefutable
+evidence" for Gakuhito by arranging 20 containers in a way that exactly corresponds to Lacy's
+arrangement. Containers are arranged in a 10x10 grid on the deck and the squares with Lacy's
+ships in the game will have a weapon container placed on its corresponding spot on the deck, as
+illustrated in figure 5.
+
+Figure 5: Lacy’s ship placements arranged on deck using the 20 weapons containers
+
+Hal had Gakuhito put on that act to manipulate Referee Mogami into creating that irrefutable
+evidence using the containers. The first point communicates that Gakuhito has valid concerns
+about the game and that the match will not start unless his suspicions are eased. The second
+plants the idea of establishing irrefutable evidence to prevent the possibility of Lacy changing his
+ship positions mid-game. The third point forces Mogami to find a way to establish this evidence
+so that Kakerou does not control or cannot interfere with it in any way. This makes the evidence
+accessible to Hal during the game. The final point is meant to inspire the idea of arranging the 20
+weapons containers into a 10x10 grid corresponding to Lacy’s ship placements. Hal knew that
+the weapons containers tally up to 20 from when he hid some of them. Hal aimed for this
+development and plans to check each container during the game so that he can discover Lacy's
+entire placement and send it to Gakuhito throughout the game. He chooses this method knowing
+that it would reveal himself to Lacy during the game, since Lacy would be suspicious when
+Gakuhito start hitting his ships as if he knew where they were all along. However, revealing
+
+himself to Lacy in this way helps his goal as a hidden intruder on his ship threatening to win his
+game and forcing his capture would push Lacy into sending all of his crewmates out of the
+bridge to find Hal, leaving Lacy alone with Gakuhito in the bridge and making Gakuhito’s
+extraction easier.
+During these negotiations Hal is on deck looking into the bridge with binoculars while the rules
+are being explained. He sees Lacy lowering the screens which they will be playing on with a
+remote control and sees the odd shape of the ships being used in the game ✞✞✞. This is important
+later on when he deduces Lacy’s final trick in the game.
+Fast forward to the beginning of the game, after the containers are loaded, Hal checks the first
+row of the container grid. He informs Gakuhito that there is a ship on A7, A6, and A5. Gakuhito
+sinks a cruiser (3x1) ship on those squares. Hal continues and finds A3, A2, and A1 as ships.
+Gakuhito sinks a destroy (2x1) on A3 and A2, but he fails to hit anything on A1. Hal uses this
+and the clues he has gathered so far to deduce the hidden mechanism of this game and Lacy’s
+final trick of adjusting the screen height to make Gakuhito miss ✞✞✞. With this in mind, he
+continues to check all the containers, finding useful tools and waiting for Kidou to make his
+move.
+Kidou notices the phone on the corpse is ringing and checks the messages. It is worth noting that
+Hal may have messaged the phone in the corpse himself to bring Kidou’s attention to it. While
+reading the crew's communications with each other, he spots messages about a box of diamonds.
+There are instructions on how to open the safe and keys to the safe box and the captain's cabin
+can be found on the corpse. Kidou makes it to the cabin, steals the diamonds, and eats them to
+conceal them from the crew. Then he cooperates with some crewmates by telling them he knows
+the whereabouts of the true intruder. They meet up with Voja to deal with the intruder. Hal
+notices that there are more people on the deck now looking for him and reasons that it must be
+because Kidou has finally sided with Voja. He places Kidou's phone into a container that only
+opens on the outside, lights a concealed fire in the container, and hides in another container.
+Kidou recalls that Hal stole his phone. He calls his phone, thinking that the ringtone would reveal
+Hal’s location. The ringtone lures 5 crewmates into the container and Hal jumps out to lock the 5
+in from the outside. He also ties knots around the container's latching mechanism and tells Voja
+about Kidou swallowing the diamonds, making Voja disembowel Kidou. The fire Hal set and hid
+in the container fills the container with smoke. The trapped crewmates will soon pass out due to
+smoke inhalation. Hal ties Voja’s hands multiple times over. She must retrieve all the diamonds
+spewed across the floor, undo all the complex knots on the container latch, and treat the
+unconscious crew members. If she decides to do all of this, Hal would have more than enough
+time to check the rest of the containers and send information to Gakuhito. Voja decides against it
+and tells the crewmember to place some of their clothes and cement near the container door.
+Then she attacks Hal.
+
+Foreseeing this in advance, Hal tugs on a cable which he has rigged up to trigger an anti-traction
+gel dispenser. The dispenser spreads the gel all over Hal and the floor of the deck. Voja can't grab
+or land strikes on Hal and she can barely stand on the slippery floor. Hal, however, uses knives to
+stand steady on the gel and stabs the defenseless Voja in the chest with some gymnastics. Voja
+anticipated all of Hal's moves. She was wearing metal under armor which deflected the knife Hal
+used. She then used her clothes to grab the knife and used it to open the container. With the
+concrete and clothing Voja had her crewmates place near the door, she wipes the Gel off herself.
+However, she leaves the floor slippery to conner Hal by pushing the containers to cut off his exits
+and slide objects at him.
+Hal Grabs onto the cable he used to activate the gel dispenser in the commotion. As Voja tosses
+two large MIG welders at him, Hal catches the first one and latches the cable onto it. With the
+second one, he jumps over it while holding the cable. Voja saw through this and jumped to meet
+Hal midair with an attack on his leg. Hal grabs onto Voja and drags her down with him into the
+water as the second welder knocks the first off deck. Neither of them can swim back to the
+surface as that would momentarily leave them open to an attack from each other. The
+confrontation becomes a competition of who can hold their breath the longest. Hal wanted this
+exact development as he uses the air bubble created by the empty fuel tanks of the two welders to
+extend his breath-holding. Voja panics and tries to swim up, giving Hal the opening to slit her
+throat from behind. With this, Kidou is dead, Voja who is the most dangerous crewmember is
+dead, and a good portion of the crew is incapacitated. Hal resurfaces, reboards, retrieves the
+diamonds near Kidou's corpse, and continues searching the containers.
+Hal uses the ship's intercom to contact the bridge and tells Gakuhito the location of 3 of Lacy's
+ships. Hal was going to give a hint on Lacy's trick as well as the location of the final 2 ships but
+Lacy stopped the connection before that could happen. But Hal just immediately calls again. This
+makes Lacy realize that because of the no violence rule of the game, he can't stop Gakuhito from
+using the intercom to contact Hal from the bridge side. So, while not being fully mentally
+composed from having a back-and-forth with Gakuhito, Lacy destroys the whole interface for the
+intercom. Hal knew this would happen and indirectly manipulated Lacy into destroying the
+intercom so that he can't call his crewmates into the bridge when the game is over.
+This was a major goal of Hal’s ever since Kaji made the proposal to call Kakerou, and many sub-
+schemes across battleships, while serving their own purposes, also build up to this moment.
+Killing the crewmember hounding Kidou and manipulating him into stealing the diamonds were
+done to lure out Voja and a portion of the crew, but it also informed Lacy that there is a
+dangerous intruder on board who isn’t afraid to kill. Using Gakuhito to manipulate Mogami into
+creating the cheating method was to let Lacy realize that the intruder has the capability to make
+him lose in the game, which would cause Lacy to fail the weapons deal and get captured by
+authorities. Hal slowly reveals his position to Lacy through multiple purposefully laid clues.
+With the threat of losing crewmates and the fear of being captured, Lacy would have no choice
+but to send his entire crew out of the bridge to find the intruder.
+
+Getting everyone out of the bridge was the first half, the second half is to prevent Lacy from
+calling them back. Another goal of manipulating Mogami is to get Lacy’s ships placement to
+bolster the eventual intercom message as a credible threat. Without the cheating method from
+Mogami, Hal wouldn’t have anything to inform Gakuhito through the intercom in the first place.
+Again, Lacy cannot lose the game, so he would rather destroy the intercom than risk having
+Gakuhito hit his ships. Finally, Hal knows that he can give more than enough information to
+induce Lacy into destroying the intercom without giving enough to allow him to win. Since Lacy
+still has the adjustable height trick, he can still make Gakuhito lose and make the boat depart
+immediately. Of course, Hal doesn’t want Gakuhito to win as his goal is to get the ship to leave
+and fake Gakuhito’s death at sea. Lacy winning here is the perfect means to that end.
+Hal starts fires across the ship including the 2nd cabin. The fires are meant to throw the
+remainder of the crew into disarray. The crew will be too preoccupied with the fires to go
+investigate the bridge and the Ballast room. The commotion will also conceal the release of the
+ballast water the moment the ship departs. This ensures that the crew does not realize that the
+ballast water has been dump until far into the journey where they will sail into dangerous waters
+with an unstable ship.
+Hal purposefully lit a fire in the 2nd cabin specifically as, even though the sprinklers would
+quickly extinguish the flames, the fire would give the Kakerou employees watching over Yokoi
+and Kaji an excuse to set them free since they must keep them safe during the game. Hal rescues
+them indirectly as it's the right thing to do but also Yokoi is needed to help Gakuhito reveal his
+identity after his fake death and Kaji is a cool dud.
+With the fire, Hal manages to
+- Shields the bridge, where Gakuhito sits without protection from Kakerou, from Lacy's
+crew
+- Shields the Ballast room from investigation
+- Conceals the discharge of the Ballast water, increasing the likelihood of the ship sinking
+at sea.
+- Frees Kaji and Yokoi, the latter of whom Hal needs for his larger scheme to catch the
+wire puller
+Using Voja's phone, Hal messages the remainder of the crewmates to not step foot into the ballast
+room or the bridge until further notice. An additional layer of shielding for both goals.
+Hal now has to extract Gakuhito from the bridge, but Mogami had already carried an
+unconscious Gakuhito from the bridge to a random cabin. This makes Hal's job easier as now he
+only needs to plant Gakuhito's jacket with his ID into one of the cabins and leave the boat with
+him.
+
+Figure xxx: Events during Battleships gamble
+Link to the full readable diagram
+
+Final Aftermath
+The ship sinks at sea with the weapons. The weapons will not be used to cause any harm in the
+conflict in the Middle East, which essentially solves the weapons smuggling case.
+In the cabin, they'll find Kidou’s corpse and Gakuhito's jacket and ID card. Local authorities will
+investigate the wreckage, and Japanese authorities will get involve once they find Gakuhito's
+government identification. Undoubtedly the weapons will be discovered by initial investigations.
+The only explanation for the discovery of Japanese weapons on a smuggling boat is that there
+must be an information leaker in the government, and most likely place to find them is the MoD
+which specializes in national and foreign security.
+In order to shut down the case as quickly as possible and shift any suspicion away from himself,
+the wirepuller of the MOD will use the unidentified Japanese corpse and Gakuhito's ID, the two
+things that Hal provided, to declare Gakuhito as dead and pin all of the leaking of state secretes
+that caused this incident onto Gakuhito.
+The declaration itself would be a big move for the wirepuller, so Hal would easily be able to
+identify him using the wirepuller's declaration and the additional leads Hal created for
+investigation such as Kidou's phone contacts. If Gakuhito can work with Yokoi to declare that he
+is alive at a proper timing, then it would be even easier to find the wirepuller.
+Finally, Kakerou should be closing in on Gakuhito in their search for Hal based their phone call
+together at the MPD. The declaration of Gakuhito's fake death will serve to conceal Gakuhito
+from Kakerou and thus erase any trails that would lead Kakerou to Hal.
+
+Figure xxx: Fugitive arc aftermath
+Link to full readable diagram
+
+THE ENTIRETY OF
+FUGITIVE ARC DIAGRAM
+
+Additional Information
+Testing Testing
+Click this to return to the “How to read” ✞✞✞
+
+Coin Pusher Certain-Win Strategy Explained
+In this game, you win if the other player cannot move either of their coins. So, the enemy's coins
+must be between the wall of the final squares and the enemy's coins on their turn, illustrated in
+figure xxx. Both of your own coins must be touching the enemy's coins by the end of your turn.
+Notice that the separation between the coins in both rows is the same by the end of your turn in
+this state. True enough, if we partition the set of all game states into subsets, "game states where
+the separation of the two coins in both rows is the same" and "all other game states", we see that
+the game state corresponding to our win falls under the first subset. So, if we can guarantee that
+all our turn ends with a game state in the first subset and all the opponent's turns end with game
+states in the second set, we prevent the opponents from ever winning and will eventually win the
+game as well (certain win strategy). Notice that if a player manages to force the game state into
+that of the first subset, any move made by the other player will force the game into the second
+subset, which allows the initial player to once again to force the game state into that of the first
+subset by mimicking the other player's move. This is precisely the certain-win strategy. Since
+nothing is stopping the first player of the game to force this strategy. Thus, with perfect play, the
+player that goes first is guaranteed to win. ✞✞✞
+
+Figure xxx: The game state that ends the game. Notice how
+the separation between the coins in both rows is the same,
+namely that there are 0 squares separating coins.
+
+Forcing 1st player’s moves
+Let Kidou start as player 1. To seize the certain-win strategy, he will move 5 squares in the 10-
+row to equalize the coin separation in both rows. See figure xxx. Suppose that Hal now moves 2
+squares in the 10-row and reduces the separation in that row from 3 squares to 1. Now, since
+Kidou would want to follow the certain-win strategy, Kidou will have to move 2 squares in the 5-
+row to maintain equal separation. This pattern is universal in this game after Kidou’s first move.
+However many squares Hal moves in either of the rows on his turn, Kidou must move the same
+number of squares in the opposite row. This is what we mean by the 1st player must mirror the
+movements of the 2nd player. Hal can essentially control Kidou’s movements throughout the
+game with this trick and he can engineer the precise game state that he wants to trap Kidou using
+the 6-72 creamer trap. ✞✞✞
+
+Figure xxx:
+
+Why 56 million?
+We know for a fact that Hal did have some intentions for Kidou giving in at 56M by the way he
+perfectly aligned Kidou’s un-(directly)-prompted compliance when the remaining money cuts
+down to 56M with how raising the wager and taking the 72 would make the total pot a little over
+56M. ✞✞✞
+
+Kidou’s mental state during Round 4
+Since he has decided to abandon his client, Kidou would rather tell Hal the truth than risk losing
+the money by lying. He also knows that Hal should have means to check the information he
+
+gives him, so Kidou cannot just come up with intimate details about a fictitious boat and risk Hal
+terminating the deal. Thus, he would rather betray the client that he has already abandoned than
+risk losing the rest of the money that he needs to start his new life. The decision may not
+necessarily be sound, but it was Hal who pushed Kidou to that mental state where he can only
+see one clear exit to his situation, and that is by winning the current game and take back the
+remaining 56M. This was achieved by layers of psychological prodding properly timed
+sequencing of events to lead Kidou into making that decision. ✞✞✞
+
+Yokoi’s phone call
+When someone receives a mail during a phone call, they would turn the screen towards their face
+to check. This would not cause Yokoi's voice to suddenly go quite. Then what if the person
+holding the phone was not Yokoi but someone else who held the phone up to Yokoi so he could
+speak. Then, as they take the phone away from him and turn the screen close to their face to
+check the message, Yokoi's voice would suddenly become distant like what happened. Hal uses
+this to abduce that Yokoi is being held captive at the Jalloud and that the Gallop is actually the
+Jalloud in disguise. There were other signs, such as him missing several of their calls after
+informing them that he was already at the port to investigate. ✞✞✞
+
+Wire puller network and multiple vectors of investigation
+The multiple traces of investigation include but are not limited to the intercepted call for
+reinforcements, the chain of messages from Kidou's handler to the wirepuller, and the initial
+phone call between Kidou and his handler that Hal knows for a fact will be left as a recording as
+mentioned above. The existence of Kidou handler and the fact that Hal took him into
+consideration is confirmed in figure xxxxxx. In the manga, the handler is the one being called “a
+powerful person who’s well related to this case” and the wirepuller is the “high level in the
+MoD”. Since they are being addressed as two separate entities, it must be true that the person
+Kidou called in Ch.294 and the wirepuller are two different people. The information from Kidou
+will be transferred from one member to another on a chain of command that connects the handler
+to the wirepuller. The most urgent way to relay Kidou message is through mails or phone calls,
+which are things that Hal can investigate through Kakerou as he knew they were about to
+uncover his phone call with Gakuhito at the MPD. ✞✞✞
+
+Figure xxxxxx: Hal foreseeing the chain of events on the wirepuller
+
+Foreseeing events after Coin Pusher (Justification)
+Gakuhito’s decision to call reinforcements includes the revelation that the smuggling involves far
+more dangerous weapons than previously realized (F-35 stealth and Lidar systems) and Yokoi’s
+capture. Hal doesn’t foresee these two developments specifically; he does foresee that Gakuhito
+would still call for reinforcements regardless. Knowing Gakuhito’s personality and the urgency
+of the ship’s crew, Gakuhito would want to prioritize stopping the weapons deal instead of his
+secrecy and call for backup against the crew of Jalloud.
+We know that Hal induced Kidou into following him because he foresaw the possibility of
+Gakuhito calling reinforcements from the MoD and how that would destroy his plan. However,
+the means by which Hal pushed Kidou into informing the wirepuller were enacted during the
+Coin Pusher game. The psychological tactics to dwindle Kidou’s sound judgement, flaunting the
+dirty money in front of Kidou, spending half of said dirty money to push Kidou into wanting to
+do anything to retrieve it, the 6-72 coffee creamer trap to make Kidou lose not only the
+remaining dirty money but also all of the money he had on him, the overtness of the approach to
+give Kidou a target to push all the blame on while calling his supervisor, all of these actions were
+purposefully designed to force Kidou into doing what he did after the game. Of course, all of
+
+these actions were conceived before Hal even played the first game of Coin Pusher, which means
+Hal would’ve had to consider all of this before his gamble with Kidou.
+Thus, the list of things Hal foresaw before the first game of Coin Pusher is
+- Kidou agreeing to a second game after Hal “loses” the first.
+- Kidou would add a rule to ensure the game must be played to completion.
+- Kidou would use the creamers that Hal secretly provided as dice for the second game.
+- Kidou would make Hal bet money on the second game as well.
+- How Kidou would distribute every single one of the 18 creamers amongst both of them.
+- They would first add the numbers on the creamers used multiplied by 10,000 to decide
+the total amount of money.
+- The entirety of how the second Coin pusher game would unfold, including every single
+creamer Kidou would use.
+- The reactions of the workers and customers of the diner towards the game and the buying
+of creamers.
+- Kidou would mentally break and agree to the deal when the remaining amount of money
+falls to 56M.
+- Kidou would distract Hal by pointing out Gakuhito and take the opportunity to retrieve
+the 72 and discard the 21.
+- Gakuhito would prioritize stopping the weapons deal instead of his secrecy and call for
+backup from the MoD.
+- After Kidou loses everything in coin pusher, he follows Hal to the ship’s location and
+calls his handler to inform him about the situation.
+- The information travels through a chain of command from Kidou to the wirepuller and
+forces him to intercept Gakuhito’s call.
+These are not steps to a logic chain. These are individual conclusions that potentially require
+individual chain of reasoning and inferences.
+As an aside note, this is why Coin Pusher and Battleship should be considered as one singular
+and continuous strategy instead fragmented strategies as it often is in the community. Over half a
+dozen layers of layover tactics and strategic intents are carried from Coin Pusher into Battleship.
+And conversely, one can argue that entirety of Hal’s actions and methodology in Coin Pusher
+was to facilitate the events of battleship. It’s to the point where the vast majority of Hal’s actions
+at the port and on the ship were a direct or an indirect intended result of the outcome of Coin
+Pusher. ✞✞✞
+
+Hal looking into the bridge
+
+✞✞✞
+
+Inferring Lacy’s Trick
+Hal informs Gakuhito that there is a ship on A7, A6, and A5. Gakuhito sinks a cruiser (3x1) ship
+on those squares. Hal now knows for a fact that his indirect manipulation of Mogami worked and
+that any containers with weapons will correspond to a Lacy ship. Hal continues and finds A3,
+A2, and A1 as ships. Gakuhito sinks a destroy (2x1) on A3 and A2. With this, Hal deduces that
+the ship on A1 is most likely a submarine. However, Gakuhito fails to hit a ship on A1. Hal
+knows for sure that there must be a ship on A1, but Lacy has some trick to make Gakuhito
+“miss” a ship when he hits the square it is hidden in.
+Looking back on all the clues Hal has gathered, the weird search Lacy conducted on Gakuhito,
+the adjustable screen heights, the weird shape of the ships, the fact that Gakuhito missed a ship
+that he should’ve sank, all of it points towards the real goal of the game. In this game, it is not
+enough to press the cell where a ship is, but you much touch the ship itself to register a hit. For
+the majority of the ship squares, this would not be a problem, but each ship has a strange shape
+where one of its ends is a triangle-like shape that can be missed. Placing submarines, which are
+1x1 and essentially just a triangle shape, on the top row pointing downwards and adjusting
+Gakuhito’s screen height so that he can barely reach it can cause a miss of this nature to occur.
+Furthermore, this retrospectively explains Lacy’s weird body search. He wasn’t trying to find
+hidden weapons on Gakuhito, as he would’ve easily found the transmitter, rather he was
+ascertaining how high Gakuhito can reach so that he can adjust the height of the screen
+
+accordingly. Which means that Lacy can also adjust the height of the screen mid-game to make
+Gakuhito miss. ✞✞✞
+
+Destroying the Intercom
+This was a major goal of Hal’s ever since Kaji made the proposal to call Kakerou, and many sub-
+schemes across battleships, while serving their own purposes, also build up to this moment.
+Killing the crewmember hounding Kidou and manipulating him into stealing the diamonds were
+done to lure out Voja and a portion of the crew, but it also informed Lacy that there is a
+dangerous intruder on board who isn’t afraid to kill. Using Gakuhito to manipulate Mogami into
+creating the cheating method was to let Lacy realize that the intruder has the capability to make
+him lose in the game, which would cause Lacy to fail the weapons deal and get captured by
+authorities. Hal slowly reveals his position to Lacy through multiple purposefully laid clues.
+
+With the threat of losing crewmates and the fear of being captured, Lacy would have no choice
+but to send his entire crew out of the bridge to find the intruder. Getting everyone out of the
+bridge was the first half, the second half is to prevent Lacy from calling them back. Another goal
+of manipulating Mogami is to get Lacy’s ships placement to bolster the eventual intercom
+message as a credible threat. Without the cheating method from Mogami, Hal wouldn’t have
+anything to inform Gakuhito through the intercom in the first place. Again, Lacy cannot lose the
+game, so he would rather destroy the intercom than risk having Gakuhito hit his ships.

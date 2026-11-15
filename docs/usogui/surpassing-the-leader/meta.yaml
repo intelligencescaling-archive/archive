@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: surpassing-the-leader
+category: doc
+title: Surpassing the leader
+alt_titles:
+- STL(Dominoo)
+authors:
+- name: Domino
+  source: doc-text
+series:
+- usogui
+characters:
+- baku-madarame
+- kiruma-souichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BFhmXgQZy1CxvnT-TNygUaJdOO9mn7E0Nf03j4CHVPc
+    google_id: 1BFhmXgQZy1CxvnT-TNygUaJdOO9mn7E0Nf03j4CHVPc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 61
+    words: 27415
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 26462697
+      sha256: 3c7d52acaff66ec914085c2829f6e04d6ae470a10efd5a449982226c0adb4b3a
+    - format: docx
+      name: document.docx
+      bytes: 25121728
+      sha256: f0a856c65bffc2dd24944c8a045f43c4c822834f0437d7228746d0999c0ef29d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: STL(Dominoo)
+- library: old
+  section: 'USOGUI:'
+  link_text: Surpassing the leader
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Surpassing the leader
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Surpassing the leader
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

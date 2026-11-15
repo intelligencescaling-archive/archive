@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: byakuya-togamis-cpi
+category: doc
+title: Byakuya Togami’s CPI
+alt_titles:
+- Byakuya Togami's CPI
+authors:
+- name: akuya Togami’s CPI
+  source: doc-text
+series:
+- danganronpa
+characters:
+- byakuya-togami
+tags:
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1x8sVTjdEWleNQzmQQtVNgqGRzs1d_-AX-iNS5izEiLI
+    google_id: 1x8sVTjdEWleNQzmQQtVNgqGRzs1d_-AX-iNS5izEiLI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1489
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1734154
+      sha256: e580a335df30d4d0024ae2d00d17c1cb34e4ace31ca4b4fe569162e6ee75ba24
+    - format: docx
+      name: document.docx
+      bytes: 2054665
+      sha256: ecdebf930b69473e103eb80cffd3e3103b867b5e7cc1899a32f020fa80b08d89
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Byakuya Togami's CPI
+- library: remastered
+  section: Danganronpa
+  character: Byakuya Togami
+  link_text: Byakuya Togami’s CPI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

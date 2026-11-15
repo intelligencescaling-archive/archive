@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: friendless-game-strategy-analysis-by-u-economy-echo-8500
+category: doc
+title: Friendless game strategy analysis by u/Economy_Echo_8500
+alt_titles:
+- Yuuichi's Friendless Game Strategy doc
+- Yuuichi's Friendless Game Strategy
+authors:
+- name: Economy_Echo_8500
+  reddit: Economy_Echo_8500
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1kf2yKkX4Ht-BqQBmqFMqiWCtzsnJ4XeBouvMuFqlMdo/edit?usp=drivesdk
+    google_id: 1kf2yKkX4Ht-BqQBmqFMqiWCtzsnJ4XeBouvMuFqlMdo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 45
+    words: 21622
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 20106976
+      sha256: b1b56b53d7d9ce64c4ab7935ad004683fc233d06d897d83c245acca5b44ed3b3
+    - format: docx
+      name: document.docx
+      bytes: 16362033
+      sha256: 1d8fee7acb1958a8850690bb312169c155091c25a25a9460edd6f6621eada3df
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi's Friendless Game Strategy doc
+  note: (by u/Economy_Echo_8500 in Reddit)
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi's Friendless Game Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shu-renjuns-instance
+category: doc
+title: Shu Renjun’s Instance
+alt_titles:
+- Chen Ran's Feats in Shu Renjun Instance
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18mUizS8G_TNwfFZ_-AvNlgi9o6s2aTacEXPoi67VT0E/edit?usp=drivesdk
+    google_id: 18mUizS8G_TNwfFZ_-AvNlgi9o6s2aTacEXPoi67VT0E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 13189
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 515262
+      sha256: 60b9ec4be78639c1778b182554f21d17734be4853a07413c603117f757d7306c
+    - format: docx
+      name: document.docx
+      bytes: 42778
+      sha256: e913b111939e134f8aef05c079fd188fcfda469ee66d7f2d14ef4c47850c7a44
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran's Feats in Shu Renjun Instance
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

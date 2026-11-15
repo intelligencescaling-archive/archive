@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: full-scale
+category: doc
+title: FULL SCALE
+alt_titles:
+- SCD Categories Doc 13
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18ZpgVSspM705yEjqdtYym99ykcfjkQqUVeyEAE_xxLg/edit?tab=t.0#heading=h.br7yxh2j17tw
+    google_id: 18ZpgVSspM705yEjqdtYym99ykcfjkQqUVeyEAE_xxLg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 713
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 132916
+      sha256: 953a696b6afb09965968af4a7b04ca8c919810a48a3dd634be040aab6561b15e
+    - format: docx
+      name: document.docx
+      bytes: 282373
+      sha256: 216ecab95508f880b7353d8dc0f0dffe32b5517d09d7e4403ab3961561ac21ef
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 13
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: isagi-fsiq-jibril
+category: doc
+title: 🧩Isagi FSIQ ⚽️ (Jibril)
+alt_titles:
+- Isagi FSIQ
+authors: []
+series:
+- blue-lock
+characters:
+- yoichi-isagi
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11i81utoHAxalHXIkn_fKC6kvIXbUpxSywEkI8Tym6DE
+    google_id: 11i81utoHAxalHXIkn_fKC6kvIXbUpxSywEkI8Tym6DE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 2518
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5922222
+      sha256: 6b90c7826dce3040ec429722e36001abbc2662c365f20b1e9de0130aee25362f
+    - format: docx
+      name: document.docx
+      bytes: 12192742
+      sha256: aec2f5c2a26480fe54000954c78ef24adf3c4bb2983f83d3446b81e1fe04fe96
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Isagi FSIQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

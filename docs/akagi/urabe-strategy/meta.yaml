@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: urabe-strategy
+category: doc
+title: Urabe Strategy
+alt_titles:
+- Akagi Urabe Strategy
+authors:
+- name: Shoslovelytechred
+  reddit: Shoslovelytechred
+  source: doc-text
+- name: TechMeo
+  source: doc-text
+series:
+- akagi
+characters:
+- shigeru-akagi
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/1/d/18J8s-T_6KCaH6_zoT1ywsLsyTBDM22qVaNjIbBcnOjo/edit?tab=t.0#heading=h.ezqpe5wkuvi7
+    google_id: 18J8s-T_6KCaH6_zoT1ywsLsyTBDM22qVaNjIbBcnOjo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 10069
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1536425
+      sha256: 45a5dae2edc8253adf59f6be3dc0deb015bf0f118efba4a01ede4d0271998624
+    - format: docx
+      name: document.docx
+      bytes: 1058740
+      sha256: 7e3614464ecbf342ef07e1c48d3fd10e04453842a77ada46bf22bd55c7db3d70
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akagi Urabe Strategy
+  note: (new version)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

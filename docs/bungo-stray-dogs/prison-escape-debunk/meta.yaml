@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: prison-escape-debunk
+category: doc
+title: prison escape debunk
+alt_titles:
+- BSD Prison game debunk
+authors: []
+series:
+- bungo-stray-dogs
+characters:
+- dazai-osamu
+- fyodor-dostoevsky
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11HKnpwS8u-Rwug7fzT7hs-xWHbBqOEaRDUYLERkyj3Y
+    google_id: 11HKnpwS8u-Rwug7fzT7hs-xWHbBqOEaRDUYLERkyj3Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 1258
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5904192
+      sha256: 94933450f6e593f9d8c31bb3dc0c2184b282534391cd9f80fd1429f6c795b1c3
+    - format: docx
+      name: document.docx
+      bytes: 5890715
+      sha256: 96e559608be1eb770cfd7c6980c3d9944f889b22d2e48658500810f07d8bdf07
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: BSD Prison game debunk
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Dazai Osamu
+  link_text: prison escape debunk
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Fyodor Dostoevsky
+  link_text: prison escape debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

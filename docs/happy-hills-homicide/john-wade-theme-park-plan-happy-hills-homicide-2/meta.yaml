@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-wade-theme-park-plan-happy-hills-homicide-2
+category: doc
+title: John Wade Theme Park Plan (Happy Hills Homicide 2)
+alt_titles:
+- John Wade Theme Park Plan
+authors: []
+series:
+- happy-hills-homicide
+characters:
+- john-wade
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1lmCHND4Wt2ZyvX47OzKl2yFfQyNHiwxMs02fp5xlOMU/edit?usp=drivesdk
+    google_id: 1lmCHND4Wt2ZyvX47OzKl2yFfQyNHiwxMs02fp5xlOMU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3625
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 300874
+      sha256: 41bbd035294c060cc0db9eac5d3372394259ea98621aa6c37884268ab27385e8
+    - format: docx
+      name: document.docx
+      bytes: 377807
+      sha256: 5ffa20cd4d7ec7846ff9f7413c4fd0f0746273123b860cdf57121626b27c49f7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: John Wade Theme Park Plan
+  note: (Happy Hills Homicide 2)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

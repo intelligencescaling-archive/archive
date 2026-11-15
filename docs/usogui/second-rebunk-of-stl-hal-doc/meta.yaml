@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: second-rebunk-of-stl-hal-doc
+category: doc
+title: Second Rebunk of STL Hal doc
+alt_titles:
+- Hal rebunk 2
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1TeC88ftBXWhn7f1lNmovRBYlKsWMeMbID77vnNOeszo
+    google_id: 1TeC88ftBXWhn7f1lNmovRBYlKsWMeMbID77vnNOeszo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 131
+    words: 10254
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 76193704
+      sha256: 2ccb67770ae08019c6a831bfcdc69e2e70a302d88dc32756fe8fd7fd272b938f
+    - format: docx
+      name: document.docx
+      bytes: 67535689
+      sha256: 26151249ebfabda1c5a553b28fd7dd8d547f9cef21a32681463d0eefe4b46c9b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Hal rebunk 2
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Second Rebunk of STL Hal doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagito-theory
+category: doc
+title: Nagito Theory
+authors:
+- name: Shin
+  source: doc-text
+series:
+- danganronpa
+characters:
+- nagito-komaeda
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1I5j0wDvcmy0lkXpSETbyIr8uRWLUxYDo1gJJiu7sg5U
+    google_id: 1I5j0wDvcmy0lkXpSETbyIr8uRWLUxYDo1gJJiu7sg5U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1109
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 189549
+      sha256: 5436965efd5ea32dcae84f1a20f2ea0f0e46f069839fb17ebaabdff90284e972
+    - format: docx
+      name: document.docx
+      bytes: 1553357
+      sha256: 53ae0b696299bb09ab6b9f36e5d07e90550f68b7ad2118c5fa7bf3bdd4130e24
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Nagito Theory
+- library: remastered
+  section: Danganronpa
+  character: Nagito Komaeda
+  link_text: Nagito Theory
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

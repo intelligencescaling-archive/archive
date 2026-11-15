@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: honami-ichinose-simplified-game-theory-explanations
+category: doc
+title: Honami Ichinose - Simplified Game Theory Explanations
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- ichinose-honami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Pq0X04jZg10cZR79C15fEC1EQ97gUohMSRey7F-I8qs/edit?tab=t.0
+    google_id: 1Pq0X04jZg10cZR79C15fEC1EQ97gUohMSRey7F-I8qs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1178
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 91858
+      sha256: fd0398b5e6325461981c837d77afa4fe06999bd9e1f42fb730684515393d3f3d
+    - format: docx
+      name: document.docx
+      bytes: 983439
+      sha256: 52d4f73497a8d74a7cb8301a9f1c2f7e56a3802c3aad63f7266ef18cbc5f712e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Classroom of the Elite
+  character: Ichinose Honami
+  link_text: Honami Ichinose - Simplified Game Theory Explanations
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

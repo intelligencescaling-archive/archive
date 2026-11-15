@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: otto-apocalyspe-debunk
+category: doc
+title: Otto Apocalyspe debunk
+alt_titles:
+- Otto Apocalypse Debunk
+authors: []
+series:
+- honkai-impact-3rd
+characters:
+- otto-apocalypse
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1XpBLYTBEs02Wu1P3vtTiUKnXLtBNm5i6P7HP_m1BxZI/edit?tab=t.0#heading=h.a3bf3et0ruvc
+    google_id: 1XpBLYTBEs02Wu1P3vtTiUKnXLtBNm5i6P7HP_m1BxZI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 44
+    words: 6535
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 420963
+      sha256: 5eea64e65cfb9f7958541529f2ee731f27f7fb24470bef2f7a42ef7869d64fa3
+    - format: docx
+      name: document.docx
+      bytes: 1377846
+      sha256: 4e490849f76f87aad9decf92a1d1026b892a719ccfde8c2c7a5a7618daa38440
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Otto Apocalypse Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

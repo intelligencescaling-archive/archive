@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-s-double-culprit-debunk
+category: doc
+title: Kanade's Double Culprit Debunk
+alt_titles:
+- Kanade double culprit strategy debunk
+- Kanade’s Double Culprit Debunk
+authors: []
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- strategy
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1LVSDlBdOrLvD4jsjkBtzgltyRulHw6cetm010HZQfD4
+    google_id: 1LVSDlBdOrLvD4jsjkBtzgltyRulHw6cetm010HZQfD4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 4129
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 23654476
+      sha256: a9b473122e9a925d051e3c97e3b979ac6a31ab197d91266fd4dc6f16d795cc30
+    - format: docx
+      name: document.docx
+      bytes: 19940599
+      sha256: 5ecaca91c5375ea951be9fec116ec959f685fafb93f3f7df3269568e98fbd11c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Kanade double culprit strategy debunk
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Kanade Double Culprit Strategy Debunk
+- library: remastered
+  section: Danganronpa
+  character: Kanade Otonokoji
+  link_text: Kanade’s Double Culprit Debunk
+- library: remastered
+  section: Danganronpa
+  character: Kanade Otonokoji
+  link_text: Kanade Double Culprit Strategy Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

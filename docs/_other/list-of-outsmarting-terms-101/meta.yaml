@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: list-of-outsmarting-terms-101
+category: doc
+title: List Of Outsmarting Terms 101
+alt_titles:
+- SCD Categories Doc 10
+authors:
+- name: Zz11xr
+  source: doc-text
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ljpK9JLiIDdXXy4lDXvzIxWJZXm9lb3uxLCKj5XIwns
+    google_id: 1ljpK9JLiIDdXXy4lDXvzIxWJZXm9lb3uxLCKj5XIwns
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 7044
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 376808
+      sha256: 34e92af0b2fb05e8d9eb2ab2a0f8287c191e8c4aee1e41daa8764bcd0d9587c2
+    - format: docx
+      name: document.docx
+      bytes: 358930
+      sha256: 10db5e386eb6cad4dcfcc88db0d5e3638ba4e316a875371a57ebbb7a37ac23b4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 10
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

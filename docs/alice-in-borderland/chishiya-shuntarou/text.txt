@@ -1,0 +1,343 @@
+This is a docs thread for Chishiya Shuntarou (from the Alice in Borderland manga version). Currently, it only includes the main games in which Chishiya appears. It's recommended that everyone read the full rule version linked at the top to fully understand the context.
+  A) Six of Diamonds - Blackjack
+On Chishiya’s first day in Borderland, the first game he faced was Blackjack. This was almost certain death for Chishiya because:
+1. He didn’t yet understand the core rule of Borderland, that losing means death.
+2. He had no knowledge of Blackjack and had never played it before.
+3. His opponents were four experienced players with advanced tricks up their sleeves.
+4. The starting number of chips was based on the remaining hours on one's Visa. Chishiya only had 5 chips (extremely few compared to the others) since it was his first day, and he hadn’t played any games yet to extend his Visa.
+Despite these clear disadvantages, Chishiya remained calm and composed while silently focusing on adapting to the game as quickly as possible.=> AQ
+In the first round with the first dealer, Chishiya took the opportunity to learn the basic definitions of the Blackjack-specific terms mentioned in the rule sheet, terms he had never encountered before (hit, stand, split, double down…). He then quickly grasped the core of Blackjack: that as a Player, your fundamental task is to bet against the Dealer's potential to 'beat' you (*)=> Adaptability, FRI, Analysis
+After just a few rounds of grasping the basics, Chishiya began steadily increasing his number of tokens, which made a few other players suspicious. In reality, this was because Chishiya had developed a rudimentary card-counting method based on his earlier observations, which helped boost his chances of winning during his turns as a Player.
+This method divides the deck into two groups:
+* 2 to 8 (Low Group, Advantageous for the Dealer)
+9 to Ace (High Group, Advantageous for the Player)
+The foundation of this method lies in the fact that the Dealer does not have the option to Stand and is forced to Hit until reaching 17(*). Therefore, the probability of busting increases if the undealt cards contain many high-value cards. Conversely, if the Player chooses to Stand and the remaining undealt cards contain mostly low-value cards, the Dealer’s bust rate drops, while the Player's score stays moderate.
+There are 24 cards in the High Group. We can define a temporary ratio called X, which equals the number of undealt cards divided by the number of High Group cards remaining. At the start of the game, this is 52/24 ≈ 2.17 (this is the standard/initial X value). During the match, by observing the cards already played, Chishiya could estimate the composition of the remaining deck:
+   * If X > 2.17, it means High Group cards have decreased, so the proportion of Low Group cards has increased. → The deck is becoming more favorable for the Dealer → The Player should lower their bet.
+   * If X < 2.17, it means the number of High Group cards remains relatively high while the overall undealt deck has shrunk → the proportion of Low Group cards has dropped → the deck is becoming unfavorable for the Dealer → the Player should raise their bet.
+=> more Adaptability, Logical thinking, Analysis, Strategy, WMI, PSI, Maths Knowledge
+Why Aces are considered advantageous for the Player:
+There are two main scenarios:
+   1. Ace dealt as one of the first two cards:
+Only the Player side can score a Blackjack, so besides being able to count the Ace as 1 or 11, the Player has a relatively high chance that the other card is worth 10 (four 10s and twelve face cards), resulting in an automatic win with a 2x payout regardless of the Dealer’s hand.
+Meanwhile, even if the Dealer gets a similar starting hand, they don’t benefit from the special Blackjack rule, and the Ace is simply counted as 1 or 11.
+   2. Ace drawn during additional hits:
+Even if the Dealer chooses to count Ace = 1 to avoid busting, the Player can do the same. The key difference is that the Player has much more flexibility in Blackjack. They can Stand at any time, whereas the Dealer is forced to Hit until they reach 17 and then must stop.
+This means that if both sides count Ace = 1:
+      * The Dealer increases the risk of busting with any additional draw (since their total has already increased by 1).
+      * If they reach 17, they must stop there; the safest outcome is only 17 points.
+The Player, on the other hand, gets a guaranteed +1 boost to their total with the Ace, and can still decide whether to Hit or Stand based on visible cards and card-counting strategy.
+In Round 2, the other players began showing off their tricks:
+         * The first Dealer casually tossed 3 cards, Jack of Spades, Queen of Hearts, and King of Diamonds, from the undealt pile to the discard pile, secretly lowering the number of High cards (which would normally disadvantage the Dealer).
+→ Chishiya noticed this because the Dealer only dealt 49 cards in total, and those three High cards weren’t seen in play. Based on this and the man’s sleight-of-hand, Chishiya deduced he was likely a magician-type.
+         * The next player, a woman, marked cards using her fingernails.
+         * The third one used two tricks combined:
+            * A ring to reflect and see the next card,
+Then used a technique to deal the second card from the top based on that information.
+→ Chishiya observed everything clearly and casually called them “pathetic circus tricks. => Observation, Cold Reading, WMI
+Chishiya then decided to eliminate the guy using two tricks.
+First, he subtly pressured the man into taking off his ring, which disrupted one of his cheating methods. This irritated the man, but he secretly felt smug, thinking he had other tricks to fall back on, and underestimated Chishiya, believing he had seen through everything (though it’s implied that Chishiya saw even that coming).
+Chishiya then placed a small bet of just 1 chip, which was meant to provoke the man. As expected, the man, already annoyed with Chishiya, began boasting about his luck and tried to taunt Chishiya by saying something like, “What, scared? Bet more!”
+What he didn’t expect was that this very comment would draw the attention of the other Player-side participants to the time limit of the game. This led the sunglasses guy to significantly raise his bet to try and eliminate the Dealer, forcing the game to progress faster.
+The two-trick man started to feel the pressure, and it only escalated when all the Player-side participants chose to Stand, putting him in a corner. He was forced to cheat to avoid busting (and dying).
+But facing a life-or-death situation, the natural stress overwhelmed him, and his dexterity faltered. Right at that moment, the man with sunglasses spoke up, telling a story eerily similar to the two-trick man’s current situation, and how that person met a tragic end.
+This psychological blow shattered the two-trick man’s composure. He failed to execute his sleight-of-hand and drew a face card, busting, and died.
+→ Here, Chishiya’s seemingly casual actions were actually strategic psychological manipulation designed to stir resentment toward the two-trick man. When he bet only 1 chip, the man couldn’t help but taunt him, saying something like “What, scared to bet more?”
+That taunt, in turn, alerted the other players that the game had been dragging on too long and needed to move forward, causing them to band together and pressure and eliminate the two-trick man.=> Indirect, Mass Manipulation
+When it was Chishiya’s turn to be the Dealer, it was only natural that he became the next target of the very trend he had indirectly created.
+At one point, when most of the Low-group cards had already been used (meaning the unused deck now mainly contained High cards, which is a serious disadvantage for the Dealer), the sunglasses guy used the same strategy as before, betting an amount equivalent to Chishiya’s total chips, aiming to finish him off in one move.
+Everyone assumed Chishiya would be the next to die. But suddenly, Chishiya extended his right arm and said something along the lines of “I’m in trouble if this isn’t a low card… This is my good luck ritual.”
+In truth, while everyone was distracted by his sudden motion and comment, his left hand, which was holding the deck, had quickly flipped the used and unused decks, swapping them. So the deck that had mostly Low cards (favorable for the Dealer) became the active draw pile, and vice versa.
+As a result, when Chishiya drew, he got a Low card, avoided busting, and even hit 21, winning the round and sweeping the table.=> Cunning, Misdirection, Luck
+*Plot: After seeing through the magician’s cheating tricks, the man with sunglasses revealed his own hand: he was a professional card mechanic with master-level skills, easily outclassing the two amateurs, the old lady and Chishiya. Therefore, when it was his turn to be the Dealer, they would have no chance of winning. And when it was their turn to be the Dealer, they wouldn’t be able to pull any tricks under his sharp gaze.
+Chishiya, realizing the skill level of a real card mechanic, concluded that he couldn’t win by playing within the rules, so he decided to go a bit outside them.
+After speculating that the man with sunglasses might be hiding a card up his sleeve, he glanced at the old lady, silently consulting her about his upcoming plan. She gave a subtle signal of agreement.
+Chishiya then intentionally crumpled a card in front of the other two, triggering the system that unlocks the punishment gun box whenever a player is caught cheating. The only person left who could wield the gun (since the man with sunglasses had already used it on the magician) was the old lady.
+To everyone's surprise, she didn’t shoot Chishiya; instead, she turned the gun on the man with sunglasses and fired.
+And sure enough, a hidden card was revealed from his sleeve. Chishiya then helped ease her guilt by pointing out that the man really was cheating, and she did the right thing.
+In reality, her decision made sense: if the man with sunglasses were allowed to live, even if she managed to beat Chishiya afterward, she would still lose the game overall. So this was the only move that gave her a small chance of victory, though it left her in a severely disadvantaged position; she now had no power to stop Chishiya from cheating, meaning if he were the Dealer, her loss was almost certain.
+Part of why she agreed so readily was because she had earlier confided that the man reminded her of her ex-husband, a type of man she despised most. Chishiya had noted this detail before making his move.
+ => Adaptability, Negotiation, Psychological Understanding, Emotional Perception, Creativity, Tactics
+In the final round, both the old lady and Chishiya went all-in, and Chishiya, being the luckier one, won the game. As a reward, Chishiya received the single-bullet gun that hadn’t been used from his box and took it with him.
+B) Five of Spades - Tag
+As soon as the game began, Chishiya immediately moved to the highest floor in the southern section of the building because he had quickly analyzed that the starting position was the key element in this game.
+His reasoning was that since “It” could emerge from anywhere within the building, choosing the highest floor, specifically, his chosen position, would provide the broadest field of vision. Chishiya had already deduced that the building layout was shaped like an “L,” which meant his position could oversee all other sections except the area directly below, as the number of blind spots caused by the hallways was minimal from that vantage point.
+Additionally, this was also the most flexible position for escaping, because:
+               * If “It” came up to the 9th floor, he could escape by running down the southern staircase.
+               * If “It” was climbing the southern staircase, players would easily hear it and have enough time to rush down the central staircase.
+→ Visibility was the advantage in this game, and with that starting point, Chishiya put himself in a low-risk position while gaining the most information out of all the players for most of the game. => Analysis, Strategy, PRI/VSI, Fast Thinking
+Chishiya guessed that "It" emerged from the Safe Zone. And since the system had already announced "It" had appeared, but he still hadn't seen it, Chishiya was able to narrow down the possible location of the Safe Zone to the lower floors of the southern section. This deduction was also made possible thanks to his optimal position, which allowed him to observe all the other areas of the building. => Deduction, Intuition
+When Arisu and Karube tried to urge everyone to shout out "Its" location if they saw it, the idea was to help other players avoid a direct encounter. This teamwork-based strategy, in theory, would significantly reduce casualties. However, Chishiya fully understood that it would only work if all the players cooperated, and he was well aware that humans are inherently selfish creatures. When it comes to life and death, there’s no way people would risk their own lives to help others like that. He also clearly grasped how the players would think and decide in such a situation, so Chishiya knew the chances of this plan succeeding were extremely low. => Emotional Understanding
+When a group of players planned to hunt down "It," Chishiya immediately recognized it as a foolish idea because it went completely against the nature of the game designed by the system: Tag (a chase game) ,which inherently means one side is the pursuer. In this case, the designated hunter was clearly "It." Therefore, trying to reverse that role and go against the rules was ultimately pointless. And reality proved Chishiya right: "It" wasn’t just armed with one but multiple MAC-10s, and the players who naively tried to become the hunters themselves paid for it with their lives. => Prediction
+Near the end of the game, while reflecting to figure out the location of the Safe Zone, Arisu recalled a moment from mid-game: two players running in the hallway on the 4th floor of the West wing were fired upon in a full burst by "It," who was positioned on the 4th floor of the South wing. Arisu found this very strange because the chance of hitting players accurately with a MAC-10 from that distance was nearly zero, and spraying that much was simply a waste of bullets → This meant "It" wasn’t trying to kill the players, but rather to scare them away from that area → "It" was trying to protect something from the players, which could only be the Safe Zone → The Safe Zone was a room along the 4th floor hallway in the West wing.
+Later, it’s revealed that Chishiya had actually come to the same conclusion much earlier. => Abduction
+Near the end of the game, Chishiya made the decision to leave his safe position and head down with the pistol he had obtained from the 6 of Diamonds game to shoot “It” in order to save Karube, who was on the verge of death. The real reason Chishiya chose to take such a risk was because he had evaluated Karube as a strong “horse”, and Chishiya was simply placing a bet on this horse → Saving Karube was his way of laying the groundwork for a long-term alliance, as Chishiya clearly understood that some of the Borderland games aren’t the kind one can survive alone, no matter how strong they are.
+Afterward, Chishiya subtly suggested to Karube to look for the radio of a taxi, which would later lead Arisu’s group to discover the “Beach”, the place where Chishiya himself was staying at that time → Chishiya dropped this hint so that Karube would naturally find his way to the Beach, and when they met again, there would likely be a sense of gratitude, making Karube more likely to serve as the “good horse” Chishiya could use for his future plans (confirmed when Chishiya reunites with Arisu at the Beach). => Foresight, Planning
+Here, before giving his suggestion, Chishiya answered Karube’s question about the origin of the Borderland in a deliberately vague and mysterious way, creating an enigmatic aura that appealed to the curiosity and desperation of new players. So when Chishiya eventually gave his hint, it would subconsciously leave a strong impression on Karube, making him more likely to remember it later, indirectly guiding them toward the “Beach.” => Minor Manipulation
+After the game ended, Chishiya approached the body of “It,” and just as he had predicted, “It” was also a player. Chishiya collected the playing cards from the corpse, having already taken the opportunity to gather the cards of the other unfortunate players during the game. It seems that Chishiya does this in every game he participates in (as implied by the phrase “Not the best haul”, maybe because he got more in other games), allowing him to accumulate a large number of cards. His goal was to donate them to the “Beach” in order to raise his rank there. By becoming a high-ranking member, he could gain closer access to the leadership of the Beach and obtain critical information to support his future plans. => Planning, Tactics
+C) Beach
+On Arisu’s first night at the Beach, nearly everyone there had become like fanatical followers serving No.1, the Hatter. Arisu remained clear-headed despite the Hatter’s seductive words and the fiery energy of the crowd, seeing it all as a tragedy. Chishiya, likewise, was completely unaffected by the atmosphere. And when he noticed that Arisu was the same, he immediately recognized the potential to use him in his plan to betray the Beach. => Perception, Seeing Through Deception/Mass Manipulation, Foresight
+The very next afternoon, when Arisu discovered the pit filled with the bodies of so-called traitors, he was disgusted by the sight. Chishiya chose that moment to approach him, perfect timing. Thanks to saving Karube during the Five of Spades game, Chishiya had already earned a certain level of trust from Arisu. He and Kuina then began speaking about the extremism of the Beach, which only appeared to be a paradise on the surface, something that strongly resonated with Arisu’s own thoughts at that moment.
+After confirming that Arisu was beginning to harbor rebellious thoughts, Chishiya sealed the conversation with one final question: what was the most important thing to him in the Borderland? Arisu answered that it was to make Usagi the No.1. Chishiya then used that very answer to point out that it was an unrealistic dream in a place like this; in other words, the only way was to destroy the current system.
+Chishiya had skillfully guided the conversation, subtly aligning his own plan with Arisu’s personal goal, which significantly increased the likelihood that Arisu would be willing to hear out his bold proposal. => Emotional Perception, Emotional Engagement, Persuasion, VCI
+Chishiya’s plan, which he presented to Arisu, was to steal all of Hatter’s playing cards in order to escape from the Borderland. After Hatter’s death, Chishiya had become No.9, entering the ranks of the Executive Committee, which allowed him to access important information about the power transfer process.
+He explained that he would handle the password, but that someone else needed to break into Agni’s room (the new No.1) to find the safe and unlock it based on Chishiya’s instructions. The reason someone other than Chishiya had to go was because he was the only one in their group of four (Arisu, Usagi, Chishiya, Kuina) who held a position within the executive ranks. Only he could stay close enough to monitor and intervene in the movements of Agni’s faction, and guide the infiltrator from outside to avoid capture.
+When Usagi expressed doubts due to the risks, Chishiya bluntly laid out their current situation, pressing on Arisu and Usagi’s psyche by pointing out that, after causing trouble with Agni’s now-ruling faction, they had no other choice. They couldn’t expect to live peacefully from this point on, so they had to act.
+ => more Planning, Persuasion
+On the day of the operation, everything went according to plan. Arisu easily infiltrated Agni’s room because, just as Chishiya had explained, none of the rooms at the Beach were locked (since it would be troublesome if someone died while holding the key).
+Chishiya continued to guide Arisu via radio. He had already deduced the password to the safe. When Agni opened the envelope containing the password left by the previous No.1, Chishiya noticed a brief flicker of confusion on his face, like he hadn’t seen what he expected → meaning the paper was likely blank. Given the bizarre nature of the Hatter, it was highly probable that he’d played a psychological trick: making everyone assume the password would be written on the paper, while in fact, it had been printed right on the envelope itself in the form of the word “BOSS.” (anchoring bias) → 8055 => Prediction, Observation/Emotional Perception, Deduction, Seeing Through Manipulation
+The password Arisu entered into the safe turned out to be incorrect. At this point, it was revealed that the entire plan Chishiya had presented to Arisu’s group was only a small part of his true strategy.
+In reality, Chishiya already knew that the password “8055” was correct, but the real safe wasn’t something that could be found so easily. Knowing the Hatter’s personality, Chishiya was certain that the one Arisu found quickly couldn’t possibly be the real one. So, to uncover the true location of the safe, Chishiya meticulously constructed a multi-layered plan, where the version he gave to Arisu was just a decoy. His real objective was to use Arisu as a sacrificial pawn → he betrayed Arisu by secretly informing Agni in advance.
+When Agni arrived and saw that the real safe hadn’t been tampered with, he instinctively glanced at it in relief, thus revealing its true location: behind the painting of a deer. In this final twist, Chishiya even deceived Agni, who thought this setup proved Chishiya’s loyalty, when in fact, Chishiya was merely using him to pinpoint the real safe’s location. => Multi-layered Planning, Setting Traps, Deception, Cunning, Observation, Psychological Understanding
+When Arisu was caught by the group, he got beaten badly and was so shocked that he couldn’t say anything about Chishiya (and even if he had, no one would’ve believed him after being caught red-handed like that). Chishiya had already thrown the walkie-talkie into a random corner earlier, completely distancing himself from any connection to Arisu.=> Anticipation
+Chishiya then returned to inform Kuina and Usagi that the plan had failed, pretending to blame himself for not being able to monitor Agni’s every move. The two didn’t really hold it against him, since all four of them had understood from the beginning that it was a high-risk plan. => more Deception, Acting Skills
+That night, Kuina went to confront Chishiya after realizing he had approached Arisu from the start with the intention of using him as a scapegoat, planning to pin the role of accomplice on Usagi, and that even Kuina herself was just a potential backup. Chishiya stated plainly that using everything at his disposal to survive was only natural.=> more Cunning
+D) Ten of Hearts - Witch Hunt
+*Plot: Chishiya tried throwing his name tag out of the Beach hotel, and it was instantly struck by a laser. The worst-case scenario had happened; the Beach had become the stage for the game of Ten of Hearts, and Chishiya was unwillingly dragged into it.
+After some time had passed since the game began, Chishiya decided he needed a weapon to survive against the Militants amid the chaos. He entered a room cluttered with all sorts of random objects. Despite the mess, Chishiya quickly identified three useful items: a water gun, a lighter, and a bottle of liquid fuel. He taped the lighter to the nozzle of the water gun and filled the gun with the fuel → A makeshift flamethrower was ready. => Observation, Creativity
+Chishiya came face-to-face with Niragi, the cunning sniper, someone he already deeply disliked, and the feeling was mutual. Chishiya admitted that today had been a frustrating mess, full of unwanted events, and even he was feeling unusually irritated. At this point, he simply wanted to find the most annoying person around and unload on them to clear his mind.
+Chishiya went straight to Niragi because he knew Niragi would come for him anyway, so it was better to take the initiative with a prepared plan. They were about 10 meters apart when, right after some small talk, Chishiya charged forward. Just as Niragi was about to pull the trigger, Chishiya pulled out and tossed into the air a stack of playing cards, the ones he had stolen from Agni’s place. This threw Niragi off, flooding his mind with questions like how the hell Chishiya got those.
+While Niragi was momentarily distracted trying to aim again, Chishiya had already closed much of the distance. As Niragi was about to shoot once more, Chishiya pulled out his homemade flamethrower, which caught Niragi off guard just long enough; that was all Chishiya needed. He had calculated the range precisely and set Niragi ablaze with a fiery blast.
+Afterward, Chishiya quoted a line reflecting how burning Niragi alive had cooled his rage and satisfied a personal grudge. => Combat IQ, Strategy, Emotional Engagement
+Near the end of the game, Chishiya shared that he had never truly believed these playing cards held any real meaning, which partly explained why he had been bold enough to use them so casually, just to take down Niragi. => Intuition
+E) King of Diamonds - Beauty Contest
+The moment he heard the fundamental theory of the game, Chishiya immediately identified that the core of this game was to read the rationality behind the opponent's choices, rather than relying on psychology like in card games or gambling. Reality later proved Chishiya’s assessment correct; the key was understanding how far the opponent could logically calculate. => Analysis
+In round 4, the old mathematician was predicted by Chishiya to be eliminated early, because being overly logical would prevent him from accounting for unpredictable variables like Daimon. => more Foresight, Analysis
+In round 5, Chishiya demonstrated his understanding of concepts like the Nash equilibrium, bounded rationality, and recursive choice. Naturally, he also knew that the thinking patterns of the Securities analyst and the old mathematician were closely tied to those theories, which explained the outcomes from the start of the game. As he had analyzed, clinging too rigidly to such theories would only lead to the downfall of all players. So, Chishiya chose 100, a number that literally couldn’t win (since 0.8 times the maximum total would only reach 80 at most), to help Daimon win that round, because he knew she would pick a number that deviated from conventional logic.
+→ Chishiya managed to play within the theoretical framework (recognizing the game had reached a Nash equilibrium where most leaned toward 0) while also factoring in the unpredictable variable, Daimon, to pick 100 and enable her victory. => Knowledge, Logical Thinking, Lateral Thinking/Analysis
+The reason why Chishiya did that was revealed in round 6, when Daimon chose 100 to pull the average closer to the number Chishiya had picked. He understood that, due to her profession as a loan shark, the idea of “give and take” is a fundamental aspect of her sense of rationality. This was a strategy to earn points through different means, not relying purely on logic, but through intentional cooperation. This also simultaneously reduced some of the opening dominance of the King of Diamonds in the game. => Psychological Understanding, Adaptability, Creativity, Tactics/Strategy
+In round 7, Chishiya once again chose 100 to help Daimon win the round.
+In round 8, it seemed like Daimon would pick 100 again to maintain the “give and take” dynamic, but she flipped the script and chose 10 instead, saying that continuing the favor would be too noble. Ironically, this unexpected move completely broke the calculations of the mathematician and the finance guy, who both assumed she would stick with 100.
+The only two people who had foreseen this were Chishiya and the King of Diamonds, who had adapted after a few rounds of observing Chishiya’s pattern of choosing 100, as he too had anticipated the emergence of this type of strategy. Here, Chishiya reaffirmed that his bold “sacrifice” play in round 5 was the only way to break the deadlock of the Nash equilibrium. He understood that without someone willing to be the first to disrupt the pattern, no one would have the courage to make such a move, even if it meant everyone would die together. => Mind Reading, Anticipation, Analysis
+*Plot: In round 10, two players were eliminated, and two new rules were introduced.
+One of the new rules was: “Should two or more players select the same number, the pick is invalidated.”
+From this, Chishiya immediately deduced that the Nash equilibrium state (where everyone was gradually converging toward zero) would no longer be viable from this point on. => Logical Reasoning
+After the new rule was announced, even Daimon (the dumbest one) was able to reason that:
+               * 0 used to be a strong number because it could pull the average total down and also aligned well with the way the target number was calculated (i.e., multiplied by 0.8). In technical terms, 0 was the peak point of the Nash equilibrium state (though Daimon only understood this in a beginner’s sense). But now, because of the “no duplicate number” rule, the risk of two people choosing 0 at the same time makes it unreliable as a core strategy (which is also Chishiya’s conclusion).
+               * 1 is now also a strong number because it allows the player to win, as long as one person picks 0 and the other picks any number except 1. But of course, this also carries the risk of duplication.
+               * Thanks to the duplication risk associated with these two hot picks (0 and 1), a third option arises: the numbers from 2 to 100. All numbers in this range now play the same role: they can secure a win if the other two players happen to choose the high-risk "strong" numbers (0 and 1).
+→ Conclusion: At this point, the game essentially turns into a rock-paper-scissors between 0, 1, and 2–100.
+That preliminary conclusion alone wasn’t enough, so Daimon decided to break down each possible scenario in more detail. Below is the detailed explanation behind the table Daimon inferred:
+Let “Other” represent all numbers from 2 to 100.
+Let A, B, and C be the three players. A(x)/B(x)/C(x) means player A/B/C chooses number x, with x ∈ {0, 1, Other}.
+For example, C(1) means player C chooses number 1.
+Now, assume you are player A. We’ll analyze things purely from A’s perspective and only in terms of probability/value.
+The number of combinations for each case A chooses = the combinations of B(0), B(1), B(k) and C(0), C(1), C(k) = 3² = 9 combinations.
+Note: Since this is the phase where we analyze which of the three choices,0, 1, or Other, is the most optimal, we assume that each option has an equal probability of being chosen. Let’s analyze player A’s three possible choices:
+A chooses “Other” – A(k):
+Scenario 1 (Combo Group 1):
+B and C both pick either 0 or 1, and they match → A always wins.
+               * B(0), C(0)
+               * B(1), C(1)
+Scenario 2:
+B and C both pick either 0 or 1, and they pick differently. → A always loses.
+               * B(0), C(1)
+               * B(1), C(0)
+Scenario 3:
+Both B and C choose numbers from the “Other” group.
+               * B(k), C(k)
+The outcomes:
+                  * B(k) = C(k) ≠ A(k) → A wins
+                  * A(k) = B(k) ≠ C(k) → A loses
+                  * A(k) = C(k) ≠ B(k) → A loses
+                  * A(k) = B(k) = C(k) → Tie/all lose
+                  * A(k) ≠ B(k) ≠ C(k) → If A(k) is the smallest, A wins
+→ Because the chance of two players choosing the same number from 2–100 is negligible (1/99²), we can ignore overlap in the “Other” group. Thus, only the highlighted red case is likely.
+→ In that case, choosing A(2) is the best strategy, as it's the smallest number in the “Other” group, giving A the highest chance of being the lowest number.
+Scenario 4:
+Only B or C picks from “Other”:
+                  * B(k), C(0) → If A(k) < B(k), A wins
+A(k) ≠ B(k) → A(k) < B(k), A win
+A(k) = B(k) → A loses (Negligible probability)
+                  * B(k), C(1) → If A(k) < B(k), A wins
+                  * B(0), C(k) → If A(k) < C(k), A wins
+                  * B(1), C(k) → If A(k) < C(k), A wins
+→ In all 4 cases, A(2) almost guarantees a win.
+✅ Conclusion: Among all “Other” numbers, A(2) is statistically the best. So from here on, we simplify by treating “Other” = 2.
+Theoretically: A(2) wins in:
+Scenario 1 (2 wins) + Scenario 3 (1 win) + Scenario 4 (4 wins) = ~7 out of 9 combinations → Approx. 77.7% win rate
+A chooses 1 – A(1):
+Scenario 1:
+                  * B(0), C(0) → A wins
+                  * B(1), C(1) → Tie/all lose
+Scenario 2:
+                  * B(0), C(1)
+                  * B(1), C(0) → A loses in both
+Scenario 3:
+                  * B(2), C(2) → A wins
+Scenario 4:
+                  * B(2), C(0) → A wins
+                  * B(2), C(1) → A loses
+                  * B(0), C(2) → A wins
+                  * B(1), C(2) → A loses
+✅ Conclusion: A(1) wins in 4/9 combinations → ~44.4% win rate
+A chooses 0 – A(0):
+Scenario 1:
+                  * B(0), C(0) → Tie/all lose
+                  * B(1), C(1) → A wins
+Scenario 2:
+                  * B(0), C(1)
+                  * B(1), C(0) → A loses both
+Scenario 3:
+                  * B(2), C(2) → A wins
+Scenario 4:
+                  * B(2), C(0)
+                  * B(2), C(1)
+                  * B(0), C(2)
+                  * B(1), C(2) → A loses all
+✅ Conclusion: A(0) wins in 2/9 combinations → ~22.2% win rate
+At this point, the reader might notice a logical inconsistency:
+77.7% + 44.4% + 22.2% = over 100%.
+In the story, Daimon also noticed this and clarified:
+In reality, even though choosing “Other” (specifically 2) seems dominant, if everyone thinks the same way and picks 2, then A can only win in Scenario 1 → only 2/9 combos, i.e., ~22.2%
+Side Note:
+There’s one more combination where all 3 players choose the same number → 1/9
+→ Probability: ~11.1%
+Final total:
+77.7% + 44.4% + 22.2% + 11.1% = 100% ✅ Makes complete sense.
+Final Insight:
+From all this, Daimon concluded that 1 is the best overall option out of the 3 (since 44.4% > 22.2%).
+But she also reasoned that Chishiya and King of Diamonds would’ve thought through all of this as well, and so they'd avoid picking 1 because it’s the “obvious” best choice and could lead to duplicates.
+→ Yet based on the analysis, the number 1 only loses when someone else also picks 1, and wins in all other cases. → So she still decided to pick 1.
+However, in Round 11, all three players picked 1 and lost points.
+This proved that Chishiya and the King of Diamonds had gone through the same mental process and reached the same conclusion as Daimon.
+But Chishiya and King of Diamonds had an advantage: during the precious few minutes of thinking time, they also engaged in a direct exchange of ideas, pushing each other further in reasoning.
+Additional proof that Chishiya operated on this mental level:
+In Round 13, after another new rule was introduced, Chishiya immediately realized the game had turned into a pure rock-paper-scissors dynamic between 0, 1, and 100, and that there was no longer any reason to pick between 2–99.
+→ This confirms that Chishiya’s line of thought in Round 11 mirrored Daimon’s detailed analysis above.
+=> PSI, WMI, Adaptability, Logical Thinking, Reflective Thinking, Reasoning, Analysis, Anticipation
+In Round 12, the scores of Chishiya, the King of Diamonds, and Daimon were -9, -5, and -8.
+Daimon analyzed the situation as follows:
+"The King of Diamonds is now far ahead of the other players. He only needs to choose a number that overlaps with ours, even if he loses a few more points, he can push both me and Chishiya into elimination. That means my slim chance of survival lies in hoping that those two pick the same number and cancel each other out. Also, I’m only at -8 and still have two chances left. Even if I lose this round, I still have hope. → So this round, I must pick the most random number possible, something that no one else would think of choosing."
+Chishiya had already grasped Daimon’s mindset and cognitive limits through small signs, like how she impulsively asked questions about things she didn’t understand instead of thinking them through. He knew someone with such a simplistic mind would default to a safe strategy: withdraw from the round by picking a number no one else would choose, and hope the other two cancel each other out.
+So, Chishiya predicted that Daimon would try to choose a number she felt was “the most random”. His elimination process went like this (items in parentheses are possible errors in reasoning):
+                  1. Definitely wouldn’t choose 0 or 1, already analyzed as having the highest chance of being picked → Eliminate 0 and 1
+                  2. Numbers too close to 0 and 1 (the first half of the range) likely won’t be picked either, since people often hide the answer near the end → Eliminate 2 to 50
+                  3. Numbers too far, near the high end, also likely avoided → Eliminate 90 to 100
+                  4. Numbers that “look too round/even” are visually obvious → Eliminate 60, 70, 80, 90
+                  5. Double-digit repeats that stand out → Eliminate 66, 77, 88, 99
+                  6. Numbers containing 5, 3, or 8, which have smooth pronunciation in Japanese, are likely to be subconsciously chosen, so to avoid overlaps, eliminate those as well
+(Note: 3 and 8 are smooth, but there’s no strong source for 5) → Eliminate any number containing 5, 3, or 8
+                  7. Prime numbers, seem odd and are avoided (though this probably doesn't matter because Daimon might not even know what a prime number is) → Eliminate 61, 67, 71, 73, 79
+                  8. Pop culture references:
+                     * Super Mario 64 → Eliminate 64
+                     * Sex position → Eliminate 69
+                     * "72 Hours" (film) and the fact that it’s 3 days × 24 hours = 72 → Eliminate 72
+                     * "76 Lubricant" (even though Daimon said she didn’t know what "Luburikantsu" was) → Eliminate 76
+What’s left: Only 62 and 74
+Chishiya deduced that Daimon would go with 62 as her “random” number.
+As for the King of Diamonds, Chishiya correctly guessed that he would pick 1, because he doesn’t care about overlapping with others.
+So Chishiya, after calculating and predicting the likely outcomes, chose 23 as his number.
+Result:
+Chishiya’s predictions were completely accurate.
+In fact, because his guess matched 0.8 times the average (23/22.93), the other two players were penalized double points.
+Daimon dropped to -10 and was eliminated.
+Side note:
+Chishiya’s elimination process in this round clearly involved some intuition, with certain steps lacking firm sources or logical backing.
+There were also elements of luck involved.
+However, it still demonstrated a notable level of understanding and several other intellectual feats from Chishiya.
+=> Cold Reading, Psychological Understanding, Reasoning/Deduction, Knowledge, PSI, Luck
+The IQ-related feats of Chishiya essentially conclude here. What follows is a full analysis of Chishiya’s manipulation strategy toward Kuzuryu (the King of Diamonds).
+From the very moment it was revealed that the King of Diamonds was Kuzuryu, the former No. 3 at the Beach, Chishiya showed interest in understanding what had driven Kuzuryu to become a citizen of the Borderland and to sit on the throne of intellect.
+He believed that Kuzuryu wasn’t the type to join the Beach and then take this position just for fun or to prove himself; there had to be a deeper reason, and finding that reason might be the key to solving the challenges ahead.
+In Round 1, when Daimon mentioned that even the King of Diamonds was chained up, she argued that this placed him at a disadvantage, having to face four players alone in the game.
+But Chishiya thought more deeply. He reasoned that if the four players and the one citizen were seen as two separate factions, and only one side was allowed to survive, then the fact that one citizen surviving meant the death of four players also meant it was only fair that the citizen’s theoretical win rate be 20% compared to the players' 80%.
+He pointed out that this notion of balance and equal value of all lives was in line with Kuzuryu’s ideals as a lawyer, and it also fit the game’s setting (a courtroom) and the symbolism of the scales of justice.
+Daimon sarcastically replied, saying that in the real world of law, the value of human lives is never truly equal.
+From this exchange, it seems Chishiya was already starting to uncover the deeper motivations of Kuzuryu through the structure of the game itself.
+After Round 4, the game reached a Nash Equilibrium.
+The Securities analyst quietly wondered:
+"If everyone keeps choosing 0, then no one loses, and the game drags on forever. Surely the King of Diamonds must have anticipated this. So why would he still create such a game?"
+But Chishiya confidently declared that he had already figured out what the King of Diamonds was trying to discover through this game.
+The strategic play of choosing 100 starting from Round 5, used by Chishiya to break the Nash Equilibrium, was detailed earlier, but here’s the key point repeated:
+The only two people who anticipated this situation were Chishiya and the King of Diamonds.
+Kuzuryu managed to adapt to the strategy after a few rounds, having already considered the possibility of someone trying this approach.
+Here, Chishiya reaffirmed that his unorthodox “sacrificial” move in Round 5 was the only way to disrupt the Nash deadlock.
+He understood that without a first “spark” or sacrifice, no one would dare to take such a bold step, even if it meant everyone dying together in the long run.
+This entire process, beyond being a strategic move to make progress in the game, also helped Chishiya reinforce his deductions and get closer to understanding Kuzuryu’s deeper intentions through the game.
+Noticing that Kuzuryu only needed two rounds to adapt to the "choose 100" strategy, Chishiya could reasonably conclude that Kuzuryu also knew that the only way to break the deadlock of the Nash Equilibrium was for someone to willingly “sacrifice” themselves in a round.
+→ This implied that Kuzuryu was testing whether humanity still possessed rationality and compassion, whether someone would be willing to risk their own life to save others from a hopeless stalemate.
+In other words, Kuzuryu wanted to see what players truly believed about the value of life.
+Given the game’s setup as a courtroom, the scales, the legal theme, and Kuzuryu’s background as a lawyer,
+→ The true question the King of Diamonds was putting on the scales was:
+"What is the actual value of a single life?"
+In Round 11, after the other two players were eliminated, Chishiya slowly began his main approach by asking why Kuzuryu chose to become a citizen of the Borderland.
+He already knew the rumors were true, that all citizens were once players, and he used this fact to press Kuzuryu:
+"So what, then, is the fundamental difference between a player and a citizen?"
+Chishiya then presented his perspective: Most players look at citizens with resentment and hatred, but he understands that citizens are just players who, after surviving many trials, managed to rise to the top.
+He also mentioned that citizens are granted permanent residence in the Borderland, with the power to create games of their own choosing.
+This served as the foundation for Chishiya’s later manipulation, as he subtly touched on the fairness of the game system, highlighting the inherent inequality between citizens and players (no matter how balanced the game is made to seem, the reality is that citizens always have some advantage, such as knowing the game in advance or being more familiar with it from repeated experience fighting against players).
+Kuzuryu, perhaps because Chishiya had already “passed the test” in the Nash Equilibrium scenario, began to open up more, not by directly answering, but by offering a series of real-world examples showing the injustice in the legal system, where criminals are protected more than victims.
+Kuzuryu had dedicated his entire career as a lawyer to defending those small, powerless victims, but after witnessing firsthand the dark side of the world, his long-held belief in the equality of all lives had almost completely collapsed.
+→ Chishiya, with his keen intuition, quickly understood that Kuzuryu had become a citizen to seek an answer to this internal conflict, a conflict that was eating away at him every day.
+This insight was crucial later on, as it validated Chishiya’s deductions and allowed him to get even closer to Kuzuryu’s inner self.
+*Plot:
+After Daimon died in Round 12, Chishiya admitted that he felt empty, just like every other time. Even though he understood that the lives lost were necessary for his own survival, he couldn’t tell when exactly he had become so completely indifferent to the lives of others.
+Chishiya stated that this final battle was essentially a weighing of the value of life, his and Kuzuryu’s, on a scale:
+One man who no longer cares about the value of others’ lives,
+versus another man who doesn't understand the value of his own life.
+After the new rule was added in Round 13,[If one player chooses 0 and the other chooses 100, the one who picks 100 will win],
+Chishiya frankly pointed out that while this new rule was meant to balance the game (since with only two players left, choosing 0 previously meant you could never lose), it effectively turned the game into a rock-paper-scissors match between 0, 1, and 100.
+However, Chishiya still remained at a significant disadvantage compared to Kuzuryu:
+He couldn’t afford to have his number match Kuzuryu’s, as a tie would cause both players to lose points,and with Chishiya already at -9, a single point lost would eliminate him.
+That meant he was forced to win all three remaining rounds in a row, and the probability of winning even one round was only ⅓.
+Chishiya then commented that five minutes was too long for a rock-paper-scissors-style game, and suggested that they continue talking instead.
+Kuzuryu, agreeing with the sentiment, accepted the conversation.
+→ Here, Chishiya once again subtly implanted the idea in Kuzuryu’s mind that, despite the King of Diamonds’ efforts to create a fair game, Chishiya was still the one at a disadvantage.
+At the same time, he cleverly used every second of their conversation to probe deeper into Kuzuryu’s inner world.
+*Plot:
+In the real world, Kuzuryu was an elite international lawyer. At one point in his career, he began working for an unnamed American company. There, he assisted in a case where the indigenous people of a developing country were seeking compensation for physical and psychological harm caused by a factory the company had built. During the trial, his colleagues were indifferent to the plaintiffs’ suffering, believing that these locals lacked the resources to endure a drawn-out legal battle.
+After sharing his story, Kuzuryu said:
+“The majority of people living in our society… will contribute hundreds of millions for the possibility of parents saving their children from an incurable disease.
+Yet on the other hand, just 100 Yen could change a child’s life in the developing world, but they don’t bat an eye…
+What’s the difference? A life that should be saved, and one that should not. Is it just the media that determines this?”
+Chishiya responded:
+“That’s a good question. I’d probably ignore them both. But…
+Take that 100 million Yen, and create one million vaccines for 100 Yen each…
+Which million people would you save? If one million people were waiting for that vaccine, which group would you save?
+You can’t save them both. In that sense, don’t you think quality is impossible?
+Or do you think you’d be able to make the decision?”
+With that sharp questioning, Chishiya exposed the contradictions in Kuzuryu’s beliefs, gradually shaking his confidence and sense of direction.
+Possibly because he felt understood for the first time, Kuzuryu continued to open up about his past. He revealed that he had later discovered the company he worked for had used its influence to “take care” of the plaintiffs, forcing them into silence. After repeated exposure to the views of the elite, Kuzuryu came to a bitter realization: even the legal system, which was supposed to balance society and treat everyone equally, was nothing more than a tool for the powerful, a means to manipulate and crush the weak, who lacked the strength to fight back.
+Through this story, Chishiya understood that it wasn’t that Kuzuryu didn’t grasp the value of life; it was that he couldn’t bring himself to determine whether a life was worth that value. This also explained why Kuzuryu became the King of Diamonds; he created a game that he believed was the fairest, allowing a system to decide life’s value for him, thus helping him escape the burden of having to judge it himself.
+Chishiya continued to press him:
+“Your thinking is immature. You said you spent your life seeking justice for the weak, but that’s just your own perspective.
+What you consider important might be nothing but trash to someone else.
+If each life truly has value, then why not let each person decide what their life is worth?
+In reality, everyone has the right to do that.
+Yet you’re applying your own emotions and worldview as the standard to judge the value of others’ lives.
+This game you created to ‘measure’ lives is still based on your idea of fairness.
+Aren’t you’re the one trying to assign superiority or inferiority to human lives?”
+→ Through this intense questioning, Chishiya nearly destroyed the core of Kuzuryu’s ideals.
+Once Kuzuryu was thrown into a state of indecision, Chishiya struck directly by suddenly revealing that he would choose 100 in the next round. He told Kuzuryu that there was a life here, his, that wanted to move forward. And now Kuzuryu had to decide whether or not that life was worth it.
+Psychological foundation behind Chishiya's strategy:
+The King of Diamonds game was originally designed to be the fairest possible, in line with Kuzuryu’s ideals.
+But Chishiya intentionally broke that fairness.
+In the final round, the game turned into a version of rock-paper-scissors, and Chishiya openly declared his move (100).
+Since Kuzuryu had all the information, the game was no longer fair. He could only lose if he chose 0.
+Now, Kuzuryu held 100% power over Chishiya.
+He was in the position of the strong, while Chishiya had become the weak.
+This mirrored the exact type of unjust power dynamic Kuzuryu had witnessed and hated in the real world.
+This setup forced Kuzuryu to confront what he had always tried to avoid:
+When truly given the power to decide, how would he judge the value of a human life?
+Even in the "fair" game he created, does the strong always win in the end?
+The psychological blow hit home when Kuzuryu chose 100 twice in a row in Rounds 13 and 14.
+Even though he tried to convince himself it was just to bring both of them to -9 and make things “fairer,” he was lying to himself.
+In Round 15, Chishiya once again showed that he would pick 100, forcing Kuzuryu to make the final judgment on the worth of a life.
+After a series of flashbacks, Kuzuryu made his final decision:
+He pressed both 0 and 1 at the same time.
+As the system recorded the first input (0), Kuzuryu lost the round, and his score dropped to -10.
+Chishiya won the King of Diamonds game.
+*Explanation:
+The final round with Kuzuryu essentially marked the end of his journey to reclaim his original ideal, that all people are equal, and no one's life is more important than another's. That’s why he pressed both buttons instead of deciding who had more of a right to live, as Chishiya had implied. So, in a way, you could say Chishiya was somewhat lucky in the final moment, as Kuzuryu’s finger happened to land on the number 0 just slightly faster.
+Conclusion:
+Chishiya went through a full process: from carefully observing details to gradually deducing the purpose and core ideology of the King of Diamonds, and then used his strategic communication to subtly lower Kuzuryu’s guard.
+→ He approached with flexibility and tact, showing that he understood the dilemma Kuzuryu was facing. That made Kuzuryu more willing to open up, allowing Chishiya to extract even more critical information.
+After using this gentle approach to get Kuzuryu to slowly reveal his thoughts, Chishiya combined it with his quick emotional and psychological insight to gain full control over the situation.
+→ Once he had fully grasped Kuzuryu’s inner world, he launched a direct attack on the flaws in his ideology, using arguments that were both rational and emotionally resonant, and in doing so, nearly dismantled the entire belief system Kuzuryu had been clinging to up to that point.
+Chishiya’s decision to choose 100 afterward had an enormous impact because of everything that had led up to it; it was like offering one last opportunity to a heart on the verge of breaking:
+A chance to choose whether or not to remain true to one’s core ideals, and whether or not to allow injustice to occur right before one’s eyes, especially in a place where he actually had the power to stop it, something Kuzuryu had failed to do in the real world.
+In the end, the outcome proved the effectiveness of Chishiya’s approach.
+Throughout the process, it became clear that even though Kuzuryu had seen the depths of injustice in this world, deep down he still held onto his noble ideal of equality; he was just lost and in need of someone capable enough to wake him from his eternal despair.
+Even if the final result involved a bit of luck, it transformed Chishiya’s chance of winning the game from 1 in 27 to a 50-50 outcome.
+=> Manipulation/Guilt Tripping, Strategy, Emotional Understanding, VCI, Information Gathering, Abstract Thinking, Reasoning (Alice in Borderland chapter 51.8, 51.9)

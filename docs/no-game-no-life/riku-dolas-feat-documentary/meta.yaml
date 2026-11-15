@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: riku-dolas-feat-documentary
+category: doc
+title: Riku Dola’s Feat Documentary
+alt_titles:
+- Riku dola 1
+- Riku Dola's Feat Documentary
+authors:
+- name: DAX PMFT
+  source: doc-text
+- name: JayChef
+  source: doc-text
+- name: Eagle Union
+  source: doc-text
+series:
+- no-game-no-life
+characters:
+- riku-dola
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1M4Xd6odFwTkA_SLDn0-2QE5TJ1p9NEB_umfY7WZ3S9s
+    google_id: 1M4Xd6odFwTkA_SLDn0-2QE5TJ1p9NEB_umfY7WZ3S9s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 57
+    words: 23388
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1431865
+      sha256: 3d134e9b6476518d15897f68d9b93ee54e329181150dc9c3f9391ea7b7266fd5
+    - format: docx
+      name: document.docx
+      bytes: 1753192
+      sha256: cc94466eed838ec2ca17f94b39de3a4455d78339b17536e67a88e648ee850d8f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Riku dola 1
+- library: remastered
+  section: No Game No Life
+  character: Riku Dola
+  link_text: Riku Dola's Feat Documentary
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

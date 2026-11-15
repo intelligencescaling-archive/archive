@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: brian-moser-doc-by-n-ice
+category: doc
+title: Brian Moser Doc By N-Ice
+alt_titles:
+- Brian Moser doc
+authors:
+- name: n-ice
+  source: doc-text
+series:
+- dexter
+characters:
+- brian-moser
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1s1h9zYJ0OyyAVmhbmOOp2Vr053u2xydxuJHoSJiGFLY
+    google_id: 1s1h9zYJ0OyyAVmhbmOOp2Vr053u2xydxuJHoSJiGFLY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2933
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 301332
+      sha256: 056d5ced5327dfd9452baecbcd0f400af3903d8be59c038cf8764c1f3130de07
+    - format: docx
+      name: document.docx
+      bytes: 124661
+      sha256: 00b59d40e67dca84360b0c5d345d3b4ee2c51757c23df04f37ff186c29da9e2c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: DEXTER
+  link_text: Brian Moser doc
+- library: remastered
+  section: Dexter
+  character: Brian Moser
+  link_text: Brian Moser Doc By N-Ice
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-jailbreak-strategy
+category: doc
+title: 'PATRICK JANE JAILBREAK STRATEGY:'
+alt_titles:
+- PJ 6
+authors:
+- name: Hassan Mustafa
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=142n0WRuZ1USHfAoSncjy5p4BKrKVBXzC39MbM8a9OlU
+    google_id: 142n0WRuZ1USHfAoSncjy5p4BKrKVBXzC39MbM8a9OlU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 2236
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2755721
+      sha256: a76518b8b55288a80d7f4ddfe9cfcd12eb148ea583b24e58d486a73c85293500
+    - format: docx
+      name: document.docx
+      bytes: 3002870
+      sha256: 6a4090cf3ff83d7c433d7e9aa2ad75db8d1c4230c8aac004001e6cdb44052988
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 6
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: 'PATRICK JANE JAILBREAK STRATEGY:'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

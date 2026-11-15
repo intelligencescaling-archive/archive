@@ -1,0 +1,1316 @@
+Wolf-Sheep-Shepherd Game
+Made by u/Jarionn
+
+This document would be a deep analysis on the Wolf-Sheep-Shepherd Game that spans within Ch. 17-30 of the webnovel “The Eighteen Levels of Hell: Lying is Forbidden Here”
+
+!WARNING!
+This is an indepth analysis of the WSS Game.
+Although this secret chamber is among the least complex situations compared to the rest of the entire novel, it is still very, I mean VERY convoluted.
+
+Legend:
+P - Premise
+I - Inferential Step
+C - Conclusion
+
+Six people were thrown into the third Secret Chamber of the Instance, mainly Chen Ran, Cheng Si, Baili Qiangsheng, Ma Wenjie, Li Annan, and Zhang Yuan. Chen Ran glanced upon the players and immediately realized that something was wrong due to Zhang Yuan being alive and Chen Ran seeing himself (only Cheng Si and Chen Ran are aware of Zhang Yuan’s death). The rest also felt the same feeling of uneasiness.
+
+In a very short time, several deductions were placed into their mind
+
+P1: They saw themselves outside their own bodies.
+P2: If a person visually perceives their own body as a separate external entity, then their current soul is not occupying their original body.
+I1: Their soul was separated from their original body as the observing consciousness is located elsewhere. (From P1 + P2)
+I2: Their original body was still functioning despite the mismatch of their consciousness existing outside it. (From P1 + P2 + I1)
+
+=> C1: Therefore, their souls weren’t inside their original bodies.
+
+P3: If they exist outside of their own body as it moves, then they must be occupied by another soul.
+P4: If another soul did occupy their body, then their soul should also have occupied the body of somebody else.
+I3: Since their souls were absent from their original bodies and were still functioning, another soul had been controlling their original body. (From C1 + P3)
+I4: Their own displaced souls had to relocate into another body rather than disappearing. (From I3 + P4)
+
+=> C2: Therefore, at least one other person had exchanged their soul to a different body.
+
+P5: There were six players within the chamber; if all six players had experienced swapping their souls, then everyone’s soul must have taken another’s body.
+I5: The swapping between souls occurred within the six people present in the chamber, as all possible soul swapping had to occur between the six players. (From C2 + P5)
+I6: Each swapped soul corresponds to a different occupied body since every swapped soul requires a body present within the six players. (From I5)
+
+=> C3: Therefore, each body does not have its original soul.
+
+P6: Among the six people within the chamber, if each body has a different soul, then the mapping of the soul swap must be a permutation of the six people.
+P7: If the soul swapping was a redistribution of the souls of six people among six bodies, the process was either a two-way exchange or a random distribution of six bodies.
+I7: Every soul-body pair had been swapped and rearranged across the six players. (From C3 + P6 + P7)
+
+P8: If a situation has happened within a chamber, then there must be a reason why it happened.
+P9: The last chambers had supernatural elements happening.
+P10: The last chambers had rule based mechanics.
+I8: Supernatural elements happened inside the previous chambers in accordance to         intentional rules. This established the perception that unnatural events were deliberate structured chamber mechanics. (From P8 + P9 + P10)
+
+P11: If they had exchanged souls in different bodies, then it must be related to the puzzle of the current Chamber.
+I9: The soul swapping (supernatural element) was most likely an intentional mechanic within the third secret chamber. (From I7 + I8 + P11)
+
+=> C4: Therefore, the soul swapping was tied to the puzzle or mechanism of the chamber.
+
+P12: A puzzle or a mechanism of a chamber was closely linked to its win or loss conditions.
+P13: If the soul swapping was a puzzle or a mechanism of the chamber, then it provides a basis for the chamber’s win or loss conditions.
+I10: The soul swapping mechanism within the secret chamber most likely affects conditions of whether a player loses or gains a victory since previous chamber mechanics has historically proven that it determined outcomes. (From C4 + P12 + P13)
+
+P14: A loss within a chamber would mean death.
+P15: A win within a chamber would mean living.
+I11: The outcomes of Secret Chambers have a high likelihood of determining life or death. Since chamber mechanics is closely tied to determining those outcomes, managing the soul swapping mechanism affects a player’s survival. (From I10 + P14 + P15)
+
+P16: If it was related to the puzzle or a mechanism of the secret chamber, then it decides their life and death.
+I12: If chamber mechanics clearly defined life and death, information related to the soul swapping mechanisms had importance and value upon a player’s survival. (From I11 + P16)
+
+P17: By swapping their souls in different bodies, they’ve made the identity of the soul occupying a body unknown.
+I13: A player’s appearance was no longer reliable in determining their identity. (From P17)
+
+P18: If they revealed their identity within a different body, they'd make other people come to know what soul had occupied it.
+I14: Revealing one’s own identity would reduce the feeling of uncertainty for the other players. (From I13 + P18)
+
+P19: The chamber was still full of unknowns and uncertainty.
+I15: Information in uncertain lethal environments becomes strategic value and elevates chances of victory and survival. (From P19 + I13 + I14)
+
+P20: Revealing oneself can only give other people more information, while the person who revealed it gets nothing in return.
+I16: Revealing a player’s identity would create an asymmetrical information advantage for others except the player whose identity was revealed. (I15 +P20)
+
+P21: If revealing the identity of the soul within a different body only gives other people advantages, and nothing to themselves, especially in an uncertain environment with their lives on the line, then it would not be practical or advantageous to reveal it.
+I17: Survivability favored concealment of identity as avoiding unnecessary sharing of information would preserve a player’s strategic advantage. (From I15 + I16 + P21)
+
+=> C5: Therefore, it was optimal to not reveal who they were, as it prevents others from gaining information.
+
+Baili Qiangsheng had spoken about the voice within the dungeon that woke them up. This prompted the other five people to deduce that Baili Qiangsheng was a newbie due to the following deduction that:
+P1: The person within the body of Baili Qiangsheng asked about the voice.
+P2: If a person asks about the voices, as if not knowing that it was possible, then it would imply unfamiliarity of such phenomena.
+I1: The soul occupying Baili Qiangsheng’s body was unfamiliar with the mysterious voice that appeared due to reacting with surprise when they had been thrown into the chamber and swapped souls and bodies. (From P1 + P2)
+
+=> C1: Therefore, the soul inside Baili Qiangsheng’s body was unfamiliar with such phenomena.
+
+P3: Old Players often saw NPCs in dungeons.
+P4: If a person had experienced NPCs in a dungeon, even if only once, then they would be familiar with the voice appearing.
+I2: Old and experienced players would have recognized the mysterious voices as natural events within a secret chamber. (From P3 + P4)
+I3: An old player would not have strongly questioned the presence of the voice as previous experience would have created familiarity. (From I2)
+
+=> C2: Therefore, Old Players would not react in the same way as the soul within Baili Qiangsheng’s body had.
+
+P5: Newbies do not know of this.
+P6: If a person had not known of NPCs within dungeons, then they would react with confusion.
+I4: Since the lack of prior knowledge creates confusion, a player who was unfamiliar with the voice would certainly question it. (From P5 + P6)
+
+P7: If a person reacts confused to an event where Old Players experienced, then they are likely not an Old Player.
+I5: The reaction of the soul within the body of Baili Qiangsheng fits the expected reaction of a newbie rather than an old player. (From I1 + I3 + I4 + P7)
+
+=> C3: Therefore, only a Newbie would react as such to the voice.
+=> C4: Therefore, the soul inside Baili Qiangsheng’s body was the Newbie.
+
+P8: Within the group of six people, Chen Ran was the only Newbie.
+P9: Consequently, this meant that the other five were Old Players.
+I6: Only one player among them was a Newbie. Since all the other players were Old Players, the Newbie could only be Chen Ran. (From P8 + P9)
+I7: The soul occupying the body of Baili Qiangsheng matched the description of the Newbie. (From C4 + I6)
+
+=> C5: Therefore, the person within the body of Baili Qiangsheng was Chen Ran.
+
+Cheng Si questions Baili Qiangsheng but ‘she’ just dodged and refused to answer the question. This confirmed their suspicions.
+The secret chamber was about 50 square meters with a gambling table in the middle and six chairs surrounding it. In the middle of the gambling table, a balance scale was placed, with two ends: The left pan held: a pistol. The right pan held: handcuffs.
+The rules were:
+【Gameplay Introduction】
+【One: The first gambler only has two face-up cards, while others have three face-up cards, and each person cannot see their own cards.】
+【Two: Starting from the first gambler, in a clockwise direction, each person takes one card from the hand of the next gambler in sequence.】
+【Three: When the first gambler draws a card again, a round ends, and the balance scale will settle once; when the balance scale is completely tilted, the highest scorer receives the corresponding item, either a gun or handcuffs.】
+【Four: Those who use language and gestures to reveal their identity, as well as those who reveal the card types on another person's table, will lose their qualification to sit at the gambling table.】
+The six people deduced that:
+P1: The first gambler only has two face-up cards, others have three, and you cannot see your own card.
+P2: Since they cannot see their own card, they could not use direct observation of their own cards to see their own hand.
+P3: They could see everybody else's cards.
+P4: If everybody has cards within the same deck, take all of the cards of the deck, and distribute among them, then they occupy the amount of cards present within the deck.
+I1: A Player could deduce their hand by comparing known visible cards against the deck distribution (From P1 + P2 + P3 + P4)
+
+P5: Since each player takes three, while the first gambler takes two, then the pattern of distribution was numerically constrained.
+I2: The amount of unknown cards were limited and traceable through the pattern of distribution (From P1 + P5)
+
+=> C1: They could infer their own hand by process of elimination from seeing the cards of others.
+
+P6: Starting from the first gambler in a clockwise direction, each person takes one card from the hand of the next gambler in sequence.
+I3: Every draw directly affects the composition of two hands at the same time. (From P6)
+
+P7: Since each draw affects the next player’s hand and their own potential combinations, they realized that their action would both help themselves and interfere with the next player.
+I4: Drawing cards had the ability to either improve or weaken one’s own combinations and another player’s possibilities (From I3 + P7)
+
+P8: In addition, they also realized that the preceding gambler would draw from them which could also potentially affect their own hand.
+I5: If the draw chain was cyclical, a player’s hand is vulnerable to what the previous player would do, which means that every player was both an attacker and a target. (From I4 + P6 + P8)
+I6: Each Player’s strategy had to optimize their own actions while anticipating possible interference from other players, which meant having to account for both outgoing and incoming card changes. (From I4 + I5)
+
+=> C2: In conclusion, they must plan draws to both complete their own combinations and disrupt the next player while mitigating the action from the preceding player.
+
+P9: When the first gambler draws a card again, a round ends, and the balance scale will settle once;
+P10: If the balance scale is completely tilted, the highest scorer receives the corresponding item, either a gun or handcuffs.
+I7: If the balance scale directly correlates to determining the outcome of the game, then scale movement would also determine the allocation of rewards. (From P9 + P10)
+
+P11: The balance scale dictates the player’s scores and who would receive the corresponding item.
+I8: The scale could function as a visual guide of score progression since changes in scores directly affected the state of the balance scale (From I7 + P11)
+
+P12:  If the balance scale dictates the player’s score, each card drawn affects not only their own score but also the progress of the scale.
+I9: If manipulating the drawing of the cards affected scoring, it would also alter the state of the scale. This meant that individual draw choices would also indirectly affect the larger system of the game that is represented by the scale. (From I4 + I5 + I6 + P9 + P10 + I7 + I8 + P12)
+
+=> C3: Therefore, planning around the draws would affect the scale and the distribution of the rewards.
+=> C4: Strategies must focus upon considering both personally scoring and the effect on the balance scale.
+
+P13: Those who reveal their identity or another player’s cards will lose qualification to sit at the table.
+P14: Since interaction among the players were forbidden, they could not rely on means such as discussions to coordinate or orchestrate schemes based on it.
+I10: Since the rules prevented the players from sharing information regarding cards, coordination through communication was unreliable. (From I9 + P14)
+
+=> C5: Deduction was the only reliable method to understand their hand and plan their strategy.
+
+P15: Two or three cards need to be combined in some way to score.
+P16: Since scoring requires card combinations, knowing one’s own cards is essential to form valid combinations.
+I11: The building of a hand requires a player’s awareness of current card composition. This meant that the value of any draw was entirely dependent on the player’s visually hidden hand. (From P15 + 16)
+I12: Since the draw decision of each player would require the knowledge of which card combinations are already possible or incomplete, a player optimizing draws would not be reliable without first identifying their own hand. (I11 + C1)
+
+=> C6: They realized that identifying their own hand would allow them to determine which cards to draw to create scoring combinations.
+=> C7: They concluded that deducing their own hand was the first priority before making any draws and schemes.
+
+The person within Chen Ran stated that they were being too cautious as no one knows who was who and that the rules explicitly stated that someone who used any language or gesture to reveal their identities would be eliminated from the gambling table.
+As ‘Chen Ran’ lit a cigarette, the other five players noticed that it was too clumsy as it looked like someone who didn’t know how to smoke tried to light one. Therefore, it was obvious that the person within ‘Chen Ran’ wasn’t Chen Ran nor Baili Qiangsheng as they knew how to light a cigarette.
+What ‘Chen Ran’ had said was naive, the five people deduced that ‘Chen Ran’ still thought that this was a game and not a life and death struggle. In addition, they continued more lines of reasoning:
+=> P1: Seat position determines who can affect whose cards.
+=> P2: If three teammates sit next to each other, they can keep passing useful cards between themselves, which would give them control
+C1: Therefore, they must prevent that arrangement.
+‘Li Annan’ suggested that they should play Rock-Paper-Scissors twice and let the final winner of each round choose a seat. Everyone agreed to his suggestion. This is due to the fact that seat position determines who can affect whose cards.
+‘Ma Wenjie’ suddenly said that later during the first round of Rock-Paper-Scissors, he would choose Scissors. ‘Zhang Yuan’ had also said the same thing, as well as ‘Li Annan’.
+The first round of Rock-Paper-Scissors had ended. ‘Chen Ran’, ‘Cheng Si’, and ‘Baili Qiangsheng’ all threw Rock, and ‘Cheng Si’ ultimately won. ‘Cheng Si’ chose a seat.
+Then the second round of Rock-Paper-Scissors ended, ‘Ma Wenjie’, ‘Li Annan’, and ‘Zhang Yuan’ still promised to throw scissors later.
+Soon, the second round of rock-paper-scissors ended and ‘Chen Ran’ won. ‘Chen Ran’ chose to sit next to ‘Cheng Si’ sequentially. This meant that when it was the turn of ‘Cheng Si’ to choose a card, she would have to draw the cards of ‘Chen Ran’.
+‘Ma Wenjie’ presented his line of reasoning:
+=> P1: Both ‘Chen Ran’ and ‘Cheng Si’ deliberately gave up two positions during the first round of seat selection.
+=> P2: Giving up positions is normally disadvantageous, as it affects the player’s ability to form hands, control draws, and affects cooperation with teammates.
+C1: This must have been intentional, as giving up positions was disadvantageous.
+C2: The positions were given up strategically and not randomly.
+
+=> P3: Due to the rules, the players who gave up these seating positions were only acting to benefit a specific group.
+=> P4: The rules also benefitted Baili Qiangsheng’s three-person team through consecutive seating and gave them an advantage.
+=> P5: If the two positions of ‘Chen Ran’ and ’Chang Si’ were given up strategically, then both ‘Chen Ran’ and ’Chang Si’ must be part of Baili Qiangsheng’s team.
+=> P6: If the three-person team sat consecutively, they would have a massive advantage compared to the rest due to the ability of passing useful cards among themselves.
+C3: Therefore, they must prevent certain seats that the three-person team could occupy consecutively.
+‘Ma Wenjie’ now speaks aloud which two among the three of them will go to block, specifically ‘Li Annan’, ‘Zhang Yuan’, and the person in Baili Qiangsheng’s body. This statement now brought pressure towards the person within Baili Qiangsheng’s body as ‘Ma Wenjie’ revealed that giving up early positions allowed them to identify possible teammates.
+However, the person inside ‘Baili Qiangsheng’ saw through this blocking strategy and attempted to find a counter for it through the following reasoning:
+=> P1: ‘Baili Qiangsheng’ observed the current seating and priority pick rules and knew that the three-person team of Baili Qiangsheng required three consecutive seats to cooperate effectively.
+=> P2: ‘Ma Wenjie’, ‘Li Annan’, and ‘Zhang Yuan’ have the potential to block consecutive seats.
+=> P3: Since he was occupying ‘Baili Qiangsheng’, but couldn’t immediately control the other two team members, he was essentially alone for the next decision.
+=> P4: There is a 25% chance of winning the next pick for the seating position, as there were only four players that were remaining.
+=> P5: Securing seats directly for himself and the other team members is very risky and unlikely to succeed.
+C1: Therefore, direct action to occupy or secure seats was not an effective strategy.
+
+=> P6: If ‘Ma Wenjie’, ‘Li Annan’, and ‘Zhang Yuan’ were to compete against each other, it can indirectly create an advantage for the three-person team by Baili Qiangsheng.
+C2: Therefore, the optimal strategy was to manipulate ‘Ma Wenjie’, ‘Li Annan’, and ‘Zhang Yuan’ into fighting amongst themselves instead of cooperating, which thereby mitigating his disadvantage as a 1v3 situation.
+‘Baili Qiangsheng’ counters by asking ‘Ma Wenjie’ to question their assumption that ‘Baili Qiangsheng’, ‘Chen Ran’, and ‘Cheng Si’ was the three-person team led by Baili Qiangsheng, and adds that it may all be an act, to introduce doubt and force them to reconsider. To counter this, ‘Li Annan’ suggests that they should do two priority picks this time instead of one, which increases the number of winners in the next round of Rock-Paper-Scissors.
+However, the attempt of ‘Baili Qiangsheng’ psychological manipulation of introducing conflict had some effect, which prompted his winning chances of gaining the priority pick from 25% to 50%.
+The third round of Rock-Paper-Scissors began with ‘Baili Qiangsheng’ and ‘Zhang Yuan’ throwing scissors while ‘Li Annan’ and ‘Ma Wenjie’ threw rock. This allowed ‘Li Annan’ and ‘Ma Wenjie’ to win the next priority picks.
+Li Annan sat below Chen Ran.
+Ma Wenjie sat above Cheng Si.
+It was revealed that ‘Baili Qiangsheng’ was psychologically manipulated into throwing scissors, due to the fact that:
+=> P1: Drawing cards was sequential, which meant that each player takes from the next person.
+=> P2: This meant that seat order directly determines who interacts with whom.
+=> P3: If three teammates sit in three consecutive seats, the draw cycle between them becomes closed.
+=> P4: If the draw cycle is closed, each teammate only draws from another teammate.
+=> P5: If a teammate could only draw from another teammate, no outsider can interfere with their cards.
+=> P6: Both ‘Chen Ran’ and ‘Cheng Si’ ended up sitting next to each other, which formed a pair of two adjacent seats.
+=> P7: Baili Qiangsheng’s team is composed of three persons, which allows them to exploit the closed draw cycle loophole.
+=> P8: If ‘Chen Ran’ and ‘Cheng Si’ were part of Baili Qiangsheng’s team, then they had already formed two connected positions.
+=> P9: Only one more adjacent position beside ‘Chen Ran’ or ‘Cheng Si’ is needed to complete three consecutive seats.
+=> P10: For any two adjacent seats, there are exactly two seating positions that can be formed into three consecutive seats. Being: the seat before the pair and the seat after the pair.
+=> P11: If Baili Qiangsheng’s third teammate occupied either of these two positions, then the three-person team would form a closed draw cycle.
+=> P12: To counter this, ‘Li Anna’ and ‘Ma Wenjie’ kept playing scissors from the earlier rounds to psychologically manipulate ‘Baili Qiangsheng’ and ‘Zhang Yuan into throwing scissors.
+=> P13: If ‘Baili Qiangsheng’ and ‘Zhang Yuan’ threw scissors, then ‘Li Annan’ and ‘Ma Wenjie’ could have a chance to counter by throwing Rock.
+=> P14: By throwing Rock, ‘Li Annan’ and ‘Ma Wenjie’ could win against ‘Baili Qiangsheng’ and ‘Zhang Yuan’ to choose the proper seating position to enforce the blocking strategy.
+=> P15: ‘Li Annan’ and ‘Ma Wenjie’ had taken these two positions: Li Annan sat below Chen Ran and Ma Wenjie sat above Cheng Si.
+=> P16: This means that both of the possible seating positions for a closed draw cycle were now occupied.
+C1: If ‘Li Annan’ and ‘Ma Wenjie’ were not Baili Qiangsheng’s teammates, then both of the possible seating positions for a possible draw cycle were now occupied by outsiders.
+C2: Since both of the seating positions were now blocked, then the third teammate of Baili Qiangsheng’s three-person team had no seating position that could connect with ‘Chen Ran’ and ‘Chang Si’ to form three consecutive seats for a closed draw cycle.
+C3: Therefore, their coordination was now broken, which allowed for more counter schemes to happen and the winning chances of ‘Li Annan’ and ‘Ma Wenjie’ to rise.
+It is revealed that ‘Baili Qiangsheng’ was Li Annan and that ‘Zhang Yuan’ was Cheng Si.
+‘Zhang Yuan’ (Cheng Si) recollected what happened:
+=> P1: ‘Zhang Yuan’ recalls his own identity as Cheng Si, which meant that the current consciousness occupying ‘Zhang Yuan’ was not Zhang Yuan’s original soul.
+=> P2: Through the reflection in another player’s eyes, ‘Zhang Yuan’ (Cheng Si) confirmed that his current body is Zhang Yuan.
+=> P3: Zhang Yuan was already killed by him and Chen Ran.
+=> P4: A dead person cannot reappear randomly as moving and living.
+=> P5: The current ‘Zhang Yuan’ is moving and living.
+=> P6: There is a contradiction that Zhang Yuan was killed and ‘Zhang Yuan’ was currently moving and living.
+=> P7: If a contradiction appears, one of the premises must be false.
+C1: Cheng Si killing Zhang Yuan is certain as Cheng Si had directly participated in it.
+C2: Therefore, the uncertain premise was the current ‘Zhang Yuan’.
+C3: Since a dead person cannot reappear normally, the current ‘Zhang Yuan’ identity must be a fake.
+
+=> P8: In this secret chamber, Zhang Yuan was the only one who submitted a wrong answer.
+=> P9: In the previous deduction, the second Masked Man had provided false information before.
+=> P10: Both of their actions involved giving incorrect information.
+C4: Their identities match together.
+C5: Zhang Yuan corresponds to the second Masked Man.
+C6: Souls have now been swapped between bodies.
+C7: This means that the identity of the Masked Man has changed and is now not ‘Zhang Yuan’ but occupying a different body.
+
+=> P11: ‘Li Annan’ proposed Rock-Paper-Scissors, and ‘Ma Wenjie’ had orchestrated that repeated scissors statement.
+=> P12: Both actions had coordinated to create a psychological manipulation for suggestion.
+=> P13: Both ‘Baili Qiangsheng’ (Li Annan) and ‘Zhang Yuan’ (Cheng Si) were influenced into choosing scissors and lost.
+=> P14: Cheng Si considers why such a manipulation was done, determining that intent behind their coordinated actions must lead to an answer about their identities.
+=> P15: Consequently, ‘Zhang Yuan’ (Cheng Si) introduces a new constraint: appearance and identity could be disguised due to body swapping, but intelligence remains consistent.
+=> P16: Regardless of their motives, both the intelligence of ‘Li Annan’ and ‘Ma Wenjie’ were among the highest.
+=> P17: Among the five people, Chen Ran’s intelligence is definitely the highest, and ‘Zhang Yuan’ (Cheng Si) was the next.
+=> P18: ‘Zhang Yuan’ (Cheng Si) was affected by the manipulation, this meant that the manipulators must be at least as intelligent or more.
+=> P19: Checking which identities could match that level of intelligence and manipulation capability would further lead to answers about their identities.
+=> P20: Among the six, only Chen Ran and the second Masked Man fit that level of intelligence.
+=> P21: Since ‘Li Annan’ and ‘Ma Wenjie’ executed the manipulation, they fit within those identities.
+C8: Therefore, ‘Li Annan’ and ‘Ma Wenjie’  must either be Chen Ran and the second Masked Man.
+
+=> P22: Most of the seats were already taken, leaving with only one available position.
+=> P23: With no available alternative choices, he must take the remaining seat above ‘Ma Wenjie’.
+=> P24: Analyzing the seating order leads to understanding about the draw sequence.
+=> P25: This means that determining the turn order starting from himself would let him map how card drawing would proceed.
+=> P26: Assuming he was the first player, the drawing order would be: ‘Zhang Yuan’ (Cheng Si), ‘Ma Wenjie’ (Chen Ran or the second Masked Man), Cheng Si, Chen Ran (Chen Ran or the second Masked Man), Li Annan, and Baili Qiangsheng (Li Annan).
+=> P27: The seating position of‘Li Annan’ (Chen Ran or the second Masked Man) and ‘Ma Wenjie’ (Chen Ran or the second Masked Man), not only blocked Baili Qiangsheng’s team but also prevented any group from forming three consecutive seats.
+=> P28: The first player has two opportunities to get cards before the first settlement.
+=> P29: Since the rules do not explicitly define the winning condition,  the initial conditions like card dealing must be a critical factor in winning.
+C9: Therefore, the dealer determines who becomes the first player.
+C10: Therefore, controlling who becomes the first player by how the cards are dealt can determine advantage.
+Still, this leads to ‘Li Annan’ (Chen Ran or the second Masked Man) and ‘Ma Wenjie’ (Chen Ran or the second Masked Man) to propose Rock-Paper-Scissors once again. Both ‘Li Annan’ and ‘Ma Wenjie’ still said that they’ll be throwing scissors later.
+The fourth round of Rock-Paper-Scissors yielded the victory of ‘Li Annan’ and ‘Ma Wenjie’, as they had picked Paper while the rest picked Rock. On the surface, this victory of theirs was considered a lie.
+Thinking the same thing, ‘Cheng Si’ pulled out her Liar Killer and pointed it at ‘Ma Wenjie’. However, upon seeing the calm face of ‘Ma Wenjie’, she hesitated and tried to reason through it:
+=> P1: The exact wording was “Later, I will throw scissors”.
+=> P2: Yet, both ‘Ma Wenjie’ and ‘Li Annan’ threw Paper to counter Rock.
+=> P3: There was a key term “later”, which refers to a later time.
+=> P4: In addition, “later” is undefined, which means that it does not indicate whether it means the first round, second round, or any future round.
+=> P5: Since the meaning behind “later” is unclear, the statement cannot be verified accurately.
+=> P6: This creates a subtle ambiguity behind the statement, which forces others to assume that it refers to the next immediate round.
+=> P7: If ‘Cheng Si’ assumes that ”later” means that “Ma Wenjie” will throw scissors the next round, then the expectations of ‘Cheng Si’ becomes predictable.
+=> P8: Since “later” means any given time after the current time, ‘Ma Wenjie’ could throw scissors later than the expectations of ‘Cheng Si’.
+=> P9: If ‘Cheng Si’ judges the statement of ‘Ma Wenjie’ at the wrong time, it could cause a mismatch.
+=> P10: That mismatch would be due to depending on an interpretation that is not guaranteed to be true.
+=> P11: If ‘Cheng Si’ judged ‘Ma Wenjie’ and ‘Ma Wenjie’ threw scissors at a later time, ‘Cheng Si’ would have lied.
+=> P12: If ‘Cheng Si’ had lied, the others would have the capability to judge her through their Liar Killers.
+C1: Therefore, the statement of ‘Ma Wenjie’ adding the term “later” is a trap that could grant ‘Ma Wenjie’ an opportunity to make the other five people lie and judge them through his Liar Killer.
+C2: Therefore, If ‘Cheng Si’ had judged ‘Ma Wenjie’, she most certainly would have been caught by the trap and death would be nearly certain due to the Liar Killer.
+‘Cheng Si’ put her Liar Killer away, while both ‘Li Annan’ and ‘Ma Wenjie’ played Rock-Paper-Scissors again and played scissors to fulfill the “later” from their previous statement. This effectively prevents a lie from happening.
+‘Li Annan’ and ‘Ma Wenjie’ looked at each other, basically able to confirm each other's identities.
+‘Li Annan’ and ‘Ma Wenjie’ continued to play Rock-Paper-Scissors. ‘Ma Wenjie’ stated that he’ll throw Rock while ‘Li Annan’ simply acknowledged it.
+Their round of Rock-Paper-Scissors had ended with ‘Li Annan’ throwing Scissors and ‘Ma Wenjie’ throwing Paper.
+‘Li Annan’ won the round and obtained the right to deal cards.
+‘Li Annan’ had seen through the trick of ‘Ma Wenjie’ through a very quick reasoning:
+=> P1: During the earlier rounds, both ‘Li Annan’ and ‘Ma Wenjie’ used the term “later” in the statement: “Later, I will throw scissors”, which avoids lying by keeping the timing undefined for the speaker to utilize upon.
+=> P2: Both of them later fulfilled this statement by throwing scissors in a later round, thereby proving their earlier words of “Later, I will throw scissors” were not lies.
+C1: This established a new type of constraint that when someone makes a specific and time-bound statement, it must be true because lying was forbidden and that they had to fulfill it eventually or they would get judged by a Liar Killer.
+
+=> P3: ‘Ma Wenjie’ stated that “This time, I’ll throw Rock”.
+=> P4: There was a term called “This time” within the sentence.
+=> P5: “Later” and “This time” were fundamentally different, as “This time” meant that it refers to the current round, not like “Later” where it referred to later rounds that made it ambiguous.
+C2: “This time” makes the statement precise since ‘Ma Wenjie’ needs to throw Rock within the current round or he’ll be lying.
+
+=> P6: If ‘Ma Wenjie’ throws rock, the direct and obvious counter is paper.
+=> P7: ‘Ma Wenjie’ has been shown to keep up with the intentions of ‘Li Annan’.
+=> P8: They are both incredibly intelligent.
+C3: ‘Ma Wenjie’ is too obvious, there must be an underlying trap behind his statement of “This time, I’ll throw Rock.”
+
+=> P9: ‘Ma Wenjie’ knows that his statement forces him to throw Rock in the current round, and he also knows that ‘Li Annan’ will realize this.
+C4: From Ma Wenjie’s perspective, Li Annan’s most logical move becomes paper.
+
+=> P10: Yet, ‘Ma Wenjie’ still seemed to throw Rock despite being forced into a losing move.
+C5: This creates a mismatch between the situation and the behavior of ‘Ma Wenjie’.
+
+=> P11: The term “this time” within the statement of “This time, I’ll throw rock” means that within the current round, Ma Wenjie must throw rock with at least one hand to avoid lying.
+=> P12: The other hand of ‘Ma Wenjie’ was hidden from the view of  ‘Li Annan’.
+=> P13: The visible hand might not reflect the decisive move.
+=> P14: The declaration of ‘Ma Wenjie’ throwing rock must be fulfilled, but this only requires one of his hands to throw rock.
+=> P15: One of his other hands is vacant.
+=> P16: The other hand could be used to play the actual intended move.
+=> P17: The visible hand of ‘Me Wenjie’ may not reflect the true decisive move, as the hidden hand could either serve as a distraction or to fulfill the declaration.
+=> P18: ‘Ma Wenjie’ is forbidden to lie, which means that he needs to throw Rock within this round, but ‘Ma Wenjie’ can manipulate which hand is the actual decisive move.
+=> P19: ‘Me Wenjie’ being highly intelligent, will anticipate the expectation of ‘Li Annan’ that ‘Ma Wenjie’ would throw Rock
+C6: If the hidden hand’s purpose is compliance and not the real move, then the real decisive move is within the other hand, intended to exploit the expected counter of ‘Li Annan’ throwing paper.
+C7: The true move cannot be the declared Rock, since that is already covered by the compliance of the hidden hand. Throwing Rock brings no strategic benefit and loses directly against the obvious counter of ‘Li Annan’ throwing Paper.
+C8: To exploit ‘Li Annan’ choosing Paper for the declared Rock, ‘Ma Wenjie’ must choose a move that beats ‘Li Annan’ throwing Paper, which would be Scissors.
+
+=> P20: ‘Ma Wenjie’ might be aware that ‘Li Annan’ could see through his deception of using a hidden hand
+=> P21: This meant that using an obvious counter for ‘Ma Wenjie’ to use against ‘Li Annan’ throwing Paper would be Scissors, would lead to a reversal of ‘Li Annan’ throwing Rock. Thereby, countering ‘Ma Wenjie’ throwing Scissors.
+C9: Since ‘Ma Wenjie’ must account for the capability of ‘Li Annan’ reasoning to this depth, choosing Scissors might lead to a loss against a higher layered reasoning.
+C10: Therefore, Scissors cannot be chosen as it is not the optimal move because it could be reasoned out by ‘Li Annan’, which means that it fails under a higher layer of reasoning.
+C11: With the hidden hand already using Rock as a compliance for the Rock declaration to avoid lying, and Scissors being eliminated due to being countered at a higher layer of reasoning, the only remaining move was paper.
+C12: If ‘Ma Wenjie’ throws paper, against a first layer response by ‘Li Annan’ throwing paper against the obvious declaration of ‘Ma Wenjie’ throwing Paper, it ties and avoids loss.
+C13: Under a second layered response that ‘Li Annan’ had realized the hidden hand mechanism and realizes that his first layer response of Paper being countered by Scissors, and ‘Li Annan’ throwing Rock instead to counter this, Paper could defeat this second layered response, granting ‘Ma Wenjie’ the right to deal cards.
+C14: Therefore, the true decisive move of ‘Ma Wenjie’ is Paper, as it brings much more strategic benefits than either throwing Rock or Scissors.
+C15: The actual interaction was between the move of ‘Li Annan’ and this decisive move of Paper by ‘Ma Wenjie’, which means that the hidden hand of Rock means nothing as it only provides compliance against the Rock declaration by ‘Ma Wenjie’.
+C16: If ‘Li Annan’ throws Rock against the decisive move of Paper by ‘Ma Wenjie’, this guarantees a complete loss.
+C17: If ‘Li Annan’ throws Paper against the decisive move of Paper by ‘Ma Wenjie’, it would result in a tie, which fails to secure the win and allows the opponent to have another chance of winning through the next round.
+C18: If ‘Li Annan’ throws Scissors against the decisive move of Paper by ‘Ma Wenjie’, it would directly defeat ‘Ma Wenjie’, which produces a winning outcome no matter what ‘Ma Wenjie’ uses for the hidden hand.
+C19: Therefore, choosing Scissors was the only move.
+It turns out that ‘Ma Wenjie’ had used a hidden hand mechanism to mitigate the “Lying is forbidden" caused by declaring “This time, I’ll throw Rock”, as a multi-layered trap for ‘Li Annan’.
+Since ‘Li Annan’ had won the Rock-Paper-Scissors against ‘Ma Wenjie’, he gained the right to deal cards.
+‘Li Annan’ dealt himself two face-up cards, and the other five people three face-up cards each. This made ‘Li Annan’ the first player, ensuring he gets the first two draws before settlement.
+The entire deck had exactly 17 cards.
+They couldn’t see their own cards but they could see the cards of other people.
+Each card had a pattern. Mainly Wolf Head, Sheep Head, and Shepherd.
+The six participants fell into deep thought.
+‘Zhang Yuan’ (Cheng Si) contemplated upon the current situation:
+=> P1: Each card had a pattern. Mainly Wolf Head, Sheep Head, and Shepherd.
+=> P2: ‘Ma Wenjie’ had Shepherd, Wolf, and Sheep.
+=> P3: ‘Cheng Si’ had Shepherd, Wolf, and Wolf.
+=> P4: ‘Chen Ran’ had Shepherd, Shepherd, and Sheep.
+=> P5: ‘Li Annan’ had Shepherd and Wolf.
+=> P6: ‘Baili Qiangsheng’ had Wolf, Wolf, and Sheep.
+=> P7: There were five Shepherds, five Wolves, and four Sheep. Making it a total of fourteen cards.
+C1: Each player was supposed to have three cards, which meant that the full deck should contain eighteen cards if no cards were missing.
+
+=> P8: Since each card had a different pattern, it must be important to the overall outcome.
+C2: Deducing the relationship between these patterns means the key to victory.
+
+=> P9: Wolves eat Sheep.
+=> P10: Shepherds protect Sheep from Wolves.
+=> P11: Sheep are the victims.
+C3: Therefore, the cards must correspond to three different factions among the six players, being Wolf Heads, Sheep Heads, and Shepherd.
+
+=> P12: The second secret chamber’s question was the cause, process, and outcome of the entire case.
+=> P13: But the report was written by the police.
+C4: Whoever submitted the report was the police.
+
+=> P14: ‘Zhang Yuan’ recollected that in the previous chamber, he himself, as Cheng Si, submitted the correct answer and that Baili Qiangsheng and his allies also submitted correct answers.
+C5: This meant that all four of them were police.
+
+=> P15: Chen Ran was the husband in the last Secret Chamber, and the Masked Man was the murderer in the last Secret Chamber.
+C6: Shepherd represents the police, wolf represents the Masked Man, and sheep represents the husband.
+C7: ‘Li Annan’ and ‘Ma Wenjie’ wanted to separate the four of them to prevent them from sitting in three consecutive seats.
+
+=> P16: There were six people in total.
+C8: There should be six shepherds, six wolf heads, and six sheep heads.
+
+=> P17: A deck is eighteen cards.
+=> P18: But the deck given to them only had seventeen cards.
+C9: There is a missing card.
+C10: To accurately deduce his own cards, he first needs to find the missing card to erase ambiguity.
+
+=> P19: The Wolf Head represents the Masked Man, and the first Masked Man was killed by the seven and a half couples in the last secret chamber.
+C11: Which meant that the missing card was a Wolf Head.
+
+=> P20: From the fourteen cards shown, the missing cards were one shepherd, and two sheep heads.
+C12: Therefore, the cards of ‘Zhang Yuan’ (Cheng Si) were Shepherd, Sheep, and Sheep.
+‘Zhang Yuan’ (Cheng Si) also observed that ‘Chen Ran’ was frowning while the other five had relaxed expressions.
+This led to ‘Zhang Yuan’ hypothesizing that they had already deduced their cards also.
+The only question was how these three types of cards combined to win.
+‘Li Annan’ cut their reasoning short and drew a card as he was the only player that had two cards.
+The successor of ‘Li Annan’ was ‘Baili Qiangsheng’, this meant that he needed to draw one card from ‘Baili Qiangsheng’.
+‘Baili Qiangsheng’ had the cards: Wolf, Wolf, and Sheep.
+‘Li Annan’ drew a Wolf card from ‘Baili Qiangsheng’
+This continued for the other participants.
+‘Baili Qiangsheng’ drew a Shepherd card from ‘Zhang Yuan’
+‘Zhang Yuan’ drew a Sheep card from ‘Ma Wenjie'.
+‘Ma Wenjie’ drew a Shepherd card from ‘Cheng Si'.
+‘Cheng Si’ drew a Shepherd card from ‘Chen Ran'.
+‘Chen Ran’ drew a Shepherd card from ‘Li Annan'.
+Since ‘Li Annan’ was the first player, according to the rules of the game, he needed to draw one more card before the round could be settled. This meant that ‘Li Annan’ needed to draw a card from ‘Baili Qiangsheng’ once more.
+‘Baili Qiangsheng’ had the cards: Shepherd, Wolf, and Sheep.
+The first round of drawing cards had ended.
+‘Zhang Yuan’ (Cheng Si) once again took a glance at the cards of the other five people.
+‘Ma Wenjie’ had Shepherd, Shepherd and Sheep.
+‘Cheng Si’ had Shepherd, Wolf, and Wolf.
+‘Chen Ran’ had Shepherd, Shepherd, and Sheep.
+‘Li Annan’ had Wolf, Wolf, and Wolf.
+‘Baili Qiangsheng’ had a Shepherd, and Sheep.
+ ‘Zhang Yuan’ (Cheng Si) continued to deduce his cards once more:
+=> P1: His previous cards were: Shepherd, Sheep, and Sheep.
+=> P2: ‘Baili Qiangsheng’ drew his Shepherd card.
+=> P3: ‘Zhang Yuan’ drew a Sheep card from ‘Ma Wenjie’.
+C1: The winner could be determined based on which side the scale tips.
+‘Zhang Yuan’ (Cheng Si) glanced at ‘Chen Ran’ who was still maintaining a frowning expression.
+=> P4: The soul inside ‘Chen Ran’ should be one of Baili Qiangsheng’s three-person team.
+=> P5: Time had passed for so long.
+=> P6: ‘Chen Ran’ most likely has not deduced his own cards.
+=> P7: ‘Baili Qiangsheng’ was also frowning.
+=> P8: The scale’s graduated dial had five markings on both the left and right sides.
+=> P9: The pointer had shifted one mark to the left, causing the scale to tip left.
+=> P10: There was a handgun on the left pan.
+=> P11: There were six card types in the table.
+=> P12: Shepherd, Shepherd, and Sheep.
+=> P13: Shepherd, Wolf, and Wolf.
+=> P14:  Shepherd, Shepherd, and Sheep.
+=> P15:  Wolf, Wolf, and Wolf.
+=> P16: Shepherd and Sheep.
+=> P17: Sheep, Sheep, and Sheep.
+=> P18: Shepherd, Shepherd, and Sheep, can be interpreted as two shepherds guarding one sheep.
+=> P19: When a wolf attacks, one shepherd guards the sheep, and the other shepherd deals with the wolf.
+=> P20: This way, the sheep does not run away and that the wolf cannot eat the sheep.
+C2: Therefore, Shepherd, Shepherd, and Sheep means the Shepherd wins.
+C3: Shepherd, Wolf, and Wolf means the wolf wins.
+C4: Wolf, Wolf, and Wolf means the wolf wins.
+C5: Sheep, Sheep, and Sheep means the sheep wins.
+
+=> P21: But ‘Baili Qiangsheng’ only has two cards on his table being Shepherd and Sheep.
+C6: It is almost impossible to determine the outcome.
+C7: Either way, the process could be deduced directly from the result later.
+
+=> P22: Excluding the cards of ‘Baili Qiangsheng’, the scores for the five people could be deduced.
+C8: Shepherd has two wins.
+C9: Wolf has two wins.
+C10: Sheep has one win.
+
+P23: In Western mythology, there was a scale in the Hall of Judgement for the dead, with the deceased’s heart placed on the left side of the scale and a feather placed on the right side.
+P24: If the deceased’s heart is heavier than the feather, it shows that the deceased was evil in life.
+P25: If the heart is lighter than the feather, it shows that the deceased was good in life.
+=> C11: The scale tipping one mark to the left means it is tipping one mark towards the handgun.
+=> C12: Therefore, after the first round of drawing cards, the scale’s judgement is that evil outweighs good.
+
+P26: Evil is the handgun, and good is the handcuffs.
+P27: There was the question of who needed the handgun and who needed the handcuffs.
+P28: The police are the embodiment of justice and not evil, so the police must need handcuffs.
+P29: The Masked Man is the embodiment of evil and not justice, so the Masked Man needs the handgun.
+P30: The question now was whether the husband needed the handgun or the handcuffs.
+P31: In previous deductions, one of the husband’s children was killed, and his ex-wife was also killed.
+=> C13: This means that the husband must definitely want the Masked Man dead.
+
+P32: However, in the previous secret chamber, the Masked Man provided false information to the police.
+P33: Everyone who knew he was an accomplice to the crime had already been burned to death by him inside the classroom.
+=> C14: Therefore, the Masked Man will not be punished by law.
+
+P34: Yet, the husband wants him dead.
+=> C15: The first conclusion is that the husband can only bypass the law and kill the Masked Man himself.
+=> C16: The second conclusion is that the husband is evil.
+=> C17: It can be concluded that the win-loss situation for the five people in this round was good with two wins, while evil had three wins.
+
+P35: Good and Evil were located at the opposite ends of the scale.
+=> C18: Two Goods cancel out Two Evils, which leaves one Evil remaining.
+=> C19: This resulted in the scale tipping one mark to the left.
+
+P36: Since the outcomes of the five people determined the scale’s tipping, the cards on ‘Baili Qiangsheng’ were meaningless.
+=> C20: This meant that Shepherd and Sheep were a draw.
+=> C21: Therefore, Shepherd is good, while Sheep is evil, and together they result in a draw.
+=> C22: This meant that ‘Zhang Yuan’ must not let the scale tip to the left again, as it would let the Masked Man get the gun and go on a killing spree.
+=> C23: Therefore, it no longer mattered whether ‘Li Annan’ or ‘Ma Wenjie’ was the Masked Man, as long as the other three people could deduce the answer, then ‘Li Annan’ and ‘Ma Wenjie’ would be helpless.
+
+P37: Yet, it seemed the other three people, mainly ‘Cheng Si’ ‘Chen Ran’, and ‘Baili Qiangsheng’, could not deduce the answer.
+P38: One of the three people must be Baili Qiangsheng.
+P39: Given Baili Qiangsheng’s intelligence, deducing the answer should not be a problem.
+P40: But Baili Qiangsheng seems unable to deduce it.
+P41: There was the possibility that ‘Zhang Yuan’ (Cheng Si) could state the result of his own deduction towards them.
+P42: However, they didn’t know ‘Zhang Yuan’ was Cheng Si.
+=> C24: This means that they will not believe what ‘Zhang Yuan’ (Cheng Si) will say.
+
+P43: Baili Qiangsheng’s three people were the first to leave the second secret chamber.
+=> C25: This means that they were unaware that Zhang Yuan had died.
+
+P44: In their view, having six people in this secret chamber is completely normal.
+=> C26: Therefore, the Masked Man will not appear in their deduction.
+And so... following Chen Ran, Cheng Si, and Baili Qiangsheng's three people, Zhang Yuan also put on the mask of suffering.
+Both ‘Ma Wenjie’ and ‘Li Annan’ stated aloud that they were essentially dumb, which garnered the sights of the four people. They further dumped oil in fire and provoked them even further through insulting their IQ.
+Seeing that the four had been distracted, ‘Ma Wenjie’ suddenly asked a question on who’s turn was it to draw a card.
+Absentmindedly, ‘Cheng Si’ pointed at ‘Li Annan’ and stated that ‘Li Annan’ was the first player and that it was his turn to draw a card.
+‘Li Annan’ and ‘Ma Wenjie’, as if pretending, dropped their act and pulled out their Liar Killers , aimed the muzzle at ‘Cheng Si’, and judged her.
+Only two shots were fired, and ‘Cheng Si’ was dead.
+Her death caused a visceral reaction for the five remaining players.
+This prompted ‘Zhang Yuan’ (Cheng Si) to ask if there was anyone that died in the last secret chamber.
+While speaking, countless deductions continued to fill his mind:
+P45: The soul inside ‘Cheng Si’ should have been one of Baili Qiangsheng’s three-person team.
+P46: ‘Li Annan’ and ‘Ma Wenjie’ were deliberately making sarcastic remarks to disrupt and dull their thoughts.
+=> C27: In doing so, they would accumulate their anger.
+
+P47: When ‘Ma Wenjie’ asked whose turn it was to draw a card, ‘Cheng Si’ spoke and pointed at ‘Li Annan’ without thinking, saying that ‘Li Annan’ was the first in the last round.
+P48: But in this round, ‘Baili Qiangsheng’ only has two cards.
+=> C28: This means that ‘Baili Qiangsheng’ is the first to draw a card.
+=> C29: Therefore, ‘Cheng Si’ committed an emotional lie.
+
+P49: If ‘Cheng Si’ committed such a low-level mistake, then the soul inside her body must not be ‘Baili Qiangsheng.’
+P50: If everyone had undergone a soul swap, then the soul inside ‘Baili Qiangsheng’ is definitely not Baili Qiangsheng himself.
+P51: ‘Chen Ran’ deliberately pretended not to know how to smoke earlier to mislead everyone.
+=> C30: Therefore, the soul inside ‘Chen Ran’ is the real Baili Qiangsheng.
+
+P52: In Baili Qiangsheng’s deduction, the ‘Zhang Yuan’, along with ‘Li Annan’ and ‘Ma Wenjie’, are Cheng Si, Chen Ran, and Zhang Yuan respectively.
+P53: ‘Zhang Yuan’ (Cheng Si) had just recently asked who died in the last secret chamber.
+=> C31: Therefore, as long as Baili Qiangsheng wasn’t too stupid, Baili Qiangsheng should understand what Cheng Si was trying to convey.
+It is now revealed that ‘Chen Ran’ was Baili Qiangsheng and reasoned through what previously happened.
+P1: ‘Chen Ran’ was Baili Qiangsheng and had occupied the body of  ‘Chen  Ran’.
+P2: A teammate of ‘Baili Qiangsheng’ has died.
+P3: The questioning of ‘Zhang Yuan’ meant that Chen Ran, Cheng Si, and Zhang Yuan had an internal conflict in the last secret chamber after Baili Qiangsheng and his teammates left.
+P4: Zhang Yuan could not outplay Chen Ran and Cheng Si.
+P5: Zhang Yuan had occupied ‘Cheng Si’.
+P6: Zhang Yuan had been set up and killed by them.
+P7: Zhang Yuan had already died, yet he appeared in the third secret chamber.
+=> C1: Zhang Yuan is the second Masked Man.
+
+P8: After the soul swap, the body that the second Masked Man’s soul occupied was unknown.
+=> C2: Therefore, the souls inside ‘Zhang Yuan’, ‘Li Annan’, and ‘Ma Wenjie’ should be Cheng Si, Chen Ran, and the second Masked Man respectively.
+=> C3: This meant that this was the reason why Baili Qiangsheng couldn’t deduce the three patterns.
+
+P9: Shepherd is the police.
+P10: Wolf is the Masked Man.
+P11: Sheep is the only surviving husband among the eight couples.
+P12: ‘Ma Wenjie’ had Shepherd, Shepherd, and Sheep.
+P13: Cheng Si’ had Shepherd, Wolf, and Wolf.
+P14: ‘Li Annan’ had Wolf, Wolf, and Wolf.
+P15: ‘Baili Qiangsheng’ had Shepherd, and Sheep.
+=> C4: This meant that the cards of ‘Zhang Yuan’ were not Sheep, Sheep, and Sheep, but Wolf, Sheep, and Sheep.
+=> C5: Wolf, Sheep, and Sheep means that one wolf eats one sheep and the remaining sheep escapes, which means that Sheep wins.
+=> C6: Sheep, Sheep, and Sheep means that Sheep wins.
+=> C7: Although the outcome for both card combinations are the same, there will definitely be a problem in the next round of drawing.
+
+P16: The cards of those five were: four Shepherds, six Wolves, and four Sheep.
+P17: The cards of ‘Chen Ran’ (Baili Qiangsheng) are either Shepherd, Shepherd, and Shepherd, or Shepherd, Sheep, and Sheep.
+=> C8: Therefore, in the next round, the player before ‘Chen Ran’ (Baili Qiangsheng), will either draw a Shepherd or Sheep card from ‘Chen Ran’ (Baili Qiangsheng).
+
+P18: However, the possibility of finding the missing card is nonexistent unless all three cards on the table of ‘Chen Ran’ change into Wolf.
+P19: Coincidentally, the player after ‘Chen Ran’ is ‘Li Annan’.
+P20: All three cards on the table of ‘Li Annan’ are Wolf cards.
+The drawing order for the second round were as follows:
+‘Baili Qiangsheng’, ‘Zhang Yuan’, ‘Ma Wenjie’, ‘Chen Ran’, and ‘Li Annan’.
+Now that ‘Cheng Si’ was dead, ‘Li Annan’ spoke up and asked a question if the cards of ‘Cheng Si’ would remain unchanged forever.
+‘Ma Wenjie’ reasoned that the cards will only be reshuffled when one side of the scale tilts all the way to the bottom since:
+P1: The scale represents judgement.
+P2: When a judgement ends, a new judgement begins.
+C1: This means that the cards will be reshuffled.
+‘Baili Qiangsheng’ also pondered even more:
+P1: The cards of ‘Zhang Yuan’ were Wolf, Sheep, and Sheep.
+P2: The cards of ‘Baili Qiangsheng’ were Shepherd and Sheep.
+P3: In the last round, the other five had six Shepherds, four Wolves, and five Sheep.
+P4: In the current round, the other five had five Shepherds, six Wolves, and four Sheep.
+=> C1: Therefore, he had a Shepherd card in his hand.
+=> C2: Since six Wolf cards were already visible, the cards on his table could only be Shepherd and Sheep.
+Since ‘Baili Qiangsheng’ didn’t find the answer if he was Good or Evil, ‘Baili Qiangsheng’ drew a Wolf card from ‘Zhang Yuan’.
+This move surprised ‘Zhang Yuan’ (Cheng Si) as he thought of the following reasoning:
+P1: His cards were Sheep, Sheep, and Sheep.
+P2: Yet, there was a Wolf card.
+P3: Since there was no Wolf card missing, then the missing one should be a Sheep card.
+=> C1: Therefore, if he wanted the Shepherd to win, he had to draw a Shepherd card from ‘Ma Wenjie’ and he had to draw one for two consecutive rounds.
+‘Zhang Yuan’ drew a Shepherd card from ‘Ma Wenjie’.
+‘Ma Wenjie drew a Sheep card from ’Chen Ran’.
+‘Chen Ran’ drew a Wolf card from ‘Li Annan’.
+‘Li Annan’ drew a Sheep card from ‘Baili Qiangsheng’.
+It was the turn of ‘Baili Qiangsheng’ once again to draw a card and this time, he drew a Sheep card from ‘Zhang Yuan’.
+Now, the second round of drawing has ended. The scale tilted to the left once again, this time by three increments, making a total of four increments.
+‘Chen Ran’ (Baili Qiangsheng) deduced at the same time:
+P1: The scale tilted to the left once again.
+P2: This time, it moved by three increments, making a total of four increments.
+P3: The cards of ‘Cheng Si’ remain unchanged being: Shepherd, Wolf, and Wolf.
+P4: One Shepherd deals with one Wolf, but there’s no one to deal with the second Wolf.
+=> C1: Therefore, the Wolf wins.
+
+P5: ‘Baili Qiangsheng’ had a Shepherd, Wolf, and Sheep.
+P6: One Shepherd deals with one Wolf, leaving the Sheep unattended.
+=> C2: This means that the Sheep escapes, so the Sheep wins.
+
+P7: ‘Zhang Yuan’ had a Shepherd and Sheep.
+P8: Only two cards, Shepherd was Good, while Sheep was Evil.
+P9: Good and Evil cancel each other out.
+=> C3: Therefore, it was a draw.
+
+P10: ‘Ma Wenjie’ had a Shepherd, Sheep, and Sheep.
+=> C4: One Shepherd watches one Sheep, the second Sheep escapes, which means that Sheep wins.
+
+P11: ‘Li Annan’ had Wolf, Wolf, and Sheep.
+=> C5: One Wolf eats one Sheep, leaving one Wolf, so the Wolf wins.
+
+P12: Both Wolf and Sheep are Evil.
+P13: There are four wins now, but the scale only tilted by three increments.
+=> C6: Therefore, the card combination in the hand of ’Chen Ran’ (Baili Qiangsheng) must be a Shepherd victory.
+
+P14: Previously, the cards of ‘Chen Ran’ were either Shepherd, Shepherd, and Sheep or Shepherd, Sheep, and Sheep.
+P15: One Sheep card was drawn from ‘Chen Ran’, and ‘Chen Ran’ drew back a Wolf card.
+=> C7: Therefore, the cards on the table of ‘Chen Ran’ were either Shepherd, Shepherd, and Wolf, or Shepherd, Wolf, and Sheep.
+
+P16: If it was Shepherd, Shepherd, and Wolf, then the Shepherd wins.
+P17: If it was Shepherd, Wold, and Sheep, then the Sheep wins.
+=> C8: Therefore, the cards of ‘Chen Ran’ were Shepherd, Shepherd, and Wolf.
+=> C9: Therefore, the missing card was a Sheep card.
+Both ‘Zhang Yuan’ and ‘Chen Ran’ deduced that one Sheep card was missing from the seventeen cards.
+But it was already too late as there were only five increments on the left side of the scale, and it had already tilted by four.
+If there was one more increment, it would tilt all the way.
+Both ‘Zhang Yuan’ (Cheng Si) and ‘Chen Ran’ (Baili Qiangsheng) deduced at the same time:
+P1: There were only five increments on the left side of the scale, and it had already tilted by four.
+P2: If there was one more increment, it would tilt all the way.
+P3: In the first round, there were two wins from the Shepherd, two wins from the Wolf, and one win from the Sheep.
+P4: In the second round, there was one win from the Shepherd, two wins from the Wolf, and two wins from the Sheep.
+P5: The total scores for the two rounds was that Sheep had three points, Wolf had four points, and Sheep had three points.
+P6: If the left side of the scale titles to the bottom, then the Shepherd is the police and doesn’t need to compete.
+=> C1: This meant that it depended on the scores of the Wolf and the Sheep.
+=> C2: Which means that whoever has more points gets the gun.
+
+P7: Currently, the Wolf was leading the Sheep by one point.
+P8: The Wolf is the Masked Man, devoid of humanity.
+P9: If the Masked Man gets the gun, he could kill either the police or the husband.
+P10: The Sheep is the husband, he only wants to kill the Wolf.
+P11: If the husband gets the gun, there’s a chance that he won’t kill the police.
+P12: ‘Cheng Si’ is dead, which means her cards won’t change.
+=> C3: Therefore, the Wolf is guaranteed to get another point in the next round.
+Outloud, both ‘Ma Wenjie’ and ‘Li Annan’ took a bet with each other.
+‘Ma Wenjie’ bet that ‘Zhang Yuan’ (Cheng Si) would die due to her cards.
+‘Li Annan’ bet that ‘Baili Qiangsheng’ would die due to his cards also.
+‘Zhang Yuan’ (Cheng Si)once again began deducing:
+P1: ‘Zhang Yuan’ (Cheng Si) had a Shepherd and Sheep.
+P2: ‘Baili Qiangsheng’ had a Shepherd, Wolf, and Sheep.
+P3: The third rule states that the one with the highest score obtains the corresponding item, namely the gun or handcuffs.
+P4: The 3rd rule only mentions the highest scorer.
+P5: It doesn’t mention what happens to the lowest scorer.
+P6: The cards of ‘Zhang Yuan’ (Cheng Si) in the first round were Wolf, Sheep, and Sheep.
+=> C1: Therefore, the Sheep wins.
+
+P7: ‘Zhang Yuan’ (Cheng Si) is the police, yet she has let the evil Sheep win.
+=> C2: Therefore, the score of ‘Zhang Yuan’ (Cheng Si) from the last round was -1 points.
+
+P8: The cards of ‘Zhang Yuan’ (Cheng Si) in the current round were Shepherd, and Sheep.
+=> C3: Therefore, it is a draw.
+
+P9: The score of ‘Zhang Yuan’ (Zhang Yuan) for the current round was 0 points.
+=> C4: Therefore, after two rounds, the final score of ‘Zhang Yuan’ (Cheng Si) was -1 points.
+
+P10: The cards of ‘Chen Ran’ from the last round were Shepherd, Shepherd, and Sheep.
+=> C5: Therefore, Shepherd wins.
+
+P11: The soul inside ‘Chen Ran’ must be Baili Qiangsheng.
+P12: If the soul inside ‘Chen Ran’ was Baili Qiangsheng, then he is the police and with a Shepherd win, he gets 1 point.
+P13: The hand of ‘Chen Ran’ (Baili Qiangsheng) in the current round was Shepherd, Shepherd, and Wolf.
+=> C6: Therefore, Shepherd wins.
+
+P14: ‘Chen Ran’ (Baili Qianngsheng) gets another 1 point.
+=> C7: Therefore, the final cumulative score of ‘Chen Ran’ (Baili Qiangsheng) was 2 points.
+
+P15: ‘Baili Qiangsheng’ had the hand of Shepherd and Sheep in the last round.
+=> C8: Therefore, he had a draw and gained 0 points.
+
+P16: In the current round, ‘Baili Qiangsheng’ had Shepherd, Wolf, and Sheep.
+=> C9: Therefore, the Sheep wins.
+
+P17: The soul inside ‘Baili Qiangsheng’ must be either Li Annan or Ma Wenjie.
+P18: If Sheep wins then ‘Baili Qiangsheng’ gains -1 point.
+P19: The final cumulative score for ‘Baili Qiangsheng’ was -1 points.
+=> C10: Therefore, both ‘Baili Qiangsheng’ (Li Annan or Ma Wenjie) and ‘Zhang Yuan’ (Cheng Si) have a final cumulative score of -1 point for the two rounds.
+
+P20: In the third round, ‘Baili Qiangsheng’ (Li Annan or Ma Wenjie) and ‘Zhang Yuan’ (Cheng Si) must compete to be second to last to avoid death.
+P21: The hand of ‘Zhang Yuan’ (Cheng Si) was Shepherd and Sheep, while ‘Baili Qiangsheng’ had Shepherd, Wolf, and Sheep.
+P22: The drawing order for the next round was: ‘Zhang Yuan’, ‘Ma Wenjie’, ‘Chen Ran’, ‘Li Annan’, and ‘Baili Qiangsheng’.
+P23: ‘Ma Wenjie’ has the hand of Shepherd, Sheep, and Sheep.
+P24: ‘Chen Ran’ has the hand of Shepherd, Shepherd, and Wolf.
+P25: ‘Li Annan’ has the hand of Wolf, Wolf, and Sheep.
+P26: ‘Zhang Yuan’ (Cheng Si) has the Shepherd and Sheep hands. If she wants to win, she must draw the Shepherd card from the hand of ‘Ma Wenjie’.
+P27: ‘Ma Wenjie’ has the hand of Shepherd, Sheep, and Sheep. If ‘Zhang Yuan’ (Cheng Si) draws his Shepherd card, his next player is ‘Chen Ran’, whose hand was Shepherd, Shepherd, and Wolf.
+P28: If ‘Ma Wenjie’ draws Shepherd, then his hand would be Shepherd, Sheep, and Sheep.
+P29: If ‘Ma Wenjie’ draws Wolf, then his hand would be Wolf, Sheep, and Sheep.
+=> C11: Therefore, no matter how ‘Ma Wenjie’ draws, the Sheep would always win.
+
+P30: In addition, ‘Ma Wenjie’ had bet upon the death of ‘Zhang Yuan’ (Cheng Si), which indicates that ‘Ma Wenjie’ would draw the Wolf card from ‘Chen Ran’.
+P31: Since ‘Zhang Yuan’ (Cheng Si) was first in the third round, she has the second chance to draw the cards of ‘Ma Wenjie’.
+=> C12: Therefore, as long as ‘Ma Wenjie’ has no Shepherd card on his table, and the Shepherd card of ‘Zhang Yuan’ (Cheng Si) is drawn by ‘Baili Qiangsheng’, then ‘Zhang Yuan’ (Cheng Si) would still only have one Shepherd card, but ‘Zhang Yuan’ (Cheng Si) would still have three cards on her table when the third round ends.
+
+P32: If there were three cards, and only one Shepherd card among them, then regardless of the hand type, there is no possibility of scoring.
+=> C13: This proves the reason why ‘Ma Wenjie’ bet for ‘Zhang Yuan’ (Cheng Si) to die.
+
+P33: If ‘Baili Qiangsheng’ had the hand of Shepherd, Wolf, and Sheep, and if he draws a Shepherd card from ‘Zhang Yuan’ (Cheng Si), then his hand would become Shepherd, Shepherd, Wolf, and Sheep.
+P34: ‘Li Annan’ was the player before ‘Baili Qiangsheng’, which means that ‘Li Annan’ would be the one to draw a card from ‘Baili Qiangsheng.’
+P35: If ‘Li Annan’ draws Shepherd from ‘Baili Qiangsheng’, then the hand of ‘Baili Qiangsheng’ would be Shepherd, Wolf, and Sheep.
+P36: If ‘Li Annan’ draws Wolf from ‘Baili Qiangsheng’, then the hand of ‘Baili Qiangsheng’ would be Shepherd, Shepherd, and Sheep.
+P37: If ‘Li Annan’ draws Sheep from ‘Baili Qiangsheng’, then the hand of ‘Baili Qiangsheng’ would be Shepherd, Shepherd, and Wolf.
+P38: If ‘Li Annan’ bet on the death of ‘Baili Qiangsheng’, then it must mean he would draw a Shepherd card from ‘Baili Qiangsheng’.
+=> C14: Therefore, when the third round ends, the cards of ‘Baili Qiangsheng’ would be Shepherd, Wolf, and Sheep.
+=> C15: Therefore, ‘Baili Qiangsheng’ would get -1 point.
+=> C16: Therefore, when the third round ends, their cumulative score for the three rounds would both be -2 points.
+
+P30: With the both of them having the same score, it would be uncertain who dies.
+P31: There exists a second scenario.
+P32: ‘Baili Qiangsheng’ was the first.
+P33: ‘Baili Qiangsheng’ drew cards twice and his final hand was Shepherd, Wolf, and Sheep.
+=> C17: Therefore, ‘Baili Qiangsheng’ hadn’t deduced whether he was good or evil.
+=> C18: Since ‘Baili Qiangsheng’ hadn’t yet deduced whether he was good or evil, this would explain why ‘Baili Qingsheng’ had chosen to take one of each card type: Shepherd, Wolf, and Sheep. As in his view, this combination is the most balanced.
+
+P34: If ‘Li Annan’ draws the Sheep card from ‘Baili Qiangsheng’, and ‘Baili Qiangsheng’ wants to continue maintaining balance among his cards, then ‘Baili Qiangsheng’ must also draw the Sheep card from the hand of ‘Zhang Yuan’ (Cheng Si), which means that the two Shepherd cards on the hand of ‘Zhang Yuan’ would be preserved.
+P35: ‘Baili Qiangsheng’ would remain having Shepherd, Wolf, and Sheep.
+=> C19: Therefore, ‘Baili Qiangsheng’ would still get -1 point.
+
+P36: Since ‘Zhang Yuan’ (Cheng Si) had two Shepherd cards remaining, it was impossible to lose and ‘Zhang Yuan’ (Cheng Si) would gain -1 point.
+=> C20: Therefore, at the end of the third round, the cumulative total score for ‘Baili Qiangsheng’ would be -2, while ‘Zhang Yuan’ (Cheng Si), would have 0 points.
+=> C21: Therefore, ‘Baili Qiangsheng’ would be the one to die.
+=> C22: The two scenarios would mean that their scores would be the same or ‘Zhang Yuan’ (Cheng Si) would be 2 points higher than ‘Baili Qiangsheng’.
+=> C23: Regardless of either scenario, ‘Li Annan’ plays a major role.
+=> C24: Therefore, in both scenarios, there were two many uncertain factors, since ‘Zhang Yuan’ (Cheng Si) needs ‘Baili Qiangsheng’ to remain foolish, and ‘Zhang Yuan’ (Cheng Si) also needs to ensure that the soul inside ‘Li Annan’ was genuinely helping ‘Zhang Yuan’ (Cheng Si)
+=> C25: Therefore, if even the two most ideal scenarios were to happen, the chances of‘Zhang Yuan’ (Cheng Si) would still be low.
+Since it was a bet, ‘Ma Wenjie’ pulled the Liar Killer from his waist and tossed it onto the gambling table in front of ‘Li Annan’.
+‘Ma Wenjie’ stated that ‘Li Annan’ was shocked to see ‘Cheng Si’ being judged to death and as to why ‘Ma Wenjie’ had a Liar Killer.
+‘Ma Wenjie’ also added that if ‘Li Annan’ won, he would tell him the way.
+‘Li Annan’ asked what he would have to pay once he lost, ‘Ma Wenjie’ simply replied that if ‘Li Annan’ lost, then in every subsequent round, from the card of the next player from ‘Li Annan’. That if there was a Sheep, ‘Li Annan’ would have to draw sheep, if there is no sheep, then ‘Li Annan’ would have to draw a Shepherd card, if there was no Shepherd card and no Sheep card, then ‘Li Annan’ would have to draw a wolf.
+‘Zhang Yuan’ (Cheng Si) once again started deducing:
+P1: ‘Ma Wenjie’ was betting on the death of ‘Zhang Yuan’ (Cheng Si).
+P2: If ‘Zhang Yuan’ (Cheng Si) dies, then there would only be four people left at the gambling table: ‘Ma Wenjie’, ‘Chen Ran’, ‘Li Annan’, and ‘Baili Qiangsheng’.
+P3: The next player of ‘Li Annan’ was ‘Baili Qiangsheng’, which meant that he could only draw the cards of ‘Baili Qiangsheng’.
+P4: According to the bet, if ‘Li Annan’ lost, then in every subsequent round, from the card of the next player from ‘Li Annan’. That if there was a Sheep, ‘Li Annan’ would have to draw sheep, if there is no sheep, then ‘Li Annan’ would have to draw a Shepherd card, if there was no Shepherd card and no Sheep card, then ‘Li Annan’ would have to draw a wolf.
+P5: The next player of ‘Baili Qiangsheng’ was ‘Ma Wenjie’, which means that ‘Baili Qiangsheng’ could only draw the cards of ‘Ma Wenjie’.
+C1: Therefore, ‘Ma Wenjie’ can control the card types on the table of ‘Li Annan’ by controlling the cards on the table of ‘Baili Qiangsheng’.
+C2: Therefore, the bet between ‘Li Annan’ and ‘Ma Wenjie’ was a losing bet for ‘Li Annan’.
+‘Li Annan’ also noticed this but agreed to the bet if ‘Ma Wenjie’ cannot speak until the end of the next round.
+‘Ma Wenjie’ agreed to this condition.
+When ‘Ma Wenjie’ agreed, ‘Li Annan’ smiled and looked at the other three and said that there was a problem with their logic, mainly being:
+1. What made them conclude that the Wolf was the second Masked Man.
+2. What made them conclude that that Sheep was the husband who didn’t die.
+The moment that ‘Li Anann’ had opened his mount, ‘Zhang Yuan’ (Cheng Si) took the opportunity to try and cooperate with ‘Zhang Yuan’ (Cheng Si), as he would not survive if not.
+‘Chen Ran’ (Baili Qiangsheng) also realized that ‘Li Annan’ might have been trying to induce him to lie.
+‘Chen Ran’ (Baili Qiangsheng) stated that the Masked Man was the Wolf, the surviving Husband was the Sheep, and the Police were the Shepherds, and called out the attempts of ‘Li Annan’ to induce others into lying.
+‘Li Annan’ pointed out the flaws in the thinking of ‘Chen Ran’ (Baili Qiangsheng) through the following deductions:
+P1: Based on their understanding, the Shepherd confining the Sheep, or the Police confining the Husband, was merely a joke.
+P2: The person inside the classroom was burned alive by the second Masked Man.
+P3: In the false testimony that person who was burned alive in the classes provided, he had also admitted that he had closed the front and back doors of the classroom.
+=> C1: It was not reasonable for the police not to confine him.
+=> C2: Therefore, it was more reasonable to confine a Husband who had never appeared at the crime scene.
+
+P4: The conclusion of the first two secret chamber sessions was that the team searching for the child consisted of only fifteen people, and the sole surviving Husband was never involved.
+P5: In addition, even the testimony of the second Masked Man never mentioned the husband.
+P6: In the eyes of the police, the Husband had and only had one identity of being a victim’s family member.
+P7: The police had no reason to confine a victim’s family member.
+=> C3: Therefore, the person being confined is the second Masked Man, since he was a major suspect.
+=> C4: Therefore, the police were the Shepherds, the Sheep were confined by the Shepherds.
+=> C5: Therefore, the second Masked Man, who is confined by the Police, was the real Sheep.
+
+P8: From the Husband’s perspective, he had tragically lost his child, his ex-wife being burned alive, while pursuing the killer.
+P9: With just a little thought, both the Husband and the Police should know that the second Masked Man was the murderer, they just lack evidence.
+=> C6: Consequently, the second Masked Man will escape legal sanctions.
+=> C7: Therefore, if the Husband wants revenge, there is only one viable path, and that is to circumvent the law and personally kill the second Masked Man.
+=> C8: Therefore, the true wolf is actually the sole surviving Husband.
+=> C9: The Police was the Shepherd, the Husband was the Wolf, and the Masked Man was the Sheep.
+=> C10: The Masked Man was confined by the Police.
+
+P10: If the Husband wants to kill the Masked Man, he must first deal with the police.
+P11: One end of the scale held the Pistol and the other end held the Handcuffs.
+=> C11: The Police used the Handcuffs to restrain the Husband to prevent him from being involved due to killing because of revenge. This was the Police’s goodness.
+=> C12: The Husband wanted to kill the Masked Man to avenge his deceased wife and child. This was the Husband’s evil.
+=> C13: Good and evil balanced on the two ends of the scale, and this gamble determined the direction of the game and plot.
+
+P12: Since the Sheep is the Masked Man, it explains the one missing Sheep card. As a Masked Man died in the last secret chamber.
+P13: According to the second Masked Man’s testimony, the fifteen people cruelly murdered the innocent teacher.
+P14: Currently, the Shepherd had three points, the Wolf had four points, and the Sheep had three points.
+P15: The scale tilts to the left and the left is evil.
+=> C14: They didn’t need to worry about the Shepherd’s score as they only needed to look at the Wolf and the Sheep’s score.
+
+P16: The difference between the Wolf and the Sheep was one point. It was hard to tell who would get the pistol due to the small difference.
+=> C15: They had to hypothesize what would happen if a confined suspect gets a gun.
+=> C16: The Sheep wouldn’t be foolish enough to get the Pistol first.
+=> C17: The card types of Shepherd, Wolf, and Sheep had also given the answer. One Shepherd deals with one Wolf, the Sheep is unguarded, and the Sheep runs away.
+At the same time, ‘Li Annan’ had pointed at ‘Baili Qiangsheng’ and the cards on the now deceased ‘Cheng Si’.
+P1: ‘Cheng Si’ had the card types of Shepherd, Wolf, and Wolf.
+Suddenly, ‘Baili Qiangsheng’ had pointed out that ‘Cheng Si’ had Shepherd, Wolf, and Wolf. This violates the rules of the game.
+Therefore, ‘Baili Qiangsheng’ was ejected from his seat by a mysterious force.
+‘Li Annan’ continued:
+C1: Therefore, if the cards of ‘Cheng Si’ were Shepherd, Wolf, and Sheep. One Shepherd would deal with one Wolf, the Sheep would be unguarded, and the Sheep would run away.
+It was revealed that ‘Li Annan’ had purposefully pointed out the error in their previous reasoning of the three card types in order to trick ‘Baili Qiangsheng’ to revealing another person’s cards on the table, to make him lose his qualification to sit at the gambling table, for ‘Li Annan’ to prepare a countermeasure against the bet against ‘Ma Wenjie’.
+The drawing order for the third round now became: ‘Zhang Yuan’, ‘Ma Wenjie’, ‘Chen Ran’, ‘Li Annan’, and ’Baili Qiangsheng’.
+However, now that ‘Baili Qiangsheng’ had now been eliminated, the person who drew the cards of ‘Zhang Yuan’ (Cheng Si) became ‘Li Annan’
+As long as ‘Li Annan’ did not draw the Shepherd card from the hand of ‘Zhang Yuan’ (Cheng Si), and that ‘Zhang Yuan’ (Cheng Si) drew a Shepherd card from ‘Ma Wenjie’, ‘Li Annan’ would have two Shepherd cards, guaranteeing the victory of the Police.
+‘Ma Wenjie’ was bound by a promise and could not speak.
+‘Li Annan’ signaled ‘Zhang Yuan’ to start drawing cards.
+There were now two people on the gambling table whose cards could not be changed.
+‘Cheng Si had Shepherd, Wolf, and Wolf.
+‘Baili Qiangsheng’ had a Shepherd, Wolf, and Sheep.
+The cards of the remaining four people were:
+‘Zhang Yuan’ had a Shepherd and Sheep.
+‘Ma Wenjie’ had a Shepherd, Sheep, and Sheep.
+‘Chen Ran’ had a Shepherd, Shepherd, and  Wolf.
+‘Li Annan’ had Wolf, Wolf, and Sheep.
+The third round had ended with:
+‘Zhang Yuan’ drawing ‘Ma Wenjie's shepherd card.
+‘Ma Wenjie’ drawing ‘Chen Ran's wolf card.
+‘Chen Ran’ drawing Li Annan's sheep card.
+‘Li Annan’ drawing ‘Zhang Yuan's sheep card.
+‘Zhang Yuan’ drawing ‘Ma Wenjie's sheep card again.
+Which meant that the cards on the six people’s desks became:
+Cheng Si: Shepherd Wolf Wolf.
+Baili Qiangsheng: shepherd wolf sheep.
+Zhang Yuan: Shepherd Shepherd Sheep.
+Ma Wenjie: Wolf Sheep.
+Chen Ran: Shepherd Shepherd Sheep.
+Li Annan: Wolf Wolf Sheep.
+This meant that the Shepherd had two wins, the Wolf had three wins, and the Sheep had one win.
+Since ‘Zhang Yuan’ scored points in the current round, her total score for the three rounds became 0 points, while ‘Baili Qiangsheng’ lost points in the current round and had accumulated a total score from the three rounds of -2 points.
+The scale on the gambling table title completely to the left. The pistol fell from the tray, which landed right on the table in front of ‘Li Annan’.
+Unexpectedly, ‘Li Annan’ aimed the muzzle at ‘Ma Wenjie. Upon firing, the bullet took a sharp turn and accurately struck ‘Baili Qiangsheng’ between the eyebrows.
+‘Chen Ran’ (Baili Qiangsheng), upon seeing this happen,posed the following reasoning:
+P1: The muzzle was aimed at ‘Ma Wenjie’, yet ‘Baili Qiangsheng’ died instead.
+‘Zhang Yuan’ continued:
+P2: In the previous deduction, the police confined the Masked Man.
+P3: If the Husband wanted to kill the Masked Man, he first had to deal with the police.
+C1: Therefore, the reason why the bullet ‘Li Annan’ fired at ‘Ma Wenjie’ curved and hit ‘Baili Qiangsheng’ instead was that
+P4: However, if ‘Li Annan’ wanted to answer the question from ‘Chen Ran’, he would have to reveal his and ‘Ma Wenjie’s identities.
+P5: However, according to the rules, anyone who exposes their identity would lose their qualification to sit at the gambling table.
+After ‘Li Annan’ had fired the gun, the pistol disappeared and reappeared on the left pan of the scale.
+‘Li Annan’ waited for ‘Ma Wenjie’ to uphold his part of the bet.
+‘Ma Wenjie’ noticed that both ‘Zhang Yuan’ (Cheng Si) and ‘Chen Ran’ (Baili Qiangsheng) were old players.
+"Some Old Player, ah, they want the Newbie to help solve the mystery, but they won't tell the Newbie the rules of the Hell Instance. That's truly lacking integrity."
+"I'm not interested in listening to you two degenerates discuss integrity here," Li Annan interrupted Ma Wenjie. Anyone who could come to Hell was definitely not a good person, so it was reasonable for him to call these two degenerates. "Have you ever considered how the dungeons and secret chambers in Hell came to be?" "In reality, players whose lives are stripped away by the Liar Killer do not truly die. The evil they committed in life transforms into an dungeon, and they become the NPC within their own dungeon, constantly on edge, fearing that a player might clear their dungeon. Once cleared, that is death in the truest sense." "We call this kind of death..." "Ultimate Death!" Speaking of this, madness showed in Ma Wenjie's eyes: "Did you know? After the second Masked Man became an NPC, he was afraid, afraid of Ultimate Death. Every day, he watched the evil deeds of his life in the three secret chambers, repenting over and over, begging for redemption. This feeling is like a sharp sword hanging over his head, never knowing when that sword will fall." "This is a form of torment. The second Masked Man can constantly experience the feeling of the people he murdered right before they died." "When the players arrive, he is both terrified and excited. Terrified of Ultimate Death, and excited that he can display the masterpiece of his life and experience the thrill of killing again." Ma Wenjie's crazed face became hideous and twisted, like that of a mad artist. Seeing his appearance, Li Annan inwardly thought, this guy couldn't have been driven mad, could he? But then again, the known rules of Hell are truly terrifying. Downward Compatibility: Big fish eat small fish, small fish eat shrimp. In the dungeon, you will always encounter players stronger than yourself; death is only a matter of time. Ultimate Death: Being shot by the Liar Killer is not the end. Hell will turn the evil you committed in life into an dungeon, transforming you into an dungeon NPC, cycling endlessly until a player clears the dungeon—that is true death, the epitome of torment. Three types of Lies: Emotional Lies, Common Sense Lies, and Sentiment Lies. These three types of Lies are unavoidable for everyone. To avoid them, one must become a saint who appears desireless on the outside but is tormented on the inside. Furthermore. Li Annan realized that when the Liar Killer strips a player's life, they turn into an dungeon. Could it be... that the dungeons within Hell are endless?
+‘Li Annan’ quickly placed a trap by asking a simple question:
+“You still haven’t told me why you possess the Liar Killer”
+P1: If ‘Ma Wenjie’ admitted that he was the second Masked Man, he would lose the qualification to sit at the gambling table.
+P2: If ‘Ma Wenjie’ didn’t admit it, the words he spoke during the bet would become a Future Lie.
+Unexpectedly, ‘Ma Wenjie’ was calm yet had madness.
+Some people, they are Newbie, they haven't been to the Eighteenth Layer, and they don't know the three systematic Heart Cultivation methods: True Self, Ego, and Superego. Relying on a bit of cleverness, they think others are stupid. I think he should be thankful that the second Masked Man's home field has nothing to do with Heart Cultivation and is only a battle of wits.
+‘Ma Wenjie’ (Second Masked Man) called them trash.
+The statement of ‘Ma Wenjie’ was surely a lie, yet as ‘Zhang Yuan’, ‘Li Annan’, and ‘Chen Ran’ were about to draw their Liar Killers, the secret chamber went dark.
+‘Ma Wenjie’ (Second Masked Man) had activated his Liar Killer Skill - Soul Transfer.
+However, the intuition of all three players knew that if they continued to judge using the Liar Killer, they would die.
+Light returned to the secret chamber.
+Cheng Si, along with the others ,deduced the anomaly easily:
+P1: Cheng Si was controlling the body of ‘Zhang Yuan’.
+P2: Yet, ‘Zhang Yuan’, ‘Ma Wenjie’, and ‘Chen Ran’ were in her line of sight.
+=> C1: Therefore, Cheng Si had been transferred to the boy of ‘Li Annan’.
+
+P3: The condition for using the Liar Killer was that sacrificing one guaranteed successful judgement opportunity.
+P4: Just now, ‘Ma Wenjie’ (Second Masked Man) told a lie.
+=> C2: Therefore, ‘Ma Wenjie’ (Second Masked Man) had sacrificed the opportunity for them to judge him for the Second Masked Man to judge himself.
+
+P5: Consequently, the mechanism of their souls switching bodies had activated once again.
+P6: Even if they knew that ‘Ma Wenjie’, who had been previously the Masked Man, told a lie, they wouldn't be able to determine who he was transferred to.
+=> C3: Therefore, they couldn’t directly initiate judgement as the souls have been transferred and the concept between the body speaking the lie would be judged or the soul inhabiting the body would be judged is still uncertain.
+
+P7: The Liar Killer Skill was too powerful, this prompted the difficulty of a Novice Instance to be much higher than average.
+=> C4: Therefore, the final reward for the current Novice Instance includes the Liar Killer skill.
+‘Li Annan’ began dealing the cards despite hesitating, due to Chen Ran pushing him to do so.
+The seating order was now: ‘Li Annan’, ‘Zhang Yuan’, ‘Ma Wenjie’, ‘Chen Ran’.
+The soul inside ‘Li Annan’ began deducing:
+P1: Their souls have been swapped again.
+P2: Previously, the soul inside ‘Li Annan’ was Chen Ran. However, determining if the soul won or the body won was uncertain.
+P3: There are seventeen cards in total.
+P4: The first player receives two cards, and the remaining three people receive three cards each, which leaves six cards remaining.
+=> C1: Given the remaining hands, the difficulty of deducing one’s own hand increases greatly.
+
+P5: When the first round ends, the player immediately following the first player will only have two cards left, which results in three possible card types being: (Shepherd and Wolf), (Shepherd and Sheep), and (Wolf and Sheep).
+P6: Shepherd and Wolf would give a Draw.
+P7: Shepherd and Sheep would give a Draw.
+P8: Wolf and Sheep would let the Wolf win.
+P9: As long as the player immediately following the first player confirms that they had a Wolf card or a Sheep card on the table, they could deduce their second card based on the balance’s win/loss result.
+=> C2: Therefore, the player immediately following the first player had an advantage.
+The current ‘Li Annan’ had now dealt two cards to ‘Chen Ran’, who was the player before him, and three cards to everyone else.
+This led to the following hands:
+‘Zhang Yuan’  had a Shepherd, Wolf, and Sheep.
+‘Ma Wenjie’ had Wolf, Wolf, and Sheep.
+‘Chen Ran’ had Wolf, and Sheep.
+‘Li Annan’ had a Shepherd, Wolf, and Sheep.
+Now, the current ‘Zhang Yuan’ now had a Shepherd and a Sheep card on his table.
+Suddenly, the current ‘Ma Wenjie’ spoke aloud for them to contemplate on why ‘Ma Wenjie’ (Second Masked Man) lied just now, as their logic had a problem.
+Hearing this, the current soul occupying ‘Chen Ran’ tried to persuade them not to listen to the current ‘Ma Wenjie’ and provided a reasoning that ‘Ma Wenjie’ might have just lied to use the Liar Killer Skill.
+The current soul inside ‘Li Annan’ noticed a coincidence in the words of the current ‘Chen Ran’.
+The current ‘Chen Ran’ was the first player to draw a card. He quietly waited for the current ‘Li Annan’ to finish thinking before starting to draw.
+The current ‘Chen Ran’ drew a Wolf card from the current ‘Li Annan’.
+The current ‘Li Annan’ drew a Shepherd card from the current ‘Zhang Yuan’.
+The current ‘Zhang Yuan’ drew a Sheep card from the current ‘Ma Wenjie‘.
+The current ‘Me Wenjie’ drew a Wolf card from the current ‘Chen Ran’.
+The current ‘Chen Ran’ drew a Sheep card from the current ‘Li Annan’.
+This led to the end of the first round:
+The current ‘Zhang Yuan’ has Wolf, Sheep, and Sheep.
+The current ‘Ma Wenjie’ has Wolf, Wolf, and Wolf.
+The current ‘Chen Ran’ has Wolf, Sheep, and Sheep.
+The current ‘Li Annan’ has Shepherd and Shepherd.
+The Shepherd won once, Wolf won once, and Sheep had two wins. Therefore, the balance tilted two notches to the left.
+Everyone immediately deduced the cards remaining on their table once again.
+The current ‘Zhang Yuan’ had spoken out loud that:
+P1: The sheep had lied earlier.
+P2: As long as they let the Sheep win, the moment the Sheep picks up the handgun that fell onto the tray, they'll know who the Sheep is.
+=> C1: Therefore, they could use the Liar Killer to execute him.
+The current ‘Chen Ran’ warned the current ‘Zhang Yuan’. They once again started drawing cards.
+The current ‘Li Annan’ was the first player, and he had drawn the Sheep card from the current ‘Zhang Yuan’.
+The current ‘Zhang Yuan’ had no choice but to draw one of the three Wolf cards from the current ‘Ma Wenjie’.
+The current ‘Ma Wenjie’ then drew a Sheep card from the current ‘Chen Ran’.
+The current ‘Chen Ran’ drew a Shepherd card from the current ‘Li Annan’.
+The current ‘Li Annan’ drew a Wolf card from the current ‘Zhang Yuan’.
+The second round ended with these hands:
+The current ‘Zhang Yuan’ had a Wolf and Sheep.
+The current ‘Ma Wenjie’ had a Wolf, Wolf, and Sheep.
+The current ‘Chen Ran’ had a Shepherd, Wolf, and Sheep.
+The current ‘Li Annnan’ had a Shepherd, Shepherd, and Wolf.
+This led to Shepherd having one win, the Wolf having two wins, and the Sheep having one win.
+The balance had tilted two notches to the right, which meant that only one notch remained before hitting the bottom. The scale tilting to the left favors the Wolf and the Sheep, which means that the Shepherd’s score is useless, and currently, the Wolf and the Sheep both have three wins.
+This means that the third round determines life or death.
+The current Zhang Yuan saw his victory through the following reasoning:
+P1: As long as the Sheep wins, the moment the Sheep gets the handgun, their identity would be exposed.
+P2: The Sheep had already lied, which meant that exposing their identity was equivalent to seeking death.
+P3: As long as they killed the Sheep, the Three of them could successfully clear the Novice Instance.
+=> C1: Therefore, victory is near.
+The third round of drawing cards began and the current ‘Zhang Yuan’ was the current player.
+The current ‘Zhang Yuan’ drew a Sheep card from the current ‘Ma Wenjie’.
+The current ‘Ma Wenjie’ drew a Wolf card from the current ‘Chen Ran’.
+The current ‘Chen Ran’ drew a Wolf card from the current ‘Li Annan’.
+The current ‘Li Annan’ drew a Sheep card from the current ‘Zhang Yuan’.
+The current ‘Zhang Yuan’ now rose in anger as the four people’s cards settled in their respective tables.
+The current ‘Zhang Yuan’ had Wolf and Sheep.
+The current ‘Ma Wenjie’ had Wolf, Wolf, and Wolf.
+The current ‘Chen Ran’ had a Shepherd, Wolf, and Sheep.
+The current ‘Li Annan’ had a Shepherd, Shepherd, and Sheep.
+This time, the current ‘Zhang Yuan’ was the first player and he still had one chance to draw a card. However, the hand of the current ‘Ma Wenjie’ all had Wolf. Therefore, the current ‘Zhang Yuan’ could only draw a Wolf card.
+The current ‘Zhang Yuan’ had Wolf, Wolf, and Sheep.
+The current ‘Ma Wenjie’ had Wolf and Wolf.
+The current ‘Chen Ran’ had a Shepherd, Wolf, and Sheep.
+The current ‘Li Annan’ had a Shepherd, Shepherd, and Sheep.
+This meant that Shepherd had one win, Wolf had two wins, and the Sheep had one win.
+The balance completely tilted.
+The total wins after three rounds were:
+Shepherd had three wins, Wolf had five wins, and Sheep had four wins. In the end, the Wolf still won.
+The Wolf kills the Sheep, and the Shepherd takes the bullet. This means one of the two police officers must die. Over these three rounds, Li Annan drew Zhang Yuan's shepherd card right from the start, and his two shepherd cards were never drawn by Chen Ran.
+Which meant that the current ‘Zhang Yuan’ had been losing for all three rounds, while the current ‘Li Annan’ had been winning for those three rounds.
+This meant that the three people had teamed up, cooperated with each other, and drew cards meticulously to trap the current ‘Zhang Yuan’.
+The current ‘Chen Ran’, current ‘Li Annan’, and current ‘Ma Wenjie’, all drew their Liar Killer.
+The current ‘Chen Ran’ urged the current ‘Zhang Yuan’ to draw a card despite losing.
+The current ‘Zhang Yuan’ didn’t understand as he thought that victory was right in front of them and asked them why they helped the Masked Man.
+The current ‘Zhang Yuan’ deduced:
+P1: The difficulty of the current Novice Instance had already far exceeded the average.
+=> C1: Therefore, the reward contains the Liar Killer skill, or even a Skill that could alter reality.
+P2: Only in the second secret chamber, the Masked Man’s false claims were actually able to deceive the Police.
+P3: No matter how the three people set up their plan, the person who ultimately drew his cards was always Li Annan.
+=> C2: This meant that there was a signal of when they teamed up.
+P4: The current ‘Ma Wenjie’ had previously said that “Seeing your unlucky faces, I knew your logic had a problem. Think carefully, why did Ma Wenjie lie just now?”
+P5: “Logic has a problem” was Chen Ran’s catchphrase, as he said it during the deductions in the first two secret chambers.
+=> C3: Therefore, the signal wasn’t the final question. It was “Logic has a problem”.
+
+P6: Since the current ‘Ma Wenjie’ was Chen Ran, then the soul inside the current ‘Chen Ran’ was the Masked Man.
+P7: The Masked Man had already lied when he used his Liar Skill.
+=> C4: Therefore, as long as they kill him, the current Novice Instance would be over.
+The soul of Baili Qiangsheng inside ‘Zhang Yuan’ steeled his heart and drew the Liar Killer, pointed the gun at the current ‘Chen Ran’, and judged him.
+However, the bullet jammed.
+The current ‘Chen Ran’ wasn’t the Masked Man.
+‘Zhang Yuan’ (Baili Qiangsheng) reacted quickly and instantly aimed his gun towards ‘Ma Wenjie’.
+However, the current ‘Ma Wenjie’ had shot ‘Zhang Yuan’ (Baili Qiangsheng) first. The bullet pierced through the hand of ‘Zhang Yuan’ (Baili Qiangsheng) who was holding a gun.
+Zhang Yuan's first judgment failed, the command became a Lie, so Ma Wenjie naturally had the right to question his qualification to judge. Thus, both of them lost the qualification to judge each other. For them, the Liar Killer was no longer restricted and they could shoot each other at will.
+The current ‘Ma Wenjie’ had now fired three shots and pierced the legs and one arm of ‘Zhang Yuan’ (Baili Qiangsheng), forcing him to finish his hand.
+‘Zhang Yuan’ (Baili Qiangsheng) didn’t understand that:
+P1: If the Sheep dies, the dungeon ends, but there are two people alive.
+=> C1: This meant that the Liar Killer Skill being owned to someone was uncertain.
+‘Zhang Yuan’ (Bailli Qiangsheng) has died.
+Now, only three people remain in the secret chamber: ‘Li Annan’ (Chen Ran), ‘Ma Wenjie’ (Masked Man), and ‘Chen Ran’ (Cheng Si).
+The soul inside ‘Li Annan’ was Cheng Si, and she didn’t judge ‘Ma Wenjie’ (Second Masked Man), which was strange.
+"I said before, if you contend, you might die; if you don't contend, you will die sooner or later."
+"Such a high-intensity Novice Instance must have the Liar Killer Skill in the prize pool. If I don't contend even with this, I might as well just die."
+"Moreover."
+He looked at Ma Wenjie: "Excluding me, there are still two people left. The sheep has lied before, so even if I lose later, there's a 50% chance I can judge the dead sheep!"
+Once again, ‘Ma Wenjie’ (Second Masked Man) pulled out his Liar Killer and used his Soul Transfer Skill once again.
+Cheng Si opened her eyes and saw ‘Li Annan’ and ‘Chen Ran’. Immediately, she knew that her soul had been transferred into the body of ‘Ma Wenjie’.
+The current ‘Chen Ran’ collected the cards from the previous four-person table, shuffled them, and cut the deck. He then dealt three cards to himself and the current ‘Li Annan’, and two cards to ‘Ma Wenjie’ (Cheng Si).
+The drawing order was now: ‘Ma Wenjie’ (Cheng Si), ‘Chen Ran’, and ‘Li Annan’.
+In the perspective of ‘Ma Wenjie’ (Cheng Si), The current ‘Chen Ran’ had Shepherd, Shepherd, and Shepherd, while the current ‘Li Annan’ had Wolf, Wolf, and Sheep.
+‘Ma Wenjie’ (Cheng Si) drew a Shepherd card from the current ‘Chen Ran’ .
+The current ‘Chen Ran’ drew a Wolf card from the current ‘Li Annan’.
+The current ‘Li Annan’ drew a Wolf card from ‘Ma Wenjie’ (Cheng Si).
+‘Me Wenjie’ (Cheng Si) deduced once more:
+P1: ‘Ma Wenjie’ (Cheng Si) had drawn a Shepherd card from the current ‘Chen Ran’, and the current ‘Li Annan’ drew a Wolf card from her.
+=> C1: Therefore, ‘Ma Wenjie’ (Cheng Si) contains one Shepherd card.
+
+P2: The hands of the current ‘Chen Ran’ were Shepherd, Shepherd, and Wolf.
+P3: If ‘Ma Wenjie’ (Cheng Si) draws another Shepherd card from the current ‘Chen Ran’, the round would be a draw.
+P4: But if ‘Ma Wenjie’ (Cheng Si) does do that, both the current ‘Chen Ran’ and ‘Li Annan’ would be able to guess their cards, while ‘Ma Wenjie’ (Cheng Si) won’t be able to deduce what her third card actually is.
+P5: Both outcomes are very unpredictable.
+=> C2: Therefore, the only move was to gamble.
+‘Me Wenjie’ (Cheng Si) drew a Wolf card from the current ‘Chen Ran’.
+Now they had:
+Current ‘Chen Ran’: Shepherd and Shepherd.
+Current ‘Li Annan’: Wolf, Wolf, and Sheep.
+‘Ma Wenjie’ (Cheng Si): Shepherd, Wolf, and an Unknown card.
+The scale tilted to the right.
+‘Me Wenjie’ (Cheng Si) immediately deduced that her third card was a Shepherd card, which meant that her hand was Shepherd, Shepherd, and Wolf.
+There were eight cards, and four were Shepherd cards. Therefore, her chances of losing were nonexistent.
+Within the first round, Shepherd won two, while Wolf won once.
+They all deduced their cards.
+In the second round, it was the turn of the current ‘Chen Ran’ to draw a card when he suddenly asked a question and deduced at the same time:
+P1: If the police win and get handcuffs to arrest the Wolf, the person who will kill the Sheep would be uncertain.
+P2: If the wolf was arrested by the Police, it loses the qualification to be at the gambling table.
+=> C1: Therefore, it’s a showdown between the Police and the Sheep.
+
+P3: If the Sheep wins, obtains the pistol, tears off its disguise and becomes a true wolf, it would kill the wolf.
+P4: This is because it had already shed its disguise and can only kill everyone.
+P5: The wolf, being restrained by handcuffs in the previous round, would naturally become the first target.
+P6: If the Police were smart, they wouldn't win.
+P7: Since they could just wait for the Sheep to kill the Wolf, and then judge the dead Sheep.
+=> C2: Therefore, the Police would be the winner.
+The current ‘Chen Ran’ gazed at ‘Ma Wenjie’ (Cheng Si) and stated to her that it was very difficult for the Police to win the current round. The current ‘Chen Ran’ proposed a bet.
+Seeing as she couldn’t believe it since there were four Shepherds. The current ‘Chen Ran’ simply stated for her to play a few rounds.
+In the second round, the current ‘Chen Ran’ drew first and took a Wolf card from the current ‘Li Annan’.
+The current ‘Li Annan’ took a Shepherd card from ‘Ma Wenjie’ (Cheng Si).
+Their cards now became:
+The current ‘Chen Ran’ had Shepherd, Shepherd, and Wolf.
+The current ‘Li Annan’ had Shepherd, Wolf, and Sheep.
+‘Ma Wenjie’ (Cheng Si) had a Shepherd and Wolf.
+It was now the turn of ‘Ma Wenjie’ (Cheng Si) to draw a card and took a Shepherd card from the current ‘Chen Ran’.
+The current ‘Chen Ran’ took the Wolf card from the current ‘Li Annan’.
+Their hands now became:
+The current ‘Chen Ran’ had a Shepherd, Wolf, and Wolf.
+The current ‘Li Annan’ had a Shepherd and Sheep.
+‘Me Wenjie’ (Cheng Si) had a Shepherd, Shepherd, and Wolf.
+The Shepherd had one win, and the Wolf also had one win. This meant that the balance remained unchanged.
+Within the eight cards, there were four Shepherd cards. Yet, it was still a draw.
+In the third round, the current ‘Li Annan’ was the first player and took a Shepherd card from ‘Ma Wenjie’ (Cheng Si).
+‘Ma Wenjie’ (Cheng Si) took a Shepherd card from the current ‘Chen Ran’.
+The current ‘Chen Ran’ took a Sheep card from the current ‘Li Annan’.
+The current ‘Li Annan’ then took a Shepherd card from ‘Ma Wenjie’ (Cheng Si).
+The third round had ended and their hands became:
+The current ‘Chen Ran’ had Wolf, Wolf, and Sheep.
+The current ‘Li Annan’ had a Shepherd, Shepherd, and Shepherd.
+‘Ma Wenjie’ (Cheng Si) had a Shepherd and Wolf.
+Two consecutive rounds were a draw, which made ‘Ma Wenjie’ (Cheng Si) realize that the Police were being targeted.
+The current ‘Chen Ran’ now stated the following:
+P1: ‘Me Wenjie’ (Cheng Si) hadn’t yet understood the rules of the game.
+P2: If the Wolf is arrested in the current round, the Sheep needs the help of the Police to kill the Wolf.
+P3: If the Wolf dies, and the Sheep has told a Lie before, the Police can directly sentence it to death.
+P4: Similarly, if the Wolf wins this round, the Wolf will shoot the Sheep, and the Police will block the shot.
+P6: If the Police die, then only the Wolf and the Sheep remain.
+P7: If the Sheep has told a Lie, the Wolf can directly sentence the Sheep to death.
+=> C1: Therefore, in this round, the Sheep would not let the Shepherd win, nor would it let the Wolf win. There was only one Sheep on the table, and it’s even less possible for the Sheep to win.
+=> C2: Therefore, the only way to win was for the Sheep to do a Future Lie.
+
+P8: Whoever tells a Future Lie, the Sheep will help them win this round.
+P9: When the loser dies, only the Sheep and the person who told a lie remain alive.
+=> C3: Therefore, both lose the right to judge, and it would turn into a gunfight.
+
+P10: In addition, the Sheep’s marksmanship was extremely fast, as seen from kill ‘Zhang Yuan’.
+P11: The Sheep never won, and the Sheep had told a lie in advance.
+=> C4: Therefore, whoever gunfights with the Sheep is looking for death.
+‘Ma Wenjie’ (Cheng Si) started to form a solution:
+P1: There were only three of them there.
+P2: Assuming ‘Ma Wenjie’ (Cheng Si) was the Wolf, she judges one of them.
+P3: If ‘Ma Wenjie’ (Cheng Si) fails, it proves the other was the Sheep.
+C1: Therefore, the Shepherd and the Wolf take turns judging, and the Sheep is sure to die.
+However, this solution meant for someone to willingly become cannon fodder.
+P4: There was only a 50% chance of success. Since if it fails, it would mean death.
+P5: If the judgement succeeds, the Sheep would be killed directly, and both the current ‘Chen Ran’ and ‘Ma Wenjie’ (Cheng Si) both pass.
+C2: However, the question on who would obtain the Liar Killer Skill was still unknown.
+The ‘current’ Chen Ran proposed a solution through a bet where all three of them would bet. The content was that:
+1. All three would state the future outcome.
+2. The Sheep would decide who wins.
+3. At the same time, all three of them will throw the Liar Killer far away.
+The current ‘Chen Ran’ was the first, he stated that the Police would win the current round and formed a Future Lie.
+‘Ma Wenjie’ (Cheng Si) deduced the following:
+P1: ‘Ma Wenjie’ (Cheng Si) was the Police
+P2: The current ‘Chen Ran’ stated that the Police would win.
+P3: If the Wolf wins the current round, the current ‘Chen Ran’ would be telling a lie.
+P4: If the current ‘Chen Ran’ was the Wolf, the current ‘Chen Ran’ would have told a lie.
+P5: If the current ‘Chen Ran’ was the Sheep, the Sheep had already told a lie before, so the stated Future Lie wouldn’t have much effect on him.
+‘Ma Wenjie’ (Cheng Si) urged that the current ‘Li Annan’ would be next. The current ‘Li Annan’ also stated that the Police would win in the current round.
+P6: Both the Wolf and Sheep stated that the Police would win.
+=> C1: ‘Ma Wenjie’ (Cheng Si) could only say that the Wolf wins based on the bet.
+
+P7: If the Sheep helps the Police, the Police would win.
+P8: If ‘Ma Wenjie’ (Cheng Si) states that the Wolf wins, she would be telling a lie.
+P9: If the Sheep helps the Wolf, the Wolf would win, but the Wolf had stated that the Police would win this round.
+=> C2: Therefore, the Wolf was telling a lie.
+=> C3: Therefore, no matter who the Sheep helps, the winning side was telling a lie.
+
+P10: In this way, in the final showdown, both the Sheep and the winner of this round have told a lie, so they could question each other’s right to judge.
+P11: However, if the Police win, they could only handcuff the Wolf.
+=> C4: Therefore, an additional agreement is needed from the Wolf.
+Thinking of this, ‘Ma Wenjie’ (Cheng Si) proposed that the current ‘Chen Ran’ and ‘Li Annan’ would have to state an additional agreement.
+The content of the agreement was that if the Wolf is restrained by handcuffs, he would not judge others.
+Both the current ‘Chen Ran’ and ‘Li Annan’ stated the agreement.
+Seeing this, ‘Ma Wenjie’ (Cheng Si) stated that the Wolf would win this round.
+P1: All three had now stated a Future Lie.
+P2: The Sheep was merely participating, making no difference whether it spoke or not.
+=> C1: Therefore, since both the current ‘Chen Ran’ and ‘Ma Wenjie’ (Cheng Si) had stated a Future Lie, it entirely depended on who the Sheep would help.
+All three took out their Liar Killer and threw them to the farthest position from the gambling table.
+=> C2: Therefore, it now depended on who could get the pistol on the balance.
+
+P3: Although the Police couldn’t directly get the pistol, handcuffs served the same purpose.
+=> C3: The first to be handcuffed would certainly be the Wolf, then a duel with the Sheep, letting the Sheep win. The Sheep would get the pistol from the balance, and the Wolf would be shot.
+=> C4: Therefore, after the Wolf’s death, it would be the final showdown between the Police and the Sheep. Whoever won would leave alive.
+Following this, the fourth round started, ‘Ma Wenjie’ (Cheng Si) took a Sheep card from the current ‘Chen Ran’.
+The current ‘Chen Ran’ took a Shepherd card from the current ‘Li Annan’.
+The current ‘Li Annan’ took a Shepherd card from ‘Ma Wenjie’ (Cheng Si).
+‘Ma Wenjie’ (Cheng Si) took a Shepherd card from the current ‘Chen Ran’.
+Their hands was now:
+The current ‘Chen Ran’ had Wolf and Wolf.
+The current ‘Li Annan’ had a Shepherd, Shepherd, and Shepherd.
+‘Ma Wenjie’ (Cheng Si) had a Shepherd, Wolf, and Sheep.
+The Shepherd had one win, the Wolf had one win, and the Sheep had one win.
+This meant that Good had one win, while Evil had two wins. The balance returned to its original level.
+The fifth round started:
+Chen Ran: Shepherd, Wolf, Wolf.
+Li Annan: Shepherd, Wolf.
+Ma Wenjie: Shepherd, Shepherd, Sheep.
+Draw!
+Sixth round:
+Chen Ran: shepherd wolf sheep.
+Li Annan: Shepherd, Wolf, Wolf.
+Ma Wenjie: Shepherd, Shepherd.
+One win for Shepherd, one win for Wolf, one win for Sheep.
+The balance now titled one notch to the left.
+All three were incorrect. No matter what ‘Ma Wenji’ (Cheng Si) found on how she would draw cards, it was always one round a draw, and one round evil wins.
+‘Ma Wenjie’ (Cheng Si) had deduced that both the current ‘Chen Ran’ and ‘Li Annan’ have both agreed that every time they drew cards, they would specifically target the Police.
+‘Ma Wenjie’ (Cheng Si) noticed that both the current ‘Chen Ran’ and ‘Li Annan’ simultaneously pulled a cigarette from a cigarette pack, lit them with perfect synchronicity, and then took a deep drag at the same time.
+This prompted ‘Ma Wenjie’ (Cheng Si) to deduce that it was the cigarettes and that she had no option to guard against it.
+‘Ma Wenjie’ (Cheng Si) stood up. In doing so, both the current ‘Cheng Ran’ and ‘Li Annan’ also stood up and all three walked towards the spot where they had just thrown their Liar Killer.
+‘Ma Wenjie’ (Cheng Si) asked them to provide how they deduced her identity.
+Both the current ‘Chen Ran’ and ‘Li Annan’ had deduced it but the current ‘Chen Ran’ was the one that provided the following reasoning:
+P1: Both Chen Ran and the Masked Man both smoke, but Cheng Si does not.
+P2: Whenever drawing a card, Cheng Si always takes a long time to think.
+P3: Finally, both the current ‘Chen Ran’ and ‘Li Annan’ just stated that the Police would win, but ‘Ma Wenjie’ (Cheng Si) had said that the Wolf wins.
+P4: If only one condition was met, they might not have dared to confirm her identity, but meeting all three conditions above was enough to prove that Ma Wenjie was Cheng Si.
+=> C1: Therefore, ‘Ma Wenjie’ was Cheng Si.
+However, ‘Ma Wenjie’ (Cheng Si) asked that even if they did confirm her identity, why would the Sheep help the Wolf.
+Chen ran only stated that, since they had already confirmed their identities, whether they could determine who the Sheep was.
+‘Ma Wenjie’ (Cheng Si) just reasoned that:
+P1: There were only three people there. If Chen Ran’s soul confirmed that ‘Ma Wenjie’ was Cheng Si, then he could determine who the Masked Man is.
+=> C1: Therefore, Chen Ran’s soul has the qualification to clear the dungeon at any time.
+
+P2: However, ‘Me Wenjie’ (Cheng Si) was different. She could not determine who the Sheep was, and a quick judgement would only have a 50% chance of success.
+P3: If the Sheep helps ‘Ma Wenjie’ (Cheng Si), Chen Ran would immediately judge and kill the Sheep.
+P4: If the Sheep helps Chen Ran, ‘Ma Wenjie’ only has a 50% chance of judging and killing the Sheep.
+=> C2: Therefore, the Sheep could only help the Wolf.
+However, Chen Ran had a different point of view:
+P1: If ‘Ma Wenjie’ (Cheng Si) dies because she failed to judge the Sheep, and the Sheep continues to gamble with the Wolf, the Wolf would still not judge and kill the Sheep.
+P2: The Sheep should have killed the Wolf, not the Masked Man being shot dead by Chen Ran.
+=> C1: Therefore, the entire dungeon was set up for the Husband to kill the Masked Man.
+=> C2: Therefore, only the Husband killing the Masked Man constitutes the most perfect clearance.
+=> C3: The difference between the two is that one was killed by the Liar Killer, and the other was shot dead by the handgun on the scale, but the meaning was vastly different.
+‘Ma Wenjie’ (Cheng Si) still focused on how to clear the dungeon solo, while Chen Ran had already figured out how to achieve a perfect clearance.
+‘Ma Wenjie’ (Cheng Si), through her deductions, had deduced that the current ‘Chen Ran’ was Chen Ran, and given his trickery, she would do the opposite.
+‘Ma Wenjie’ (Cheng Si) judged Chen Ran and immediately pulled the trigger. However, the bullet jammed.
+Chen Ran judged ‘Ma Wenjie’ (Cheng Si) and immediately spoke the command that she had told a lie, which gave the current ‘Li Annan’ no time to use the Liar Killer Skill, and directly pulled the trigger.
+‘Ma Wenjie’ (Cheng Si) was dead.
+Logically, as long as Chen Ran spoke the command towards ‘Li Annan’ and fired, the current Novice Instance would be cleared. However, Chen Ran casually tossed the Liar Killer onto the ground.
+Seeing this, the current ‘Li Annan’ also threw his Liar Killer on the ground and asked why Chen Ran did so, as he thinks that Chen Ran doesn’t believe the perfect clearance.
+Chen Ran only said that this question by the current ‘Li Annan’ was a clumsy attempt to fish for information.
+Chen Ran asked a few questions about several things:
+1. Chen Ran noticed that players won’t try to kill others even without the protection of the Liar Killer.
+The current ‘Li Annan’ knew that if he told a lie, Chen Ran would kill him without hesitation.
+However, before ‘Li Annan’ (Masked Man) answered Chen Ran’s question, the current ‘Li Annan’ asked first instead that Chen Ran seemed to not feel any fear regarding murder or the secret chamber at all, as ‘Li Annan’ (Masked Man).
+Chen Ran only explained that he was a Novel Author in his previous life, and that every single day, he would think of strange and bizarre plots. For him, no matter what happens in this world, it was all the same. It was nothing more than struggling against Heaven, struggling against Earth, and struggling against people, just in different forms.
+Chen Ran spoke very casually. However, to the ears of ‘Li Annan’ (Masked Man), this shook him greatly through the following reasoning:
+P1: Emotions are the easiest thing to manipulate among the three states of mind.
+P2: An example would be: If you like candy, I give you candy, and you are happy; I snatch your candy, and you cry.
+P3: Through emotional guidance, one controls the behavior and thoughts of others, thereby achieving the predetermined goal one wished them to complete.
+P4: Chen Ran had not yet systematically studied the Hell Heart Cultivation methods. At best, Chen Ran should have only touched the threshold of this level.
+=> C1: Therefore, there’s a chance that Chen Ran had already reached the True Self state of mind before he died.
+
+P5: A person who reached the True Self state of mind can freely control their own emotions, and more importantly, could manipulate the emotions of others.
+P6: The dungeon forbids fighting, forbids telling a Lie, forbids cursing, forbids bragging, and forbids making promises that cannot possibly be fulfilled, unless Chen Ran was the Liar.
+P7: However, Chen Ran could also be a Weird Speaker.
+P8: A Lie that everyone believes, even the person telling the lie, would be firmly convinced of it.
+=> C2: Therefore, no matter how outrageous the lie the speaker had said, it would still be the truth.
+On the Eighteenth Layer, people like this were called the Weird Speakers.
+Based on what ‘Li Annan’ (Masked Man) had deduced, Chen Ran had seemed to think of the Unknown Lie.
+‘Li Annan’ (Masked Man) expanded:
+* In our previous lives, we all lived on a blue planet. Everyone told us the blue planet was round, and books wrote the same, so we naturally assumed the blue planet was round. But this is what others said, what books wrote, and what videos showed. In reality, we never witnessed it ourselves. Is there a possibility that the blue planet is square? When a Lie is regarded as the truth by everyone, the Lie becomes the truth. The Weird Speaker often spreads Lies in the form of text, making the players in the dungeon firmly believe the content of the text is true. Then, when the speaker says the content written in the text, it will not be judged as a Lie by the liar killer.
+Chen Ran recalled the situation within the Novice Tutorial Secret Chamber. Within the secret chamber, there was clearly no Ghost Gate Pass, but everyone saw the three characters of “Ghost Gate Pass” written on the table partition. Therefore, the Ghost Gate Pass existed.
+Due to this, the truth that crossing the Ghost Gate Pass leads to the Yellow Springs Road came into being. Therefore, after the young man crossed the Ghost Gate Pass, he said to the second person in line that that was the Yellow Springs Road.
+It turned out that it was judged as the truth by the Liar Killer.
+This reasoning led to Chen Ran asking upon how one breaks the Gui Yu.
+‘Li Annan’ (Masked Man) stated that Chen Ran was a writer, so his knowledge reserve should be broader than ordinary people. He then asked what was the prophecy of the Third Image within ‘Tui Bei Tu’.
+Chen Ran recalled and stated back that the prophecy of the Third Image was: Sun and Moon in the Sky, Shining Down on the Earth, Elusive and Mysterious, Neither Scholar nor Warrior.
+‘Li Annan’ (Masked Man) asked Chen Ran’s interpretation.
+Chen Ran stated his following reasoning:
+P1: Sun and Moon in the Sky could mean The sun and moon hang high, which could symbolize the Emperor and Empress.
+P2: If it symbolizes time, then it’s day and night.
+P3: Shining Down on Earth: The previous phrase was ‘up’, this phrase was ‘down’, this implies a superior-subordinate relationship, symbolizing Slaves, servants, etc.
+P4: If it was a location, it would symbolize that this even happened on the ground.
+P5: Elusive and Mysterious: The male rabbit’s feet are restless, the female rabbit’s eyes are hazy.
+P6: When two rabbits run side by side, how could one distinguish male from female?
+=> C1: Therefore, these four characters symbolize men and women, and also eunuchs who are neither male nor female.
+=> C2: Neither Scholar Nor Warrior: If not a civil official, then a military general; if not a scholar, then a commoner.
+=> C3: Therefore, connecting the four prophetic phrases, the meaning was that: this person, either an emperor or an empress, either a slave or a servant, either male or female, either a eunuch, either a civil official or a military general, either a scholar or a commoner, did something standing on the earth.
+
+P7: In addition, there was also an illustration of a woman holding a knife.
+P8: However, holding a knife also has ambiguity, as it could be to kill someone, or to save someone.
+=> C4: Therefore, encompassing so many people, it’s hard to guess wrong.
+=> C5: Therefore, Tiu Bei Tu’ was nothing more than a trick commonly used by Jianhu magicians to deceive people, using ambiguous rhetoric to make people guess.
+=> C6: Therefore, no matter the outcome, it could always be confirmed by the rhetoric.
+‘Li Annan’ (Masked Man) agreed with Chen Ran’s analysis and asked if they deleted one of the sentences.
+Chen Ran realized that online, many people believe it’s a prophecy of Wu Zetian. If they deleted the Elusive and Mysterious line, no one would associate it with Wu Zetian’s prophecy.
+‘Li Annan’ (Masked Man) revealed that these were the fatal weaknesses of the Weird Speaker, as their lies can be denied. In addition, he also revealed that on the Eighteenth Layer, there were two relatively famous organizations: one was called the Liar Killer Alliance, and the other was called the Whisperer Alliance.
+He also revealed that these two organizations have had long-standing grievances and often engaged in large-scale team hunts. The Weird Speaker uses deception to make the Liar Killer lie, while the Liar Killer, by cracking one part of the Weird Speaker’s deception, could deny the fake truth disguised by the Weird Speaker.
+Hearing this, Chen Ran reasoned that:
+P1: A lie needs to complete a logical loop, otherwise, it would be hard to make people believe it.
+P2: Just like in the novice tutorial secret chamber, Chen Ran had arrived in that secret chamber after being hit by a car.
+P3: The five people used this to make them believe in the legends of hell, such as Ghost Gate Pass and Yellow Springs Road, and thus carried out their deception plan.
+P4: But if there were no three words of ’Ghost Gate Pass’, when the young man told the second person in line that it was the Yellow Springs Road, he would be lying.
+=> C1: Therefore, Bai Xiuchi’s thinking at the time was correct, but she could not prove that ‘Ghost Gate Pass’ was fake, so her judgement failed.
+=> C2: Therefore, as long as one link within the Weird Speaker’s Lie is denied, the Liar Killer could  successfully judge him.
+Figuring this out, Chen Ran continued to ask ‘Li Annan’ (Masked Man) on how they could identify a Weird Speaker.
+‘Li Annan’ (Masked Man) revealed that in a dungeon, whoever uses the Liar Killer skill without having lied was a Weird Speaker.
+Chen Ran completed the following deductions:
+P1: The Weird Speaker was a contradictory unity of Truth and Lie. He knows that he has lied, yet turns the lie into truth.
+P2: For the Weird Speaker, what he says is a complete lie.
+P3: For others, what the Weird Speaker had said was the complete truth.
+=> C1: Therefore, others judging him for this matter would certainly fail.
+
+P4: However, a Weird Speaker could judge himself, and  would certainly succeed.
+=> C2: Therefore, a Weird Speaker could forgo the opportunity to judge himself and directly use the Liar Killer Skill.
+Chen Ran once again asked his next question on what kind of existence was the Eighteenth Layer.
+‘Li Annan’ (Masked Man) noticed that Chen Ran had initially said “The first questions”. But this time, Chen Ran avoided the number and said “Next question”.
+‘Li Annan’ (Masked Man) answered that the Eighteenth Layer was where all players stayed, as it was like a resting area.
+Chen Ran pressed further on how many days of rest was possible.
+‘Li Annan’ (Masked Man) answered that there was no time limit on resting. However, he expanded that everyone wouldn’t want to stay within the layer. As long as there’s an opportunity, they'd run a dungeon.
+Chen Ran also had another question but ‘Li Annan’ (Masked Man) didn’t answer and only stated for Chen Ran to go there himself.
+Chen Ran asked the next question on what happens if a player lies on the Eighteenth Layer. In addition, Chen Ran also added a follow up question on whether dungeons and the Eighteenth Layer were independent in judging lies or if they were connected.
+‘Li Annan’ (Masked Man) reacted strongly to this question and explained that the Eighteenth Layer and dungeons were independent of each other. If a player lied within a dungeon, the other players could only judge that within the dungeon. Once the player has left the dungeon, the player’s lie ceases to exist. Similarly, if the player lied on the Eighteenth Layer, other players could only judge the player within the Eighteenth Layer. However, the lie that the player told on the Eighteenth Layer will not disappear just because that player went to a dungeon. As long as that player appears on the Eighteenth Layer, the Player’s lie would always accompany that player. Once judged, it would definitely succeed, unless the Player turns the lie he told into reality, which was to become a Weird Speaker.
+With this information, Chen Ran now understood how Weird Speakers came to be. However, Chen Ran also proposed the following reasoning:
+P1: If that’s how Weird Speakers came to be, then it’s highly possible that all the rules on the Eighteenth Layer were lies that Weird Speakers once told.
+=> C1: Therefore, they just used some means to turn those lies into rules.
+=> C2: Therefore, lies told by various Weird Speakers became rules that players had to obey.
+Seeing that Chen Ran was in deep thought one again, ‘Li Annan’ (Masked Man) reminded him of the game. However, Chen Ran just ignored him.
+P2: If the rules within the Eighteenth Layer of Hell were actually constructed from the Lies of Weird Speakers, then these lies corroborate each other, and those that remained must be lies that cannot be exposed, thus becoming rules.
+=> C3: As time goes on, the rules on the Eighteenth Layer would become more and more numerous.
+Chen Ran asked one final question, even though he hadn’t uttered the word “final” or “last”.
+The question was: How to escape hell?
+The dungeon was a secret chamber. Hell should be the largest secret chamber, trapping all players within it.
+In Chen Ran’s view, since it was a secret chamber, there must be a way to escape it.
+‘Li Annan’ (Masked Man) simply told Chen Ran that the answer to his question lay hidden within the rules.
+Chen Ran didn’t ask what the rewards for completing dungeons were and he didn’t speak either. Chen Ran just quietly looked at ‘Li Annan’ (Masked Man) with a playful gaze, as if looking at a dead man.
+‘Li Annan’ (Masked Man) understood what Chen Ran was thinking and stated that Chen Ran had said that even if only two people were left, he wouldn’t use the Liar Killer to kill the Sheep.
+Chen Ran simply asked ‘Li Annan’ (Masked Man) if he was the Sheep.
+‘Li Annan’ (Masked Man) instantly understood Chen Ran’s move:
+P1: Those who expose their identity through language or body language, as well as those who expose the card types on others’ tables, would lose their eligibility to be at the gambling table.
+P2: If ‘Li Annan’ (Masked Man) admits to being the sheep, he would lose his eligibility at the gambling table.
+P3: If ‘Li Annan’ (Masked Man) didn't admit to being the Sheep, Chen Ran would judge him.
+C1: Therefore, the reason Chen Ran had said that he wouldn’t judge the Sheep when only two people remained was because he wanted to extract the rules of the dungeon and the Eighteenth Layer from ‘Li Annan’ (Masked Man).
+Chen Ran merely said that if ‘Li Annan’ (Masked Man) admits to his identity, he would not use the pistol on the scales or the Liar Killer to kill him. Moreover, Chen Ran added that he would play a life-and-death match with ‘Li Annan’ (Masked Man) outside of the game.
+Hearing this, ‘Li Annan’ (Masked Man) admitted that he was the Sheep.
+With this, Chen Ran walked back towards the gambling table.
+On the table, it was already the turn of ‘Ma Wenjie’ (Cheng Si) to draw a card but ‘Ma Wenjie’ was already dead.
+Chen Ran gathered all the cards on the table. Out of the seventeen cards, he picked out all the Shepherd and Sheep Cards and tossed them aside.
+Chen Ran wondered about the trump card of ‘Li Annan’ (Masked Man) through the reasoning of:
+P1: ‘Li Annan’ (Masked Man) had lied in advance.
+P2: Lying would mean that ‘Li Annan’ (Masked Man) could be judged to death.
+=> C1: Therefore, the fact that ‘Li Annan’ (Masked Man) dared to lie in advance means that he had a guaranteed way to win when only two people were left.
+
+P3: The Announcement of the rules didn’t state that they couldn't pick cards.
+=> C2: Therefore, the trump card of ‘Li Annan’ (Masked Man) was to seize the right to deal when only two people were left, and then pick out all the Shepherd and Wolf cards. This way, only Sheep cards would remain, and no matter how the two players drew, ‘Li Annan’ (Masked Man would win).
+Understanding that his plan was exposed, ‘Li Annan’ (Masked Man) simply challenged Chen Ran to beat him as Chen Ran was the only player left at the table. Chen Ran had no cards to draw, and no one to draw from him.
+Chen Ran held six Wolf cards, as he dealt himself two. The next moment, the scales tilted violently to the left, hitting the bottom. The pistol on the tray fell right in front of Chen Ran. He picked it up and pointed the muzzle at ‘Li Annan’ (Masked Man).
+‘Li Annan’ (Masked Man) shouted in terror, trying to stop Chen Ran from firing.
+Furthermore, while Chen Ran was dealing the cards just now, ‘Li Annan’ (Masked Man) had picked up his own liar killer.
+Chen Ran allowed ‘Li Annan’ (Masked Man) to ask a question.
+‘Li Annan’ (Masked Man) simply asked why the scales tilted all the way to the bottom as Chen Ran was the only gamble left, no one was drawing his cards, and that he had no cards to draw.
+Chen Ran simply laughed and revealed that he had merely lured and forced ‘Li Annan’ (Masked Man) into a dead end step by step and asked him to think back carefully on what Chen Ran had asked of him.
+‘Li Annan’ (Masked Man) attempted to recall:
+P1: Chen Ran had asked many questions just now.
+P2: One of Chen Ran’s questions was on how to counter a Weird Speaker.
+Before he could answer, Chen Ran pointed to the second and third rules on the table's announcement.
+P3: The 2nd rule of the game states that: Starting from the first gambler, in clockwise order, each person sequentially draws a card from the hand of the gambler next in order.
+P4: The 3rd rule states that: When the first gambler finishes drawing a card again, the scales will settle once; when the scales are completely tilted, the one with the highest score obtains the corresponding item, i.e., the gun or handcuffs.
+P5: However, Chen Ran was the only one at the table. This meant that Chen Ran couldn’t draw, nor could he be drawn from. The reality doesn’t match the rules of the Announcement.
+=> C1: Therefore, Chen Ran’s case negates the second rule, and he also negates the first clause of the third rule.
+=> C2: Therefore, with these two rules negated, the scales settle infinitely.
+=> C3: Therefore, since only Chen Ran’s cards were on the table, he wins infinitely.
+=> C4: This was reminiscent of what ‘Li Annan’ (Masked Man) had said on how to counter a Weird Speaker.
+Recalling everything, ‘Li Annan’ (Masked Man) understood what Chen Ran had done:
+=> C5: Chen Ran had realized from the start that there was something wrong about the Announcement of rules on the table.
+=> C6: Then, Chen Ran used the inquiries about the rules of Hell to slip in his own agenda to guide ‘Li Annan’ (Masked Man) to talk about the Weird Speaker.
+=> C7: Therefore, the moment that ‘Li Annan’ (Masked Man) had said those three words, Chen Ran was already certain that ‘Li Annan’ was the Weird Speaker.
+‘Li Annan’ (Masked Man) asked Chen Ran back a question on what if the Weird Speaker that ‘Li Annan’ (Masked Man) was just a lie that he had made up.
+Chen Ran admitted that ‘Li Annan’ (Masked Man) was unlucky as, in the Tutorial Secret Chamber, he had encountered a few people that wrote the words “Ghost Gate Pass” on the table’s partition to deceive people. This meant that when Chen Ran saw the Announcements of the rules upon the gambling table, Chen Ran’s first reaction was that these were problematic and that he had to be cautious.
+Thus, Chen Ran guided ‘Li Annan’ (Masked Man) to reveal the method to counter a Weird Speaker. Based on the situations that Chen Ran had encountered within the Tutorial Dungeon, Chen Ran could perform a reverse-proof on what ‘Li Annan’ (Masked Man) had said, thereby concluding that the counter-method that ‘Li Annan’ had provided was real.
+‘Li Annan’ (Masked Man) still asked unwillingly if he had lied when he answered just now. To this question, Chen Ran simply answered that he would kill ‘Li Annan’ (Masked Man).
+To  counter this, ‘Li Annan’ (Masked Man) reminded Chen Ran that he had promised not to kill him using either the gun on the scales or the Liar Killer, as long as ‘Li Annan’ (Masked Man) admitted his identity
+Chen Ran reminded back that what he had stated was a Future Lie, and that it was only after he had killed ‘Li Annan’ (Masked Man) that it would be judged as a lie. However, once ‘Li Annan’ (Masked Man) was dead, he would be the only one left within the secret chamber, meaning that there would be no one left to judge Chen Ran.
+‘Li Annan’ (Masked Man) sorted out his reasoning:
+P6: Chen Ran had seen through the trick within the announcement.
+P7: At the same time, Chen Ran had also figured out the guaranteed winning method by ‘Li Annan’ (Masked Man) when only two people were left at the table.
+=> C8: Therefore, after ‘Ma Wenjie’ (Cheng Si) died, if Chen Ran wanted a perfect victory, Chen Ran had to kick ‘Li Annan’ (Masked Man) out of the game.
+=> C9: To achieve this, Chen Ran started asking questions, slipping in his own agenda, successfully extracting the method to counter a Weird Speaker, and negating the rules on the table.
+=> C10: The rest was just a performance, as Chen Ran had deliberately pretended to go pick up the Liar Killer to force ‘Li Annan’ (Masked Man) to admit that he was the Sheep, thereby kicking him out of the game.
+=> C11: Therefore, the plan had succeeded, Chen Ran had forced ‘Li Annan’ (Masked Man) into a dead end step by step.
+
+P7: During this time, Chen Ran had given multiple useless promises.
+P8: One: When only the Husband and the Sheep remain, the Husband won't use the liar killer to judge the Sheep to death.
+P9: Two: If you admit your identity, I won't use the pistol on the scales or the liar killer to kill you, and I'll even play a life-and-death match with you.
+P10: These were all Future lies that, only after ‘Li Annan’ (Masked Man) dies, that Chen Ran would have been judged to have lied.
+P11: However, by then, even if Chen Ran had lied, he would be the only one left within the secret chamber, and no one would be left to judge Chen Ran.
+=> C12: Therefore, this was the reason why Chen Ran had asked ‘Li Annan’ (Masked Man) if a lie told in a dungeon would follow a player forever.
+Now, Chen Ran has revealed why he wanted a perfect clear. Facing a man who had abducted and murdered children, while burning fifteen parents alive. Out of the eight original families, only one husband was left alive. This meant that the husband didn’t just want revenge for his ex-wife and child, he wanted revenge for the seven families as well and that the Masked Man should die at the hands of the Husband.
+The Masked Man tried to provoke Chen Ran but Chen Ran simply aimed the muzzle of the gun and walked slowly towards the Masked Man until it pressed into his head. Suddenly, Chen Ran asked why didn’t the Masked Man judge him as he had lied before.
+However, just as the Masked Man felt hope, a bullet had already dug within his forehead.
+The BOSS and the seventeen players were now dead. Only Chen Ran remained within the Secret Chamber.
+In a daze, he saw eight families, twelve people in total, smiling and waving at him, bowing in thanks. Their faces were filled with an expression Chen Ran felt was relief.
+When Chen Ran tried to retrieve the Liar Killer, information had appeared within his mind.
+Chen Ran obtained the Liar Killer Skill called Eternal Kingdom that nullifies the effect of the other Liar Killer Skills for one hour.
+
+Chen Ran’s Scheme (From Beginning to End)
+
+Ranking the Categories from WSS Game Chen Ran

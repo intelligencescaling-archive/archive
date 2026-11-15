@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kudo-s-dj-eddie-p-vci-feat
+category: doc
+title: Kudo's DJ & Eddie P VCI Feat
+alt_titles:
+- Kudo Eddie P and DJ VCI Feat
+authors:
+- name: Grüner Drache
+  source: doc-text
+series:
+- case-closed
+characters:
+- conan-edogawa
+tags:
+- feats
+- vci
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1LX76r2iGHtzqWmjMtE2WyUMzYwfSezCXat1eH-voZWQ
+    google_id: 1LX76r2iGHtzqWmjMtE2WyUMzYwfSezCXat1eH-voZWQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 849
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5101934
+      sha256: 720bbd93dea929107ad789b1f3406bcfca5041d011f3f133bd0dc219964e1e16
+    - format: docx
+      name: document.docx
+      bytes: 4939297
+      sha256: 176c722045cf0f3196927b88305eafe92364fdda98d3810f65d2955967a55ae0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kudo Eddie P and DJ VCI Feat
+- library: remastered
+  section: Case Closed
+  character: Conan Edogawa (or Kudo Shinichi)
+  link_text: Kudo's DJ & Eddie P VCI Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

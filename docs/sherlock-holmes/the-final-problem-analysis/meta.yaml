@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-final-problem-analysis
+category: doc
+title: The Final problem analysis
+alt_titles:
+- The Final problem analysis doc
+authors: []
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+variant: Novels
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Ic0VqLZeBb3u4Vp9i6jIOj45NkFukO4NUWuBxrwWz00/edit?usp=drivesdk
+    google_id: 1Ic0VqLZeBb3u4Vp9i6jIOj45NkFukO4NUWuBxrwWz00
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 4475
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1687508
+      sha256: 885addc3df9d4ddd9dd2d783bc8d1922eca3db2314c0614e1716e2d8964c8485
+    - format: docx
+      name: document.docx
+      bytes: 3629710
+      sha256: 733fefbf52e4f40e1a5dcf4abc9dd09c9153db873739d386e0966cf13672252f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: The Final problem analysis doc
+- library: remastered
+  section: Sherlock Holmes
+  character: Sherlock Holmes - Novels
+  link_text: The Final problem analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: takuya-s-tablet-feat-writeup
+category: doc
+title: Takuya's Tablet Feat writeup
+alt_titles:
+- Tablet Feat
+- Takuya’s Tablet Feat writeup
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1FiddMr1rHpZyM_eVrAFQEVw7BtTjSv-gqTCTi-FP4rQ/edit?usp=drivesdk
+    google_id: 1FiddMr1rHpZyM_eVrAFQEVw7BtTjSv-gqTCTi-FP4rQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 936
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 69619
+      sha256: 4069ce03212c6a4309cc1f0984fbd4c43757653d8eae79f5710cc1e1af599aca
+    - format: docx
+      name: document.docx
+      bytes: 529597
+      sha256: 7b060f0a0da18b98d726a5eacea321f396331a05e3e24ee0c2044e236dd2829b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Tablet Feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Takuya’s Tablet Feat writeup
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

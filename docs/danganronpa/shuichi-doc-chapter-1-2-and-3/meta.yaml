@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shuichi-doc-chapter-1-2-and-3
+category: doc
+title: Shuichi doc(chapter 1, 2 and 3)
+alt_titles:
+- Shuichi doc (Chapter 1 to 3)
+authors: []
+series:
+- danganronpa
+characters:
+- shuichi-saihara
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1x6xyBuY7Lp0qjFG1njHfHg56cWl9guPr
+    google_id: 1x6xyBuY7Lp0qjFG1njHfHg56cWl9guPr
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 38
+    words: 13409
+    files:
+    - format: pdf
+      name: Shuichi doc (Chapter 1 to 3).pdf
+      bytes: 690913
+      sha256: 6a61cc816e07c08e4c08db8c8ad13f6038bdabaa2837540a8235a79b03efac7d
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Shuichi doc(chapter 1, 2 and 3)
+- library: remastered
+  section: Danganronpa
+  character: Shuichi Saihara
+  link_text: Shuichi doc (Chapter 1 to 3)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

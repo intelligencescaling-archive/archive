@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: soul-hax-debunk-explaining
+category: doc
+title: Soul Hax Debunk & Explaining
+alt_titles:
+- Keiji Shinogi's Soul Hax Reading debunk and explanation
+authors: []
+series:
+- your-turn-to-die
+characters:
+- keiji-shinogi
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1B004-dO_k_H5H1fLEOA3XlOy7W7TK82ZbeCUl7sJXBE/edit?tab=t.0
+    google_id: 1B004-dO_k_H5H1fLEOA3XlOy7W7TK82ZbeCUl7sJXBE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 4649
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10423128
+      sha256: 8f8abe71511c6df2cb0cf381a84517919cb445a1e466f4f394d79821ce104e79
+    - format: docx
+      name: document.docx
+      bytes: 9806867
+      sha256: 4e8ceedbeaf4ed527946ada388950813bc641aee91ba854fb774f1f49b1dc36f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'YTTD:'
+  link_text: Keiji Shinogi's Soul Hax Reading debunk and explanation
+- library: remastered
+  section: Your Turn to Die
+  character: Keiji Shinogi
+  link_text: Soul Hax Debunk & Explaining
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

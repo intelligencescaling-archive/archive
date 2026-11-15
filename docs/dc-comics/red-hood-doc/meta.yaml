@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-hood-doc
+category: doc
+title: Red Hood Doc
+authors: []
+series:
+- dc-comics
+characters:
+- red-hood
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10He5YF08nyW-x-rJUnd_g8oBSt693mYW8HDBLO02enw/edit?usp=drivesdk
+    google_id: 10He5YF08nyW-x-rJUnd_g8oBSt693mYW8HDBLO02enw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 9019
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 885248
+      sha256: dc320cd82a897dbf4a1540fa239e15f5d985e142aff13a7c73215f1c673652cf
+    - format: docx
+      name: document.docx
+      bytes: 3715180
+      sha256: ab2988f7b86b7c6e378eb47c9129785abb4f67ff484a2317bf954301f1dc4085
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Red Hood Doc
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Red Hood
+  link_text: Red Hood Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

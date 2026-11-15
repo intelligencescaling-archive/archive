@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: in-depth-debunk-of-cf
+category: doc
+title: In-depth Debunk of CF
+alt_titles:
+- Chess feat debunk
+authors:
+- name: Farhen007
+  source: doc-text
+- name: AGENT-ct8kv
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GZMMnyQ-AoS3dIig0rbIRHdz7JrKzkoE5vtEogYPO3A
+    google_id: 1GZMMnyQ-AoS3dIig0rbIRHdz7JrKzkoE5vtEogYPO3A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 96
+    words: 34854
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11919639
+      sha256: 2d58837f4e0bdedd4a0cc248966002f431734ef062e0b3ad35bdf08028507dd3
+    - format: docx
+      name: document.docx
+      bytes: 11017149
+      sha256: 89c4353af3899be3cebc268aa007cc222fce8975deb94108896bfc5c272d7400
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Chess feat debunk
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: In-depth Debunk of CF
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

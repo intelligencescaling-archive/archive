@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-holmes-bbc-ru
+category: doc
+title: Sherlock Holmes BBC(ru)
+alt_titles:
+- Sherlock BBC(Russian Version)
+authors: []
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+variant: BBC
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15_-ORVgrSEtArcWsIDHG_1-9qAC49HwCb9E0HL3QheM
+    google_id: 15_-ORVgrSEtArcWsIDHG_1-9qAC49HwCb9E0HL3QheM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 105
+    words: 30873
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11837428
+      sha256: 7aabb998119503831f076c52cbfd6a18498747e35cf40cd3c6a4a22250923f38
+    - format: docx
+      name: document.docx
+      bytes: 14057923
+      sha256: 5ad950995fdb466a025245ff893e59e71980447a52be04f8e0752c25f2dfd9f7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sherlock BBC(Russian Version)
+- library: remastered
+  section: Sherlock Holmes
+  character: Sherlock Holmes (BBC)
+  link_text: Sherlock Holmes BBC(ru)
+  note: (Russian)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

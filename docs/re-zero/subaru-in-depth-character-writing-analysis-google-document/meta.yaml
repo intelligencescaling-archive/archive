@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: subaru-in-depth-character-writing-analysis-google-document
+category: doc
+title: Subaru In-depth character writing analysis Google document
+alt_titles:
+- Subaru Natsuki Writing Doc
+authors: []
+series:
+- re-zero
+characters:
+- subaru-natsuki
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1xJoNmw9lRvH_Si_qQACUCrfpfubsZ8aG_po0wrazXhs/edit?usp=drivesdk
+    google_id: 1xJoNmw9lRvH_Si_qQACUCrfpfubsZ8aG_po0wrazXhs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 53
+    words: 22738
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 766125
+      sha256: 5804a37a349b97a8d1bfb6477b1b6bf6bc41ebfd5358bc614c205cac474fdc62
+    - format: docx
+      name: document.docx
+      bytes: 84012
+      sha256: 25a9bc6776765fa744716bd22d8a23894a18482d70135d81335f07e1072e969f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Subaru Natsuki Writing Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

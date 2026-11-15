@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sora-s-strategies
+category: doc
+title: Sora's strategies
+alt_titles:
+- Analysis of Sora's Sugoroku strategy
+authors: []
+series:
+- no-game-no-life
+characters:
+- sora
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1TebyU8M54X6GS3B1CZ1ich4CW3IG4Y0PwAFrHsboYMU/edit?usp=drivesdk
+    google_id: 1TebyU8M54X6GS3B1CZ1ich4CW3IG4Y0PwAFrHsboYMU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 90
+    words: 49256
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 23624676
+      sha256: f0304a743569f52a6a8d345cd13b37380e6d5a937923b13b944805c4e15d245c
+    - format: docx
+      name: document.docx
+      bytes: 21783122
+      sha256: 1c1b6e590dd1a12842bde793cbb9440d63b42f95990128f34bd9b4a8dc1eb39d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Analysis of Sora's Sugoroku strategy
+- library: remastered
+  section: No Game No Life
+  character: Sora
+  link_text: Sora's strategies
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

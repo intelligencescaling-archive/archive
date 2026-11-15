@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: old-maid-re-analysis-kiyotaka-ayanokouji-s-ep
+category: doc
+title: Old Maid Re-Analysis (Kiyotaka Ayanokouji's EP)
+alt_titles:
+- Koji's emotional perception Re-Analysis
+- Old Maid Re-Analysis (Kiyotaka Ayanokouji’s EP)
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1y05N0YNyhqW0DV3pCxh3W8ILVgjEaSas84tSwqV9ZSM
+    google_id: 1y05N0YNyhqW0DV3pCxh3W8ILVgjEaSas84tSwqV9ZSM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 38
+    words: 5548
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 405568
+      sha256: 34368dae637deccc9f2382b48e5477051464f2b530870921ad69396cadc2e194
+    - format: docx
+      name: document.docx
+      bytes: 781849
+      sha256: ec448687f0908bf5b96e6fcbf638ecdfad4710bb49dfbecb01dda9970464a9ba
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's emotional perception Re-Analysis
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Old Maid Re-Analysis (Kiyotaka Ayanokouji’s EP)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

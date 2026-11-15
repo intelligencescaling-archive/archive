@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: di-wu-zhi-yi-18loh
+category: doc
+title: Di Wu Zhi Yi - 18LOH
+alt_titles:
+- Di Wu Zhi Yi SCD document
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- di-wu-zhi-yi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1MLcFIm6KP523nYrLG24zBusdpq4qCf7OLNnz207qzlI/edit?usp=drivesdk
+    google_id: 1MLcFIm6KP523nYrLG24zBusdpq4qCf7OLNnz207qzlI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1351
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 200836
+      sha256: 69bf1671d5d988790374e2812f7827aa59f3f035172ae183a3e167c0ce64d751
+    - format: docx
+      name: document.docx
+      bytes: 966522
+      sha256: 0c546269e438b17a1d25be5a72afd7df54969a868db4b5890765890155646583
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Di Wu Zhi Yi SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: stalemate-plan-doc
+category: doc
+title: STALEMATE PLAN DOC
+alt_titles:
+- complete explanation of Akiyama's stalemate plan
+authors:
+- name: Tokho/Cridemord
+  source: doc-text
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- planning
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Io_c-WYs5_5XnyqjdUVFGAa3TDUwF7bvUHjkVF1H8rc
+    google_id: 1Io_c-WYs5_5XnyqjdUVFGAa3TDUwF7bvUHjkVF1H8rc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 39
+    words: 8118
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 17796594
+      sha256: 6ba937fe5c7dc8da28bc66fc5ade8265048f99ebd106d448e7bf2d2ed5d35674
+    - format: docx
+      name: document.docx
+      bytes: 17115616
+      sha256: e4378307bb87a41f7bb1bfeb3d7e2992c13898806b0d372930805243910f34c5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: complete explanation of Akiyama's stalemate plan
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: STALEMATE PLAN DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

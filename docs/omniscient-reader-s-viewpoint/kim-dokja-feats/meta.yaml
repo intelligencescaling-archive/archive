@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kim-dokja-feats
+category: doc
+title: Kim Dokja feats
+alt_titles:
+- Kim dokja
+authors:
+- name: the_anime_nox
+  source: doc-text
+series:
+- omniscient-reader-s-viewpoint
+characters:
+- kim-dokja
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KvMjWpWMT-KDXfHAlrKoIB1Ud1UfsH2eCfIJhoWiGGs
+    google_id: 1KvMjWpWMT-KDXfHAlrKoIB1Ud1UfsH2eCfIJhoWiGGs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 948
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 912271
+      sha256: 287dc72144a054fe589061e2cdb9f1f9a383d729f62521ad1413dcb5291f9400
+    - format: docx
+      name: document.docx
+      bytes: 1161076
+      sha256: 30e8c4f49e0ec5356bb53353c7ac8d51bd479b2580f5020136e87eb062ff8877
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kim dokja
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

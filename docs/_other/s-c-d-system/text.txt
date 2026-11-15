@@ -1,0 +1,179 @@
+Axioms of Outsmarting
+Complexity Scales with Scope:
+As the scale of influence increases, for example, from local to universal, so does the complexity of systems being manipulated. Metrics like Multi-Agent Complexity (MAC) or Systemic Scope (SS) reflect this escalation.
+Multi-Factorial Nature:
+Outsmarting is multifactorial in nature—a combination of several factors such as creativity, foresight, adaptability, and sophistication of opposition. This is why formulas are mostly additive or multiplicative.
+Interaction of Elements:
+Outsmarting is nonlinear; factors often interact with each other dynamically, creating multiplicative relationships.
+Example: A character's Conceptual Influence (CI) is far stronger when combined with Foresight Depth (FD) because manipulating abstract systems requires a vision for long-term effects.
+Sophistication of Opposition Matters:
+It is significantly more impressive to outsmart a highly sophisticated opponent or system than to exploit a simple one. Metrics such as Opponent Complexity (OC) or Meta-System Complexity (MSC) capture this distinction.
+________________
+
+2. Empirical Basis
+The structure of these formulas is drawn from observations in both human and narrative intelligence.
+Inspiratory Sources: Real-World and Fictional
+* Game Theory: Multiplicative terms, like AV+CII×MAC, are inspired by how multiple strategies interplay in competitive scenarios.
+* Complex Systems: Additive relationships reflect independent metrics, such as creativity and foresight, working together synergistically.
+* Hierarchical Systems in Stories: Many narratives—from chess to galactic wars—illustrate an upward escalation in size and complexity, justifying hierarchical frameworks.
+Examples:
+* Tier 1 (Localized):
+In chess, Tactics and Psychological Insight predominate, but the complexity of the opponent determines the challenge.
+* Tier 4 (Universal):
+In a cosmic manipulation story, Conceptual Influence (CI) and Systemic Scope (SS) dominate as they reflect universal systems of causality and time.
+________________
+
+3. Logical Abstraction (A Priori Reasoning)
+   * Why Additive Terms?
+Additive terms capture independent contributions.
+Example: Foresight and Creativity may operate independently, but both contribute to overall effectiveness.
+   * Why Multiplicative Terms?
+Multiplicative terms capture interdependent relationships.
+Example: Manipulating abstract concepts (CI) is amplified by the breadth of influence (SS) because they act synergistically.
+   * Why Escalating Complexity?
+As tiers rise, formulas incorporate more dimensions, reflecting an increasing dimensionality of influence, such as moving from two factors in Tier 1 to four in Tier 6.
+      * Tier 1: Focused, localized variables like Tactics.
+      * Tier 6: Requires handling ultimate principles, recursion, and paradoxes.
+________________
+
+4. Philosophical Basis (Derived A Priori)
+Scope of Intelligence and Outsmarting
+These formulas align with philosophical theories of intelligence:
+      * Abstraction and Creativity (Immanuel Kant and Bloom Taxonomy): Higher intelligence synthesizes concepts across diverse domains, represented by CI × MCD.
+      * Emergent Complexity (Aristotle and Complexity Theory): Larger systems exhibit emergent properties that cannot be reduced to smaller subsystems. For instance, the EC metric applies specifically at Tier 3.
+Sophistication of Systems:
+The increasing complexity from localized systems to universal or multiversal frameworks mirrors the evolution of abstract thinking:
+      * Tier 1: Empirical, direct logic (e.g., explicit manipulation).
+      * Tier 4+: Transcendence into conceptual or ontological spaces.
+________________
+
+5. Tier-Specific Justifications
+Tier 1 Formula (Localized):
+OI=(TAC+PI)×OC
+      * Why Add TAC and PI?
+Tactics (TAC) and Psychological Insight (PI) contribute additively.
+      * Why Multiply by OC?
+Outsmarting scales with the complexity of the opponent; a simple tactical plan becomes exponentially harder against a sophisticated adversary.
+Tier 3 Formula: Galactic
+OI=(SA×EC)+SF
+         * Why Multiply SA and EC?
+Systemic Adaptability (SA) relies on handling Emergent Complexity (EC), making their relationship interdependent.
+         * Why Add SF?
+Strategic Foresight (SF) serves as a baseline capability that operates independently of the other metrics.
+________________
+
+Tier 6 Formula: Cataphysical
+OI=(UPM×MCD)+(RMC+ANLM)
+            * Why Multiply UPM and MCD?
+Ultimate Principles (UPM) require mastery of Meta-Conceptual Systems (MCD) to function effectively.
+            * Why Add RMC and ANLM?
+Recursive Multiversal Complexity (RMC) and Absolute Non-Logical Mastery (ANLM) are complementary but remain independent skills.
+
+Tiering System
+
+General metric across tiers Opponent Complexity = (Base Complexity (BC) + Domain Expertise (DE)) × Context Alignment (CA)
+               * Base Complexity (BC):
+The intrinsic difficulty of outsmarting an average individual.
+               * Domain Expertise (DE):
+The opponent's specialized skills, such as athletic, intellectual, or creative abilities.
+               * Context Alignment (CA):
+A multiplier that adjusts how effectively those skills apply to the specific scenario.
+Tier 1: Localized Outsmarting
+Scope:
+Manipulation of localized systems, such as individual opponents, small groups, or confined rule-based frameworks like games or localized schemes.
+Key Metrics:
+                  * Tactics (TAC):
+Precision and efficiency in executing strategies within well-defined systems.
+Example: Winning a chess game or navigating a single negotiation.
+                  * Psychological Insight (PI):
+The ability to read and exploit human behavior in small-scale interactions.
+                  * Opponent Complexity (OC):
+Intelligence and strategy level of the opponent.
+Formula:
+OI=(TAC+PI)×OC
+ Tier 2: Local-Global Outsmarting
+Scope:
+Manipulation of multi-agent systems spanning local, societal, or planetary dynamics, such as politics, economics, or societal influence.
+Key Metrics:
+                     * Adaptation Velocity (AV):
+Speed and efficiency in dynamically shifting strategies.
+                     * Creative Innovation Index (CII):
+Novel solutions to address complex systemic problems.
+                     * Multi-Agent Complexity (MAC):
+The sophistication of the systems and agents being manipulated.
+Formula:
+OI=(AV+CII)×MAC
+Tier 2.5: Global Outsmarting
+Scope:
+An extension of Tier 2, covering fully global systems, integrating elite multi-agent dynamics and layered strategies.
+Key Metrics:
+                        * Systemic Foresight (SF):
+Ability to anticipate long-term outcomes across multiple agents and systems.
+                        * Creative Innovation (CII):
+Expanded from Tier 2 to address global systems.
+                        * Opposition Complexity (OC):
+The sophistication of opponents requiring layered strategies.
+Formula:
+OI=(SF+CII)×OC
+Tier 3: Galactic Outsmarting
+Scope:
+Interstellar manipulation involving emergent phenomena, large-scale diplomacy, and long-term strategy spanning civilizations.
+Key Metrics:
+                           * Systemic Adaptability (SA):
+Ability to adjust to galactic-scale systems with emergent properties.
+                           * Emergent Complexity (EC):
+Complexity of large-scale, interconnected systems.
+                           * Strategic Foresight (SF):
+Multi-generational or long-term planning.
+Formula:
+OI=(SA×EC)+SF
+Tier 4: Universal Outsmarting
+Scope:
+Manipulation of universal systems, such as time, causality, and space, across vast systems and scales.
+Key Metrics:
+                              * Conceptual Influence (CI):
+Ability to influence or manipulate abstract systems like time, space, or causality.
+                              * Foresight Depth (FD):
+Long-term planning across universal scales and timelines.
+                              * Systemic Scope (SS):
+Impact across entire galaxies, universes, or cosmic systems.
+Formula:
+OI=(CI+FD)×SS
+Tier 4.5: Multiversal Outsmarting
+Scope:
+Operating across multiple universes  and branching timelines, leveraging multiversal frameworks.
+Key Metrics:
+                                 * Multiversal Navigation Efficiency (MNE):
+Success in traversing and influencing multiversal structures.
+                                 * Probability Optimization (PO):
+Exploiting probabilities to ensure desired outcomes across timelines.
+                                 * Systemic Influence (SI):
+Manipulating systems across universes and timelines.
+Formula:
+OI=(MNE×PO)+SI
+Tier 5: Metaphysical Outsmarting
+Scope:
+Manipulating ontological structures and the foundational rules of reality itself.
+Key Metrics:
+                                    * Ontological Manipulation (OM):
+Altering the fundamental rules of existence.
+                                    * Paradox Exploitation Rate (PER):
+Leveraging paradoxes to create outcomes that defy conventional logic, where logic exists in a metaphysical sense and not its formal scientific sense.
+                                    * Meta-System Complexity (MSC):
+Complexity of the metaphysical systems being manipulated, including extended metaphysics aka pataphysics which is where imaginary solutions and absurdities  are introduced.
+Formula:
+OI=(OM+PER)×MSC
+Tier 6: Cataphysical Outsmarting
+Scope:
+Mastery over ultimate principles—beyond metaphysical systems—such as narrative, modality, and constants.
+Key Metrics:
+                                       * Ultimate Principle Manipulation (UPM):
+The ability to manipulate absolute constants or frameworks present in an ultimate reality.
+                                       * Meta-Conceptual Dynamics (MCD):
+Creation and control of systems that go beyond abstraction or meta-causality.
+                                       * Recursive Multiversal Complexity (RMC):
+Thriving in and resolving infinite recursion loops where said loops interact on an absolute scale. (Cosmogony has more accurate usage than multiverse)
+                                       * Absolute Non-Logical Mastery (ANLM):
+Functioning effectively within paradoxical, meta-logical, or incomprehensible frameworks. Where incomprehensible=Ineffability.
+Formula:
+OI=(UPM×MCD)+(RMC+ANLM)

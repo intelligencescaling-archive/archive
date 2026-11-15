@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kirari-mh
+category: doc
+title: Kirari MH
+authors:
+- name: Hayatoz
+  source: doc-text
+series:
+- kakegurui
+characters:
+- kirari-momobami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10d7n6XrF42lGSzuWylScRpHB4hViHRMOAvr2z3u7Ykw
+    google_id: 10d7n6XrF42lGSzuWylScRpHB4hViHRMOAvr2z3u7Ykw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 896
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 818907
+      sha256: d7f90ac8ed55816f5442cc4129bbf508e3d8e8511171c09a8b683f9e17d69dbd
+    - format: docx
+      name: document.docx
+      bytes: 760677
+      sha256: 25b687f22879391f25018d4807640a7c80d4c3aa3e237834ba8273e26c8615f7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Kirari MH
+- library: remastered
+  section: Kakegurui
+  character: Kirari Momobami
+  link_text: Kirari MH
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

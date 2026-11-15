@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ln-shiba-tatsuya-feats-list
+category: doc
+title: LN Shiba Tatsuya feats list
+alt_titles:
+- LN Shiba Tatsuya
+authors:
+- name: YuuichiGiri
+  source: doc-text
+series:
+- the-irregular-at-magic-high-school
+characters:
+- tatsuya-shiba
+variant: Light Novel
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15sgbgqPo7AkEU3wVY-cCFIp0Vjor4c6jSnbZyAK9W1U
+    google_id: 15sgbgqPo7AkEU3wVY-cCFIp0Vjor4c6jSnbZyAK9W1U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 8144
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 755700
+      sha256: 02b23b43bb7dd4d93b5361dae9b40d88812314ccf56962800c265ef41ab5195d
+    - format: docx
+      name: document.docx
+      bytes: 437330
+      sha256: 6cbd55405fdf28f54ed1f624a57833b227bafe58b173572ca1b34749c0d3bc98
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: LN Shiba Tatsuya
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

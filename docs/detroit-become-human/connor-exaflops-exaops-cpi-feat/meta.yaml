@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: connor-exaflops-exaops-cpi-feat
+category: doc
+title: Connor exaFLOPS/exaOPS CPI feat
+alt_titles:
+- Connor Exaflop CPI Feat
+authors: []
+series:
+- detroit-become-human
+characters:
+- connor
+tags:
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1e5t1Zl3ypPetkeOYEGWWJD3_yzOycMWdLttIiH2qhys/edit?usp=drivesdk
+    google_id: 1e5t1Zl3ypPetkeOYEGWWJD3_yzOycMWdLttIiH2qhys
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 689
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8606298
+      sha256: 99f9a8434e5d3ff2a84b7a5220321b3a94393cdbe54de15c37595b433d39518b
+    - format: docx
+      name: document.docx
+      bytes: 7427634
+      sha256: 119c2397c07b3fb184ea859f527844f0996e8e2c77c333dcf973ce44726af5cd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Connor Exaflop CPI Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

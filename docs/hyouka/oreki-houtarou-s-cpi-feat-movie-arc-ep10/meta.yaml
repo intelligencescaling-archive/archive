@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: oreki-houtarou-s-cpi-feat-movie-arc-ep10
+category: doc
+title: Oreki Houtarou's CPI Feat (Movie Arc Ep10)
+alt_titles:
+- Houtaro Oreki CPI
+authors:
+- name: gensolos
+  source: doc-text
+- name: n-ice
+  source: doc-text
+series:
+- hyouka
+characters:
+- oreki-houtarou
+tags:
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14QX_jd1PVAOgj-EhwchAADjhFyBVY1FIDMJQZ6bBDW8/edit?tab=t.0#heading=h.elkn4i2os1vi
+    google_id: 14QX_jd1PVAOgj-EhwchAADjhFyBVY1FIDMJQZ6bBDW8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 166
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 469687
+      sha256: 3179e7367f60532f668133cdfbcb2c48313f307698b3e567ac95608fc98a2fbf
+    - format: docx
+      name: document.docx
+      bytes: 368637
+      sha256: b29149f2b25dc0598a44d57acc26bd168e1c2ec3c25fe2ca84f6046867e175bf
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Houtaro Oreki CPI
+- library: remastered
+  section: Hyouka
+  character: Oreki Houtarou
+  link_text: Oreki Houtarou's CPI Feat (Movie Arc Ep10)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

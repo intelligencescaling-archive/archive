@@ -1,0 +1,21 @@
+Shingo Aoi: The Computer
+
+Context
+In Koukou Tekkenden Tough, Chapter 97, Shingo Aoi is officially introduced, he is a character capable of calculating his opponent's moves and can fully understand the result of a fight.
+
+Later, on chapter 99, Seiko explains to Kiichi that Goetsu style practitioners are able to predict exactly the opponent's next 20 moves, while Kiichi is only able to process 3.
+
+With all this, we can now get an idea of the magnitude of information Shingo is capable of processing to come up with the next 20 moves, so we can proceed.
+
+In Chapter 94, we are told that Shingo knows almost every grappling technique in the world.
+
+This is impressive if we remember that Choso exists, someone who has perfected more than 1500 grappling techniques (Note, perfected, clearly he must know many more).
+Let's use a more reasonable number of techniques and assume that 1500 is too high, fine. In Judo there are 41 Grappling techniques, considering that Shingo apparently predicts mostly grappling techniques, but considering his style, it makes sense to use Judo as a reference.
+
+Now, how can we calculate something like this? Well, it boils down to a Permutation calculation.
+
+Once we know each item (explained above) we only have to make the calculation.
+
+654764331820982873230540800000 Permutations in total.
+
+130952866364196574646108160000 Permutations per Second. This equals to 130.95 Octillon of permutations per second.

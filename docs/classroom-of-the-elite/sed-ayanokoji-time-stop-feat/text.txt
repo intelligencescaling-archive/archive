@@ -1,0 +1,42 @@
+SED Ayanokoji Time stop feat
+
+made by : scd_scal489
+
+Context
+calculations and more
+
+In chapter 10 of the fanfic "Solo Elite Disclosed," a rather interesting PSI feat is shown: Ayanokoji, while playing a bet against Ryuen with a timer ticking down, managed to accelerate his thinking so much that everything around him slowed down so much that time stood still.
+
+"Seven, six, five, four, three, two, one—!
+
+And then, the world stopped at zero. Everything around me froze, while my mind continued to emerge ahead, untouched by the pause.
+
+This phenomenon happened when I focused intensely enough for my brain to operate at a speed where time seems to not just slow but actually stop just for me.
+
+It was normalized as something I could do as naturally as breathing.
+
+However, even if I could maintain this state indefinitely, it wasn't a choice I should make. If the world wouldn't progress, I'd never reach the conclusion of my story.
+
+Once again, the world emerged forward.
+'sixty-four'
+Although the timer displayed "00:00" on the screen, I tapped on it just in time. This was supported by the absence of a pop-up indicating I had run out of time.
+If this timer were capable of showing more numbers, it would have read "00:00:315" by now. Not that it was really that matters."
+Calculations
+
+The time elapsed between saying "one" and pressing the stopwatch to stop it was 0.685s.
+
+Since SED Ayanokoji first said "sixty-four" and then stopped the stopwatch, we'll subtract 200ms from the previous value (in reality, the time can vary between 200 and 400 milliseconds; 200ms was the fastest I could say sixty-four). The result is that in those 0.485 seconds, Ayanokoji thought everything described above and at the same time kept track of the milliseconds (as demonstrated by the fact that while time was stopped, he knew the exact milliseconds the stopwatch should have ticked without the need for a clock to indicate them).
+
+The calculations for his thinking speed would be as follows:
+
+2 seconds from his perspective / 0.485s = 4.12 times faster than a normal human
+
+5 seconds from his perspective / 0.485s = 10.30 times faster than a normal human
+
+10 seconds from his perspective / 0.485s = 20.61 times faster than a normal human
+
+30 seconds from his perspective / 0.485s = 61.85 times faster than a normal human
+
+60 seconds from his perspective / 0.485s = 123.71 times faster than a normal human
+
+Please note that this is the Lowball and that this Ayanokoji can control this state at will. Later in the chapter called “Pseudo Omniscient” reveals that he planned to lose on purpose from the beginning.

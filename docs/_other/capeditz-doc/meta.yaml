@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: capeditz-doc
+category: doc
+title: Capeditz Doc
+alt_titles:
+- Capeditz219 Doc
+authors: []
+series: []
+characters: []
+tags:
+- humor
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ZXJGA3B9uI_hYai9VVQW40WuVF8kIvWc_difX3yXWLY
+    google_id: 1ZXJGA3B9uI_hYai9VVQW40WuVF8kIvWc_difX3yXWLY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 1792
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2768634
+      sha256: f81afb2e6cba83688cd8b94b3beea1e72af23a9fd90fd9aeb6a7b0ca22d32bb5
+    - format: docx
+      name: document.docx
+      bytes: 2144075
+      sha256: 8f4e7b1bb0e37f772088fc0a89be254237711c62928285958d67602c43aa2bc8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Capeditz219 Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

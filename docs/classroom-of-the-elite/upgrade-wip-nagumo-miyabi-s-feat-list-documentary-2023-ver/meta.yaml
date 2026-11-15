@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: upgrade-wip-nagumo-miyabi-s-feat-list-documentary-2023-ver
+category: doc
+title: (Upgrade WIP) Nagumo Miyabi's Feat List Documentary (2023 ver)
+alt_titles:
+- Nagumo 1
+- (Upgrade needed) Nagumo Miyabi’s Feat List Documentary (2023 ver)
+authors:
+- name: DAX PMFT
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- nagumo-miyabi
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1U1OQR4jEaBElnaPHvcxAT--Jcwj6TlzEFTldGUM7rUM/edit?usp=drivesdk
+    google_id: 1U1OQR4jEaBElnaPHvcxAT--Jcwj6TlzEFTldGUM7rUM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 99
+    words: 39954
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1517063
+      sha256: ae47c2bd2cfd00a7a93b30ecbf8b47fa94850c70383abbd9c10deb122c531e13
+    - format: docx
+      name: document.docx
+      bytes: 2631694
+      sha256: 61c0a17bcfc60c2e3d998d8ea6dfb36cf1830036f8d60b0392fc43a5c7594ff7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Nagumo 1
+- library: remastered
+  section: Classroom of the Elite
+  character: Nagumo Miyabi
+  link_text: (Upgrade needed) Nagumo Miyabi’s Feat List Documentary (2023 ver)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

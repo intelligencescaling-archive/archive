@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: type-moon-scd-characters
+category: doc
+title: Type-Moon SCD Characters
+authors: []
+series:
+- fate
+characters: []
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1kKD0mVEj5ppWHP5Aa82qrS_1wSwnbiEmKfRdlElpwSM
+    google_id: 1kKD0mVEj5ppWHP5Aa82qrS_1wSwnbiEmKfRdlElpwSM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 1215
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 119530
+      sha256: 00582176dddf69dbc410051f712a22c9658421fa1c4aa0387b6a388a6fe5dbea
+    - format: docx
+      name: document.docx
+      bytes: 27231
+      sha256: ed8a83151e5aa27d81f349c283e7b3cdc82850985817b28811b156b9e3bf4a38
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Type-Moon SCD Characters
+  note: (not finished)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

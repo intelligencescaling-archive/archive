@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-one-minute-strategy
+category: doc
+title: The One Minute Strategy
+alt_titles:
+- The 1 Minute Strategy
+authors:
+- name: Velvet
+  source: doc-text
+series:
+- breaking-bad-better-call-saul
+characters:
+- gus-fring
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14mQ1WPph3MPOd9Id97LSd9u68fGZ5DD4XO7o39j11_g
+    google_id: 14mQ1WPph3MPOd9Id97LSd9u68fGZ5DD4XO7o39j11_g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3353
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 824103
+      sha256: 331dbc7cafcbc43a14f58cc2f207ea412a38ed5013cbf90ae00d6747c93b890b
+    - format: docx
+      name: document.docx
+      bytes: 625352
+      sha256: 035774110492fc6f8fedc9de349e6f4d688337dabc0b8ab26683f4da3e112195
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Breaking Bad | Better Call Saul
+  character: Gus Fring
+  link_text: The 1 Minute Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

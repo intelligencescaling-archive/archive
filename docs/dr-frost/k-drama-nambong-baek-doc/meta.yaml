@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: k-drama-nambong-baek-doc
+category: doc
+title: K-Drama Nambong Baek Doc
+alt_titles:
+- K-Drama Dr. Frost
+authors: []
+series:
+- dr-frost
+characters:
+- nambong-baek
+variant: K-Drama
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/19MODLu24PKI2HqEudWq0JyZV2zh61pVgmnJv22MizUY/edit?usp=drivesdk
+    google_id: 19MODLu24PKI2HqEudWq0JyZV2zh61pVgmnJv22MizUY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 37
+    words: 7520
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5207161
+      sha256: bc0af010763e2361ee295b284526e698fce9af567415fceb41db8f8d1d2d2b39
+    - format: docx
+      name: document.docx
+      bytes: 4820098
+      sha256: f806d59b50a44dcacb30d3dc4c0d5be95f486a261b47b022ec6a3dc746ce932f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DR.FROST:'
+  link_text: K-Drama Dr. Frost
+- library: remastered
+  section: Dr. Frost
+  character: Nambong Baek - K-Drama
+  link_text: K-Drama Nambong Baek Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

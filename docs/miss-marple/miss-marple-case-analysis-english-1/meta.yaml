@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: miss-marple-case-analysis-english-1
+category: doc
+title: Miss_Marple_Case_Analysis_English-1
+alt_titles:
+- Miss Marple doc
+authors: []
+series:
+- miss-marple
+characters:
+- jane-marple
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1GZgK3ZnJJpcxahROSNWhX7mQ_As-OS3VYDlqQqd5baQ/edit?usp=drivesdk
+    google_id: 1GZgK3ZnJJpcxahROSNWhX7mQ_As-OS3VYDlqQqd5baQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2327
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 141728
+      sha256: 05d803f9629e25ed23beeaffd9239c1a94c0619b9afa1e6e16457d4fb72bf5ee
+    - format: docx
+      name: document.docx
+      bytes: 37162
+      sha256: bee9ce3020804ae63f95f0e5a3393b309af7e32128ee7ef88d8e8d97c6a393d6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Miss Marple doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

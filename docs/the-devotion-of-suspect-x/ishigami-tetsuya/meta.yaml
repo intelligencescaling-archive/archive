@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ishigami-tetsuya
+category: doc
+title: Ishigami Tetsuya
+alt_titles:
+- Ishigami Tetsuya SCD document
+authors:
+- name: Osbis
+  source: doc-text
+series:
+- the-devotion-of-suspect-x
+characters:
+- tetsuya-ishigami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Sulfz2xW01mucsA7rmR4gWFRLRmqPgtHR2ujmHMX0-M/edit?usp=drivesdk
+    google_id: 1Sulfz2xW01mucsA7rmR4gWFRLRmqPgtHR2ujmHMX0-M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 62
+    words: 36681
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1302631
+      sha256: 63d0a5b1c0f8731ed3ae9acab592768c37c181ccad64fed2363b09433d311a56
+    - format: docx
+      name: document.docx
+      bytes: 2540948
+      sha256: 10ec60ff6c524815eb1f7a957c1cab56b570e0f7d13e86f3929189e0d76026de
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ishigami Tetsuya SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: love-letter-reevaluation-outdated-wip
+category: doc
+title: Love letter reevaluation (outdated)(WIP)
+alt_titles:
+- Koji's Love Letter Plan
+- Love letter plan
+authors:
+- name: Silver-sparrow_XD
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- planning
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1DxoN4wR2iBSLFTAXk4fbG7u31o3ALNF-JFLuQnDgkQk/edit?usp=drivesdk
+    google_id: 1DxoN4wR2iBSLFTAXk4fbG7u31o3ALNF-JFLuQnDgkQk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 39
+    words: 10946
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 696767
+      sha256: e1c3314cef347e43bfeb53cf2851f19445e70c35ba32e1e36d985c38f71dcb82
+    - format: docx
+      name: document.docx
+      bytes: 178571
+      sha256: e8e263f01754b7857b14f9500d6b068a7b0e58c519fd02fd09c2452b0c7e16f5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's Love Letter Plan
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Love letter plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

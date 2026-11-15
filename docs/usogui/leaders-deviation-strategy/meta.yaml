@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: leaders-deviation-strategy
+category: doc
+title: Leader’s Deviation Strategy
+alt_titles:
+- Leader deviation strategy(JoJolon)
+- Leader's Deviation Strategy
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19YOMVudFj2kSmnBPMpGo38IWXbidQJOeqr8GKKkKbWU
+    google_id: 19YOMVudFj2kSmnBPMpGo38IWXbidQJOeqr8GKKkKbWU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 132
+    words: 11600
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 40124730
+      sha256: 30b3e1c66ff460ff6f4d3c0f5294865d9c5131634bc6751ad1b32aca13c95da4
+    - format: docx
+      name: document.docx
+      bytes: 36179293
+      sha256: 15d94fd7237802b9f125f1b6e945ecdb7c198cf34e14120a093fbce50a1383b0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Leader deviation strategy(JoJolon)
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Leader's Deviation Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

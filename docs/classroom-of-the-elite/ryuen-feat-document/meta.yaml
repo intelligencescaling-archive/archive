@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ryuen-feat-document
+category: doc
+title: Ryuen Feat Document
+authors:
+- name: The Eagle Union
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- ryuen-kakeru
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1S68rWCRXDUIbDg49vAjJONXhQA14U19F_J4ibyxrPEA/edit?usp=sharing
+    google_id: 1S68rWCRXDUIbDg49vAjJONXhQA14U19F_J4ibyxrPEA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 67
+    words: 20087
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 946970
+      sha256: 10888b401a7866cf4cc71f302feacdb70e8626521968d8de3750318c72def9d5
+    - format: docx
+      name: document.docx
+      bytes: 1239294
+      sha256: 378cec74fe607999b6978d8d49d3705d73eaa733e0698b8a89bf2c52c4fd63cc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Classroom of the Elite
+  character: Ryuen Kakeru
+  link_text: Ryuen Feat Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

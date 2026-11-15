@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hachiman-hikigaya-s-athletic-festival-plan
+category: doc
+title: Hachiman Hikigaya's Athletic Festival Plan
+alt_titles:
+- Hachiman Hikigaya athletic festival plan
+authors:
+- name: umontrose
+  source: doc-text
+series:
+- my-teen-romantic-comedy-snafu
+characters:
+- hachiman-hikigaya
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10oOlCc6n9tCf3dJ2rYh-IRxlqtRPB6uiplukzksvcD8
+    google_id: 10oOlCc6n9tCf3dJ2rYh-IRxlqtRPB6uiplukzksvcD8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 779
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14614226
+      sha256: 0e02e3f9d4ea53f8e5662ca959e5d682a63f08b045c10d1239b0ab52a8e1208a
+    - format: docx
+      name: document.docx
+      bytes: 15890102
+      sha256: 123db5c9c5041a864621bdb230577c1cd66b36547443a964b5647a4bf4f78c1b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hachiman Hikigaya athletic festival plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

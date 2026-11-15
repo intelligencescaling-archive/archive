@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-s-visual-acuity
+category: doc
+title: Fang Yuan's visual acuity
+alt_titles:
+- Fang Yuan Visual Acuity
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1i54PBDPWn4hYSferFyftt8Zth3yYzFuideLkPRp_J5A
+    google_id: 1i54PBDPWn4hYSferFyftt8Zth3yYzFuideLkPRp_J5A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 758
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 118798
+      sha256: 95b8eb8a1b68d102391edbcf0571c25800deab9eb470bc3ef90084c3f5d6a361
+    - format: docx
+      name: document.docx
+      bytes: 70800
+      sha256: 8376a06df6287d5dc76bb3eef6fc229ddcaee1a7ada834d14dce757c022662b3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan Visual Acuity
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Fang Yuan Visual Acuity
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

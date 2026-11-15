@@ -1,0 +1,141 @@
+P-premise
+C-conclusion
+
+P1-Kanna would rent the Central Shinjuku Church to reunite the two mafias
+P2-The owner of the church (calling him baldy) is going to agree
+C1- Kanna and baldy are gonna form a close relationship together, and baldy would form a close relationship to Chou san since he’s one of Kanna’s most important allies
+
+P1 will happen because:
+- Kanna needs people and influence to fight off the police and to take down friend
+- It would occur in the church since it’s a big famous place known to most mafia members since they regularly visit it
+- The pope is going to get assassinated and she has to stop it
+
+P2 will happen because:
+- Baldy is generally pure hearted and is extremely cooperative looking at his background that is full of forgiveness and second chances
+- He trusts the mafias and is convinced by kanna
+- The pope is going to get assassinated and kanna has to stop it
+
+C1=P3
+
+P4-A certain priest called Perrin was killed
+P5-Another priest called Luciano is going to take his place
+C2-Luciano is going to scan all of the books and data in Perrin’s office
+
+C2=P6
+
+P5 will happen because:
+- Luciano was one of Perrin’s students and disciples
+- The relationship between the two was insanely close, and that’s because Perrin made Luciano a christian priest and changed his entire life style and, according to Luciano, “saved his life”
+
+P6-Luciano is going to scan all of the books and data in Perrin’s office
+P7-Luciano finds one of the books that Perrin studied heavily unlike other books
+P8-The book is odd, it’s newly printed yet has an old cover
+P9-What the book contains is extremely odd as well (described by Luciano to be a cheap mix of western and eastern religions, then described to be terrorist predictions), making Luciano suspicious
+C3-Luciano is gonna track the dealer and investigate around the contents of the book
+
+C3=P10
+
+P10-Luciano is gonna track the dealer and investigate around the contents of the book
+P11-The book dealer couldn’t answer the questions
+C4-The book dealer guides Luciano into the original writer
+
+C4=P12
+P12-The book dealer guides Luciano into the original writer
+P13-The writer checks the book and reads some of it sarcastically, he reads the “the world is going to end in 2015” part.
+C5-This assures that Luciano is going to be aware of that fact
+
+C5=P14
+
+Now, going back a lil bit:
+
+P14-Luciano is aware of the fact that the book says “the world is going to end in 2015”
+P15-Perrin is an extremely devoted priest and is the one that taught christianity and its principles to Luciano
+P16-Some of Perrin’s strict rules that he forced Luciano into following were to never drink, and Luciano follows that by heart
+P17-Before he died, Perrin said to one priests “when 2016 comes let’s drink until the sun sets”
+P18-Perrin would never drink, meaning that something will stop him from drinking in 2016
+P19-the book that says “the world is going to end in 2015” was heavily studied and analysed by Perrin
+C6-Perrin believed in that book
+
+C6=P20
+
+P20-Perrin believed in that book
+P21-The writer said that he was told to write the book by a japanese dude
+P22-The japanese dude told the writer that the book is going to get translated to nearly every major language and is going to become the new bible
+C7-Luciano becomes incredibly worried and anxious about this very book and feels that there’s a conspiracy happening
+
+C7=P23
+
+P23-Luciano becomes incredibly worried and anxious about this very book and feels that there’s a conspiracy happening
+P24-Luciano trusts the church priests
+P25-the church priests know about the death and have enough influence and knowledge regarding it
+C8-Luciano is going to the church priests to report about the issue
+
+C8=P26
+
+P26-Luciano is going to the church priests to report about the issue
+P27-Church priests believe in friend and in the book (counting Perrin btw)
+P28-Church priests are going to prove their knowledge to Luciano by “accidently” stating prophecies from the book that Luciano didn’t talk about, they also will confess that they didn’t read the book too
+C9-This will strike great fear and anxiety in Luciano making him stop trusting the church, so when they tell him to stop his research he won’t
+
+P29-Luciano knows about their scheme
+P30-The church has influence in the police department
+P31-church and police department both work for friend and they are used to kill off people who try to research about friend
+C10-They are going to assassinate Luciano
+
+C10=P32
+
+P33-Luciano is researching alone, he tracks the clues and finds the exact place where Perrin dies
+P34-He finds a local that has knowledge regarding the incident
+P35-The local explains that “Perrin died via falling off the stairs, they said that he drunk too much red wine”
+P36-Perrin never drunk red wine
+C11-Police’s explanation of the murder is wrong
+
+C11=P37
+
+P37-Police’s explanation of the murder is wrong
+P38-Perrin died due to another reason and the police are hiding it
+P39-There’s an entire big conspiracy happening and the church is behind it
+C12-Perrin was killed
+
+C12=P40
+
+P40-Perrin was killed
+P41-All of Perrin’s stuff were stolen from his office
+P42-Tons of police agents are in front of the church
+P43-Luciano discovered a conspiracy about the end of the world that the church has a hand in, he knows too much
+C13=C10
+
+Luciano runs away
+
+P44-Friend just died
+P45-The pope is going to his funeral
+P46-The funeral shall take place in the east
+P47-The book says “the pope will fall in the east”
+C14-The pope is going to get assassinated in the funeral
+
+Concluding that Luciano is heading to friend’s funeral to find a way to put an end to this
+
+P48-Luciano gets caught in Japan, Shinjuku near friend’s funeral
+P49-Multiple police officers are gonna investigate him
+P50-One of which is going to be Chou san since he’s a detective
+P51-Luciano trusts Chou due to his pure hearted nature and due to him being devoted to do the right thing
+P52-Chou tries his best to understand Luciano despite the language barrier
+C15-Luciano informs Chou that the Pope is going to get assassinated
+
+C15=P53
+
+P53-Luciano informs Chou that the Pope is going to get assassinated
+P3-Kanna and baldy are gonna form a close relationship together, and baldy would form a close relationship to Chou san since he’s one of Kanna’s most important allies
+C15-Chou san frees him and gets him to body and kanna
+
+Here we conclude that Chou san was able to connect Luciano with Baldy who can speak Italian like Luciano hence connecting them to Kanna who controls the mafias, meaning that all of Luciano’s knowledge is going to get transferred to Kanna
+
+P54-Otcho and Yukiji see friend alive and well on the streets
+P55-thanks to Luciano they know that if friend was alive, he IS going to kill the pope
+C16-Friend is going to kill the pope
+
+P56 (P1+P2)-Kanna controls the mafias so she’s gonna use them to protect the pope and guard friend’s funeral so the pope doesn’t get killed
+P57-Many randoms are going to use this chance (since the pope will be giving a speech as respect to friend so he’s going to be vulnerable)
+C17-Kanna will be having a war against random hitmen that don’t know that there are two mafias searching for them, making the hitmen AND kanna’s army busy for the entirety of rebirth
+
+And with that, friend found the perfect way to shield 13 (his own hitman) from kanna making his rebirth plan invincible

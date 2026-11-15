@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-inversion-convergence
+category: doc
+title: The Inversion Convergence
+alt_titles:
+- Corrupted Nightmare Sans manipulation on Nightmare
+authors:
+- name: Akuma Ujjain
+  source: doc-text
+series:
+- undertale-aus
+characters:
+- nightmare-sans
+tags:
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nujRzIJYVh614Ci3sZSSh-zw-WP140BK1ft4Es4dz9U
+    google_id: 1nujRzIJYVh614Ci3sZSSh-zw-WP140BK1ft4Es4dz9U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 69
+    words: 7036
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6144228
+      sha256: acc5863a0d8be3b388e0498d6ce9444fe85bb7a3786a73a0b0aadc846f0c6eec
+    - format: docx
+      name: document.docx
+      bytes: 7725110
+      sha256: 53e075d353a03a598f62c573c54300ce9ca61d4b09ca2bfe897c023ffe5cec38
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Corrupted Nightmare Sans manipulation on Nightmare
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

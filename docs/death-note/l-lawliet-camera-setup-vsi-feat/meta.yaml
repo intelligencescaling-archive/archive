@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-camera-setup-vsi-feat
+category: doc
+title: L Lawliet camera setup VSI Feat
+alt_titles:
+- Camera Setup VSI Feat
+authors:
+- name: bakusfather1029
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- feats
+- vsi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RDyyvYpDv2wYFZbfWsZpauarovdiZJuimqKGCmhZSAc
+    google_id: 1RDyyvYpDv2wYFZbfWsZpauarovdiZJuimqKGCmhZSAc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 713
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 66266
+      sha256: 709a1d402a853724693a5df7370a2478ef026cfa6f49defb2cbc41c0543867e4
+    - format: docx
+      name: document.docx
+      bytes: 9949
+      sha256: b7618f8976361ff17ce09fee48bfb679059e1693d881f7685057477a99ed010e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: Camera Setup VSI Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-writing-n-ice-analysis-other-people
+category: doc
+title: Ayanokoji writing (N-Ice analysis + Other people)
+alt_titles:
+- Ayanokoji writing(By N-Ice)
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+- writing-analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wgI6anSw1lU0U5LVxfm29aymhxUwhwGe_gD3tvQF-ow/edit?tab=t.0
+    google_id: 1wgI6anSw1lU0U5LVxfm29aymhxUwhwGe_gD3tvQF-ow
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 73
+    words: 30920
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 999827
+      sha256: 7092f15382db2174f98fb2b5be6853b0cb6c7b1f031fb3e0bbfefc04dd321bdd
+    - format: docx
+      name: document.docx
+      bytes: 367968
+      sha256: 5e495abba3b20565b95586e353ea0890ce0dbc8957d3aa4b0f6a99d6539a35a3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ayanokoji writing(By N-Ice)
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokoji writing (N-Ice analysis + Other people)
+  note: (Writing)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

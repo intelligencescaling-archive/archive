@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-working-memory-index-feat-in-detail
+category: doc
+title: Izuru Kamukura Working Memory Index Feat in detail
+alt_titles:
+- Izuru's WMI and VSI
+- Izuru Kamuro Working Memory Index + Visual Spatial Inde Feat in detail
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+- vsi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1E8Nd_Xqm2g_cuitVJhePFTe1d_O-dv7Her0XAL_NuvM/edit?usp=drivesdk
+    google_id: 1E8Nd_Xqm2g_cuitVJhePFTe1d_O-dv7Her0XAL_NuvM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1402
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 590825
+      sha256: 16ca0039640d0a0e9220a5024882cbf7566e61a701dbea309189c50b900f60c2
+    - format: docx
+      name: document.docx
+      bytes: 825452
+      sha256: 42789f3b9060cd5496da4c6458ed89e4c9c3ea8364ba89eb1d7632f0ed62b226
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Izuru's WMI and VSI
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamuro Working Memory Index + Visual Spatial Inde Feat in detail
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

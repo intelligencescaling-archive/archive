@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: powerscaling-categories
+category: doc
+title: Powerscaling categories
+alt_titles:
+- All Power scaling categories
+authors: []
+series: []
+characters: []
+tags:
+- wis
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LET8oahcY6aiQU_iwk9lD_mlCBqP2fKfIBKg7AgkUHg/edit?usp=drivesdk
+    google_id: 1LET8oahcY6aiQU_iwk9lD_mlCBqP2fKfIBKg7AgkUHg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 166
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 53426
+      sha256: b4e62b68a79e5bf3598646a47d80536b5927c1c863532210eba778f617df7763
+    - format: docx
+      name: document.docx
+      bytes: 7597
+      sha256: 433bc52038448a4eaf34b6e3aabafbf4c5c56c5e76c564eb5d105aa5926d5ec5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: All Power scaling categories
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

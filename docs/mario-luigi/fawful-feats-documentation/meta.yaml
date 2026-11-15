@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fawful-feats-documentation
+category: doc
+title: Fawful Feats Documentation
+alt_titles:
+- Fawful SCD Document
+authors: []
+series:
+- mario-luigi
+characters:
+- fawful
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18ckKR9XXMkhvzUlvsWdK0R2vaiyREyRYNmDYGQd7sYE/edit?usp=sharing
+    google_id: 18ckKR9XXMkhvzUlvsWdK0R2vaiyREyRYNmDYGQd7sYE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 8395
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 16806507
+      sha256: d5270329cfbb720d14d591d6d61db3baaacb0008589b73b0b349224a8d432c22
+    - format: docx
+      name: document.docx
+      bytes: 16241585
+      sha256: 30808d3001daa709d6eacc21c4aee61a383d3711aaff282016faa0cfed746c95
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fawful SCD Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

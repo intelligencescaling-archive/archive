@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kimizuka-kimihiko-feats
+category: doc
+title: Kimizuka Kimihiko Feats
+alt_titles:
+- Kimizuka Kimihiko SCD Document
+authors: []
+series:
+- the-detective-is-already-dead
+characters:
+- kimihiko-kimizuka
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1R5uCaax_yH-G7Kv-HLyuVGiy74afpTpHQGmId8ob7_I/edit?usp=drivesdk
+    google_id: 1R5uCaax_yH-G7Kv-HLyuVGiy74afpTpHQGmId8ob7_I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2703
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 209719
+      sha256: 542f60d776a2e3e45f24632747257a7ca6dd5431b562f895b24220ddb29503d8
+    - format: docx
+      name: document.docx
+      bytes: 17857
+      sha256: b38bdae4721de60bd655a28a20fc7547d902b756f74afc3b7bca296999bd13f0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Kimizuka Kimihiko SCD Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

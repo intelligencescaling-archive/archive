@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fyodor-dostoevsky-chapter-42
+category: doc
+title: Fyodor Dostoevsky chapter 42
+alt_titles:
+- Fyodor Chapter 42 feats
+authors: []
+series:
+- bungo-stray-dogs
+characters:
+- fyodor-dostoevsky
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Setf_Z7-kKp2vKVjD1vyocPIsz9vhNeuYQvx_9GfO5c/edit?tab=t.0
+    google_id: 1Setf_Z7-kKp2vKVjD1vyocPIsz9vhNeuYQvx_9GfO5c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 5157
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 189334
+      sha256: b0c6d6676739f821d20f7b281099d9775612c45c723dacc37a794803633a856a
+    - format: docx
+      name: document.docx
+      bytes: 21637
+      sha256: 0ba7c918038cbb885e0098901360169a516bcb89c057bd269b3302040bcac7d6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: Fyodor Chapter 42 feats
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Fyodor Dostoevsky
+  link_text: Fyodor Dostoevsky chapter 42
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

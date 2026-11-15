@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-s-scheming
+category: doc
+title: L Lawliet's scheming
+alt_titles:
+- L Lawliet Face Reveal Strategy
+- Face Reveal Strategy
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- strategy
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/13g32cZCOJBNatbmOX40vBeGv6fDVKjt3nEhdvBxF5c8/mobilebasic
+    google_id: 13g32cZCOJBNatbmOX40vBeGv6fDVKjt3nEhdvBxF5c8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1404
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 269778
+      sha256: c82f256de4f684f9b6ebfa6726f5453bda9c343ba1273851f2632299db2e74da
+    - format: docx
+      name: document.docx
+      bytes: 1659019
+      sha256: 3edeb0b461d7e5eea4dcb1489bea061827eda9b7da6930a3412c435ffc969272
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L Lawliet Face Reveal Strategy
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: Face Reveal Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

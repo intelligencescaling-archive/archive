@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: manga-ranpo-edogawa-doc
+category: doc
+title: Manga Ranpo Edogawa Doc
+alt_titles:
+- Ranpo Edogawa Manga doc
+- Ranpo Edogawa Manga Feats
+authors:
+- name: Creepy-Ebb-3026
+  reddit: Creepy-Ebb-3026
+  source: doc-text
+series:
+- bungo-stray-dogs
+characters:
+- ranpo-edogawa
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WZghRxadtnNOZabbUuuZCpDj8ALdCjQjmiPI1NGRx4s/edit?tab=t.0#heading=h.a3wc2lt35h62
+    google_id: 1WZghRxadtnNOZabbUuuZCpDj8ALdCjQjmiPI1NGRx4s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 5787
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 364048
+      sha256: 79ca227ef50d9025bb1c943a12e304e9f07e5bc8049db8e8ab7baa8d489d6739
+    - format: docx
+      name: document.docx
+      bytes: 107778
+      sha256: 98efd90ebc1af9f03579ed165acedf84dea722edec054b15c90d579a0cfe79ed
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: Ranpo Edogawa Manga doc
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Ranpo Edogawa
+  link_text: Ranpo Edogawa Manga Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

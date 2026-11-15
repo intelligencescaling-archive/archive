@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-force-in-scd
+category: doc
+title: The Force in SCD
+alt_titles:
+- SCD Categories buffed by The Force in Star Wars
+authors:
+- name: Ok_Cardiologist_5925 / Coup
+  source: doc-text
+series:
+- star-wars
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10JsQ7J-Oos3qQ7Xa1SpfOW1Kc9leeivKz6Asi8cDIfA/edit?tab=t.0
+    google_id: 10JsQ7J-Oos3qQ7Xa1SpfOW1Kc9leeivKz6Asi8cDIfA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 804
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 77333
+      sha256: 628c64abe41714b3d8a8b55a5aee2813893f6f4045d8a118b596c59bbe889bc3
+    - format: docx
+      name: document.docx
+      bytes: 199136
+      sha256: bf278a22840316bf34d64264943e19d4368f7cf4cef510fbc871f30d4e8a4cdd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: SCD Categories buffed by The Force in Star Wars
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

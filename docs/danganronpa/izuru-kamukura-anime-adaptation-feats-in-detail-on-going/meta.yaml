@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-anime-adaptation-feats-in-detail-on-going
+category: doc
+title: Izuru Kamukura Anime Adaptation Feats in detail [On Going]
+alt_titles:
+- Izuru anime adaptation feats
+- Izuru Kamukura Anime Adaptation Feats in detail
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1_y4pmmCE-Aozwol5_gqo-ed2oILZ2dWvaMb15rGkPx0/edit?usp=drivesdk
+    google_id: 1_y4pmmCE-Aozwol5_gqo-ed2oILZ2dWvaMb15rGkPx0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1083
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 578317
+      sha256: 4d97bf56dcdbef0ede8a5fbbb749b02a8aa5888e0cc8841a2072d9db26d04055
+    - format: docx
+      name: document.docx
+      bytes: 787257
+      sha256: a7941b52781711835ebf5180924d604e8e0dff11a9ff9caa1daa019535f85010
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Izuru anime adaptation feats
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura Anime Adaptation Feats in detail
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

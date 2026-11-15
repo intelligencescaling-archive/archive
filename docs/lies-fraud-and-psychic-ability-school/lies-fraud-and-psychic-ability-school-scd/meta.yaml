@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lies-fraud-and-psychic-ability-school-scd
+category: doc
+title: Lies, Fraud, And Psychic Ability School SCD
+alt_titles:
+- Jin Kirihara feats
+authors:
+- name: Slapstick_Editz
+  source: doc-text
+series:
+- lies-fraud-and-psychic-ability-school
+characters:
+- jin-kirihara
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-jNOE2iI11U4NtQTmGJQf5MZ-hzjomh2ggmU7pi83lM/edit?usp=drivesdk
+    google_id: 1-jNOE2iI11U4NtQTmGJQf5MZ-hzjomh2ggmU7pi83lM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 218
+    words: 45090
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1567200
+      sha256: a19d35569ea9e8f4045405a49bf2f521365b950aec27b347e66fc4ab61415dec
+    - format: docx
+      name: document.docx
+      bytes: 359708
+      sha256: 7c9299b37cb8557d67f5430eaa9a7b388a24152eebc55e3bdb277a20a0ad7f42
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jin Kirihara feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ruby-rosie
+category: doc
+title: Ruby/Rosie
+alt_titles:
+- PJ's strategy in S4 EP 21
+authors:
+- name: Zz9he
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1R6V4MkRmQIHLFIAfYmOG_EyxhhEiWB3fC1wVWcUXEcY/edit?tab=t.0#heading=h.hpi5ybmefg42
+    google_id: 1R6V4MkRmQIHLFIAfYmOG_EyxhhEiWB3fC1wVWcUXEcY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2424
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 403377
+      sha256: 659d09e7da9981c0d9559b9c5047de2b565d6a1c53b0e1f23741b4872243486c
+    - format: docx
+      name: document.docx
+      bytes: 438474
+      sha256: 2fa265cedce8ce3ab3f51acbb1bc3522d05fba65250ce6ba5300b6fbba46e979
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ's strategy in S4 EP 21
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Ruby/Rosie
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

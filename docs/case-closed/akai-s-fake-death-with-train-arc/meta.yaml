@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akai-s-fake-death-with-train-arc
+category: doc
+title: akai's fake death with train arc
+alt_titles:
+- Conan's Akai Fake Death Plan
+authors: []
+series:
+- case-closed
+characters:
+- conan-edogawa
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1X9hwriYkqKXlse3H66NOmREgHIAJNZhu3uQ6MXEo5JI
+    google_id: 1X9hwriYkqKXlse3H66NOmREgHIAJNZhu3uQ6MXEo5JI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 115
+    words: 11142
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 21428306
+      sha256: 03aaf49e09648d7a490b1bd1ab40adaf548d4583dba49895b8d754db2b829df4
+    - format: docx
+      name: document.docx
+      bytes: 19462239
+      sha256: 3c2f877c6559e0b21ecaa569962aaa347f49b90b7bc059f74192acfc03c8411e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Conan's Akai Fake Death Plan
+- library: remastered
+  section: Case Closed
+  character: Conan Edogawa (or Kudo Shinichi)
+  link_text: akai's fake death with train arc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

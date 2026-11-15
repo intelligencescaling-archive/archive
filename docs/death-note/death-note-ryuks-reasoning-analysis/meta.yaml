@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: death-note-ryuks-reasoning-analysis
+category: doc
+title: 'Death Note: Ryuk’s reasoning analysis.'
+alt_titles:
+- Ryuk Reasoning Analysis
+authors: []
+series:
+- death-note
+characters:
+- ryuk
+tags:
+- analysis
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-HKoA5GdqFDZl7gxmMHocjryrVg_Y1EQaHVnsMtYTM0
+    google_id: 1-HKoA5GdqFDZl7gxmMHocjryrVg_Y1EQaHVnsMtYTM0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 243
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 57976
+      sha256: 1f1cccf142204256d29ae25088080d60288f8cf146daa9ff143862a2e5cfe6e6
+    - format: docx
+      name: document.docx
+      bytes: 7622
+      sha256: 998821cfde23e030e4a5d3ffd3d123bd8af308ebb92ab0d84cafc5221ffdc6f1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Ryuk Reasoning Analysis
+- library: remastered
+  section: Death Note
+  character: Ryuk
+  link_text: 'Death Note: Ryuk’s Reasoning analysis.'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

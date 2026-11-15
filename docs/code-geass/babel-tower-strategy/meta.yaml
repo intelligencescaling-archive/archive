@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: babel-tower-strategy
+category: doc
+title: Babel Tower Strategy
+alt_titles:
+- Lelouch Babel Tower Strategy
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1MJ06cwAD1m8-d1nc4deAELDRHUv6kgdnRWQPVk-OMdk
+    google_id: 1MJ06cwAD1m8-d1nc4deAELDRHUv6kgdnRWQPVk-OMdk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1222
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 130242
+      sha256: 88c3dfcee08c4f78b0b5dbe317fb3309357dac97c7dc1f0be5038435f7c08ad9
+    - format: docx
+      name: document.docx
+      bytes: 1565265
+      sha256: c4a4376bcacabd5f3266739d3e45b15a6a71a796563c04c504c3d8b4b714a89b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch Babel Tower Strategy
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Babel Tower Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

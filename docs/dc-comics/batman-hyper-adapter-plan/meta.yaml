@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: batman-hyper-adapter-plan
+category: doc
+title: Batman Hyper-Adapter Plan
+alt_titles:
+- Batman's Hyper-Adapter Plan
+authors: []
+series:
+- dc-comics
+characters:
+- batman
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1xJdFJWBx_jopya3yO48J3lV4sJGoBnM3BYeFIpas_2c/edit?usp=drivesdk
+    google_id: 1xJdFJWBx_jopya3yO48J3lV4sJGoBnM3BYeFIpas_2c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 7376
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1184891
+      sha256: 4746b0eced3f54a63db082a09395602d651592bf879a081109ec96ee170471ae
+    - format: docx
+      name: document.docx
+      bytes: 1074772
+      sha256: eeaddddbf77443ffaf436151ee92644ef9c59414b9d667ade56d59a761b375bc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Batman Hyper-Adapter Plan
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Batman
+  link_text: Batman's Hyper-Adapter Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

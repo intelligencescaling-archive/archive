@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fathers-and-son-writing-analysis
+category: doc
+title: Fathers and Son writing analysis
+authors: []
+series:
+- fathers-and-sons
+characters: []
+tags:
+- writing-analysis
+- analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Jg2l3QA13ewAC9RgpZF0tWgaWJad1FFExMIplx3wD9s/edit?tab=t.0
+    google_id: 1Jg2l3QA13ewAC9RgpZF0tWgaWJad1FFExMIplx3wD9s
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fathers and Son writing analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-and-will-unrealistic-feat
+category: doc
+title: Hannibal and Will unrealistic feat
+authors: []
+series:
+- hannibal
+characters:
+- hannibal-lecter
+- will-graham
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1OGfKsyKMlI1UEHe0PU8_Leh9qCH921NrAX0UBIFzV0M
+    google_id: 1OGfKsyKMlI1UEHe0PU8_Leh9qCH921NrAX0UBIFzV0M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 3629
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 751411
+      sha256: 81ef3f201f6db7e136d1860b3595bd52bbb1806198b189ed5b39933153f0fd95
+    - format: docx
+      name: document.docx
+      bytes: 1999525
+      sha256: 9622e63aa21ed3ba9ceaea089e465f7494919c9f4b0ed13dbe27cbc1e77b3940
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hannibal and Will Unrealistic Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

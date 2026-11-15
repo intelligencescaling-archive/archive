@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: george-washington-major-battles-documentation
+category: doc
+title: GEORGE WASHINGTON MAJOR BATTLES DOCUMENTATION
+alt_titles:
+- George Washington
+authors: []
+series:
+- real-life
+characters:
+- george-washington
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1C9GmMtOfGIoZAAYPKsUY8blkRa7wFL9ZDedykqdqDyw/edit?usp=drivesdk
+    google_id: 1C9GmMtOfGIoZAAYPKsUY8blkRa7wFL9ZDedykqdqDyw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1909
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2179674
+      sha256: 79809b9988467464e3b0823e231ecf2106bc178cf23da20cb01999052797b428
+    - format: docx
+      name: document.docx
+      bytes: 2692305
+      sha256: 9ca86f28210bd2436c289bc425f2fed4dbc37acda5bafe7e63a1ea0d9537c0ea
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: George Washington
+- library: remastered
+  section: Real Life Historical Figures
+  character: George Washington
+  link_text: GEORGE WASHINGTON MAJOR BATTLES DOCUMENTATION
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

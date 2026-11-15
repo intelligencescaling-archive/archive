@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: to-oh-summary
+category: doc
+title: To-Oh summary
+alt_titles:
+- Summarization of L's self-revelation strategy
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1CclJyis6ekrSrXcqP-IVwha9kjLvZrG4Q42k9AKm0_E/edit?usp=drivesdk
+    google_id: 1CclJyis6ekrSrXcqP-IVwha9kjLvZrG4Q42k9AKm0_E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 693
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 32001
+      sha256: 9d6abd37302a285ce5d0c467b34191de64e00188c11cb17d2e0e31513a32451b
+    - format: docx
+      name: document.docx
+      bytes: 753483
+      sha256: 42778dceb34152fc8a1c3875410a04a11289fe53368e8d4211e691fa0ed95fbd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Summarization of L's self-revelation strategy
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: To-Oh Summary
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

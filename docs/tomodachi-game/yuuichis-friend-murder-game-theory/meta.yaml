@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichis-friend-murder-game-theory
+category: doc
+title: Yuuichi’s Friend Murder Game - Theory
+alt_titles:
+- Yuuichi friend murder game theory
+- Yuuichi Friend Murder Game - Theory
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aWLCJIe5F6l4f4HxojGRDjT0kw5qlCCKi8sKjCgHGAU
+    google_id: 1aWLCJIe5F6l4f4HxojGRDjT0kw5qlCCKi8sKjCgHGAU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 41
+    words: 3081
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19150150
+      sha256: 63dd478d9ed93044f856b16f9f0bc5941c2cfdddbb0cf74bc97449d987fda1db
+    - format: docx
+      name: document.docx
+      bytes: 19753607
+      sha256: 30b2f036bc29b6b912ac28cacf6da4c41e9f5ed3b0a2e2e5ad7d768a4b34f44f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi friend murder game theory
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi Friend Murder Game - Theory
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

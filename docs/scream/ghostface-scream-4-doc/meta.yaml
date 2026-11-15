@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ghostface-scream-4-doc
+category: doc
+title: Ghostface (Scream 4) Doc
+alt_titles:
+- Ghostface scream 4 feats
+authors: []
+series:
+- scream
+characters:
+- ghostface
+variant: Scream 4
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ppheLT346LUBYF-8prUdzQHdqi1HlbXUWJDRuJQsB24
+    google_id: 1ppheLT346LUBYF-8prUdzQHdqi1HlbXUWJDRuJQsB24
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 5885
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 299929
+      sha256: 83b13d6c3ed27ada20d07c90f7accfb21300e28201b4e291a81f8c0fb1477032
+    - format: docx
+      name: document.docx
+      bytes: 26367
+      sha256: cd6f5c0743d3782fc1ee5f14bbf0d1927461c3b51a0e620464be23e9cb2298a7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ghostface scream 4 feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

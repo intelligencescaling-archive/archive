@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wallace-house-strategy-michael-myers-doc-halloween-1978
+category: doc
+title: Wallace House Strategy (Michael Myers Doc, Halloween 1978)
+alt_titles:
+- Michael Myers Strategy Doc
+authors: []
+series:
+- halloween
+characters:
+- michael-myers
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1NGZnUo6-0OcL9_UBNKnhJ5BsVB73iYsNr0hmSUmcvqo/edit?usp=drivesdk
+    google_id: 1NGZnUo6-0OcL9_UBNKnhJ5BsVB73iYsNr0hmSUmcvqo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 2979
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 207178
+      sha256: 0c5ce84d1f3c0aebb86837bd78c6c3d977fbfb118a54683bb7d4b849ad2d05d8
+    - format: docx
+      name: document.docx
+      bytes: 178623
+      sha256: 48e024a83c01c1ab12e620bdf3364b37bdf9e84ef11dd3c09d6befc601a6d322
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Michael Myers Strategy Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

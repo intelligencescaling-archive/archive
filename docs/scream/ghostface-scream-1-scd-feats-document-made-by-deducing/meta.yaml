@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ghostface-scream-1-scd-feats-document-made-by-deducing
+category: doc
+title: Ghostface (Scream 1) SCD Feats Document Made by Deducing Analyst
+alt_titles:
+- Ghostface(scream 1)
+authors:
+- name: Dedu Ly Britannia
+  source: doc-text
+series:
+- scream
+characters:
+- ghostface
+variant: Scream (1996)
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ra5KJGAwVIpsNlbFtXj0t7gvNAHhapXrGZEvnOCwGDk/edit?usp=drivesdk
+    google_id: 1ra5KJGAwVIpsNlbFtXj0t7gvNAHhapXrGZEvnOCwGDk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 8235
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 384691
+      sha256: 373b92f1906911d440f741289b13e4a0133a7bbd1848e0263b3e5bf0d6b9f10a
+    - format: docx
+      name: document.docx
+      bytes: 34468
+      sha256: 12bfac7be1a00c4c8a4a351420c4c486815982e11d9e35e9ededab410910aeec
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ghostface(scream 1)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

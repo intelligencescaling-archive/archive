@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chuck-mcgills-tape-strategy
+category: doc
+title: Chuck McGill’s Tape Strategy
+alt_titles:
+- Chuck McGill's Tape Strategy
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- chuck-mcgill
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12BohkFT2Bv-wb1dspSivljEpXytvF7l5zU-TYGGxvfo
+    google_id: 12BohkFT2Bv-wb1dspSivljEpXytvF7l5zU-TYGGxvfo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 5780
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 713948
+      sha256: cb908a5dd62504da74a0980728873c66b871e62b176155c68d175cbfa65b618b
+    - format: docx
+      name: document.docx
+      bytes: 936253
+      sha256: 3f98b2279719295f9856176b7992bf53930e8f5246d3ccfebb3adf1136df83be
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'BCS + BB:'
+  link_text: Chuck McGill's Tape Strategy
+- library: remastered
+  section: Breaking Bad | Better Call Saul
+  character: Chuck McGill
+  link_text: Chuck McGill’s Tape Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

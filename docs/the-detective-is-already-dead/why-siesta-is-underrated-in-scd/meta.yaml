@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-siesta-is-underrated-in-scd
+category: doc
+title: WHY SIESTA IS UNDERRATED IN SCD
+authors: []
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1adZMkGlSbCqCagLKNIGubcUdw-MKmhl6tObNvRNNyyU/edit?usp=drivesdk
+    google_id: 1adZMkGlSbCqCagLKNIGubcUdw-MKmhl6tObNvRNNyyU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1512
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 391433
+      sha256: 1eeaef5d9a16f53cf982446340161a46ae8156a5f7c443a8f462ba8ffdf450fc
+    - format: docx
+      name: document.docx
+      bytes: 862010
+      sha256: d6b04d8895da9c1e13e2db88d1ecf9ac8f47cdac45c040e00856162791d6a912
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Why Siesta Is Underrated in SCD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

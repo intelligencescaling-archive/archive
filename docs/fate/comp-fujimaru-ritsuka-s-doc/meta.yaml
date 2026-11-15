@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-fujimaru-ritsuka-s-doc
+category: doc
+title: Comp Fujimaru Ritsuka's Doc
+alt_titles:
+- Comp Fujimaru Ritsuka
+authors:
+- name: Nino_IQ
+  source: doc-text
+- name: Yusha]
+  source: doc-text
+series:
+- fate
+characters:
+- fujimaru-ritsuka
+variant: Composite
+tags:
+- composite
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VoXql7eKes5pMH3Edh5rTmnlcgrMtQmwcs6XFhw1jcA
+    google_id: 1VoXql7eKes5pMH3Edh5rTmnlcgrMtQmwcs6XFhw1jcA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 82
+    words: 5191
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14867605
+      sha256: 48f6d88ecf17113b4126fe129c1554336e386946df1574370e45ea6b960805f1
+    - format: docx
+      name: document.docx
+      bytes: 14360050
+      sha256: 4622a3fe35dff4987248ca3c6b9ab0903cd4fb4f81054b156ea47845ec0b181a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Comp Fujimaru Ritsuka
+  note: (not finished)
+- library: remastered
+  section: Fate
+  character: Fujimaru Ritsuka - Composite
+  link_text: Comp Fujimaru Ritsuka's Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

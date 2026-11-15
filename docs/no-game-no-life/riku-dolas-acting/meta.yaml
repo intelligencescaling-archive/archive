@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: riku-dolas-acting
+category: doc
+title: Riku Dola’s Acting
+alt_titles:
+- Riku Dola's Acting Skills
+- Riku's Acting Skills
+authors: []
+series:
+- no-game-no-life
+characters:
+- riku-dola
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1DuZSDVU6MWfBXbMTOiqdk__JSOubwN0LGeI3i4jAmnA/edit?usp=drivesdk
+    google_id: 1DuZSDVU6MWfBXbMTOiqdk__JSOubwN0LGeI3i4jAmnA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 149
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 20666
+      sha256: 638ba948455deb64d836eecc416fef4ef0ee1aeed59ee01cf3e4f487e3053438
+    - format: docx
+      name: document.docx
+      bytes: 277692
+      sha256: 5833787ab69cb361190c0bb5283807a44ad22a84fa165ae1fb1b097516c7a52f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Riku Dola's Acting Skills
+- library: remastered
+  section: No Game No Life
+  character: Riku Dola
+  link_text: Riku's Acting Skills
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

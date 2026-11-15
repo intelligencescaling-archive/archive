@@ -1,0 +1,73 @@
+Chess Feat Document
+
+The goal of this document is to examine the chess battle between Arisu Sakayanagi and Ayanaokoji Kiyotaka as shown in both the LN and the anime. The anime is treated as being additive to the LN when there’s no contradictions with it.
+
+the first step of this analysis is to recreate the end game position of the anime. the early and the midgame of the anime are completely ignored here due to the fact the moves themselves are terrible and thus contradict the LN.
+
+The second step is to look at what the LN actually tells us about the feat and its larger context.
+
+We then arrive at a conclusion based on both the LN and the anime endgame position and play.
+
+First to recreate the endgame position from the anime, based on Arisu’s move (~17:25).
+The moves made in the anime: (Black’s Turn. Red is Arisu, Green is Ayanokoji)
+ A screenshot of a game
+
+Description automatically generated
+
+Move number two was from the director, this was the move that Arisu was trying to bait Ayanokoji into making. Ayanokoji wanted to play Queen to G5, but Tsukishiro’s engine wanted to play another move which is likely Queen to D8.
+
+Let's analyze it move by move. The engine used is LC0 at depth of 1 million nodes, an important bit is that LC0 evaluates positions based on likelihood of victory if the optimal moves(by LC0) for both sides are played. So even a position where LC0 thinks is 99% one way could be even for a human.
+Arisu’s first move
+
+ A screenshot of a game
+
+Description automatically generated
+Arisu plays Queen takes Knight, a move that makes the position 7% victory instead of 99%(Blue line, Bishop takes Knight). Now why did she do this? it’s possible that she thought it’s better (7% for LC0 != losing for a human). alternatively I think we have the answer in the narrative:
+
+“Rather than winning, Sakayanagi was only interested in drawing out the full extent of my skill. Things like winning or losing this exam probably didn't matter to her anymore, as long as she could enjoy this game.” COTE Year1 Volume11
+
+The move she played forces Ayanokoji into a difficult position where making a mistake guarantees his defeat, as she’s baiting him into taking the queen with his pawn. but if he plays the optimal move, he gains the advantage.
+
+Ayanokoji’s (real) move, the move that was changed by Tsukishiro
+ A screenshot of a game
+
+Description automatically generated
+
+Ayanokoji states this position is even in the LN, which proves that he is inferior to a chess engine (obviously). which sees that as long as the optimal moves are played, white has an overwhelming advantage. his assessment :
+
+“Horikita and I undoubtedly had the advantage before, but now, things were completely even. My next move would be the difference between life and death. No matter how much time I took to ponder this situation, it wouldn't go to waste.”
+
+The engine evaluation is:
+- Queen to G5: engine sees this move first.
+- Queen to D8: this move delays Qg5. the engine thinks this is an inferior move at low depth, but the higher the depth is, the more the engine thinks this is equivalent to Qg5. at 6m nodes, it thinks both are roughly equal.
+
+An interesting note is how almost everything else the engine is evaluating is guaranteed defeat.
+
+Light Novel on the Chess Feat:
+
+if one wishes to scale CF solely based on LN, the following are available:
+* Arisu's chess skill exceeds that of all Whiteroom instructors Ayanokoji faced.
+   *  While some interpret this to mean she has an ELO rating of at least 2500, it's crucial to consider Japan's chess context. Unlike the US, where top players reach 2800 and 2500 places in the top fifty, Japan's highest-rated player is only 2390, with 1875 securing a top 50 position. This disparity is partly due to classical chess's lower popularity in Japan.
+   * Given this context, Arisu's ELO can realistically be estimated at least 2300.
+
+* Ayanokoji's move surpassed those of the professionals hired by Tsukishiro, despite their use of a chess engine.
+   * This doesn't imply Ayanokoji played at or near the engine's level. In chess, there are numerous instances where humans, who cannot compete with engines like Stockfish, have made superior moves.
+   * Such occurrences, however, require exceptional strategic thinking typically seen only in high-level Grandmasters.
+   * Given this context,, Ayanokoji's estimated ELO rating would be at least 2700.
+
+* Arisu and Ayanokoji possess similar chess skills. to the point that Arisu suggested that in ten matches, they would go 5-5. Ayanokoji not only agreed, he monologues that things will go exactly as Arisu predicted.
+
+TLDR
+* Arisu is at least 2300 by comparison to chess professionals (statement)
+* Ayanokoji is likely at least 2700 (feat implications)
+* Arisu is equal to Ayanokoji in chess (statement).
+
+Conclusions from the chess analysis (anime & LN):
+
+- Arisu vs. Koji: Arisu and Koji are roughly at a similar level in chess and Arisu could have won if she hadn't tried to bait him into a mistake, which she did because her priority wasn’t winning but drawing his full skill;
+- Koji's Potential Mistake: Koji stated that if he makes a mistake, he will be finished off. This is correct, as every move Koji could have made when he said that, except for two, almost guarantees defeat.
+- Tsukishiro's Chess Engine: Tsukishiro likely used a top-tier chess engine, as it recognized that a qd8 was excellent, it's a move as good as the ideal at extremely high depth. This indicates that it was a high-depth engine at least.
+- Koji's Move: Koji made one of two optimal moves, the one he made was actually the easier one to spot. It was definitely a tricky position.
+- Koji vs. Chess Engine: The claim that Koji made a better move than a chess engine is inaccurate, since the chess engine evaluates both moves similarly (and both moves are roughly the same, one only delays an action the other takes).
+- Engine (LC0 High Depth) >>> Koji: since he evaluated a position even when a chess engine thought it had a 99.7% chance to win with it.
+- Koji/Arisu ELO :Determining if their level is equivalent to what ELO is beyond me, however based LN implications of making better move than an engine and the anime’s portrayal (for the last position at least), at least 2700 is the most reasonable estimate

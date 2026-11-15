@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ozymandias-feats-document
+category: doc
+title: 𝓞𝔃𝔂𝓶𝓪𝓷𝓭𝓲𝓪𝓼 𝓕𝓮𝓪𝓽𝓼 𝓓𝓸𝓬𝓾𝓶𝓮𝓷𝓽
+alt_titles:
+- Ozymandias feats document
+authors:
+- name: MatthewClark148
+  source: doc-text
+series:
+- dc-comics
+characters:
+- ozymandias
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=153ISOdBGePwYmH6InfwO58SiIe-YHw8FqpyfYBpcFpc
+    google_id: 153ISOdBGePwYmH6InfwO58SiIe-YHw8FqpyfYBpcFpc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1454
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1497857
+      sha256: feef1f4a125f64dadf664cf3b8f86b413c70d5e8b37ce6c9f866482daef04add
+    - format: docx
+      name: document.docx
+      bytes: 3758026
+      sha256: 68bbf5a523820c050f15d8b4af3565c5d4e7f95024935d58aa6fc0b64fa9f93e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Ozymandias feats document
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Ozymandias
+  link_text: 𝓞𝔃𝔂𝓶𝓪𝓷𝓭𝓲𝓪𝓼 𝓕𝓮𝓪𝓽𝓼 𝓓𝓸𝓬𝓾𝓶𝓮𝓷𝓽
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

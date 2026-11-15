@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: doofus-jerry-doc
+category: doc
+title: Doofus Jerry doc
+authors:
+- name: Zz9he
+  source: doc-text
+series:
+- rick-and-morty
+characters:
+- doofus-jerry
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1I2seDERdUUNHeve1pTtCmXtOZM2_98kVDHorTYBi_ZE
+    google_id: 1I2seDERdUUNHeve1pTtCmXtOZM2_98kVDHorTYBi_ZE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 936
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1555377
+      sha256: 833a8d883b38a652b59f7417bd5104b9b83775bb2a07a4c6c081610b13f20772
+    - format: docx
+      name: document.docx
+      bytes: 2100275
+      sha256: a2c9d7ed2c529763187c13cde809f2470a9ac2271bd1a1a6861ab64f22c28ab7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Doofus Jerry doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kudo-conan-doc
+category: doc
+title: Kudo/Conan 🐐🐐🐐 Doc
+alt_titles:
+- kudo/conan
+authors:
+- name: scroll
+  source: doc-text
+series:
+- case-closed
+characters:
+- conan-edogawa
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-MFchk29Opis0xnVMvv5iWIrHVVCzePhpT3oNjMUiYE
+    google_id: 1-MFchk29Opis0xnVMvv5iWIrHVVCzePhpT3oNjMUiYE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 858
+    words: 63568
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 132648884
+      sha256: c28aff35577435fe5aba28c8efc6f7386fcc4284a742268b6dba2022640397aa
+    - format: docx
+      name: document.docx
+      bytes: 112466122
+      sha256: 5d892a1a40bd5dbeeda7b0e992be494bd53e878760dedb8e99ead36d3ad79291
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: kudo/conan
+- library: remastered
+  section: Case Closed
+  character: Conan Edogawa (or Kudo Shinichi)
+  link_text: Kudo/Conan 🐐🐐🐐 Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

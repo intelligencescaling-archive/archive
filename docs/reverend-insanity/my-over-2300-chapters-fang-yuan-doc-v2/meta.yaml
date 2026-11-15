@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-over-2300-chapters-fang-yuan-doc-v2
+category: doc
+title: My over 2300 Chapters Fang Yuan Doc (V2)
+alt_titles:
+- Another Fang Yuan doc
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vcUbl7lHEwwAD0W6m1PH2f_4tZFr7a6OVDGCSPMdzTc
+    google_id: 1vcUbl7lHEwwAD0W6m1PH2f_4tZFr7a6OVDGCSPMdzTc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 5583
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 232022
+      sha256: 4f5f78d341922802178fe6e82b7bbcf1342c56c7a68fb8a4192a32877418db16
+    - format: docx
+      name: document.docx
+      bytes: 23474
+      sha256: 9d3b0cf929c6b5e40598e806bf90f0bd37f26fa0b9f90cc79ddba13365784365
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Fang Yuan doc
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: My over 2300 Chapters Fang Yuan Doc (V2)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

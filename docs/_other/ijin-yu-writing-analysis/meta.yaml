@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ijin-yu-writing-analysis
+category: doc
+title: Ijin Yu Writing Analysis
+authors: []
+series: []
+characters:
+- ijin-yu
+tags:
+- analysis
+- writing-analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/13P9fCei8jqdza4Q0s9dVQEF-MQXOGgcc-OlnXOB9VRU/edit?tab=t.0#heading=h.5dx7tpvftgto
+    google_id: 13P9fCei8jqdza4Q0s9dVQEF-MQXOGgcc-OlnXOB9VRU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1150
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 161649
+      sha256: 8434a7291de2e78de8f08b1e32b240224b2af657b7dba04d2a7d796cf93c35c8
+    - format: docx
+      name: document.docx
+      bytes: 99921
+      sha256: 35e4fe1583ead9cdec4d08f270415a508ac1d537d11fbcc417b384fc42246d80
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ijin Yu writing analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

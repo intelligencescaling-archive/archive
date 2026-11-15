@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akagi-urabe-arc
+category: doc
+title: 'Akagi : Urabe Arc'
+alt_titles:
+- Akagi Urabe Arc Feat
+authors: []
+series:
+- akagi
+characters:
+- shigeru-akagi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1hOA-D_8fKE6sfyq0A5SA0jY5fT1wHiDW3Yb5_n9mhOw/edit?tab=t.0#heading=h.kk9k0fem1r3t
+    google_id: 1hOA-D_8fKE6sfyq0A5SA0jY5fT1wHiDW3Yb5_n9mhOw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 5753
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2647571
+      sha256: c862ef8e267c4b210d8e87fb6615b85a39ac197b462094c0a1c1d10d83a2ec35
+    - format: docx
+      name: document.docx
+      bytes: 2596027
+      sha256: 99714ac25539e68f213b76d395a86679b0390a3077db64d6453d7dbdb259c839
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akagi Urabe Arc Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: love-letter-is-misunderstood
+category: doc
+title: Love Letter is Misunderstood
+alt_titles:
+- Koji's Love Letter is Misunderstood
+- Koji's Love Letter Analysis
+- Ayanokoji's Love Letter Analysis
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1iUanxRHT6JHQoOLOPWwlgkk6BxL8RYgN5YwLMGiwI98/edit?usp=drivesdk
+    google_id: 1iUanxRHT6JHQoOLOPWwlgkk6BxL8RYgN5YwLMGiwI98
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 621
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 50764
+      sha256: f6253332322e4266680997976214c40a2c27e697bd3f64e1fad903411ae0f2a2
+    - format: docx
+      name: document.docx
+      bytes: 8669
+      sha256: cca08b81b2687b015bdc7f70d1010425fd56576e57c7008547d67d357051f518
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's Love Letter is Misunderstood
+- library: old
+  section: 'COTE:'
+  link_text: Koji's Love Letter Analysis
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokoji's Love Letter Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: te-rregr-uit-s-mtivers-ets-ws
+category: doc
+title: 𝐓ɦ𝖾 𝚰𝗋𝗋𝖾𝗀υᥣα𝗋 𝐔𐓣𝗂𝗍'𝗌 𝐌υᥣ𝗍𝗂𝗏𝖾𝗋𝗌αᥣ ꭑ𝖾𝗍α𝗌(𝐖𝚰𝐒)
+alt_titles:
+- Jibril PowerScaling doc
+authors: []
+series:
+- no-game-no-life
+characters:
+- jibril
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1INe70U2Mgbr57_VwPPx6FRm0OsYU08w7hD7i37m6iQA/edit?usp=drivesdk
+    google_id: 1INe70U2Mgbr57_VwPPx6FRm0OsYU08w7hD7i37m6iQA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 709
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3456797
+      sha256: 17c408d98e47ac5d59360005ca59ce807247b1cb8c9409b9315755133b686cfe
+    - format: docx
+      name: document.docx
+      bytes: 4499643
+      sha256: 3d1c845e87f7f177258cc830f73dadf667e54951503c414009494255e60c2ca1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Jibril PowerScaling doc
+- library: remastered
+  section: No Game No Life
+  character: Jibril
+  link_text: Jibril PowerScaling doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dragon-ball-scaling
+category: doc
+title: Dragon Ball Scaling
+authors: []
+series:
+- dragon-ball
+characters: []
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1QP96BnwfKruIxrKmFJoxlsVKFLUAZa-H/view
+    google_id: 1QP96BnwfKruIxrKmFJoxlsVKFLUAZa-H
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 35
+    words: 6565
+    files:
+    - format: pdf
+      name: I am sharing 'Dragon ball scale for Reddit' with you.pdf
+      bytes: 4175425
+      sha256: dfb62840a6e41dec25fb417a04d9236a51eb9236a31c53ce5d4e15f626320b55
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Dragon Ball Scaling
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

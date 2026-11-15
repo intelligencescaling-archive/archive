@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: volume-0-koji-is-unscalable
+category: doc
+title: Volume 0 Koji is unscalable
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1RRnRgX4PJp_3l-jtu6SCvSXswA1DRHO8jY_rHh-fWB4/edit?usp=drivesdk
+    google_id: 1RRnRgX4PJp_3l-jtu6SCvSXswA1DRHO8jY_rHh-fWB4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1361
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 844314
+      sha256: 8575bac69fc1003d1f8b6e2d0954f96893166e31577b0c2f9024fdd953ace3f0
+    - format: docx
+      name: document.docx
+      bytes: 632175
+      sha256: 8b9eaa6e5ee4a1d71f81dc791612f459dea3c29cbaf9df355785153950270050
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Volume 0 Koji is unscalable
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagumo-miyabi-feat-list-combat
+category: doc
+title: Nagumo Miyabi Feat List (Combat)
+alt_titles:
+- Nagumo Miyabi Combat Feat List
+authors:
+- name: JayChef
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- nagumo-miyabi
+tags:
+- wis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10UQ8XPi3yboK3ZWHCBCc_fVqK-nBZ-H2KAjbQjhkFMc/
+    google_id: 10UQ8XPi3yboK3ZWHCBCc_fVqK-nBZ-H2KAjbQjhkFMc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1126
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 547953
+      sha256: f365938875ccd356c5526557baace26ee5ef13b1ff6ed6337a07c960fe8128de
+    - format: docx
+      name: document.docx
+      bytes: 453963
+      sha256: c006ee225972c33db2704c449bce8d22280d8c31d920ecda39c3d09141d9fe0e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Nagumo Miyabi Combat Feat List
+- library: remastered
+  section: Classroom of the Elite
+  character: Nagumo Miyabi
+  link_text: Nagumo Miyabi Feat List (Combat)
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

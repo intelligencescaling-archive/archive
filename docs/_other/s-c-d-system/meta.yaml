@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: s-c-d-system
+category: doc
+title: S-C-D System
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1TA_NQyEsu27o41EWA2Gu68cs7yhIYN6qkY2MA74XZhk/edit?tab=t.0
+    google_id: 1TA_NQyEsu27o41EWA2Gu68cs7yhIYN6qkY2MA74XZhk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1248
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 115734
+      sha256: 1bf1bcd3395443e9d528c0b420dbae3898c2648c97a196931449842c00dba418
+    - format: docx
+      name: document.docx
+      bytes: 12485
+      sha256: 746d98d50ef518b16c93b0a0f5530fc9220faf1940a269990c7bd66c6c49076a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: S-C-D System
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

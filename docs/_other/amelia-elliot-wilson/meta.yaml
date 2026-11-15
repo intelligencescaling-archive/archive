@@ -1,0 +1,80 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: amelia-elliot-wilson
+category: doc
+title: Amélia Elliot Wilson(OC)(ENG Version)
+alt_titles:
+- Amélia Elliot Wilson(First Doc)
+- Amélia Elliot Wilson(Second Doc)
+- Amélia Elliot Wilson doc part 2(ENG VERSION)
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series: []
+characters:
+- amelia-elliot-wilson
+tags:
+- oc
+language: en
+completion: finished
+parts:
+- title: Amélia Elliot Wilson(OC)(ENG Version)
+  source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Ah5tKA9HTr-vlqcEZiNdJbqEv3iN17hY-YBTgnst02g/edit?usp=drivesdk
+    google_id: 1Ah5tKA9HTr-vlqcEZiNdJbqEv3iN17hY-YBTgnst02g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 13644
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 413171
+      sha256: af86dec6b78506c865603f10edc162befaf55cb09d3ee0e8d5895abe91a7b9a9
+    - format: docx
+      name: document.docx
+      bytes: 37186
+      sha256: 1836ba0469e867d70c0de5c7bc164beda968b25de3013438e42bb655ea1c4900
+    text:
+      file: text-1.txt
+      method: google-export
+- title: Amélia Elliot Wilson doc part 2(ENG VERSION)
+  source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1xjHMvE_GwoJ7JIDC88RW6prBhw_N1tjyma6svTgiYVw/edit?usp=drivesdk
+    google_id: 1xjHMvE_GwoJ7JIDC88RW6prBhw_N1tjyma6svTgiYVw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 12899
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 379990
+      sha256: 9e4201f1cfdbb9996aa43d4331ad04a84452ac072b871b593a91b3bee44d0207
+    - format: docx
+      name: document.docx
+      bytes: 34296
+      sha256: fecf81e19cb0afa05c6e769ae922b5fe7a8f9e01940754727449d84a9939095b
+    text:
+      file: text-2.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Amélia Elliot Wilson(First Doc)
+  note: (Finished)
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Amélia Elliot Wilson(Second Doc)
+  note: (Finished)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

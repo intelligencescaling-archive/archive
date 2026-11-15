@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: no-game-no-life-chess-analysis
+category: doc
+title: 'No Game No Life: Chess Analysis'
+alt_titles:
+- NGNL chess analysis
+authors:
+- name: magadanz
+  source: doc-text
+series:
+- no-game-no-life
+characters:
+- shiro
+- sora
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=118zQtpV2EhXx5g1GwG6wUjpc83rdWvzgYN4eXIXGctg
+    google_id: 118zQtpV2EhXx5g1GwG6wUjpc83rdWvzgYN4eXIXGctg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1731
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9834666
+      sha256: 8b933dae9364c8a1e092cc199e34c64153d42409778a6b57fb15e7848a01fede
+    - format: docx
+      name: document.docx
+      bytes: 9080823
+      sha256: cd1cd977896eb9114fa521abc80650df754cbd3b63f3eac554b1d1fcd1a941ba
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: NGNL chess analysis
+- library: remastered
+  section: No Game No Life
+  character: Shiro
+  link_text: 'No Game no Life: Chess Analysis'
+- library: remastered
+  section: No Game No Life
+  character: Sora
+  link_text: 'No Game no Life: Chess Analysis'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

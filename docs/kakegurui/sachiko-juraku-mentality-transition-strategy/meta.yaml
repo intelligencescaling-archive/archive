@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sachiko-juraku-mentality-transition-strategy
+category: doc
+title: Sachiko Juraku Mentality Transition Strategy
+authors:
+- name: Hellos-17
+  source: doc-text
+series:
+- kakegurui
+characters:
+- sachiko-juraku
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NX5uoN_5D5g9Koe3rcK4RmTmQkBse7dGX7QUqa7mNC0
+    google_id: 1NX5uoN_5D5g9Koe3rcK4RmTmQkBse7dGX7QUqa7mNC0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1759
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3479868
+      sha256: 4050bf0d0ebd8b08e33876d30ead41751452f24597adf617b2bda8c856953ecc
+    - format: docx
+      name: document.docx
+      bytes: 4091540
+      sha256: bf8690bd4472d124f4f022054a77128a33a89b95f1d667f80c7fdb7920b6d7b3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Sachiko Juraku mentality transition strategy
+- library: remastered
+  section: Kakegurui
+  character: Sachiko Juraku
+  link_text: Sachiko Juraku Mentality Transition Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

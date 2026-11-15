@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dahlia-hawthorne-doc
+category: doc
+title: DAHLIA HAWTHORNE DOC
+alt_titles:
+- Dahlia Hawthorne
+authors: []
+series:
+- ace-attorney
+characters:
+- dahlia-hawthorne
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xN2w0XGJLAn4eZauDu5aQRAycM2mo4HI5KG-EnU379g
+    google_id: 1xN2w0XGJLAn4eZauDu5aQRAycM2mo4HI5KG-EnU379g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 2716
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4793864
+      sha256: a5cdba841dd7cc26229bfc9a18529e27582368702485fe4ada9c1c6ae4cbc400
+    - format: docx
+      name: document.docx
+      bytes: 5417582
+      sha256: 79a89fe486d66c43f56af2397a643ac20ca8e585c0022cbf8249cddc0f6f9b2b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Dahlia Hawthorne
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

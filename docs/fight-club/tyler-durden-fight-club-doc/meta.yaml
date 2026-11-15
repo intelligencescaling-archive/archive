@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tyler-durden-fight-club-doc
+category: doc
+title: TYLER DURDEN - FIGHT CLUB doc
+alt_titles:
+- Tyler Durden SCD Document
+authors: []
+series:
+- fight-club
+characters:
+- tyler-durden
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Tjp3WDVRf6tvpEGUjElIQ5jjQese-Q3AdPQ_XK4c3tg/edit?usp=drivesdk
+    google_id: 1Tjp3WDVRf6tvpEGUjElIQ5jjQese-Q3AdPQ_XK4c3tg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 9920
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 17918498
+      sha256: 060c8522e6af40520546002aab4afbd737952e1ed697f0cc1a10b835237b03e2
+    - format: docx
+      name: document.docx
+      bytes: 14896842
+      sha256: 544fc3a920f93aad1dc5fe5d10f16745e7ebcbe0b3dd4d3704e3987752a2ac35
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Tyler Durden SCD Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

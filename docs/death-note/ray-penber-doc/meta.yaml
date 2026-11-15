@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ray-penber-doc
+category: doc
+title: Ray Penber Doc
+alt_titles:
+- Penber Doc
+authors: []
+series:
+- death-note
+characters:
+- raye-penber
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1DCh9hWyMsNPRYsgYS5SfZqXHoxELb7Y7T02KXPP-Lfo/edit?usp=drivesdk
+    google_id: 1DCh9hWyMsNPRYsgYS5SfZqXHoxELb7Y7T02KXPP-Lfo
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Ray Penber Doc
+- library: remastered
+  section: Death Note
+  character: Raye Penber
+  link_text: Penber Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

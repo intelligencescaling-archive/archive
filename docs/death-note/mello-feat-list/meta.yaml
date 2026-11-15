@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mello-feat-list
+category: doc
+title: Mello feat list
+alt_titles:
+- mello
+authors:
+- name: Kiyokouji
+  source: doc-text
+series:
+- death-note
+characters:
+- mihael-keehl
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1SVijpFIHsGpBeA36sJ1hMI72CcjsRgj2CJ8Vd1INkvY
+    google_id: 1SVijpFIHsGpBeA36sJ1hMI72CcjsRgj2CJ8Vd1INkvY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 11848
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 551842
+      sha256: 29c52739a5afdda083e5c1eabb6ed457e8a02977b9bdf5d54ea1ef50a07e7686
+    - format: docx
+      name: document.docx
+      bytes: 138051
+      sha256: ebb61c9a83e17d7bfdc7da06285703d86822d407df13063237495aa4a43d2469
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: mello
+- library: remastered
+  section: Death Note
+  character: Mihael Keehl (Mello)
+  link_text: Mello feat list
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

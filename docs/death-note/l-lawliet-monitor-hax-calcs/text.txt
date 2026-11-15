@@ -1,0 +1,58 @@
+L.Lawliet Monitor
+    Hax calculations
+Made by:Baku’sfather1029(discord username)
+Traveling Zebra(discord username)
+
+Today, we would try to understand how high monitor hax performed by L scales in CPI.
+I will focus on calculations mostly. If you want to understand the context of monitor hax by L.Lawliet, you can read a doc made by Pointscales on it.
+
+Let's firstly know the given values.
+
+L had to review 10,000 hours of footage and audio recordings in 48 hours. He sped up the recordings to do so.
+We get this number if we consider only 400 monitors. Now if we consider standard FPS it's about 30 FPS on which each recording is played usually, we get following given values:
+
+Given,
+Footage to be reviewed:10,000 hours=36000000 seconds
+Time given:48 hours=172800
+FPS:30 FPS
+To know at what rate L processed frames,we would use following formula:
+
+Standard FPS×Footage to be covered/Time given
+
+Calculations:
+
+30×36000000/172800=6,250FPS
+
+So L processed 6,250 raw frames per second.
+As L was psychoanalysing and noticing small details of each footage,so we can interpret it to get our values in operation per second.
+We need to find the complexity of operations here.
+Let us knows some points that prove L’s observation and processing complexity here:
+
+1.L himself said,”The Yagami family’s behaviour today was so clean it almost looks funny" .This proves that L did observe each family member.
+
+2.L in his first observation on Light was able to figure out Light is very intelligent.
+L didn't know anything about Light.
+However, just by Light's statement to his sister about 1500 FBI agents being in Japan, L is able to figure out Light's intelligence.Light’s statement looks common sense from outside, however,if analysed deeply and observing him carefully, you can still uncover his intelligence.This proves that L has processed everything at minute precision.
+Someone with behaviour like L, while reviewing the footage will do the same level or observation.
+So we can interpret he was psychoanalysing at a very minor detail level and thinking about each action deeply.
+
+So this makes the complexity of observation 5 at midball.
+Let's consider 5. Now a person like L will observe each family member with the same complexity.
+In Light's house, only 3 members including him were present. Also, L was processing and tracking objects in each room simultaneously. It’s not necessary for him to process all objects, 8-10 objects is the most possible case. So he was again and again processing these objects after some intervals of time. Each object carriers complexity of 1 considering L processed them at minute level. Light’s room has 5 rooms, so in each room he processed 10 objects.
+
+C for family observation:3×5=15
+C for objects processed:5×10=50
+15-50=65
+Now interpreting almost similar results came from Kitamura’s house.
+
+So 65×2=130
+
+So C=130 at midball value
+
+OPS=C×FPS
+130×6,250=812,500 OPS
+
+OPS=812,500
+
+We should keep in mind that I considered lowball values mostly, except for complexity where I used both lowball and midball values.
+Some people scale L’s MH to 500 monitors which could give greater values, but we won't go there as considering a feat at midball might be more fair and my calculations would be immediately challenged by hardcore haters lol.

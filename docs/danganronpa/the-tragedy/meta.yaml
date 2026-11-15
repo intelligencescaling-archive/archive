@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-tragedy
+category: doc
+title: The Tragedy
+alt_titles:
+- Junko
+authors: []
+series:
+- danganronpa
+characters:
+- junko-enoshima
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1gJTb-Jtmm3l_jLXck1l5GTL8E7kP3kjy0T3k5zqXU7I/edit?usp=drivesdk
+    google_id: 1gJTb-Jtmm3l_jLXck1l5GTL8E7kP3kjy0T3k5zqXU7I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 11012
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6973791
+      sha256: 3a9340b9f5cfcf801841114e11cc6697d0775356b79b1b8361731d8179dda729
+    - format: docx
+      name: document.docx
+      bytes: 7007856
+      sha256: 4a0671538d955c119423c58e8eb55dec0e61c3bb4d3039da0973c671476e9868
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Junko
+- library: remastered
+  section: Danganronpa
+  character: Junko Enoshima
+  link_text: The Tragedy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

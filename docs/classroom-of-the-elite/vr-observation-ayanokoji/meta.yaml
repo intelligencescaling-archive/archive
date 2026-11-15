@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vr-observation-ayanokoji
+category: doc
+title: VR OBSERVATION | AYANOKOJI
+alt_titles:
+- Koji's VR Observation Feat
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1FSsjXL5XgfKFEK9XgpAZTO4QP-1KdSb06GARNYeYL3M/edit?usp=drivesdk
+    google_id: 1FSsjXL5XgfKFEK9XgpAZTO4QP-1KdSb06GARNYeYL3M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 1895
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 994185
+      sha256: c617d21b2b626a2ebc761acac4426476b3be246a0f9d1dbff89500c0860a9f46
+    - format: docx
+      name: document.docx
+      bytes: 1156465
+      sha256: 6c723823f1c66eb48d789d1184d4298ed43d89cada0dfb2e202d25de36e1e75a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's VR Observation Feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: VR OBSERVATION | AYANOKOJI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

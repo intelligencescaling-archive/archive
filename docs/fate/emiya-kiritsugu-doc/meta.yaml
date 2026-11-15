@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: emiya-kiritsugu-doc
+category: doc
+title: Emiya Kiritsugu Doc
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- emiya-kiritsugu
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1EPa-roes7Wc36KfwGhwEJ71oirEc99AAm-0D3VWaKnk/edit?usp=drivesdk
+    google_id: 1EPa-roes7Wc36KfwGhwEJ71oirEc99AAm-0D3VWaKnk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 1208
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7499662
+      sha256: e356d11d4587a69e570ee7dd70718e602d022baae3b7dcada1d83a9529a1d921
+    - format: docx
+      name: document.docx
+      bytes: 7241517
+      sha256: 2877c5ad4456a9f00d177d2718183a95b3b78bde9658bf742f5b87e315d59175
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Emiya Kiritsugu Doc
+- library: remastered
+  section: Fate
+  character: Emiya Kiritsugu
+  link_text: Emiya Kiritsugu Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

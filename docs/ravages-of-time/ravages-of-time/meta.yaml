@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ravages-of-time
+category: doc
+title: Ravages Of time
+alt_titles:
+- Ravages of Time Guandu Arc
+authors: []
+series:
+- ravages-of-time
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1X3E50SwfOfv-uJ4xBeoswEHdf8b4fKqxCetFz894Dc0/edit?usp=drivesdk
+    google_id: 1X3E50SwfOfv-uJ4xBeoswEHdf8b4fKqxCetFz894Dc0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 52
+    words: 21772
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 749942
+      sha256: ed9c6c92af104b4f3d4c0c036065c38b184d3f2f76a4e17b5e443b8d6129fafb
+    - format: docx
+      name: document.docx
+      bytes: 74079
+      sha256: 383643b994885b6c5bd31af513df1a18c0d490ed8a11538a176a69579a7c755d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ravages of Time Guandu Arc
+- library: remastered
+  section: Ravages of Time
+  character: Guandu Arc
+  link_text: Ravages Of time
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

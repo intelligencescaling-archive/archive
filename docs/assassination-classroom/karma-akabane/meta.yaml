@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: karma-akabane
+category: doc
+title: Karma Akabane
+authors: []
+series:
+- assassination-classroom
+characters:
+- karma-akabane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1TLCeccuyv6FiV8wnFP8ElOKB0wV9OSWrfn4wTnsBA1A/edit?usp=drivesdk
+    google_id: 1TLCeccuyv6FiV8wnFP8ElOKB0wV9OSWrfn4wTnsBA1A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 11216
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1108321
+      sha256: ce9b49dff74174917cdaecd8005b5d86eb6a57ea5f5502fae7bcfb06a7c6dab1
+    - format: docx
+      name: document.docx
+      bytes: 2382469
+      sha256: cb6c2ecfd727d2eed2ce8189a95a6b2186601122c8945aff7937b8948637850b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Karma Akabane
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

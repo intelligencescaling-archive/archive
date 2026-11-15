@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: correction-to-arisu-s-visualization-doc
+category: doc
+title: Correction to Arisu's visualization doc
+alt_titles:
+- Correction to Arisu's Island Visualization feat
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- arisu-sakayanagi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ecRbzJ3i5xKV230EuqWXeN2GZm0G3Dh8VoE_mEx0u0I/edit?tab=t.0#heading=h.35mkhnr6icoj
+    google_id: 1ecRbzJ3i5xKV230EuqWXeN2GZm0G3Dh8VoE_mEx0u0I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 4268
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6875757
+      sha256: 02d9120432d872ab99af08905b3a9f82d353f74d418701938dbc3818f2c0aaa9
+    - format: docx
+      name: document.docx
+      bytes: 5505896
+      sha256: c8391c6ca34fdff5e18ffd1387e9d3b4f523ef18f71c0c3cd010d1beb41f9891
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Classroom of the Elite
+  character: Arisu Sakayanagi
+  link_text: Correction to Arisu's Island Visualization feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

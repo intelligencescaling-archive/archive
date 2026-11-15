@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: plum-s-feats-short-analysis-doc
+category: doc
+title: Plum's Feats Short Analysis Doc
+authors: []
+series:
+- no-game-no-life
+characters:
+- plum
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15t1kAx7ff-_PCFWsoTJdEi5dkfARmtqFBwya3PLE9Gg
+    google_id: 15t1kAx7ff-_PCFWsoTJdEi5dkfARmtqFBwya3PLE9Gg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1694
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1230593
+      sha256: 6bbee1096edf7d4b1bb332165848d71cbfc7df7a11a1303e0638acece3ed596e
+    - format: docx
+      name: document.docx
+      bytes: 2162146
+      sha256: bf9828572f036d4c11a6a0c299fd34f93ea2e65ecfef9ccb3b4a52682266737f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Plum's Feats Short Analysis Doc
+- library: remastered
+  section: No Game No Life
+  character: Plum
+  link_text: Plum's Feats Short Analysis Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pandemic-game-lr
+category: doc
+title: Pandemic Game LR
+alt_titles:
+- Akiyama Pandemic Game LR
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ceR2U3L-WumxkjsSPrczgmu9dfSri0mvLn9HEZSjg8Y/edit?usp=drivesdk
+    google_id: 1ceR2U3L-WumxkjsSPrczgmu9dfSri0mvLn9HEZSjg8Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1248
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 730700
+      sha256: 9b0da85abc64f1b4adecdb152ca2fa3887e4e4b8f81d5b411b86083f1470971f
+    - format: docx
+      name: document.docx
+      bytes: 2745553
+      sha256: 69deba6a02951da0f728d3348d8e67363055d74d2dddc4b707846f79e8d23ab7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama Pandemic Game LR
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Pandemic Game LR
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

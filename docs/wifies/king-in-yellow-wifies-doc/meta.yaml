@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: king-in-yellow-wifies-doc
+category: doc
+title: King In Yellow(Wifies) Doc
+alt_titles:
+- King in yellow doc
+authors: []
+series:
+- wifies
+characters:
+- the-king-in-yellow
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1HvIx8WOufVh8jwjm5g7IkqXvq2bjjlgt/view
+    google_id: 1HvIx8WOufVh8jwjm5g7IkqXvq2bjjlgt
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 2157
+    files:
+    - format: pdf
+      name: King In Yellow(Wifies) Doc.pdf
+      bytes: 5442127
+      sha256: 8b38bcfdf9214fb50aa5aab879b5e8ad32f89d1dcd741ad06572b6b3080d8027
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: King in yellow doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

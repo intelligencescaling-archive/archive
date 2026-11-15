@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-jigsaw-kramer-saw-x
+category: doc
+title: John “Jigsaw” Kramer (Saw X)
+alt_titles:
+- Jigsaw John Kramer doc
+authors:
+- name: Bittus
+  source: doc-text
+series:
+- saw
+characters:
+- john-kramer
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12RnLKfCVU-Tns5QQpHPLYe4gQ9s9mT96TyD2Up4PANE/edit?usp=drivesdk
+    google_id: 12RnLKfCVU-Tns5QQpHPLYe4gQ9s9mT96TyD2Up4PANE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 69
+    words: 13735
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3064855
+      sha256: 00b466c76fdf8515b01c755f9e5b0cb028709f0df627673c88767a2002ac247b
+    - format: docx
+      name: document.docx
+      bytes: 11768571
+      sha256: 24873c4d9a2799199f37552130cb5499a08266e334989e6a8bd6ab30c98fcd9f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jigsaw John Kramer doc
+  note: (Saw X)
+- library: remastered
+  section: Saw
+  character: John Kramer
+  link_text: John “Jigsaw” Kramer (Saw X)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: oberon-s-doc
+category: doc
+title: Oberon's Doc
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- oberon-vortigern
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cBlTXA5e2_IVrDyN9WtXIjZUgTZYR5EHa0LZB7xNUS4
+    google_id: 1cBlTXA5e2_IVrDyN9WtXIjZUgTZYR5EHa0LZB7xNUS4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 6010
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3907630
+      sha256: f8b9add4f464bc0c25845c24500e2f77d860c889eb0f5b90872f620e7da21a98
+    - format: docx
+      name: document.docx
+      bytes: 3306995
+      sha256: 6a52bb478c8f0717b86455c5710441f61c7b94c10a7baf6d3fc565f7df72f1a0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Oberon's Doc
+- library: remastered
+  section: Fate
+  character: Oberon Vortigern
+  link_text: Oberon's Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

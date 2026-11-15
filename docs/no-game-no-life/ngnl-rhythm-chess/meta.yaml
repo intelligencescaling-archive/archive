@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ngnl-rhythm-chess
+category: doc
+title: NGNL - (Rhythm Chess)
+alt_titles:
+- Sora's Rhythm Chess Feats doc
+- Riku Dola's Akà Si Anse Strategy
+- Sora's Rhythm Chess Feats
+authors: []
+series:
+- no-game-no-life
+characters:
+- riku-dola
+- sora
+tags:
+- feats
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11xJayeGQYtnDEezFG5sCDMIpm1KBveIPiiQ6MWmJ2Dw/edit?usp=drivesdk
+    google_id: 11xJayeGQYtnDEezFG5sCDMIpm1KBveIPiiQ6MWmJ2Dw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 8087
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1251449
+      sha256: 574bc952415aa6acb24e4f2c6524984a7fe3311f4d3726f0b9eb5f9573607b1a
+    - format: docx
+      name: document.docx
+      bytes: 1345397
+      sha256: 7bbbf99d002ef40d3aacb0e6c8c7dfce890b97622918c18e808be9f2a456bfbe
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Sora's Rhythm Chess Feats doc
+- library: remastered
+  section: No Game No Life
+  character: Riku Dola
+  link_text: Riku Dola's Akà Si Anse Strategy
+- library: remastered
+  section: No Game No Life
+  character: Sora
+  link_text: Sora's Rhythm Chess Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

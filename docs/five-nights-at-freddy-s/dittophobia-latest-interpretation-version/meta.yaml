@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dittophobia-latest-interpretation-version
+category: doc
+title: Dittophobia latest interpretation version
+alt_titles:
+- Dittophobia Afton Doc
+- William afton dittophobia
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15pCXvOkGrZjZNsypu15X288teBVF238C9hFJz8v8chs
+    google_id: 15pCXvOkGrZjZNsypu15X288teBVF238C9hFJz8v8chs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 6544
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 293309
+      sha256: 1444a4d43c268acf035adeb47e20db6eafd0c7cb93ab42d30ade7c970d1ce1b0
+    - format: docx
+      name: document.docx
+      bytes: 296528
+      sha256: 332e015ef36949cf806e76f7e8b0ac0ed596a89bdefb6b9ec7f914e16ca8156a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Dittophobia Afton Doc
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: William afton dittophobia
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: William Afton
+  link_text: Dittophobia latest interpretation version
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

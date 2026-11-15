@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-feats-document
+category: doc
+title: Walter White Feats Document
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17Cv3glrUJjwrkXsNO4mY_Va-vItCKHZlH9jSRcwJGGY
+    google_id: 17Cv3glrUJjwrkXsNO4mY_Va-vItCKHZlH9jSRcwJGGY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2567
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 610693
+      sha256: e72fb1d8426afb9b054be24e9a4c61aa7b91ead03bb1260641488ee6bc93d108
+    - format: docx
+      name: document.docx
+      bytes: 681966
+      sha256: 7a689d6b7ee3b2ade21252ecb9797c14fcb1e63cb4c1c4046c9b65d2bf786314
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Breaking Bad | Better Call Saul
+  character: Walter White
+  link_text: Walter White Feats Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

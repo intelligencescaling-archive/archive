@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouchs-f-l-e-i-j-a-feat-debunk
+category: doc
+title: Lelouch’s F.L.E.I.J.A feat debunk
+alt_titles:
+- Lelouch FLEIJA feat debunk
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1hPUZ741v8xDDTMRdYK-oYPHLj5TfMv6JpTtyeiXGCoI
+    google_id: 1hPUZ741v8xDDTMRdYK-oYPHLj5TfMv6JpTtyeiXGCoI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1028
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 547513
+      sha256: b40679335b1f20a79b74edd77a313eb6ab84b2f49bff5b568b09edd7e74fb9ab
+    - format: docx
+      name: document.docx
+      bytes: 436085
+      sha256: 8e5cf08266c4c76eebc1d87be9274a2e04b8cf737db26c188e3d9978c4f9b733
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch FLEIJA feat debunk
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Lelouch’s F.L.E.I.J.A feat debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

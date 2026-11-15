@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: usogui-movie-doc
+category: doc
+title: Usogui Movie Doc
+alt_titles:
+- Baku feats in the LA movie
+authors:
+- name: Axolotol4044/KitchenCoyote7942
+  source: doc-text
+series:
+- usogui
+characters:
+- baku-madarame
+variant: Movies
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13hEx2u8wTeNRlz9iqwVd1wShCpKxao3xe8vVUr-TYwI
+    google_id: 13hEx2u8wTeNRlz9iqwVd1wShCpKxao3xe8vVUr-TYwI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 3922
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 382829
+      sha256: 6875450008b7252320a249b280652db622ea286ae107c14f2c711b7b2ae20ecf
+    - format: docx
+      name: document.docx
+      bytes: 982346
+      sha256: 21c20210cec1d7e7264c3b44d47dd34c3e5644cd25436a7d70caba00d42373d6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku feats in the LA movie
+- library: remastered
+  section: Usogui
+  character: Baku Maradame - Movies
+  link_text: Usogui Movie Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

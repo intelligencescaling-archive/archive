@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fujimaru-ritsuka-part-1-5
+category: doc
+title: Fujimaru Ritsuka (Part 1.5)
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- fujimaru-ritsuka
+variant: Composite
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/0/d/1yn3dIpOegzYMwKMDaJs4hPunvhimSXVA3x4u6tlp-Eg/edit
+    google_id: 1yn3dIpOegzYMwKMDaJs4hPunvhimSXVA3x4u6tlp-Eg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 1176
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6295253
+      sha256: b4edfed65a714e6b0239fc89ab907bcd4c483a1e130d7e58f14f49bc65c61751
+    - format: docx
+      name: document.docx
+      bytes: 6009648
+      sha256: 795f450843017058299b02335db59324b545901fcef11d914eb52822fc9713e7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Fate
+  character: Fujimaru Ritsuka - Composite
+  link_text: Fujimaru Ritsuka (Part 1.5)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

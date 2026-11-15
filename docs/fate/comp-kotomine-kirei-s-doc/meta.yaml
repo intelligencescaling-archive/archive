@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-kotomine-kirei-s-doc
+category: doc
+title: Comp Kotomine Kirei's Doc
+alt_titles:
+- Comp Kotomine Kirei
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- kotomine-kirei
+variant: Composite
+tags:
+- composite
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1MCbJP5uD6opU1VgZvT4ub0tI60Au63VMGvzDeYqsAK4/edit?usp=drivesdk
+    google_id: 1MCbJP5uD6opU1VgZvT4ub0tI60Au63VMGvzDeYqsAK4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 1335
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11112959
+      sha256: 4474d8bc7dbc61433c2d6bedf44ef9855e0a48ac1f65fe2ab941b823e0c2be07
+    - format: docx
+      name: document.docx
+      bytes: 10247885
+      sha256: a1dc71cd63ad8a3d77b5f642d878b18bb5b36ede022106b3857df45889e64850
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Comp Kotomine Kirei
+  note: (not finished)
+- library: remastered
+  section: Fate
+  character: Kotomine Kirei - Composite
+  link_text: Comp Kotomine Kirei's Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

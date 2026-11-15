@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: eumenides-logical-reasoning
+category: doc
+title: Eumenides Logical Reasoning
+authors: []
+series:
+- the-death-notice
+characters:
+- eumenides
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vKJsXqwQFZTcAkRaP_fT4IyTzVwTEBeF8Pd62A5qc_Y
+    google_id: 1vKJsXqwQFZTcAkRaP_fT4IyTzVwTEBeF8Pd62A5qc_Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1570
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 87148
+      sha256: b6c821af48664527012fdff68f380637398d206ce24f0c13782f39be5ce4a0c5
+    - format: docx
+      name: document.docx
+      bytes: 85563
+      sha256: ea1dd646eaa2c0b6cafe8a0f5d2e605d5b2dfc98150797aa4ff3a1e418e25797
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Eumenides Logical reasoning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

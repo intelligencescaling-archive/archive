@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: surpassing-the-leader-hal-doc
+category: doc
+title: SURPASSING THE LEADER- HAL DOC
+alt_titles:
+- Kiruma souichi
+- SURPASSING THE LEADER - HAL DOC
+authors:
+- name: JoJolon
+  source: doc-text
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19s4-b63iLYGLhH2dR62Ra1hm3Mv0wK9oBDd7Zze_kQQ
+    google_id: 19s4-b63iLYGLhH2dR62Ra1hm3Mv0wK9oBDd7Zze_kQQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 89
+    words: 11116
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 28090484
+      sha256: d7fee41733db95ebb36be5d649c2781729803f06616606510abd5f8f2374b4d8
+    - format: docx
+      name: document.docx
+      bytes: 27859350
+      sha256: e4667bcf0c932dd93d4d3fd081ea31d23d70bf2811ca530208207fa044ff36b6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Kiruma souichi
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: SURPASSING THE LEADER - HAL DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-analysis-feats
+category: doc
+title: Akiyama analysis+feats.
+alt_titles:
+- Akiyama's Ro4k planning and reasoning
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- feats
+- analysis
+- planning
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_CNlyFzCX17Hj6NZ7KiriRzIAy2PEdIt43tfO7pjn-0
+    google_id: 1_CNlyFzCX17Hj6NZ7KiriRzIAy2PEdIt43tfO7pjn-0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 5266
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2573473
+      sha256: 23d05132078e04ce34e86dabb92a3cc8ccef52dcc83f89ae97bffeb9fd843e93
+    - format: docx
+      name: document.docx
+      bytes: 2425024
+      sha256: d65e51b45b4fb83b95a4cbb287a383f240ebbff514b3d5e80d0155bf97f06553
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama's Ro4k planning and reasoning
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama analysis+feats.
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

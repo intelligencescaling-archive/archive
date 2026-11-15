@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: housepet-destruction
+category: doc
+title: Housepet Destruction
+alt_titles:
+- Yumeko's housepet destruction plan
+authors: []
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15boyL3W2oWhOxXF-zCkIYaWLyK802Gz3woS4T4SkxX0/edit?usp=drivesdk
+    google_id: 15boyL3W2oWhOxXF-zCkIYaWLyK802Gz3woS4T4SkxX0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1416
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 252745
+      sha256: e05b469f9a2f3126fe8bc7fe1aa8001c6dbd4eb8957281dcf9302ace3e630014
+    - format: docx
+      name: document.docx
+      bytes: 699346
+      sha256: dcfe56f04068cffb9137cb3b7caac719e818599f4cf905622462bb996200287e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Yumeko's housepet destruction plan
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: Housepet Destruction
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

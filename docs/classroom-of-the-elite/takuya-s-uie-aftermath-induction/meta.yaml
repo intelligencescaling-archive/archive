@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: takuya-s-uie-aftermath-induction
+category: doc
+title: Takuya's UIE Aftermath Induction
+alt_titles:
+- Takuya UIE Aftermath induction
+- Takuya’s UIE Aftermatch Induction
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1gU8IBZnHIA9HHbzuAY_KVsr9RPF2DRapRv5lNlt8Dpw
+    google_id: 1gU8IBZnHIA9HHbzuAY_KVsr9RPF2DRapRv5lNlt8Dpw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1655
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 91157
+      sha256: 549398fdace84afbacaa54d5f2129d29a33439364dcdf1422bf6cc4bcd62df78
+    - format: docx
+      name: document.docx
+      bytes: 283027
+      sha256: d7f27fe1176955f6e9d02988a31de143cb48a7520852b24e64a2d72929bc2b39
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Takuya UIE Aftermath induction
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Takuya’s UIE Aftermatch Induction
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-processing-speed-index-feat-in-detail
+category: doc
+title: Izuru Kamukura Processing Speed Index Feat in detail
+alt_titles:
+- izuru kamukura 4
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17TcNhJyzqkl_L_dg5cffzwcWeHxJiLHREBAnPiIf7Kk/edit?usp=drivesdk
+    google_id: 17TcNhJyzqkl_L_dg5cffzwcWeHxJiLHREBAnPiIf7Kk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1325
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1510801
+      sha256: b7032d0fa258f0e64d4ab87bd017ce00590d2e83ab5ede3b44080007e4d12510
+    - format: docx
+      name: document.docx
+      bytes: 1831128
+      sha256: 75a87d0214550e0175458948eea63145fd66ae5ccd4ae39bcb35fd29cbb68f09
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: izuru kamukura 4
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura Processing Speed Index Feat in detail
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

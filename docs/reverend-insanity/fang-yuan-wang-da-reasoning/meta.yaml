@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-wang-da-reasoning
+category: doc
+title: Fang Yuan Wang Da Reasoning
+alt_titles:
+- Fang Yuan's reasoning about Wang Da
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- reasoning
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1yBjkDlo6lQ-dfXP0EX8jkDGb4YWhc7A2/edit?usp=drivesdk&ouid=107562670602473967947&rtpof=true&sd=true
+    google_id: 1yBjkDlo6lQ-dfXP0EX8jkDGb4YWhc7A2
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Fang Yuan's reasoning about Wang Da.docx
+      bytes: 570179
+      sha256: c301a807dc78e413f2e70f2c394a28f0dc54e50fbcf30fceeb90dbbb7f2be57d
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan Wang Da Reasoning
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Fang Yuan's reasoning about Wang Da
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

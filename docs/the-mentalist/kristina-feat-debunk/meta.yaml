@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kristina-feat-debunk
+category: doc
+title: Kristina feat debunk
+alt_titles:
+- RJ's Kristina feat debunk
+authors: []
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xFgdoPpBC_0nNKH7Gk6kXEbnHnQqvzrukKwDGb954os
+    google_id: 1xFgdoPpBC_0nNKH7Gk6kXEbnHnQqvzrukKwDGb954os
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 679
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 48549
+      sha256: 4d1f632ba7b9d5ec24a0501903dbbd58cf2fa913f0ae69d657d36ff37ba45800
+    - format: docx
+      name: document.docx
+      bytes: 755252
+      sha256: c8587e5fd2b9cbc9ad5489a992291f81b77e1c52ff3fcf89366548a9e7947501
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: RJ's Kristina feat debunk
+- library: remastered
+  section: The Mentalist
+  character: Red John
+  link_text: Kristina feat debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

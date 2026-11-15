@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-s-contraband-forced-rotation-strategy-complete
+category: doc
+title: Yokoya's Contraband Forced Rotation STRATEGY complete explanation ANALYSIS
+alt_titles:
+- Yokoya's Contraband Forced Rotation Strategy
+- Yokoya Norihiko Forced Rotation Strategy
+authors: []
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- analysis
+- strategy
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1BOxlBukcMDJyJBLRqvkJH-AxvLTA2nqTPo5O5Jq1bKA/edit?tab=t.0
+    google_id: 1BOxlBukcMDJyJBLRqvkJH-AxvLTA2nqTPo5O5Jq1bKA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3550
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 289237
+      sha256: 885d105bb913c393c7a0a7061fbea1565a7f7b3532cabbe6cbeee2b56248d656
+    - format: docx
+      name: document.docx
+      bytes: 103794
+      sha256: 422b69ab2e48aa092d7a00e4c75b0c9d48a5989f3642cd197feb5c43a34f053b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Yokoya's Contraband Forced Rotation Strategy
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: Yokoya Norihiko Forced Rotation Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

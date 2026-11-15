@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: educating-topman-in-moon
+category: doc
+title: Educating Topman in Moon
+alt_titles:
+- Moon Seonghyun's Emotional Understanding
+authors:
+- name: zz9he  for topman
+  source: doc-text
+series:
+- dr-frost
+characters:
+- moon-seonghyun
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1uYH1IzVYQdfYEvNBxTATH9gFdKBBpiK3rbFZ0LvLET0/edit?usp=drivesdk
+    google_id: 1uYH1IzVYQdfYEvNBxTATH9gFdKBBpiK3rbFZ0LvLET0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3647
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 142522
+      sha256: 9932278cd18d7ca9ef971b8bae01bfe4f6dee5783c20e3a6e09048b6e3071947
+    - format: docx
+      name: document.docx
+      bytes: 15698
+      sha256: a9fdc8aa7b41d4b5e570c1da9ec0760a6313de2c9ce5ef5d58589f11b3c828a3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DR.FROST:'
+  link_text: Moon Seonghyun's Emotional Understanding
+- library: remastered
+  section: Dr. Frost
+  character: Moon Seonghyun
+  link_text: Educating Topman in Moon
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

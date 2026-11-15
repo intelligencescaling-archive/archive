@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: murphy-doc-3
+category: doc
+title: 'Murphy Doc #3'
+alt_titles:
+- Murphy 3
+authors: []
+series:
+- scp-foundation
+characters:
+- murphy-lawden
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13G8xqQVbCZyFF1QoEuqjIaHmqoOyXYhsZCpioX3_fo4
+    google_id: 13G8xqQVbCZyFF1QoEuqjIaHmqoOyXYhsZCpioX3_fo4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2294
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 218005
+      sha256: 687d257a4d9a8159816edffe526a4c49b3c701b79e36a6010c162edf072cceaa
+    - format: docx
+      name: document.docx
+      bytes: 187759
+      sha256: 06c995d0f03c9a3b93124334840f6bbefeedee932405422dd6315c1bfa751b5f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: Murphy 3
+- library: remastered
+  section: SCP Foundation
+  character: Murphy Lawden
+  link_text: 'Murphy Doc #3'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

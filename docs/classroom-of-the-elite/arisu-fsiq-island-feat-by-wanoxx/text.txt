@@ -1,0 +1,242 @@
+Arisu’s Island Feat | By Wanoxx
+
+This doc will introduce one of Arisu's best feat in FSIQ, it covers:
+VSI(Block Design and Visual Puzzles)
+>=
+CPI(WMI and PSI)
+>>>
+FRI(LR, NCPS and LA)
+
+Visualization Part (Principally VSI and CPI):
+In Y2V4 Arisu visualised an entire island several kilometres long, visualised all the people present, analysed 160 second-year students, visualised the relief, the mountains, the hills, the forests in 3D, whereas she had only seen the map on the tablet, and had never been there, she stayed on the beach throughout the exam but was able to visualise the island, she did all this in real time.
+
+The island is shown in Y2V3 as being 24,850,000m², Y2V3 p60: "Overall, the map has been divided into 100 zones, each extending 500 metres vertically and 700 metres horizontally." Map below:
+
+So 500 * 700 * 100 = 35,000,000m², but there are 29 zones in the water, and 100-29 = 71, so 500 * 700 * 71 = 24,850,000m². On this island there are 3 school years, each with 4 classes of a maximum of 40 pupils (there are a few expulsions), so 40 * 4 * 3 = 480 pupils. There's also a lot of jungle, mountains, etc... on this island... "see the island in three dimensions by making realistic projections in your mind" an island of 24,850,000m² with 480 people on it and features such as a dense jungle and a huge mountain.
+
+Y2V4:
+
+She makes a realistic projection using the tablet once, after which she analyses the position of each student in her mind, analyses their position,their movement, their direction in space and their behaviour.
+
+Tsukasaki also state that she is not able to really see the path, but she almost can, just after the narrator explain how this is possible, this mean that Arisu see all the path that she was talking about at the start:
+
+So Arisu is able to see that in addition to all the terrain visualization explained above, according to Tsukasaki and the narrator: (random example just for us to understand the genius of the feat, nothing serious)
+
+This is just a drastic low ball of all the possible path, because Arisu is talking about Tsukasaki's path, for example, who has marked a path for her today, given that it's still 7:05 am, and Tsukasaki says she's seen his path, which means she can even visualize such precise paths, based as Arisu says on a "quick" and "safe" path. There are an infinite number of possible paths, but according to Arisu and Tsukasaki, she can visualize all the paths that the first-years will take today, so that her pawns can intercept them using the paths created as the island exam advanced.
+
+She does that by anaysing the movement of the student and teacher during the exam. Using Active Walker Model, see the basics here, and a program that can runs for several hours can calculate the total length of the paths created on the island within the UIE context, we conclude this amounts to approximately 15.24 km of path and 6,510 path segments. Arisu has all of that in her mind while she calculates.
+
+The final point of this making him, is that when Arisu did the Island Visualization it’s stated that “Sakayanagi could indeed see the uninhabited island three-dimensionally. She ran through SOME realistic simulationS in her head”. So Arisu didn't do one terrain simulation, but SEVERAL, which basically means that in low ball she did at least two 3D simulations of the island since the feat is in the plural, island is the only thing that can be simulated, and it’s literally what the narrator is talking about in the sentence just before. That means she visualized:
+in low ball 49 700 000m² (24 850 000 * 2),
+in mid ball 74 550 000m² (24 850 000 * 3),
+and in high ball 124 250 000m² (24 850 000 * 5).
+So more than 124 million square meters in high ball with 960 GPS positions to visualize (explained after). Including everything seen earlier, as stated who was advancing, where, how they were moving, all the paths taken by students on the island today. She can simulate several islands at the same time in her mind, in order to perform different calculations simultaneously.
+
+Fast Debunk:
+a.”Arisu just visualized a precise part of the island”
+Just no, it’s literally stated that she can see all the island :
+“Sakayanagi could indeed see the uninhabited island three-dimensionally”
+It’s stated that she see THE uninhabited island, so the whole island.
+
+b.”Arisu just visualized the first years student”
+Just no, it’s literally stated that the first part of the feat is on ALL school years, then at the end of the first part of the feat, it is specified that she has refined her calculations only on the first year.
+“By further refining her search and focusing only at the first-year students”
+So she's currently one of the rare characters who can be said to have visualized all 480 students, for example Koenji and Nagumo have visualized the third years etc...
+
+c.”Arisu was helped by a tablet”
+Ok so actually if you think about the additional information that comes with having the tablet in your hand:
+First, Arisu has points on the map showing who is where, which helps to visualize people's positions.
+Second, Arisu has a photo of the island to visualize it.
+In the first point, it’s actually a good idea to nerf the feat, but the problem is that it’s stated that Arisu compared the position of her first GPS scan, with her second GPS scan that she did 30min after, so she simultaneously visualized the old position of each student and made a link with his new location, except of course she no longer had the position of the old students on the tablet, but just the new position of the students, so she visualized both the 480 old GPS points she only had in memory with the 480 new GPS points on the map, so 960(480 * 2) student position, which is very insane, I explain in a more deep way in my WMI analyse.
+
+In the Second point, I don’t know what to say except stop being dumb, we are talking about visualizing millions of squares, memorizing the position of hundreds of student with their names and precise location on a map, but do you think that just memorizing an image of an island in your head is hard? Seriously, do you think this objectively nerfs the feat? I will stop here to avoid being mean.
+
+d.”Why does she visualize multiple simulations of the island ?”
+There are actually 2 answers to that, first of all, the assertion of several islands is not an assumption that has to be coherent or anything, it's just literally stated that she did several simulations in the plural, so I wouldn't logically even have to argue about coherence, but that's okay because it's completely coherent. As I showed later in the WMI part, Arisu does several tasks on the island, like calculating who's moving where and how, and to do these different calculations she needs several different islands in her head, for example in the simple calculation that is state that she answered for 480 people “who move”, just to do this simple calculation, she is obliged to visualize at least 2 islands at the same time in her head, as I show in the explanation of her process in WMI, this means that even if the narrator hadn't state that she visualized several islands, with assumption, she still had this feat, given that it's the most logical explanation for answering the "who's moving" question, and once again it's state that she's made several, from then on it's over.
+
+e.”It is not obligatory to visualize the simulations at the same time.”
+It's obligatory for her to do certain calculations, read the WMI analysis and you will see that it's inconsistent to say that she didn't do several stated simulations at the same time for some calcul.
+
+f.”Arisu can send the students roughly, and they find their way on their own to find the first-year students, their enemy.”
+Arisu's soldiers are teenagers with no experience, Arisu's best second leader on the ground himself asks Arisu "how are we going to meet", he doesn't know, so Arisu will explain that she knows where the students are going and which path they use, and there the narrator explains that she visualizes the island. So it’s impossible because one of Arisu's right-hand men himself asks her for help because he does not understand how they are going to come across the enemy first year students.
+
+Some people might wonder just how detailed Arisu's visualization of the island is, i.e. did she just visualize the 3D map in her head, or did she visualize it in much greater detail? To answer that, let me explain. For example, just this area of the island is 350 000 m², yet Arisu can tell her soldiers where to position themselves in an exact position to intercept students in such a large area, you can see that if she just visualized the map, she cannot do it.
+
+As her classmate ask, how can she know the exact place where the students go, the characters themselves in the verse do not understand how she does it because it is impossible to find such a precise place, cause the students take for example a 50 meter radius where they walk, while each small part of the island is 350,000 m² (just in 1 area). She needed to realize the exact location to the exact position. Arisu must visualize at a very precise stage to carry out the example of the task that I gave, you can try to use the map and make 2 people cross paths, you will not be able to, because even if you tell him go to the top right from area B7, you will not be able to help him make the 2 people cross each other, because the island is MUCH TOO BIG.
+
+For example this very small area that you see here on the map is actually a huge building almost 700 meters long, I don't know if you realize, yet it's very small on the map, if you just had to make with the map just 2 people meet on this building, you probably wouldn't be able to, so imagine entire areas of forest.
+
+Finally, Tsukasaki himself says that it's as if Arisu can see the path on the ground, so as if Arisu can see the exact path Tsukasaki and the rest of the students are taking when she's not there, this implies that she's able to see what Tsukasaki sees, just after the narrator says that she can indeed see the paths in real time precisely because she sees the island in her head in 3D. This means that, even if we exclude logic and how Arisu's feats are possible, by statement and by the way the story is told, Arisu is presented as visualizing the terrain with such precision that it's as if she's seeing the island for real in front of her, so as if she's seeing the path in front of her, so as if she's seeing the terrain, this implies that she can visualize with a precision close to what a human sees on the spot.
+
+I will add here a semantic explanation, the LN states “She ran through some realistic simulations in her head”, realistic mean “representing things as they are in real life”, this show that Arisu visualised the island as it is in real life. Going further, realistic simulation imply simulated reality, which mean “an approximation of reality created in a simulation, usually in a set of circumstances in which something is engineered to appear real when it is not”. This approximation of reality has to be realistic enough to deceive the human about the nature of its existence, given how close it is to real life.
+
+Btw: I use 160 student in this document, when in reality there are less than 159 student in first year because there was at least one expulsion in their year (Hanato from class C). The same goes for Ayanokoji's year, there aren't 160 but 157 because Manabe, Yamauchi and Yahiko were expelled, same for Nagumo's year, except that there were many more expulsions, which means that there aren't 480 students on the island, but less than that number. The difference isn't very great, and it simplifies the calculations to use 480 as a value.
+
+Calculation Part (Principally CPI and VSI):
+Path Prediction:
+At the start of the feat, it's 7:05 am. First of all, we learn that Arisu made 3 searches on the night of days 10, 11 and 12, as she had seen the possibility that the attack on Ayanokoji would not be during normal examination hours, we talk about 1440 (480*3) different point with name on different map. This is actually smart, because Arisu only knows how student move in a precise pattern used when students are in exam mode, meaning moving to get to a specific task or square given by the administration as quickly as possible, we are in a different situation to how they will move to block Ayanokoji, since we are talking about a movement free from the constraints of the school, the way of moving will be different. By precisely analyzing the actions of the students in the evening, when the exam is over, Arisu becomes impregnated with their movements and helps herself to better prepare for the confrontation with the first years.
+
+The kind of thing Arisu is going to have to do is, for example, visualize the path Ayanokoji is going to take (yellow path), then anticipate by positioning her second years pawns in positions where they can cover Ayanokoji by intercepting them (green path), once the first years get close to Ayanokoji (red path). Tsukasaki's question is how they are going to meet, since a single piece of map is 350 000m², so Arisu is going to remember the data she has stored, in other world everything she talks about in the passage:
+
+1.The paths created and increasingly used over the 12 days, given the redundancy of the students' and teachers' passages.
+
+2.The 1440 possible points Arisu has researched to have a better understanding of student' movements when not in a state of examination.
+
+3.The most effective, quick and safe path, so the most optimized path the student will take.
+
+Yellow = Ayanokoji
+Red = First Years
+Green = Second Years
+
+So just in this little square:
+
+Arisu has to make a Reasoning to visualize the precise path this first year group will take in advance to send her class soldiers to block them, in this single square of 350 000m²:
+
+Arisu basically did dozens of reasoning like this, based on the 3 sources of information seen above, it looks like Takuya's feat on Kito or Nagumo feat on Koji, but with several groups at the same time and an actually explained process with the 3 points listed above.
+
+The quantity of Data Arisu has to use is just insane, she has to remember all single path created on the island by all the student and teacher without ever seeing the island and the paths in reality, only by visualizing the island and analyzing the movements of all the people on the island during the 12 days, an insane amount of data as I show in the number of possible paths in the VSI part. She also needs to mind read Tsubaki to know which path she's going to use, imagining which one is the most optimized for her and for the students Tsubaki is sending, from where she has to intercept them with precision, without ever making a mistake, all the while remembering the 1440 positions she tested the days before to better prepare for this day of confrontation.
+Find The Leader:
+
+First the “By further refining her search and focusing only on the first-year students” statement come after this passage, so all the feat before are actually in 480 students and not 160.
+
+The narrator state that Arisu figured out who was advancing where and how they were moving, so she here applied on the 480 student 3 task, knowing “who”, “where” and how students were moving.
+
+Who was advancing:
+It’s stated that she thought some realistic simulation in her mind, so different simulation with different points on it, why this ? We know this for 2 principal reason, first it’s illogical to ran multiple simulation of the island in her head if she ran the simulation with the same settings and information, so it’s more coherent to run different information. Secondly, the ONLY way to know if a person is advancing, it’s to compare the object(student) with 2 different position separate by time, example if “A” is at 7:04 in a position, and at 7:07 in a different position, we know that “A” has advanced, if ”B” is at 7:04 and 7:07 in the same position, he is not advancing. Arisu did this Reasoning for 480 students, because it’s stated that she know who was advancing, so she knows in the 480 student who was in movement and who was not, she was able to make 2 different lists of people, depending on their movement, check this doc to see the quantity of date she has to store and make a Reasoning on, just in this small subpoint “Who was advancing” of “Find The Leader” subpoint of the “Island Feat”:
+https://docs.google.com/document/d/1eS2cOBHRStllw-h89dW2fvtOSVqqG43nqaBzsSWo0Zc/edit?usp=sharing
+But quick example I show in the doc:
+"Last name", "First name"(Student 001)|"Position at moment X","Position at moment Y"
+Position at moment X ≠ Position at moment Y → Student Moved
+"Last name", "First name"(Student 002)|"Position at moment X","Position at moment Y"
+Position at moment X ≠ Position at moment Y → Student Moved
+"Last name", "First name"(Student 003)|"Position at moment X","Position at moment Y"
+Position at moment X ≠ Position at moment Y → Student Moved
+"Last name", "First name"(Student 004)|"Position at moment X","Position at moment Y"
+Position at moment X = Position at moment Y → Student Don’t Moved
+"Last name", "First name"(Student 005)|"Position at moment X","Position at moment Y"
+Position at moment X ≠ Position at moment Y → Student Moved
+.
+.
+.
+"Last name", "First name"(Student 480)|"Position at moment X","Position at moment Y"
+Position at moment X = Position at moment Y → Student Don’t Moved
+Where:
+Based on all the positives results:
+Position at moment X ≠ Position at moment Y → Student Moved
+She will manage to find where this person is actually moving, based on 3 possible movement:
+a)Move for an area to reach
+b)Move to go after Ayanokoji
+c)Move for a task which give point or resources
+
+Small point to explain here, the only possible process for Arisu to know where go all the student who move is to know the path that each person has, the exam started 12 days ago, and since then the groups that have the same path have not changed, the narrator says that Arisu knows where the students are going, this means that she must know if they are going to an area that is their objective area, otherwise she cannot know where each person is going if she don’t know all the area of all groups, this means that Arisu has during the 12 days on the island managed to understand each group is in which large group of path in common. So now, for example, if the group made up of people A, B and C have over the 12 days visited the same objective area as the group made up of people V and W, then these 2 groups will today also have the same zone in common etc... Imagine this with hundreds more combinations, like shown in the previous part of the feat. Arisu made up packs of groups that followed the same path over the 12 days. I will try to represent her Reasoning by doing it with an algorithm to summarize the feat:
+
+As long as there are  Student Moved:
+        If the movement’s direction = direction of the other group in the package group:
+                 Student Moved = Move for an area to reach
+        if not, movement’s direction = position of a task in the map:
+                 Student Moved = Move for a task which give point or resources
+        if not, movement’s direction = Ayanokoji’s Position:
+                Student Moved = Move to go after Ayanokoji
+        Repeat as long as there are Student Moved
+
+Arisu needs to do this over hundreds of student examples, remembering absolutely all the possible paths we have on the island and all the groups within each path. She also visualizes the position of each task spot on the map, calculates the trajectory of each group on the map, makes the link between each reasoning etc… Go back in some reasoning to see the actual zone of each group so that you can then compare the others, so that asks you to triangulate among a whole line of designated zones that you can get by taking a trajectory, then compare all these trajectories with each student of the large groups of paths, then extend the lines on the map until you see that all the trajectory intersect in an area, then once this is done for each large group, she can start to run the algorithm using all this information she has got in her head and manipulating them to make a massive calculation that would be better suited to a computer.
+Example of Triangulation on a map:
+
+Arisu need to make a table with all the groups in packets with other groups, creating large groups, once she has this, she has to look in each large group at the people who are moving, she sees their direction, and then extends on the map the length of their direction, then she looks at the crossing point, the place where all the lines of their trajectory cross represents the area assigned with these groups, we have an example of this process above, it requires a lot of VSI and WMI.
+
+Small Debunk:
+“Knowing where they are going just means knowing what area they reach, not precisely where they are going.”
+It doesn't make sense, because if Arisu only knows the person's direction in your narrative, she can't know it's equal to which zone, for example, if a person (red point) is going towards the C6 (black arrow) area, this direction can also mean the area C5, B5, B4, A4 etc… (purple arrow)
+
+This means that for calculating where each student is going, she must know their area objective.
+
+How they were moving:
+This can be interpreted in several different ways, for example by the speed of movement, or by how the author intends to move, i.e. which path to take, so I'm going to do an analysis for both, but given that I always take the minimum value, I'm going to use the interpretation that it's the path taken by the student, and not the speed of the pupils, because in the case where she has calculated the speed it's much more complex. In short, first the low ball interpretation, then the high ball which won't be used in the conclusion, but just written to show that I'm taking the low ball of what the author means by "How".
+
+(low ball)
+This interpretation is back up with the fact that Arisu says at the beginning (VSI analysis) that she can calculate and know the paths on the island using the most optimised way, but also the movements of the pupils during the other days, Arisu will then apply what she says to the member of her class by calculating the precise path that each of the 480 pupils will take.
+
+This part of the feat is very similar to "Path Prediction" explained above, except that in the case of "Path Prediction", Arisu is able to visualize and predict the passage of a maximum of 120 students, less in reality (40*3=120, class B, C and A). "Path Prediction" was impressive because Arisu was able to accurately find the position of each group of Tsubaki attackers and block them with troops of her own class (class A and B). In this part of the feat, which is different, Arisu manages to find the path of the 480 students on the island using the information given on screen earlier in the feat, i.e. the most optimized path for them, In other words, every time Arisu deduces where a student is going, she'll visualize the island and find the most optimized path for him to take. She'll then remember all the research she's done on the island since the GPS was activated to deduce which path the student will take to reach his goal, and she'll repeat this 480 times.
+
+(high ball not sure)
+This passage can be interpreted in a number of ways, we could say that it's possibly the 4th principle of the development of an object in space, i.e. movement, the fourth thing that defines this movement is the norm, i.e. in our case the speed, and this corresponds to "how". At present, this is not 100% certain, but it seems the most logical interpretation.
+
+To calculate this, Arisu needs 2 things:
+Total displacement
+Elapsed time
+
+It’s easy to have the Elapsed time, she needs the two moments, and just subtract (momentA) − ( momentB).
+
+But for the Total displacement it’s harder, first she can just make an approximation by comparing the 2 point of the GPS of the Student, or make a rigorous formula to find the distance between 2 point which is:
+√ (x2−x1)² + (y2−y1)²
+
+In both case she need after finding the values displacement and time (found with arithmetic calculation), she need to make this final operation (division):
+Total displacement / Elapsed time
+
+After all that, she knows the speed of every student in motion, which means performing the above calculations hundreds of times over.
+
+Who is the Leader ?:
+
+Based on all this, Arisu was able to make a prediction about who exactly the leader she was facing might be. To do this Arisu used all the previous steps and results, remembering them at the same time to make this reasoning, for example, she took from the list of the “Student Don’t Moved”. Then made the connection with these students' class and made the connection with the students who were in the case “Move to go after Ayanokoji” etc…
+
+After that she had a fairly accurate result and a precise list of potential candidates, but she didn't have a definite confirmation and she also had too many possible people since the first reasoning on who was moving or not was made with near moments, and therefore less certain results.
+
+Confirm The Result :
+The final part of this feat is this:
+
+Arisu takes a 30-minute break, stops searching and drops her tablet. After that, she comes back and does a GPS search, so she no longer has access to the position of the students on her last search before dropping her tablet, but Arisu will compare the position of the old positions with the new positions of each person, this mean she has memorized all the position of all the previous search, so 480 position (because before the “By further”).
+
+So Arisu has a memorized a map like that (example of map with 480 point on), this plus ALL their first and last names:
+
+She has to remember all this exact position of each student with their full name. Then she compares this map she has memorized and all this information with a new map that she has with her last GPS search she did after the 30 min break. She is able to transpose one map onto the other and compare each point, with this Arisu has one more confirmation and therefore confirms certain suspects, while at the same time removing certain suspects, she's nearly finished her analysis work.
+
+Only at THAT moment and not before, Arisu will decide to delete all the people who are not first years, it's clearly specified that she's reducing the number of suspects, and that therefore she already had a pseudo list before, which implies that she probably did the calculation beforehand to test all the possibilities (first part of my analyse), for example Nagumo manipulating first years or whatever. At this moment, Arisu will succeed in transforming the map with 480 names on it into a map with 160 names in it, thus deleting 2/3, to do this she needed to sort each person by name, and find out what school year they are in, then once she had tested each name on the map, she could keep only the list she wanted, which comes down to performing the algorithm:
+
+As long as there are a Student don’t tested:
+        if Student name = first years:
+                add Student to valid list
+        else:
+                Delete Student
+Repeat as long as there are Student
+
+Repeating 400 times this, Arisu finally as sated “narrow down the list of suspects”, this process needs to Remember ALL student’s class in all the years and make this reasoning with, which alone, a very good feat.
+
+Conclusion:
+(After the step “who”, Arisu just use the student who move, so she doesn’t make calculation with 480 students, but just the students which move, knowing that their Reasoning for finding the leader is based on the fact that practically everyone in normal situation will move, we can assume that is drastic low ball 400 students are in movement, and 80 are not in movement, but it’s probably a much lower value).
+
+Arisu calculated, reasoned, remembered, memorized, manipulated (14560):
+* 1) Remembering all the roads on the island created by the 480 students and teachers during the 12 days of exams. Using Active Walker Model, see the basics here, and a program that can run for several hours, we can calculate the total length of the paths created on the island within the UIE context, we conclude this amounts to approximately 15.24 km of path and 6,510 path segments. Arisu has all of that in her mind while she calculates.
+
+* 2) She memorized and used 1440 GPS points she took the 3 evenings before the attack to prepare herself and better anticipate future movements in special condition.
+
+* 3) For each group of students attacking Ayanokoji, she finds the most optimized route they can take, because of the speed, terrain, etc...
+
+* 4) Using 3 previous sources of information Arisu predicts the path that each group attacking Ayanokoji will take as the day progresses, she'll predict it over and over.
+
+* 5) She sends her maximum of 80 troops to block the maximum of 120 students sent by Tsubaki, without making a mistake, over areas of more than 350,000m² each.
+
+* 6) Reasoned with 960 first / last name linked to 2 GPS positions per student (960 visual information), which it compares to see if the first / last name has moved.
+
+* 7) Create 2 lists with the student who moves and who doesn't, she memorizes these 2 lists and uses them in future Rsn (list 1 + list 2 = 960 last / first name memorized).
+
+* 8) Remember and manipulate all the group path and all the composition of the large group, composed by small group which has the same path.
+
+* 9) Triangulated the positions of each student in each large group to successfully find their assigned area, 400 directions prolonged on the map (dozens at the same time).
+
+* 10) Manipulated all the tasks and designed area on the map and understood where the 400 students will go by giving 1 of 3 destinations to each 400 students.
+
+* 11)Arisu calculates the most optimized paths for the 400 students moving,remembers the average paths used in the 12 days and predicts the path that all student will take.
+
+* 12) (Not sure) Calculated the Total Displacement using the formula:√ (x2−x1)²+ (y2 −y1)² where x1,x2,y1,y2 are coordinates of 2 points in the space, did that 400 times.
+
+* 13) (Not sure)Calculate the speed of each student, making a division using the formula “Total displacement / Elapsed time”, she did that 400 times with 800 first / last names
+
+* 14)Reason with 80 student who dont move and see with each the number of student in the class of this student, who goes in Koji's direction, it reduces her list of suspects
+
+* 15) Memorized for 30 min a map with 480 spatial positions, and 960 first / last names on, associating each of the 480 spatial points with 960 first / last names.
+
+* 16) Compare each of the 480 points she has memorized with the 480 new points in her GPS scan.
+
+* 17) Remember all names and attribute it to a school year, then subtract 320 names, keeping only one map filled with 160 people.
+
+* 18) Comparing the position of the old student 30 min before with the new position of the last GPS scan, with this having a list of 3 names who can be the Leader.

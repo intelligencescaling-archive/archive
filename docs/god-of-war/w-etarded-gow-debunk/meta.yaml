@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: w-etarded-gow-debunk
+category: doc
+title: W-etarded GOW debunk
+alt_titles:
+- God Of War debunk
+authors:
+- name: DustRustGuts
+  source: doc-text
+series:
+- god-of-war
+characters: []
+tags:
+- wis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1X7jcF7jPF5dgyUaf9QU6fX6UoCtnGjN_NntKyN-B3I0/edit?tab=t.0
+    google_id: 1X7jcF7jPF5dgyUaf9QU6fX6UoCtnGjN_NntKyN-B3I0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 1371
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5390552
+      sha256: 2bf44e104ede5236dfcf26fae84d5012d97f86da89bc91a3c98bd20dd9433a18
+    - format: docx
+      name: document.docx
+      bytes: 5025842
+      sha256: 3233bc366df94f6b13a9042138c4d467dd380a0d27b8bd5e13a628e5f002a3ee
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: God Of War debunk
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

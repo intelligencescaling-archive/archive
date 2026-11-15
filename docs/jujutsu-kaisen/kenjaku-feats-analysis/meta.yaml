@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-feats-analysis
+category: doc
+title: Kenjaku Feats & Analysis
+authors: []
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15cM2ke-viuS3Yyg1MdsFJCPBl-V81OpgECTlTtCS_14
+    google_id: 15cM2ke-viuS3Yyg1MdsFJCPBl-V81OpgECTlTtCS_14
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 4819
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5729683
+      sha256: a488032d910fdada0a1467c1f427e83368562fad5163578a803ea5ae7d930b84
+    - format: docx
+      name: document.docx
+      bytes: 7222179
+      sha256: c8d76bb2d83257b21f968b28a05c30de358fe766aaa529efb32bbcb70e807019
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kenjaku feats & analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

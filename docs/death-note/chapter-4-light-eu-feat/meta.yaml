@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chapter-4-light-eu-feat
+category: doc
+title: Chapter 4 Light EU Feat
+alt_titles:
+- Light EU
+authors: []
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-bs1N-qM-0YcHnc1szr3HMSahdHd_qVsEmIPrYS0eF4
+    google_id: 1-bs1N-qM-0YcHnc1szr3HMSahdHd_qVsEmIPrYS0eF4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 621
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2485834
+      sha256: 507df3c8694fdbae9ceb2535b2c71802b9bd0b85940b582b4a4b218d284bc7b1
+    - format: docx
+      name: document.docx
+      bytes: 3071487
+      sha256: 3269b5684728b7996210572b73b092c0940a063effd620ce47f39cd97bbb8bb6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Light EU
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Chapter 4 Light EU Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

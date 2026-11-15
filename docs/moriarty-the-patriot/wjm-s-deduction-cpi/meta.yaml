@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wjm-s-deduction-cpi
+category: doc
+title: WJM's Deduction CPI
+alt_titles:
+- WJM deduction CPI
+authors:
+- name: AwaKen
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- reasoning
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1eZwv9i-u8DB5ry8TCjy5LQ2iJ84_zSD9f-q_kFvVQcc
+    google_id: 1eZwv9i-u8DB5ry8TCjy5LQ2iJ84_zSD9f-q_kFvVQcc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 628
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 379683
+      sha256: d029adc2ddc550aff92425195c42fe27af5d37a0dcc558c7bcfc5f65a19a1a4a
+    - format: docx
+      name: document.docx
+      bytes: 1031209
+      sha256: 8f02db1d85ac94c5c1b436afdde7402ac1d210c77500043d2d684f88dcc2e621
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: WJM deduction CPI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

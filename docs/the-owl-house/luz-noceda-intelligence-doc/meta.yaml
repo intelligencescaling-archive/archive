@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: luz-noceda-intelligence-doc
+category: doc
+title: Luz Noceda Intelligence doc
+alt_titles:
+- Luz Noceda Feats Doc
+authors: []
+series:
+- the-owl-house
+characters:
+- luz-noceda
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13HrYNWo-a5YmX1I2yNmUB46OtSjAwVGKWqtidl8cmMU
+    google_id: 13HrYNWo-a5YmX1I2yNmUB46OtSjAwVGKWqtidl8cmMU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 3233
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2513794
+      sha256: 81be85134cf08b1960043eb3fd2725605cba3a29c00035a289d335a24288faf5
+    - format: docx
+      name: document.docx
+      bytes: 2788916
+      sha256: c03a8dce198bef091632617b22d379f2659759014a4ab9c9e57efb9ebd1f6cda
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Luz Noceda Feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

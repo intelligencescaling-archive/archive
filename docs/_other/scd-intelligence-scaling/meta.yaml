@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-intelligence-scaling
+category: doc
+title: SCD Intelligence Scaling
+alt_titles:
+- SCD Categories doc 14
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Vox03M_IGDGKx9J_Y5elNoYpu8PNPc8mAilEEhDG_Ew/edit?tab=t.0
+    google_id: 1Vox03M_IGDGKx9J_Y5elNoYpu8PNPc8mAilEEhDG_Ew
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1142
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 86488
+      sha256: 4fae7d6cac5fc7162954da408cffdc45635c53e16938dc23d4f496f746b83d2c
+    - format: docx
+      name: document.docx
+      bytes: 319849
+      sha256: 336069447dd424106ec07b41c751734b5d373acf2cdf4d515a135793100151d8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories doc 14
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

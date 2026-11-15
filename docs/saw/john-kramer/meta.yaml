@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-kramer
+category: doc
+title: John Kramer
+alt_titles:
+- John Kramer Complete Doc
+authors:
+- name: a_xakimv
+  source: doc-text
+series:
+- saw
+characters:
+- john-kramer
+tags: []
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WThIMSIzOa26goPYItOoiSyXBuciC6qp20IbTnD2QP4
+    google_id: 1WThIMSIzOa26goPYItOoiSyXBuciC6qp20IbTnD2QP4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 9397
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 406977
+      sha256: 49b63b70a84ff2b46eb44dc42d22a1afb80ec8f3aadc23b50d2c5d29629d0352
+    - format: docx
+      name: document.docx
+      bytes: 1235106
+      sha256: c793a64bd3a22443cb9dc5f55fad3c85d2d4cc9081eadeacfa407371c2028e8a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: John Kramer Complete Doc
+- library: remastered
+  section: Saw
+  character: John Kramer
+  link_text: John Kramer Complete Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

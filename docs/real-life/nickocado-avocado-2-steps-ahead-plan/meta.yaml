@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nickocado-avocado-2-steps-ahead-plan
+category: doc
+title: Nickocado avocado 2 steps ahead plan
+alt_titles:
+- Nikocado Avocado two step ahead plan
+authors: []
+series:
+- real-life
+characters:
+- nikocado-avocado
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17IzX9sUQSnqE1ten3lsWK3Ksl9Ylozql9AMamkAkgRE/edit?tab=t.0#heading=h.t4u9197bsfbp
+    google_id: 17IzX9sUQSnqE1ten3lsWK3Ksl9Ylozql9AMamkAkgRE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 422
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 113159
+      sha256: 4177297bc429bb78361df8beef901f26dcb97340f8a08ef07ffb998da66f4d5b
+    - format: docx
+      name: document.docx
+      bytes: 110808
+      sha256: 8a427be95aaac7f8a383af50590eb758b765e190b12df42e493a99d04fdfdfda
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Nikocado Avocado two step ahead plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

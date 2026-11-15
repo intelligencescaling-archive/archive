@@ -1,0 +1,1130 @@
+# Character registry. ids are used in meta.yaml `characters`.
+- id: aai2-mastermind
+  name: AAI2 Mastermind
+  series: ace-attorney
+- id: administrator
+  name: Administrator
+  series: counter-side
+- id: ai-magase
+  name: Ai Magase
+  series: null
+- id: akane-kurashiki
+  name: Akane Kurashiki
+  series: zero-escape
+- id: akira-shiroyanagi
+  name: Akira Shiroyanagi
+  series: null
+- id: akiyama-shinichi
+  name: Akiyama Shinichi
+  series: liar-game
+- id: akuto-sai
+  name: Akuto Sai
+  series: ichiban-ushiro-no-daimaou
+- id: alexander-suvorov
+  name: Alexander Suvorov
+  series: real-life
+- id: alto-clef
+  name: Alto Clef
+  series: scp-foundation
+- id: am
+  name: AM
+  series: i-have-no-mouth-and-i-must-scream
+- id: amako-seeichi
+  name: Amako Seeichi
+  series: usogui
+- id: amakusa-shirou
+  name: Amakusa Shirou
+  series: fate
+- id: amelia-elliot-wilson
+  name: Amélia Elliot Wilson
+  series: null
+- id: anastasia
+  name: Anastasia
+  series: altered-beast
+- id: andre-massena
+  name: André Masséna
+  series: real-life
+- id: ang-xiao
+  name: Ang Xiao
+  series: null
+- id: angie-yonada
+  name: Angie Yonada
+  series: danganronpa
+- id: aoi-tsukiyo
+  name: Aoi Tsukiyo
+  series: null
+- id: aozaki-touko
+  name: Aozaki Touko
+  series: fate
+- id: apollyon
+  name: Apollyon
+  series: for-honor
+- id: aqua-hoshino
+  name: Aqua Hoshino
+  series: oshi-no-ko
+- id: archimedes-of-syracuse
+  name: Archimedes of Syracuse
+  series: real-life
+- id: aristotle-means
+  name: Aristotle Means
+  series: ace-attorney
+- id: arisu-sakayanagi
+  name: Arisu Sakayanagi
+  series: classroom-of-the-elite
+- id: ashe-bradley
+  name: Ashe Bradley
+  series: null
+- id: assane-diop
+  name: Assane Diop
+  series: lupin
+- id: atsuomi-ayanokoji
+  name: Atsuomi Ayanokoji
+  series: classroom-of-the-elite
+- id: augustus-caesar
+  name: Augustus Caesar
+  series: real-life
+- id: ayumu-narumi
+  name: Ayumu Narumi
+  series: spiral-the-bonds-of-reasoning
+- id: baku-madarame
+  name: Baku Madarame
+  series: usogui
+- id: bane
+  name: Bane
+  series: dc-comics
+- id: batman
+  name: Batman
+  series: dc-comics
+- id: battler-ushiromiya
+  name: Battler Ushiromiya
+  series: umineko
+- id: beatrice
+  name: Beatrice
+  series: umineko
+- id: bendy
+  name: Bendy
+  series: bendy-and-the-ink-machine
+- id: beyond-birthday
+  name: Beyond Birthday
+  series: death-note
+- id: billy
+  name: Billy
+  series: null
+- id: billy-craig
+  name: Billy Craig
+  series: usogui
+- id: bobby-fischer
+  name: Bobby Fischer
+  series: real-life
+- id: brian-moser
+  name: Brian Moser
+  series: dexter
+- id: byakuya-togami
+  name: Byakuya Togami
+  series: danganronpa
+- id: c-auguste-dupin
+  name: C. Auguste Dupin
+  series: c-auguste-dupin
+- id: camilo-benso
+  name: Camilo Benso
+  series: real-life
+- id: cao-cao
+  name: Cao Cao
+  series: real-life
+- id: cardinal-richelieu
+  name: Cardinal Richelieu
+  series: real-life
+- id: cesare-borgia
+  name: Cesare Borgia
+  series: real-life
+- id: charles-vespasian-hale
+  name: Charles Vespasian Hale
+  series: lincoln-rhyme
+- id: charley
+  name: Charley
+  series: ace-attorney
+- id: chen-ran
+  name: Chen Ran
+  series: 18-levels-of-hell
+- id: chen-shu
+  name: Chen Shu
+  series: null
+- id: christopher-pelant
+  name: Christopher Pelant
+  series: bones
+- id: chuck-mcgill
+  name: Chuck McGill
+  series: breaking-bad-better-call-saul
+- id: cid-kagenou
+  name: Cid Kagenou
+  series: the-eminence-in-shadow
+- id: cinder-fall
+  name: Cinder Fall
+  series: rwby
+- id: conan-edogawa
+  name: Conan Edogawa
+  series: case-closed
+  aliases:
+  - Kudo Shinichi
+- id: connor
+  name: Connor
+  series: detroit-become-human
+- id: crazy-mita
+  name: Crazy Mita
+  series: miside
+- id: d3rlord3
+  name: D3rlord3
+  series: wifies
+- id: dahlia-hawthorne
+  name: Dahlia Hawthorne
+  series: ace-attorney
+- id: damon-gant
+  name: Damon Gant
+  series: ace-attorney
+- id: danny-johnson
+  name: Danny Johnson
+  series: null
+- id: daybit-bluebook
+  name: Daybit Bluebook
+  series: fate
+- id: dazai-osamu
+  name: Dazai Osamu
+  series: bungo-stray-dogs
+- id: desir-arman
+  name: Desir Arman
+  series: null
+- id: dexter-morgan
+  name: Dexter Morgan
+  series: dexter
+- id: di-wu-zhi-yi
+  name: Di Wu Zhi Yi
+  series: 18-levels-of-hell
+- id: doofus-jerry
+  name: Doofus Jerry
+  series: rick-and-morty
+- id: doomsday-rex
+  name: Doomsday Rex
+  series: null
+- id: dream
+  name: Dream
+  series: minecraft
+- id: edmond-dantes
+  name: Edmond Dantès
+  series: the-count-of-monte-cristo
+- id: edward-richtofen
+  name: Edward Richtofen
+  series: call-of-duty-zombies
+- id: eleanor
+  name: Eleanor
+  series: five-nights-at-freddy-s
+- id: elec
+  name: Elec
+  series: dragon-ball
+- id: emiya-kiritsugu
+  name: Emiya Kiritsugu
+  series: fate
+- id: emma-elliot-wilson
+  name: Emma Elliot Wilson
+  series: null
+- id: eric-cartman
+  name: Eric Cartman
+  series: south-park
+- id: erika-furudo
+  name: Erika Furudo
+  series: umineko
+- id: eumenides
+  name: Eumenides
+  series: the-death-notice
+- id: evil-morty
+  name: Evil Morty
+  series: rick-and-morty
+- id: fang-yuan
+  name: Fang Yuan
+  series: reverend-insanity
+- id: fawful
+  name: Fawful
+  series: mario-luigi
+- id: femto
+  name: Femto
+  series: berserk
+- id: feng-qirui
+  name: Feng Qirui
+  series: 18-levels-of-hell
+- id: floyd-lee
+  name: Floyd Lee
+  series: usogui
+- id: flynch
+  name: Flynch
+  series: ace-attorney
+- id: freddy-krueger
+  name: Freddy Krueger
+  series: a-nightmare-on-elm-street
+- id: frederick-ii
+  name: Frederick II
+  series: real-life
+- id: friend
+  name: Friend
+  series: 20th-century-boys
+- id: frieren
+  name: Frieren
+  series: frieren
+- id: fujimaru-ritsuka
+  name: Fujimaru Ritsuka
+  series: fate
+- id: fukurou
+  name: Fukurou
+  series: usogui
+- id: furio-tigre
+  name: Furio Tigre
+  series: ace-attorney
+- id: fyodor-dostoevsky
+  name: Fyodor Dostoevsky
+  series: bungo-stray-dogs
+- id: gabriel
+  name: Gabriel
+  series: the-mandela-catalogue
+- id: gazerbeam
+  name: Gazerbeam
+  series: the-incredibles
+- id: general-woundwort
+  name: General Woundwort
+  series: watership-down
+- id: george-washington
+  name: George Washington
+  series: real-life
+- id: ghostface
+  name: Ghostface
+  series: scream
+- id: gilgamesh
+  name: Gilgamesh
+  series: fate
+- id: gin
+  name: Gin
+  series: case-closed
+  aliases:
+  - Jin Kurosawa
+- id: goetia
+  name: Goetia
+  series: fate
+- id: goku
+  name: Goku
+  series: dragon-ball
+- id: gonen
+  name: Gonen
+  series: usogui
+- id: guo-jia
+  name: Guo Jia
+  series: ravages-of-time
+- id: gus-fring
+  name: Gus Fring
+  series: breaking-bad-better-call-saul
+- id: hachiman-hikigaya
+  name: Hachiman Hikigaya
+  series: my-teen-romantic-comedy-snafu
+- id: hajime-hinata
+  name: Hajime Hinata
+  series: danganronpa
+- id: han-fei
+  name: Han Fei
+  series: 18-levels-of-hell
+- id: hannibal
+  name: Hannibal
+  series: real-life
+- id: hannibal-lecter
+  name: Hannibal Lecter
+  series: hannibal
+- id: harimoto-takashi
+  name: Harimoto Takashi
+  series: liar-game
+- id: hark
+  name: Hark
+  series: null
+- id: heiji-hattori
+  name: Heiji Hattori
+  series: case-closed
+- id: heinrich-lunge
+  name: Heinrich Lunge
+  series: monster
+- id: henry-emily
+  name: Henry Emily
+  series: five-nights-at-freddy-s
+- id: hernan-cortes
+  name: Hernán Cortés
+  series: real-life
+- id: hisui-jozuka
+  name: Hisui Jozuka
+  series: medium
+- id: ichika-amasawa
+  name: Ichika Amasawa
+  series: classroom-of-the-elite
+- id: ichinose-honami
+  name: Ichinose Honami
+  series: classroom-of-the-elite
+- id: ijin-yu
+  name: Ijin Yu
+  series: null
+- id: ike-yoshigoro
+  name: Ike Yoshigoro
+  series: null
+- id: imhotep
+  name: Imhotep
+  series: null
+- id: indominus-rex
+  name: Indominus Rex
+  series: jurassic-world
+- id: innocent-iii
+  name: Innocent III
+  series: real-life
+- id: inspector-tsukumo
+  name: Inspector Tsukumo
+  series: null
+- id: irene-adler
+  name: Irene Adler
+  series: sherlock-holmes
+- id: isaac-mahoka
+  name: Isaac Mahoka
+  series: null
+- id: issei-okabe
+  name: Issei Okabe
+  series: null
+- id: iwao-washizu
+  name: Iwao Washizu
+  series: akagi
+- id: izaya-orihara
+  name: Izaya Orihara
+  series: durarara
+- id: izuru-kamukura
+  name: Izuru Kamukura
+  series: danganronpa
+- id: jack-the-ripper
+  name: Jack the Ripper
+  series: record-of-ragnarok
+- id: jake
+  name: Jake
+  series: five-nights-at-freddy-s
+- id: james-moriarty
+  name: James Moriarty
+  series: fate
+- id: james-panzer
+  name: James Panzer
+  series: the-mentalist
+  aliases:
+  - San Joaquin Killer
+- id: jane-marple
+  name: Jane Marple
+  series: miss-marple
+- id: jeff-the-killer
+  name: Jeff the Killer
+  series: creepypasta
+- id: jestress-vier
+  name: Jestress/Vier
+  series: umineko
+- id: jibril
+  name: Jibril
+  series: no-game-no-life
+- id: jin-kirihara
+  name: Jin Kirihara
+  series: lies-fraud-and-psychic-ability-school
+- id: jin-sakai
+  name: Jin Sakai
+  series: ghost-of-tsushima
+- id: joe-goldberg
+  name: Joe Goldberg
+  series: you
+- id: johan-liebert
+  name: Johan Liebert
+  series: monster
+- id: john-constantine
+  name: John Constantine
+  series: dc-comics
+- id: john-doe
+  name: John Doe
+  series: se7en
+- id: john-kramer
+  name: John Kramer
+  series: saw
+- id: john-wade
+  name: John Wade
+  series: happy-hills-homicide
+- id: joker
+  name: Joker
+  series: dc-comics
+- id: joseph-harrison
+  name: Joseph Harrison
+  series: null
+- id: juan-pujol
+  name: Juan Pujol
+  series: real-life
+- id: junko-enoshima
+  name: Junko Enoshima
+  series: danganronpa
+- id: junpei-tenmyouji
+  name: Junpei Tenmyouji
+  series: zero-escape
+- id: kaguya-shinomiya
+  name: Kaguya Shinomiya
+  series: kaguya-sama-love-is-war
+- id: kaiji-itou
+  name: Kaiji Itou
+  series: kaiji
+- id: kaito-corbeau
+  name: Kaito Corbeau
+  series: case-closed
+- id: kaji-takaomi
+  name: Kaji Takaomi
+  series: usogui
+- id: kanade-otonokoji
+  name: Kanade Otonokoji
+  series: danganronpa
+- id: kang-jinhyeok
+  name: Kang Jinhyeok
+  series: null
+- id: karma-akabane
+  name: Karma Akabane
+  series: assassination-classroom
+- id: kei-shinomiya
+  name: Kei Shinomiya
+  series: tomodachi-game
+- id: keiji-shinogi
+  name: Keiji Shinogi
+  series: your-turn-to-die
+- id: ken-kaneki
+  name: Ken Kaneki
+  series: tokyo-ghoul
+- id: ken-sudo
+  name: Ken Sudo
+  series: classroom-of-the-elite
+- id: kenjaku
+  name: Kenjaku
+  series: jujutsu-kaisen
+- id: khalid-ibn-al-walid
+  name: Khalid ibn al-Walid
+  series: real-life
+- id: kiara-sessyoin
+  name: Kiara Sessyoin
+  series: fate
+- id: killer-sans
+  name: Killer Sans
+  series: undertale-aus
+- id: kim-dokja
+  name: Kim Dokja
+  series: omniscient-reader-s-viewpoint
+- id: kimihiko-kimizuka
+  name: Kimihiko Kimizuka
+  series: the-detective-is-already-dead
+- id: kimura-kei
+  name: Kimura Kei
+  series: liar-game
+- id: kirari-momobami
+  name: Kirari Momobami
+  series: kakegurui
+- id: kirito-kamui
+  name: Kirito Kamui
+  series: psycho-pass
+- id: kiruma-souichi
+  name: Kiruma Souichi
+  series: usogui
+- id: kiyoshi-mitarai
+  name: Kiyoshi Mitarai
+  series: detective-mitarai
+- id: kiyotaka-ayanokoji
+  name: Kiyotaka Ayanokoji
+  series: classroom-of-the-elite
+- id: klein-moretti
+  name: Klein Moretti
+  series: lord-of-the-mysteries
+- id: klemens-von-metternich
+  name: Klemens von Metternich
+  series: real-life
+- id: kokichi-oma
+  name: Kokichi Oma
+  series: danganronpa
+- id: kotomine-kirei
+  name: Kotomine Kirei
+  series: fate
+- id: kratos
+  name: Kratos
+  series: god-of-war
+- id: kurama
+  name: Kurama
+  series: yu-yu-hakusho
+- id: kyo-ishigami
+  name: Kyo Ishigami
+  series: classroom-of-the-elite
+- id: kyoko-kirigiri
+  name: Kyoko Kirigiri
+  series: danganronpa
+- id: l-lawliet
+  name: L Lawliet
+  series: death-note
+- id: lalo-salamanca
+  name: Lalo Salamanca
+  series: breaking-bad-better-call-saul
+- id: lee-kiyoung
+  name: Lee Kiyoung
+  series: null
+- id: leif
+  name: Leif
+  series: null
+- id: lelouch-vi-britannia
+  name: Lelouch vi Britannia
+  series: code-geass
+- id: leo
+  name: Leo
+  series: null
+- id: leonard-church
+  name: Leonard Church
+  series: red-vs-blue
+- id: lex-luthor
+  name: Lex Luthor
+  series: dc-comics
+- id: li-gang
+  name: Li Gang
+  series: null
+- id: li-qing
+  name: Li Qing
+  series: null
+- id: li-xingke
+  name: Li Xingke
+  series: code-geass
+- id: light-yagami
+  name: Light Yagami
+  series: death-note
+- id: lightning
+  name: Lightning
+  series: null
+- id: lila-rossi
+  name: Lila Rossi
+  series: miraculous
+- id: lotso
+  name: Lotso
+  series: toy-story
+- id: lucifer
+  name: Lucifer
+  series: paradise-lost
+- id: lupin-iii
+  name: Lupin III
+  series: case-closed
+- id: luz-noceda
+  name: Luz Noceda
+  series: the-owl-house
+- id: mal
+  name: Mal
+  series: null
+- id: manabu-horikita
+  name: Manabu Horikita
+  series: classroom-of-the-elite
+- id: manfred-von-karma
+  name: Manfred von Karma
+  series: ace-attorney
+- id: mario-wheeler
+  name: Mario Wheeler
+  series: scp-foundation
+- id: mark-hoffman
+  name: Mark Hoffman
+  series: saw
+- id: marla-grayson
+  name: Marla Grayson
+  series: i-care-a-lot
+- id: masachika-kuze
+  name: Masachika Kuze
+  series: alya-sometimes-hides-her-feelings-in-russian
+- id: masked-magician
+  name: Masked Magician
+  series: ace-attorney
+- id: matt-engarde
+  name: Matt Engarde
+  series: ace-attorney
+- id: medea
+  name: Medea
+  series: null
+- id: megumin
+  name: Megumin
+  series: konosuba
+- id: melvina
+  name: Melvina
+  series: null
+- id: mercurius
+  name: Mercurius
+  series: dies-irae
+- id: michael-myers
+  name: Michael Myers
+  series: halloween
+- id: michael-scofield
+  name: Michael Scofield
+  series: prison-break
+- id: midori
+  name: Midori
+  series: your-turn-to-die
+- id: mihael-keehl
+  name: Mihael Keehl
+  series: death-note
+  aliases:
+  - Mello
+- id: mikado-shinsen
+  name: Mikado Shinsen
+  series: danganronpa
+- id: mikaela-elliot-wilson
+  name: Mikaela Elliot Wilson
+  series: null
+- id: mikasa-tenji
+  name: Mikasa Tenji
+  series: tomodachi-game
+- id: minoru-tanaka
+  name: Minoru Tanaka
+  series: death-note
+- id: miyuki
+  name: Miyuki
+  series: null
+- id: monaca-towa
+  name: Monaca Towa
+  series: danganronpa
+- id: monika
+  name: Monika
+  series: doki-doki-literature-club
+- id: moon-seonghyun
+  name: Moon Seonghyun
+  series: dr-frost
+- id: multi-nanairo
+  name: Multi Nanairo
+  series: null
+- id: murphy-lawden
+  name: Murphy Lawden
+  series: scp-foundation
+- id: na-yubin
+  name: Na Yubin
+  series: null
+- id: nagisa-natsunagi
+  name: Nagisa Natsunagi
+  series: the-detective-is-already-dead
+- id: nagisa-shiota
+  name: Nagisa Shiota
+  series: assassination-classroom
+- id: nagito-komaeda
+  name: Nagito Komaeda
+  series: danganronpa
+- id: nagumo-miyabi
+  name: Nagumo Miyabi
+  series: classroom-of-the-elite
+- id: nambong-baek
+  name: Nambong Baek
+  series: dr-frost
+- id: napoleon-bonaparte
+  name: Napoleon Bonaparte
+  series: real-life
+- id: narak
+  name: Narak
+  series: null
+- id: nate-river
+  name: Nate River
+  series: death-note
+  aliases:
+  - Near
+- id: nettspend
+  name: Nettspend
+  series: real-life
+- id: neuro-nougami
+  name: Neuro Nougami
+  series: neuro-supernatural-detective
+- id: nightmare-sans
+  name: Nightmare Sans
+  series: undertale-aus
+- id: nikocado-avocado
+  name: Nikocado Avocado
+  series: real-life
+- id: nina-stingray
+  name: Nina Stingray
+  series: lies-fraud-and-psychic-ability-school
+- id: niu-youdao
+  name: Niu Youdao
+  series: null
+- id: noahtic
+  name: Noahtic
+  series: null
+- id: nobody
+  name: Nobody
+  series: scp-foundation
+- id: noelle
+  name: Noelle
+  series: deltarune
+- id: norman
+  name: Norman
+  series: the-promised-neverland
+- id: oberon-vortigern
+  name: Oberon Vortigern
+  series: fate
+- id: oreki-houtarou
+  name: Oreki Houtarou
+  series: hyouka
+- id: otto-apocalypse
+  name: Otto Apocalypse
+  series: honkai-impact-3rd
+- id: otto-von-bismarck
+  name: Otto von Bismarck
+  series: real-life
+- id: ozymandias
+  name: Ozymandias
+  series: dc-comics
+- id: pang-tong
+  name: Pang Tong
+  series: ravages-of-time
+- id: patrick-jane
+  name: Patrick Jane
+  series: the-mentalist
+- id: paul-atreides
+  name: Paul Atreides
+  series: dune
+- id: phainon
+  name: Phainon
+  series: honkai-star-rail
+- id: phantom-thief-sai
+  name: Phantom Thief Sai
+  series: neuro-supernatural-detective
+- id: phen-228
+  name: PHEN-228
+  series: the-boiled-one-phenomenon
+- id: phoenix-wright
+  name: Phoenix Wright
+  series: ace-attorney
+- id: phosphophyllite
+  name: Phosphophyllite
+  series: land-of-the-lustrous
+- id: player-218
+  name: Player 218
+  series: squid-game
+  aliases:
+  - Cho Sang-woo
+- id: player-333
+  name: Player 333
+  series: squid-game
+  aliases:
+  - Lee Myung-gi
+- id: plum
+  name: Plum
+  series: no-game-no-life
+- id: poseidon
+  name: Poseidon
+  series: prison-break
+- id: qiu-yinong
+  name: Qiu Yinong
+  series: 18-levels-of-hell
+- id: quercus-alba
+  name: Quercus Alba
+  series: ace-attorney
+- id: ranpo-edogawa
+  name: Ranpo Edogawa
+  series: bungo-stray-dogs
+- id: raul
+  name: Raul
+  series: null
+- id: raul-evans
+  name: Raul Evans
+  series: null
+- id: raye-penber
+  name: Raye Penber
+  series: death-note
+- id: raymond-reddington
+  name: Raymond Reddington
+  series: the-blacklist
+- id: red-hood
+  name: Red Hood
+  series: dc-comics
+- id: red-john
+  name: Red John
+  series: the-mentalist
+- id: redd-white
+  name: Redd White
+  series: ace-attorney
+- id: rhys-montrose
+  name: Rhys Montrose
+  series: you
+- id: richard-arata
+  name: Richard Arata
+  series: usogui
+- id: rick-sanchez
+  name: Rick Sanchez
+  series: rick-and-morty
+- id: riddler
+  name: Riddler
+  series: dc-comics
+- id: riku-dola
+  name: Riku Dola
+  series: no-game-no-life
+- id: rio-ranger
+  name: Rio Ranger
+  series: your-turn-to-die
+- id: roman-bridger
+  name: Roman Bridger
+  series: scream
+- id: ron-kamonohashi
+  name: Ron Kamonohashi
+  series: ron-kamonohashi-s-forbidden-deductions
+- id: roose-bolton
+  name: Roose Bolton
+  series: a-song-of-ice-and-fire
+- id: rover
+  name: Rover
+  series: wuthering-waves
+- id: ryan-heinrich
+  name: Ryan Heinrich
+  series: null
+- id: ryuen-kakeru
+  name: Ryuen Kakeru
+  series: classroom-of-the-elite
+- id: ryuk
+  name: Ryuk
+  series: death-note
+- id: sachiko-juraku
+  name: Sachiko Juraku
+  series: kakegurui
+- id: satoru-gojo
+  name: Satoru Gojo
+  series: jujutsu-kaisen
+- id: satou
+  name: Satou
+  series: classroom-of-the-elite
+- id: scipio-africanus
+  name: Scipio Africanus
+  series: real-life
+- id: scp-035
+  name: SCP-035
+  series: scp-foundation
+- id: scp-049
+  name: SCP-049
+  series: scp-foundation
+- id: senku-ishigami
+  name: Senku Ishigami
+  series: dr-stone
+- id: shawn-spencer
+  name: Shawn Spencer
+  series: psych
+- id: shen-jihan
+  name: Shen Jihan
+  series: null
+- id: sherlock-holmes
+  name: Sherlock Holmes
+  series: sherlock-holmes
+- id: sherlock-holmes-fate
+  name: Sherlock Holmes
+  series: fate
+- id: shigeru-akagi
+  name: Shigeru Akagi
+  series: akagi
+- id: shin-tsukimi
+  name: Shin Tsukimi
+  series: your-turn-to-die
+- id: shingo-aoi
+  name: Shingo Aoi
+  series: null
+- id: shiro
+  name: Shiro
+  series: no-game-no-life
+- id: shockwave
+  name: Shockwave
+  series: transformers
+- id: shuichi-saihara
+  name: Shuichi Saihara
+  series: danganronpa
+- id: shuntaro-chishiya
+  name: Shuntaro Chishiya
+  series: alice-in-borderland
+- id: si-jincheng
+  name: Si Jincheng
+  series: 18-levels-of-hell
+- id: siesta
+  name: Siesta
+  series: the-detective-is-already-dead
+- id: soma-yukihira
+  name: Soma Yukihira
+  series: food-wars
+- id: sora
+  name: Sora
+  series: no-game-no-life
+- id: sou-hiyori
+  name: Sou Hiyori
+  series: your-turn-to-die
+- id: sparkle
+  name: Sparkle
+  series: honkai-star-rail
+- id: star-butterfly
+  name: Star Butterfly
+  series: star-vs-the-forces-of-evil
+- id: stephanie-dola
+  name: Stephanie Dola
+  series: no-game-no-life
+- id: subaru-natsuki
+  name: Subaru Natsuki
+  series: re-zero
+- id: subutai
+  name: Subutai
+  series: real-life
+- id: supreme-administrator
+  name: Supreme Administrator
+  series: counter-side
+- id: suteguma-satoru
+  name: Suteguma Satoru
+  series: usogui
+- id: suzuki-tagosaku
+  name: Suzuki Tagosaku
+  series: bakudan
+- id: suzune-horikita
+  name: Suzune Horikita
+  series: classroom-of-the-elite
+- id: syobai-hashimoto
+  name: Syobai Hashimoto
+  series: danganronpa
+- id: takiko-uchiyama
+  name: Takiko Uchiyama
+  series: danganronpa
+- id: takuya-yagami
+  name: Takuya Yagami
+  series: classroom-of-the-elite
+- id: talleyrand
+  name: Talleyrand
+  series: real-life
+- id: tanya-von-degurechaff
+  name: Tanya von Degurechaff
+  series: the-saga-of-tanya-the-evil
+- id: tasuku-higashihama
+  name: Tasuku Higashihama
+  series: as-the-gods-will
+- id: tatsuya-shiba
+  name: Tatsuya Shiba
+  series: the-irregular-at-magic-high-school
+- id: technoblade
+  name: Technoblade
+  series: minecraft
+- id: terence-fletcher
+  name: Terence Fletcher
+  series: whiplash
+- id: tetsuya-ishigami
+  name: Tetsuya Ishigami
+  series: the-devotion-of-suspect-x
+- id: the-administrator
+  name: The Administrator
+  series: scp-foundation
+- id: the-frontman
+  name: The Frontman
+  series: squid-game
+  aliases:
+  - Hwang In-ho
+- id: the-king-in-yellow
+  name: The King in Yellow
+  series: wifies
+- id: the-penguin
+  name: The Penguin
+  series: dc-comics
+- id: the-protagonist
+  name: The Protagonist
+  series: tenet
+- id: the-soul
+  name: The SOUL
+  series: deltarune
+- id: theodore-glass
+  name: Theodore Glass
+  series: beyblade-burst
+- id: todd-fang
+  name: Todd Fang
+  series: re-zero
+- id: tom-taylor
+  name: Tom Taylor
+  series: null
+- id: tomohiro-machiya
+  name: Tomohiro Machiya
+  series: null
+- id: toua-tokuchi
+  name: Toua Tokuchi
+  series: null
+- id: tran-tien
+  name: Tran Tien
+  series: null
+- id: tristan-turnbull
+  name: Tristan Turnbull
+  series: ace-attorney
+- id: tsumugi-shirogane
+  name: Tsumugi Shirogane
+  series: danganronpa
+- id: tyler-durden
+  name: Tyler Durden
+  series: fight-club
+- id: ukai-zero
+  name: Ukai Zero
+  series: null
+- id: utomiya-riku
+  name: Utomiya Riku
+  series: classroom-of-the-elite
+- id: v
+  name: V
+  series: v-for-vendetta
+- id: victor-lustig
+  name: Victor Lustig
+  series: real-life
+- id: vincent-lalo
+  name: Vincent Lalo
+  series: usogui
+- id: vladimir-makarov
+  name: Vladimir Makarov
+  series: call-of-duty
+- id: voja
+  name: Voja
+  series: usogui
+- id: walter-white
+  name: Walter White
+  series: breaking-bad-better-call-saul
+- id: wammys-house
+  name: Wammy’s House
+  series: death-note
+- id: wiktor-forst
+  name: Wiktor Forst
+  series: mrozoverse
+- id: will-graham
+  name: Will Graham
+  series: hannibal
+- id: william-afton
+  name: William Afton
+  series: five-nights-at-freddy-s
+- id: william-james-moriarty
+  name: William James Moriarty
+  series: moriarty-the-patriot
+- id: winston-payne
+  name: Winston Payne
+  series: ace-attorney
+- id: wu-zetian
+  name: Wu Zetian
+  series: real-life
+- id: xing-su
+  name: Xing Su
+  series: reverend-insanity
+- id: xun-yu
+  name: Xun Yu
+  series: ravages-of-time
+- id: yakou-hikoichi
+  name: Yakou Hikoichi
+  series: usogui
+- id: yoichi-isagi
+  name: Yoichi Isagi
+  series: blue-lock
+- id: yokoya-norihiko
+  name: Yokoya Norihiko
+  series: liar-game
+- id: yua-shishiba
+  name: Yua Shishiba
+  series: kakegurui
+- id: yugi-muto
+  name: Yugi Muto
+  series: yu-gi-oh
+- id: yuki-suou
+  name: Yuki Suou
+  series: alya-sometimes-hides-her-feelings-in-russian
+- id: yumeko-jabami
+  name: Yumeko Jabami
+  series: kakegurui
+- id: yuuichi-katagiri
+  name: Yuuichi Katagiri
+  series: tomodachi-game
+- id: zhou-yu
+  name: Zhou Yu
+  series: ravages-of-time
+- id: zhuo-fan
+  name: Zhuo Fan
+  series: magic-emperor

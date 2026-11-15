@@ -1,0 +1,54 @@
+D3rlord3 debunk and rebunk
+
+ made by scd_scal1489
+—————————————————————————
+Okay, this is a little debunk/rebunk about some things people seem
+to believe about this character.
+(I'm doing everything except completing the document
+for v8 Ayanokoji)
+
+-debunk
+
+-rebunk
+
+"Derlord makes good decisions"
+
+No, he didn't. Actually, his first big mistake was giving in to his curiosity; there was no need to go into structures that obviously couldn't appear in a normal world.
+
+His second biggest mistake was not going into creative mode. Why would anyone think it's a good idea not to use the game mode that makes you a god when an obviously paranormal situation arises?
+His third mistake was not leaving when he realized something was following him in the game.
+
+“He deceived a god”
+He didn't; in fact, it was the other way around: The king in yellow had him right where he wanted him and, in fact, achieved his goal by driving Derlord mad.
+
+Let's imagine that he actually did; then the king in yellow would have practically no noteworthy feats that would make him a strong opponent: he fell into the grass trap (any low-tier could have avoided this btw ), he let Derlord escape instead of finishing the job, etc. We know that everything the Yellow King did was for his own benefit, not because he was stupid.
+
+Here's a bit more explanation of the Yellow King's feats.
+
+DerLord himself also admitted that you can't outsmart the king in yellow.
+
+“He received infinite knowledge”
+
+Everyone assumes it did, but there's actually no evidence that the King in Yellow grants infinite knowledge; none of the original books mention that. At most, they mention that seeing the King in Yellow reveals information that drives you crazy. I bet no one can quote the part of the book that says, "Looking at the entity grants infinite knowledge."
+
+But let's imagine for a moment that it actually does:
+
+1. A human brain can't process that much knowledge in such a short time, so it wouldn't be very useful.
+
+Imagine an infinite library with a human librarian; the librarian will die before finding the book he is looking for because he will have to search through millions of books.
+
+2. Knowledge doesn't necessarily mean being more intelligent.
+
+Intelligence has been defined in many ways: the capacity for abstraction, logic, understanding, self-awareness, learning, emotional knowledge, reasoning, planning, creativity, critical thinking, and problem-solving.
+
+Imagine two cooks:
+
+Cook one creates their own recipes in a creative way.
+
+Cook two simply follows the recipe they already have.
+
+In my opinion, cook one is more intelligent because they can use their ability to create and reason.
+
+“D3rlord3 places the grass block next to the dirt block and then simply walks away with his back turned. From the ARG, we know his render distance was set to 8 chunks at the time, and it takes a player roughly 23 seconds to run 8 chunks. That means the grass block could have grown at any point during those 23 seconds, which would have completely invalidated the conclusion he later draws from it. On top of that, when he begins approaching the trap again, the dirt block would reenter his render distance, giving another roughly 20 seconds or so for the grass to grow. This once again introduces the risk of drawing an incorrect conclusion based purely on timing variance.”
+
+It seems someone did not see the ARG. Derlord lowers the rendering distance to 4 chunks, not 8. That said, the total time the block had to load was 18 seconds (taking into account the fact that it takes 9 seconds with the correct technique to advance 4 chunks) and considering that it takes more than a minute for a dirt block to appear, it makes the trap set by Derlord valid.

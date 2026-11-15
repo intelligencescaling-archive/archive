@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-doc
+category: doc
+title: PATRICK JANE DOC
+alt_titles:
+- PJ 4
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1e3cuJhqmwv27P_wU-VdzuwbORnIVpcUwzmfKCEMCYmY
+    google_id: 1e3cuJhqmwv27P_wU-VdzuwbORnIVpcUwzmfKCEMCYmY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 16992
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 54279033
+      sha256: a8a99cc3d43fe924e1ec9f6c02c45339e2a1f797385d9b9026db6c4a4aa008ad
+    - format: docx
+      name: document.docx
+      bytes: 60147770
+      sha256: cd0a833de136ee5cfa8b0f3144504a4221d0851f79d5b019d19352e8d1f77197
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 4
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: PATRICK JANE DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

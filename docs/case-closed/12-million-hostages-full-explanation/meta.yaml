@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 12-million-hostages-full-explanation
+category: doc
+title: 12 Million Hostages full explanation
+alt_titles:
+- Conan's feats in 12 million hostages
+authors: []
+series:
+- case-closed
+characters:
+- conan-edogawa
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1h-FJdQtwZbopZzP4YYy9a8ffl1QKpXKOUqohriNxy-g/edit?usp=drivesdk
+    google_id: 1h-FJdQtwZbopZzP4YYy9a8ffl1QKpXKOUqohriNxy-g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 2736
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 192600
+      sha256: f89c3637c4bbc1669e67efbe09432c4c1ea8ff1193ffe3420a4d253aaf336048
+    - format: docx
+      name: document.docx
+      bytes: 103681
+      sha256: be5e07c6b9809c838c7e9f2e2d67d34259ecf4962388df272d85d09fe1afaa55
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Conan's feats in 12 million hostages
+- library: remastered
+  section: Case Closed
+  character: Conan Edogawa (or Kudo Shinichi)
+  link_text: 12 Million Hostages full explanation
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

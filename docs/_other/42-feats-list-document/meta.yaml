@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 42-feats-list-document
+category: doc
+title: 42 Feats list Document
+alt_titles:
+- 42 Feat list
+authors:
+- name: Deducing Analyst Reawakened
+  source: doc-text
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18LBu-9xCHtS4jzujwDTPxLpHWnOx235x8BGdEqi02Js
+    google_id: 18LBu-9xCHtS4jzujwDTPxLpHWnOx235x8BGdEqi02Js
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 2075
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 119296
+      sha256: de106e5e313baf219271b9a90d1227bd69a9a756254898839bc56bedb2219864
+    - format: docx
+      name: document.docx
+      bytes: 146136
+      sha256: d250d78903131aad33d8bfb5b3f586428bd266fc4b49afdf94643da5b05f712f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: 42 Feat list
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

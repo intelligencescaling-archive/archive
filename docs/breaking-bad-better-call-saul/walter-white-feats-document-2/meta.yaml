@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-feats-document-2
+category: doc
+title: Walter White Feats Document
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1YYfMumvKu1IXL-0gXnQuljYUShfF5A0p9iec-YcwiPk/edit?usp=sharing
+    google_id: 1YYfMumvKu1IXL-0gXnQuljYUShfF5A0p9iec-YcwiPk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2567
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 610693
+      sha256: e72fb1d8426afb9b054be24e9a4c61aa7b91ead03bb1260641488ee6bc93d108
+    - format: docx
+      name: document.docx
+      bytes: 681966
+      sha256: 62f735d75acfa4b6793c0c57a761bd8fb1be169566177125da0cb3be8f528392
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'BCS + BB:'
+  link_text: Walter White feats document
+  note: (not finished yet)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

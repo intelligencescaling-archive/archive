@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kyoko-kirigiri-feats-wip
+category: doc
+title: Kyoko Kirigiri Feats(WIP)
+alt_titles:
+- Kyoko Kirigiri doc
+authors: []
+series:
+- danganronpa
+characters:
+- kyoko-kirigiri
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12EyL27CjpaID8mAClM-9YYIcWavThwV9RfQL4Jp9HQ4
+    google_id: 12EyL27CjpaID8mAClM-9YYIcWavThwV9RfQL4Jp9HQ4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 35
+    words: 13861
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1125747
+      sha256: 34fbd0a32d2ea6e3593d8bef437c5cb7b4ab4a214f27be9fa8a1ec6b36fd3abd
+    - format: docx
+      name: document.docx
+      bytes: 2404832
+      sha256: a5f0bb52cd28c4a78cbcf5b22e6df8f4b1ee0f377ad8c82a07abccdd8a6838bd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Kyoko Kirigiri doc
+  note: (WIP)(Old Version)
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kyoko Kirigiri doc
+  note: (WIP)(Old Version)
+- library: remastered
+  section: Danganronpa
+  character: Kyoko Kirigiri
+  link_text: Kyoko Kirigiri Feats(WIP)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

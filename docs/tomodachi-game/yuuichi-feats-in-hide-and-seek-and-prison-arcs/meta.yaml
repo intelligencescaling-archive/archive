@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-feats-in-hide-and-seek-and-prison-arcs
+category: doc
+title: Yuuichi feats in Hide and Seek and Prison arcs
+alt_titles:
+- Yuuichi Hide and seek+prison game
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1mQZTV4aFoS7fZ0AyY8fH1bqJrFNwOHLy
+    google_id: 1mQZTV4aFoS7fZ0AyY8fH1bqJrFNwOHLy
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1195
+    files:
+    - format: pdf
+      name: Yuuichi feats in Hide and Seek and Prison arcs .pdf
+      bytes: 57830
+      sha256: 82f364555cecf119c7ff17b670d5d1e16e6219031fb056c0a82c3f1d6891ad02
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi Hide and seek+prison game
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi feats in Hide and Seek and Prison arcs
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

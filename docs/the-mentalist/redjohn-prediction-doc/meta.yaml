@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: redjohn-prediction-doc
+category: doc
+title: RedJohn prediction doc
+alt_titles:
+- Red john
+authors: []
+series:
+- the-mentalist
+characters:
+- red-john
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1N-Wlma1Rvx3YiyyqZUE41hJ2CrFpoSeq7o33ctrrii0
+    google_id: 1N-Wlma1Rvx3YiyyqZUE41hJ2CrFpoSeq7o33ctrrii0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 41
+    words: 9536
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4896531
+      sha256: 152190af84a6a9dcf33b6a35b1c2c6dcfcb18612cbc621de4dfd966ecea57a7c
+    - format: docx
+      name: document.docx
+      bytes: 5465214
+      sha256: 80e17681980d478942782bc4ad87ac7dac0ab8cfe19724d8bf9d6f41ccf8b5f0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Red john
+- library: remastered
+  section: The Mentalist
+  character: Red John
+  link_text: RedJohn prediction doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

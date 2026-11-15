@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wjm-s-london-manipulation
+category: doc
+title: WJM's London Manipulation
+alt_titles:
+- Moriarty's London manipulation
+authors:
+- name: AwaKen
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jq6KdWjyLadvt3UxyVVa2HirnneB7FNEVLb-4kICChY
+    google_id: 1jq6KdWjyLadvt3UxyVVa2HirnneB7FNEVLb-4kICChY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1828
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2738070
+      sha256: 798aaf9da51a981e9e943b188d0affa6f4169736fe4718340f654f64137f7ef7
+    - format: docx
+      name: document.docx
+      bytes: 2109032
+      sha256: a434cd27164722413069af5f2da77482e1b88508d073aea4f2073411b2593043
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Moriarty's London manipulation
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

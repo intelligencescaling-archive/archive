@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pmh-rebunk-s-debunk
+category: doc
+title: PMH Rebunk's Debunk
+alt_titles:
+- PMH Rebunk’s Debunk
+authors:
+- name: PointScales
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1p5pqIHph0EW4ov6d1ckNFAF9TLMxMmAt4flu1dZzkGs
+    google_id: 1p5pqIHph0EW4ov6d1ckNFAF9TLMxMmAt4flu1dZzkGs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 4211
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 839002
+      sha256: 9cc90c1ed186021f02e1cfdbd92992c4676c217a32639045dd3d61b2d67bcaa3
+    - format: docx
+      name: document.docx
+      bytes: 1172242
+      sha256: bf61cc7b42888202e21b03be67cdfe91773d54153310da52a72f51e6c0f7e10d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: PMH Rebunk's Debunk
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: PMH Rebunk’s Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

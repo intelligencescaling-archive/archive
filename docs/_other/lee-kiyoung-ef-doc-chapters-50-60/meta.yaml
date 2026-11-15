@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lee-kiyoung-ef-doc-chapters-50-60
+category: doc
+title: Lee Kiyoung EF doc (Chapters 50-60)
+alt_titles:
+- Lee Kiyoung EF doc
+authors:
+- name: JDP
+  source: doc-text
+series: []
+characters:
+- lee-kiyoung
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1KRoCorKpN2wxbL1X7-FhAjNCKCJ8mx19W-oq6Sb6OgY/edit?usp=drivesdk
+    google_id: 1KRoCorKpN2wxbL1X7-FhAjNCKCJ8mx19W-oq6Sb6OgY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 3888
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2351790
+      sha256: 7d5f2ff119466c0c40391ee498e1e01891fb57449b27cb18351e616b59c34159
+    - format: docx
+      name: document.docx
+      bytes: 2209891
+      sha256: 287c4b001955a213432b3a1f73b5c0188523c14a44c8dfe0a97c477a912a3dc1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lee Kiyoung EF doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

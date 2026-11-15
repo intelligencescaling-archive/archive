@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: detailed-explanation-of-scd-categories
+category: doc
+title: Detailed Explanation Of SCD Categories
+alt_titles:
+- SCD Categories Doc 17
+authors:
+- name: Cheatspeed
+  source: doc-text
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1bzqtjI3-6VhNAI6LZbaGDVRfkYEVHSGCtKtD77OmSds/edit?usp=drivesdk
+    google_id: 1bzqtjI3-6VhNAI6LZbaGDVRfkYEVHSGCtKtD77OmSds
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 6256
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 681853
+      sha256: 621bd4d760e19cbf8fa26cf80273c569e6035fc2866d4a595d2637d54f9e4add
+    - format: docx
+      name: document.docx
+      bytes: 1227429
+      sha256: a0d5be33258601b64f6aa317d480f70e633ced0f5a97e56aba8b6437d9af9725
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 17
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

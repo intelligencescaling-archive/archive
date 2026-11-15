@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kt-friend-doc
+category: doc
+title: KT Friend Doc
+alt_titles:
+- KT Friend feats Doc
+authors: []
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1LX--WTP_SRUzSa7hPZT6E7IjehhLLMeW3Ai_qO6gSvs
+    google_id: 1LX--WTP_SRUzSa7hPZT6E7IjehhLLMeW3Ai_qO6gSvs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 6166
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 242900
+      sha256: f8b03d79dd75f05e1bcebcff711582c13a47e49e1050d3f4d944bf2e824c4736
+    - format: docx
+      name: document.docx
+      bytes: 367566
+      sha256: 95d332a2091661f46e5a8c946ff02302adf08266b7dbf0da6c9d5112e468e029
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: KT Friend feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

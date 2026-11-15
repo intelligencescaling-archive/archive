@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pmh-debunk
+category: doc
+title: PMH Debunk
+authors:
+- name: Pointscales
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18XPRguoOCcK1TPAIMMBD9BdGfXg_EovwP1QyOLFw7z4
+    google_id: 18XPRguoOCcK1TPAIMMBD9BdGfXg_EovwP1QyOLFw7z4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1060
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 258319
+      sha256: 2a53ce4ddd90a7834525f4d469392fa540a0ec1ec2de9b8ca123bc2ae0bb026f
+    - format: docx
+      name: document.docx
+      bytes: 310124
+      sha256: 3588a3dd912affda9ccd10c426c14d7271d6249a286215339f0b0d6781f01ad4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: PMH debunk
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: PMH Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

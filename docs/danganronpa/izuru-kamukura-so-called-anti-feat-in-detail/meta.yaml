@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-so-called-anti-feat-in-detail
+category: doc
+title: Izuru Kamukura so called ‘Anti Feat’ in Detail
+alt_titles:
+- Debunk of Izuru's supposed "anti-feat" and a few more details
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1jjSr5GYTT3iGEWA3jZwHthSceNl2XW3PA2z2XiAwEKk/edit?usp=drivesdk
+    google_id: 1jjSr5GYTT3iGEWA3jZwHthSceNl2XW3PA2z2XiAwEKk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1405
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4463445
+      sha256: b9f3ce21ead436329eae4cd0fcf0f16c7fb0da3068148774af7db44718bfa534
+    - format: docx
+      name: document.docx
+      bytes: 4480624
+      sha256: e17ca3c752fe12e2a685d7f3fc5d6ff41663bd7ced6c3a4d0cdbf74c5cc757d3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Debunk of Izuru's supposed "anti-feat" and a few more details
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura so called ‘Anti Feat’ in Detail
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

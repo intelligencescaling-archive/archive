@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-john-timothy-carter-strategy
+category: doc
+title: Red John Timothy Carter strategy
+authors: []
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- strategy
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1L8Qs9O-6KHgFVnSuk2ErzzafdPtnOFTA
+    google_id: 1L8Qs9O-6KHgFVnSuk2ErzzafdPtnOFTA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: RED JOHN TIMOTHY CARTER STRATEGY.docx
+      bytes: 68236
+      sha256: d1b9f49f643bcaa116325ffe924be24490abbbc9d45a0bb4ae9f166538a53df6
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Red John Timothy Carter strategy
+- library: remastered
+  section: The Mentalist
+  character: Red John
+  link_text: RED JOHN TIMOTHY CARTER STRATEGY
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

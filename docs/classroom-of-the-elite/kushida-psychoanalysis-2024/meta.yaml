@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kushida-psychoanalysis-2024
+category: doc
+title: Kushida Psychoanalysis 2024
+alt_titles:
+- Koji's Kushida Psychoanalysis feat
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Kamz8e378Ut6_-x324o9SdWsWbrbo69PRFZxw8ehPJg/edit?tab=t.0
+    google_id: 1Kamz8e378Ut6_-x324o9SdWsWbrbo69PRFZxw8ehPJg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 8983
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 293625
+      sha256: 77b4456af52840e25b867d1bbfdeca99c8f298f0238d0099b7d6acc7adcccf3c
+    - format: docx
+      name: document.docx
+      bytes: 306352
+      sha256: fd16fa8820fbcd7342978daad3c47ef13eb4cb2c4a033a1e813b39213565681a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's Kushida Psychoanalysis feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Kushida Psychoanalysis 2024
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

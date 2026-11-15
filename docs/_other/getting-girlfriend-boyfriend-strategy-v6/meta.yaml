@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: getting-girlfriend-boyfriend-strategy-v6
+category: doc
+title: Getting Girlfriend/Boyfriend Strategy v6
+alt_titles:
+- How to get a girlfriend
+authors: []
+series: []
+characters: []
+tags:
+- guide
+- humor
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1E8JnZWZaKerveS6fhkYwbCnB3G6aqO8n9438yszzTQ4/edit?usp=drivesdk
+    google_id: 1E8JnZWZaKerveS6fhkYwbCnB3G6aqO8n9438yszzTQ4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 187
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 239324
+      sha256: 7732be84b28cae7467cd28e06ddfd9215c74853504e5e99a6f2cc6439b80cc69
+    - format: docx
+      name: document.docx
+      bytes: 664351
+      sha256: d8446fb0fcf775264f498c1499016ae2ecc204642775d0740ed0b44e1b86db2c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: How to get a girlfriend
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

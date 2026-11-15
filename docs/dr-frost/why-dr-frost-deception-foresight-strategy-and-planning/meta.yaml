@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-dr-frost-deception-foresight-strategy-and-planning
+category: doc
+title: Why Dr. Frost Deception, Foresight, Strategy And Planning Aren’t Bad
+alt_titles:
+- Dr. Frost's Strategy, Planning, Deception and Foresight feats
+- Dr. Frost's Strategy, planning, foresight and deception feats
+authors:
+- name: Creepy-Ebb-3026
+  reddit: Creepy-Ebb-3026
+  source: doc-text
+series:
+- dr-frost
+characters:
+- nambong-baek
+tags:
+- feats
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/16b-53W5TjAa0DRIXs8P5FHJOvVAWwclJ3fQ8lWOTshQ/edit?usp=drivesdk
+    google_id: 16b-53W5TjAa0DRIXs8P5FHJOvVAWwclJ3fQ8lWOTshQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 4097
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6037099
+      sha256: 40820e7f00417a5eb44ee4df62514a739b2275bf41466ec169db2955bca0c9ea
+    - format: docx
+      name: document.docx
+      bytes: 6051884
+      sha256: 7dbfa0babc48ff7234095afe0b88fd2d4a00e500e7ba547ff6bdb97ef7dfafab
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DR.FROST:'
+  link_text: Dr. Frost's Strategy, Planning, Deception and Foresight feats
+- library: remastered
+  section: Dr. Frost
+  character: Nambong Baek
+  link_text: Dr. Frost's Strategy, planning, foresight and deception feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

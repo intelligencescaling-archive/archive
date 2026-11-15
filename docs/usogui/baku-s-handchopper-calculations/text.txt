@@ -1,0 +1,15 @@
+In the handchopper game, there is a loop that begins with hand positions (1, 4) for player 1 (black) and (3, 2) for player 2 (white). We'll just call this loop the "1432 loop" for short. This loop is special because the first person who breaks the loop will lose. Notice how it is white's turn to move at the beginning of the loop. This is important later.
+
+This page suggests that Baku goes through ALL of the possible game states permutationally, which basically means that he explores every game state by deriving every possible game state from a given state.
+
+________________
+
+The manga only shows us the first 3 rounds, but we know that Baku does use this permutational method at least until he finds the 1432 loop AND the consequences for the person who breaks the loop. To that end, a Python script was created to go through every game state permutationally, simulating the calculations Baku had to go through before the game. Now, these two images are the results of running the handchopper program that counts all of the game states cumulatively for every turn. The left photo shows in which turns does the loop appear in, and the right photo shows how many cumulative game states Baku calculates through for each turn. So for example, if Baku went through the game permutationally for the first 8 turns, he would've gone through 1,973 game states. If 13 turns, then 180,617 game states. Etc. Then we only need to establish when Baku stops calculating. The script can be found here: https://github.com/OnMyMamaWeLit/Hand-Chopper/blob/main/Hand%20chopper.py.
+
+________________
+
+Remember that when the 1432 loop begins, it is white's turn to play, which only happens on even numbered turns. The earliest even number turn where the loop was found in is turn 4. I originally thought that Baku only had to calculate until the end of the 1432 loop, and the loop itself only lasts 4 turns. So this means Baku calculated 1973 game states in total. NOTE this isn't a minimum, this is a wrong interpretation that I made in the past. The reason why this is wrong is Baku would have to calculate the consequences for breaking the loop as well. Specifically, we see Yakou mention one example instance of NeroNero breaking the loop (See the pic).
+
+________________
+
+Then let's calculate this example of breaking the loop and see by how much it extends the turn Baku calculates to. Again, we assume the loop starts in turn 4, the instance where the loop breaks is in turn 7, and the calculation extends to turn 16 before the game just continues in a loop where both players have one hand each (see image). Which means, Baku calculated to at least round 16, setting his number of calculations at ~2,734,000. All of this happening in the time it would take to entertain a few lines of thought.

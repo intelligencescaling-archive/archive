@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: character-comparison-doc
+category: doc
+title: Character comparison doc
+alt_titles:
+- Character writing categories 3
+authors: []
+series: []
+characters: []
+tags:
+- writing-categories
+- writing-analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1sHqJojwm3mb67LLRpKL7CwHO366fTEJqnhEsKQwB3z8/edit?tab=t.0
+    google_id: 1sHqJojwm3mb67LLRpKL7CwHO366fTEJqnhEsKQwB3z8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 208
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 82655
+      sha256: f900c0e380b9cd7867307da2a6b8c3a229a840561cd7ebbb6389353ef58e304a
+    - format: docx
+      name: document.docx
+      bytes: 9289
+      sha256: 57126b9407d7e49830b2e2a854e205f73fec313555195f6b6b40d22c6c9f9050
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Character writing categories 3
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-holmes-novel-document
+category: doc
+title: Sherlock Holmes novel Document
+alt_titles:
+- Sherlock novels
+authors: []
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+variant: Novels
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17CFmUwu4JcXBRvrk2DnbSX69CKkZZgLz_hFNlvpJdPY
+    google_id: 17CFmUwu4JcXBRvrk2DnbSX69CKkZZgLz_hFNlvpJdPY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 81
+    words: 10371
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 16502245
+      sha256: 2dded248f7e77a31fd1a70697e82fa036e210977fe1bf8ebcb3a3b8c46a5784f
+    - format: docx
+      name: document.docx
+      bytes: 14703659
+      sha256: 3c1f92430612678322e9061631f25459c82e3bc9636ba12cf4f6a7f894336cc7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sherlock novels
+- library: remastered
+  section: Sherlock Holmes
+  character: Sherlock Holmes - Novels
+  link_text: Sherlock Holmes novel Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

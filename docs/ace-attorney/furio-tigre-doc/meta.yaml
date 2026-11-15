@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: furio-tigre-doc
+category: doc
+title: FURIO TIGRE DOC
+authors: []
+series:
+- ace-attorney
+characters:
+- furio-tigre
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PGTuV9rd_jNDBRi5R3WefhYQ0egzcb_jpKIdpi_mrgA
+    google_id: 1PGTuV9rd_jNDBRi5R3WefhYQ0egzcb_jpKIdpi_mrgA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1189
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1780902
+      sha256: e7d064ae648d8e16dfd8dcb0258ea487f095d370243c27e0c3ec12a8be8409ea
+    - format: docx
+      name: document.docx
+      bytes: 1886491
+      sha256: abc58c07ef83864c468c9d8bba425cf995ef67d081eeaf2979b5c0a8588eefca
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Furio Tigre doc
+- library: remastered
+  section: Ace Attorney
+  character: Furio Tigre
+  link_text: FURIO TIGRE DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

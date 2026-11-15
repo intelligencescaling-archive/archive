@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kaguya-shinomiya-intelligence-doc
+category: doc
+title: Kaguya Shinomiya Intelligence Doc
+alt_titles:
+- Kaguya shinomiya feats
+authors: []
+series:
+- kaguya-sama-love-is-war
+characters:
+- kaguya-shinomiya
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13xRckpMedyuk9l-5DtQH3q0rBN68P1L-gBww6inNcwo
+    google_id: 13xRckpMedyuk9l-5DtQH3q0rBN68P1L-gBww6inNcwo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1233
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 872283
+      sha256: f03572968b888af6228ea7ffbb07ffab2d2f6ec98dd78ca6572ec7468499e30f
+    - format: docx
+      name: document.docx
+      bytes: 677106
+      sha256: 886aa0b7c11c1d17f4952b2092ebdda369a223e7f10ec5c5f3d4cda7644b5901
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kaguya shinomiya feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

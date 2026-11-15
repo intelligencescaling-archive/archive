@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: modification-of-mercurial-fulminate
+category: doc
+title: Modification of mercurial fulminate
+alt_titles:
+- Walter White's Modification of Mercurial Fulminate
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15IKoimC3gcfFHkZTL7kVZ0PxBfWiOtGSyxyxnTR1MEM/edit?usp=drivesdk
+    google_id: 15IKoimC3gcfFHkZTL7kVZ0PxBfWiOtGSyxyxnTR1MEM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 720
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 390801
+      sha256: 13f4403e2ddb2ed461961f711d1bafd44e7b740d6967420181ee57cc82f14a77
+    - format: docx
+      name: document.docx
+      bytes: 312320
+      sha256: 014c28672226af51d29f61d78a00eba55cf1008fe09503a2ab4332f37ff8da85
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'BCS + BB:'
+  link_text: Walter White's Modification of Mercurial Fulminate
+- library: remastered
+  section: Breaking Bad | Better Call Saul
+  character: Walter White
+  link_text: Walter White's Modification of Mercurial Fulminate
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cho-sang-woo
+category: doc
+title: Cho Sang Woo
+alt_titles:
+- Another Cho Sang-woo Doc
+authors:
+- name: umontrose
+  source: doc-text
+series:
+- squid-game
+characters:
+- player-218
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LZw_m6zeih6j4JN08Oba3cJGvOZ5fOi692gTd2XTG28/edit?usp=sharing
+    google_id: 1LZw_m6zeih6j4JN08Oba3cJGvOZ5fOi692gTd2XTG28
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 7140
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4443058
+      sha256: 5d920280e0968a1084042605e2c61f6f6e81fc8a8b58d8d056f0b994b188cc2e
+    - format: docx
+      name: document.docx
+      bytes: 7364247
+      sha256: f6c84b2c7faf364eb96d6434608aecfa0f515de90fa63991bf13749fdab76434
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Cho Sang-woo Doc
+- library: remastered
+  section: Squid Game
+  character: Player 218 (Cho Sang-woo)
+  link_text: Cho Sang Woo
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

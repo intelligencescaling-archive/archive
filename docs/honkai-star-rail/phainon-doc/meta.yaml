@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: phainon-doc
+category: doc
+title: Phainon Doc
+alt_titles:
+- Phainon Inverse Doc
+authors: []
+series:
+- honkai-star-rail
+characters:
+- phainon
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1BY5-m5rvpbCeHQLNyVzhxm80UrXG5rfw5VTii7GusMc/edit?usp=drivesdk
+    google_id: 1BY5-m5rvpbCeHQLNyVzhxm80UrXG5rfw5VTii7GusMc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 1132
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14528944
+      sha256: baa287ad7482cf79a4c7305ce25d28ae5eb61e54e3e7949e443b68422b39dd1c
+    - format: docx
+      name: document.docx
+      bytes: 12534208
+      sha256: d7b06ffd6e69a5b2f182a9787479f32412c903769426c1f8751478cf80e4ceaa
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Phainon Inverse Doc
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

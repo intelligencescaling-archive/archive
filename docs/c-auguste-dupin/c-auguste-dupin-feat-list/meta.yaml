@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: c-auguste-dupin-feat-list
+category: doc
+title: C. Auguste Dupin feat list
+alt_titles:
+- Auguste Dupin
+authors: []
+series:
+- c-auguste-dupin
+characters:
+- c-auguste-dupin
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15PQfBrAwpO4dey_Bqfx--_Amv-jMnHCclNzbsAbStx8/edit?usp=drivesdk
+    google_id: 15PQfBrAwpO4dey_Bqfx--_Amv-jMnHCclNzbsAbStx8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 4669
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1328626
+      sha256: 090e67677af1e2c0e9cbb62413f5dcd5edb2a1afd41516e401cfba3d162d27c0
+    - format: docx
+      name: document.docx
+      bytes: 2586951
+      sha256: b3a4bc188cd34e9a5a65575088df6e8aeb44d1f7a7267d5422915be4f6bf530a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Auguste Dupin
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

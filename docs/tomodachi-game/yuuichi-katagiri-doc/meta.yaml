@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-katagiri-doc
+category: doc
+title: Yuuichi Katagiri Doc
+alt_titles:
+- Yuuichi Katagiri Full Doc
+authors:
+- name: sar6astic
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1HAAm-WT8hzKW-2JDO8fIjLxwZG5djdhnamkr5bJi54U/edit?tab=t.tqyei0epbrfh
+    google_id: 1HAAm-WT8hzKW-2JDO8fIjLxwZG5djdhnamkr5bJi54U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 88
+    words: 31083
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2216510
+      sha256: 8b783a8fcb9b40abf00bee4591fc205aa0ea60591930dc38290bd04b49f6419a
+    - format: docx
+      name: document.docx
+      bytes: 4695622
+      sha256: c8c3790fab0289c1bd6c325884b34c5d5d21650366c73c8a84a2da5374c83899
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi Katagiri Full Doc
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi Katagiri Full Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

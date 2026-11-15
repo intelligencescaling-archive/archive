@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wu-zetian-doc-70
+category: doc
+title: Wu Zetian Doc 70%
+authors: []
+series:
+- real-life
+characters:
+- wu-zetian
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/16BHjrGpW9McqhgyFo94LDwGoD_kZD3I11o4U6TmhSnM/edit?usp=sharing
+    google_id: 16BHjrGpW9McqhgyFo94LDwGoD_kZD3I11o4U6TmhSnM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 4260
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2122254
+      sha256: 64950ee1f7f15ee1a81e7aa0ae492306d7516d0a927a49ba3472b637d23538e5
+    - format: docx
+      name: document.docx
+      bytes: 2203509
+      sha256: 514165959efc580b15dde20e04c1928f6102771791ceedfb790b7445e3b0b255
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Wu Zetian Doc 70%
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

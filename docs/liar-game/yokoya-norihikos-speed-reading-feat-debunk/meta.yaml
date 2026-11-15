@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-norihikos-speed-reading-feat-debunk
+category: doc
+title: Yokoya Norihiko’s Speed Reading Feat Debunk
+alt_titles:
+- yokoya book PSI debunk
+authors:
+- name: ReincarnatedDeveloped Supremacy
+  source: doc-text
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- feats
+- debunk
+- rebunk
+- psi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1697J9CBSKJGQeR3iE-YH2Qxx2Kv5rBS2cTaFR1q773o
+    google_id: 1697J9CBSKJGQeR3iE-YH2Qxx2Kv5rBS2cTaFR1q773o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1053
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 319067
+      sha256: 70d4b120a44b5802e7fd53ef3afdccafc4f7d0574ba49868341c38afb48b4a29
+    - format: docx
+      name: document.docx
+      bytes: 261113
+      sha256: 73b060e489bbf89a68c0be305d394d1df00179063faeae6a48a3ff54a915e5e1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: yokoya book PSI debunk
+  note: (got rebunked)
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: Yokoya Norihiko’s Speed Reading Feat Debunk
+  note: (REBUNKED)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

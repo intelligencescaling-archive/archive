@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichikawa-strategy
+category: doc
+title: Ichikawa Strategy
+alt_titles:
+- Akagi Ichikawa Strategy
+authors: []
+series:
+- akagi
+characters:
+- shigeru-akagi
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1jJ6jef5_-7cpl0QlSeJvQd31d0cVL9_H4L42nj6IirY/edit?usp=drivesdk
+    google_id: 1jJ6jef5_-7cpl0QlSeJvQd31d0cVL9_H4L42nj6IirY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 9732
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1991412
+      sha256: c01fee4bd85c61f97195e5e5f69318eb6a125602163247412cd93da89bb06719
+    - format: docx
+      name: document.docx
+      bytes: 1851474
+      sha256: e52019a222bb162905236908a57b571470ecc91eb12c34961739a67715d34f45
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akagi Ichikawa Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

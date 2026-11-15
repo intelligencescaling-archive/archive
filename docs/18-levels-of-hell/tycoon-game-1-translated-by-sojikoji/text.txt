@@ -1,0 +1,328 @@
+Monopoly Game & Stock Market Battle Strategy Guide
+Document Source: 18LOH PART 1 Update Frequency: Automatic (Every 5 minutes)
+I. Game Structure & Objectives
+1. Platform Dynamics
+* Setup: Nine players stand on nine individual, floating 2\text{ m}^2 platforms directly above an abyss.
+* Life-or-Death Mechanism: Each platform’s physical existence is tied directly to the operational survival of the player's assigned company. If a company goes bankrupt, its corresponding platform disintegrates, causing the player to fall into the abyss to their death.
+2. Player Roles & Victory Conditions
+* Roles: Each player operates a randomly assigned corporate legal entity (numbered Company 1 through Company 9).
+* Objective: Accumulate financial assets, protect corporate liquidity to prevent bankruptcy, and systematically eliminate opposing players (specifically the anonymous enemy force designated as “Phú Hào” / The Tycoon) through deliberate economic attacks and market manipulation.
+II. Production Mechanism (Supply Chain)
+The game enforces a closed, circular supply chain structure that strictly mandates inter-player transactions to achieve operational efficiency.
+       [ Company A ] ---> Sells Product A ---> [ Company B ]
+           ^                                       |
+           |                                       v
+     Sells Product H                        Sells Product B
+           |                                       |
+           +--- [ Company H ] <--- ... <--- [ Company C ]
+
+1. Product Distribution
+* Product Classification: There are 9 distinct product types: A, B, C, D, E, F, G, H, M.
+* Chain Structure: A given company’s output serves as the mandatory raw material input for the next company in the sequence (e.g., Company A sells Product A to Company B, which processes it into Product B and sells to Company C).
+* Assignment Distinction: A player’s Company Number is decoupled from their assigned Product Type. Corporate entity numbers are assigned at game start, whereas product designation is selected separately (e.g., Player 1 owns Company 1, but does not necessarily produce Product A).
+2. Trading Mechanics & Price Dynamics
+Transaction Channel
+	Raw Material Purchase Price
+	Finished Product Sale Price
+	Economic Impact
+	System (Market)
+	100\text{ points / unit} (High)
+	80\text{ points / unit} (Low)
+	Guarantees operational losses or razor-thin margins as overhead rises.
+	Inter-Player Market
+	\sim 90\text{ points / unit}
+	\sim 90\text{ points / unit}
+	Optimal. Saves cost for buyer (<100) while increasing profit for seller (>80).
+	3. Production Cycle & Overhead
++-----------------------------------------------------------------+
+|                   5-MINUTE PRODUCTION CYCLE                     |
++-----------------------------------------------------------------+
+|  1. Input Raw Materials (50,000 pts per 100 units)              |
+|  2. Pay Employee Wages (100 staff × 100 pts/min = 50,000 pts)   |
+|  3. Deduct Equipment Maintenance (50,000 pts per run)           |
++-----------------------------------------------------------------+
+                                 |
+                                 v
+            [ Machine Durability Check: Must stay ≥ 60 ]
+
+III. Stock Market Mechanics
+The stock market serves as the primary instrument for corporate takeover and opponent elimination.
+1. Valuation Baseline
+* Shares Issued: 1,000,000\text{ shares} per company at an initial evaluation price of 10\text{ points / share}.
+* Total Valuation: 10,000,000\text{ points}.
+2. Price Volatility Drivers
+* Depreciation Vectors: Mass sell-offs by corporate owners, mass employee layoffs, or unhandled random environmental events.
+* Appreciation Vectors: Expansion of production scale, workforce recruitment, and capital expenditure on new machinery.
+3. Forced Listing Mechanics (Mandatory Liquidation)
+If a legal entity's shareholding percentage rests exactly on a round decimal threshold (100%, 80%, 60%, 40%), the system automatically forces 20% of total shares onto the open market for public acquisition.
+Tactical Adjustment: Legal owners can repurchase micro-lots of equity to maintain an odd float percentage (e.g., holding 81% instead of 80%) to temporarily suppress the automated liquidation trigger.
+4. Corporate Control Thresholds
+* Majority Control (\mathbf{>51\%}): Any shareholder or coalition holding over 51% of total equity possesses the legal authority to convene a Shareholders' Meeting. This body can dictate strategic directions—such as forcing production expansion or withholding dividend distributions—overriding the legal owner's individual intent.
+IV. Core Survival Mechanics & Hostile Strategies
+1. Market Inflation & Expansion Pressure
+* Cost Inflation: Operating overhead (employee wages and maintenance costs) escalates continuously each cycle due to employee seniority and mechanical wear-and-tear.
+* Capital Requirements: To expand operations (hiring additional personnel and acquiring advanced machinery costing 8,000,000\text{ points}), companies require massive liquidity infusions.
+2. Equity Dilution
+* Secondary Offerings: Substantial production expansion requires issuing additional equity (e.g., issuing 1,000,000 new shares).
+* Dilution Risk: If existing shareholders lack capital to purchase their pro-rata share of newly issued equity, their ownership percentage is halved (e.g., from 51% to 25.5%), triggering an immediate loss of corporate control.
+3. Random Event Mechanics
+* Event Frequency: An environmental disaster, labor strike, or public scandal triggers every 5 minutes.
+* Resolution Time: Requires a dedicated cash expenditure within 1 minute. Failure to resolve results in immediate share price depreciation and severe inventory degradation.
+Key Takeover & Elimination Strategies
+                      STRATEGY OVERVIEW
+                             |
+      +----------------------+----------------------+
+      |                                             |
+[ COST-SQUEEZE TACTIC ]                     [ CHEAP TAKEOVER TACTIC ]
+      |                                             |
+1. Acquire >51% Equity                       1. Engineer panic sell-offs
+2. Force Aggressive Expansion                2. Depress share value to bottom
+3. Inflate Costs & Freeze Cash Flow          3. Acquire 100% cheap equity
+4. Trigger Insolvency & Bankruptcy           4. Re-expand to extract wealth
+
+* Method 1: The Cost-Squeeze Bankruptcy Trap
+   * Attackers acquire >51\% voting control in the target company.
+   * The voting block forces continuous, unneeded production expansion.
+   * Operating overhead skyrockets, and cash flow is redirected away from dividend reserves.
+   * The target company runs out of liquid cash to cover base payroll and maintenance, forcing immediate bankruptcy and platform collapse.
+* Method 2: The Depressed Market Takeover
+   * Negative information or mass layoffs are manipulated to crash target stock values (e.g., down to 5\text{ points}).
+   * Attackers consolidate floating shares at bottom values.
+   * The board then mandates production expansion, driving valuation back up (e.g., to 15\text{ points}) to harvest capital gains or exert operational control.
+Phase 1: The Encirclement Strategy
+1.1 Chamber Logic & Deductive Foundation
+The Secret Room Inference
+Upon entering the second secret room, all nine surviving players were localized onto individual 2\text{ m}^2 floating platforms facing terminal workstations running "Monopoly."
+Secret Room 1 Insights
+├── Subway employee sought revenge against the hospital.
+├── Child taken for treatment -> Denied -> Relapsed -> Died at Station No. 4.
+├── Illness was non-fatal initially (traveled by subway, not ambulance).
+└── Denied treatment despite non-fatal nature:
+   └── Organ theft: Donor organ reassigned to an influential/wealthy party.
+
+Analytical Conclusions
+1. The Target: The party responsible for organ theft possesses vast financial wealth or institutional authority (The Tycoon / "Phú Hào").
+2. Room 2 Design: Room 2 operates as a capitalist simulation. The player accumulating the highest overall capital, or the player falling into insolvency, faces execution. Controlling capital flow while suppressing individual company identities is mandatory for survival.
+3. Anonymity Principle: Revealing individual Company Numbers guarantees targeted encirclement by rival coalitions (2\text{ vs. }7 hostile dynamics). Therefore, absolute secrecy regarding corporate assignment is required.
+1.2 Multi-Tiered Strategic Execution
+1.2.1 The Short-Selling Trap (Identifying the Uninformed Player)
+Financial Calculations (Cycle 1)
+* Base Parameters: 100 employees earning 100\text{ points/min}.
+* Production Run: 5 minutes per batch.
+* Cost Structure:
+   * Raw Materials (100\text{ units} \times 5,000\text{ pts/unit} equivalent batch block): 500,000\text{ points}.
+   * Payroll (100\text{ staff} \times 100\text{ pts/min} \times 5\text{ min}): 50,000\text{ points}.
+   * Maintenance: 50,000\text{ points}.
+   * Total Baseline Cost: 600,000\text{ points}.
+* Market Event: 【Heavy Rain】 triggered. Resolution cost: 50,000\text{ labor} + 100,000\text{ repair} = 150,000\text{ points}.
+Executing the Short-Sell Strategy
+1. Chen Ran (Company No. 8) declines event resolution, accepting temporary product defect risks.
+2. Dumps 490,000\text{ shares} (49\% float) onto the open market at peak value (10\text{ points/share}).
+3. Massive supply influx drops share price to 9\text{ points}.
+4. Public event notification triggers panic selling among unaligned market participants, crashing the share price to a low of 5\text{ points}.
+5. Chen Ran repurchases 450,000\text{ shares} at 5\text{ points/share}.
+                   CHEN RAN'S SHORT-SELL FLOW
+
+ [ Holds 100% Equity ]
+          |
+          v
+ Sells 490,000 Shares @ 9-10 pts  --->  Gross Revenue: 3,200,000 pts
+          |
+          v (Market Panics: Stock Drops to 5 pts)
+          |
+ Buys 450,000 Shares @ 5 pts      --->  Total Outlay:   2,250,000 pts
+          |
+          v
+ [ NET PROFIT: +950,000 pts | RECOVERED OWNERSHIP: 96% ]
+
+Trap Results & Identification
+* Primary Objective: The maneuver identifies Zhou Chen (Company No. 6) as an inexperienced trader. Zhou Chen purchased the largest block of depreciating shares, mistaking the drop for a simple valuation discount.
+* Zhou Chen's Capital Error: Zhou Chen attempted to offset costs by firing his workforce to re-hire cheaper labor. This triggered mass layoffs, causing Company No. 6's valuation to collapse further.
+* Forced Listing Trigger: Rival players consolidated minority stakes in Company No. 6, pushing Zhou Chen's ownership to exactly 80%, which triggered the automated system rule forcing an additional 20\% equity listing. Zhou Chen was forced into panic repurchases, trapping his liquid reserves.
+1.2.2 Exploiting the "Foolish Sheep" (Cycle 2 Expansion Phase)
+Cost Escalation Context
+* Workforce Scale: 300 employees per company.
+* Base Overhead per Batch:
+   * Payroll (300\text{ staff} \times 200\text{ pts/min} \times 5\text{ min}): 300,000\text{ points}.
+   * Equipment Maintenance: 300,000\text{ points}.
+   * Total Operational Cost: 600,000\text{ points/batch}.
+* Expansion Requirement: Next-tier machine acquisition costs 8,000,000\text{ points}.
+                 CYCLE 2 STRATEGIC DIVERGENCE
+                              |
+      +-----------------------+-----------------------+
+      |                                               |
+[ NAIVE STRATEGY ]                           [ CALCULATED STRATEGY ]
+Sells equity to raise 8M capital.            Withholds expansion; dumps shares
+Result: Ownership diluted, loses             at peak (15 pts) to gather cash.
+control after secondary issuance.            Result: Massive cash liquidity,
+                                            prepares financial attack.
+
+Tactical Breakdown
+1. Company No. 5 (The Boss) dumps 290,000\text{ shares} at peak value (15\text{ points} down to 12\text{ points}), netting \sim 5.88\text{ million points}.
+2. Chen Ran (Company No. 8) identifies Company No. 5's play and mirrors the dumping tactic, securing 12.38\text{ million points} in cash reserves while retaining 51\% voting control.
+3. Strategic Intent: Neither Company No. 5 nor Company No. 8 immediately expands production. Instead, they convert equity to liquid cash to wage a war of attrition against secondary shareholders—specifically squeezing Zhou Chen (Company No. 6).
+1.2.3 Zhou Chen's "Tail-Cutting" Survival Calculations
+Trapped with depreciating assets and unable to meet upcoming operational overhead, Zhou Chen calculates an aggressive exit strategy to avoid immediate liquidation.
+                      ZHOU CHEN'S CAPITAL GAP
+
+ Required Capital (Equipment + Overhead + Materials) :  12.0M points
+ Available Assets (Cash + Equity Liquidation)        : - 5.2M points
+ -------------------------------------------------------------------
+ Net Funding Deficit                                 :   6.8M points
+ Target Capital Raised via 31% Equity Issue          :   2.8M points
+ -------------------------------------------------------------------
+ Target Floor Share Price Required                   :   9 points/share
+
+Operational Adjustments
+1. Massive Staff Reduction: Zhou Chen executes mass layoffs to intentionally depress Company No. 6's share price from 15 down to a bottom value of 9\text{ points}.
+2. Equity Listing: Dumps 31\% of total shares onto the market, reducing his personal stake to 49%.
+3. Strategic Offer: By dropping legal ownership below 51\%, he grants hostile shareholders combined voting control. Hostile players are forced to purchase these shares to prevent Company No. 6 from collapsing, as a total bankruptcy would flood the market with unbacked shares and disrupt overall market pricing.
+1.2.4 Cao Xiu’s Multi-Layered Strategic Deception
+Cao Xiu maneuvers to manipulate the contract system and exploit rival players through linguistic ambiguity surrounding the classical text Liang Di Shu (Letter from Two Places).
++-----------------------------------------------------------------------+
+|                    CAO XIU'S 4-LAYERED STRATEGY                       |
++-----------------------------------------------------------------------+
+| Layer 1: Language Trap                                                |
+|   Creates false association between himself and Company No. 6.         |
+| Layer 2: Financial Trap                                               |
+|   Binds rival capital into a mandatory 4,000,000 pt expansion promise.|
+| Layer 3: Target Elimination                                           |
+|   Uses coded literary clues to pass false company numbers to          |
+|   uninformed players (targeting Zhang Meili).                         |
+| Layer 4: Tail-Cutting Insurance                                       |
+|   Forces external parties into equity ownership, making them          |
+|   financially invested in keeping his primary firm operational.        |
++-----------------------------------------------------------------------+
+
+Linguistic Clue Analysis (Liang Di Shu)
+* Classical Reference: A poem written by Zhuo Wenjun to Sima Xiangru featuring an ascending numerical sequence (1\text{ to }10).
+* Omitted Character: Sima Xiangru's letter contained numbers 1\text{ through }10,000, deliberately omitting 100,000,000 (億 - Yi), homophonous with "Remembrance" (憶).
+* Final Poetic Line: "Ah, my dear, if only in the next life you were female and I were male." (Expressing role reversal/inversion).
+                      THE NUMERICAL INVERSION
+
+ Zhou Chen's Public Entity ID               : Company No. 6
+ Inversion Principle ("Female/Male Swap")   : Rotate 6 -> 9
+ ----------------------------------------------------------------
+ Actual Entity Assignment for Cao Xiu       : Company No. 9
+
+1.2.5 The "Three Sheep" Encirclement Matrix
+Through coordinated market pressure, the dominant players (Chen Ran, The Boss, and the Three-Star players) lock three target entities into parasitic financial structures.
++-------------------------------------------------------------------------+
+|                        THE THREE SHEEP MATRIX                           |
++-------------------------------------------------------------------------+
+|                                                                         |
+|  [ Company 6: Zhou Chen ] <--- Parasitized By --- [ Company 5: Zhang ]  |
+|          ^                                              ^               |
+|          |                                              |               |
+|          +----------------- Parasitized By -------------+               |
+|                                                         |               |
+|  [ Company 9: Cao Xiu  ] -------------------------------+               |
+|                                                                         |
++-------------------------------------------------------------------------+
+| CONSEQUENCE: Company 6 operates at a loss to generate dividends for    |
+| Companies 5 and 9. All three entities remain locked in continuous      |
+| payroll debt, preventing share buybacks and guaranteeing elimination.   |
++-------------------------------------------------------------------------+
+
+Final Share Distribution Matrix (Post-Dilution Phase)
+Shareholder
+	Equity Percentage
+	Strategic Status
+	Zhou Chen (Legal Entity)
+	24.5%
+	Operating Host (Forced Labor)
+	Cao Xiu (Company No. 9)
+	14.5%
+	Parasitic Entity
+	Zhang Meili (Company No. 5 - Secondary)
+	13.5%
+	Parasitic Entity
+	Chen Ran (Company No. 8)
+	12.0%
+	Controlling Shareholder Block
+	The Boss (Company No. 5 - Primary)
+	8.0%
+	Controlling Shareholder Block
+	Rival Market Coalition (Nos. 1, 2, 3, 4)
+	27.5%
+	External Capital Holders
+	Operational Overhead Squeeze (Expanded Scale)
+* Materials Input: 300\text{ units} across supply chains.
+* Base Overhead per Batch: 3,900,000\text{ points} (600k\text{ labor/maint} + 100\text{ new staff costs} + 150k\text{ advanced maint}).
+* Batch Gross Revenue: 4,800,000\text{ points}.
+* Net Margin: 900,000\text{ points}.
+   * Zhou Chen Share: 220,500\text{ points}.
+   * Cao Xiu Share: 130,500\text{ points}.
+   * Zhang Meili Share: 121,500\text{ points}.
+* Strategic Result: Profit margins fail to match inflationary cost scaling. The three target entities are effectively converted into working assets for the remaining seven companies.
+1.3 Resolution: Mutual Conflict & Absolute Elimination
+                           TACTICAL CHRONOLOGY
+                                   |
+ [ Shareholder Vote ] -> Dividends withheld; Cao Xiu left with <510k cash.
+                                   |
+ [ Skill Activation ] -> Cao Xiu attempts "Push Chaos to Zero".
+                                   |
+ [ Skill Activation ] -> Zhang Meili casts "Death Focus" on Chen Ran & Qiu Yinong.
+                                   |
+ [ Counter-Maneuver ] -> Chen Ran ties safety line to desk; steps off platform.
+                                   |
+ [ Skill Activation ] -> Chen Ran triggers "Eternal Kingdom" from midair.
+                                   |
+ [ Execution Phase  ] -> Hacks nullified; Qiu Yinong executes 3 targets via firearm.
+
+1.3.1 Corporate Squeeze & Dividend Denial
+1. Chen Ran (Company No. 8) calls a formal Shareholders' Meeting for Company No. 6 to vote on profit allocation:
+   * Option A: Retain earnings for expansion.
+   * Option B: Distribute liquid dividends.
+2. Cao Xiu (14.5\%) and Zhou Chen (24.5\%) vote to distribute dividends to prevent insolvency.
+3. Zhang Meili (13.5\%) defects, voting with the majority block to retain earnings. Total vote to freeze dividends reaches 61%.
+4. Impact: Cao Xiu's liquid reserves drop below 510,000\text{ points}, leaving him unable to cover operating costs for more than two cycles.
+1.3.2 Tactical Skill Combat & Final Execution
+Cao Xiu's Counter-Play
+* Item Used: Liar Killer.
+* Ability Trigger: “Push Chaos to Zero!”
+* Effect: Resets personal cause-and-effect state, liquidating his 11.5\% parasitic holding in Company No. 6 back into his personal reserve account, yielding \sim 3,000,000\text{ points} in liquidity.
+Zhang Meili's Assault
+* Item Used: Liar Killer.
+* Ability Trigger: “Death Focus!”
+* Visual/Game Effect: Summons floating, basin-sized eyes that lock onto Chen Ran and Qiu Yinong.
+* Restrictions: Forces targets into a "Studying State." Any non-decoding actions (using skills, speaking, moving, firing weapons) trigger forced physical ejection into the abyss.
+                         CHEN RAN'S FALL TACTIC
+
+ [ Stationed Floor Platform ]
+            |
+            | (Ties anchor line to welded workstation desk)
+            v
+ [ Steps Off Edge into Abyss ] ---> Triggers "Death Focus" removal movement
+            |
+            v (Suspended safely in midair by anchor line)
+            |
+ [ Triggers Skill: "Eternal Kingdom" ]
+            |
+            v
+ [ NULLIFIES ALL ACTIVE HACKS & SKILLS IN CHAMBER ]
+
+The Counter-Elimination Execution
+1. During the darkness phase created by skill activations, Chen Ran retrieves an anchor rope from his inventory, securing one end to his ankle and the other to the desk welded to the platform structure.
+2. Chen Ran intentionally triggers the penalty movement of Death Focus by stepping off the edge, falling into the abyss while anchored safely by the line.
+3. From midair, Chen Ran activates his core ability: “Liar Killer • Eternal Kingdom!”
+\text{Eternal Kingdom Effect} \implies \text{Nullify All Player Hacks \& Environmental Buffs}
+1. Absolute skill nullification dispels Death Focus instantly.
+2. Qiu Yinong draws her firearm without restriction and executes Zhang Meili, Cao Xiu, and Zhou Chen with shots to the heart.
+3. The platforms beneath the three target players disintegrate, dropping their bodies into the abyss.
+4. Chen Ran climbs the anchor line back onto his platform, securing complete victory in the initial commercial battle and eliminating all three target entities simultaneously.
+Strategic Summary Matrix
++------------------------------------------------------------------------+
+|                      PHASE 1 ELIMINATION RECAP                         |
++------------------------------------------------------------------------+
+| Target Entity  | Initial Error            | Final Mechanism            |
++----------------+--------------------------+----------------------------+
+| Zhou Chen      | Misunderstood short-sell | Trapped by equity dilution |
+| (Company No. 6)| mechanics; mass layoffs  | & targeted execution       |
++----------------+--------------------------+----------------------------+
+| Cao Xiu        | Strategic overexposure via| Dividend freeze & skill    |
+| (Company No. 9)| complex literary trap    | nullification counter      |
++----------------+--------------------------+----------------------------+
+| Zhang Meili    | Defected from coalition; | Targeted execution after   |
+| (Company No. 5)| trusted false safety net | "Death Focus" dispelled    |
++----------------+--------------------------+----------------------------+

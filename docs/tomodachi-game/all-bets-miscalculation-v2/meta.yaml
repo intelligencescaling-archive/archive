@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: all-bets-miscalculation-v2
+category: doc
+title: All-Bets Miscalculation V2
+alt_titles:
+- All Bet Miscalculation V2
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nRAPjit97REi1l4uPaWpu6WfIG40tfIEDkrsoDxieCo
+    google_id: 1nRAPjit97REi1l4uPaWpu6WfIG40tfIEDkrsoDxieCo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2583
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1670845
+      sha256: f7b640254c6e6384891d6705befcf5b69a0db1fb0b9d9e2aa36c14a17f3817b5
+    - format: docx
+      name: document.docx
+      bytes: 1814336
+      sha256: d9d4587046e24d279a10a1fb585482820168f04673da17112667384634b5cabd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: All Bet Miscalculation V2
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: All-Bets Miscalculation V2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

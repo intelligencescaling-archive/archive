@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: crazy-mita-doc
+category: doc
+title: Crazy Mita Doc
+authors: []
+series:
+- miside
+characters:
+- crazy-mita
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1OUr_jMC5OtH2X0carMw4re2waJ7pRWCAkgcBvHH1jBE/edit?usp=drivesdk
+    google_id: 1OUr_jMC5OtH2X0carMw4re2waJ7pRWCAkgcBvHH1jBE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2458
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 177126
+      sha256: 32ea54e09c2142f1166182f0ece3229fe3c02340b47a3ddb05178b328f3fd977
+    - format: docx
+      name: document.docx
+      bytes: 780830
+      sha256: a9579100429839cfe32913115825713893d72ab3152d9938cb0d5bb535be0fa1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Crazy Mita Doc
+  note: (not finished yet)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

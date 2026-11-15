@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rick-sanchez-s-jailbreak-strategy-analysis
+category: doc
+title: Rick Sanchez's JailBreak Strategy analysis.
+alt_titles:
+- Rick Sanchez
+authors:
+- name: Amin
+  source: doc-text
+series:
+- rick-and-morty
+characters:
+- rick-sanchez
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cbJuYiAztoU9ULIDJ2Rel3X5gWnDgUGHGU0dTo1AaM0
+    google_id: 1cbJuYiAztoU9ULIDJ2Rel3X5gWnDgUGHGU0dTo1AaM0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 5255
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 247605
+      sha256: f38dd956a7bef0044de8dced98fb3b507acd59fbc0921c2a15debe1c1c68397f
+    - format: docx
+      name: document.docx
+      bytes: 165300
+      sha256: 01abe7edb02e19337034b7be607d5e1f4c2487e1b9b7d24cc7e1df65c77eea3d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Rick Sanchez
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

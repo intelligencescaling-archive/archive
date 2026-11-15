@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-wammy-s-house-la-feat-v2
+category: doc
+title: L Lawliet Wammy's House LA feat V2
+authors:
+- name: TravelingZebra
+  source: doc-text
+- name: bakusfather1029
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10mDmj4acUj-z1mVUMACR_CZVyDKYW4LQliP5YywIi4g/edit?usp=drivesdk
+    google_id: 10mDmj4acUj-z1mVUMACR_CZVyDKYW4LQliP5YywIi4g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1871
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 364539
+      sha256: 8e90926a75a5d11e64541921007567995fa818a829a5b4239be0b06ec609fafd
+    - format: docx
+      name: document.docx
+      bytes: 274663
+      sha256: b218e286a4b4fd25a4130d31ecd8a00869301130b2830dc5adc3e89b11f60410
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L Lawliet Wammy's House LA Feat V2
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L Lawliet Wammy's House LA Feat V2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

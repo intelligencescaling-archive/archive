@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: junpei-tenmyouji-feats-doc-999-vlr-ztd
+category: doc
+title: Junpei Tenmyouji feats doc (999/VLR/ZTD)
+alt_titles:
+- Junpei Tenmyouji feats doc
+authors: []
+series:
+- zero-escape
+characters:
+- junpei-tenmyouji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18yioW0lzYDQDcJM1L3mZw5sKa-U9i5yoiPCU41sL2Fo
+    google_id: 18yioW0lzYDQDcJM1L3mZw5sKa-U9i5yoiPCU41sL2Fo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 137
+    words: 28811
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9091303
+      sha256: 055b55e0994fda8907bcd7bf848ebf5d0b7e1c7804b4b04e54bc9740e8df782f
+    - format: docx
+      name: document.docx
+      bytes: 23406109
+      sha256: b3ed552d8eaa0525d86da0193cb17e821e597ff7a5771e85ed14109234546657
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Junpei Tenmyouji feats doc
+  note: (Revamp Version)
+- library: remastered
+  section: Zero Escape
+  character: Junpei Tenmyouji
+  link_text: Junpei Tenmyouji feats doc (999/VLR/ZTD)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

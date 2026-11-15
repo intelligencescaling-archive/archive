@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: norman-doc-part-one
+category: doc
+title: Norman Doc Part one
+alt_titles:
+- Norman doc
+authors:
+- name: DL
+  source: doc-text
+series:
+- the-promised-neverland
+characters:
+- norman
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13euEO-OUDp940E91CtwxeueL7vRjwkYFXJIM1hToATs
+    google_id: 13euEO-OUDp940E91CtwxeueL7vRjwkYFXJIM1hToATs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 676
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9486687
+      sha256: 77f162a32cdc8899cde7af4b4c88493ded3c3106b3cc444f0660d257f43c56f5
+    - format: docx
+      name: document.docx
+      bytes: 8893233
+      sha256: 29c41753db4c8b51ae5959fa16a0cc4dbea23a65134fccdb8a43ff595cdbd09a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Norman doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

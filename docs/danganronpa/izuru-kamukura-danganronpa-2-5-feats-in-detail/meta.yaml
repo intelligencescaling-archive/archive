@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-danganronpa-2-5-feats-in-detail
+category: doc
+title: Izuru Kamukura Danganronpa 2.5 Feats In detail
+alt_titles:
+- Izuru kamukura 1
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1g4XWLwHoskbJvtroVxF43nPg-D5mv3zer6KY0aMkK1Q/edit?usp=drivesdk
+    google_id: 1g4XWLwHoskbJvtroVxF43nPg-D5mv3zer6KY0aMkK1Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2177
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1519662
+      sha256: 61e98b4639edfd8e5d227eeee2f23582140854b36a261ed7db8431823110cdc0
+    - format: docx
+      name: document.docx
+      bytes: 1729048
+      sha256: ae10923bde54337087a3f348f3c5d279a1e513567aa217773a468c899c9f087a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Izuru kamukura 1
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura Danganronpa 2.5 Feats in detail
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

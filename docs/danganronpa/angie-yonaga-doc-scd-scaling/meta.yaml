@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: angie-yonaga-doc-scd-scaling
+category: doc
+title: Angie Yonaga Doc - SCD Scaling
+alt_titles:
+- Angie Yonaga Doc
+- Angie Yonada Doc - SCD Scaling
+authors: []
+series:
+- danganronpa
+characters:
+- angie-yonada
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1G9-dBiNzIfSf9ixcOrSTAaJ0kWL9X8VdQC-eu3HFhaU
+    google_id: 1G9-dBiNzIfSf9ixcOrSTAaJ0kWL9X8VdQC-eu3HFhaU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 6621
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 120247455
+      sha256: bdd92b49cfe54d0d96aaecbbd9f4f41344e69572923a86ea238d48bc953886cb
+    - format: docx
+      name: document.docx
+      bytes: 107457854
+      sha256: b49130282207a18e145b496f11982f92862c33a880101a68beb6fe87a27796b2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Angie Yonaga Doc
+- library: remastered
+  section: Danganronpa
+  character: Angie Yonada
+  link_text: Angie Yonada Doc - SCD Scaling
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

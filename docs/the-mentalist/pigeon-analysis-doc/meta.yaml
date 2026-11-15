@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pigeon-analysis-doc
+category: doc
+title: Pigeon Analysis Doc
+alt_titles:
+- PJ Pigeon strategy analysis
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1bbWPPR0KdFrCbQV7rj3BuRZBKogLxz4EET5-Gwbe_Eg
+    google_id: 1bbWPPR0KdFrCbQV7rj3BuRZBKogLxz4EET5-Gwbe_Eg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 45
+    words: 15372
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 741336
+      sha256: c1d9f2658a03173bcc39023fcfb002fa608bb98b5d33fb6302882b3968e0d3b8
+    - format: docx
+      name: document.docx
+      bytes: 2124004
+      sha256: 98af43b07ca9ed22f2afd4d48d98256a411bd9a1d63e21b6a9d8b46d490d4345
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ Pigeon strategy analysis
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Pigeon Analysis Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

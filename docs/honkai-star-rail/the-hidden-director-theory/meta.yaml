@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-hidden-director-theory
+category: doc
+title: The Hidden Director Theory
+alt_titles:
+- Sparkle's Hidden Director Theory
+authors:
+- name: lena_fox8
+  source: doc-text
+series:
+- honkai-star-rail
+characters:
+- sparkle
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LzejAeLUzCvQImtowYf2zD5lacO7bMdUQTTzROcCMYk/edit?usp=drivesdk
+    google_id: 1LzejAeLUzCvQImtowYf2zD5lacO7bMdUQTTzROcCMYk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 4200
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 850024
+      sha256: 00e3fd34e3632b8c2e2b800e33dbbb4376542e3fe0e4ae3fd801016071ac611c
+    - format: docx
+      name: document.docx
+      bytes: 613175
+      sha256: ccb48a4cc7c0dfeac625677dcaade12cefd33b83eb32eedddbcabcb653998b55
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sparkle's Hidden Director Theory
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: adsz-dokuman
+category: doc
+title: Adsız doküman
+alt_titles:
+- Matsuda Theory Near
+- (MT) Matsuda's Theory Nate River (Near)
+authors: []
+series:
+- death-note
+characters:
+- nate-river
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1T2rCT0dmcI9X4YpWV9MutLbazaAIQomOt-pwARR16i8/edit?usp=drivesdk
+    google_id: 1T2rCT0dmcI9X4YpWV9MutLbazaAIQomOt-pwARR16i8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 865
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 48008
+      sha256: bbfadfbc7668d81e5544b2aed8c9f112f89f59f5f337759ff6f509f81a48c934
+    - format: docx
+      name: document.docx
+      bytes: 8859
+      sha256: 4b923a60f68daffcd52074aef3275478ff610cf6ab5bb95493f65507ae5f54ba
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Matsuda Theory Near
+- library: remastered
+  section: Death Note
+  character: Nate River (Near)
+  link_text: (MT) Matsuda's Theory Nate River (Near)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

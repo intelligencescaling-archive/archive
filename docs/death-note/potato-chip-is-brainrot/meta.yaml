@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: potato-chip-is-brainrot
+category: doc
+title: POTATO CHIP IS BRAINROT
+alt_titles:
+- Potato Chip strategy is unrealistic
+authors: []
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1dKf0SxPj5U_dp0M7Xut6LB0tNfHbhbqR-I2ju8KZ1VU
+    google_id: 1dKf0SxPj5U_dp0M7Xut6LB0tNfHbhbqR-I2ju8KZ1VU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 47
+    words: 8474
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19086801
+      sha256: c9994eafe9b9d3e00ecc22819e7aa7ba5af761ed541356424255fba5739323b6
+    - format: docx
+      name: document.docx
+      bytes: 16642799
+      sha256: bd24a6001759769485631a391833853fd9bf6c11ab9d83b5cf22be81278da5a4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Potato Chip strategy is unrealistic
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: POTATO CHIP IS BRAINROT
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

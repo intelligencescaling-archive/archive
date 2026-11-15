@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-s-speed-reading-fsiq-calc-and-rebunk
+category: doc
+title: Yokoya's Speed Reading FSIQ Calc and Rebunk
+alt_titles:
+- Yokoya book speed reading calculation and Rebunk
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- rebunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1B8Fd2tHfyrioSiIWEPUNlKf9T4QNYu0zgSYVdy38Pe0/edit?usp=drivesdk
+    google_id: 1B8Fd2tHfyrioSiIWEPUNlKf9T4QNYu0zgSYVdy38Pe0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 2142
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1713979
+      sha256: b6a7a834bd41d153eaddff9a31e45b73827e28d539cb9a1b377c850b05657535
+    - format: docx
+      name: document.docx
+      bytes: 1817508
+      sha256: 7c04eeb7857cacbd76dba92a45c728708035a539b6f74e8abbe733abd7037648
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Yokoya book speed reading calculation and Rebunk
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: Yokoya's Speed Reading FSIQ Calc and Rebunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

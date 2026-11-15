@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: teen-baku-doc
+category: doc
+title: Teen Baku Doc
+authors:
+- name: Axolotol4044/KitchenCoyote7942
+  source: doc-text
+series:
+- usogui
+characters:
+- baku-madarame
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19O10hKtn5MlQjV3nS3r6DQNGd7py_NuiorpJgRNzAak
+    google_id: 19O10hKtn5MlQjV3nS3r6DQNGd7py_NuiorpJgRNzAak
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 148
+    words: 10946
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25466435
+      sha256: 6cc2c0dea2ba91ffd3430bc1ff3670ea0a235dc49c8333a6cb38f0657b495597
+    - format: docx
+      name: document.docx
+      bytes: 80705804
+      sha256: df470d69bd0ab67828832b90a81fea4ff30b21ede4586042352e2757a644560a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Teen Baku Doc
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Teen Baku Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

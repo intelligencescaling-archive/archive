@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jigsaw-manipulation-feat-games
+category: doc
+title: Jigsaw Manipulation Feat (games)
+alt_titles:
+- Jigsaw Manipulation Feat
+authors:
+- name: Bittus
+  source: doc-text
+series:
+- saw
+characters:
+- john-kramer
+tags:
+- feats
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1IJJK6CdGA3-dmV-gtw1sLEd868E819rJ2edsOjBA4NY/edit?usp=drivesdk
+    google_id: 1IJJK6CdGA3-dmV-gtw1sLEd868E819rJ2edsOjBA4NY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2020
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 376688
+      sha256: 1546858bbff6ca4162055fdbbce546505c1cb0b6e0cc5eea2d6926764f9b7f8c
+    - format: docx
+      name: document.docx
+      bytes: 1114699
+      sha256: 68b48b669b9a71ea0dbb3c1ff1dce4d89aec175f6ffff5d935488f08bc83d84d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jigsaw Manipulation Feat
+- library: remastered
+  section: Saw
+  character: John Kramer
+  link_text: Jigsaw Manipulation Feat (Games)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

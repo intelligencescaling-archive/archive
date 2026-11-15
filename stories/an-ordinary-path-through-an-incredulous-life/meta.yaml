@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: an-ordinary-path-through-an-incredulous-life
+category: story
+title: An Ordinary Path through an Incredulous Life
+alt_titles:
+- An Ordinary Path through the Incredulous (Shen Jihan)
+authors: []
+series: []
+characters:
+- shen-jihan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1dMR3ZHIbHT1AsTZBpqXsa8XUdhXU3WaaX8iK0f3bAbY/edit?usp=drivesdk
+    google_id: 1dMR3ZHIbHT1AsTZBpqXsa8XUdhXU3WaaX8iK0f3bAbY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 68
+    words: 19308
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 841716
+      sha256: 0092d74b110eeee4795c50b18ba162e6501e3ca073a392de21653fc7fa4483bb
+    - format: docx
+      name: document.docx
+      bytes: 559509
+      sha256: 0604815572b9fd4912d245b658e6c8aa0263faf1b69e716c887ad3c1591f5def
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: stories
+  section: A
+  link_text: An Ordinary Path through the Incredulous (Shen Jihan)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

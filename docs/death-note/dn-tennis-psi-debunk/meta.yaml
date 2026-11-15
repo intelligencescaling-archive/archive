@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dn-tennis-psi-debunk
+category: doc
+title: 'DN: Tennis PSI debunk'
+alt_titles:
+- DN Tennis PSI Debunk
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+- light-yagami
+tags:
+- debunk
+- psi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18boA2OxleQ4rEDgt38AsI78c3tzKr1CAoUJy7ky_y2s/edit?usp=drivesdk
+    google_id: 18boA2OxleQ4rEDgt38AsI78c3tzKr1CAoUJy7ky_y2s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 441
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 78818
+      sha256: ff7fb24b5b21d9a97ca37bbd0985128fb6e390ba130b93672f8c3254447789b8
+    - format: docx
+      name: document.docx
+      bytes: 318380
+      sha256: 8306f5c87f80b38cabb6b8825c85056e27a179d022ddf9d40a7facda0819ab86
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: DN Tennis PSI Debunk
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: 'DN: Tennis PSI Debunk'
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: 'DN: Tennis PSI Debunk'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

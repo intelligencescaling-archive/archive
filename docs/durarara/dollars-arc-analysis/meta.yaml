@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dollars-arc-analysis
+category: doc
+title: Dollars Arc Analysis
+alt_titles:
+- Izaya dollar arc analysis
+authors:
+- name: Cleax
+  source: doc-text
+- name: Luga
+  source: doc-text
+series:
+- durarara
+characters:
+- izaya-orihara
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1x6f-c7EPvdvGTZ16cQZG3VIXMSLv23ViC0GtEzF7CUc
+    google_id: 1x6f-c7EPvdvGTZ16cQZG3VIXMSLv23ViC0GtEzF7CUc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 4134
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 151234
+      sha256: ac3b1e5cc0916a6fce883c4c9e9f02e979428b88e436da806aae3cd6e25a3612
+    - format: docx
+      name: document.docx
+      bytes: 198954
+      sha256: f890765fdf5420c093ae7d17aeb6862e031f691d0db9819cf3376d6a22cd8e12
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Izaya dollar arc analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

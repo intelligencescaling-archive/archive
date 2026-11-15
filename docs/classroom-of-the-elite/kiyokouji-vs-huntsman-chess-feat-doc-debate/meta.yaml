@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiyokouji-vs-huntsman-chess-feat-doc-debate
+category: doc
+title: Kiyokouji vs Huntsman Chess feat doc debate
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1bhQyoMheHri0S0eC6wezcPL4YCWGcRXoEhFrZ403_H0
+    google_id: 1bhQyoMheHri0S0eC6wezcPL4YCWGcRXoEhFrZ403_H0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 57
+    words: 1403
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 22023991
+      sha256: 568402a889bfb101b0fee6d2c5b7af1b3d652b2c177d9ccba052d2bef186074d
+    - format: docx
+      name: document.docx
+      bytes: 34616658
+      sha256: 1afbd9fcd9672d135909defcb2ce7825f3c31d7a275fe78dd794e86a8790539f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Kiyokouji vs Huntsman Chess feat doc debate
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Kiyokouji vs Huntsman Chess feat doc debate
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

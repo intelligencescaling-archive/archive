@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: anime-lelouch-document-1-million-miracles-strategy
+category: doc
+title: 'Anime Lelouch document: 1 million miracles strategy'
+alt_titles:
+- Lelouch 1 million miracles strategy
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pFUSb3q5lh0PCX80xCKAUxUrSgzzcygLL7MELSJ1mO8
+    google_id: 1pFUSb3q5lh0PCX80xCKAUxUrSgzzcygLL7MELSJ1mO8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 5323
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 270386
+      sha256: 343ca719070fe9a6773a13215a42c67ceaa7745b026c505b528bde06435bfaa0
+    - format: docx
+      name: document.docx
+      bytes: 26331
+      sha256: c87137f796af5628c536300c8542f517f94074f936bca809aa19e4bfdbd62394
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch 1 million miracles strategy
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: 'Anime Lelouch document: 1 million miracles strategy'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

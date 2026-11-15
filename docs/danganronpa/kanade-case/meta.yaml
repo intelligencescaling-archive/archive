@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-case
+category: doc
+title: KANADE CASE
+alt_titles:
+- Why Divine Luck Wasn't Needed for Kanade's Case
+authors: []
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1w_4T5j8qr9iA1xiPYsSBmYXdn9vqpSJDEuYpoHAQaNk/edit?tab=t.0
+    google_id: 1w_4T5j8qr9iA1xiPYsSBmYXdn9vqpSJDEuYpoHAQaNk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 4270
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 121055
+      sha256: d96ce69d4446bf22957010e431fa461dfa7490d3b1ae92ab97f189e56ad9b9af
+    - format: docx
+      name: document.docx
+      bytes: 325159
+      sha256: 6f833e5cbf1a3988def3f937a6326babf6fd1b10dbc91cad08a8820c62b6f5d6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Why Divine Luck Wasn't Needed for Kanade's Case
+- library: remastered
+  section: Danganronpa
+  character: Kanade Otonokoji
+  link_text: Why Divine Luck Wasn't Needed for Kanade's Case
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

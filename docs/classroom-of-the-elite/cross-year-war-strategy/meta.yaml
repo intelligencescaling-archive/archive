@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cross-year-war-strategy
+category: doc
+title: Cross Year War Strategy
+alt_titles:
+- Cross year war
+- Cross-Year War Strategy
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WYRSZU6sa73wm-8TQcg2REs-A06ay2CtWStqSkcmCQY
+    google_id: 1WYRSZU6sa73wm-8TQcg2REs-A06ay2CtWStqSkcmCQY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 4202
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 193718
+      sha256: 9d545448d8d1d7bce64252d2eed62800d5dca07f7a9a97b322cb11789791088a
+    - format: docx
+      name: document.docx
+      bytes: 749193
+      sha256: 1c43b4e55e779d495129e6eab17680efc9428e0d2f2df3f3561805b0d74af0e7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Cross year war
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Cross-Year War Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

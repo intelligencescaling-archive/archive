@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-holmes-bbc-english
+category: doc
+title: Sherlock Holmes BBC (english)
+alt_titles:
+- BBC Sherlock Doc
+authors: []
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+variant: BBC
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=16Omk2dsUVos-wD3VK08Aveh628_QilrpTPpS3QBgRC4
+    google_id: 16Omk2dsUVos-wD3VK08Aveh628_QilrpTPpS3QBgRC4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 115
+    words: 34518
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1478744
+      sha256: 425f45cb4ee2c3fdd3e450209f2f4b8abaffae4a397f12b1863433c4e22db883
+    - format: docx
+      name: document.docx
+      bytes: 339558
+      sha256: 17c008e0751401494b7676b8e2a51d77f6c4822d61397c75f2956ac84d858064
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: BBC Sherlock Doc
+  note: (English Version)
+- library: remastered
+  section: Sherlock Holmes
+  character: Sherlock Holmes (BBC)
+  link_text: Sherlock Holmes BBC (English)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

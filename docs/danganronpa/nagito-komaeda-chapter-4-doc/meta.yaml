@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagito-komaeda-chapter-4-doc
+category: doc
+title: Nagito Komaeda chapter 4 doc
+alt_titles:
+- Nagito Chapter 4 document
+authors:
+- name: GXTHIE
+  source: doc-text
+series:
+- danganronpa
+characters:
+- nagito-komaeda
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1X6OiVFhxRE8WIycI4C-358NWqA3ysiae5GiP4d47g0c
+    google_id: 1X6OiVFhxRE8WIycI4C-358NWqA3ysiae5GiP4d47g0c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 6098
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7066320
+      sha256: fa8572ba35422a93f73938be9ab4502d22c0db63669dafdfc7278f1d884754db
+    - format: docx
+      name: document.docx
+      bytes: 16186683
+      sha256: 1a49356cda2269d29709b0c20fdffc1158a298b06668b53c6e1584db1dd4e482
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Nagito Chapter 4 document
+- library: remastered
+  section: Danganronpa
+  character: Nagito Komaeda
+  link_text: Nagito Komaeda chapter 4 doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

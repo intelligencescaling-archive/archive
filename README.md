@@ -7,7 +7,19 @@ the links die.
 
 Browse it at **[intelscaling.com](https://intelscaling.com)** (coming soon).
 
-> 🚧 **Work in progress.** The archive structure and the first ~950 documents are being prepared.
+> 🚧 **Work in progress.** The first 958 entries were filled in automatically from the community
+> libraries and are still being reviewed (`review.status: auto`).
+
+## Layout
+
+| Path | What's there |
+|---|---|
+| `docs/<series>/<item>/` | One folder per doc: `meta.yaml` + `text.txt` (plain text for search) |
+| `docs/_other/<item>/` | Docs not about one series: SCD categories, scaling systems, guides |
+| `stories/<item>/` | Original stories and fan fiction |
+| `data/` | Series and character registries |
+| `schema/` | The entry format: [schema/README.md](schema/README.md) |
+| `scripts/validate.py` | Checks every entry (also runs on each push) |
 
 ## What's archived
 

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: break-the-mirror
+category: doc
+title: break the mirror
+alt_titles:
+- break the mirror feat
+authors: []
+series: []
+characters:
+- hark
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1SjHrf7jm9fGPM01gWhUXbJqP6lkQSHyjKGU8Y6i8How/edit?usp=drivesdk
+    google_id: 1SjHrf7jm9fGPM01gWhUXbJqP6lkQSHyjKGU8Y6i8How
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 461
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 28707
+      sha256: 13323a4fe090ea3cb675fd73d531426b9d1b5e3f40fdd79d83cd574aec97a60a
+    - format: docx
+      name: document.docx
+      bytes: 7636
+      sha256: ec448d8178c1347f6d675ee59501fdc866f96006b9c7628ea061eb4ff1442a58
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: break the mirror feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

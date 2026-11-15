@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: self-revelation-strategy-analysis
+category: doc
+title: Self revelation strategy analysis
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1E4RlDrb6mtnYHyQM0tdi49BmLOovYEDg0DHYfMEc4Ew/edit?tab=t.0
+    google_id: 1E4RlDrb6mtnYHyQM0tdi49BmLOovYEDg0DHYfMEc4Ew
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 4983
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 55035003
+      sha256: 7285f87bd6eecb2ee6344f6b287bf08dcc318ec52d4ee0ce68749cfd8ae17ca1
+    - format: docx
+      name: document.docx
+      bytes: 48778228
+      sha256: 5d9c0ea98b88f9fab1780bb44088bebebbd35afe48df52bebc579ee269bff3ea
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Self Revelation Strategy Analysis
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: Self Revelation Strategy Analysis
+  note: (Made by Echonomy_Echo in Reddit)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

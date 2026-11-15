@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: proven-ability
+category: doc
+title: Proven Ability
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_wAML2kpScRJcUw9OxRkPzIozxVB-YOWkygvEKwVpTU
+    google_id: 1_wAML2kpScRJcUw9OxRkPzIozxVB-YOWkygvEKwVpTU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 4684
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 295010
+      sha256: f5dd2b6c2ae7a962416db5f0f00f4d10c635dbf5a4da30a8de8e2a0dae948c11
+    - format: docx
+      name: document.docx
+      bytes: 1028334
+      sha256: dda1925a145017662f6b77206455977ea531aab22884b07316cc0cd08ba021d4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Proven ability
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

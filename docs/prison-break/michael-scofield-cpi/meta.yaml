@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-scofield-cpi
+category: doc
+title: Michael Scofield CPI
+alt_titles:
+- Micheal Scofield s4e15 CPI feat
+authors: []
+series:
+- prison-break
+characters:
+- michael-scofield
+tags:
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RnN8Hv1KbrH0y0VlMGUdSZfQ682q_AuG36Hg6zhhREk
+    google_id: 1RnN8Hv1KbrH0y0VlMGUdSZfQ682q_AuG36Hg6zhhREk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 820
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5194061
+      sha256: 9d24283b208e265def91cc5fc19753ac1d831860793ff5206b2c2b65f9af1ac5
+    - format: docx
+      name: document.docx
+      bytes: 4356746
+      sha256: 54febee01f4e582950460c34104ee4a1185bdc61f4b13a3cd3078d848d5086fe
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Micheal Scofield s4e15 CPI feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

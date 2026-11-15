@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sou-hiyori-analysis
+category: doc
+title: Sou Hiyori Analysis
+alt_titles:
+- Shin Tsukimi analysis
+authors: []
+series:
+- your-turn-to-die
+characters:
+- shin-tsukimi
+- sou-hiyori
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1kP9wT5oA0UkEh0aN4aLZBkhV2YV6Q3qouquT8uQGX1k
+    google_id: 1kP9wT5oA0UkEh0aN4aLZBkhV2YV6Q3qouquT8uQGX1k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 115
+    words: 76377
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4247986
+      sha256: 46bc05913ca987d4912b56a052124ca9f73bc0aa3cc362e2962729469e3b0eec
+    - format: docx
+      name: document.docx
+      bytes: 4167379
+      sha256: 0aac81999ef0909380936276e1ba22560e96b1b1001c94f56064351aa60edc29
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'YTTD:'
+  link_text: Shin Tsukimi analysis
+- library: remastered
+  section: Your Turn to Die
+  character: Shin Tsukimi | Sou Hiyori
+  link_text: Sou Hiyori Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

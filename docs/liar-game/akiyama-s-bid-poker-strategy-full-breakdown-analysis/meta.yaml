@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-bid-poker-strategy-full-breakdown-analysis
+category: doc
+title: Akiyama's Bid Poker strategy FULL BREAKDOWN analysis
+alt_titles:
+- Akiyama Bid Poker Strategy Full Breakdown analysis
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1RfYI9SFg2DvG_7G6igSO2Z6rghIBhJo8Tl5qV3WLxkk/edit?tab=t.0
+    google_id: 1RfYI9SFg2DvG_7G6igSO2Z6rghIBhJo8Tl5qV3WLxkk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2665
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 250837
+      sha256: c50c8c14a38da6a737a6b68deaed9bff964d239dc051b892371d00a301c2d680
+    - format: docx
+      name: document.docx
+      bytes: 123423
+      sha256: 9099a18259b956b76a2aa0ea26e7ff36a225c62bf2c220b7d2ed17a18b2191c4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama's Bid Poker Strategy Full Breakdown analysis
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama Bid Poker Strategy Full Breakdown analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

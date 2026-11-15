@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: doc-of-akira-oneshot
+category: doc
+title: doc of Akira Oneshot
+alt_titles:
+- Minoru Tanaka
+authors: []
+series:
+- death-note
+characters:
+- minoru-tanaka
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1E6zGWOEum8C20GrI6GYRnlUt2rzth7PRZrsimab_1BM
+    google_id: 1E6zGWOEum8C20GrI6GYRnlUt2rzth7PRZrsimab_1BM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 794
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 934594
+      sha256: 5a3d117c463b8f742e465332505e9d4b67d7b4ddda35c73a5a55401a5eb2a185
+    - format: docx
+      name: document.docx
+      bytes: 635221
+      sha256: c10668ee96455012eac7f6a535dc3076a539a0fdcc3b75aa1991642fe515c204
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Minoru Tanaka
+- library: remastered
+  section: Death Note
+  character: Minoru Tanaka
+  link_text: doc of Akira Oneshot
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

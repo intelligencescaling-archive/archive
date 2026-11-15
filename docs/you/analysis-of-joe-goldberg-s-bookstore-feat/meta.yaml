@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-joe-goldberg-s-bookstore-feat
+category: doc
+title: Analysis of Joe Goldberg's bookstore Feat
+authors:
+- name: Cheatspeed
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/161uZqE7GaqBuS0LZs1sWCX4ABC-JyQYQzwPkc2FopZc/edit?usp=drivesdk
+    google_id: 161uZqE7GaqBuS0LZs1sWCX4ABC-JyQYQzwPkc2FopZc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2598
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 275092
+      sha256: b6007c709842ceb12b6ec98b6397d020fc52e11736b3d432727d8301f93c149a
+    - format: docx
+      name: document.docx
+      bytes: 852169
+      sha256: a1e24e16858a4222b716e37673e455be26386c750d7c79c240a53ce080e28d4a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Analysis of Joe Goldberg's bookstore Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-doc-feats-overlordthresh
+category: doc
+title: Walter White Doc (Feats) - OverLordThresh
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1lpNxdpS_85f7CJs5G3cP3X_uNt_ZW9N8/view
+    google_id: 1lpNxdpS_85f7CJs5G3cP3X_uNt_ZW9N8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Walter White Doc (Feats) - OverLordThresh.docx
+      bytes: 546648
+      sha256: 4f0e83f5929e5987f11273f8d4bd34fa6ae97730db79c0e5259d3806ab8d01d2
+found_in:
+- library: remastered
+  section: Breaking Bad | Better Call Saul
+  character: Walter White
+  link_text: Walter White Doc (Feats) - OverLordThresh
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-s-pandemic-game-mock-round-strategy-full-breakdown
+category: doc
+title: Yokoya's Pandemic Game Mock Round strategy FULL BREAKDOWN analysis & OVERLOOKED REASONING feat
+alt_titles:
+- Yokoya's Pandemic Game Mock Round Strategy
+- Yokoya Pandemic Game Mock Round Strategy
+authors: []
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- feats
+- analysis
+- strategy
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1EX9RwcoAOvm8VXEtuIPu2NwBKX6sUwWdeMGLUWQr-Os/edit?tab=t.0
+    google_id: 1EX9RwcoAOvm8VXEtuIPu2NwBKX6sUwWdeMGLUWQr-Os
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1876
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 307324
+      sha256: a121d0a3bbb4f01940cda459d1e0188c530b85f557407bb1cb6b007596ea13db
+    - format: docx
+      name: document.docx
+      bytes: 193590
+      sha256: dfe4d9b5cbe67f0ecf8cf6b902922fe390c57c635ef96dc33b0adb6fcc9888e6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Yokoya's Pandemic Game Mock Round Strategy
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: Yokoya Pandemic Game Mock Round Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

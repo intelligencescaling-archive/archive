@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-world-game-10-minds-one-planet
+category: story
+title: The World Game — 10 Minds, One Planet
+alt_titles:
+- The World Game - 10 Minds, One Planet
+authors: []
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/0/d/1VRIt30odonvCSE9PL7cUpJzgJeEaQGodzMmGkNpf1RA/mobilebasic
+    google_id: 1VRIt30odonvCSE9PL7cUpJzgJeEaQGodzMmGkNpf1RA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 13536
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 504919
+      sha256: 8b6f4312b6c2df4f80d6cdba5c780e57b221e815bb8c0244d826bb8307fd9d97
+    - format: docx
+      name: document.docx
+      bytes: 44739
+      sha256: b08ac52fc9c34ba7c0eec850c3b1d2ebdf51e555e725ff0236606008a545c022
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: stories
+  section: T
+  link_text: The World Game - 10 Minds, One Planet
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

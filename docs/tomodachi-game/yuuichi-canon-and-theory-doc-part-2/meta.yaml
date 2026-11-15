@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-canon-and-theory-doc-part-2
+category: doc
+title: YUUICHI CANON AND THEORY DOC PART 2
+alt_titles:
+- YUUICHI (Canon and theory) doc part 2
+- YUUICHI KATAGIRI CANON AND THEORY DOC PART 2
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Zo1n_5EVOmoJIdRn3nrpyHuY9cABJcMGQs18jc4inrE/edit?usp=drivesdk
+    google_id: 1Zo1n_5EVOmoJIdRn3nrpyHuY9cABJcMGQs18jc4inrE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 91
+    words: 21020
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7819571
+      sha256: 3d96212211072f6d73e9496568a75003eb1abaf016add97164d0d35a1bc03c9d
+    - format: docx
+      name: document.docx
+      bytes: 7734910
+      sha256: 70b9d497a55e2fca0f9a009eba59446bb4275f44b955094aa7790da13f4fefe9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: YUUICHI (Canon and theory) doc part 2
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: YUUICHI KATAGIRI CANON AND THEORY DOC PART 2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

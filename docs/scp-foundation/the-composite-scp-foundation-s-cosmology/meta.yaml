@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-composite-scp-foundation-s-cosmology
+category: doc
+title: The Composite SCP Foundation's Cosmology
+alt_titles:
+- Composite SCP Foundation Cosmology
+authors:
+- name: G Z
+  source: doc-text
+series:
+- scp-foundation
+characters: []
+tags:
+- cosmology
+- wis
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-1wmP1cAaLhgKHuctcb4rTk8JCz9xzNpZOEko775Tyc/edit?tab=t.0#heading=h.vqm2fy7o1xor
+    google_id: 1-1wmP1cAaLhgKHuctcb4rTk8JCz9xzNpZOEko775Tyc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 174
+    words: 5968
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 67958283
+      sha256: 0e9bfd0831ccd11eb1b308538a578512c39a63439634220f68b8670dc6a12fa7
+    - format: docx
+      name: document.docx
+      bytes: 62664496
+      sha256: e57f7f98eb4a2b86410bc06ba1ebb623b0927c9c4d5ce4f9040ae0274c7dc83f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: Composite SCP Foundation Cosmology
+  note: (WIS)
+- library: remastered
+  section: SCP Foundation
+  character: SCP Foundation Cosmology
+  link_text: The Composite SCP Foundation's Cosmology
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

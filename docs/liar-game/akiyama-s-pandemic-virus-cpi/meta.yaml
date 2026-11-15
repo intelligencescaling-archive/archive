@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-pandemic-virus-cpi
+category: doc
+title: Akiyama's Pandemic Vírus CPI
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1q7oiK4H39CW7D8uNR-1WKowPB2hJZNwD/view
+    google_id: 1q7oiK4H39CW7D8uNR-1WKowPB2hJZNwD
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 1476
+    files:
+    - format: pdf
+      name: Akiyama's Pandemic Virus CPI.pdf
+      bytes: 683075
+      sha256: c0f22534eb11d12d723331e664da726164301c5a65402f87fc1e7c4fdb679e0b
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama's Pandemic Vírus CPI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

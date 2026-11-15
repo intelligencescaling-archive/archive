@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jin-kiriharas-full-scale-iq-feat
+category: doc
+title: Jin Kirihara’s Full Scale IQ Feat
+alt_titles:
+- Jin Kirihara's FSIQ
+authors:
+- name: Slapstick_Editz
+  source: doc-text
+series:
+- lies-fraud-and-psychic-ability-school
+characters:
+- jin-kirihara
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12ZX-qm2ohc4Lv1_9-mUO8W5BqlL0gOQgqplKbT3PzTU/edit?usp=drivesdk
+    google_id: 12ZX-qm2ohc4Lv1_9-mUO8W5BqlL0gOQgqplKbT3PzTU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 2037
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 111715
+      sha256: d290d8982f46899e817b3aacef57900f60bc24557faba23a8fdb6daa48b3db00
+    - format: docx
+      name: document.docx
+      bytes: 13773
+      sha256: 7df0998b32171232aaa7ac629c3688a3edf779f91996dca4f82b8882162687d3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jin Kirihara's FSIQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

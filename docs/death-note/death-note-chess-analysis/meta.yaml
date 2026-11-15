@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: death-note-chess-analysis
+category: doc
+title: Death note chess analysis
+alt_titles:
+- 'Death Note: The Last Name (Chess Analysis)'
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+- light-yagami
+variant: Change the World
+tags:
+- analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1hif6Zq1i0q0pngRpMehcV1Nj1LQ3vhUB
+    google_id: 1hif6Zq1i0q0pngRpMehcV1Nj1LQ3vhUB
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Death Note_ The Last Name (Chess Analysis).docx
+      bytes: 7657467
+      sha256: 5a08cc8886d6204f86ada635c9ed8e7cd7bbf85c36da10c10094bc6cdff7ba2e
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Death note chess analysis
+- library: remastered
+  section: Death Note
+  character: L Lawliet - Change the World
+  link_text: 'Death Note: The Last Name (Chess Analysis)'
+- library: remastered
+  section: Death Note
+  character: Light Yagami - Change the World
+  link_text: 'Death Note: The Last Name (Chess Analysis)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

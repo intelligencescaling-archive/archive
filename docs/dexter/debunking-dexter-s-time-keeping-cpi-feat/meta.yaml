@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-dexter-s-time-keeping-cpi-feat
+category: doc
+title: Debunking Dexter's Time Keeping CPI Feat
+alt_titles:
+- Dexter time keeping CPI feat debunk
+authors: []
+series:
+- dexter
+characters:
+- dexter-morgan
+tags:
+- feats
+- debunk
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12cud2aVra05vGYzTUPqDNFKpANIpXkixC-q7KT1J-Kg
+    google_id: 12cud2aVra05vGYzTUPqDNFKpANIpXkixC-q7KT1J-Kg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 754
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5554747
+      sha256: daba3661e6a2c9556d2e493e5c1b399b186594a47e451ad6c7bb83b6c40414b2
+    - format: docx
+      name: document.docx
+      bytes: 4070473
+      sha256: c4df0256221b396fad3eea3b149ca4a43588054503390692ffcd09ed7a4e5802
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: DEXTER
+  link_text: Dexter time keeping CPI feat debunk
+- library: remastered
+  section: Dexter
+  character: Dexter Morgan
+  link_text: Debunking Dexter's Time Keeping CPI Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

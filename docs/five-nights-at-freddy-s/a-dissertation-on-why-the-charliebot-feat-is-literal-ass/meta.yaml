@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-dissertation-on-why-the-charliebot-feat-is-literal-ass
+category: doc
+title: A Dissertation on why the Charliebot feat is literal ass
+alt_titles:
+- Charliebots Debunk
+- Charliebot feat debunk
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1kh6N1q9XyG0feC8ygM30psFoNw3KLkPRoaIr5-enh9w
+    google_id: 1kh6N1q9XyG0feC8ygM30psFoNw3KLkPRoaIr5-enh9w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1718
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 118755
+      sha256: ac6dc3553f659ebb68cba19c582ee5526ebc159d5db8584e98ac952acaafd232
+    - format: docx
+      name: document.docx
+      bytes: 11197
+      sha256: 2bda8c15c6afcbd7ac07e63530d889dbdb6972b3ad9b25646f38cb3a785cdaa8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Charliebots Debunk
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Charliebot feat debunk
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: Henry Emily
+  link_text: A Dissertation on why the Charliebot feat is literal ass
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

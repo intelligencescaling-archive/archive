@@ -1,0 +1,980 @@
+The Third Revival Round of the Liar Game tournament is the third opportunity given to losers to re-enter the competition. The game is divided into two groups. Group A takes place in an internet café and is hosted by Silien, while Group B is held in a nightclub and is hosted by Rabelais.
+The participants are all losers from Round IV, and those who win in this revival round will move on to Round V.
+Rules of the game:
+The game in this round is called Bid Poker. Each player is given a tablet and must register their fingerprint on it so that no one else can use it. Each player also receives 300 gold coins, 1 coin equals 1 million yen, meaning each has 300 million yen. Through the tablets, players use these coins to bid on lots of cards. With the cards, players must form a valid hand, such as three of a kind. First, the lots are presented (labeled with letters, e.g., Lot A, Lot B, etc.), and players have 30 minutes to consider. Then, bidding begins in alphabetical order, lasting 5 minutes per lot. Once bidding for a lot ends, the winner (highest bidder) is announced, and the next lot’s bidding begins. (After 5 minutes, the names and bid amounts of all bidders are displayed on the screen.)
+This is the deal sequence: announce lots → 30‑minute consideration → bid on Lot A (5 minutes) → announce Lot A winner → bid on Lot B (5 minutes) → announce Lot B winner → and so on.
+After the initial bidding (deal phase) ends, the draw phase begins. Players have 10 minutes to decide which cards to discard; this is the “discard phase.” All discarded cards are grouped into lots in the order they are discarded and by player (for example, if Player X is first and discards the 4♦ and 5♦, Lot A will contain 4♦ and 5♦. If Player Y is second and discards only the 3♣, Lot B will contain 3♣). Each player can create one lot per draw phase. When the discard time ends, the lots are announced and players have 30 minutes to consider. Then bidding begins again in alphabetical order, with 5 minutes per lot; this is the “lot auction stage.” Winners are announced, and the next lot begins. After all auctions conclude, the next draw phase begins, repeating this process. There are five draw phases, after which rankings are determined.
+If a player cannot form a valid hand (at least a high card) or has fewer than 5 cards in hand, they are unranked, become a “pig,” and must pay a 150 million yen penalty. If two players bid the same amount on a lot, the one who bid first wins the lot.
+The first-place player receives a 100 million yen bonus, the second-place player 40 million yen, and the third-place player 10 million yen. The prize increases if the number of “pigs” increases. For example, with two pigs instead of one, first place gets 200 million yen, second 80 million, and third 20 million. With three pigs, first gets 300 million, second 120 million, and third 30 million.
+At the end of the game, each player only returns 100 million yen of the initial 300 million; they keep the remainder as winnings.
+Violence results in a 100 million yen penalty.
+Stealing another player’s tablet also results in a 100 million yen penalty.
+Destroying another player’s tablet is not allowed.
+Once a bid is submitted, it cannot be changed or canceled.
+Players may draw (discard and bid) five times (five draw phases). Players are allowed to discard unwanted cards, but new cards can only be obtained through bidding.
+If a player’s discarded cards are bought, they receive the money. If not, the cards return to them.
+This is the discard phase process: players choose cards to discard (30 minutes), discard lots are announced, 30 minutes to consider, 5‑minute bidding on Lot A → announce winner → bidding on Lot B, etc. This repeats five times (five draw phases), then the game ends.
+Players are ranked according to hand strength, as in regular poker. (Hand rankings from highest to lowest:
+• Royal Flush (A‑K‑Q‑J‑10, same suit)
+• Straight Flush (five consecutive cards, same suit; not necessarily 10‑A)
+• Four of a Kind
+• Full House (three of a kind plus a pair; if two full houses, the higher three‑of‑a‑kind wins)
+• Flush (five cards same suit, not consecutive)
+• Straight (five consecutive cards, not the same suit)
+• Three of a Kind
+• Two Pair
+• One Pair
+• High Card (not in any above), this is considered invalid and a “pig.”)
+If a player doesn’t have five cards at the end, they automatically rank last and become a “pig.” If a player has six or more cards, their strongest 5‑card hand is chosen.
+“Pigs” (last place) are eliminated. All winners advance to Round V.
+
+Game Progression:
+Mock Game:
+The test round features four players: Kimura Kei, Mikamoto Mika, Saeki Kiyoshi, and Kanzaki Nao. Twenty‑four cards are used at random, and there is only one discard round. Each player is given 30 gold coins and must pay 10 coins when the game ends.
+The lots are presented as Lots A, B, C, and D. Nao recognizes a trap in this round and explains it to everyone. Nao’s analysis: At the end of the game, each player only has to return 100 million yen of the 300 million yen they were given, meaning everyone could earn a profit of 200 million yen. But is that really the case? Suppose in the real game, everyone has 300 gold coins. If someone wants a particular lot at all costs and bids 200 coins for it, where does that 200 go? Of course, to the dealer. What if everyone does the same, bids 200 coins for the lot they want? Everyone would only have 100 coins left, which is exactly what they must return to the LGT office after the game ends, so there’s no real profit. Nao concludes that this is one of the traps in Liar Game.
+Nao convinces everyone that instead of competing against each other, they should compete against the dealer. The real opponent is the dealer, not the players. The auction during the deal phase is where the battle begins. Nao persuades everyone to cooperate: if during the deal phase they all bid just 1 coin, then this round could truly become one where each person earns a 200‑million bonus. Nao proposes that they only start competing in the discard phases and cooperate during the deal phase to minimize spending. He wants to demonstrate this in the test round. Nao suggests that Kimura Kei, Mikamoto Mika, and Saeki Kiyoshi work together: they will discuss and decide who bids on which lot, then, when the auction starts, each player bids just 1 coin for their assigned lot. This way, the LGT office receives only 1 coin per lot, and each player can earn 19 coins in the test round. They agree, and the result is: Vuốt keo takes Lot A, Kimura takes Lot B, Mikamoto takes Lot C, and Nao takes Lot D.
+Everything goes smoothly, and each player wins their lot. Then comes the discard round: greased hair convinces Nao to give him the 10♠, promising to discard the 4♥ in return. However, when the discard time ends and the lots (including discarded cards) are revealed, it turns out he did not discard the 4♥ as promised; Nao has been deceived. These are the cards revealed.
+But this was part of Kimura’s plan. When time was up, the person who discarded K♦ (Lot A) was Kimura. No one bid on the K♦, so Kimura got it back. Lot B held the cards needed for Kimura to form a straight, so greased hair tried but failed to block him; he bid 6 coins while Kimura bid 8 coins. Now he only has 10♦, but he erred by bidding 6 coins. Mikamoto wins with an 8‑coin bid, pushing him to third. Final results of the test round:
+1st: Kimura Kei +21 coins
+2nd: Mikamoto Mika +23 coins
+3rd: Saeki Kiyoshi +20 coins
+Pig: Kanzaki Nao +12 coins
+
+This was all part of Kimura’s plan. Getting greased hair to take Lot A was a step toward Kimura securing Lots B and C. Before Nao proposed cooperation, Kimura even told greased hair that Lot A was the best. But this was just part of Kimura’s main strategy: Kei Kimura also lied to greased hair, saying she had previously cooperated with Kanzaki Nao; this trap by Kei Kimura would greatly influence the game’s progression.
+After the test round comes preparation for the official round. Five minutes before the start, during which Nao tries again to persuade everyone to cooperate during the deal phase and only compete in the discard phases (deciding who bids on which lot by rock‑paper‑scissors, then bidding just 1 coin on the assigned lot). Nao argues that if they manage to secure all lots for 1 coin each without competing in the deal phase, this revival round could truly become a high‑stakes prize round.
+Kei Kimura supports Kanzaki Nao’s argument by pointing out that in the test round, since everyone only spent 1 coin on each auction, even Kanzaki Nao, who finished last, ended the game with a positive balance (+12 coins).
+As players fear someone might betray the prior agreement on lot assignments, Harimoto suggests a solution: hold each tablet against the stomach so no one else can use it, and have all 11 players form a circle holding their tablets in front of them; this way, anyone attempting wrongdoing would be obvious. This method convinces the players.
+
+The official round:
+Dealing Session:
+Reiterating the rules for the deal phase:
+Starting Capital
+Each player is given 300 gold coins (each coin equals 1 million yen).
+Thus, each player has a total of 300 million yen.
+Objective
+Players use these gold coins to bid on lots of cards.
+With the cards they win, players must form a valid poker hand higher than a High Card (e.g., Three of a Kind, One Pair, etc.).
+Auction
+Card lots are presented and labeled alphabetically (Lot A, Lot B, …).
+Players have 30 minutes to strategize before bidding begins.
+Bidding proceeds in alphabetical order, with each lot auctioned for 5 minutes.
+When a lot’s bidding time ends:
+The winner (highest bidder) is announced.
+The auction then moves to the next lot.
+Bidding Rules
+Bids cannot be changed or canceled once submitted.
+If two bids tie, the earlier bid wins.
+After each 5-minute session, all bidders’ names and amounts are displayed on the screen.
+Prohibited Actions & Penalties
+Violence: penalty of 100 million yen.
+Stealing another player’s tablet: penalty of 100 million yen.
+Destroying someone else’s tablet: strictly forbidden.
+________________
+
+The official round begins. The deal phase starts, and the lots appear. Ironically, there are only 10 lots (A through J) for 11 players, so this plan cannot be executed directly. However, Nao volunteers not to bid on any lot (since she has no debt, even ranking last under the game rules won’t hurt her). She advises everyone to continue cooperating as usual.
+Presented lots: (30 minutes to think)
+Lot A: A♠ J♣ 10♥ 7♠ 5♠
+Lot B: A♦ 10♦ 5♣ 4♦ 3♠
+Lot C: K♦ J♥ 10♠ 6♠ 3♣
+Lot D: K♠ 9♥ 8♠ 4♣ 6♣
+Lot E: Q♥ 9♦ 8♣ 7♦ 4♥
+Lot F: 2♣ 3♥ 5♦ J♦ Q♠
+Lot G: 5♥ 8♦ 2♦ J♠ K♥
+Lot H: 3♦ 6♦ A♥ 9♣ Q♣
+Lot I: 7♥ 2♥ 9♠ Q♦ 10♣ A♣
+Lot J: 4♠ 8♥ 7♣ 2♠ K♣ 6♥
+
+Everyone starts writing down on paper which lot they want; Nao will collect them after 10 minutes. If a player is the only one requesting a specific lot, that lot is assigned to them for bidding. If multiple players want the same lot, the winner is decided by rock‑paper‑scissors (janken).
+Initial results:
+Lot A: Akiyama, Shimoharada
+Lot B: Harimoto
+Lot C: Mikamoto
+Lot D:
+Lot E:
+Lot F:
+Lot G:
+Lot H:
+Lot I: Taninaka (muscular), Yasukawa (bald), Abe (ponytail)
+Lot J: Kawai, Saeki, Kimura
+
+→ It can be seen that only Harimoto and Mikamoto are the sole choosers and get a lot right after the first trial, while lots I and J, each containing 6 cards, are highly contested.
+Everyone plays rock–paper–scissors to continue assigning lots, and the final results are as follows:
+Lot A: Shimoharada:
+A♠ J♣ 10♥ 7♠ 5♠
+Lot B: Harimoto:
+A♦ 10♦ 5♣ 4♦ 3♠
+Lot C: Mikamoto:
+K♦ J♥ 10♠ 6♠ 3♣
+Lot D: Abe (ponytail):
+K♠ 9♥ 8♠ 4♣ 6♣
+Lot E: Kimura:
+Q♥ 9♦ 8♣ 7♦ 4♥
+Lot F: Yasukawa (shaved head):
+2♣ 3♥ 5♦ J♦ Q♠
+Lot G: Kawai:
+5♥ 8♦ 2♦ J♠ K♥
+Lot H: Akiyama:
+3♦ 6♦ A♥ 9♣ Q♣
+Lot I: Taninaka (muscular):
+7♥ 2♥ 9♠ Q♦ 10♣ A♣
+Lot J: Saeki:
+4♠ 8♥ 7♣ 2♠ K♣ 6♥
+
+Now the auction begins. Bidding will proceed sequentially, starting with Lot A. After each winner is announced, the process repeats for the next lot. Each lot has a 5-minute bidding window.
+Lot A opens for bidding. Everyone stands in a circle, holding their iPads in front of their stomachs as required, so no one else can operate them. Since it was decided that Shimoharada would bid for Lot A, only he is allowed to use his tablet during this time. While Shimoharada is preparing to bid, Yasukawa (the shaved-head) performs suspicious actions as if intentionally trying to operate the tablet; Saeki and Shimoharada notice this. Nao Kanzaki intervenes and advises Yasukawa not to do anything suspicious again.
+
+The 5‑minute bidding for Lot A ends, and the names of the bidders and their amounts appear onscreen:
+Shimoharada Osamu: 1 coin
+Harimoto Takashi: 2 coins
+The winner of Lot A is Harimoto Takashi.
+
+→ Although the lot should have gone to Shimoharada, it was won by Harimoto (his name appeared last with the highest bid, and he secured the lot). He then claimed that this was actually due to his own “spiritual power.” Harimoto said he has a very strong spiritual power, and that energy affected the electronic device so that the tablet operated by itself. He defended himself by saying that since he was standing next to Yasukawa (whom everyone was watching very closely), if he had done anything suspicious, people would have noticed immediately. To prove his innocence, he gave the tablet to Mikamoto, and he said he would give Lot B (which had originally been assigned to Harimoto) to Shimoharada.
+
+During the bidding for Lot B, Harimoto again flails his arms and legs in a silly way to draw attention, saying he had to do that to prevent his “spiritual power” from leaking out and touching the tablet.
+
+Akiyama quickly predicted that Harimoto’s name would appear on the Lot B bidders list with a bid of 2 coins, 1 more than Shimoharada, and steal another lot from Shimoharada.
+
+Akiyama deduced Harimoto’s and his accomplices’ plot.
+The psychic power he mentioned is definitely a scam. Right now, Harimoto has a goal: to sabotage Kanzaki’s proposal, in which each player receives one lot equally. But if they return to bidding in a competitive state, the bids will escalate extremely high, very quickly, and that won’t bring profit to them. Harimoto doesn’t want to break the principle of “winning at minimal cost”, but only for his own group, not all the players. Harimoto wants his group to get as many lots as possible. He wants to buy the lots at the lowest possible price, arranging it so that all the members of his group can win all the lots.
+To achieve that goal, he came up with a plan: the “psychic power.” For the plan to work, two conditions must be met. First: Harimoto must make everyone believe that his group agrees with Kanzaki’s proposal, the plan she suggested, in which everyone discusses who will bid on which lot, resulting in each player receiving one lot for 1 coin during the deal phase. The second condition is to make the players think that not everyone is obediently following Kanzaki’s bidding agreement. And the key person, working to help Harimoto execute his plan smoothly, is Yasukawa (the bald guy). He is Harimoto’s ally. Akiyama speculates that Harimoto, knowing Yasukawa harbors a grudge from the previous game, the musical chairs with Akiyama’s group, approached the bald guy before today’s match began, and they formed an alliance.
+As soon as the list of lots for the test round was announced, Yasukawa began acting secretively, all for Harimoto’s plan to succeed. He told all the other players, “I heard Harimoto’s group and Akiyama–Nao’s group have cooperated. That means Harimoto’s group will also go along with Kanzaki Nao’s proposal, and will eliminate anyone who refuses to cooperate with them.” Yasukawa also shared that he had a few plans, but became more pessimistic about their success when he learned the two strongest factions had joined forces.
+At that time, no one believed Harimoto and Akiyama had actually collaborated; everyone doubted such an alliance could be formed. That’s why what Kei Kimura said after the test round ended was so important and meaningful: Kei Kimura told the glue‑haired one that she had previously cooperated with Kanzaki Nao. That alone was enough to erase the players’ doubt about the Harimoto–Akiyama alliance. And that wasn’t all. Yasukawa’s remarks in that conversation gained deeper meaning: he’d said he had some plans, but became pessimistic when he learned the two strongest groups had collaborated. At that moment, all the players realized something else important, that Yasukawa might be attempting a disastrous plan. And that’s exactly what he was hoping others would think.
+As soon as the game began, everyone formed a circle to watch each other so no one could use their tablet unnoticed. That’s when Yasukawa began to act suspiciously. His intent was clear: he wanted to draw everyone’s attention to himself. As players watched each other, when Yasukawa made a move that looked very suspicious, he succeeded in creating a blind spot (the area directly opposite Yasukawa). While everyone was focused on him, Harimoto’s tablet, which had been registered in his name, was used to bid 2 coins, aiming to claim the lot that should have gone to Shimoharada. And of course, Harimoto didn’t have to operate the tablet himself. By the rules, the tablet owner must register a fingerprint to start it, so people assume only the owner can use it. Harimoto abused this assumption.
+For Harimoto’s tablet, although registered under his name, at its first authentication, someone else’s fingerprint, not Harimoto’s, was used. During the Lot A auction, Yasukawa drew everyone’s attention to himself, and the person operating Harimoto’s tablet placed a 2‑coin bid to take the lot that should have gone to Shimoharada. Then came the auction for Lot B (which had previously belonged to Harimoto, but Harimoto lied, saying he’d give it to Shimoharada to compensate for losing Lot A). At that point, everyone suspected Harimoto himself had used his tablet, since the winner announcement list said the Lot A winner was Harimoto. However, Harimoto handed his tablet to Mikamoto to dispel suspicion. Because Harimoto gave his tablet to Mikamoto, everyone watched Mikamoto, suspecting that Mikamoto might do something. So the fingerprint on Harimoto’s tablet wasn’t Mikamoto’s (who would naturally attract suspicion), but very likely Kei Kimura’s (who Akiyama believes is the real leader of Harimoto’s group).
+In short, during the Lot A auction, Yasukawa drew everyone’s attention to himself, and Kei used the tablet registered to Harimoto (which she had registered with her fingerprint) to bid 2 coins and steal the lot that should have belonged to Shimoharada. Then, during the Lot B auction, when Harimoto made suspicious body movements, and Mikamoto, who was holding two tablets, became the center of attention, Kei Kimura seized the opportunity and placed a 2‑coin bid to snatch Lot B as well. After that, Harimoto only needed to claim that it was all due to his psychic power. All the players were forced to believe it, the purpose of Harimoto’s group was to keep everyone “trusting each other” and carry out Nao’s proposed plan (because nobody had truly betrayed or gone against the proposal, Harimoto staged it to look like an accident and to allow cooperation to continue in hopes of getting lots at the lowest price), which helped Harimoto’s group slowly grab all the lots. By the time everyone noticed, it was too late. Akiyama had completely deduced that conspiracy.
+So what should Akiyama do to thwart Harimoto’s plot without disrupting Kanzaki Nao’s plan?
+At the Lot B bidding round, at the moment when Harimoto’s strange movements attracted attention, Akiyama observed and confirmed that it was Kimura who held the tablet registered under Harimoto’s name, and she was using the distraction to quickly bid 2 coins, one more than Shimoharada, to snatch that lot. To prevent each lot from gradually falling into Harimoto’s group, Akiyama swiftly bid 3 coins to take that lot. The 5‑minute bidding for Lot B ended, and the screen showed all bidders and their amounts:
+Shimoharada Osamu: 1 coin
+Harimoto Takashi: 2 coins
+Akiyama Shinichi: 3 coins
+The winner of Lot B is Akiyama Shinichi.
+So, how should Akiyama explain it to the remaining players? Akiyama cannot expose Harimoto’s deception, because doing so would immediately ruin Kanzaki’s plan. If that happened, chaos would ensue, and bid prices would skyrocket. Akiyama would suffer just like the other players. Since exposing Harimoto’s plan would be harmful, Akiyama decides to temporarily accept it and use it to his advantage by saying that it was the powerful psychic force of Harimoto that caused his own tablet to malfunction, causing his name to appear among the bidders. Harimoto lied that his psychic power was so strong it affected his own tablet, and logically, if it could accidentally affect his tablet, it could also affect others’ tablets, making Akiyama’s claim that it affected his tablet plausible and impossible for Harimoto to refute. And with the excuse that Harimoto’s psychic power could disrupt the auction devices, and that Harimoto already had a lot of cards, Akiyama was able to force Harimoto to leave and lock himself in the farthest bathroom of the building. Everyone agreed to this, and Harimoto couldn’t refuse, because if he did, trust would collapse and player cooperation would end. Harimoto’s group still had three members who hadn’t gotten any lots, so Harimoto wanted cooperation to continue so his group could get lots at rock‑bottom prices. → Akiyama used Harimoto’s own lie to defend himself and gain an advantage.
+Akiyama then told Shimoharada to take Lot H, which Akiyama had previously been assigned to replace the lost Lot B due to Harimoto’s psychic power. The next two lots, C and D, were assigned to Harimoto group members Mikamoto and Abe to bid on. Now, Harimoto’s group has a problem regarding Kei Kimura’s upcoming bid on Lot E. The tablets and their owners in Harimoto’s group are assigned as follows:
+Harimoto: He has locked himself in a bathroom far from the bidding area. The tablet registered under Harimoto’s name was given to Kei Kimura at the start of the game. Since then, he’s been holding the tablet registered to Kei Kimura and using Kei’s fingerprint, and has now handed it to Mikamoto.
+Mikamoto: Holding the tablet registered under Mikamoto’s name with Mikamoto’s fingerprint, and also holding the tablet registered under Kei Kimura’s name with Kei’s fingerprint.
+Abe: Holding the tablet registered under Abe’s name with Abe’s fingerprint.
+Kei Kimura: Holding the tablet registered under Harimoto’s name with Kei’s fingerprint.
+If Kei keeps this as is and bids on Lot E, then Harimoto’s name will appear on the screen, revealing the Harimoto group’s trick. So Kei Kimura and the Harimoto group want the following arrangement:
+Mikamoto: continues using Mikamoto’s tablet with his fingerprint, and gives the tablet registered to Kei Kimura (with Kei’s fingerprint) to Kei.
+Abe: uses Abe’s tablet with his fingerprint.
+Kei Kimura: holds the tablet registered to Harimoto with Kei’s fingerprint, and also her own tablet registered to Kei with her fingerprint.
+→ If Kei has the tablet “registered to Kei Kimura with Kei’s fingerprint,” then when it’s her turn to place a bid, she can bid using that tablet, and it will be registered under her own name normally, so no problems will arise.
+So when bidding on Lot C, Mikamoto was holding two tablets, one registered under "Mikamoto" with her fingerprint, and another under "Kei Kimura" with Kimura’s fingerprint. She said it was difficult to input anything while holding two tablets, and asked Kimura to hold one for her. Her goal was to give Kimura the tablet registered under Kimura’s name and fingerprint. Akiyama quickly noticed this and stopped it. He said there was nothing difficult about inputting bids with two tablets. He reminded everyone of the rule: only the bidder can step out of the circle, so it must be respected, no exceptions. Kimura and Mikamoto had to comply; they didn’t dare object, fearing that being stubborn about passing the tablet would arouse suspicion and expose their plot.
+Five minutes of bidding for Lot C ended, and the names and bid amounts appeared on screen:
+Mikamoto Mika: 1 coin
+The winner of Lot C was Mikamoto Mika.
+The next bidder for Lot D was Abe. Again, no one did anything suspicious during that time.
+Five minutes of bidding for Lot D ended, and the names and bid amounts appeared on screen:
+Abe Yukiyo: 1 coin
+The winner of Lot D was Abe Yukiyo.
+When it came to Lot E, Akiyama suddenly told everyone that Yasukawa (the bald one) had behaved suspiciously in the previous bidding for Lot D. He used the excuse that Taninaka had earlier expressed suspicion that Mikamoto was holding two tablets, demanding that Yasukawa and Mikamoto stand close together so everyone could closely monitor these two suspicious individuals. Akiyama did this because he had predicted Kimura’s next move. Kimura and Mikamoto probably intended something like this: when bidding began, they’d have Yasukawa act suspiciously to draw everyone’s attention, and in the ensuing distraction, Kimura would switch tablets. Akiyama foresaw this and shut it down immediately. By forcing Mikamoto and Yasukawa to stand close and be watched by all, Kei Kimura would have no way to get the tablet registered to her from Mikamoto. Akiyama left Kimura no choice but to bid under Harimoto’s name. Why did he want that?
+Kei Kimura had no choice but to bid under Harimoto’s name. She carefully prevented Akiyama from sneaking a bid when no one was paying attention by getting the bald Yasukawa to redirect everyone’s focus to Akiyama, stopping him from bidding. Once everyone was focused on Akiyama, Kimura figured he wouldn’t dare bid against the agreement publicly, fearing a loss of credibility, and thinking he wouldn’t break Kanzaki Nao’s plan. She bid 1 coin on Lot E. But in reality, Akiyama wanted Lot E more. As bidding time was almost up, he boldly placed a bid in front of everyone.
+Five minutes of bidding for Lot E ended, and the names and bid amounts appeared on screen:
+Harimoto Takashi: 1 coin
+Akiyama Shinichi: 2 coins
+The winner of Lot E was Akiyama Shinichi.
+Everyone erupted in uproar and angrily blamed Akiyama. To justify his actions, Akiyama revealed the conspiracy and intentions of Harimoto's group. He said the reason he had outbid Kei Kimura’s lot was because he’d just realized that Harimoto’s group had cheated everyone. Akiyama exposed their trick: the tablet Kimura was using was actually Harimoto’s (registered under his name). They’d bypassed the "tablet unlocked only by the owner’s fingerprint" rule by secretly registering Kimura’s fingerprint on the tablet supposedly belonging to Harimoto from the start. This showed Harimoto’s group had planned to cheat from the moment they received the tablet. Akiyama explained in detail how Harimoto’s group had set this up, that Yasukawa was an accomplice all along, acting as bait by behaving suspiciously, letting Kimura operate the tablet, and then Harimoto himself had strange body movements for the same reason. Kimura had the tablet registered under Harimoto’s name with her fingerprint, so when she bid, Harimoto’s name appeared. That’s why Akiyama wanted Kimura to bid under Harimoto’s name; it would prove his accusations. He declared that Harimoto’s group never planned to cooperate with him and Kanzaki Nao; they decided to carry out this deception behind their backs to profit for themselves. Akiyama laid out the full picture of Sanmue’s plan: outwardly, they fully supported Kanzaki Nao’s bidding cooperation plan, but in reality, once the game began, they planned to unfairly take lots by pretending everything was done through "spiritual power." By the time everyone saw what was happening behind that “spiritual power” façade, it was too late. Almost all lots ended up in Harimoto’s group’s hands; that was their plan. From the very first lot list, Harimoto’s group deliberately chose the early ones, because people assigned to later lots wouldn’t do anything at the game's start, while those with first lots could break the agreement and try to secure a good hand. This made everyone realize Harimoto’s group had planned to break the agreement from the outset.
+=> Akiyama exposed the trickery and every lie of Harimoto’s group. The only falsehood he confirmed was that he had joined their group, which he used to gain an advantage. By acknowledging that, he effectively communicated to the others that Harimoto’s faction had violated the pact, and he was the victim. Akiyama made winning Lots B and E look like a justified act of resistance, a defense of fairness. He cleverly made only Harimoto’s group appear as the villains now.
+Akiyama also explains the appropriate strategy for this game. He believes that anyone who can acquire two card lots is already highly likely to win this game. Let’s reanalyze the list of card lots:
+Lot A: A♠ J♣ 10♥ 7♠ 5♠
+No pair, no straight, no flush.
+High Card: A
+Lot B: A♦ 10♦ 5♣ 4♦ 3♠
+No straight (missing 2), no flush.
+High Card: A
+Lot C: K♦ J♥ 10♠ 6♠ 3♣
+No pair, no straight, no flush.
+High Card: K
+Lot D: K♠ 9♥ 8♠ 4♣ 6♣
+No pair, no straight (missing 7 or 5), no flush.
+High Card: K
+Lot E: Q♥ 9♦ 8♣ 7♦ 4♥
+No pair, no straight (missing 6 or 10), no flush.
+High Card: Q
+Lot F: 2♣ 3♥ 5♦ J♦ Q♠
+No pair, no flush.
+Has 2‑3‑5 (missing 4 for a straight) → invalid.
+High Card: Q
+Lot G: 5♥ 8♦ 2♦ J♠ K♥
+No pair, no straight, no flush.
+High Card: K
+Lot H: 3♦ 6♦ A♥ 9♣ Q♣
+No pair, no flush.
+High Card: A
+Lot I: 7♥ 2♥ 9♠ Q♦ 10♣ A♣
+No pair, no straight, no flush.
+High Card: A
+Lot J: 4♠ 8♥ 7♣ 2♠ K♣ 6♥ (6 cards)
+Any 4‑5‑6‑7‑8 straight? No (missing 5).
+No pair, no flush, no straight.
+High Card: K
+→ All lots are High Card only, with no pair, straight, flush, or set. Under the rules of this game, a High Card hand is considered invalid and treated as a “pig.” None of these lots alone would qualify for ranking.
+But if you hold two lots among them, you can secure a good position.
+For example, if we have Lots A and B:
+Lot A: A♠ J♣ 10♥ 7♠ 5♠
+Lot B: A♦ 10♦ 5♣ 4♦ 3♠
+Total of 10 cards:
+A♠ J♣ 10♥ 7♠ 5♠ A♦ 10♦ 5♣ 4♦ 3♠
+Group and count:
+A♠, A♦ → pair of Aces
+10♥, 10♦ → pair of Tens
+5♠, 5♣ → pair of Fives
+Singles: J♣, 7♠, 4♦, 3♠
+Find the best combination:
+→ Two Aces (pair)
+→ Two Tens (pair)
+→ Two Fives (pair)
+No three‑of‑a‑kind, no flush, no straight.
+Best hand choice:
+Choose a pair of Aces + a pair of Tens + the highest kicker (J)
+→ Hand: A♠ A♦ 10♥ 10♦ J♣
+The strongest hand from Lots A + B is: Two Pair (Aces and Tens), with J kicker
+→ Stronger than any High Card or One Pair. And crucially, it qualifies and isn’t a pig.
+Akiyama argues that in this game, players who don’t have enough cards will definitely become pigs. Thus, holding two lots ensures you won’t be among the losers. Conversely, the worst-case is winning only one lot at a sky-high price. Anything, even winning nothing, is better.
+Example: a player wins one lot with a 100‑million bid. But having only one lot still makes them a pig, with the final tally:
+Starting money: 300M
+Bid payment: −100M
+Last-place penalty (pig): −150M
+Return to LGT office: −100M
+→ Remaining: −50M
+By contrast, a player who wins nothing has:
+Starting money: 300M
+Bids: 0
+Last-place penalty: −150M
+Return: −100M
+→ Remaining: +50M
+→ Clearly much better, even yielding a profit.
+Akiyama notes that even now, spending all your gold in bidding isn’t a good idea. He advises sticking to Nao Kanzaki’s bidding plan and continuing cooperation. Yet chaos ensues; the players’ pact completely breaks. Competitive bidding begins:
+Lot F (2♣ 3♥ 5♦ J♦ Q♠) winner: Taninaka Kouichi at 70 gold coins.
+Lot G (5♥ 8♦ 2♦ J♠ K♥) winner: Kei Kimura at 117.
+Lot H (3♦ 6♦ A♥ 9♣ Q♣) winner: Saeki Kyoshi at 130.
+Lot I (7♥ 2♥ 9♠ Q♦ 10♣ A♣) winner: Shimohara Osamu at 149.
+Lot J (4♠ 8♥ 7♣ 2♠ K♣ 6♥) winner: Harimoto at 298.
+→ Though cooperation broke down, Akiyama’s words had some effect. Except for Harimoto (298), others won at modest prices, not over 150 gold. Akiyama had argued: “If you have 2 lots, you can’t lose. Conversely, the worst case is grabbing only one lot at an exorbitant price. Anything else, even none, is better, since either way you become a pig.”
+→ Akiyama set a mental limit for the players: until the very end, they resolved to get a second lot. That’s why they split their 300 gold coins and didn’t bid beyond 150 per lot. Akiyama foresaw this; the players’ panic couldn’t be stopped, and he tried to at least insert a braking mechanism in their minds.
+When the deal phase ended, each player’s status was:
+Akiyama got lots B and E; cards:
+A♦ 10♦ 5♣ 4♦ 3♠
+Q♥ 9♦ 8♣ 7♦ 4♥
+Remaining money: 295 gold.
+Harimoto got lots A and J; cards:
+A♠ J♣ 10♥ 7♠ 5♠
+4♠ 8♥ 7♣ 2♠ K♣ 6♥
+Remaining money: 0.
+Kei Kimura got lot G; cards: 5♥ 8♦ 2♦ J♠ K♥; money left: 204.
+Mikamoto Mika got lot C; cards: K♦ J♥ 10♠ 6♠ 3♣; money: 322 (including trial round reward).
+Abe Yukiyo got lot D; cards: K♠ 9♥ 8♠ 4♣ 6♣; money: 299.
+Taninaka Kouichi got lot F; cards: 2♣ 3♥ 5♦ J♦ Q♠; money: 230.
+Shimohara Osamu got lot I; cards: 7♥ 2♥ 9♠ Q♦ 10♣ A♣; money: 151.
+Saeki Kyoshi got lot H; cards: 3♦ 6♦ A♥ 9♣ Q♣; money: 190 (including trial reward).
+Kanzaki Nao, Yasukawa Yasuhiko (bald), Kawai Tatsuya: no cards, 0 money.
+Since every lot is High Card only, only the two players with two lots, Akiyama and Harimoto, can rank. We assess their best 5‑card hands:
+A. Akiyama
+Total 10 cards:
+A♦ 10♦ 5♣ 4♦ 3♠
+Q♥ 9♦ 8♣ 7♦ 4♥
+Focus on ♦ suit: A♦, 10♦, 9♦, 7♦, 4♦ → 5 cards → a flush! (not consecutively, but same suit), The highest is A♦ → Ace‑high flush, extremely strong.
+→ Best hand: Flush ♦: A♦, 10♦, 9♦, 7♦, 4♦
+B. Harimoto
+Total 11 cards:
+A♠ J♣ 10♥ 7♠ 5♠
+4♠ 8♥ 7♣ 2♠ K♣ 6♥
+Focus on ♠ suit: A♠, 7♠, 5♠, 4♠, 2♠ → flush ♠ with top A♠.
+→ Best hand: Flush ♠: A♠, 7♠, 5♠, 4♠, 2♠
+Comparing hands: both have flushes, but
+Both top with Ace.
+2nd card: Harimoto has 7, Akiyama has 10 → Akiyama wins clearly with the higher Ace‑high flush (10 kicker).
+(=> Strategy/Tactics, Reasoning, Analysis, Deception, Problem‑Solving, Foresight, Emotional Intelligence, Manipulation…)
+Next is the “Card Exchange Session.”
+Change Session:
+Restating the rules for the Change Session:
+1. Overview
+There are 5 card exchange sessions throughout the game.
+Each player is allowed to discard cards and bid for new ones during each session.
+Players can only receive new cards through bidding.
+2. Discard Phase (30 minutes)
+Players select unwanted cards to discard.
+Each player is allowed to create only one lot per session.
+Discarded cards are grouped into lots, named, and ordered based on the discard order:
+Example:
+Player X discards 4♠ and 5♠, and is the first to discard → Lot A will include 4♠ and 5♠
+Player Y discards 3♦, and is the second to discard → Lot B will include 3♦
+3. Announcement of Lots & Strategy Consideration Time (30 minutes)
+After the discard phase ends, the list of lots (containing the discarded cards) is announced.
+Players have 30 minutes to consider their bidding strategy.
+4. Bidding Phase for Lots (5 minutes per lot)
+The lots are auctioned in alphabetical order: A → B → C…
+Each lot is auctioned for 5 minutes.
+The highest bidder wins the lot.
+If bids are tied → the earlier bidder wins.
+After each auction, the winning bidder is announced.
+For the original discarder of the lot:
+If the lot is bought, they receive the bid amount.
+If no one bids, the cards return to the original discarder.
+5. Repeat and End
+This process is repeated a total of 5 times (5 exchange sessions).
+After the 5th exchange session, the game ends, and final rankings are announced.
+First Card Exchange Round:
+Yasukawa (Bald) and Kawai (Muscular) currently do not have any cards. Akiyama points out and emphasizes to Nao that their situation is dire. Akiyama anticipates that Nao will propose a plan for the two of them to obtain 2 card lots, with Akiyama and Harimoto helping Yasukawa and Kawai, by discarding five surplus cards each. Since only 5 cards are needed for ranking, and both Akiyama and Harimoto have more than 10 cards, they can each select their 5 strongest cards and still have 5 surplus ones left. Nao wants them to give those 5 surplus cards to Kawai and Yasukawa.
+Akiyama quickly agrees without hesitation. Initially, Harimoto refuses the proposal, reasoning that he cannot trust the other players; someone might outbid his allies and steal the cards he discarded. Akiyama quickly presents a solution: Kawai will place a bid of 231 coins, which is more than any other player possesses. Harimoto then argues that Akiyama himself could still bid to steal the cards. In response, Akiyama proposes to exchange tablets with Nao and lock himself in the billiards room, while Harimoto uses one of his allies to guard the door. Since the tablets are fingerprint-locked and unusable without the owner's fingerprint, Akiyama will be unable to bid. He also cannot leave the room.
+Harimoto agrees to Akiyama and Nao's plan for two reasons: first, because of his religious ideals, and second, because Akiyama discarding his 5 surplus cards also benefits Harimoto strategically.
+Card Discard Phase:
+Harimoto wants to be the first to discard his cards. He has a total of 11 cards:
+A♠, J♣, 10♥, 7♠, 5♠, 4♠, 8♥, 7♣, 2♠, K♣, 6♥
+Among these, his strongest 5-card combo is: A♠, 7♠, 5♠, 4♠, 2♠
+So Harimoto chooses to discard the following 5 cards:
+J♣, 10♥, 8♥, 7♣, 6♥
+Akiyama has a total of 10 cards:
+A♦, 10♦, 5♣, 4♦, 3♠, Q♥, 9♦, 8♣, 7♦, 4♥
+Among these, his strongest 5-card combo is: A♦, 10♦, 9♦, 7♦, 4♦
+So Akiyama chooses to discard the following 5 cards:
+5♣, 3♠, Q♥, 8♣, 4♥
+Card Lot Bidding Phase:
+Two card lots are revealed:
+Lot A: J♣, 10♥, 8♥, 7♣, 6♥
+Lot B: 5♣, 3♠, Q♥, 8♣, 4♥
+Players have 30 minutes to strategize, after which the bidding begins in order: Lot A first, then Lot B.
+Yasukawa makes a deal with Kawai: Yasukawa will take Lot A, and Kawai will take Lot B.
+Bidding for Lot A begins; players have 5 minutes to enter their bids.
+After 5 minutes, the names and bid amounts of the players appear on the screen:
+Yasukawa Yasuhiko: 233 coins
+→ The winner of Lot A is Yasukawa Yasuhiko.
+Bidding for Lot B begins again; players have 5 minutes to enter their bids.
+After 5 minutes, the names and bid amounts of the players appear on the screen:
+Kawai Tasuya: 300 gold coins
+Mikamoto Mika: 301 gold coins
+→ The winner of Lot B is Mikamoto Mika.
+→ Mikamoto outbid Kawai by 1 gold coin to snatch the cards discarded by Akiyama from him.
+Harimoto explains that since Yasukawa and Kawai had broken their trust and betrayed them first (the original plan was to bid 231 coins, but Yasukawa bid 233 coins, and Kawai went up to 300 coins), this gave Harimoto’s group both a justification and an opportunity to steal Lot B (which came from Akiyama’s discarded cards) away from Kawai.
+Lot B, now in Mikamoto's possession, brings a major strategic advantage to Harimoto’s team.
+Harimoto originally had 11 cards:
+A♠, J♣, 10♥, 7♠, 5♠, 4♠, 8♥, 7♣, 2♠, K♣, 6♥
+After discarding: J♣, 10♥, 8♥, 7♣, 6♥
+He is left with: A♠, 7♠, 5♠, 4♠, 2♠, K♣
+Lot B (Mikamoto’s winnings) contains: 5♣, 3♠, Q♥, 8♣, 4♥
+If Mikamoto gives 3♠ to Harimoto, Harimoto's hand becomes:
+A♠, 2♠, 3♠, 4♠, 5♠
+→ This forms a Straight Flush (five consecutive cards of the same suit), which is extremely powerful and stronger than Akiyama’s Flush (A♦, 10♦, 9♦, 7♦, 4♦ ,  five same-suit cards but not in sequence).
+This would allow Harimoto to overtake Akiyama and seize first place.
+So what does Harimoto’s group have to do?
+Harimoto’s group will use the discard and bidding mechanism of the Card Exchange Session to transfer the 3♠ card from Mikamoto to Harimoto, allowing him to complete a Straight Flush and secure first place. Here’s how they’ll execute the plan:
+First, during the discard phase of the next exchange session, Harimoto discards his K♣. After confirming that he has discarded, Mikamoto will then discard the 3♠. Mikamoto must wait until Harimoto has discarded first, because the order is crucial; if they mess up the sequencing, they’ll be in serious trouble. If 3♠ is discarded after K♣, then the lot containing 3♠ will definitely be auctioned after the one with K♣.
+When the auction phase begins, Abe will bid on the lot containing K♣ (the one Harimoto discarded). Then Harimoto will bid on the lot containing 3♠, which Mikamoto discarded. Abe will bid her entire 299 coins for the K♣ lot, and the player who originally discarded the card, Harimoto, will receive the coins (as per the rule: if a lot is purchased, the player who discarded the cards in that lot receives the winning bid). So Harimoto receives Abe’s 299 coins, and now holds 533 coins.
+Then Harimoto bids all 533 coins on the 3♠ lot. No one else will be able to outbid him. This also has the effect of consolidating the group’s money into Harimoto’s possession, making it easier to manipulate and redistribute cards among group members later.
+Besides the 3♠, Harimoto has another way to improve his hand and secure first place: by obtaining 6♠ from Mikamoto and 8♠ from Abe, completing a Straight Flush: 4♠ 5♠ 6♠ 7♠ 8♠.
+That’s why the Harimoto group spent 301 coins to acquire the lot of cards discarded by Akiyama: not only does it improve Harimoto’s hand more easily, but the cards in that lot also help other group members strengthen their hands to avoid becoming pigs (the earlier individual lots couldn’t even form a hand stronger than High Card; the more cards they get, the better their chances to avoid being left with a weak hand. If a hand has fewer than 5 cards, or is only a High Card, that player becomes a pig, has to pay 150 million yen, and cannot advance to the next round).
+In truth, Harimoto only “lost” 28 coins because he already received 233 coins from Baldy’s (Yasukawa's) winning bid for the lot Harimoto had discarded.
+Harimoto was forced to agree to Akiyama’s plan of discarding surplus cards to help the two players with no cards (Yasukawa and Kawai). If Nao Kanzaki and Akiyama offered help while Harimoto refused, it would directly contradict his religious ideals and make Nao appear even more virtuous by comparison. That especially matters because Abe is already being influenced by Nao and has begun to question everything.
+Abe is currently experiencing a "crisis of faith" or "cognitive dissonance."
+This is a state in which a person realizes the contradiction between their old beliefs (trusting those around them) and a new reality (seeing that Akiyama and Nao may not be evil as she was told). This internal conflict generates insecurity and anxiety, forcing them to question the validity of their previous belief system.
+When a person places their full trust in the group around them, they build a kind of "mental ecosystem" that depends on the collective. That trust isn’t just agreement; it’s a defense mechanism to feel safe in a chaotic world. But when they discover that those who were condemned by the group might actually be good, the entire psychological structure collapses.
+This isn’t just disappointment, it’s an earthquake shaking two foundational layers: trust in others and trust in oneself.
+They fall into a cognitive dissonance, where the brain refuses to accept two conflicting realities:
+“Did the people I trusted lie?”
+“Or was I blindly naive?”
+This conflict makes them feel lost in their own mind, like stepping into a dark room where everything is out of place. They can no longer tell what is truth imposed from outside versus their own inner understanding.
+At the same time, a crisis of belief begins to form, a deep crack. The person realizes their old belief wasn’t a conscious choice but the product of herd mentality, something that kept them caged inside the collective.
+When that glass cage breaks, they face a primal fear:
+"If the people I idolized were wrong, is anything in this world still worth believing in?"
+This is the moment of “idol death”, where the idealized image of the group shatters, leaving a desolate void.
+Deeper still, this process hits the ego.
+To doubt one’s old beliefs means admitting,
+“I was wrong.”
+A painful blow to pride.
+They’re forced to face a haunting question:
+“Do I have the courage to trust myself, or will I forever be a slave to prejudice?”
+This is when independent thinking begins to sprout, but it also brings crippling loneliness, like standing at a crossroads with no map, where every path leads to more unanswerable questions.
+Abe is the embodiment of the pain of dependence, a soul starved of love since childhood. She turned to Harimoto’s religion as a lifeline, a way to fill her emotional void.
+To Abe, Harimoto isn’t just a spiritual leader; he’s a "surrogate father", someone who promised order in her inner chaos by clearly defining good and evil.
+When Harimoto branded Nao Kanzaki as “evil,” Abe accepted it without question, because it met her primal need for rigid rules, so she wouldn’t have to face the fear of betrayal again.
+But when she witnesses Nao’s sincere, selfless acts, goodness that needs no religious doctrine, Abe is torn between her blind faith and her growing self-awareness.
+Each time Nao helps others without asking for anything in return, it’s like a blade cutting deeper into the crack in Abe’s mind.
+She doesn’t just doubt Harimoto anymore; she’s beginning to doubt the very survival system she built to protect herself from past pain.
+This isn’t a mere shift in perspective; it’s a psychological earthquake destroying her inner architecture.
+“If Nao, someone labeled as evil, is actually better than the self-proclaimed good guys, then what is even real in my worldview?”
+This inner struggle sends Abe into an existential crisis.
+On one hand, she desperately clings to her faith in Harimoto, the man who gave her her first sense of belonging.
+On the other hand, her conscience tells her that Nao represents the pure, innocent version of herself that she lost.
+She’s caught between two fears:
+The fear of being betrayed again if she continues trusting Harimoto.
+The fear of being completely alone if she admits the truth.
+Harimoto wants to stop Nao’s image from growing stronger, not only to protect his power, but because he recognizes that Nao is the mirror forcing Abe to see the rottenness of his dogmatic system.
+If Abe continues to believe in Nao’s kindness, she’ll be forced to confront two horrifying truths:
+1. That she once naively trusted a spiritual tyrant (Harimoto), an assault on her pride, making her feel foolish and weak.
+2. The world does not have clear boundaries between good and evil like the doctrines she worships.
+This truth tears apart her protective shell and pushes her into the abyss of uncertainty. The inevitable result is that Abe will experience an identity crisis: she is no longer a “devout believer,” yet not brave enough to become a “rebel.” This liminal state can lead to Impostor Syndrome, as she asks herself: “Am I betraying myself? Or am I betraying the truth?”
+Harimoto fears this outcome because once Abe escapes from the binary thinking of good and evil, she will no longer be a blind tool for his power.
+However, for Abe, this is an opportunity to heal her inner child, the one who was abused by her parents, by learning to love herself through acknowledging the complexity of human nature, instead of splitting the world into two sides to avoid pain.
+Of course, Akiyama had already foreseen this and deliberately orchestrated it. Here's an analysis of the game’s progression from both Nao Kanzaki’s and Harimoto’s perspectives:
+FROM KANZAKI’S POINT OF VIEW:
+WANTS TO SAVE ALL THE PLAYERS
+↓
+TO DO THAT, THE FIRST THING SHE MUST DO IS MAKE SURE ALL PLAYERS EXCEPT HER HAVE 5 CARDS
+↓
+BUT KAWAI AND YASUKAWA HAVE NO CARDS! IF THINGS CONTINUE LIKE THIS, THEY WILL DEFINITELY LOSE!
+↓
+ASK TWO PLAYERS,  AKIYAMA-SAN AND HARIMOTO-SAN,  WHO EACH HAVE 10 OR MORE CARDS, TO DISCARD 5 UNNECESSARY CARDS!
+↓
+HARIMOTO IS A DEVOUT BELIEVER WHO PROMOTES RIGHTEOUS LIVING, SO HE HAS NO REASON TO OPPOSE THE IDEA OF SAVING OTHERS.
+↓
+✅ SUCCESS ← CURRENT POINT IN THE STORY
+↓
+KAWAI AND YASUKAWA EACH RECEIVE 5 CARDS THROUGH THE AUCTION
+↓
+NOW, ALL PLAYERS EXCEPT HER HAVE 5 CARDS!
+
+FROM HARIMOTO’S POINT OF VIEW:
+The goal is to monopolize all 11 hands during the exchange phase.
+When Harimoto returned from being “banished” to the restroom, he had two hands totaling 11 cards, putting him in second place.
+↓
+This was almost an ideal development; at that pace, he was no longer in danger of elimination.
+↓
+However, “not losing” is not enough for him; his goal is to achieve an overwhelming victory.
+To do that, he must:
+Improve his own hand and position to reach first place.
+Upgrade the hands of his 3 subordinates, so the group achieves high rankings (with two players in second and third).
+Ensure that at least one other player has no rank and becomes the loser.
+The game rules state that the more players without ranking (losers), the larger their debts become,  and the prizes for 1st, 2nd, and 3rd place increase.
+It is now almost certain that Kanzaki, Kawai, and Yasukawa won’t qualify for ranking.
+Harimoto wants to maximize the number of players with no rank.
+↓
+Suddenly, Kanzaki asks him to discard 5 surplus cards.
+Although those cards are no longer useful to him, discarding them would greatly hinder his subordinates’ chances of improving their hands.
+He also worries that the number of losers will decrease significantly.
+↓
+Kanzaki’s proposal is unacceptable, but if he refuses, Abe’s suspicion could become dangerous.
+↓
+He reluctantly discards 5 cards.
+↓
+But continues looking for chances to get those cards back.
+→ He will definitely make an excuse to take lot B, so he doesn’t suffer a net loss,  especially if lot B (created from Akiyama’s 5 discarded cards) is even slightly better than what he discarded.
+And Akiyama gave him that chance. Harimoto’s group has fallen into Akiyama’s trap.
+It was Akiyama who told Yasukawa to bid 233 coins instead of 231.
+At the time of the auction, Akiyama was locked in the billiard room, but just before being locked up, he whispered to Yasukawa and Kawai:
+“Someone may try to seize those cards, so it might be better to raise the bid by 2 coins above the set amount.”
+→ Akiyama created a perfect excuse for Harimoto to take lot B, which was formed from the 5 cards Akiyama discarded.
+So why did Akiyama want Harimoto to seize Lot B?
+Aside from receiving 301 coins from Harimoto’s group, there’s a deeper reason,  which will be revealed next.
+On the other hand, Harimoto’s perspective is as follows:
+The goal is to capture all 11 sets of cards during the trading round.
+When Harimoto returned after being “exiled” to the restroom, he had 2 sets of cards totaling 11 cards, placing him in second place.
+↓
+This was an almost ideal development because, at this pace, he was no longer at risk of elimination.
+↓
+However, simply “not losing” was not enough for him; his goal was to achieve a decisive victory.
+To do this, he needed to:
+Improve his own hand and position to reach first place.
+Improve the hands of his 3 subordinates, so the entire group would have rankings, with two of them placing second and third.
+Ensure that at least one other player would be unranked, becoming the loser.
+The game has a rule that the more players who lose (are unranked), the greater their debts,  which means the rewards for first, second, and third place become larger.
+It was almost certain that Kanzaki, Kawai, and Yasukawa would not qualify for the ranking.
+Harimoto wanted to maximize the number of unranked players as much as possible.
+↓
+Suddenly, Kanzaki proposed that he discard 5 surplus cards.
+Although those 5 cards were no longer useful to him, discarding them would severely hinder his subordinates’ ability to improve their hands.
+Moreover, he feared the number of unranked players would sharply decrease.
+↓
+Kanzaki’s proposal was unacceptable, but if he refused, Abe’s suspicion would become dangerous.
+↓
+He reluctantly discarded the 5 cards.
+↓
+But he kept searching for opportunities to get those 5 cards back.
+=> He would definitely find a reason to claim lot B, so that he wouldn’t lose out, especially since lot B (created from the 5 surplus cards Akiyama discarded) was slightly more advantageous for him than the 5 cards he discarded.
+
+And Akiyama created that opportunity for him. Harimoto’s group fell into Akiyama’s trap.
+It was Akiyama who told Yasukawa to bid 233 coins instead of 231.
+At the time of the auction, Akiyama was locked in the billiards room, but just before going there, he whispered to Yasukawa and Kawai:
+“Someone might try to seize those cards, so it might be better to raise the bid by 2 coins over the set price.”
+→ Akiyama created an excuse that allowed Harimoto to take the lot of cards that Akiyama discarded.
+So why did Akiyama want Harimoto to seize Lot B?
+Besides the fact that Akiyama would receive 301 coins from Harimoto’s group, there is a deeper reason that will be revealed later.
+Second Change Session:
+Card Discard Phase:
+Nao began to harbor suspicions. She had sensed something strange about Harimoto’s group ever since the bidding round for lot F. She wondered: Why did Kimura bid more than Harimoto?
+As Akiyama had said earlier, whoever holds more than two lots is certain to win. At that time, Harimoto already had one lot. So why would someone like Kimura, who should be helping Harimoto, try to get that lot herself once she saw Harimoto had no chance to win?
+Because of this, Nao suspected that Kimura was the real mastermind behind Harimoto’s group, not Harimoto himself. So when Kimura wasn’t around, Nao took the opportunity to speak with Harimoto directly to confirm Kimura’s true position, and she was right: Kimura was the one pulling the strings.
+But in fact, Akiyama had realized this much earlier than Nao.
+Back during the Musical Chairs game, Akiyama observed that Kimura was always near Harimoto, and whenever she was present, a major strategy would unfold. But when she wasn’t there, nothing significant changed in the game.
+He suspected that Kimura was the real strategist of the group, but lacked evidence. So, to confirm his theory, he made Harimoto hide in the restroom far from the auction site while commenting about Harimoto's "spiritual power."
+Logically, if Harimoto were truly the leader, the other cult members would panic, and their strategy would break down. But strangely, they remained calm and carried out their plans smoothly.
+→ That confirmed Akiyama’s theory.
+Card Lot Bidding Phase:
+Harimoto’s group discarded and bid exactly as Akiyama predicted.
+Two card lots appeared:
+Lot A: K♣
+Lot B: 3♠
+There were 30 minutes to think, after which the bidding would begin in order: Lot A first, then Lot B.
+The K♣ in Lot A was discarded by Harimoto.
+The 3♠ in Lot B was discarded by Mikamoto.
+Bidding for Lot A begins:
+Players have 5 minutes to enter their bids.
+After 5 minutes, the bids for Lot A are displayed:
+Yasukawa Yasuhiko: 3 coins
+Shimoharada Osamu: 21 coins
+Taninaka Kouichi: 40 coins
+Abe Yukiyo: 299 coins
+➡ Winner of Lot A: Abe Yukiyo
+→ Her 299 coins were transferred to Harimoto. Harimoto now has 533 coins.
+Bidding for Lot B begins:
+Players again have 5 minutes to bid.
+After 5 minutes, the bids for Lot B are displayed:
+Yasukawa Yasuhiko: 5 coins
+Saeki Kiyoshi: 151 coins
+Taninaka Kouichi: 191 coins
+Harimoto Takashi: 532 coins
+➡ Winner of Lot B: Harimoto Takashi
+→ Harimoto spent 532 coins to secure the 3♠ discarded by Mikamoto.
+Almost no one could outbid that amount for the 3♠. Even if someone did, the money would go to Harimoto’s group. In fact, the amount bid exceeds the prize difference between 1st and 2nd place, assuming seven players are eliminated.
+⇒ By obtaining the 3♠, Harimoto now has the hand:
+A♠ 2♠ 3♠ 4♠ 5♠
+⇒ This is a Straight Flush (five consecutive cards of the same suit), an extremely strong hand.
+It beats Akiyama’s Flush (A♦, 10♦, 9♦, 7♦, 4♦ ,  same suit, but not consecutive).
+→ This allows Harimoto to overtake Akiyama for first place.
+Later, Kimura sees Kawai getting angry and blaming Akiyama for not helping him.
+Kawai accused Akiyama of making excuses and avoiding a discussion on how to help him by claiming someone was eavesdropping (a fact Kimura had learned from Abe).
+To Abe, this was obvious and reasonable; nothing shocking or surprising about how events unfolded.
+......
+→ In truth, Akiyama staged it so it would look like he was the one cutting off contact, not Kawai.
+Third Change Session:
+Current status of all players:
+1st Place: Harimoto
+Current cards: A♠, 2♠, 3♠, 4♠, 5♠, 7♠
+Strongest hand: A♠, 2♠, 3♠, 4♠, 5♠ → Straight Flush (5 consecutive cards of the same suit)
+Remaining money: 0 gold coins
+2nd Place: Akiyama
+Current cards: A♦, 10♦, 9♦, 7♦, 4♦
+Strongest hand: A♦, 10♦, 9♦, 7♦, 4♦ → Flush (5 non-consecutive cards of the same suit)
+Remaining money: 596 gold coins
+3rd Place: Abe Yukiyo
+Current cards: K♠, 9♥, 8♠, 4♣, 6♣, K♣
+Strongest hand: K♣, K♠ → Pair (2 cards of the same rank)
+Remaining money: 0 gold coins
+Unranked Players (Pigs):
+Kei Kimura
+Cards: 5♥, 8♦, 2♦, J♠, K♥
+Remaining money: 204 gold coins
+Mikamoto Mika
+Cards: K♦, J♥, 10♠, 6♠, 3♣, 5♣, Q♥, 8♣, 4♥
+Remaining money: 533 gold coins
+Taninaka Kouichi
+Cards: 2♣, 3♥, 5♦, J♦, Q♠
+Remaining money: 230 gold coins
+Shimohara Osamu
+Cards: 7♥, 2♥, 9♠, Q♦, 10♣, A♣
+Remaining money: 151 gold coins
+Saeki Kyoshi
+Cards: 3♦, 6♦, A♥, 9♣, Q♣
+Remaining money: 190 gold coins
+Yasukawa Yasuhiko
+Cards: 8♥, 7♣, 6♥, J♣, 10♥
+Remaining money: 0 gold coins
+Kanzaki Nao
+No cards
+Remaining money: 0 gold coins
+Kawai Tatsuya
+No cards
+Remaining money: 0 gold coins
+Card Discard Phase:
+Kimura continued discussing the plan for the card exchange. The plan was for Kimura to discard the 2♦ first and Mikamoto to discard the K♦ afterward. Then Mikamoto would use all 533 coins to acquire Kimura’s 2♦, and at that point, Kimura would have 533 coins. Kimura would then use all 533 coins to acquire Mikamoto’s K♦. With such a large amount of betting, no one would be able to stop Harimoto’s group from exchanging cards to improve their hands.
+Kimura’s current cards (after discarding 2♦): 5♥, 8♦, J♠, K♥.
+If she gets the K♦ from Mikamoto, Kimura will have a pair of Kings and be ranked, escaping becoming a pig.
+Similarly, for Kei, if Mikamoto gets the 2♦, she will have a straight from 2 to 6.
+(Mikamoto’s current cards after discarding K♦: J♥, 10♠, 6♠, 3♣, 5♣, Q♥, 8♣, 4♥)
+She will be ranked and escape becoming a pig.
+Kimura also calculated that they could stop other players from exchanging cards by snatching the ones they discarded. They wanted to ensure that a large number of players would not qualify for ranking, so that the reward for Harimoto’s first place would increase as much as possible.
+While they were explaining the plan, Kawai came and desperately begged Harimoto’s group for help, because Akiyama could do absolutely nothing for him. Kawai asked the Harimoto group for five useless cards that they didn’t need (a reasonable request considering Kawai’s current situation). In return, Kawai would help them by giving information about other players.
+First, he revealed to them that Taninaka and Saeki were trying to betray each other. They were trying to exchange their 3♥ and Q♣. If successful, both of them would have a pair.
+Taninaka’s current cards (after discarding 3♥): 2♣, 5♦, J♦, Q♠.
+If he gets Q♣ from Saeki, Taninaka will have a pair of Queens, be ranked, and escape being a pig.
+Saeki’s current cards (after discarding Q♣): 3♦, 6♦, A♥, 9♣.
+If he gets 3♥ from Taninaka, Saeki will have a pair of Threes, be ranked, and escape being a pig.
+The first problem that arose when exchanging cards was how much money to bet. If they bid too low, others might win the card. The ideal solution seemed to be to bet all the money they had. And Saeki made the following suggestion:
+First, Taninaka would bid 230 coins on Saeki’s Q♣, then Saeki would bid the same 230 coins on Taninaka’s 3♥.
+Saeki argued that each of them would bid a maximum of 230 coins on the card the other discarded, and if no one tried to bid higher, both of them would safely get their pairs.
+But Taninaka did not agree with that because he saw through Saeki’s scheme:
+Taninaka Kouichi’s remaining money: 230 gold coins
+Saeki Kyoshi’s remaining money: 151 gold coins.
+According to Saeki’s plan, he would discard Q♣ first, then Taninaka would discard 3♥.
+When the bidding phase starts, Taninaka would place 230 coins on Saeki’s Q♣, and Saeki would receive 230 coins (according to the card exchange rule: when a card is bought, the seller receives the bid amount).
+Saeki’s total amount would then become 190 + 230 = 420 coins.
+Then Saeki would place 230 coins on Taninaka’s 3♥, and Taninaka would receive that 230 coins.
+Both sides benefit as their hands improve without losing any money.
+However, Taninaka suspected that after he placed 230 coins on Q♣, Saeki would not place 230 coins on 3♥ to improve his hand, but would leave it until the end of the game → once Taninaka makes his bid, Saeki would have 420 coins in his account.
+Saeki was planning to lose and withdraw from the game with that money.
+Taninaka wanted to be the one to discard first, and for Saeki to bid 190 coins on Taninaka’s discarded card. Then Taninaka would return those 190 coins by bidding on Saeki’s discarded card.
+Of course, Saeki did not agree to that either, for the same reason: he feared Taninaka would escape the game with 420 coins.
+Kimura considered this reasonable and obvious. From Kimura’s perspective, exchanging cards among players is not an easy matter.
+Harimoto’s group could freely exchange cards with each other by bidding high, thanks to the strong bonds they all shared.
+But the other players didn’t have anything like that. What they had was suspicion and distrust of one another, as each only cared about protecting their own interests.
+With such tense relationships, using large sums to bid was almost impossible for them.
+From Kawai, Kei learned that Taninaka and Saeki had made an agreement that each of them would bid 71 coins on the cards they were going to discard (Q♣ and 3♥).
+They clearly thought that 71 coins was not a high enough amount to tempt others for profit, but also not so low that someone could easily outbid them.
+At the very least, in their opinion, the amount had to be more than 1 coin per card to prevent people like Kawai, who had no cards, from trying to snatch the cards they were discarding.
+That information was quite useful to Harimoto’s group. Kimura accepted Kawai into the group as a spy, asking him to investigate the other remaining players. He promised to reward Kawai for the information he brought.
+Kawai then spied and found out that Shimoharada would discard 10♣, and Yasukawa would discard 7♣.
+Shimoharada Osamu’s current cards (after discarding 10♣): 7♥, 2♥, 9♠, Q♦, A♣.
+If he gets 7♣ from Yasukawa, Shimoharada will have a pair of Sevens, be ranked, and escape being a pig.
+Yasukawa Yasuhiko’s current cards (after discarding 7♣): 8♥, 6♥, J♣, 10♥.
+If he gets 10♣ from Shimoharada, Yasukawa will have a pair of Tens, be ranked, and escape being a pig.
+Card Lot Bidding Phase:
+Six card lots appeared:
+Lot A: 2♦
+Lot B: K♦
+Lot C: Q♣
+Lot D: 7♣
+Lot E: 10♣
+Lot F: 3♥
+=> The card lots on this list are exactly as Kawai had reported.
+There are 30 minutes to think, after which the bidding will begin in the order: Lot A, B, C, D, E, F.
+Bidding for Lot A begins, with 5 minutes for players to enter their bids.
+5 minutes for Lot A bidding end, and the names of the players who bid and their amounts appear on the screen:
+Lot A: 2♦
+Shimoharada Osamu: 45 coins
+Taninaka Kouichi: 91 coins
+Mikamoto Mika: 553 coins
+Winner of Lot A: Mikamoto
+→ At this point, Mikamoto’s 553 coins are transferred to Kei Kimura (since the 2♦ was the card Kei discarded). Kei's account now holds 553 + 204 = 757 coins
+Bidding for Lot B begins, with 5 minutes for players to enter their bids.
+5 minutes for Lot B bidding end, and the names of the players who bid and their amounts appear on the screen:
+Lot B: K♦
+Shimoharada Osamu: 19 coins
+Kei Kimura: 757 coins
+Winner of Lot B: Kei Kimura
+→ At this point, Kei’s 757 coins are transferred to Mikamoto (since the K♦ was the card Mikamoto discarded).
+Now, all members of the Harimoto group are officially ranked.
+Bidding for Lot C begins, with 5 minutes for players to enter their bids.
+Kawai informs Kei Kimura that Taninaka will bid 71 coins on Lot C as planned. Kei decides to bid 81 coins to take Lot C.
+5 minutes for Lot C bidding end, and the names of the players who bid and their amounts appear on the screen:
+Lot C: Q♣
+Taninaka Kouichi: 71 coins
+Mikamoto Mika: 81 coins
+Winner of Lot C: Mikamoto Mika
+Bidding for Lot D begins, with 5 minutes for players to enter their bids.
+Kawai informs Kei Kimura that Shimoharada will bid 77 coins on Lot D. Kei decides to bid 85 coins to take Lot D.
+5 minutes for Lot D bidding end, and the names of the players who bid and their amounts appear on the screen:
+Lot D: 7♣
+Shimoharada Osamu: 77 coins
+Mikamoto Mika: 85 coins
+Winner of Lot D: Mikamoto Mika
+Bidding for Lot E begins, with 5 minutes for players to enter their bids.
+Kawai informs Kei Kimura that Yasukawa will bid 86 coins on Lot E. Kei decides to bid 89 coins to take Lot E.
+5 minutes for Lot E bidding end, and the names of the players who bid and their amounts appear on the screen:
+Lot E: 10♣
+Yasukawa Yasuhiko: 86 coins
+Mikamoto Mika: 89 coins
+Winner of Lot E: Mikamoto Mika
+Bidding for Lot F begins, with 5 minutes for players to enter their bids.
+5 minutes for Lot F bidding end, and the names of the players who bid and their amounts appear on the screen:
+Lot F: 3♥
+Saeki Kiyoshi: 101 coins
+Mikamoto Mika: 102 coins
+Winner of Lot F: Mikamoto Mika
+Mikamoto's current cards are: 2♦, J♥, 10♠, 6♠, 3♣, 5♣, Q♥, 8♣, 4♥, 3♥, 10♣, 7♣, Q♣.
+Mikamoto spent a total of 357 coins to prevent other players from exchanging cards.
+The amount remaining in Mikamoto’s account (all of Harimoto group's coins are now gathered here): 757 - 357 = 400 coins
+=> The other players have been completely prevented by the Harimoto group from improving their hands.
+Fourth Change Session:
+Card Discard Phase:
+Kimura predicted that Taninaka would try to ally with Shimoharada, so he sent Kawai to follow them,  and he was right.
+The card exchange between Saeki and Taninaka had failed in the previous round. So now, with their current hands, they were no longer useful to each other.
+(Taninaka’s current cards: 2♣, 5♦, J♦, Q♠.
+Saeki’s current cards: 3♦, 6♦, A♥, 9♣).
+→ There’s absolutely no way for them to cooperate and improve their hands.
+So Taninaka had to think about whom he could ally with next. Naturally, Shimoharada caught his eye, since he had a 2 and a Q. (Shimoharada’s current cards: 7♥, 2♥, 9♠, Q♦, A♣).
+If they exchanged cards, they would both get a pair of 2s and a pair of Queens.
+But there was a problem,  after the exchange, Taninaka would only have 4 cards, which is still not enough to form a valid hand.
+That meant Taninaka had only one path open to him if he wanted to ally with Shimoharada:
+One of them would win and proceed to the next round, while the other would lose and withdraw from the Liar Game.
+The bid poker rules specify:
+Each player is given 300 coins to use in the game.
+After the game ends, each player must return 100 coins.
+If a player’s total exceeds 100 coins, the surplus becomes theirs.
+Kei assumed Taninaka was 180 million yen in debt.
+He might say this to Shimoharada:
+“I’ll discard my Q♠ , and you bid 100 coins for it. That way, we both get saved.”
+Under this idea, Shimoharada wins Q♠ and safely advances (with a pair of Queens).
+Taninaka, now with only 3 cards, loses.
+However, after placing a 100-coin bid on Q♠, Shimoharada will own 432 coins.
+The losing players must pay a penalty of 150 coins (equivalent to 150 million yen), and, like everyone else, return 100 coins to the company.
+So, after all deductions, he still has 182 coins.
+With that money, he could pay off a debt of up to 182 million yen.
+He would escape the Liar Game safely, debt-free, and even with some spare cash,  it seemed like the best option for him.
+But there's a problem:
+For Taninaka to lose and safely exit the game, Shimoharada must win and continue playing.
+Their profits aren’t equal.
+If Shimoharada pays 100 coins for Taninaka’s discarded card, he’ll be left with just 140 coins.
+Minus the 100 coins he has to return to the company, that leaves him with only 40 coins.
+Even though this match gives him a chance to earn big, that small amount won’t help with his debt at all,  meaning he’ll have to continue playing.
+This negatively affects his interests, so he might refuse to make the trade with Taninaka.
+However, Shimoharada agrees.
+Because he quickly realizes Taninaka’s scheme and spots a big loophole in it.
+Kimura sends Kawai to prevent the deal from going through.
+Kawai tells Taninaka that Shimoharada is deceiving him:
+"Once he gets your Q♠, he’ll have a pair. In return, he’ll only have 140 coins left.
+After the company takes back 100 coins, he’ll be left with just 40.
+That miserable 40 coins won’t help with his debt at all, so he’ll have no choice but to keep playing.
+Do you think any sane guy would just say ‘sure’ to such a terrible offer?
+But he agreed! Happily, even! Strange, isn’t it?
+There’s only one reason he’d accept that deal.
+He has no intention of buying your Q♠ for 100 coins.
+You’ll get at most 10 coins, or, if you’re really unlucky, just 1 coin.”
+When Taninaka says Shimoharada wouldn’t do that,  because if he only offered 1 coin, other players might snatch the card,
+Kawai points out that no one else needs Taninaka’s Q♠.
+Looking at the current hands of all players:
+The Harimoto group players are already ranked. They spent a lot of money in the previous exchange round, so they won’t bid again.
+The remaining players are:
+Akiyama (10♦, 9♦, 7♦, 4♦, 5),
+Yasukawa (8♥, 6♥, J♣, 10♥),
+Saeki (3♦, 6♦, A♥, 9♣) ,
+The Q♠ is useless to all of them.
+So with no demand, the card could be won for a dirt-cheap price,  it’s that simple.
+If Shimoharada actually got it for just 10 coins,
+Taninaka’s balance wouldn’t go higher than 342 coins.
+After deducting the 150-coin penalty and 100 coins to be returned to the company,
+Taninaka would be forced to leave the game still in massive debt and subject to seizure.
+Realizing this, Taninaka rushed to Shimoharada to reverse the deal, and instead offered to bid 100 coins on Shimoharada’s Q♦ (to get a pair of Queens).
+Naturally, Shimoharada refused,  for the same reasons Taninaka feared.
+They argued. The deal collapsed.
+Kimura analyzed that:
+Those two ,  and the remaining players ,  only have two survival options:
+A – Lose and withdraw after earning just enough to pay off their debt,
+B – Ignore the growing debt and focus only on winning this revival round to advance to the next match.
+Of course, Option A is preferred by most.
+But it requires discarding their cards, which comes with high risk.
+As the game progresses, fewer players are willing to bid for discarded cards.
+That drastically reduces their value.
+Cards that could win a round may sell for dirt cheap.
+And those who discard them risk losing and leaving the game with a huge debt.
+After realizing that risk, most will shift to Option B,  fighting to win and move forward.
+But if no one is willing to discard, then Option B becomes impossible.
+Unless someone is brave enough to actually throw away a valuable card, the option just isn’t viable.
+So, the question is: Does anyone want to discard?
+They all think: “No, I don’t want to give up my cards.”
+Which means they’re all trapped in a stalemate.
+It’s like a chain; suspicion binds them like unbreakable shackles.
+This led Kimura to conclude:
+In this exchange round, no one will discard any cards.
+Card Lot Bidding Phase:
+Just as Kei predicted, no one discarded, so there were no lots available.
+Bidding was canceled, and the game moved swiftly into the 5th and final exchange round.
+which will bring the game to an end.
+Fifth Change Session:
+Card Discard Phase:
+This exchange round is the final one. That means it’s the last chance for the remaining players.
+They are nearly backed into a corner, which means they’re more willing to compromise than ever before,  and that could very well lead them to cooperate with each other in the end. Kei had already prepared measures for this.
+Kimura asked him to trick the other players into thinking that some players had already decided to discard all their cards.
+This idea is natural, because a few players only had 4 cards left.
+Whether they have 4 cards or 0, the result is the same: they don’t meet the minimum requirement to be ranked.
+That’s why it’s better to discard those cards and try to earn money from them.
+Kawai told the same thing to four different players.
+Now, each one of them blindly believes that they don’t need to discard their own cards.
+They easily believe this because that’s human nature.
+From a psychological standpoint, the more someone is cornered, the more likely they are to believe something that feels convenient to them.
+That’s why people crushed by urgent debts so easily accept the absurd terms offered by loan sharks,  such as 10% interest every 10 days.
+Even if they weren’t in a desperate situation, they’d clearly see that accepting those terms is no different from tying a noose around their own necks.
+This belief makes the players think that they only need to bid on the card lots to win.
+It puts them into a false sense of ease, and as a result, no one feels the need to discard any cards.
+Now Kei begins the next step in her plan to earn a massive profit.
+Kimura approaches Taninaka and tells him that she may lose the bid for the card lots in the next round.
+She offers him a solution: she will discard the J♠ so that Taninaka can bid on it,  under one condition: he must bid 285 coins.
+Kei tells Taninaka that she will have Mikamoto bid 284 coins on that card, so if he bids anything lower than 285, the card will automatically go back to the Harimoto group.
+Hearing this information, Taninaka takes the bait.
+As we know, Kei used up 357 million to prevent those four players from being ranked, so now they are ready to lose. If those four lose, her group will receive 440 million, meaning their earnings will only be 83 million. But things don’t stop there. This becomes the premise for Kei’s subsequent moves to earn a huge profit.
+Due to Kawai’s actions, the four players continue to fall into a stalemate. But soon, they will see that no one discarded any cards, and naturally, they will panic. However, Taninaka has a backup plan,  Kimura’s J♠. Because losing while still having a huge debt is unacceptable, he will bid 285 coins on that card (because Kei told him Mikamoto would bid 284 coins, so if Taninaka doesn’t bid 285 coins, he won’t be able to get the card).
+For Harimoto’s group, Taninaka being ranked would result in 285 million instead of just 110 million if he weren’t ranked. And Taninaka would only be willing to place such a high bid on Kei’s card if he had no other card left to bid on, which happened after Kei blocked the earlier card trades, causing all players to lack cards, and manipulated them into not discarding any.
+(+ Blocking the other players from being ranked: 357 million
+Penalty fees from losers that Harimoto’s group receives: 330 million
+Winning bid on J♠: 285 million
+=> +258 million.
+In this way, their total profit from this plan could reach 258 million.)
+And Kei still didn’t stop there. Kawai requested a reward for his usefulness. Kei agreed and began explaining how she would reward Kawai. Kei would give Kawai a pair in exchange for all the coins he had, which would help Kawai avoid the worst-case scenario of being forced out of the game with a massive debt.
+Kei would have Mikamoto discard 4 cards,  Q♥, 4♥, 2♦, 10♠ ,  first, forming one lot. Then Abe would discard 4♣ to form the next lot. If he gets both lots, Kawai would have 5 cards and a pair of 4s, qualifying for ranking.
+Kawai currently has a total of 300 coins. Kei tells him to bid 290 coins on the four cards Mikamoto discards first, then place the remaining 10 coins on the card discarded by Abe. The others won’t be able to stop Kawai from completing his hand because:
+Remaining coins of the other players:
+Yasukawa: 152 coins
+Shimoharada: 240 coins
+Saeki: 271 coins
+Taninaka: 332 coins
+=> Kawai’s bid for the 4-card set will be 290 coins, so the only one who could outbid him is Taninaka. But as Kei said, Taninaka must reserve 285 coins to bid for the card Kei promised to discard for him. That means almost no one can compete for Mikamoto’s card lot besides Kawai.
+Current cards of those players:
+Taninaka: 2♣, 5♦, J♦, Q♠
+Saeki: 3♦, 6♦, A♥, 9♣
+Shimoharada: 7♥, 2♥, 9♠, Q♦, A♣
+Yasukawa Yasuhiko: 8♥, 6♥, J♣, 10♥
+=> As for Abe’s card, it may not seem so easy, since Kawai is only planning to bid 10 coins on it, but actually, there’s nothing to worry about. None of the remaining players can improve their hand and be ranked by getting the 4♣.
+→ Kawai will safely get a pair.
+Kei threatens Kawai that he shouldn’t trick them by bidding less than 290 coins for the set of cards Mikamoto will discard. If he bids even one coin less, they will outbid him by 11 coins on Abe’s card (Kawai currently has exactly 300 coins; Kei threatens that if Kawai reneges and bids less than 290 coins, Kei’s group will use the amount Kawai doesn’t have left to bid on the ♣4 card, and it will safely return to their group, while Kawai will lose and suffer greatly). This forces Kawai to bid exactly 290 coins.
+If Kawai ends up unranked, Harimoto’s group will earn 110 million from his loss. But if Kimura lets him get a hand that ranks, her group will receive 300 million. With this, they lose the 110 million from Kawai’s loss, but more than make it up by winning all of his coins,  that is, 300 million.
+→ Their profit will be 190 million.
+However, Kei still doesn’t want to stop there. She absolutely does not want Kawai to have a pair.
+Her real goal lies here: First, she plans to sell Mikamoto’s four-card set, discarded to Kawai for 290 coins. Then, she will pretend to let Kawai have a card that Abe discarded, but in reality, she will snatch it back from him by bidding 1 coin higher than he bids,  11 coins (since he spent 290 coins before, he only has 10 left). By stealing a card from Kawai, she will cause him to lose, but before that, he had already given her 290 coins for Mikamoto’s four cards. This way, she can take both his 290 million coins and the 110 million reward for making him one of the losers.
+→ In summary, Kimura’s overall plan to make big money is as follows:
+The top priority for Kei and Harimoto’s group is to let Harimoto take first place. Then they must take measures to ensure as many players as possible remain unranked. Using Kawai, Kei continuously prevents other players from cooperating. As a result, in the 4th card exchange round, none of them improve their hands. Next, Kei convinces Taninaka to agree to buy the ♠J card that she discarded for 285 coins to improve his hand (Taninaka only agrees to bid so high on Kei’s card because he no longer has other betting options, which happened after Kei blocked card transfers earlier, leaving players short of cards and forcing them not to discard).
+Kei had planned this from the start, realizing that Taninaka’s cards would be suitable to create a ranked hand if combined with Kei’s card. This gives a reasonable reason for Taninaka to pay 285 coins for the card Kei discarded.
+So why does Kei have to be the one to discard the card and not someone else from Harimoto’s group? First, Harimoto’s current cards are A♠ 2♠ 3♠ 4♠ 5♠ 7♠. The strongest combination for rank 1 is A♠ 2♠ 3♠ 4♠ 5♠, so the 7♠ is extra and has no value combined with Taninaka’s cards (2♣ 5♦ J♦ Q♠…).
+Mikamoto and Abe need to use their single discard in the 5th exchange round for Kei’s next money-making move (each player can only discard once per exchange round). So in this situation, Kei is the best person to discard the ♠J card, which helps improve Taninaka’s hand.
+Kei’s next money-making move is promising to pay Kawai by giving him a 5-card hand with a pair that can be ranked, by creating two sets: one 4-card set discarded first by Mikamoto and one 1-card set discarded later by Abe.
+Kawai has 300 coins. Kei wants Kawai to bet 290 coins on the 4-card set Mikamoto discarded first, then 10 coins on the 1-card set Abe discarded.
+Kei threatens that if Kawai reneges and bids less than 290 coins on Mikamoto’s discarded set, Kei’s group will bid on the ♣4 card with the amount Kawai doesn’t have left, and the card will return to Harimoto’s group, causing Kawai to lose. This forces Kawai to bid exactly 290 coins.
+From Kawai’s perspective, Kei wants him to think the reason she demands he bid 290 coins on Mikamoto’s discarded cards is that those cards are very valuable and the other players could improve their hands with Mikamoto’s discarded set. Meanwhile, the ♣4 card Abe discarded has no value to the others.
+If Kawai obtains Mikamoto’s discarded set cheaply, then bids on the ♣4 card,  a card no one else wants,  he can easily get it for a low price. This would mean Harimoto’s group wouldn’t get a full 300 coins from Kawai, so Kei imposes the condition to ensure they receive the full 300 coins and to make sure Kawai respects the agreement and doesn’t cheat,  a reasonable condition from a benefit standpoint.
+However, Kei’s true intention is cruel and cunning. She does not want Kawai to rank; in fact, she will snatch the ♣4 card from him by bidding 1 coin higher than his offer,  11 coins (since he already spent 290 coins, he only has 10 left).
+Kei will bid on the ♣4 card herself, using the money she gained from Taninaka’s bet on the card she discarded (she previously had zero coins). She can easily outbid Kawai’s remaining coins.
+By stealing a card from Kawai, she causes him to lose, but before that, he had already given her 290 coins for Mikamoto’s four cards.
+→ With these moves, Harimoto’s group can earn prize money for ranking (with Harimoto first), make a good amount from Taninaka and Kawai, and also earn rewards from having as many as five players unranked (“five pigs”).
+According to Kimura’s calculations, the sets of cards for the 5th discard round are:
+Set A: ♠J (card discarded by Kei)
+Set B: Q♥ 4♥ 2♦ 10♠ (cards discarded by Mikamoto)
+Set C: 4♣ (card discarded by Abe)
+However, Kei Kimura didn’t expect that all her moves had already been anticipated by Akiyama, and this was a trap he set.
+Card Lot Bidding Phase:
+The card sets that appeared were completely different from Kei’s calculations:
+Set A: A♦ (Discarded by Akiyama)
+Set B: 5♦ (Discarded by Taninaka)
+Set C: 3♦ 6♦ (Discarded by Saeki)
+Set D: ♠J (Card discarded by Kei)
+Set E: Q♥ 4♥ 2♦ 10♠ (Cards discarded by Mikamoto)
+Set F: 4♣ (Card discarded by Abe)
+When the card sets were presented, she realized she had been trapped, deceived, and manipulated by Akiyama all along.
+Bidding begins for Set A, with 5 minutes for players to enter their bids.
+After 5 minutes, the bidders’ names and amounts appear on the screen:
+Set A: A♦
+Taninaka Kouichi: 332 coins
+Winner of Set A: Taninaka Kouichi.
+→ This adds 332 coins to Akiyama’s account. Akiyama’s current balance: 596 + 332 = 928 coins.
+→ Harimoto’s group has no reason to interfere with this transaction because doing so would only give Akiyama more money, as Harimoto’s group would be willingly giving their coins to him.
+Bidding begins for Set B, with 5 minutes to enter bids.
+After 5 minutes, the bidders and amounts appear:
+Set B: 5♦
+Akiyama Shinichi: 401 coins
+Winner of Set B: Akiyama Shinichi.
+→ Harimoto’s group cannot stop this transaction because the highest amount in any of their accounts is only 400 coins.
+→ Akiyama’s remaining coins: 928 - 401 = 527 coins.
+Bidding begins for Set C, with 5 minutes to enter bids.
+After 5 minutes, the bidders and amounts appear:
+Set C: 3♦ 6♦
+Akiyama Shinichi: 427 coins
+Winner of Set C: Akiyama Shinichi.
+→ The remaining cards in Akiyama’s hand (after discarding A♦) are: 10♦, 9♦, 7♦, 4♦, plus the newly won cards: 5♦, 3♦, 6♦.
+Compare with Harimoto’s hand:
+Akiyama: 10♦, 9♦, 7♦, 4♦, 5♦, 3♦, 6♦
+Harimoto: A♠ 2♠ 3♠ 4♠ 5♠ 7♠
+1. Harimoto’s hand:
+A♠, 2♠, 3♠, 4♠, 5♠, 7♠
+→ Has a sequence: A♠–2♠–3♠–4♠–5♠ of the same suit
+→ This is a > Straight Flush A-5 (5-high straight flush)
+2. Akiyama’s hand:
+10♦, 9♦, 7♦, 4♦, 5♦, 3♦, 6♦
+→ The same suit cards are 3♦, 4♦, 5♦, 6♦, 7♦
+→ This is:
+Straight Flush 3♦–4♦–5♦–6♦–7♦ (7-high straight flush)
+Harimoto: 5-high straight flush
+Akiyama: 7-high straight flush
+→ Akiyama wins because his straight flush has the higher top card.
+Akiyama’s hand is STRONGER than Harimoto’s. This allows Akiyama to climb to rank 1.
+From this moment, Akiyama has achieved his goal: a top-ranked hand and a large prize.
+Forced to accept defeat, Harimoto’s group carries out the next steps to maintain their standings.
+Bidding begins for Set D, with 5 minutes to enter bids.
+After 5 minutes, bidders and amounts appear:
+Set D: ♠J
+Akiyama Shinichi: 1 coin
+Mikamoto Mika: 400 coins
+Winner of Set D: Mikamoto Mika.
+→ Kei’s account goes from 0 to 400 coins.
+Bidding begins for Set E, with 5 minutes to enter bids.
+After 5 minutes, no one bids on Set E. Set E returns to its original discarder, Mikamoto.
+Bidding begins for Set F, with 5 minutes to enter bids.
+After 5 minutes, bidders and amounts appear:
+Set F: 4♣
+Akiyama Shinichi: 50 coins
+Kimura Kei: 400 coins
+Winner of Set F: Kimura Kei.
+So what did Akiyama do? What is his plan and purpose?
+Explanation of Akiyama’s plan:
+Akiyama’s main goal was to achieve first place and use the large prize money to pay off all the debts of the other players (except the Harimoto group). To achieve this, Akiyama needed to accomplish two things: improve his hand to secure first place and thus have enough money to pay off the other players (excluding Harimoto), and distract the Harimoto group from improving their own hands.
+To improve his hand, Akiyama needed to do the following:
+At the start of the second card exchange round, Akiyama’s cards were: 10♦, 9♦, 7♦, 4♦, A♦
+Saeki’s cards (after Kei stole some) were: 3♦, 6♦, A♥, 9♣
+Taninaka’s cards (after Kei stole some) were: 2♣, 5♦, J♦, Q♠
+From this, if Akiyama could get Taninaka’s 5♦ and Saeki’s 3♦ and 6♦, he would have a Straight Flush 3♦–4♦–5♦–6♦–7♦, which is stronger than Harimoto’s Straight Flush A♠–2♠–3♠–4♠–5♠. This would secure first place for Akiyama. For this to happen, the plan had to unfold as follows:
+Akiyama discards his extra A♦, which is bought by Taninaka for 332 coins;
+=> This adds 332 coins to Akiyama’s account, making it 596 + 332 = 928 coins.
+Taninaka then discards his 5♦, which is bought by Akiyama for 401 coins;
+=> This gives Akiyama the 5♦.
+Saeki discards 3♦ and 6♦, which are bought by Akiyama for 427 coins;
+=> This allows Akiyama to create the Straight Flush and surpass Harimoto, securing first place.
+In a normal situation, this plan seems impossible because, apart from the Harimoto group, there isn’t enough trust between the other players to make this work. From Taninaka’s perspective, he would never be foolish enough to give all his money to Akiyama and risk being robbed (buying cards he doesn’t need with all his money, risking losing it all with nothing in return). Similarly, Saeki might be forced into a disadvantageous position, being made a “pig” with no cards left and losing all money, and knowing Akiyama has no cards to help him improve his hand in exchange, Saeki would very likely refuse to discard his cards under normal circumstances.
+Akiyama had to create a situation where they would trust him unconditionally. That’s why Akiyama asked Kawai to act out a play in front of the Harimoto group, crafting a very reasonable scenario in which, through Kawai, Akiyama completely manipulated Kei Kimura.
+Kimura saw that Kawai was angry at Akiyama because there was no way to help him, and Kawai defected to Harimoto’s group seeking their help. Kimura considered this normal because she believed Akiyama had given up on helping the other players, having made a profit for himself. Trying to help them only increased the risk and reduced his current money unnecessarily. Of course, this was just Kawai’s act, which Akiyama ordered him to perform so Kawai could infiltrate Harimoto’s group. Kimura would not fully trust Kawai, so Akiyama created a very logical and convincing scenario to make Kei believe Kawai was extremely useful to her, and when Kei tried to exploit Kawai for her own gain, that’s when Kei fell into the trap.
+Akiyama used the players’ hands to predict their reactions. For example, he predicted Taninaka and Saeki would exchange cards in the third exchange round. If Saeki gave Taninaka Q♣, Taninaka would have a pair of Queens, ranking him out of being a “pig.” Similarly, if Taninaka gave Saeki 3♥, Saeki would have a pair of 3s, also ranked out of being a “pig.”
+Akiyama also logically predicted that they would argue over who would discard first when betting all their money on a card, because after the first discarder received money, there was a high risk they would betray and not bet the agreed amount on the other player’s card, intentionally losing to escape with a large amount of money. This would make them bet a middle-range amount, not too low but not too high, to avoid betrayal.
+Akiyama sent Kawai to observe and confirm the exact bet amounts they agreed on, or perhaps he instructed Kawai on how to manipulate them. If they agreed on a high bet, Kawai would warn them of the risk of discarding first; if they agreed on a low bet, Kawai would warn them of the risk of having their cards stolen. The goal was to motivate Kei to steal their cards, if the bet was too high, Kei wouldn’t intend to steal, but if the first discarder betrayed after winning a lot of money (not betting on the other’s card), Kei could easily get the card for a very low price because no one else would compete for it.
+By setting a middle bet price, Kei felt he had a chance to steal cards and gain a reasonable profit from those who became “pigs.” The money Kei spent on stealing cards was neither too high nor too low. In reality, the Harimoto group spent 357 million to prevent the four players from exchanging cards successfully, and this money was transferred to the accounts of the four players Akiyama wanted to pay off.
+Besides helping Harimoto’s group earn prize money from those who became pigs, stealing cards also set the stage for Kei to earn a large amount from Taninaka and Kawai. (As mentioned above, Taninaka could only accept a high bet on Kei’s card because he had no other option after Kei blocked previous card exchanges, putting players in shortage, and manipulated them into not discarding cards. For Kawai, Kei’s successful prevention of discards made Kawai feel he really helped Harimoto’s group, deserved payment, and as a longtime member of Harimoto’s group, he believed he would be rewarded and bet on the cards Mikamoto discarded.)
+Taninaka’s successful card theft further boosted Kawai’s confidence in the deal’s success, leading him to bet money. Stealing cards from players also gave Mikamoto enough and the right cards to discard: Q♥, 4♥, 2♦, 10♠. Before stealing, Mikamoto’s strongest ranked hand was 2♦, 3♣, 4♥, 5♣, 6♠. Thanks to stolen cards, Mikamoto created a stronger hand without needing 4♥ and 2♦. (If Mikamoto discarded Q♥, J♥, 10♠, 8♣/6♠ and Abe discarded 8♠/6♠ instead, it would be less promising because unlike the 4, 6, and 8 cards, which could be stolen by others to improve their hands, Kawai wouldn’t dare bet on Mikamoto’s discarded lot.)
+When the players were cornered, Akiyama appeared and proposed that they help him get first place in exchange for clearing their debts. They had no choice but to cooperate; cooperating with Akiyama was the only way to escape. Otherwise, they faced a miserable end, as Kimura had turned them into pigs and would force them to leave the Liar Game with huge debts. Akiyama skillfully made Kei the villain who trapped them, while he became their savior, opening a path to survival (even though Akiyama indirectly put them in that situation).
+Another reason players accepted cooperation was because of Nao. Throughout the Liar Game, players had witnessed countless deceptions and lies. Sometimes they deceived others, sometimes they were deceived, but in the end, they found one person they could fully trust: Kanzaki Nao. Her words were always idealistic, like “let’s cooperate” or “let’s find a way to save everyone.” That’s why she was often exploited and deceived. But after all, she never tried to deceive anyone for personal gain.
+These players had participated in games Nao mentioned since the pandemic game,  meaning they went through three games until now: the pandemic game, musical chairs, and the bid poker auction. She had gone through many rounds of the Liar Game, constantly deceived, contradicting the game’s criteria, yet never retaliating. Before the final card exchange, all players were truly cornered with no escape in sight. Kei had pushed them into a dead end throughout the game, and finally, they realized the only person who never betrayed them was Kanzaki Nao. (→ Through Nao, Akiyama indirectly manipulated their psychology, making them trust Akiyama’s demands unconditionally.)
+To ensure players wouldn’t consider cooperating with Harimoto’s group, Akiyama set a trap from the start. When Harimoto decided to steal Akiyama’s 5 cards, he intentionally told Yasukawa to bet 233 coins instead of 231 as agreed, giving Harimoto a reason to steal Akiyama’s cards and avoid cooperation. Harimoto also declared he didn’t trust or want to cooperate with them again. This made linking with Harimoto’s group almost impossible in their minds.
+Besides, thanks to this, Harimoto’s group gave Akiyama 301 coins (because Harimoto wanted to bet higher than the 300 coins Kawai could bet), helping Akiyama reserve money for the final plot.
+Another purpose of Akiyama wanting Kei to steal cards from the other players is that Akiyama wants to reduce the amount of money in the Harimoto group's account so that everything will go smoothly in the final transaction: Akiyama’s account balance is 596. If Taninaka buys the card that Akiyama offered for 332 coins, then Akiyama’s account will have: 596 + 332 = 928 coins. With 928 coins, Akiyama needs to place two bets on two lots containing 5♦ (discarded by Taninaka) and 3♦, 6♦ (discarded by Saeki) to improve his hand. 928/2 = 464, which means for both auctions to succeed, the remaining amount in Akiyama’s opponent’s account,  Mikamoto’s account,  must not exceed 464 coins. After round two, the total money of the Harimoto group is 757 coins, and they will concentrate it into one account, which is Mikamoto’s account. Mikamoto spent 357 coins to prevent other players from exchanging cards in the third card exchange round, leaving Mikamoto’s account with: 757 - 357 = 400 coins. And with only 400 coins in one Harimoto group account, Akiyama can easily win the bids on lots of cards that improve his hand and secure first place.
+Summary of this strategy’s idea:
+Wait for the right moment when Taninaka and the other three players really feel cornered. (Something Akiyama indirectly creates.)
+Propose cooperation with all players except the members of the Harimoto group.
+In the last card exchange round, cause Taninaka discarded the ♦5 and Saeki discarded ♦3 and ♦6, thereby improving the hand into a straight flush and securing first place.
+The remaining players will finish the game without a valid ranking, but the huge first-place prize will be enough to pay off their debts and allow everyone to safely withdraw from the game.
+The second thing Akiyama needs to achieve is to distract the Harimoto group from improving Harimoto’s hand. Akiyama takes first place thanks to the hand 3♦, 4♦, 5♦, 6♦, 7♦ (Akiyama currently holds 10♦, 9♦, 7♦, 4♦, 5♦, 3♦, 6♦), which is stronger than Harimoto’s hand A♠ 2♠ 3♠ 4♠ 5♠ (Harimoto currently holds A♠ 2♠ 3♠ 4♠ 5♠ 7♠).
+However, Harimoto still has another option to improve his hand by taking the 6♠ from Mikamoto and the 8♠ from Abe to form a Straight Flush 4♠ 5♠ 6♠ 7♠ 8♠.
+Comparing the two hands:
+Akiyama:
+3♦, 4♦, 5♦, 6♦, 7♦
+→ Straight Flush, 7-high (starting from 3)
+Harimoto:
+4♠, 5♠, 6♠, 7♠, 8♠
+→ Straight Flush, 8-high (starting from 4)
+Both hands are Straight Flushes, but:
+Harimoto’s 8-high straight flush > Akiyama’s 7-high straight flush
+=> If the Harimoto group improves his hand that way, Akiyama will not be able to take first place from Harimoto (Akiyama won’t have enough money to pay everyone back). Therefore, Akiyama needs to take action to prevent the Harimoto group from doing that.
+After the dealing round ends, the Harimoto group has the following cards:
+Harimoto took lots A and J; the cards are:
+A♠ J♣ 10♥ 7♠ 5♠
+4♠ 8♥ 7♣ 2♠ K♣ 6♥
+Kei Kimura took lot G; the cards are:
+5♥ 8♦ 2♦ J♠ K♥
+Mikamoto Mika took lot C; the cards are:
+K♦ J♥ 10♠ 6♠ 3♣
+Abe Yukiyo took lot D; the cards are:
+K♠ 9♥ 8♠ 4♣ 6♣
+→ This means the Harimoto group can definitely improve Harimoto’s hand to 4♠, 5♠, 6♠, 7♠, 8♠ from the start (which is the only move that can improve Harimoto’s hand to first place) by taking 8♠ and 6♠ from Mikamoto and Abe.
+That is why Akiyama wants Nao to ask Harimoto and Akiyama to discard unnecessary cards to help the two players who do not have good hands yet. Harimoto is forced to do so because of religious ideals and Abe’s trust. Another reason is that although Harimoto must discard those 5 cards, he can still manage to take 5 other cards from Akiyama, including 3♠, which increases Harimoto’s chance to improve his hand to first place.
+The process of discarding and stealing cards by Harimoto goes as follows:
+Harimoto wants to be the first to discard cards. Harimoto has a total of 11 cards:
+A♠ J♣ 10♥ 7♠ 5♠ 4♠ 8♥ 7♣ 2♠ K♣ 6♥, among which the strongest 5-card combination is: A♠, 7♠, 5♠, 4♠, 2♠, so Harimoto chooses to discard 5 cards: J♣ 10♥ 8♥ 7♣ 6♥.
+Akiyama has a total of 10 cards:
+A♦ 10♦ 5♣ 4♦ 3♠ Q♥ 9♦ 8♣ 7♦ 4♥, among which the strongest 5-card combination is: A♦, 10♦, 9♦, 7♦, 4♦, so Akiyama discards 5 cards: 5♣ 3♠ Q♥ 8♣ 4♥.
+After Yasukawa successfully bids on the lot with cards J♣ 10♥ 8♥ 7♣ 6♥, Mikamoto snatches the lot with cards 5♣ 3♠ Q♥ 8♣ 4♥ from Kawai, claiming they betrayed first.
+Now the Harimoto group has the 3♠ card; Harimoto gains an option to improve his hand by taking 3♠ discarded by Mikamoto. Harimoto can form A♠ 2♠ 3♠ 4♠ 5♠ (a hand Akiyama can beat with 3♦, 4♦, 5♦, 6♦, 7♦).
+In the second card exchange round, the Harimoto group did this. So why did the Harimoto group choose to exchange the 3♠ card instead of the 8♠ and 6♠? The first reason is simple: exchanging the 3♠ takes fewer discard rounds, quicker and simpler. Each player is allowed to discard once per exchange round, and the number of discards is limited, so the Harimoto group doesn’t want to waste it uselessly. Discarding is crucial for creating opportunities to earn money, e.g., discarding unnecessary cards so others can bet and generate large amounts of money. The second reason is that it serves as bait: if Akiyama or other players team up to steal the 3♠ from Harimoto, Harimoto still has another chance to improve his hand, possibly even stronger, which allows Harimoto both to gain the money Akiyama or others pay to steal the 3♠ and the huge first-place prize, as Harimoto can still maneuver to form the top-ranking hand again.
+Another reason is that before Mikamoto snatched the card to stop players exchanging cards in the third exchange round, Mikamoto’s cards were: K♦ J♥ 10♠ 6♠ 3♣ 5♣ Q♥ 8♣ 4♥, while Kei’s cards were: 2♦ 5♥ 8♦ J♠ K♥. Mikamoto could improve his hand by taking 2♦ from Kei to form a Straight from 2 to 6, and in this hand, 6♠ is necessary and cannot be discarded. Instead of making a pair, Mikamoto wants to keep a relatively strong Straight to prevent others from exchanging cards to make a strong pair, specifically a pair of Aces, which helps Mikamoto keep a high ranking and maximize earnings. (Of course, the Harimoto group can manage to make a stronger hand without 6♠, but it wastes more discard turns and is unnecessary because Kei believes Akiyama has lost motivation to compete.)
+Then, in the third exchange round, when the Harimoto group was discussing card exchanges, Kawai, sent by Akiyama, appeared. Kawai’s presence showed Kei an opportunity to earn more money by preventing other players from exchanging cards and tricking money from Kawai himself. Kawai caused Kei and the Harimoto group to focus on discarding other players’ cards instead of trying to improve Harimoto’s hand. Kawai’s desperation, begging for help from the Harimoto group, shows Akiyama no longer cares about competing or helping others, because Kei thinks Akiyama has made enough profit and staying still is the best choice to get the prize without risk, making improving Harimoto’s hand unnecessary (because Harimoto’s current hand is...). Instead, the Harimoto group focuses on money and discards things that bring bigger profits.
+Actions taken by the Harimoto group during all 5 card exchange rounds:
+Round 1: Akiyama and Harimoto discard cards. Mikamoto steals the pile of cards that Akiyama discarded.
+Round 2: Harimoto discards K♣. Mikamoto discards 3♠.
+Round 3: Kei discards 2♦, Mikamoto discards K♦. During this round, Kawai appears and helps Kei prevent other players from exchanging cards.
+Round 4: No one discards any cards.
+Although this exchange round is empty with nothing to do, even if the Harimoto group wanted to improve Harimoto’s hand, one extra exchange round is not enough. Because if the Harimoto group wants to improve Harimoto’s hand by taking 8♠ and 6♠ from Mikamoto and Abe, the process must go as follows:
+Currently, all the money is in Mikamoto’s account. Therefore, Harimoto will discard one unnecessary card so that Mikamoto can buy it with all the money, allowing Harimoto to bet on that card without fear of it being stolen; even if stolen, the thief must pay a large sum to the Harimoto group.
+Next, Abe will discard the 8♠, allowing Harimoto to bet all the money on it.
+To then take the 6♠ from Mikamoto, Harimoto needs to discard a card so Abe can buy it with all the money, giving Harimoto money in the account to bet. However, since Harimoto has already discarded in this exchange round, to get the 6♠, Harimoto must wait for the next exchange round, meaning it requires two exchange rounds.
+The next exchange round will proceed as follows: Harimoto discards one unnecessary card, Abe buys it with all the money, giving Harimoto’s account a large amount of money. After Harimoto discards, Mikamoto discards the 6♠, and Harimoto will bet all the money on it.
+Summary: To improve the hand with 6♠ and 8♠ for Harimoto, the Harimoto group will need two discards across two exchange rounds, and if they want to improve Harimoto’s hand starting from the 4th exchange round, they will also need the 5th round, in which Harimoto and Kei will be the discarding players.
+However, Kawai’s presence made them want to use the 5th exchange round for a different purpose.
+Round 5:
+Kei discards ♠J
+Mikamoto discards Q♥, 4♥, 2♦, 10♠
+Abe discards 4♣
+→ The purpose of these discards is to earn more money from Taninaka and Kawai.
+It can be seen that both Mikamoto and Abe (even if, in the alternative case where Mikamoto discards 6♠ in round 4, Abe would have to discard 8♠ in round 5) need to use their discard turns in this round to earn a larger profit instead of improving Harimoto’s hand. The Harimoto group currently considers improving Harimoto’s hand pointless because Harimoto is already in first place, and Akiyama has abandoned competition from Kei and Harimoto’s viewpoint.
+(Assuming the Harimoto group wants to exchange cards in just one turn, Harimoto needs to successfully bet twice, with the maximum bet once being 200 units (Harimoto’s account currently has 400 units). If so, Akiyama could easily steal the bet, then improve his hand and take first place.)
+At first, Kei didn’t trust Kawai, but after Kawai’s continuous accurate information, Kei unconsciously accepted everything Kawai said as true and correct, completely believing that Akiyama was already out of the competition and had no intention to help the players. Akiyama calculated and created a very logical and reasonable scenario, and from Kawai’s behavior and the reactions of other players like Taninaka, everything seemed natural in Kei’s eyes without any unnatural or suspicious points.
+In summary: Akiyama deliberately let Harimoto get the 3♠ so the Harimoto group would create a weaker hand, appearing indifferent and unmotivated to continue fighting in the game after making a decent profit, while sending Kawai to give them another target to earn money so they would focus on that instead of improving Harimoto’s hand. By the time Kei realized she was being tricked, it was already too late.

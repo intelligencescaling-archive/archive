@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yumeko-dice-control-feat
+category: doc
+title: Yumeko Dice Control Feat
+alt_titles:
+- Yumeko dice control CPI feat
+authors:
+- name: SoundStorm
+  source: doc-text
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11jEP84T2m1LSHvo3SfBjqu9Q99_alH7x4JKSj-UNK8g
+    google_id: 11jEP84T2m1LSHvo3SfBjqu9Q99_alH7x4JKSj-UNK8g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2036
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2787313
+      sha256: 666db574824f84323d9d9e78f9562c6b3b63198f674633486ebf7a7d7b8330ab
+    - format: docx
+      name: document.docx
+      bytes: 4392069
+      sha256: 426eb67557c0c845a52167a4f11997f6f12b95b30a86fd344587aa583eb1b983
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Yumeko dice control CPI feat
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: Yumeko Dice Control Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

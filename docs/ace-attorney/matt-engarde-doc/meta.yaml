@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: matt-engarde-doc
+category: doc
+title: MATT ENGARDE DOC
+alt_titles:
+- Matt Engarde
+authors: []
+series:
+- ace-attorney
+characters:
+- matt-engarde
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1fcwFJydrfbvbkUWusgg98lFdrdNSZ_0MeVtA5ATkR3M
+    google_id: 1fcwFJydrfbvbkUWusgg98lFdrdNSZ_0MeVtA5ATkR3M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 2471
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4275425
+      sha256: 8d74e568204d4932e9f34fa309eff00d241b47bdd142c9f316d9278febc2d0f4
+    - format: docx
+      name: document.docx
+      bytes: 4559514
+      sha256: 3d8061b01b10cc9ad116a2ce6a1514eb8ae2ed2edc5dcdce59ce6fd7c10d427c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Matt Engarde
+- library: remastered
+  section: Ace Attorney
+  character: Matt Engarde
+  link_text: MATT ENGARDE DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

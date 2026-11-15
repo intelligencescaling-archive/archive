@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-guide-to-strategy
+category: doc
+title: A guide to Strategy
+authors: []
+series: []
+characters: []
+tags:
+- guide
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GHVpsZwJNtuKDS7iSn6UUS5HugguXnRopmFOSOdqQ2U
+    google_id: 1GHVpsZwJNtuKDS7iSn6UUS5HugguXnRopmFOSOdqQ2U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2429
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4178297
+      sha256: 912a92f8fa76b19a3b2626436e5cab30cec3a7187f314b51ddaf302539841cba
+    - format: docx
+      name: document.docx
+      bytes: 3797814
+      sha256: 5d6723e2654811a3182a0348e31ab2f7153b59a76b9b2e8e9f2ab24fb9d62620
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: a guide to strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

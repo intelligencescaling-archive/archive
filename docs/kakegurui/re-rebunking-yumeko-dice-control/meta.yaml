@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: re-rebunking-yumeko-dice-control
+category: doc
+title: Re-Rebunking Yumeko Dice Control
+alt_titles:
+- Rebunk of the second debunk
+authors:
+- name: SoundStorm
+  source: doc-text
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1T-qoJ9rDYRsyZkjSl06I2GjqdTnPssvxQvHLdY6FNcQ/edit?usp=drivesdk
+    google_id: 1T-qoJ9rDYRsyZkjSl06I2GjqdTnPssvxQvHLdY6FNcQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 444
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 206896
+      sha256: c77ef90b88379971d21ea02535aa84c73ec19fd73147efcaea487156b0cb9ec6
+    - format: docx
+      name: document.docx
+      bytes: 154596
+      sha256: e94eb715467ba64f3717011d6e7e3ff039ea1d71a1d4477aed7a93cf2fbe3225
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Rebunk of the second debunk
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: Re-Rebunking Yumeko Dice Control
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

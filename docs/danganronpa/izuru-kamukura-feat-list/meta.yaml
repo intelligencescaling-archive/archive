@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-feat-list
+category: doc
+title: Izuru Kamukura Feat List
+authors:
+- name: Memiochii
+  source: doc-text
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1C8-vfGoK2pwH1sFvfeCKq89U5cWtYCLIeYdK6sykKys
+    google_id: 1C8-vfGoK2pwH1sFvfeCKq89U5cWtYCLIeYdK6sykKys
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 751
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1242434
+      sha256: 4be340bb13b146af0f844fc2c496a7d178c053269f42fc1379b42ee5f04e1c7b
+    - format: docx
+      name: document.docx
+      bytes: 1393597
+      sha256: c5894a80f47c61073db84735bcbf1cb0d64814a1ccabd61d4ccb23a5a5f4c355
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Izuru Kamukura feat list
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura Feat List
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

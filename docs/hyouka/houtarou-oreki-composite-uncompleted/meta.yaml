@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: houtarou-oreki-composite-uncompleted
+category: doc
+title: HOUTAROU OREKI COMPOSITE [Uncompleted]
+alt_titles:
+- Houtarou oreki
+authors: []
+series:
+- hyouka
+characters:
+- oreki-houtarou
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1agZ-5EqKLDqZ9FdolUNjKa14H4qKPPGssyNp49WbBjM
+    google_id: 1agZ-5EqKLDqZ9FdolUNjKa14H4qKPPGssyNp49WbBjM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 7427
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 380332
+      sha256: 7e9b9fa1d1194026413da48f6ca340c3e79414b3113750961f5e12806002fefe
+    - format: docx
+      name: document.docx
+      bytes: 833355
+      sha256: 592035a5a68b601a4449af246a5ea51a840019a0f0e2638922819048a0bd8634
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Houtarou oreki
+- library: remastered
+  section: Hyouka
+  character: Oreki Houtarou - Composite
+  link_text: HOUTAROU OREKI COMPOSITE [Uncompleted]
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

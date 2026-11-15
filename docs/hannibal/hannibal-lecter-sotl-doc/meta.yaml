@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-lecter-sotl-doc
+category: doc
+title: Hannibal Lecter [SOTL] doc
+authors:
+- name: Apóstolos
+  source: doc-text
+series:
+- hannibal
+characters:
+- hannibal-lecter
+variant: Novels
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17Wzmpv4_gEANt5RNZ-fmd8clZaEhUZJTgkzZVOALGOA/edit?usp=drivesdk
+    google_id: 17Wzmpv4_gEANt5RNZ-fmd8clZaEhUZJTgkzZVOALGOA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 91
+    words: 25690
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3546447
+      sha256: a0755775fdc4b6148e40d8e0af458f309ad6bec7bbfc58188cb144371b2f2301
+    - format: docx
+      name: document.docx
+      bytes: 3034435
+      sha256: a83eb39c7ea46df173c0e4b7b1096f53ca0d7e0a7fa37fe40a901713b28bc80f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hannibal Lecter [SOTL] doc
+- library: remastered
+  section: Hannibal
+  character: Hannibal Lecter - Novels
+  link_text: Hannibal Lecter [SOTL] doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

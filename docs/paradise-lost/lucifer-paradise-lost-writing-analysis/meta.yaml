@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lucifer-paradise-lost-writing-analysis
+category: doc
+title: Lucifer Paradise Lost writing analysis
+authors: []
+series:
+- paradise-lost
+characters:
+- lucifer
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ms-GFceZhU1oGWR3qojoUqeflXh46PCNtO0GYf4dpnk/edit?tab=t.0
+    google_id: 1ms-GFceZhU1oGWR3qojoUqeflXh46PCNtO0GYf4dpnk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2337
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 141892
+      sha256: a656c0e2745580fe471d96b045dcc0a9aa4924198c32584db50f284584ddc843
+    - format: docx
+      name: document.docx
+      bytes: 795763
+      sha256: f283d9b018e9bf1bc734d6b01d4eaa48f7f27e754368e9db0db90d5eee4c682d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lucifer Paradise Lost writing analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

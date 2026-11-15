@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-s-insane-cognition-and-cpi
+category: doc
+title: Joe Goldberg's Insane Cognition and CPI
+alt_titles:
+- Joe Goldberg CPI and cognition
+authors:
+- name: Cheatspeed/yildizya
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jXMUz-ZHkRJ4gzpNz0lUvvdSqVC0zO5hOnN84bfXDTE
+    google_id: 1jXMUz-ZHkRJ4gzpNz0lUvvdSqVC0zO5hOnN84bfXDTE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1629
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1651486
+      sha256: 59ad76e6829f00195fddca6eb9c1d355575d0afea727ed9098d4d21e6d985335
+    - format: docx
+      name: document.docx
+      bytes: 2139721
+      sha256: 3c83a989981468620d0afd3b6105a999d566b4fc5a345ab32f08e0558147c523
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe Goldberg CPI and cognition
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayumu-narumi-doc
+category: doc
+title: Ayumu Narumi Doc
+authors: []
+series:
+- spiral-the-bonds-of-reasoning
+characters:
+- ayumu-narumi
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1-vxlSfRjbmtzpPzZGw0-PAqD-UtxGAqn/edit?usp=drivesdk&ouid=107562670602473967947&rtpof=true&sd=true
+    google_id: 1-vxlSfRjbmtzpPzZGw0-PAqD-UtxGAqn
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Ayumu Narumi- Analysis and Theory (incomplete).docx
+      bytes: 35968251
+      sha256: f9d24c30e7dd8efb3acbabcd8c30df61419edba648aad46720b7a520bf6b1a01
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ayumu Narumi Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-holmes-s-a-study-in-scarlet-feats
+category: doc
+title: Sherlock Holmes's "A Study In Scarlet" Feats
+alt_titles:
+- Sherlock Holmes's "A study in Scarlet feat"
+authors: []
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+variant: Novels
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1MFI8XV10FfRNrbhqUQW0lzcQmueviO_KNY1I5psEAM8/edit?usp=drivesdk
+    google_id: 1MFI8XV10FfRNrbhqUQW0lzcQmueviO_KNY1I5psEAM8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 5753
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 372469
+      sha256: 3484a29bb88e05b96f0f02df305f6fb31843e3268d2fff71ca40bf5f0adf2ef7
+    - format: docx
+      name: document.docx
+      bytes: 1675206
+      sha256: 92877bfbf3a36baf4c746e33f7f7e637abfc5cef63437405eb5772e1ee6b01cb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sherlock Holmes's "A study in Scarlet feat"
+- library: remastered
+  section: Sherlock Holmes
+  character: Sherlock Holmes - Novels
+  link_text: Sherlock Holmes's "A Study In Scarlet" Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

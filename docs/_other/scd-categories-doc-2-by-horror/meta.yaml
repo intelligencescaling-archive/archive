@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-categories-doc-2-by-horror
+category: doc
+title: SCD Categories doc 2 by Horror
+alt_titles:
+- SCD Categories Doc 18
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1itiWU0wWCRNSBxs5Q734_JhHTZMgkMT2yt_RM5isiJk/edit?usp=drivesdk
+    google_id: 1itiWU0wWCRNSBxs5Q734_JhHTZMgkMT2yt_RM5isiJk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 703
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 78893
+      sha256: d4ea61c97d7481ce014fb11770b2f1cd7698c5dd0b3421ecd301eb21ef50d932
+    - format: docx
+      name: document.docx
+      bytes: 283773
+      sha256: e1cecb4c8f572c87eb451150f2997fa4ada2daa0ca0b045a9d9a57d2ab1e308c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 18
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

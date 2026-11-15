@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-kamukura-specific-details-about-his-achievements
+category: doc
+title: Izuru Kamukura Specific Details About His Achievements
+alt_titles:
+- izuru kamukura 2
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WK-ycEauT-me7AGRPpOSFcz3oE5iJghXaygxWP7b8XU/edit?usp=drivesdk
+    google_id: 1WK-ycEauT-me7AGRPpOSFcz3oE5iJghXaygxWP7b8XU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1770
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4881774
+      sha256: 309b9156a4b6f34341795a7cfaa1ccaa9b554dc2d8fd516e33af339b777e87bd
+    - format: docx
+      name: document.docx
+      bytes: 5034499
+      sha256: 98602f51fc500a9c6a34a86ee5f8ecfbf62aef67f8c52820d71811d56b85dc8c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: izuru kamukura 2
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru Kamukura Specific Details About His Achievements
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

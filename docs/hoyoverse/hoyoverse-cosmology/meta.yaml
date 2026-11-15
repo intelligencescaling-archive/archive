@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hoyoverse-cosmology
+category: doc
+title: Hoyoverse Cosmology
+authors:
+- name: G Z
+  source: doc-text
+series:
+- hoyoverse
+characters: []
+tags:
+- wis
+- cosmology
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1pQb3h0U18kPlWnp2fU66rNXcyJb7R4HQYyGCxjKmD08/edit?tab=t.0
+    google_id: 1pQb3h0U18kPlWnp2fU66rNXcyJb7R4HQYyGCxjKmD08
+  capture:
+    status: partial
+    date: '2026-11-15'
+    words: 9688
+    files:
+    - format: docx
+      name: document.docx
+      bytes: 322830523
+      sha256: 6f0599189051b20dfbb794e96b6e098c1da6b3a551310ad8f78462c42d7d539b
+    text:
+      file: text.txt
+      method: google-export
+    missing:
+      pdf: HTTP 500
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hoyoverse Cosmology
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

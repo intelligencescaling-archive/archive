@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fan-novel-light-yagami-gotnw
+category: story
+title: Fan Novel Light Yagami (GOTNW)
+authors: []
+series:
+- death-note
+characters:
+- light-yagami
+variant: God of the New World
+tags:
+- fanfiction
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/u/0/d/1LVfqKN_3UPzFd8WtHPrZN_8BFgbRNr9K/mobilebasic
+    google_id: 1LVfqKN_3UPzFd8WtHPrZN_8BFgbRNr9K
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Death Note- God of The new World.docx
+      bytes: 981501
+      sha256: 3c12df83c9e915aa181ea6fbf8be783891dd655c0f6ae565c295d34acaaa00c8
+found_in:
+- library: stories
+  section: F
+  link_text: Fan Novel Light Yagami (GOTNW)
+  note: (Fanfiction, Death Note)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

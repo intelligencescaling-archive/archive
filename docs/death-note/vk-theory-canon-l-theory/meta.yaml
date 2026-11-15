@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vk-theory-canon-l-theory
+category: doc
+title: VK Theory (Canon L Theory)
+alt_titles:
+- VK Canon L Theory
+authors:
+- name: Veris
+  source: doc-text
+- name: Kiệt
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=154RmJ4iVUDCTjWMMEG_tg8XtkHnRzUMhISBDvh4J43A
+    google_id: 154RmJ4iVUDCTjWMMEG_tg8XtkHnRzUMhISBDvh4J43A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 2123
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3803054
+      sha256: f6f0e8a47770aa66ee81e935a7835ea183fd32fe126b7b34eec2f5611ff6204a
+    - format: docx
+      name: document.docx
+      bytes: 4081026
+      sha256: 6843f7fe033418eba8abfd687d9bbc2e50300b526f81b8742a2ee0a32c072ef1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: VK Canon L Theory
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: VK Theory (Canon L Theory)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

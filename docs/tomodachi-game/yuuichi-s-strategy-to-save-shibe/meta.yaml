@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-s-strategy-to-save-shibe
+category: doc
+title: Yuuichi's strategy to save Shibe
+alt_titles:
+- Yuuichi's strategy to save tenji
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1z2wBmESCPIaQxwB6Q7BMZHJf0gc08LU6gY7agq8pxVw
+    google_id: 1z2wBmESCPIaQxwB6Q7BMZHJf0gc08LU6gY7agq8pxVw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 661
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4711631
+      sha256: 69555146c867cc3ed5a9e29cf65e0824f7bb89dacbd6e544b21ca96f0e16c69f
+    - format: docx
+      name: document.docx
+      bytes: 3843264
+      sha256: 50ebd311b32172246f7c22203f9fe956b56213dc43c43cb72f90ad4ba9ef3971
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi's strategy to save tenji
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi's strategy to save Shibe
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

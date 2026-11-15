@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joes-maddie-manipulation-feat
+category: doc
+title: Joes Maddie Manipulation Feat
+authors: []
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- feats
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1hV814KxLVWNRCVnKPolLDFyaSNtfuQBGjdh6wxWpcWY/edit?usp=drivesdk
+    google_id: 1hV814KxLVWNRCVnKPolLDFyaSNtfuQBGjdh6wxWpcWY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 2703
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3518272
+      sha256: 916680211ad91ddbce94a83e3c04d628f1e298b71d81c827ca711fb7b00c4025
+    - format: docx
+      name: document.docx
+      bytes: 3275006
+      sha256: 6f55afdcc50be95fc67b06e973bf5209da3eb8ccb1c49d1c379c54a00ffdafaa
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joes Maddie manipulation feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

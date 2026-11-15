@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cid-kagenou-iq-and-eq
+category: doc
+title: Cid Kagenou IQ and EQ
+authors: []
+series:
+- the-eminence-in-shadow
+characters:
+- cid-kagenou
+tags:
+- eq
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1vKjk__uz2_cyJyJYfmgDDPtykrZWIOkz/mobilebasic
+    google_id: 1vKjk__uz2_cyJyJYfmgDDPtykrZWIOkz
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Cid_s_IQ,EQ.docx
+      bytes: 54508
+      sha256: 2903a129ed15d2ffc3e51c3ecf826bb9c8d1338c2bed03b9f9d2c7ba5eb4601d
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Cid Kagenou IQ and EQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

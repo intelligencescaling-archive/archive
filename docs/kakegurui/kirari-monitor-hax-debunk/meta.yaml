@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kirari-monitor-hax-debunk
+category: doc
+title: Kirari Monitor Hax Debunk
+alt_titles:
+- Kirari MH Debunk
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- kakegurui
+characters:
+- kirari-momobami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1eokjP5wHLqsBGW0ed0j6p6NpukvBLAuKoLHjNNuJJuc
+    google_id: 1eokjP5wHLqsBGW0ed0j6p6NpukvBLAuKoLHjNNuJJuc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 476
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2468866
+      sha256: 758dd83ef4f21e8f5b4c3d27d40aa291db7c3edcf79c3fad8d77f9480b93b38b
+    - format: docx
+      name: document.docx
+      bytes: 2393493
+      sha256: fa9f5ac7856c0bd3bec245b066e56db8fbe445afefb71badfd05f645e6ec3554
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Kirari MH Debunk
+- library: remastered
+  section: Kakegurui
+  character: Kirari Momobami
+  link_text: Kirari Monitor Hax Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

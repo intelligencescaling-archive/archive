@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-stock-market-feat-new-interpretation
+category: doc
+title: L LAWLIET STOCK MARKET FEAT NEW INTERPRETATION
+alt_titles:
+- L Lawliet's Stock Market New Interpretation
+- L Lawliet Stock Market New Interpretation
+authors:
+- name: bakusfather1029
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ZqiEm5SKq5cJKpTM1x1MeebKT8tYTq0dk-UUNMhWZx4/edit?usp=drivesdk
+    google_id: 1ZqiEm5SKq5cJKpTM1x1MeebKT8tYTq0dk-UUNMhWZx4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1775
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 249222
+      sha256: 2b041407546266da97732a69fd1e1c45003fb4a467fcb418959b5d44526a56ac
+    - format: docx
+      name: document.docx
+      bytes: 285143
+      sha256: 096b142b9bca6464dccb2232a41c605710f182e75aa08dbd8ac40a799a796e64
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L Lawliet's Stock Market New Interpretation
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L Lawliet Stock Market New Interpretation
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

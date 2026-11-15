@@ -1,0 +1,65 @@
+Despite the shockwave of Wolbach's Explosion and the destruction of her toys and the "sacred" playground that she worked so hard for, Megumin was not fazed in the slightest-a true marvel for a child. The child would be sad; with such destruction, Megumin should be calm, which again is quite remarkable for a child.
+
+To give a better understanding of the power of the explosion, here are the calculations based on the size of the crater.
+
+Diameter of Crater Calculation:
+A 5-year-old Japanese girl measures about 106.2 cm tall (1.062 meters).
+
+The ratio of 1.062 meters to 11 pixels (taken from an image or scale) is 0.0965 meters per pixel.
+
+The diameter of the crater can then be determined by multiplying the pixel measurement, 1167 pixels, by the meter-to-pixel ratio:
+
+Crater Diameter = 0.09654545454 * 1167 = 112.67 meters.
+
+Next, we will determine the explosive yield using two different calculations:
+
+Method 1: Standard Explosion Formula
+Here, we apply the formula for explosion yield as a function of the radius of the explosion. First, we determine the radius of the explosion by dividing the diameter by 2:
+
+Radius = 112.67 / 2 = 56.33 meters.
+Using the formula for the yield of an explosion:
+
+W = R³ × ((27136 × P + 8649)^(1/2) / 13568 - 93 / 13568)²
+
+Where:
+
+W is the yield in tons of TNT,
+R is the radius in meters (56.33 meters),
+P is the shockwave pressure in bars (we use a typical value of 1.37895 bars or 20 psi).
+Plugging in the values:
+
+W = (56.33)³ × ((27136 × 1.37895 + 8649)^(1/2) / 13568 - 93 / 13568)²
+
+This calculation gives us 14.37 tons of TNT, which would classify this as a 8-B level explosion. This is likely a significant lowball estimate, as we’ll see in the next method.
+
+Method 2: Considering the Crater as a Half Sphere
+First, consider the crater as a half-sphere. To find the volume, we apply the formula of the volume of a sphere and divide by 2:
+
+V = (4/3) * π * r³
+
+Substituting the value of the radius as 56.33 meters, the volume of the full sphere will be:
+
+V = (4/3) * π * (56.33)³ = 748,870.44 m³.
+
+Since we are considering the crater as a half-sphere, we divide this value by 2:
+
+Volume of half sphere = 748,870.44 / 2 = 374,435.22 m³.
+
+Now, to convert this volume into cubic centimeters (cm³), we multiply by 1,000,000 (since 1 m³ = 1,000,000 cm³):
+
+Volume in cm³ = 374,435,217,500 cm³.
+
+Next, we compute the energy required for pulverization and vaporization.
+
+Pulverization energy: 214 J/cc,
+Vaporization energy: 25,700 J/cc.
+Pulverization Energy:
+Energy = 374,435,217,500 × 214 J = 8.01 × 10¹³ Joules = 19.15 kilotons of TNT-7-C level.
+
+Vaporization Energy:
+Energy = 374,435,217,500 × 25,700 J = 9.62 × 10¹⁵ Joules = 2.30 megatons of TNT.
+
+Conclusion:
+From the above considerations, the yield of this explosion varies from 19.15 kilotons to 2.30 megatons, both extremely powerful values.
+
+Yet, even with such destruction and overwhelming force of the explosion, Megumin remained emotionally unscathed, which, for a child of her age, was an extraordinary amount of emotional management. The composure she showed despite chaos and an overwhelming situation brought out her resilience and maturity in handling intense emotional stress.

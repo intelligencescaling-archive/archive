@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-elder-scrolls-cosmology
+category: doc
+title: The Elder Scrolls Cosmology
+alt_titles:
+- The Elder Scroll Cosmology
+authors: []
+series:
+- the-elder-scrolls
+characters: []
+tags:
+- wis
+- cosmology
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-5XaI2JsS5paqmiCaQOECiQZ_sR7Zco_AZ7aIyYgp5A/edit?tab=t.0#heading=h.kgljtm6wn1mo
+    google_id: 1-5XaI2JsS5paqmiCaQOECiQZ_sR7Zco_AZ7aIyYgp5A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 264
+    words: 11589
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 60441029
+      sha256: 9c853ea48e478bb36f0bbf8c481fa210fba12ec2a6bc3170dd188ae392f4c52c
+    - format: docx
+      name: document.docx
+      bytes: 47436766
+      sha256: 57529c9876a7320b6056d60a62765b219d1c36db312b12a2fb7fa7ccc027049b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: The Elder Scroll Cosmology
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

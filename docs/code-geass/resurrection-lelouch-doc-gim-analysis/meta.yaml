@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: resurrection-lelouch-doc-gim-analysis
+category: doc
+title: 'Resurrection Lelouch doc: GIM analysis'
+alt_titles:
+- Resurrection Lelouch GIM analysis
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1eVrjqC_laJvTf_vbUEKH04OIms2i48iGnD0FySzanlw
+    google_id: 1eVrjqC_laJvTf_vbUEKH04OIms2i48iGnD0FySzanlw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2343
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 158591
+      sha256: 73068c898c3e9c236694a55b682d2bc90255ffbf5ea0a34e7af3836465619494
+    - format: docx
+      name: document.docx
+      bytes: 14288
+      sha256: 8627add4c0affafb51d1ec4e150d15375b6bd452be995d8137fac1bd550b2d3b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Resurrection Lelouch GIM analysis
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: 'Resurrection Lelouch doc: GIM analysis'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-document-wip
+category: doc
+title: Lelouch Document (WIP)
+alt_titles:
+- Lelouch 3
+authors:
+- name: Rian
+  source: doc-text
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jtAd1_tWtqIC-iDuY9beDd3lA3R4UveYyvNYxO-ougc
+    google_id: 1jtAd1_tWtqIC-iDuY9beDd3lA3R4UveYyvNYxO-ougc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 75
+    words: 19047
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 107457095
+      sha256: 7254da5f0da1f5ea45add3460b5cfc79774cf8e8be1ff93b81776721280baab1
+    - format: docx
+      name: document.docx
+      bytes: 92714604
+      sha256: 77b3061fc1ca7a6d904df13d2210663c6bbbe26ea1246b4429f9925f191b7562
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch 3
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Lelouch Document (WIP)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

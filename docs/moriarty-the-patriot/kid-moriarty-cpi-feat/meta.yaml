@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kid-moriarty-cpi-feat
+category: doc
+title: Kid Moriarty CPI feat
+alt_titles:
+- Moriarty CPI
+authors:
+- name: Indra
+  source: doc-text
+- name: Dominoo
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1moMFTmEaQGfIBiXDM12Cd-IYV6gI2puz4PXwA_jnowk
+    google_id: 1moMFTmEaQGfIBiXDM12Cd-IYV6gI2puz4PXwA_jnowk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 339
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1330066
+      sha256: 26e51e43f6573f6805c23492882137f8763b826fa56c45504a0f206accb9de8e
+    - format: docx
+      name: document.docx
+      bytes: 1002627
+      sha256: 7020669d1aff06edaca504e4c40b7738ab01cb37099686ebf01c23a665d4cff0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Moriarty CPI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

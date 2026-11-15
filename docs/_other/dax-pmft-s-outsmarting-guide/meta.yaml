@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dax-pmft-s-outsmarting-guide
+category: doc
+title: DAX PMFT'S OUTSMARTING GUIDE
+alt_titles:
+- SCD categories Doc 6
+- DAX PMFT'S SCALING GUIDE
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+- scaling-system
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KfLcm4XWyRaoCxvkvZ2Sg94RM89cm2j65lIp--227bo
+    google_id: 1KfLcm4XWyRaoCxvkvZ2Sg94RM89cm2j65lIp--227bo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 37
+    words: 8710
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 470513
+      sha256: 9a87ccc8c0d85e6ce18a15a29fea46b83e874fb4925d46c6fb81a7c5677ae25d
+    - format: docx
+      name: document.docx
+      bytes: 1873899
+      sha256: fc4f9fbb3a573761c7f5c1585d69de4c0e38853b5cdfc7b68185ceca067ccf0c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD categories Doc 6
+- library: old
+  section: 'Scaling systems:'
+  link_text: DAX PMFT'S SCALING GUIDE
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kimura-kei
+category: doc
+title: Kimura Kei
+alt_titles:
+- Kimura Kei full feat (VN)
+authors: []
+series:
+- liar-game
+characters:
+- kimura-kei
+tags:
+- feats
+language: pt
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1uDIKfBp6ve-NqcbcIk8eR_IvrIDPyNPSlMUPXSzrjXY/edit?usp=sharing
+    google_id: 1uDIKfBp6ve-NqcbcIk8eR_IvrIDPyNPSlMUPXSzrjXY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 55
+    words: 17093
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19274390
+      sha256: ed4428b9552b18c271e96bc2a8b2fc728753231f333dd607e221964ec80bb370
+    - format: docx
+      name: document.docx
+      bytes: 19936265
+      sha256: f8a2662e7003e011724a9c9c9e72d87c9848773e9343562a871ff15ded02be76
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Liar Game
+  character: Kimura Kei
+  link_text: Kimura Kei full feat (VN)
+  note: (Vietnamese)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

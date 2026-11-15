@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-gabriel-doc
+category: doc
+title: Comp Gabriel doc
+alt_titles:
+- Comp Gabriel SCD doc
+authors: []
+series:
+- the-mandela-catalogue
+characters:
+- gabriel
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1niulUnG8iOu0ZzVGASxlQM3GeI_DfTUmFAVilb7LGkM/edit?usp=drivesdk
+    google_id: 1niulUnG8iOu0ZzVGASxlQM3GeI_DfTUmFAVilb7LGkM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 4641
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 218339
+      sha256: 888cad45e46bfe6ef15cd3b58eb678836b1a857929213ed766518824af67902d
+    - format: docx
+      name: document.docx
+      bytes: 21460
+      sha256: 963a5b6c5c1db0335fe0defff2d0d31cc8e5281563cdb98f71863ff3a78e083d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Comp Gabriel SCD doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

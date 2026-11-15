@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: canon-l-yostuba-kira-s-capture
+category: doc
+title: Canon L-Yostuba Kira's Capture
+alt_titles:
+- L Lawliet Yotsuba Kira's capture
+authors:
+- name: bakusfather1029
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wFPbW9a5R13OftRahfkCcfXA2d9GauWNRsVX67zU23o/edit?usp=drivesdk
+    google_id: 1wFPbW9a5R13OftRahfkCcfXA2d9GauWNRsVX67zU23o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1498
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 141118
+      sha256: 5bdf868584dfb7043e2302f4ff146a15616ad15436232f50b73b216b94b12596
+    - format: docx
+      name: document.docx
+      bytes: 77370
+      sha256: c1bc1768d5d1095d1fa1f3f42c8da118218540dba71896a59f01a5d201aea24f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L Lawliet Yotsuba Kira's capture
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L Lawliet Yotsuba Kira's Capture
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

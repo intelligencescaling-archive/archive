@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: minoru-tanaka-a-kira-doc
+category: doc
+title: Minoru Tanaka (A-Kira) Doc
+alt_titles:
+- Another Minoru Tanaka Doc
+authors: []
+series:
+- death-note
+characters:
+- minoru-tanaka
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14zuEn8-HrlQM7CYB1a2HBHaWdB_mjvbqY8KDFi7bzKQ
+    google_id: 14zuEn8-HrlQM7CYB1a2HBHaWdB_mjvbqY8KDFi7bzKQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3126
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 300942
+      sha256: 0a5c213528604f6c81a9bde0e732edc6ef08d4b12b0f859e5031771b65cb43b8
+    - format: docx
+      name: document.docx
+      bytes: 132686
+      sha256: a8bb43ff156e2bc85c05d965d2104eb3f62f899dda40900ed37d6e28360f60c6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Another Minoru Tanaka Doc
+- library: remastered
+  section: Death Note
+  character: Minoru Tanaka
+  link_text: Minoru Tanaka (A-Kira) Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

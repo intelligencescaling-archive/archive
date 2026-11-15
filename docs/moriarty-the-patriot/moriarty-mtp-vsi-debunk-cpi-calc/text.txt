@@ -1,0 +1,65 @@
+Moriarty (MTP) VSI Debunk
+
+In this doc I’ll lay out my concerns regarding this feat. Props to the original creator for their work. This should be a very small section. Let’s get started.
+
+Description of the feat
+The feat is basically Moriarty being in possession of the Noahtic’s blueprints/floor plans. Sherlock in episode 24 in the anime and chapter 53 of the manga finds these. The manga and the anime diverge a lot during this arc. In the manga there is no old dude waiting for Sherlock. But in the anime, the old dude was waiting for Sherlock. In the manga Sherlock just finds the blueprint of Noahtic, criminal plans of Moriarty, and a letter with 2 birth certificates. In the manga, the old man additionally provides commentary stating that these criminal plans were created by Moriarty. Below are all the relevant scans to understand this feat.
+
+The blueprints as shown in the anime episode 6
+
+The blueprints as shown in the manga chapter 5
+
+Sherlock finding these blueprints along with Moriarty’s plans in the manga chapter 53
+
+Sherlock finding these blueprints along with Moriarty’s plans in the anime episode 24
+
+Now that I have laid out all the evidence, I’ll list out all the issues I have:
+
+Problem 1: Combining Source Materials
+As you might have already noticed from the scans, the anime and the manga diverge quite a lot from each other. This is even more evident when you actually watch/read both. Which is why using both in a doc where the character used isn’t stated to be Comp Moriarty explicitly is a bit misleading. The anime clearly has a different interpretation of the events in the manga and it wouldn’t be a stretch to assume that certain feats in the anime would be different than in the manga.
+
+Problem 2: Who Actually Drew The Blueprints?
+If you go with the manga’s course of events, at no point is it ever stated as far as I know, that Moriarty himself drew the blueprints of Noahtic as opposed to just stealing them. Even if you say that this is comp Moriarty we are talking about, the anime isn’t clear about who drew the blueprints themselves. The old man simply stated that Moriarty drew the “Criminal Plans”. This would only confirm that the detailed instructions mentioned in the anime and the manga, were created by Moriarty (And no, floor plans are not equal to criminal plans). The blueprints for all we know could simply be something he stole, to help with understanding the instructions.
+
+Problem 3: How Did Moriarty Draw The Blueprints?
+Let’s assume for the sake of argument that Moriarty personally created every single document used for his criminal plans including the blueprints of Noahtic. I found no context of how he would have actually drawn the blueprints. The doc simply states that Moriarty visualized the Noahtic to draw the blueprints and that this required very high VSI. This, according to me, is the highest possible interpretation with zero basis. We know nothing about the circumstances of this supposed feat. Maybe Moriarty took a pen and paper, went inside the Noahtic for an entire month, and drew each room slowly while roaming the ship itself. Would that require high VSI if he’s just drawing what he is seeing in front of him? Or, what if he copied the blueprints from the original ones used by the creator of the Noahtic. Would that require any VSI at all? The methodology vastly changes the impressiveness of the feat. And we have no way of knowing which one is true.
+
+Conclusion
+I believe that the differences in the anime and the manga, the lack of confirmation regarding who drew the blueprints, and the lack of context or clarification around this feat’s methodology and timeframe, renders it useless for VSI scaling purposes.
+Moriarty (MTP) CPI Calc
+
+I will be using this and this doc as references for this feat. If any of the sources or facts in this doc are incorrect, let me know. As always, props to the creators of these docs.
+
+Description of the feat
+In chapter 1, kid Moriarty walks out of the post office and comes across a bunch of people playing Pontoon. He takes one look at the cards on the table and tells the person to twist. The person does and it goes in his favor. Moriarty then explains that he did this by calculating the probability. According to the linked doc, the LN further clarifies the exact technique used by Moriarty here, and it is card counting.
+
+Explaining Pontoon
+Pontoon is an old card game that works exactly like Blackjack. The aim is to get a hand that adds up to or is closest to 21. Here is an article explaining the rules for beginners.
+
+Card Counting
+Card counting is a technique where you keep a running count in your head as the cards are revealed to you, to guess the rough probability of the card you want being inside the deck. This works by assigning +1 value to cards with face value of 2, 3, 4, 5, and 6, a 0 value to cards with face value of 7, 8, and 9, and a -1 value to the cards that are Aces, Kings, Queens, Jacks, and 10s. Then all of these values are added up. If the result is positive, you bet high and if it is negative, you bet low.
+
+Issues with the linked doc
+There are several issues in the calculations and the assumptions used.
+1. The doc assumes a spanish deck which has 48 cards when it is never stated that they were using a spanish deck. A standard deck was used in 19th Century Britain.
+2. The doc confuses possibilities with probabilities. Just because there are 35! possible combinations of the arrangement of the deck, doesn’t mean that number itself helps us in any way. Moriarty simply needs to calculate the probability of getting the favorable card.
+3. The calc doesn’t use the card counting method that was stated in the LN very clearly.
+
+Calculation
+Let’s trace all the cards present at the table.
+
+Using these two pictures, let’s get a rough idea of the cards present. Starting from the bottom of the picture we see a Queen of Diamonds. Going counter clockwise, we see a 7 of Diamonds, 9 or 10 of Diamonds, Ace of Clubs, 3 of Diamonds, Likely a 9 or 10 of Hearts, 3 of Spades (this was after the twist), King of Hearts, 8 of Clubs, 2 of Hearts, 6 or 7 of Spades, Likely a 5 of Clubs, 4 of Clubs, and finally a 6 or 7 of Spades. This makes 13 cards on the table excluding the one drawn after Moriarty arrived.
+Using Card Counting method the running count would be:
+QD (-1) + 7D(0) + 9/10D(0/-1) + AC(-1) + 3D(+1) + 9/10H(0/-1) + KH(-1) + 8C(0) + 2H(+1) + 7S(0) + 5C(+1) + 4C(+1) + 6S(+1)
+If we assume the lowest possible count the result is 0. This means the deck still has an equal distribution of cards inside. Looking at the cards each player has, the man either needed a 3 to win, and at most a 4 to stay ahead of the 2 players who totaled at 23 and 24. This meant from the deck he had three Aces, three 2s, three 3s, and three 4s that were favorable for him. This made the odds roughly 33 percent in his favor. He did these calculations in mere seconds according to the LN. This is impressive. Assuming a high end timeframe of 3 seconds and a low end timeframe of 59 seconds, this gives us:
+
+High End: 12 Operations/3 Seconds = 4 Ops/Sec
+Low End: 12 Operations/59 Seconds = 0.2 Ops/Sec
+
+Since the mere seconds phrase is used, I would consider the actual timeframe closer to the high end.
+
+Benchmarking CPI
+The world record for Flash Mental Arithmetic is 1.61 seconds. FMA works by flashing 15 sets of 3 digit numbers in intervals of 0.3 seconds. The methodology used by the participants is by mentally visualizing and manipulating an abacus. Each digit represents one change in the abacus. So a total of 15x3 = 45 Operations were done in 0.3x14 + 1.61 = 5.81 Seconds. This brings the peak human at 7.7 Operations/Second.
+
+Conclusion
+This calc puts Moriarty at the ball park of peak humans in terms of CPI. To be precise, 0.52x Peak Human in CPI.

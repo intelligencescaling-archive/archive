@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kaji-takaomi-scd-doc
+category: doc
+title: Kaji Takaomi SCD Doc
+alt_titles:
+- Kaji Takaomi
+authors: []
+series:
+- usogui
+characters:
+- kaji-takaomi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1CLJFlo5tuz3jmCOmWX_BLKugzSxDz82i3BvqzXd5ykc/edit?usp=drivesdk
+    google_id: 1CLJFlo5tuz3jmCOmWX_BLKugzSxDz82i3BvqzXd5ykc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3652
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 192517
+      sha256: 635f1f2711573a35022535afa903f7db880b9c0711d2fb165fcd2e062cf29e50
+    - format: docx
+      name: document.docx
+      bytes: 17291
+      sha256: aac529a26693b76013ba3bcb15892334ad0fa3f30e0c87351ed110a70f324135
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Kaji Takaomi SCD doc
+- library: remastered
+  section: Usogui
+  character: Kaji Takaomi
+  link_text: Kaji Takaomi
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

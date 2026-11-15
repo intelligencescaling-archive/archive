@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: stem-outsmarting-document
+category: doc
+title: STEM Outsmarting Document
+alt_titles:
+- STEM Outsmarting Doc
+authors: []
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/13wvTSudBMXDv5kCOLyeKGNY9niRiVqkMdhzhp9T_CxA/edit?usp=drivesdk
+    google_id: 13wvTSudBMXDv5kCOLyeKGNY9niRiVqkMdhzhp9T_CxA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 4678
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 262770
+      sha256: 2689a605c3ab77947a0a5b3be6069d2d032c79024b4ea2f73de6c705c24e3d1d
+    - format: docx
+      name: document.docx
+      bytes: 108701
+      sha256: 22ffbd37be443de047fa736d4dfb9c3acdacdd9e17808bc141a0eadad8001b24
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: STEM Outsmarting Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

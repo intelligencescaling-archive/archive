@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: history-of-smart-character-debates
+category: doc
+title: History of Smart Character Debates
+alt_titles:
+- History of SCD
+authors: []
+series: []
+characters: []
+tags:
+- history
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1z2vKUbKMnxGpEVny2k8MLfmTlEK1X1sV4ZZ1rmknrJA/edit?tab=t.0#heading=h.66ni5j47fi6
+    google_id: 1z2vKUbKMnxGpEVny2k8MLfmTlEK1X1sV4ZZ1rmknrJA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 3592
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8835013
+      sha256: 9b0ff02cbb682d35f2b11051a7eff92f660928d7beeedad93202b5ec426b77f3
+    - format: docx
+      name: document.docx
+      bytes: 7215341
+      sha256: d76dac3212e765e149856f8bd488bc29fde723940f1c079ce74883ea9dc1e249
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: History of SCD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-chapter-1-document
+category: doc
+title: FANG YUAN CHAPTER 1 DOCUMENT
+alt_titles:
+- Fang Yuan chapter 1 doc
+authors:
+- name: Herald
+  source: doc-text
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1azeQipsS0EttWIuQ3p2BJ3w0Doc4zjfyW0RDXWWTqcM/edit?usp=drivesdk
+    google_id: 1azeQipsS0EttWIuQ3p2BJ3w0Doc4zjfyW0RDXWWTqcM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1058
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 86736
+      sha256: 512aa765c8e4b46b8b8122d15f82435d33fd91d9251d45f28207db0d8a3138d6
+    - format: docx
+      name: document.docx
+      bytes: 1572546
+      sha256: 4e5efafe1f24bd9ad70be83c953dfeffc4095f4ef921186ca84c7ad744d4751d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan chapter 1 doc
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: FANG YUAN CHAPTER 1 DOCUMENT
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

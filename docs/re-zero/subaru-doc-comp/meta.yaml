@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: subaru-doc-comp
+category: doc
+title: Subaru Doc (Comp)
+alt_titles:
+- Subaru Natsuki (Comp) doc
+authors:
+- name: Rblxpw
+  source: doc-text
+- name: JPlights
+  source: doc-text
+series:
+- re-zero
+characters:
+- subaru-natsuki
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1I3xBOyYzqAUhkoG1gOnYa5rFb7AENzmxvme5vf6g0Ts/edit?usp=drivesdk
+    google_id: 1I3xBOyYzqAUhkoG1gOnYa5rFb7AENzmxvme5vf6g0Ts
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3414
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11367059
+      sha256: 453254a70a01e60cdde596f8dceb64ae64ac9ecb5e106bf539830f3ef68ea417
+    - format: docx
+      name: document.docx
+      bytes: 9332912
+      sha256: 6ef0effdbe3d18a9dcb4663586174510f74a83073b5668839b1d5d212d3b1325
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Subaru Natsuki (Comp) doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

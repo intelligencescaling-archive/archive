@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tycoon-game-1-translated-by-sojikoji
+category: doc
+title: Tycoon Game 1 Translated by SojiKoji
+alt_titles:
+- Monopoly Game and Stock Market Battle Strategy Guide
+authors: []
+series:
+- 18-levels-of-hell
+characters: []
+tags:
+- guide
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mkkZZ-DdHZfqqQ_DM6Nbe8TvPREONwIcaZJJrTKcXt4/edit?usp=drivesdk
+    google_id: 1mkkZZ-DdHZfqqQ_DM6Nbe8TvPREONwIcaZJJrTKcXt4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2828
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 243684
+      sha256: 2ea343a6c2395cc581a1f5b80d780e4ac0fcafa912100e6f062c695ce17550fd
+    - format: docx
+      name: document.docx
+      bytes: 22093
+      sha256: 7ba8ac6159a647c3c3f9309467f585ee41da3130555070ec905a1e848b1565c4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Monopoly Game and Stock Market Battle Strategy Guide
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

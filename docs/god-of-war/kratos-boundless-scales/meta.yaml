@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kratos-boundless-scales
+category: doc
+title: Kratos boundless scales
+alt_titles:
+- Kratos Boundless Scaling
+authors: []
+series:
+- god-of-war
+characters:
+- kratos
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1R14DE0rRzjVCJ6jA7mUksC7flOlOVliHeL2Z1iYyn6A/edit?usp=drivesdk
+    google_id: 1R14DE0rRzjVCJ6jA7mUksC7flOlOVliHeL2Z1iYyn6A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 949
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 119296
+      sha256: 9d4a261cfb7d6d2352df012a5917841d83b947466de914162a7b8ce834955c52
+    - format: docx
+      name: document.docx
+      bytes: 11538
+      sha256: ba9b4aeb98c844da4e49413f2f76d5214b30b88a40504def9069285dae71a948
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kratos Boundless Scaling
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

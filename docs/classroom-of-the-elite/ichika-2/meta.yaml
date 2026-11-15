@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichika-2
+category: doc
+title: Ichika 2
+alt_titles:
+- Ichika Amasawa - Outsmarting/Intellectual Feats (Work in Progress)
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- ichika-amasawa
+tags:
+- feats
+language: null
+completion: in-progress
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1YRiHzeHspawa_fikxP-6S5ES1jjpXMhJ/edit?usp=drivesdk&ouid=107562670602473967947&rtpof=true&sd=true
+    google_id: 1YRiHzeHspawa_fikxP-6S5ES1jjpXMhJ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Ichika Amasawa - Outsmarting_Intellectual Feats (Work in progress).docx
+      bytes: 1075578
+      sha256: b97e2efafb17c2393f6345ec7b90f658b14c4decdeefd930b2410e9a04940a7d
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ichika 2
+- library: remastered
+  section: Classroom of the Elite
+  character: Ichika Amasawa
+  link_text: Ichika Amasawa - Outsmarting/Intellectual Feats (Work in Progress)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

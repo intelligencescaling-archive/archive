@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sora-v1-en
+category: doc
+title: Sora v1 (EN)
+alt_titles:
+- Sora V1 SCD feats document
+- Sora V1 SCD document
+authors:
+- name: Lolking-w7e
+  source: doc-text
+series:
+- no-game-no-life
+characters:
+- sora
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1IfBC85eqhh-sgLkF3moZ_Btrm-EOFYYbRCt42VrdPeA/edit?usp=drivesdk
+    google_id: 1IfBC85eqhh-sgLkF3moZ_Btrm-EOFYYbRCt42VrdPeA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 5271
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 240137
+      sha256: 83195b15fbba5ad140d8d0bb958adca2cb0246918397ce226e36552f2ac7b551
+    - format: docx
+      name: document.docx
+      bytes: 47337
+      sha256: fbe602696ea44a08277b60a5a4a13885111e85779716364f095be25ab83d6883
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Sora V1 SCD feats document
+- library: remastered
+  section: No Game No Life
+  character: Sora
+  link_text: Sora V1 SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cat-country-analysis
+category: doc
+title: Cat Country analysis
+alt_titles:
+- Cat country writing analysis
+authors:
+- name: LLA
+  source: doc-text
+series:
+- cat-country
+characters: []
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1MHJQC1J0s8SVYtRtMhWehVUAbVswTluTQSMb6kxUkTI
+    google_id: 1MHJQC1J0s8SVYtRtMhWehVUAbVswTluTQSMb6kxUkTI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2780
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 106595
+      sha256: 469e75488ad5ba73305ac772540254b4d8e219bed2b3711a1cc0c3a34963aa1a
+    - format: docx
+      name: document.docx
+      bytes: 648770
+      sha256: 63281b2880164b66ca0969b4adbb059a5f1cd8e105f0fa09bd34899c1a6d5121
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Cat country writing analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

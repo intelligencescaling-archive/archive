@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kei-shinomiya-fsiq-calcs-and-debunk
+category: doc
+title: Kei Shinomiya FSIQ Calcs and Debunk
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- kei-shinomiya
+tags:
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1E6-OAu2sYNu467tVnDaf9BnMgF0bs7K1eBrpaALvarg/edit?usp=sharing
+    google_id: 1E6-OAu2sYNu467tVnDaf9BnMgF0bs7K1eBrpaALvarg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1495
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1424800
+      sha256: 8a6e8c7fbcb98b242477ced60bf65262a1bf7e53450e47acd2c72b7eb4f42079
+    - format: docx
+      name: document.docx
+      bytes: 941927
+      sha256: 63df20ac5e2069ce7066f3b3b9c767e5162da5d4fd7be86fcb38fe00d6705ee5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Kei Shinomiya FSIQ Calcs and Debunk
+- library: remastered
+  section: Tomodachi Game
+  character: Kei Shinomiya
+  link_text: Kei Shinomiya FSIQ Calcs and Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,86 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-white-demon
+category: story
+title: The White Demon
+alt_titles:
+- The White Demon (ch 1)
+- The White Demon (ch 2)
+- The White Demon (ch 3)
+authors: []
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- title: The White Demon (ch 1)
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/108ANONXJm_bw6YT_s20xWr5GLVxbEZTZ/view?usp=sharing
+    google_id: 108ANONXJm_bw6YT_s20xWr5GLVxbEZTZ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 6174
+    files:
+    - format: pdf
+      name: The White Demon.pdf
+      bytes: 631026
+      sha256: 046161cbbd90614179cac019d00fde5d426bc2fb3a6c2e901269ef68a602ee8e
+    text:
+      file: text-1.txt
+      method: pdf-extract
+- title: The White Demon (ch 2)
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/19ormKlG29HXuI8Z48E7NloZ3Uy-gakjM/view?usp=sharing
+    google_id: 19ormKlG29HXuI8Z48E7NloZ3Uy-gakjM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 107
+    words: 10623
+    files:
+    - format: pdf
+      name: The White Demon Cap 2.pdf
+      bytes: 994435
+      sha256: 769420ef24a99c038d411e9673eaed474aab156e4a074976a623b78512589beb
+    text:
+      file: text-2.txt
+      method: pdf-extract
+- title: The White Demon (ch 3)
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1eTwghvyPoEgI_ykM0KLPvn4jmcgh2UAN/view?usp=sharing
+    google_id: 1eTwghvyPoEgI_ykM0KLPvn4jmcgh2UAN
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 91
+    words: 8179
+    files:
+    - format: pdf
+      name: The White Demon Cap 3.pdf
+      bytes: 870373
+      sha256: 4ab1d709d3753dcd223728c2de1ff4e112e3d0376124d23e04420dd9153c37a7
+    text:
+      file: text-3.txt
+      method: pdf-extract
+found_in:
+- library: stories
+  section: T
+  link_text: The White Demon (ch 1)
+- library: stories
+  section: T
+  link_text: The White Demon (ch 2)
+- library: stories
+  section: T
+  link_text: The White Demon (ch 3)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

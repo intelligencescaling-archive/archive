@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akagi-vs-aliens
+category: doc
+title: Akagi vs Aliens
+authors: []
+series:
+- akagi
+characters:
+- shigeru-akagi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1b8XwR2oRRnrxzhCo_V_x7nvr7Zsh_jr0cK29hPcBOSY
+    google_id: 1b8XwR2oRRnrxzhCo_V_x7nvr7Zsh_jr0cK29hPcBOSY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 683
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 114170
+      sha256: b2cb071e9e8e80d7a3f6d4054de1438e9be30555dab58a7e58ffc8a10f8dda79
+    - format: docx
+      name: document.docx
+      bytes: 66036
+      sha256: 1b2bfcb1e74f6c1c3a9ffed5ac1403ef5e37ccf40c5f7cf470ecc582a64defa7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akagi vs Aliens
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

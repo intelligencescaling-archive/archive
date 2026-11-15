@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-master-doc-by-fall
+category: doc
+title: Johan Master Doc by Fall
+alt_titles:
+- New Johan Doc made by Fall
+- Copy of Johan Master Doc by Fall
+authors:
+- name: Fall
+  source: doc-text
+series:
+- monster
+characters:
+- johan-liebert
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17DjSIJNpNyZ4Z2GQqRwTZMj6iNBGs5KCYtIgDZvOyJ4/edit?usp=drivesdk
+    google_id: 17DjSIJNpNyZ4Z2GQqRwTZMj6iNBGs5KCYtIgDZvOyJ4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 4344
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 588020
+      sha256: 86f717d295a5f05072056d80e13155c3de0e102094eeb8f0907be08da5c22b64
+    - format: docx
+      name: document.docx
+      bytes: 980906
+      sha256: ae90af498018a59217512deebe55f0e2ebb8c724fb1878772b59a9c694a4751d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: New Johan Doc made by Fall
+- library: remastered
+  section: Monster
+  character: Johan Liebert
+  link_text: Copy of Johan Master Doc by Fall
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

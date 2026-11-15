@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yagami-takuya-is-underrated-feats
+category: doc
+title: Yagami_Takuya_is_Underrated._-Feats-
+alt_titles:
+- Takuya Yagami 2
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1l6oYjhvQH1Vsz0qr-o7onRGwGBIOJPWkJynGUXjOBEE/edit?tab=t.0
+    google_id: 1l6oYjhvQH1Vsz0qr-o7onRGwGBIOJPWkJynGUXjOBEE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 4742
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 216849
+      sha256: 379b045e9f76467e1b4c8a5163378769e0332b0836086d71bbc7b047ad47fbf7
+    - format: docx
+      name: document.docx
+      bytes: 748033
+      sha256: f9a7abd2810cf79cc58794041e7122c32fecc66acc463e096344e9b1041188e5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Takuya Yagami 2
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Yagami_Takuya_is_Underrated._-Feats-
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

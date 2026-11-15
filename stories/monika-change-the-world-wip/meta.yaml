@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monika-change-the-world-wip
+category: story
+title: 'Monika: Change the World WIP'
+alt_titles:
+- 'Monika: Change the World'
+authors: []
+series:
+- doki-doki-literature-club
+characters:
+- monika
+tags:
+- fanfiction
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1JuxrAQ5e6XmdZO87gNF6qmxtC4klZs-Av-RKODwN-Bs/edit?usp=sharing
+    google_id: 1JuxrAQ5e6XmdZO87gNF6qmxtC4klZs-Av-RKODwN-Bs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 8057
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1504630
+      sha256: 0909641d03fab389442fe769b651f178a5738892b3e0ff9b6a476859bf0416e1
+    - format: docx
+      name: document.docx
+      bytes: 1283016
+      sha256: c7cc361614c52cd731c8c795d4258760d84e0b64b269ca3e328eab55fcd70562
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: stories
+  section: M
+  link_text: 'Monika: Change the World'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

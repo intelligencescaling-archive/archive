@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: invincible-verse-durability-weaknesses
+category: doc
+title: Invincible-verse durability/weaknesses
+authors:
+- name: khadz
+  source: doc-text
+series:
+- invincible
+characters: []
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/19V3vBiu6w_lUM3CuzZDat4tPTe2Fi-LSxfaTwlDsxuY/edit?tab=t.0
+    google_id: 19V3vBiu6w_lUM3CuzZDat4tPTe2Fi-LSxfaTwlDsxuY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 42
+    words: 1322
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 17692887
+      sha256: a303bb92ad6c7654eb3afbdf23b5947ae70b007491c96bf7e45d7377943303eb
+    - format: docx
+      name: document.docx
+      bytes: 29271286
+      sha256: fef3667e2c5ca15dcf8c87ac5f3d2e3634170b14150e9806469008d42ca65e2e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Invincible-verse durability/weaknesses
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

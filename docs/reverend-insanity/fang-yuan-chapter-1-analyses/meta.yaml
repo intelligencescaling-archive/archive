@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-chapter-1-analyses
+category: doc
+title: Fang yuan chapter 1 analyses
+alt_titles:
+- Fang yuan chapter 1 analysed
+authors:
+- name: erika/wodstudios
+  source: doc-text
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WaZl0N7lqAPWXOVThOewpz0pHL-0KhU0QS7ZcGgPQ8U/edit?tab=t.0
+    google_id: 1WaZl0N7lqAPWXOVThOewpz0pHL-0KhU0QS7ZcGgPQ8U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 348
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 127624
+      sha256: 0cba1e5d8bdd16e04d115cd667a0cd2b1c735ef9a0d08fafc890dfe58962fce3
+    - format: docx
+      name: document.docx
+      bytes: 99980
+      sha256: 7151e89e172fef6b4e0364b9d0c216621e4c4dcf04c6d14c962927cc876bb1e3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Fang yuan chapter 1 analysed
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

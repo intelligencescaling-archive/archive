@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: junpei-feat-doc
+category: doc
+title: JUNPEI FEAT DOC
+authors:
+- name: Grove421
+  source: doc-text
+- name: GXTHIE
+  source: doc-text
+series:
+- zero-escape
+characters:
+- junpei-tenmyouji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1qjdNTiHPG3e-sP6xQmH9ITQ45-0mIiJM7h9ywuqkvr8
+    google_id: 1qjdNTiHPG3e-sP6xQmH9ITQ45-0mIiJM7h9ywuqkvr8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 67
+    words: 16178
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19005229
+      sha256: 627ab9006f33f366d613d03dd8715dfd439e02e79ac07198486e89cad7d39ad3
+    - format: docx
+      name: document.docx
+      bytes: 23366900
+      sha256: 9c8843158fc3206cdbbec9c43ee51910d5148d91c7727aec3b04197d5ebcfea1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Junpei feat DOC
+- library: remastered
+  section: Zero Escape
+  character: Junpei Tenmyouji
+  link_text: JUNPEI FEAT DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

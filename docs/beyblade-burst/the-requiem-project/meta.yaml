@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-requiem-project
+category: doc
+title: The Requiem Project
+authors:
+- name: Akuma Ujjain
+  source: doc-text
+series:
+- beyblade-burst
+characters:
+- theodore-glass
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1C08YVKMNldhvIqlFaf6dI5uOYJR4JSLjqol1dgaGvY0/edit?usp=drivesdk
+    google_id: 1C08YVKMNldhvIqlFaf6dI5uOYJR4JSLjqol1dgaGvY0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 42
+    words: 3542
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6663295
+      sha256: 75a3c8f21862c019c87466e98e01098938fed4e76c3275ba22dd54e5bae5d86b
+    - format: docx
+      name: document.docx
+      bytes: 7342575
+      sha256: 37cb283b555dca0bdbdc8b02fd2968d6aeffc6db5bfe2b6d664dafc55b99f538
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: The Requiem Project
+- library: remastered
+  section: Beyblade Burst
+  character: Theodore Glass
+  link_text: The Requiem Project
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

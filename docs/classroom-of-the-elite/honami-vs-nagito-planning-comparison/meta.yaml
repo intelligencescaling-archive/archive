@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: honami-vs-nagito-planning-comparison
+category: doc
+title: Honami vs Nagito - Planning Comparison
+alt_titles:
+- Why Ichinose beats Nagito in planning
+authors:
+- name: XorPaw
+  source: doc-text
+series:
+- classroom-of-the-elite
+- danganronpa
+characters:
+- ichinose-honami
+- nagito-komaeda
+tags:
+- planning
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1kn90BE0xQihHDI4X6XPGRsiumWXvE4fcCWyaMJ36tb8/edit?tab=t.0#heading=h.5r9ymgnn0zfa
+    google_id: 1kn90BE0xQihHDI4X6XPGRsiumWXvE4fcCWyaMJ36tb8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 25
+    words: 8094
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 426736
+      sha256: 23ae9bbcad735979979797d863de8f95250ec0fdc75eb6c1001c9c58389e9212
+    - format: docx
+      name: document.docx
+      bytes: 1150168
+      sha256: 150de00ba71bdb5070d7b70b9fa1b5c4599de5d0ac438be721f5adf4ce149215
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Why Ichinose beats Nagito in planning
+- library: remastered
+  section: Classroom of the Elite
+  character: Ichinose Honami
+  link_text: Honami vs Nagito - Planning Comparison
+- library: remastered
+  section: Danganronpa
+  character: Nagito Komaeda
+  link_text: Honami vs Nagito - Planning Comparison
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinichi-ultimate-document
+category: doc
+title: Akiyama Shinichi Ultimate Document
+alt_titles:
+- Akiyama Shinichi ultimate doc
+authors:
+- name: Whanks 🇧🇷
+  source: doc-text
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mcTbFSeA39iJVTDpAbyzFXznmwfU1T_33W-T6PCxFsQ/edit?usp=drivesdk
+    google_id: 1mcTbFSeA39iJVTDpAbyzFXznmwfU1T_33W-T6PCxFsQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 21299
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 27879398
+      sha256: 09078ee1d1757ba002d8d523c487b61db1773a1a85d8045482134a8d318db716
+    - format: docx
+      name: document.docx
+      bytes: 26329340
+      sha256: cec4f77170dac372f18283fa0e2162676792a55ad36d5d46e891fa6255398df3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama Shinichi ultimate doc
+  note: (it's not only bad, but it also Glazes Akiyama a lot, I really don't recommend this doc)
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama Shinichi Ultimate Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

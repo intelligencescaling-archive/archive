@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: all-categories-for-scd
+category: doc
+title: All Categories For SCD
+alt_titles:
+- SCD categories doc 2
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1RDRktx2nDstGtcaZ9o5tGvXIiO1vkiuM/view?usp=drivesdk
+    google_id: 1RDRktx2nDstGtcaZ9o5tGvXIiO1vkiuM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 4665
+    files:
+    - format: pdf
+      name: DOC-20250509-WA0006. (1) (1).pdf
+      bytes: 453190
+      sha256: 5783369894c44daa596eb59dbb521ee589d8d25e0092d6dd7936099d5a8d97a0
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD categories doc 2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

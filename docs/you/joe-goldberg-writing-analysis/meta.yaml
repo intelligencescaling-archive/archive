@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-writing-analysis
+category: doc
+title: Joe Goldberg Writing Analysis
+alt_titles:
+- Joe Goldberg Writing Doc
+authors: []
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-UXMlmaFMO6to1962WTW6z_xnr_Da_Ht2NvxHueMl2U/edit?usp=drivesdk
+    google_id: 1-UXMlmaFMO6to1962WTW6z_xnr_Da_Ht2NvxHueMl2U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 887
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 80716
+      sha256: 7ba11c0e4a36f904cdb456cd1ffea41eac2b13ae6963b82964cadc65f1564976
+    - format: docx
+      name: document.docx
+      bytes: 9755
+      sha256: 60cd12548de2f626ad4c3812afeabbc5103c19db41507f6e5c4d276b62395804
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe Goldberg Writing Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

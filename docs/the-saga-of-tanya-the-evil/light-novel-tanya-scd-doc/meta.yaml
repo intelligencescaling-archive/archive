@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-novel-tanya-scd-doc
+category: doc
+title: Light Novel Tanya SCD DOC
+alt_titles:
+- Light Novel Tanya doc
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series:
+- the-saga-of-tanya-the-evil
+characters:
+- tanya-von-degurechaff
+variant: Light Novel
+tags: []
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vxGGpB-RzXFgfCrm8kFKwutR505g2xnzt_pWm11goac
+    google_id: 1vxGGpB-RzXFgfCrm8kFKwutR505g2xnzt_pWm11goac
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 365
+    words: 149671
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7286321
+      sha256: 9177f950f9f377c0ff716e3bfd9e7a37eecc35be5798efee4dff9b50b646ab70
+    - format: docx
+      name: document.docx
+      bytes: 3224420
+      sha256: d97943a9f0de65acb5a0c0d2340f2f5f1eaffa57288db528fd5b84d189fa81d7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DOCS I MADE:'
+  link_text: Light Novel Tanya doc
+  note: (Finished)
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Light Novel Tanya Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

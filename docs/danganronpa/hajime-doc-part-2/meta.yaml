@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hajime-doc-part-2
+category: doc
+title: Hajime doc part 2
+alt_titles:
+- The exploits of hajime hinata 2:4
+authors: []
+series:
+- danganronpa
+characters:
+- hajime-hinata
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=19LuabY5R8r5NdrgtL8OnqpoPh27Dr8CG
+    google_id: 19LuabY5R8r5NdrgtL8OnqpoPh27Dr8CG
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3161
+    files:
+    - format: pdf
+      name: The exploits of hajime hinata 2_4.pdf
+      bytes: 10638031
+      sha256: 458ca82ffce3a9b040c3dbff57d3cae652a5e35a28d2b90bc0656b0b80441fe2
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Hajime doc part 2
+- library: remastered
+  section: Danganronpa
+  character: Hajime Hinata
+  link_text: The exploits of hajime hinata 2:4
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

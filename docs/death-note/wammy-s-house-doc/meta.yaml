@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wammy-s-house-doc
+category: doc
+title: Wammy's House Doc
+alt_titles:
+- Wammy's House
+authors: []
+series:
+- death-note
+characters:
+- wammys-house
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1fq3P22bH3fzXxJne2Fl-fQFpXQrloFLxIHMQM_sdOt4
+    google_id: 1fq3P22bH3fzXxJne2Fl-fQFpXQrloFLxIHMQM_sdOt4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2536
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 265023
+      sha256: bb73986aa7047160b5c2c8171632cbd75d566e470687e7fa3092ea0de4e6bb44
+    - format: docx
+      name: document.docx
+      bytes: 315128
+      sha256: 622bad9464f22d7faec558b1b333636197a15e47be6550c0f5dfee995a048708
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Wammy's House
+- library: remastered
+  section: Death Note
+  character: Wammy’s House
+  link_text: Wammy's House Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

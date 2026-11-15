@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jake-misunderstanding
+category: doc
+title: Jake Misunderstanding
+alt_titles:
+- Jake's Soul Misinterpretation
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- jake
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18aYARSQqnxC7_gYImBSEkdlcITWOpqd3kfVUZBxVXig/edit?usp=drivesdk
+    google_id: 18aYARSQqnxC7_gYImBSEkdlcITWOpqd3kfVUZBxVXig
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1676
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 837298
+      sha256: ff01d84a393a64611cd5319c72a1e16e470947fcaef25d6d0867c3a8d529e67c
+    - format: docx
+      name: document.docx
+      bytes: 1418600
+      sha256: 5d55d99f9ff30db93b9592151a9cd73b1d905bd7fd983f788e152dabf2249bf5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Jake's Soul Misinterpretation
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: Jake
+  link_text: Jake Misunderstanding
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

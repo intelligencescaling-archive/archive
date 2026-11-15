@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lupin-the-3rd-feats
+category: doc
+title: Lupin the 3rd Feats
+alt_titles:
+- Lupin III
+authors:
+- name: scroll
+  source: doc-text
+series:
+- case-closed
+characters:
+- lupin-iii
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-BQkOpuCddElHCI-ZXR9VNb5LSiI7zjQ0Sd2g7rbYjo
+    google_id: 1-BQkOpuCddElHCI-ZXR9VNb5LSiI7zjQ0Sd2g7rbYjo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 68
+    words: 19858
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1144357
+      sha256: b3c1b53822a70504d9a3334d395cb348347a8026b533168756c509e01c878a96
+    - format: docx
+      name: document.docx
+      bytes: 442116
+      sha256: 9d67360fbe1aa6058c65f0e3b42504561c576b7d712cac9e7a10d3765cb90897
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lupin III
+- library: remastered
+  section: Case Closed
+  character: Lupin III
+  link_text: Lupin the 3rd Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

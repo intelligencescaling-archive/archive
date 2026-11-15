@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-siesta-doc
+category: doc
+title: Another Siesta doc?
+authors:
+- name: Animangamastarmedia or I AM
+  source: doc-text
+- name: Matty the Ace Detective
+  source: doc-text
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1StumJah8QLL8jJCzbVz_y3vNY-RVMCBEkRqlcMrroJY/edit?usp=drivesdk
+    google_id: 1StumJah8QLL8jJCzbVz_y3vNY-RVMCBEkRqlcMrroJY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 48
+    words: 14648
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 910608
+      sha256: 9e15570cd6e8f6fbe08d869967e5b3375657c459c5838b48d7384fa0eecdb6ae
+    - format: docx
+      name: document.docx
+      bytes: 621592
+      sha256: d6b17d3fba7e85e86f86240b11a51483b4f43095f9ab22f265d2e4be30f4da5f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Another Siesta doc?
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

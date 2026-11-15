@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cognition-scaling
+category: doc
+title: Cognition Scaling
+authors:
+- name: No-Engineering9521
+  reddit: No-Engineering9521
+  source: doc-text
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cviSu6-BT-72vmGH7qGnaRDlJBbs3rKWZ5yZLLfkxtk
+    google_id: 1cviSu6-BT-72vmGH7qGnaRDlJBbs3rKWZ5yZLLfkxtk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 482
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 51017
+      sha256: d078c9b5a4b46725b6ea7c0a971caa3abc5ed83f17318e311bd238c4cdc5aade
+    - format: docx
+      name: document.docx
+      bytes: 8748
+      sha256: 9d0e187a98e04e5051ff22ca9ca573c2b80b728cffb9d53efb027efdd4bb3028
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Cognition Scaling
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

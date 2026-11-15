@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: raul-fsiq-doc-ongoing
+category: doc
+title: RAUL FSIQ DOC (Ongoing)
+alt_titles:
+- Raul FSIQ
+authors: []
+series: []
+characters:
+- raul
+tags:
+- fsiq
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PJ-QoVLpnGwxJ09QcVHjYCmIvVPm3e3avqlK8aXFqNk
+    google_id: 1PJ-QoVLpnGwxJ09QcVHjYCmIvVPm3e3avqlK8aXFqNk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 1287
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 46967268
+      sha256: 7b8ad72bbd12d3ca177b7e3f8d4ee6032b56643fa2bb8ca6f50bfeff32280466
+    - format: docx
+      name: document.docx
+      bytes: 43078679
+      sha256: 523a7a493b1325235c4e77aa7325eb50d23840b08cefb67cb4aeb05a2aa5c594
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Raul FSIQ
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

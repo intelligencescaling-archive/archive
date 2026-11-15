@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: introduction-to-scaling-methods-60
+category: doc
+title: Introduction To Scaling Methods (60%)
+alt_titles:
+- Introduction to scaling systems
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xD5KzRhGKW9NFKfLGWbq5pMA1IQWOFp3DU2VDikfktM
+    google_id: 1xD5KzRhGKW9NFKfLGWbq5pMA1IQWOFp3DU2VDikfktM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 841
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 70457
+      sha256: 9c3d1951e0e10766f214568c1a21e39d8cde46a781e8acea2afa9f07cc3a3f1b
+    - format: docx
+      name: document.docx
+      bytes: 556171
+      sha256: 08913289e8dffc5c17911760016cb146abc22eb1840d6336ea9319d855ab068e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Introduction to scaling systems
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

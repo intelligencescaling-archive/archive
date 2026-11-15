@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiyotaka-a-fsiq-doc
+category: doc
+title: KIYOTAKA A. | FSIQ DOC
+alt_titles:
+- Koji's FSIQ feats
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Bj_gCGovRgflrxsukPfZFQzQNw0prqEn2x264UBbSzg/edit?usp=drivesdk
+    google_id: 1Bj_gCGovRgflrxsukPfZFQzQNw0prqEn2x264UBbSzg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 7069
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 341044
+      sha256: 2d7aa6f92efd5a70cf9e43f72ba34a7a1b42867962a366538d3460bafba96bd9
+    - format: docx
+      name: document.docx
+      bytes: 475186
+      sha256: 63e4f92961b3bedd78522815cf945d1ecb1b2bb2a76a56d42e31947375d99c83
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's FSIQ feats
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: KIYOTAKA A. | FSIQ DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

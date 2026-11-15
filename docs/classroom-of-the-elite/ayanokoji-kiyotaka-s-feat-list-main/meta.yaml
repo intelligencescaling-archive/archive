@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-kiyotaka-s-feat-list-main
+category: doc
+title: Ayanokoji Kiyotaka's Feat List - Main
+alt_titles:
+- Ayanokoji Kiyotaka’s Feat List - Main
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1zfaKEexhWxZNM-tzls_stD-2SsEjQ3rr6OGRNxqlcFE/edit?usp=sharing
+    google_id: 1zfaKEexhWxZNM-tzls_stD-2SsEjQ3rr6OGRNxqlcFE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 3539
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 604571
+      sha256: 6f647c6b0cdb07774a8e4375edbe85d6907cece406fe1105771d60440cd9776c
+    - format: docx
+      name: document.docx
+      bytes: 1004876
+      sha256: db14898efc96895817b19ca3e539f1423aeae5d304e6fc5085a50f21f795e1da
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokoji Kiyotaka’s Feat List - Main
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

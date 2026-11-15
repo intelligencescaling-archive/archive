@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: leap-second-planning
+category: doc
+title: Leap Second Planning
+alt_titles:
+- Baku Madarame Leap Second Plan
+authors: []
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1njJtvnhnDnSlIDWe25xDAfkGPL8y8arm5CkgrtmpaBw/edit?tab=t.0#heading=h.5yipcyhnulzt
+    google_id: 1njJtvnhnDnSlIDWe25xDAfkGPL8y8arm5CkgrtmpaBw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 5295
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1276239
+      sha256: 351bfc82b4b385bd8e0c7509f8e579bcb1ce8e98e365e2a95c7bb74db8b2eb60
+    - format: docx
+      name: document.docx
+      bytes: 1113555
+      sha256: 956c864ce9d82099c1d778b32335cc99030ac2317719b589482771ea2fcacf5e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku Madarame Leap Second Plan
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Leap Second Planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

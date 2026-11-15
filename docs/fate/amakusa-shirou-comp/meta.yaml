@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: amakusa-shirou-comp
+category: doc
+title: Amakusa Shirou (Comp)
+alt_titles:
+- Comp Amakusa Shirou Doc
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- amakusa-shirou
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1V6j6-EI5K24oXGDziDzXHVtcT4jR4uuHTlnmA7iNAUc/edit?tab=t.0
+    google_id: 1V6j6-EI5K24oXGDziDzXHVtcT4jR4uuHTlnmA7iNAUc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 3665
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14185740
+      sha256: 10dcdf573ab0ab3ee9edebfdb2c67795a2a9a1dc259b716b58371ea15d1d09af
+    - format: docx
+      name: document.docx
+      bytes: 12330321
+      sha256: c2235f89a9d9eef7ef727ae5dfffdc37b2033cc2ea80a4c16b4c55fa2bbe80bc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Comp Amakusa Shirou Doc
+- library: remastered
+  section: Fate
+  character: Amakusa Shirou - Composite
+  link_text: Amakusa Shirou (Comp)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

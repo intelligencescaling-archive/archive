@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: honami-vs-bb-planning-comparison
+category: doc
+title: Honami vs BB - Planning Comparison
+alt_titles:
+- Ichinose> BB in planning
+authors:
+- name: XorPaw
+  source: doc-text
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- ichinose-honami
+- beyond-birthday
+tags:
+- planning
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1PEUm3z2g3cobqBXLUtPfXr_fJm33eRnIVS9S78hF9P4/edit?tab=t.0
+    google_id: 1PEUm3z2g3cobqBXLUtPfXr_fJm33eRnIVS9S78hF9P4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 8485
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 415384
+      sha256: 7dd3d5d01869fb1199fb49dae0e2dd8d7ef7c3159285c5f6719a28a14bc69653
+    - format: docx
+      name: document.docx
+      bytes: 1151682
+      sha256: 5d2432565d7dc7a6cd21afda4ff652229d36277654232b89d85d5ec4a259735f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ichinose> BB in planning
+- library: remastered
+  section: Classroom of the Elite
+  character: Ichinose Honami
+  link_text: Honami vs BB - Planning Comparison
+- library: remastered
+  section: Death Note
+  character: Beyond Birthday
+  link_text: Honami vs BB - Planning Comparison
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

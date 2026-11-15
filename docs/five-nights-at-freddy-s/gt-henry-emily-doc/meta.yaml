@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gt-henry-emily-doc
+category: doc
+title: GT HENRY EMILY DOC
+alt_titles:
+- GT Henry Emily SCD document
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17ItGku4r1JBmuxL6ZjaF_D2X6icyThMa88r-bau2IEU/edit?usp=drivesdk
+    google_id: 17ItGku4r1JBmuxL6ZjaF_D2X6icyThMa88r-bau2IEU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1851
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 89001
+      sha256: 9d5e63b8ccaec2061c7f0ef164ec86b86e850b0f3e944e200cd6efd2b981040f
+    - format: docx
+      name: document.docx
+      bytes: 12112
+      sha256: 1f25615266416c068ed606342aae355d2493e68dcb7e7d57f40d59d0c46bd8b8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: GT Henry Emily SCD document
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: Henry Emily
+  link_text: GT HENRY EMILY DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

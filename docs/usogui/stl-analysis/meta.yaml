@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: stl-analysis
+category: doc
+title: STL Analysis
+authors: []
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jKF4DdM9ytt93YR9I_r815yMYe0q4jQXnYYFHkL5ah8
+    google_id: 1jKF4DdM9ytt93YR9I_r815yMYe0q4jQXnYYFHkL5ah8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 10089
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 481562
+      sha256: c9729c16943855843e6668def17507349c9abff1652d3db738970adb9050a210
+    - format: docx
+      name: document.docx
+      bytes: 713166
+      sha256: 5fc9a5a31f8d8e559b53e1eb85672eb518b222e37383312a5ecd61788bf18747
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: STL analysis
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: STL Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

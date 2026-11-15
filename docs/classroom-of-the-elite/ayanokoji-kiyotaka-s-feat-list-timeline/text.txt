@@ -1,0 +1,446 @@
+Classroom of the Elite
+-Timeline-
+
+Here is a link to the Main Ayanokoji Featlist.
+
+—————————————————————————————————————————
+
+An establishment of the approximate timeline COTE Series takes place in, as well as an archive of all the timeline-relevant references in Classroom of the Elite.
+
+An outlier to the other documentaries, this analysis will present English scans directly in the document structure in this color, with underline links to the raw Japanese translation replacing the purpose of the underline scan section.
+(Temporary - Japanese Raws are directly displayed in the document)
+
+Blue Underline Links - Portals to Web Sources and other Documentaries.
+
+Start:
+—————————————————————————————————————————
+
+There have been varying conclusions made on the time COTE is taking place in as well as how technologically advanced the verse is, examples are claims such as the fact that COTE is futuristic, or that it happens in the past even if some existing gadgets are above the technological counterparts of what the timeline directly would imply. The importance of setting the timeline straight comes into play when properly evaluating several standards such as advancements, demographics and existing knowledge at the time the current COTE series takes place, in comparison to our own world. A particular example where tech and futurism matters is when analysing the engine powered by several computers which Kiyotaka was up against in Y1V11.
+
+—————————————————————————————————————————
+
+As every relevant information is laid out and studied, it becomes evident that Classroom of the Elite Series is set in a futuristic period. While proving this, we will additionally seek to determine the most probable years for COTE taking place based on the text data. To do this, we will first establish an interval of valid time frames, then select matching years and compare our results.
+
+-Primary Evidence-
+A) Y2V1 - Chapter 1
+Lower Boundary
+
+The opening narration of Kiyotaka Ayanokoji asserts that Advanced Nurturing High School was established “long after people had become familiar with the 21st century”. Additionally, it provides insight into the government’s reasons for establishing the institution, it being due to a decline in Japanese society. This motive aligns with B) and serves to bring more accuracy.
+
+It was a certain year, long after people had become familiar with the 21st
+century.
+As the world was facing all sorts of different problems, Japan was also at a
+turning point of its own.
+Between declining birth rates, an aging population, environmental issues, and a
+fall in national power, Japanese society was beginning to show signs of decay.
+In order to rebuild from the ground up, the government began seriously focusing
+its efforts on cultivating its human resources.
+And, as one part of this shift in policy, a certain high school was established.
+The goal of this school is to gather various students from all over the country
+and foster them into individuals equipped to take on the outside world.
+
+Raw Japanese Text:
+21世紀にも親しみを覚えるようになって久しい、そんなある年。
+世界が様々な問題に直面している中、日本も同様に転換期を迎えていた。
+少子高齢化、環境問題、国力の低下。衰退していく日本社会。
+それらを根本から立て直すため、政府は人材育成に強く取り組み始めていた。
+そして、その政策の内の１つとして誕生した高校が存在する。
+全国から様々な生徒を集め、世界に通用する若者を育成するための学まなび舎や。
+
+To quantify this, we will take a look at the semantics.
+With the starting lower boundary at 2001 going by the specified time-frame of the “21st century”, we will utilize the additional information inside the paragraph to give the most plausible, approximate time-frame for the establishment of ANHS. The key constructs are “long after” and “familiar”.
+
+- Familiarity happens POST an adjustment phase, once the novelty of the new century wears off.  This phase begins in the early 2000s and lasts until stabilization.
+Kiyotaka’s monologue refers to societal familiarity, given that his monologue explains the causes leading to ANHS’s foundation from a societal perspective. What this means is that the usage of the word “familiar” looks over when the 21st century’s additions such as societal values and technologies are no longer novel. Examples are widespread use of the internet, globalization, etc.
+
+A relevant indicator of this familiarity inside the Classroom of the Elite universe can be seen in the later point F) that will also be utilized here.
+"The mobile phone has become an indispensable tool for people living in the modern world. The popularity of smartphones among those aged between 10 and 20 exceeded 99% by 2020. When considering such a world, there was no doubt about this fact."
+
+Raw Japanese Text:
+現代を生きる者たちにとって携帯というツールはなくてはならない存在になっている。10代以上20代以下におけるスマートフォンの普及率は２０２０年頃には99％を超えている。そんな世の中を顧かえりみてもその事実に疑いようはない。
+
+The widespread use of smartphones among youth, a defining piece of technology of the 21st century that references the year 2020 indicates established familiarity of the concept around the given date.
+Considering that the process of familiarization of our own world follows a similar pattern to the information presented and this is relevant to COTE as B) proves, we can interpret a justifiable timeframe for this “familiarity” establishment ~2010s to ~2020s.
+
+- “long after” is composed of the temporal operator “after” - setting the value of the time after the reference, and the applied degree modifier “long” - a scalar modifier specifying a salient, non-trivial duration later => a meaningful delay that on the scale of the span of an affirmed century, can be anywhere from a few years to a few decades later. While not precisely quantifiable, going by the plausible estimate of the relative time taken as reference while trying to avoid high-balling, ~10 years in the context of a century is more than a reasonable value to take in, and can be considered a low-ball.
+
+=> ~2010 + ~10 = ~2020
+    ~2020 + ~10 = ~2030
+In conclusion, based on this paragraph and supporting evidence, we can assert that ANHS’s establishment being placed ~2020s-2030s as not just reasonable, but a most plausible interpretation.
+
+As Year 1 Volume 1 takes place 29 years after ANHS was founded, this yields an estimate situating COTE’s main storyline at 2050s~2060s, JUST relying on this piece of evidence.
+
+Reference for passage regarding ANHS’s age: ANHS documentary.
+Summary: Student ID number of KA’s generation is 4800. Ex generations such as Nagumo and Manabu have lower ID numbers by around ~160 per year.
+=> throughout ANHS’s history, 4800 students have been uniquely registered.
+=>
+~4800 : 160 (student number per year) = 30 years in function.
+30 - 1 year (ongoing during Y1V1) = 29 years at the time of Y1V1.
+
+—————————————————————————————————————————
+
+B) Reference Justification
+
+For some assertions presented below, primarily D) and E), references related to projections of our real world have been used (such as estimation of Japanese societal decline). This is done in conjunction with the worldly references that COTE Series has presented about real life humanity’s past, present AND future.
+Examples are:
+Past - World War 2, Japanese Bubble Economy boom + Bubble collapse.
+Present - Smartphone Usage exceeding 99%.
+Future - Projected declines in Japanese society - (which to the futuristic COTE as established by A), are the present => B) is valid.)
+
+Classroom of the Elite’s worldbuilding extrapolates directly from our real-world socio-economic trajectory. These continuities act as the series’ temporal and thematic baseline.
+
+While it is theoretically possible for synthetic deviations to occur in the series’ world given the nature of a fictional work, by adhering to the fact that COTE has so far exclusively relied on references related to our own world to establish the timeline, it makes any suggestion such as COTE following an alternate timeline of its own with a separate or unique order of events dismissable due to a complete lack of supportive evidence, and overwhelming presence of directly counteracting one.
+
+—————————————————————————————————————————
+
+C) Important Time References - Volume 0
+
+1. Atsuomi is 36 when Kiyotaka is born - V0 Prologue.
+“I had no time to rest, and I continued challenging myself. Before long, I was
+gaining influence within the party, and at the age of 36, I had one foot in power.
+But... from here on out, to jump into the very center of the political world, I would
+need further achievements and transgressions.”
+
+Raw Japanese Text:
+休む暇もなく挑み続けたかいもあり、いつしか俺は党内でも影響力を強め、三十六歳にして権力の一部に片足を突っ込んでいた。だが――ここから先。まさに政界の中心に飛び込んでいくには更なる功績と罪過が必要だ。
+
+2. Chapter 1 and Chapter 2 of V0, serving points D) and E) take place when Atsuomi is 31.
+Tsukishiro took out a light blue clear file and pulled out some papers from it. I wonder if it was all calculated to bring us to this point.
+“Ayanokouji Atsuomi, age 31. Male. Born in Aso City, Kumamoto Prefecture.”
+
+Raw Japanese Text:
+月城は薄い水色のクリアファイルを取り出すと、そこから何枚か紙を取り出す。ここまで話を運ぶことも、全ては計算通りなわけか。
+「綾小路篤臣、年齢31歳。男性。熊本県阿蘇市出身、最終学歴は高卒――」
+
+3. Kiyotaka is 15 years old in Y1V1.
+
+=>
+36 - 31 = 5 (years after the statement by the time Kiyotaka is born)
+15 + 5 = ~20 (years after the statement by Y1V1)
+
+—————————————————————————————————————————
+
+D) V0 - Chapter 1
+Upper Boundary
+
+In a monologue happening ~5 years before the birth of Kiyotaka Ayanokoji and ~20 years before COTE Y1V1 takes place as seen above, Atsuomi Ayanokoji gives a description of Naoe Jinnosuke, his superior.
+
+"Naoe Jinnosuke. Belonging to the ruling Citizens' Party, he has held numerous positions such as Minister of Transportation and Minister of Economy, Trade, and Industry, and currently serves as the Secretary-General."
+
+Raw Japanese Text:
+直江仁之助。与党である市民党に属し、これまでに運輸大臣、経済産業大臣など数多の役職を経験し、今は幹事長を務めている。
+
+Going by the given assertion, referring to the status Naoe once held as Minister of Transportation, we are able to extract a relevant time pointer using real life events as reference, as established by B).
+
+In Japan, the Ministry of Transportation (運輸省, Un’yushō) was abolished in 2001, being instead replaced by the Ministry Land, Infrastructure, Transport, and Tourism (国土交通省, Kokudo-Kōtsū-shō). This means that we can canonically assert that the now old Naoe has held this position before the year 2001, January => Last year of the post’s existence under that name is 2000.
+
+We also have confirmation that by the time this interaction between Naoe and Atsuomi takes place, where the monologue is given, is after 2000, since the Ministry Land, Infrastructure, Transport, and Tourism (国土交通省, Kokudo-Kōtsū-shō) exists. Asama Hisashi is a Naoe underlying occupying the position of Vice-Minister. Additionally, we are also given Naoe’s age at the time - 68 years old:
+
+Asama Hisashi. He is 71 years old—three years older than Naoe-sensei. He is currently serving as a vice minister of the Ministry of Land, Infrastructure, Transport, and Tourism, and is a leading figure in the Naoe faction.
+
+Raw Japanese Text:
+浅間久。年齢は直江先生よりも三つ上の七十一歳。 現在、国土交通省の副大臣を務めている直江派閥の重鎮だ。
+
+As a result, we can estimate the absolute highest year value these reference statements take place in and find an upper ceiling for all events in Classroom of the Elite.
+
+In Japan, the theoretical minimum age possible to become a Minister is 25 years of age. Even in the COTE universe, we have a similar example with Kijima becoming a powerful politician fresh out of University, launching ANHS soon forward, so we can conclude that this is realistic.
+Assuming that Naoe occupied the function of Minister of Transportation at 25 years of age around the time it was replaced, meaning ~2000, we can infer that the latest date Naoe could have been born in for the given statements to remain valid is 1975.
+
+2000 - 25 = 1975
+
+Since we know that Naoe was 68 years of age during V0 Chapter 1, we can infer 43 years have passed since he held the position under this assumption.
+
+68 - 25 = 43
+
+We can now add this number of passed years to 2000 (the position for Naoe occupying the post) and we get that the latest time V0 Chapter 1 can take place is 2044.
+
+2000 + 43 = 2043
+
+Using the information from point C), we can reach the conclusion that the latest year in which Y1V1 can take place is 2064.
+
+2043 + ~21 = 2064
+
+=> According to A) and D), the highest valid year value for COTE Y1V1 is 2064.
+
+This value remains consistent with point A), ensuring the statements are not contradictory.
+Because ANHS was established 29 years before Y1V1, it means that the difference in years between ANHS’s establishment and Atsuomi’s thoughts is 29 - ~20 = ~9 years.
+
+To find the highest year value for ANHS’s establishment we simply subtract 9 years from 2043, or subtract 21+9=30 years from 2064.
+
+2043 - 9 = 2034
+2064 - 30 = 2034
+
+—————————————————————————————————————————
+
+-Additional Evidence-
+
+Here will be presented some additional highlights involving not just the timeline directly, but technological advancements as well.
+
+E) V0 - Chapter 2
+
+We will utilize the passage to further support the evidence presented at A) and D) and highlight what sector of the interval of valid timeframes of V0 is more plausible to be selected.
+
+In another monologue of Atsuomi Ayanokoji, taking place around the same time as D), meaning ~20 years before Y1V1, the politician updates the readers on the current status of Japan:
+
+"After the war, Japan had grown with the bubble economy, but now that it has disappeared, it is only falling down.
+We have to put an end to the current situation in which Japan is already being ridiculed as joining the group of developing nations."
+
+Raw Japanese Text:
+戦後、バブルを経て大きくなった日本は消え去り、今はただ落ちていくばかり。既に発展途上国の仲間入りと揶揄されている現状に終止符を打たなければならない
+
+As justified by B), through an argument centered around COTE’s purpose and utilization of real-world references with actual meaning, this statement serves to become a meaningful in-verse retrospection of an event that for our reality is a future projection. Any counterclaim such as “the world of COTE can diverge” is an appeal to possibility dismissed for lack of evidence and unlikelihood in the face of the more internally consistent establishment.
+
+Inverse validity of claim and contextual relevance:
+
+The phrasing used - “ridiculed as” - (揶揄されている) - which in the literal sense would portray a direct mockery, instead is taken in a rhetorical sense. The point of the rhetorical use of (揶揄されている) is to imply the underlying truth of how policymakers portray Japan’s decline as so severe that it has attained the status of a “developing” nation.
+This only highlights the substance in Atsuomi’s statement, that Japan’s decline has gotten this severe to the point where the current situation must be taken care of immediately and that the undeniable existence of those claims is the main cause of this concern.
+
+In the precedent dialogue, Atsuomi confirms the national situation presented above and validates the claim above about Japan’s development and economy has been left behind enough to the point it is not considered developed anymore, but developing instead.
+
+“Japan cannot compete with the rest of the world as it is now. If we simply sit back and wait for competitive talent to emerge naturally, we will never catch up in a globalized world. That is why I want to provide children with a rigorous education and cultivate geniuses who can compete on the world stage. That is what I believe.”
+
+Raw Japanese Text:
+今のままでは、日本は世界と戦えない。だが、自然と戦える人材が育つのを見つめているだけではいつまでたってもグローバルな世界に追い付くことは出来ない。だからこそ、子供たちに徹底した教育を施し、世界と戦えるだけの人材を、天才を育て上げたい。そう考えています。
+
+Another line of evidence for the truth behind Atsuomi’s claim is narrative necessity. The admitted decline of Japanese society is something he uses to build his goals and motivation to change the country and rise to the top.
+In the grand scheme of things, the mere fact that a gifted politician is taking said matter seriously in the context of needing to change the nation to the point of being willing to do anything necessary, no matter how evil, with one clear example being the White Room which is a human rights violation on multiple levels, says more than enough about the state of Japan and the truth which the statement holds.
+
+Projection’s meaning:
+
+Definition of developed and developing countries. =>
+
+Looking at our own world in the 2020s, Japan is still a leading country on the global stage, being hailed as a primary economic power and an industrial giant that sits on the 4th place in the world in terms of GDP and among the highest in HDI.
+Despite slower growth rates and signs of a beginning of stagnation due to aging and workforce loss, it is nowhere near close to joining the ranks of developing countries such as Kazakhstan or Belarus. Until the growth rates of Japan turn negative, the state itself will not be in a formal decline. Japan being asserted as a country comparable to the ones currently branded as developing requires big changes in the global economic balance that are projected to happen in extremely long periods of time, on the scale of human lifetimes. And this is also comparing Japan to the countries which are “Developing” as of today, those who are close to joining the “Developed” nations. Not even the ones which would be “Developing” in a future in which this statement is epistemically true.
+Atsuomi’s claim supports and justifies the shift in the Japanese political mindset stated in A), which explains the elaboration of ANHS.
+This serves as a reference relevant in determining where the plausibility tends toward in the valid timeline interval.
+
+Timeline impact:
+
+Using previous inferences and evidence, we can establish a set of plausible dates between {~2050 - 2064} for Y1V1. Let’s see what values are more plausible WITHIN this set of numbers using this E).
+
+- Atsuomi’s statement is projected to happen at least several decades in the future, with studies related to making human development projections even hinting that such an extreme shift in Japan’s world standing is a phenomenon not happening in the first half of this decade.
+
+Sources:
+McKinsey - Global study projecting major economies, including Japan, could face 20‑50% population falls by 2100, pointing to deep structural shifts.
+
+ResearchGate - Using socioeconomic scenario modelling up to 2100, this study finds negative GDP growth in many scenarios for Japan due to ageing and population decline.
+
+Cornell University - Study of population decline reshaping Japan’s urban economy and demographics as time goes on.
+
+=> Japan’s decline towards “Developing Countries” becomes more realistic the more time passes on.
+=> The later the value within the set, the more plausible it is according to this statement.
+=> The timeframe tends toward the end of the set.
+N → 2064
+
+—————————————————————————————————————————
+
+F) Y2V4.5 - Prologue
+
+Another proof for the COTE scenario happening in the future, compared to initial beliefs such as the 2015 claim. In Y2V4.5 we are presented a retrospective statement about smartphone usage by 2020. This doubles down on cancelling any possibility of COTE taking place in the presented Y1V1 date.
+
+"The mobile phone has become an indispensable tool for people living in the modern world. The popularity of smartphones among those aged between 10 and 20 exceeded 99% by 2020. When considering such a world, there was no doubt about this fact."
+
+Raw Japanese Text:
+現代を生きる者たちにとって携帯というツールはなくてはならない存在になっている。10代以上20代以下におけるスマートフォンの普及率は２０２０年頃には99％を超えている。そんな世の中を顧かえりみてもその事実に疑いようはない。
+
+While the Japanese verb form “超えている” (koeteiru) can denote a state either in the present or extending from the past, the sentence structure and contextual semantics (“２０２０年頃には…”) are both more naturally interpreted retrospectively.
+Even if the form which puts 2020 in the past is by default preferred, this needs to be enlightened upon. Assuming that the future sense is the truth, taking the closest value - 2019 with the confirmation of ANHS’s age going by the Student ID’s and Chabashira’s enrolment age, it would mean that ANHS would be founded in 2019 - 29 = 1990 at most. This is in clear opposition to A), rendering the future sense epistemically invalid. Thus, the past sense, putting 2020 in the past, is the form the paragraph should be correctly understood as.
+
+—————————————————————————————————————————
+
+G) Volume 0 - Various Chapters
+
+Volume 0 presents several scenes featuring technological advancements far surpassing modern standards. Those serve to justify the timeline’s development besides the temporal futurism as following a predictable curve of development. It is indicative that the COTE universe aims to indicate a level of social and neural interface advancement to what is anticipated to be situated decades beyond our real life present, in order to persuade the reader of the authenticity of its worldbuilding. This, of course, also suggestively enhances timeline arguments as more plausible given not just semantic appearances, but author’s intent directly.
+In short, advancements by themselves would not indicate that COTE happens in the future necessarily, only that it is more developed than our own world. When coupled with the cues we get about the timeline however, both points complement each other, and those advancements highlight the futurism the verse presents.
+
+Examples:
+
+Existence of accessible internet and worldwide mapping 21 years before Y1V1:
+
+I put the documents on my desk and used my computer to view the map and
+confirm the specific location.
+In this day and age, it’s nice to be able to get the information you want in
+real time wherever you are.
+
+Raw Japanese Text:
+資料を机に置いて、パソコンで地図を表示し具体的な場所を確認する。今の時代、どこにいてもリアルタイムで欲しい情報を手に入れることが出来るのはありがたい限りだ。
+—————
+
+Utilization of Virtual Space as a learning method, which quote “PERFECTLY” reproduces the world in the user’s head, offering full sensorial-stimuli coverage. Virtually perfect reproduction even for the average sensor is currently impossible by modern technology and neurological intel, much less the thought of it being available. For more information about the virtual console: White Room Documentary.
+
+“It’d be easier if we could take them out of the White Room, or to put it
+more simply, to have some kind of extracurricular activity, but of course, that's not
+going to happen. The more people we have outside the White Room, the more we
+run the risk of the public knowing about the facility, and the impact that has on young children is immeasurable.”
+Ishida continued his explanation and pulled out a pair of large goggles.
+“That's where the virtual console comes in. Using VR, children will be able
+to travel, learn, and memorize anywhere, at home or abroad.”
+Souya followed in agreement.
+“Ishida-san's idea isn’t bad. It’s great that they’ll be able to virtually
+understand the minimum common sense that they should learn. Even if it’s in a
+virtual space, it can be imprinted as an experience by walking around in a perfectly reproduced world. The structure is the same when we go out into the outside world, so I think our adaptability will be much better than ever before.”
+It's a small price to pay for such a facility where you don't have to go
+outside.
+
+Raw Japanese Text:
+「ホワイトルームの外に連れ出せる、分かりやすく言えば課外授業のようなものが出来れば話は簡単なのですが、当然そうは行きません。外部で行動する人数が多ければ多いほど施設の存在を知られるリスクになりますし、幼い子供たちへの影響も計り知れない」
+石田が説明を続け大きめのゴーグルを取り出す。
+「そこでこのバーチャルコンソールの出番というわけです。VRを使い子供たちには早い段階から外の世界のことをしっかりと植え付けていきます。これを使えば国内外問わずどこへでも自由自在に出かけ、学習、記憶することが可能になります」
+その提案に対し宗谷も同意するように続く。
+「石田さんのこのアイデアは悪くないです。まさに身に付けるべき最低限の常識を、バーチャル上で理解できるのは大きい。たとえ仮想空間上であったとしても、完璧に再現され世界を練り歩くことで体験として刻みつけることが出来る。外の世界に出ても構造が同じなのだから、適応力はこれまでとは比べ物にならないほど向上するかと」
+ホワイトルーム外に出る必要がないのなら、その程度の設備導入は安いものだ。
+—————
+
+Further confirmation from Kiyotaka’s perspective, stating that even with his enhanced senses, the quality makes it so that it could be mistaken for the real world:
+
+The virtual console reproduced the same outside scenery in 360 degrees with
+such quality that it could be mistaken for the real thing, and the sound was
+combined with the visuals to create a sense of presence. Even the people passing
+by were reproduced, showing a businessman in a suit, an old man with a cane, an
+elderly woman trying to get into a cab, and other street scenes.
+
+Raw Japanese Text:
+バーチャルコンソールは現実と変わらぬ景観を本物と見間違うほどのクオリティで360度再現し、その視覚に合わせ音も合わさり臨場感を生む。行き交う人々までもが再現され、スーツ姿のサラリーマンや杖をついた老人、タクシーに乗り込もうとする老婆など街並みを映し出す。
+—————
+
+Kiyotaka’s statement asserts that in the White Room’s point of view, he is not supposed to determine the difference between the virtual console or reality:
+
+My father probably had thought so.
+That I was looking out the window without emotions.
+That I probably couldn’t distinguish the difference between virtual world
+and reality now.
+
+Raw Japanese Text:
+オレの父親であるこの男は思っているだろう。窓の外を見つめてはいるが、そこに感情は入り込んでいない、と。バーチャルな世界を見ていることとの区別など、今現在ついていないだろう、と。
+—————
+
+Extra evidence is also pressed in secondary canons such as the anime adaptation of a scene relevant to Volume 0, where modern technology and communication devices are used more than 10 years prior to the story.
+
+—————————————————————————————————————————
+
+H) Y1V11 - Short Story
+
+Link to the Short Story: (ENG)
+
+A SS in Y1V11 presents Horikita, Kiyotaka, Sotomura and Ike playing a VR fantasy game. It is perhaps a story directly made to present the technological advancements inside the COTE series.
+
+It describes a process of not only being able to shift the user’s consciousness, but quite literally take over their mind and apply it in the digital realm.
+
+After the career selection was over, I felt my consciousness instantly slip away and my vision was covered with white light, then the sight of the imaginary world came into view.
+
+Raw Japanese Text:
+
+Not only is the VR simulation able to manipulate the senses of the user and generate smell and sound. But it is also able to interconnect the users’ consciousness and craft a realm where Horikita and Ayanokoji can speak between themselves as they would normally do, with no difference in feeling.
+
+Despite being imaginary, the realism is not far away from an actual world.
+There was a smell of trees coming from elsewhere.
+I tried to pinch my arm, but there was not really any pain, just only a tiny feeling. This is probably necessary in order to stay connected with reality.
+I could confirm that my body, except for the appearance of different clothing, seemed no different.
+“It’s like the real world.”
+Horikita said something similar to what I was thinking.
+
+Raw Japanese Text:
+
+The technological advancements match the ones shown in V0’s virtual console, with the addition of the accessibility of a fantasy video game. This is yet another hint at the unthinkable advancements presented in COTE, which by today’s standard, is pure fiction.
+
+—————————————————————————————————————————
+
+-Probable Year Estimations-
+
+The goal of this section is to narrow down probable years for when COTE takes place using weekday + date pairs.
+
+Attention Note - The exclusion of inconsistent data points was performed to identify internally coherent subsets and is acknowledged as interpretative. Rules for exclusion were applied to resolve logical contradictions, so the resulting candidate years should be taken as probable values, and nothing more.
+
+—————
+
+Normally, a calendar can repeat within 6 years. Thus it might not necessarily be a productive exercise. Fortunately, we have weekday and date pairs from three consecutive years. This allows us the opportunity to narrow down candidate years significantly.
+
+Let N be the year Ayanokouji enrolled in ANHS. N+1 is the year after and henceforth.
+
+If within the same volume, two pairs are given and they fall within the same month, only one of them is considered since the second doesn’t give information. Having established that, throughout the light novel the following data points were identified:
+
+Year N
+Tuesday: July 1st  [Y1V2] - Inferred (On July 1st, Sudou is called into the staff room. He is given until next Tuesday. The day after, it’s stated that tomorrow is Thursday. Therefore, Sudou was told on Tuesday).
+Monday: August 29th [Y1V4.5] - Stated
+Year N+1
+Friday: February 11th [Y1V9] - Stated
+Tuesday: March 2nd [Y1V10] - Stated
+Sunday: March 14th [Y1V11] - Stated
+Friday: July 16th [Y2V2] - Stated
+Friday: September 17th [Y2V5] - Inferred (Ayanokouji went with Horikita to the special building on Wednesday. The day after the SE was announced and the day after that was the 17th where it took place).
+Monday: September 20th [Y2V6] - Stated
+Monday: November 1st [Y2V7] - Stated
+Year N+2
+Saturday: March 19th [Y2V12.5] - Stated
+
+—————
+
+In order to find the years where those datapoints are possible, a python program that evaluated a year and then checked the weekdays of the dates in the datapoints was used.
+
+Initially, this didn’t succeed because all it takes is one wrong datapoint to create a logical impossibility. It was then modified to look for possible years but only on a subset of dates. This was to identify the “bad” datapoints and investigate. For that, year candidate matches were looked into for all possible subsets of size eight to nine. Only one subset of 8 datapoints yielded several candidate years. Meaning those 8 datapoints were internally consistent and 2 are incorrect.
+2 outliers excluded:
+If February 11 is a Friday, then March 2 can only be a Wednesday in a common year or a Thursday in a leap year. It can never be a Tuesday like it was stated in Y1V10. Because the March 2 datapoint is internally consistent with the events that follow, the datapoint “Year N+1 Feb 11 = Friday” contradicts that “Year N+1 March 2 = Tuesday” and must be rejected. Similarly, the August 29th datapoint is impossible with any other datapoint. Thus it was also omitted.
+
+All other datapoints are internally consistent with each other. Additionally, there have been no more that cause contradictions from Y1V10 all the way to Y2V12.5, potentially suggesting that some time after the release of Y1V10, the author has “fixed” in a precise timeline for COTE which he uses to guide himself on the inverse time progression per volume. While this is speculation, the chances of the data points accidentally being consistent with one another for such an extended period of time (Y1V10-Y2V2.5) are extremely low.
+Another suggestive argument regarding the author eventually fixing in the timeline some time in the 2nd half of Y1 is the use of short stories such as H) and introduction of concrete timeline references such as A) in Y2V1, as those would appear shortly after such a decision.
+
+After running the program for years 2000 - 2200 with coherent values, the following calendar years are possible: Matching years N: [2003, 2031, 2059, 2087, 2127, 2155, 2183]
+
+Because 2003, 2031, 2087, 2127, 2155 and 2183 are automatically invalidated by direct contradiction with the established A) & D) year statements, 1 date remains:
+
+N = {2059}
+
+Conclusion:
+2059 is the only year that matches both the elaborated arguments from A) to H) and the estimation using the data points, making it the single most plausible year to assert that COTE takes place in.
+
+Reminder - This year is just more probable than others since it logically fits the internal datapoint structure of our own world. This is by no means an assertion that N = 2059 and it is set in stone.
+
+—————————————————————————————————————————
+
+-Misconceptions and Highlights-
+
+A) Y1V1 - Prologue
+
+After what has been established, it is self-evident that COTE does not take place in 2015.
+However, the opening monologue of the series presents the timeline as the aforementioned year, the same of when Y1V1 has been published:
+
+I know this is kind of sudden, but, please, it will only take a moment. I want your honest opinion.
+[...]
+So then, education creates an imbalance. The point’s spelled out there, in the incredibly famous work Gakumon no Sume. Even though this is the year 2015, the modern era, nothing about these teachings has changed. The situation has only grown more complex and fraught.
+
+Raw Japanese Text:
+突然だが、ちょっとだけオレの出す問題を真剣に聞いて、答えを考えてみて欲しい。
+[...]
+差が生まれるのは、学問に励んだのか励まなかったのか。
+そこに違いが生じてくる、と綴つづってある。それが有名すぎる『学問のすゝめ』だ。
+そして、その教えは少なくとも２０１５年を迎えた現代においても何一つ事実として変わっていない。もっとも、事態はより複雑かつ深刻化しているが。
+
+Since we know taking it in-verse as literal is not the truth, we can interpret alternate meanings to Kiyotaka’s monologue, especially with it being the only instance Kiyotaka breaks the 4th wall and addresses the reader directly.
+The likeliest explanation is the utilization of the monologue as a narrative device. One possibility could be that the author is talking through Kiyotaka's monologue to address us, the readers. Another is that Kiyotaka conveys his message through the author’s channel of communication himself.
+This is interpretative, and regardless of how it is approached, including the belief that no narrative intervention/device is used, it merely remains a retconned piece of information which has been discarded for a different truth, the one established above.
+
+—————
+
+B) Y1V11.5 - Chapter 5
+
+Another aspect worth mentioning is the assertion that in the current time-period of Kiyotaka’s school life, the world’s population is 7 billion.
+
+“There are definitely people who are even more excellent than I am in this
+world. There are as many as 7 billion humans living on the planet, after all.
+But the White Room is different.”
+
+Raw Japanese Text:
+「オレよりも優れた人間は、当然この世界に存在するでしょう。何故なら世界には70億にも達するほどの人間が生きているんですから。ですが、ことホワイトルームにおいては違う」
+
+While matching the year 2015 for the world population, it does not aid in justifying COTE happening in the said year. Instead, it can merely be explained by the projected world population decline happening later in this century, which for futuristic reference needs to be accounted for.
+This decline is expected to start after 2053, after a peak of 8.9 billion, according to United Nations estimates. The number of 7 billion aligns with the expectations of the world population around the year 2100, as low-end UN estimates claim that it will shrink below 8 billion below 2100, and mid-end calls that it will do so during the 22nd century. While this projection would be a more extreme form given the timeline of COTE being centered around the 2nd half of the 21st century, it can be justified in such a manner.
+
+Sources:
+Earth 4All - Low End
+United Nations - Mid End
+
+—————————————————————————————————————————
+
+-Conclusion-
+
+The Main COTE Series is happening at least several decades in the future, with the year 2059 in particular being more plausible than others.

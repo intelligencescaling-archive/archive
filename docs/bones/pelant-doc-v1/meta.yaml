@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pelant-doc-v1
+category: doc
+title: Pelant Doc V1
+authors:
+- name: Silver
+  source: doc-text
+- name: Sprite
+  source: doc-text
+series:
+- bones
+characters:
+- christopher-pelant
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1G8LCY7lijm0DoixInY2f_ryqh-hjftl1AWAmBtXqHYk
+    google_id: 1G8LCY7lijm0DoixInY2f_ryqh-hjftl1AWAmBtXqHYk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 11780
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4610268
+      sha256: 3d9ff14dbda8f87614d8019c6828724d14a0cd672cc8728c4b79239c9b946930
+    - format: docx
+      name: document.docx
+      bytes: 3222180
+      sha256: 9a988e4e8fd805ce274c2e611e7e261c9732b53e88169a18308bbd6ac0990f83
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Pelant Doc V1
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

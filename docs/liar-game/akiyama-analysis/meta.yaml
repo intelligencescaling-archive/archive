@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-analysis
+category: doc
+title: Akiyama analysis
+alt_titles:
+- Akiyama 1
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1d67hNwLauV1rQTEMS61vZfAvwuQ7XlAaOQfEBT7NDcg/edit?usp=drivesdk
+    google_id: 1d67hNwLauV1rQTEMS61vZfAvwuQ7XlAaOQfEBT7NDcg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 6555
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 219702
+      sha256: c72f8acdb34269589965c6109334209c64a134b857d26efb3d0e8bd8f1494a3e
+    - format: docx
+      name: document.docx
+      bytes: 21140
+      sha256: 37d1d64b85e0b9ad4ee864f5c09e8c7941b72a8cf37815606e4533a71a8e88fb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama 1
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

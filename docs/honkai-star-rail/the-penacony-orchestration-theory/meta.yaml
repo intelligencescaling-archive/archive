@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-penacony-orchestration-theory
+category: doc
+title: The Penacony Orchestration Theory...
+alt_titles:
+- Sparkle's Penacony Orchestration Theory
+authors:
+- name: Calculadora
+  source: doc-text
+series:
+- honkai-star-rail
+characters:
+- sparkle
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Hcn5W17snuCUC_1Us7aAmH3xT17AKp0IMcCIApFu4lo/edit?usp=drivesdk
+    google_id: 1Hcn5W17snuCUC_1Us7aAmH3xT17AKp0IMcCIApFu4lo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 5897
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 468028
+      sha256: 97713be759442714c8e5824595049d388e2e3e27b833e796a7dcc60570ab3917
+    - format: docx
+      name: document.docx
+      bytes: 174045
+      sha256: 79037b07f4169968369470088ecd8b78fb2f24725c01931db3ac80a0ba280036
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sparkle's Penacony Orchestration Theory
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

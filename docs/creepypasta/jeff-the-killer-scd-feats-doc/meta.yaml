@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jeff-the-killer-scd-feats-doc
+category: doc
+title: Jeff the Killer - SCD Feats Doc
+alt_titles:
+- Jeff the killer
+authors:
+- name: Axiom
+  source: doc-text
+- name: Jonas
+  source: doc-text
+series:
+- creepypasta
+characters:
+- jeff-the-killer
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BRPiL0eChrVihOJANsgqxJp5DeXu6HWd1p70aJs8l5U
+    google_id: 1BRPiL0eChrVihOJANsgqxJp5DeXu6HWd1p70aJs8l5U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 7563
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6723583
+      sha256: 1d1a860cd7a35f24dc9227f80f4b1314268bb22389c37f4bbff253a9d3774e47
+    - format: docx
+      name: document.docx
+      bytes: 7343623
+      sha256: 82d0d0be4e9af21bf95cd73a572e3a73d6c7ad3cd60193d0e9bc60b0b1ba9433
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jeff the killer
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

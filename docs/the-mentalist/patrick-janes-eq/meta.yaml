@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-janes-eq
+category: doc
+title: 'PATRICK JANE’S EQ:'
+alt_titles:
+- Patrick Jane EQ
+- 'PATRICK JANE''S EQ:'
+authors:
+- name: LOCAL EDITZ FROM YT
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- eq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15BDhK1pQE32E-t-Gg8HWxJMtsm15fRdA8lnqJSVORnY
+    google_id: 15BDhK1pQE32E-t-Gg8HWxJMtsm15fRdA8lnqJSVORnY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 962
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4905398
+      sha256: 58c8278091a665d4d3ef971914136e409f66a4119c87f3eca923cfdf42822074
+    - format: docx
+      name: document.docx
+      bytes: 5566311
+      sha256: 3ff8b246b135a9035391241a31f6a3afa7d805a544366e14548e64a14aa990be
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Patrick Jane EQ
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: 'PATRICK JANE''S EQ:'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

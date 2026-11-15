@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: composite-takiko-uchiyama-the-world-s-sister
+category: doc
+title: 'Composite: Takiko Uchiyama, The World''s Sister'
+alt_titles:
+- Comp Takiko Uchiyama doc
+- Comp Takiko Uchiyama
+authors:
+- name: Aki_Ishi_2
+  source: doc-text
+series:
+- danganronpa
+characters:
+- takiko-uchiyama
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1lMsT5Y0sCSiJyXuKgQYPEDKEuVeuguc_056qO41tc-c/edit?usp=drivesdk
+    google_id: 1lMsT5Y0sCSiJyXuKgQYPEDKEuVeuguc_056qO41tc-c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3806
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1945220
+      sha256: 8b8193428721e10611c4cbe45e6767c1ae35ab57d95864b781488259f915d23d
+    - format: docx
+      name: document.docx
+      bytes: 1437145
+      sha256: bd6580d3ff43aa9cffab7c24a1828ab7110d0c09c81c880d03eac02c80dff731
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Comp Takiko Uchiyama doc
+- library: remastered
+  section: Danganronpa
+  character: Takiko Uchiyama
+  link_text: Comp Takiko Uchiyama
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

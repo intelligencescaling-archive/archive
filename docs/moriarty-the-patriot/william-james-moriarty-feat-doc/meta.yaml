@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: william-james-moriarty-feat-doc
+category: doc
+title: William James Moriarty Feat Doc
+alt_titles:
+- Moriarty 2
+authors:
+- name: AwaKen
+  source: doc-text
+- name: Druxzy
+  source: doc-text
+- name: Dominoo
+  source: doc-text
+- name: Indra
+  source: doc-text
+- name: Lexyo
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-BFSJStAT4dfAfVINlFwl5BllvHFGxmRCPsSuNCbrRA
+    google_id: 1-BFSJStAT4dfAfVINlFwl5BllvHFGxmRCPsSuNCbrRA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 96
+    words: 42598
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2444200
+      sha256: b7574b954363d3a80f0a9157b6a7ee651c5b80f653231d803330614f1b0fe2b4
+    - format: docx
+      name: document.docx
+      bytes: 1427626
+      sha256: 02f96639a30fe76a4ac7fbf2761cba4690f00b0c1c44e0006ff40ed8b10f628a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Moriarty 2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-emotional-alteration
+category: doc
+title: Light Yagami-Emotional Alteration
+alt_titles:
+- Light Yagami Emotional Alteration
+authors:
+- name: bakusfather1029
+  source: doc-text
+series:
+- death-note
+characters:
+- light-yagami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1zj-ssL5Bn_zXdTnC0cWgv02zoXCbmiNsw3n-HmptEJc
+    google_id: 1zj-ssL5Bn_zXdTnC0cWgv02zoXCbmiNsw3n-HmptEJc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 601
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 46860
+      sha256: 7745e22bdd2a1afc5e4ac607c383227e4d2ee9ceefd1ce9b8e78c3f41eee4c02
+    - format: docx
+      name: document.docx
+      bytes: 8358
+      sha256: 4a07c9c05e54dfe16a9ba8f0642557a77f6d1e87674d366bb71ab74a5c567fb2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Light Yagami Emotional Alteration
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Light Yagami Emotional Alteration
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

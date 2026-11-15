@@ -1,0 +1,48 @@
+HAL’S Rubik's Cube Feat
+By: -C- & PatchiooX
+
+Overview
+A standard Rubik's Cube boasts six faces, each adorned with a distinct colour: white, yellow, red, blue, green, and orange, to name a few. While the Rubik's cube represents 43 quintillion variations.
+
+More or less what Hal does is visualising the most efficient solution set for any pattern on the cube and pragmatically solving even several of them mentally. By using his spatial intelligence and cognition, he can conjure up and compute all the required permutation and combination of the cubes and solve them simultaneously.
+
+Mathematical Proof
+
+A 3x3x3 Rubik's cube has 6 differently colored sides, each way separated by 9 tiles. A closer look at (how externally) these are assembled rather than stickers would reveal that there are six centrepieces; eight corner pieces; and twelve edge pieces. Having defined the centres which must be fixed, we have thus eliminated them from the computations.
+
+This equals:
+
+Which is roughly 43 Quintillion permutations. Keep in mind there is only one unique solution set for one 3 by 3 cube.
+
+The Feat
+What's with Hal being required to proceed through every single one of those 43-Q possibilities? Hal, however, must explore all the possibilities because he deals with abstract representations of two 3 by 3 cubes that he visualises and builds in his mind. He doesn't try every single permutation or brute force solve the cubes, he goes through all the possibilities to find the most efficient solution set. Preset algorithms are not the most efficient solution sets for a random shuffle. Algorithms are used to solve the cubes to save time by going from one pattern to another that is closer to the solution set. Algorithms themselves are not the most efficient solution set. To find the most effective solution for any pattern of a Rubik's cube ,random shuffled cube, all the possibilities need to be considered. Therefore, Hal cannot relate to preset algorithms.
+However even supposing that speed cubing algorithms could have been come up with, the task itself was unfeasible. Using the time complexity reduction formula still produces 6.5-Q potential possibilities. This value is again something that's truly unfathomable and showcases the magnitude of Hal's feat. The canonical form of permutation reduction complexity for the specified algorithms including CFOP, as well as the Roux method, is the similar to the value stated above. That is 6 and a half quintillion number. (Duberg and Tidestrom, 2015).
+Additionally, it is also noteworthy that the 43 Q arrangements is for one regular 3 by 3 cube. Considering the formation of two cubes the number of generated permutations will be at least 86 quintillion. And, in fact, it would be higher when considering the parallel processing and cognitive computing that can be used. It is the lowest possible valuation of these feats even with the logical assumptions made. In reality, the actual computable value will be far higher than the ones calculated above.
+The sheer mental computations of all the  possibilities makes this feat one of the best CPI feats of all time.
+
+The WMI aspect in this feat is truly remarkable as Hal’s measure to store-manipulate and formulate the solutions of the 86-Q permutations in short term cognition is nothing short of mind boggling.
+
+The PSI aspect of this feat is extraordinary - as the speed of mental processing - and visual-stimuli to compute the precise solution set out of the 86-Q permutations. The cognitive abilities displayed by Hal in this feat is truly remarkable.
+
+Now moving onto the VSI aspect of this feat. Hal visualised every single permutation to solve the cube. Furthermore, he also visualised all the patterns, and combinations enroute to the successful solution and also visualised both the cubes simultaneously visualising all the elements of the cubes.
+
+Re-stating this, but all the values used for this feat are the lowest possible interpretable values.
+For this feat: PSI > WMI > VSI | CPI > VSI
+That said tho, this feat is one of the best for all the 3 indexes mentioned above. Furthermore, this feat is completely onscreen and works very well in all the known scaling systems (Normal, Stop’s, Methodology, Proven Ability and Narrative).
+
+Scans + Context
+https://ibb.co/p0cmkdq [All the scans are included in this image file]
+As you can see he is actually solving those cubes, moving the pieces in his mind space.
+
+He did all of this in a high-stakes game of Drop the Handkerchief against one of the most brilliant minds on the planet, Hal navigates through a heavy cognitive load and stress while executing his intricate strategy. This mental endeavour includes parallel processing which further compounds the challenge of multitasking. To further add credibility, he is described as being in a state of - Perfection. It's noteworthy that the estimate of 86 quintillion permutations is merely the base point,lowest starting value, as the actual value could very well be far higher. Remarkably, Hal accomplishes all of this in the blink of an eye demonstrating his extraordinary cognitive and visual spatial abilities.
+
+                                                                  Thank You
+References
+
+[1]         Büchner, Clemens, et al. “A Comparison of Abstraction Heuristics for Rubik’s Cube.” Openreview.net, 11 Apr. 2022, openreview.net/forum?id=8lb-ifAeeZw. Accessed 25 Feb. 2024.
+
+[2]         Duberg, Danial, and Jakob Tidestrom. “Comparison of Rubik’s Cube Solving Methods Made for Humans.” KTH ROYAL INSTITUTE OF TECHNOLOGY, 2015. Accessed 26 Feb. 2024.
+
+[3]         Bowman, Nicholas, et al. BetaCube: A Deep Reinforcement Learning Approach to Solving Rubik’s Cubes without Human Knowledge. 2018. Accessed 27 Feb. 2024
+
+[4]        Toshio Sako, et al.  “Usogui”, Usogui | MangaSee, Accessed 20 Feb. 2024

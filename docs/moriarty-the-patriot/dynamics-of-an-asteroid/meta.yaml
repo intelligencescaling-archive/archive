@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dynamics-of-an-asteroid
+category: doc
+title: Dynamics Of An Asteroid
+alt_titles:
+- WJM's Dynamics of an Asteroid
+authors:
+- name: Lyrl1998
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1IJLV1GBfISoJi5IdbHRNWcFdiuTKVOfQzzZPzUO65pM/edit?usp=drivesdk
+    google_id: 1IJLV1GBfISoJi5IdbHRNWcFdiuTKVOfQzzZPzUO65pM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1663
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 486734
+      sha256: f148b02ae8191ba2bb95f18815872ab4074ea023af98a64f9aa5596c761113c1
+    - format: docx
+      name: document.docx
+      bytes: 2390892
+      sha256: 49ab8343323f6de3e9617d6120bdc9c65158e78bdd039bd818bb855916cadd8a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: WJM's Dynamics of an Asteroid
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

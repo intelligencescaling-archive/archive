@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-non-performing-loan-plan
+category: doc
+title: Akiyama Non Performing Loan Plan
+alt_titles:
+- Akiyama’s Non-Performing Loan Plan
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1JaiFyCQHzG-8akJmJJuqRCQMm88wLfJO/view
+    google_id: 1JaiFyCQHzG-8akJmJJuqRCQMm88wLfJO
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 8019
+    files:
+    - format: pdf
+      name: Akiyama's Non-Performing Loan Plan.pdf
+      bytes: 2192616
+      sha256: f88fc1ba1617893273d45f921d07ace5c8457f851f66cd0a5efb7d04d145812f
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama Non Performing Loan Plan
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama’s Non-Performing Loan Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

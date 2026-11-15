@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: iii-how-to-scale-scd
+category: doc
+title: III. How to scale SCD
+alt_titles:
+- How to Scale SCD
+authors: []
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14x4PGcanV5ZN_iilGDnwX9R36nK19mA4id5RKSOpzOg/edit?usp=drivesdk
+    google_id: 14x4PGcanV5ZN_iilGDnwX9R36nK19mA4id5RKSOpzOg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 2877
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 141520
+      sha256: a1a90859b556fc63d822186139150b92e1bb362bf5607737aaf78e63a46c6c03
+    - format: docx
+      name: document.docx
+      bytes: 562460
+      sha256: 56119724d9a05153cf1ca97b3c5912f3e6c6c46b14fa2da820464eed4e760d8b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: How to Scale SCD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

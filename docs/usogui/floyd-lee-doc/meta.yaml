@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: floyd-lee-doc
+category: doc
+title: Floyd Lee Doc
+alt_titles:
+- Floyd Lee SCD document
+- Floyd Lee
+authors:
+- name: Axolotol4044/KitchenCoyote_The2nd
+  source: doc-text
+series:
+- usogui
+characters:
+- floyd-lee
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mSddTt5CjZOiGrR6H2qLcmUrolVOCBykNh0Ph0GMFsA/edit?usp=drivesdk
+    google_id: 1mSddTt5CjZOiGrR6H2qLcmUrolVOCBykNh0Ph0GMFsA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 1683
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 318371
+      sha256: 228ac92c2efaf1b44615b745675d4e9c9e2d4932c45d04be2727fd072094110b
+    - format: docx
+      name: document.docx
+      bytes: 580836
+      sha256: cb647473f62578202b164f5604619d0eb30f633b11c2194794b9ef22e3639e6a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Floyd Lee SCD document
+- library: remastered
+  section: Usogui
+  character: Floyd Lee
+  link_text: Floyd Lee
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

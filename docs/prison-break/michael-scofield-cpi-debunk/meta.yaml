@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-scofield-cpi-debunk
+category: doc
+title: Michael Scofield CPI Debunk
+alt_titles:
+- Michael Scofield CPI feat debunk
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- prison-break
+characters:
+- michael-scofield
+tags:
+- debunk
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1yKpEJCO5FiY3uXeu7hRr2XTnxXjP99WJ6FOkuJosZ8o
+    google_id: 1yKpEJCO5FiY3uXeu7hRr2XTnxXjP99WJ6FOkuJosZ8o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1284
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 134298
+      sha256: 606b722de7e273f151d093ee7442120bee4394bdbf835e1fb68d014a37c05920
+    - format: docx
+      name: document.docx
+      bytes: 11551
+      sha256: 1b6c2ac1a2b9fbf2cfb7491959a2fc793c39418bae99ded98e4158705a24f882
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Michael Scofield CPI feat debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: irene-adler-doc
+category: doc
+title: Irene Adler Doc
+authors: []
+series:
+- sherlock-holmes
+characters:
+- irene-adler
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1U2YDd49RhZIdwXVcAQJg8VEpGCX-PL4VM6VUVKFQA4I
+    google_id: 1U2YDd49RhZIdwXVcAQJg8VEpGCX-PL4VM6VUVKFQA4I
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Irene Adler Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

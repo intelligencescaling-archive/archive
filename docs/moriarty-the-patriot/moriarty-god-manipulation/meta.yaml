@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moriarty-god-manipulation
+category: doc
+title: Moriarty "God" manipulation
+alt_titles:
+- Moriarty's God manipulation
+authors:
+- name: Indra
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_hCRktCpTfm33nrTYPXVmtKf4jXDsYc7i6h3dhj2MBg
+    google_id: 1_hCRktCpTfm33nrTYPXVmtKf4jXDsYc7i6h3dhj2MBg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1059
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 435658
+      sha256: 67bfd98f7bc9f059239152232cbb71d6425166caec8c2b3f143f3e183d71789d
+    - format: docx
+      name: document.docx
+      bytes: 399006
+      sha256: 5434d93fc4ef69330d0abfe9c3fca05a4d282065bce29cddc7578a76a9b16e5f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Moriarty's God manipulation
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

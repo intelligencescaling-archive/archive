@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: leader-s-planning-feats-protoporos-short-document
+category: doc
+title: Leader's Planning feats (Protoporos) short document
+alt_titles:
+- Leader Protoporos planning feats
+authors:
+- name: Erika
+  source: doc-text
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- feats
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1HLtngPeOcvJOBMInPM5bXeh3p1h3e2QUDytCGXxH-_k
+    google_id: 1HLtngPeOcvJOBMInPM5bXeh3p1h3e2QUDytCGXxH-_k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 313
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 341585
+      sha256: b407d18c5dcae9d5cd5b03e32a831d2799a005814578ffae0631ea82c199a51f
+    - format: docx
+      name: document.docx
+      bytes: 327433
+      sha256: 9b40a598fd8277804e6455f2213e66e714abe379a2dbaba2890651e8d9bc73f4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Leader Protoporos planning feats
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Leader's Planning feats (Protoporos) short document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

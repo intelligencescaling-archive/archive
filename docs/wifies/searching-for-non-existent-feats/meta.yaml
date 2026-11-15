@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: searching-for-non-existent-feats
+category: doc
+title: searching for non-existent feats
+alt_titles:
+- D3rLord3 Poem Reasoning
+authors:
+- name: Cheatspeed — I like D3rlord3
+  source: doc-text
+series:
+- wifies
+characters:
+- d3rlord3
+tags:
+- feats
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/16sdPrSPvE2gSx-hrB4g0hWLGq5B0jItDTU0ik7zi6F8/edit?tab=t.0#heading=h.siumwxw82uz9
+    google_id: 16sdPrSPvE2gSx-hrB4g0hWLGq5B0jItDTU0ik7zi6F8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1608
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1961228
+      sha256: e92e3a3f954f49c096d2cd2f4b0e6a9d466e107623306d12587c65a16b559186
+    - format: docx
+      name: document.docx
+      bytes: 2689653
+      sha256: 16ff65d19c76ba1ed2c782054a5a49ec0af5d87ea381b7b2fe4ff477f344f93e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: D3rLord3 Poem Reasoning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

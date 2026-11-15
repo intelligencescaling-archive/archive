@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: code-geass-chess-analysis
+category: doc
+title: Code Geass (Chess Analysis)
+alt_titles:
+- Code Geass Chess Analysis
+authors:
+- name: magadaz
+  source: doc-text
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1YM_fGcfr2V9JNE0SSmMt8eUOHhqqiv-gXPBiaYbn9dw
+    google_id: 1YM_fGcfr2V9JNE0SSmMt8eUOHhqqiv-gXPBiaYbn9dw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 1972
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14369700
+      sha256: 85700c4157ec673db095892ac9aa67c31fae6946f4ba535da193a6f3c68112c5
+    - format: docx
+      name: document.docx
+      bytes: 13259761
+      sha256: 689689c6e52da2ef291fec5498a7c802162476b956754f6111e592d16deea96f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Code Geass Chess Analysis
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Code Geass (Chess Analysis)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

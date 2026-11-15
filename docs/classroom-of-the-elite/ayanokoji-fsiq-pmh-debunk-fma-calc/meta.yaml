@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-fsiq-pmh-debunk-fma-calc
+category: doc
+title: 'Ayanokoji FSIQ: PMH Debunk & FMA Calc'
+alt_titles:
+- 'Koji''s FSIQ: PMH Debunk & FMA Calculation'
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1SqB_qQSZH7DBuEpL9rgpRKe9kNJv5HXHgVhmQxcnk4E/edit?usp=sharing
+    google_id: 1SqB_qQSZH7DBuEpL9rgpRKe9kNJv5HXHgVhmQxcnk4E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 2484
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1408262
+      sha256: 282fe2f40f79077b3d9faac182ebfad5b0044d3e100b9f74348eacc266274813
+    - format: docx
+      name: document.docx
+      bytes: 1333044
+      sha256: 953ee5f01d97af495e841644fc32373f2d029c8d95e3d5cfc6410b0a93f59073
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: 'Koji''s FSIQ: PMH Debunk & FMA Calculation'
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: 'Ayanokoji FSIQ: PMH Debunk & FMA Calc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

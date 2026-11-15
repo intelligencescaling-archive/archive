@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: onirax-scaling
+category: doc
+title: Onirax scaling
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Z8bULifCJft9Y2b-_96RhmAmJQPb-8o9861ipgRbf6s
+    google_id: 1Z8bULifCJft9Y2b-_96RhmAmJQPb-8o9861ipgRbf6s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 551
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 63344
+      sha256: 3549de3abfb457c079c6b41db409f927ac3f38d7d7ae0d9c40e81da9d2ae709f
+    - format: docx
+      name: document.docx
+      bytes: 8181
+      sha256: d2b5c71d3d8d808c5904f4592fed447891c879cc59bef7ac35ddf2c6fc8d8d6e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Onirax scaling
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

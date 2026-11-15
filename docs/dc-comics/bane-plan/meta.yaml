@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bane-plan
+category: doc
+title: bane plan
+alt_titles:
+- Bane Plan doc
+authors: []
+series:
+- dc-comics
+characters:
+- bane
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12xwe3ja2KCeNvLXG3xup4KKnssrsnxGg9-zQ4pifCUY
+    google_id: 12xwe3ja2KCeNvLXG3xup4KKnssrsnxGg9-zQ4pifCUY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 2063
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5918228
+      sha256: 7dc4bd0a3ceb06c97d2636aa9fd9c245e278efef3faaefbc9192e1b3ec18b944
+    - format: docx
+      name: document.docx
+      bytes: 6516900
+      sha256: d594b3af5df8586fd577657b56b4f29f0b11a99a5a839992d559fb0358a7db0e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Bane Plan doc
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Bane
+  link_text: Bane Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: femto-descent-analysis
+category: doc
+title: Femto Descent Analysis
+alt_titles:
+- Femto Descent Writing Analysis
+authors: []
+series:
+- berserk
+characters:
+- femto
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1SWxJSK1pvgUVgUSf2GZP5KTfChQqEjlmWUFHYxoF59U/edit?usp=drivesdk
+    google_id: 1SWxJSK1pvgUVgUSf2GZP5KTfChQqEjlmWUFHYxoF59U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 3571
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4980870
+      sha256: 857ce33d5a2e4e6d01ff7c04eaf8aff016a8c750fd371767265ad016c9c71128
+    - format: docx
+      name: document.docx
+      bytes: 5250818
+      sha256: bee9e670577ff12743b5b7fc363789a56dec8336c83266a4ef7c803143029d52
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Femto Descent Writing Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

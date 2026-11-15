@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: izuru-debunk-my-ass
+category: doc
+title: Izuru debunk my ass
+alt_titles:
+- Izuru Rebunk
+authors: []
+series:
+- danganronpa
+characters:
+- izuru-kamukura
+tags:
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1M9dAXzbHljSBP_Fd-nKtd4ViP3ensUHVGiSjWTGoRbg/edit?usp=drivesdk
+    google_id: 1M9dAXzbHljSBP_Fd-nKtd4ViP3ensUHVGiSjWTGoRbg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2941
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3303928
+      sha256: ad66e58105ddc166e83c2074e19fe9f82188e1bcb7afc9fa99fbf7aef407fe35
+    - format: docx
+      name: document.docx
+      bytes: 3386713
+      sha256: 0b9e2f861940cbfac98d8144b624ffed5cc330dd2a205494c878e0b5d64e245a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Izuru Rebunk
+- library: remastered
+  section: Danganronpa
+  character: Izuru Kamukura
+  link_text: Izuru debunk my ass
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

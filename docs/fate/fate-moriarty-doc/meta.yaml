@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fate-moriarty-doc
+category: doc
+title: Fate Moriarty Doc
+alt_titles:
+- Moriarty Doc
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- james-moriarty
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1jZ__g6VnDYZXnnYJ3W8IJNmlw-KY1d7F94QzrQ77BbQ/edit?usp=drivesdk
+    google_id: 1jZ__g6VnDYZXnnYJ3W8IJNmlw-KY1d7F94QzrQ77BbQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 2651
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25460856
+      sha256: dfe645819bc7307271788821204890ad475c2a7b18d433ccb623cf35133ad589
+    - format: docx
+      name: document.docx
+      bytes: 23689154
+      sha256: a3287f2d9bb61978102dc2bc14f0a2e015b961ae74c0f6e871b40855614ef50a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Moriarty Doc
+  note: (FATE)
+- library: remastered
+  section: Fate
+  character: James Moriarty
+  link_text: Fate Moriarty Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

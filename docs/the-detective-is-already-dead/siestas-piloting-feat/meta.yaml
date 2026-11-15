@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: siestas-piloting-feat
+category: doc
+title: SIESTA’S PILOTING FEAT
+alt_titles:
+- Siesta's Piloting Feat
+authors: []
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VvJtw_NFcMW_dfmKaw4KHEqz843IOx5xJdEHWflvcZc
+    google_id: 1VvJtw_NFcMW_dfmKaw4KHEqz843IOx5xJdEHWflvcZc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 1652
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1073676
+      sha256: b13f25c897d271ce9a210fe3ea254b2c1736d8f75deee6aeeab2e2545ca2f110
+    - format: docx
+      name: document.docx
+      bytes: 712563
+      sha256: 1fcc225bebb4fd5000a7c31f9e547f120d615bf14943a806b4b5c1c0e4e1a84c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Siesta's Piloting Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

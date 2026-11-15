@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shiro-werebeasts-strategy
+category: doc
+title: Shiro werebeasts strategy
+authors: []
+series:
+- no-game-no-life
+characters:
+- shiro
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-BMgqvkRmMSLVqRbkv9ytwp0tJ1wwsZl49M6V2z7IQ8
+    google_id: 1-BMgqvkRmMSLVqRbkv9ytwp0tJ1wwsZl49M6V2z7IQ8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3490
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 145388
+      sha256: 5715436a021a96838788b180793cc90ab60755a0c2a63379744548417eb466e5
+    - format: docx
+      name: document.docx
+      bytes: 17649
+      sha256: a4adf86bded9cd1931efafa76e18e7b8fa10cefbb031e2377e836f074eb607de
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Shiro Werebeasts strategy
+- library: remastered
+  section: No Game No Life
+  character: Shiro
+  link_text: Shiro werebeasts strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

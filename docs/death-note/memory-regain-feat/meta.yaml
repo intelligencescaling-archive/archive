@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: memory-regain-feat
+category: doc
+title: Memory Regain Feat
+alt_titles:
+- Light Yagami's Memory Regain Feat
+authors:
+- name: bakusfather1029
+  source: doc-text
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1VXzqzEbkBS21gQJ32wxK33DrTIcZlnYcvRKHk0ZxyCM/edit?usp=drivesdk
+    google_id: 1VXzqzEbkBS21gQJ32wxK33DrTIcZlnYcvRKHk0ZxyCM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1186
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 138316
+      sha256: 29da0500c9dc09598be3fe10143258c7918cf22a5f390e28e41d0314002ace27
+    - format: docx
+      name: document.docx
+      bytes: 68961
+      sha256: 87623c4b9b135df520609012b685431a210f05a87f7490e44ac1e331e9782bcb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Light Yagami's Memory Regain Feat
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Light Yagami's Memory Regain Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-human-doc
+category: doc
+title: Comp human doc
+authors: []
+series: []
+characters: []
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1eK84nIWoNPp4SDv5rOfSCAD7J0cmQkp03XM50v2bZF4/edit?tab=t.0#heading=h.iz0dtvwtjui0
+    google_id: 1eK84nIWoNPp4SDv5rOfSCAD7J0cmQkp03XM50v2bZF4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 91
+    words: 17944
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1372689
+      sha256: dc8a8c9341e13c384399dbe43766c395e55cd5e06d1748e32931aaf8cc36afd6
+    - format: docx
+      name: document.docx
+      bytes: 2108568
+      sha256: eea9179789553ea30aa87a895fa716c8b6e50fbe2bb3954af72009bca0239aa9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Comp Human Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

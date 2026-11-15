@@ -1,0 +1,81 @@
+Patrick Jane PSI DEBUNK (updated)
+
+made by : scd_scal489
+
+Doc who is about to be erased from existence: Pj supercomputer level PSI feat
+
+DEBUNK
+
+context
+
+Link
+
+assumptions of the feat
+
+PJ used Zeller's algorithm
+
+Zeller's algorithm is basically (as its name suggests) a mathematical algorithm that allows us to calculate what day of the week X day of X year fell on.
+In the Doc of the feat we are told that Patrick Jane used this calculation method to know that May 31, 1976 was a Monday
+
+“Well the series doesn't explain how Patrick Jane calculated it, so we use the simplest method as a basis.”
+But here's the problem: The creators of this Doc assume that PJ used this algorithm to know what day it was, which is quite unlikely and in reality the idea that he used a much simpler method, such as the Doomsday rule, is never ruled out:
+
+Doomsday method (made by JohnConway):
+
+Century Anchor Day for 1900s: Wednesday
+Calculate the Doomsday for the specific year (1976).
+Let yy be the last two digits of the year (76).
+The formula is: (yy + floor(yy/4)) mod 7.
+   * yy = 76
+   * floor(yy/4) = floor(76/4) = 19
+   * 76 + 19 = 95
+   * 95 mod 7:
+      * 95 / 7 = 13 with a remainder of 4 (since 13 * 7 = 91, and 95 - 91 = 4).
+So, the Doomsday for the year 1976 is the Century Anchor Day + 4 days.
+   *    * Wednesday + 4 days = Wednesday (3) + 4 = 7.
+   * 7 mod 7 = 0.
+   * If we assign numbers to days (Sunday=0, Monday=1, ..., Saturday=6), then 0 is Sunday.
+So, the Doomsday for 1976 is Sunday
+Identify a "Doomsday" for the month of May.
+check the list… and May 9 is a Doomsday (:3)
+
+31 may - 9 may= 22 days
+
+We know May 9th was a Sunday.
+We need to find the day 22 days after Sunday.
+22 mod 7 = 1 (since 3 * 7 = 21, and 22 - 21 = 1).
+So, May 31st is 1 day after Sunday.
+Sunday + 1 day = Monday.
+
+Therefore, May 31, 1976, was a Monday.
+
+The algorithm is simple enough that it can be computed mentally. John Conway(Doomsday’s rule creator) could usually give the correct answer in under two seconds.
+
+About this
+
+I want to make it clear that I never claimed 100% that the method provided by me was the one PJ used.
+
+Memory Route -
+
+As the interpretation clearly suggests, Patrick doesn't need to remember his entire life to remember that date. In fact, he could have seen the date on a calendar or somewhere else and remembered it.
+
+PSI Route -
+
+If we take into account the episode's release date, the total would be 14,584 days, which, although it may seem insignificant, changes things a lot. Although it is still inhumane.
+
+Here's my problem with this feat, there's no explanation as to how it could have been done; you could say PJ performed this PSI feat and justify it with "this scene is made to highlight Patrick's abilities" to bring him to a superhuman level or you could say PJ used the method I provided with the justification that it was the most efficient and logical thing he could have done and make this feat an average human level. Either way, there's no way to prove who's right.
+
+Other ways to do it:
+
+-Use the date of the song "Copacabana" as a reference (It's mentioned in the same chapter that PJ knows the song "Copacabana" by heart and possibly when it was released)
+
+-A memorable event could have happened on a date close to the date
+
+-He got it right by pure luck (1/7)
+
+Related to the first part of the song, there are some comments that say "Lola the showgirl died on a Monday. To be exact on the 31st of May 1976. The beginning of the song 'Copacabana' by Barry Manilow starts with "Her name was Lola, she was a showgirl..." How funny, but I couldn't find anything related
+
+conclusion:
+
+low ball: Average human feat
+High ball: Computer level

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gin-doc
+category: doc
+title: Gin Doc
+alt_titles:
+- Gin SCD DOC
+authors:
+- name: Grüner Drache
+  source: doc-text
+series:
+- case-closed
+characters:
+- gin
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1iUrW3ua4OMxIy08vmuQESq0lNecvkUhzL-y3-1V6v58/edit?usp=drivesdk
+    google_id: 1iUrW3ua4OMxIy08vmuQESq0lNecvkUhzL-y3-1V6v58
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 174
+    words: 10697
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 63166723
+      sha256: 1f3553f8445e0f7a5e55a03c8cb6eef18a713e8469f584db9e57ab55121d0c6a
+    - format: docx
+      name: document.docx
+      bytes: 61934243
+      sha256: 4770b6b9ea5b2633cb7d9817406724f43e461b1837d44bb4ab1a7be5197622a3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Gin SCD DOC
+- library: remastered
+  section: Case Closed
+  character: Gin (or Jin Kurosawa)
+  link_text: Gin Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

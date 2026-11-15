@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-addtional-material-doc
+category: doc
+title: Lelouch Addtional Material Doc
+alt_titles:
+- Additional Lelouch feats from the movies
+- Lelouch Additional Material Doc
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1oNWajNR7HO82Dst7mbLaQIB0XEjmSYIIM6t3EHbsQY8
+    google_id: 1oNWajNR7HO82Dst7mbLaQIB0XEjmSYIIM6t3EHbsQY8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2130
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 111965
+      sha256: 348906447bc9a8ae4e0a0de0824005ebe9b6755e2383c7d286914f603ab62662
+    - format: docx
+      name: document.docx
+      bytes: 13876
+      sha256: f111e38ec7d1bb410e9756bd59f51c3cd45c51bc7c2bbd5dc86923ca672a2758
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Additional Lelouch feats from the movies
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Lelouch Additional Material Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

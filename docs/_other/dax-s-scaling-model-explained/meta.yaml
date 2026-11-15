@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dax-s-scaling-model-explained
+category: doc
+title: Dax's scaling model explained
+alt_titles:
+- SCD Categories Doc 20
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1UQ-XnQR-mLMH_1TCjR4uouzNXEJw8J0Csc4I6HnFgBs/edit?usp=drivesdk
+    google_id: 1UQ-XnQR-mLMH_1TCjR4uouzNXEJw8J0Csc4I6HnFgBs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2086
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 130476
+      sha256: ced871bde9f8459a543747f4a3ad85556d85c3466da823918411eca78fc3db1a
+    - format: docx
+      name: document.docx
+      bytes: 573044
+      sha256: 6f64a5661066ed5ddc4c4116f20112db40a62db424f44bf634e7f6b85c60b658
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 20
+- library: old
+  section: 'Scaling systems:'
+  link_text: Dax's scaling model explained
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

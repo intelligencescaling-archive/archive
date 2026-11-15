@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-s-all-bet-doc
+category: doc
+title: Yuuichi's All bet doc.
+alt_titles:
+- Yuuichi's all bet doc(updated version)
+- Yuuichi’s All bet doc.
+authors:
+- name: Samuel Alistair
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-0o1DPQ2qGVqKa_XSGmRDLG9CcMX5x-K7hu0QvKYsD8/edit?usp=drivesdk
+    google_id: 1-0o1DPQ2qGVqKa_XSGmRDLG9CcMX5x-K7hu0QvKYsD8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 6626
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3357294
+      sha256: a0c78db0923ed61ea04a1afa9051e3ef427f52a4184c7adc27c3d79c4377727f
+    - format: docx
+      name: document.docx
+      bytes: 5782314
+      sha256: b0b6ad52d5fa5e8912d4b142da05c4a2b154f8ad2dd0297c0820e3c07248d298
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi's all bet doc(updated version)
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi’s All bet doc.
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

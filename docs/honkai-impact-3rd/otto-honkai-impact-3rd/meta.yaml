@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: otto-honkai-impact-3rd
+category: doc
+title: OTTO(Honkai impact 3rd)
+authors:
+- name: Trixie
+  source: doc-text
+- name: Aufseher
+  source: doc-text
+- name: Zef
+  source: doc-text
+series:
+- honkai-impact-3rd
+characters:
+- otto-apocalypse
+tags: []
+language: de
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15CxjTS0V5wp_bvI1GcUSWWOGCBehFeoqZR6UvidIsfQ
+    google_id: 15CxjTS0V5wp_bvI1GcUSWWOGCBehFeoqZR6UvidIsfQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 75
+    words: 24744
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 14623197
+      sha256: 650f2635127fdedb78c04dc1cd05d1a558e8dc62fc36815bbdb343c61d2497ce
+    - format: docx
+      name: document.docx
+      bytes: 14649436
+      sha256: 314867e988ca6da003f6be4316a35ef82b6475af3cd271455f39cbefee71f81c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: OTTO(Honkai impact 3rd)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

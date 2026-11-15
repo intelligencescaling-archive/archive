@@ -1,0 +1,986 @@
+In order to make this analysis concise I’ve made separate docs showing the scans.ﾠ
+  Please look at them while reading the Analysis as they help understand the context.ﾠ
+
+Rules of Drop the Handkerchief Gamble.
+
+Strategic Framework
+
+R1T1, 8:12 AM
+(R- Round, T- Turn. Aka First Round, First Turn)
+
+During Baku’s Near-Death, Hal had figured out Leap Second.
+
+To understand Hal’s aim, we must first look at the FOUR different variations of Leap Second Route. That’s right, FOUR different variations of LSR.
+
+-These are the timings of the start of the rounds.
+-The 4 minute gaps between them are the intervals which take place assuming nobody fails their check.
+-For Leap Second Route to be active, it means that at the start of the turn at 8:59 AM Baku will play as D, the Round itself begins at 8:57 AM.
+-To outsmart Baku, Hal will need to cleverly make use of these routes.
+
+The first round began at 8:12 AM, so it's part of V1 (the first variation).
+
+Bakus death just happened in R1T1.
+Baku took into account all the preparations, how long it takes to set up Near-Death, how long the revival takes and how long the break between turns will be.
+After calculating it through approximation, Baku learned the starting deviations- 1M of Near-Death consumes 5M of Game Time. What this means is that if someone dies for 1M then their turn will last 5 minutes.
+Or after someone gets revived, the ‘break’ before the next round will be between 2-3 minutes long. For example, just now Baku got revived at about 8:14:40, so the Interval between the revival and next turn is like this:
+
+Since Baku just failed his check, his turn as D will start at 8:17 AM.
+
+Assuming C succeeds, their turn will last 2 minutes.
+Due to Baku’s death, V1 became V4
+
+If Hal doesn’t fail his check, then the 2nd Round will begin as part of V4.
+
+When Baku was dead, Hal figured out Leap Second. Later, he forgot about it, while it still controlled his actions.
+By doing so, Hal’s ‘Acting Skills’ are fully genuine and Baku has no way to see through them, instead Baku would need to recognize the pattern among Hal’s decisions.
+
+Hal’s Acting Skills and Verbal Deceit will be genuine as his Consciousness is unaware of Leap Second anymore. By doing so, Hal already makes his scheme much harder to see through.
+Essentially, Hal applies the knowledge from Eko and he does so by causing his own Cognitive Overloads. Since he is consciously unaware of Leap Second, his consciousness will instead blindly believe in ‘Most Suitable Answer’ which isn’t related to LS or its premises.
+Effectively, Hal will act naturally as if he didn’t see through Leap Second.
+
+Hal will take all precautions in order for Baku to not see through his scheme.
+
+Now, Hal already has a Strategic Framework in his mind. He aims to open the Leap Second Route to Baku. But what does it mean?
+It means that Hal will give Baku an opportunity to activate Leap Second Route through his own death.
+The next graphs is how that ‘Death Trade’ would look like:
+
+If Hal dies, then with his nonexistent accumulation, he will prolong R1T2 by 3 minutes, as a regular round takes 2M, while a round with a failed check lasts  5 minutes (in this case where there is no prior accumulation).
+Because Baku had already died this round, Baku prolonged R1T1 by 3 minutes.
+
+1. If Hal’s check succeeds, then V4 will remain, like so:
+Start of the Round- 8H12M
++
+Baku’s turn- 5M
++
+Hal’s turn- 2M
+= 8H19M
+Which shows that the 2nd round would still be a part of Fourth Variation, starting at 8:19:00 AM
+
+   2. If Hal’s check fails, then V4 will be changed to V3, like so:
+Start of the Round- 8H12M
++
+Baku’s turn- 5M
++
+Hal’s turn- 5M
+= 8H22M
+Which shows that the 2nd round would instead be a part of the Third Variation, starting at 8:22:00 AM
+
+In total, assuming that Hal fails his check in R1T2, the Interval between the start of R1 and R2 will be 10 minutes and Variations will be changed accordingly:
+1->4->3
+
+After the V4 is switched to V3 Baku will be able to die and activate the LSR himself:
+
+Through his own death, Baku is able to activate Leap Second Route, thus changing V3 to V2.
+That’s what ‘Opening the LSR to Baku’ entails
+
+   1. After opening LSR, Hal would easily be able to foresee Baku’s next moves.
+   2. The ‘Death Trade’ is beneficial to Hal, as Baku has lesser chances of survival upon Near-Deaths.
+   3. After Baku activates Leap Second Route, Hal would be able to accumulate 60 Seconds in Baku’s Cylinder almost every turn as D. Baku, unaware of Hal’s scheme, wouldn’t want to risk losing the Active LSR he had worked so hard for.
+
+In summary:
+Second Variation (V2) is what we consider to be an Active LSR.
+After Usogui had died in the R1T1, he had changed the variation of Leap Second Route from the V1 (First Variation) to V4 (Fourth Variation).
+If Hal dies then he will change the V4 to the V3.
+
+This gives Baku an opportunity to Activate Leap Second Route, as by dying and causing 7M Deviation between rounds, he would change V3 to V2, which is what we consider to be an Active Leap Second Route.
+
+【Ｒｏｕｎｄ １ Ｔｕｒｎ ２】
+【８：１７ ＡＭ， Ｖ４】
+
+ST- Squandered Time
+H-0,         B-0
+ND- Near-Deaths
+H-0,         B-1 (1M)
+
+Usogui’s first death has already happened, so now all Hal needs to do is fail his check in R1T2, thus opening the LSR to Baku.
+
+Seems simple, right..?
+.
+.
+.
+
+Well. Fuck.
+
+Because of Baku’s unusual drop, Hal can’t turn around as early as he intended, otherwise it would be unnatural.
+Think about it, Baku is extremely cunning. The most logical choice for Hal would be to observe how the situation develops before making his check.
+If Hal decided to Insta-Check anyway, Baku would be suspicious towards him.
+
+So what happens instead is Hal DOESN’T check instantly and attempts to see through Baku instead. In the end, he had successfully checked and accumulated 24 Seconds.
+Here is Hal’s conscious reasoning.
+Of course using Safe Strategy was out of the question, because it could prevent Hal from being able to open the Leap Second Route. In case Baku had dropped the handkerchief instantly and Hal accumulated a full 60 seconds, then Hal’s next failed check would make his turn 6 minutes long. Combined with Baku’s next turn which should be 2 minutes long, the total Interval would last 8 minutes and the Variations would not be changed.
+Simply put, 8M Interval between rounds is almost as if 2 regular rounds have passed without anyone failing their check, meaning that 8M intervals don’t change the LSR Variation.
+Hal will instead fail his check next round, successfully opening the LSR to Baku.
+
+【Ｒｏｕｎｄ ２ Ｔｕｒｎ １】
+ST- Squandered Time
+H-24S,     B-0
+ND- Near-Deaths
+H-0,         B-1 (1M)
+
+Hal induces fear in Baku:
+
+“I know you well. However you do not know Kiruma Souichi as much as I know you, do you? Sit, it is your turn. You are still dizzy… and it seemed you didn’t even realize your nose was bleeding.
+If you end up failing to check again, you’ll die for a second time.
+2 minutes in total… Even though that is still far from 5 minutes, it’s 2 times in a row…
+Your breathing is already quite disrupted. I wonder if you will be able to survive that?
+‘We are at peace now’
+
+Soon after saying so, Hal begins to test his echolocation. He clicks his tongue at the handkerchief, but realizes that the volume of the Speaking Clock is too loud for him to be able to use his echolocation.
+Hal whispers to Baku’s ear. It seems like he’s attempting to induce despair in Usogui. In reality, by quietly whispering he had indirectly manipulated the Referees into wanting to lower the volume of the Speaking Clock in order to hear him.
+However, the volume of the Speaking Clock HASN’T been lowered, as referee Douji wasn’t prepared to alter it yet. To conceal his intentions Hal had stopped talking after this really short bluff, if he had talked too long then Baku could see through his intentions.
+The Volume remains the same, but the next time Hal talks quietly, he will cause Douji to lower it as the latter will already be prepared to do so, anticipating a scenario where either of the players speaks too quietly for the referees to hear.
+Once the volume of the Speaking Clock is lowered enough, Hal should be able to use echolocation proficiently.
+
+This means Hal will need to orchestrate a different scenario to lower the volume of the Speaking Clock, but it can’t be the same as it was just now, otherwise Baku would easily notice this pattern and catch onto Hal’s intentions. Fortunately, Hal had already envisioned how to execute this layer of his scheme.
+
+Additionally, by claiming he will win perfectly, Hal makes Usogui believe that he aims to not fail any of his checks, indicating that Hal is more likely to use Safe Strategies. This aligns with Baku’s goal, which is to accumulate as much ND-Drug as possible in Hal’s cylinder before finishing him off with Leap Second.
+This element of Hal’s scheme is elaborated on later.
+
+Even the Referees are shown to believe his ‘mindset’, claiming that he wants to prevent failing his check at all costs.
+
+Hal dropped the handkerchief at 35 seconds, expecting Baku to use Safe Strategy.
+Baku had accumulated 25 seconds in his cylinder.
+If Hal had filled up Baku’s cylinder too much, for example by accumulating 60 seconds, then he wouldn’t be able to open LSR to Baku, as Baku’s death would consume 6 minutes of his turn, not changing the Variation of LSR.
+Hal needed to accumulate approximately 25 seconds in order to pressure Baku into doing risky checks after gaining an option to Open LSR.
+There will be one exception though.
+
+If Hal accumulated just a few seconds in Baku’s Cylinder, then Baku wouldn’t need to do risky checks when the LSR is opened to him, as he would be free to accumulate more, for example checking at ~25 seconds, meaning he would become harder to predict.
+
+Summary of the rounds so far:
+R1T1: Baku fails his check, turns V1 into V4
+R1T2: Hal’s check succeeds, accumulates 24 Seconds
+R2T1: Baku uses Safe Strategy, accumulates 25 seconds
+
+【Ｒｏｕｎｄ ２ Ｔｕｒｎ ２】
+
+ST- Squandered Time
+H-24S,     B-25S
+ND- Near-Deaths
+H-0,         B-1 (1M)
+
+Hal finally gets to fail his check.
+
+He checked at 5 Seconds and went through 1M24S of Near-Death.
+
+If Hal checked instantly then his actions would be too suspicious and Baku would be extremely likely to see through his intentions.
+Due to the Interval, V4 became V3 and now Baku will be able to activate LSR through his own death.
+
+The Graph now looks like this:
+
+Now, let’s look at Souichi’s Near-Death.
+
+Not only does Souichi have a vision of Leap Second, Souichi’s hand injury is also meant to symbolize him noticing Yakou’s deteriorating condition.
+It might not seem like a lot, but thanks to this exact variable, the moment Hal gets revived, his ‘2 Second Deviation’ Strategy will be fully formulated and it will last until the end of the game.
+
+Additionally, the bloodstain on Baku’s clothing was noticed by Hal long ago. He had already known Baku was in Arizuka Building. That means Baku had seen Eko’s tapes and sooner or later he should be able to figure out echolocation.
+
+Hal had retrieved his knowledge of Leap Second shortly after the revival and formulated an entire strategy. After this, Hal forgot about Leap Second.
+
+By dying for 1M24S Hal had also shown Baku that around 1M30S of Near-Death allows for the same 5M Interval. It’s important, because Baku had already accumulated 25S.
+
+2 Second Deviation
+
+The explanation up until this point had been describing the strategic framework present since the First Round.
+Everything from this moment onwards will be focused on describing the aspects which have already ALL been foreseen, aligned and then executed by Hal.
+
+IF Baku were to die now, then LSR would be Activated, like so
+
+Baku is suspicious towards Hal due to how easily such an opportunity came up.
+
+Even though Baku’s death would activate LSR, there is still another factor to consider- that is how many ‘Safe Strategies’ Baku can use before Leap Second.
+
+Baku wants to use Leap Second, but the moment he activates the LSR he needs to have enough ‘Safe Strategies’ until Leap Second in order for both LSR to not become inactive again and for him to be able to survive.
+
+Baku’s next turn as C starts at 8:26AM, but it’s still too early for him to activate Leap Second Route. One of the reasons being that Baku wouldn’t have enough ‘Safe Strategies’ until Leap Second due to limited Cylinder capacity, which would reliably allow for only 5 of those.
+
+【Ｒｏｕｎｄ ３ Ｔｕｒｎ １】
+【８：２６ＡＭ， Ｖ３】
+
+ST- Squandered Time
+H-0S,     B-25S
+ND- Near-Deaths
+H-1 (1M24S),     B-1 (1M)
+
+Since Baku can’t fail his check yet, he resorts to using Safe Strategy even though he’s risking the entire Leap Second Route collapsing. In a sense, if he accumulates too much, for example 60 seconds, then he won’t be able to Activate LSR.
+If Baku accumulated 60 seconds, then following his failed check his Near-Death would last for more than 2M, consuming 6M of game’s time. Such action wouldn’t affect the Leap Second Route Variation.
+He took the risk and the overflowing desire of turning around had been seen by Hal.
+Meanwhile Hal no longer knows about Leap Second so he wants to drop the handkerchief early, as Baku using Safe Strategy is in theory the most logical option.
+However, Hal has an internal conflict and can’t drop the handkerchief. He is subconsciously aware that if he had accumulated too much, he would have prevented Baku from activating LSR, which would destroy Hal’s entire scheme.
+
+Even though Hal was subconsciously aware that Baku will use Safe Strategy, he still dropped the handkerchief at 56th Second, accumulating just 4 seconds, which pressures Baku further.
+It pressures Baku in a way that combined with Hal’s earlier drop in R2T1, Baku has accumulated 29S in total. Now, Baku will be forced to check early in order to not accumulate too much.
+
+For Baku it’s ‘fine’ even if his next check fails, as he should have enough ‘Safe Strategies’ until Leap Second.
+Assuming that Hal would do Insta-Drops, Baku would require 6 Safe Strategies. However:
+1) It’s very likely that even with 6 turns as “C” Baku wouldn’t accumulate more than 5 Minutes even when using a Safe Strategy.
+2) Hal may fail his check again, after which Baku would definitely have enough Safe Strategies even IF Hal were able to read him 100% Accurately.
+
+This scenario is good enough for Baku to already Activate LSR and if he were to delay it any further he might lose the opportunity of Activating LSR, which would be an extremely illogical move.
+
+For obvious reasons, it will of course be more advantageous to Baku if his next check succeeds, because him checking early means that he wouldn’t accumulate too much anyway.
+
+Now let’s consider something else, what if Hal fails his check in R3T2?
+Let’s look at the situation right now.
+
+Of course, Baku could die and Activate LSR himself, but there is even a better option for him. That would be making Hal fail his check.
+Hal hasn’t accumulated anything yet, so his failed check would consume 5M of the game, add +2M (regular time of the other turn) and the entire round would last 7M.
+With 7M starting deviation, LSR would be activated like this.
+
+That shows that despite Hal already opening the LSR to Baku, the most logical move from BAKU’S perspective would be to have Hal ‘unknowingly’ activate the Leap Second Route himself.
+
+Some of you may think that Baku would still need to die as there is a long time left until LS, ‘but if he dies then the variation would be changed’!
+Well, there would be an easy solution to this problem. That is if Baku were to have 1M (or more) of accumulation in his cylinder before failing his check which would add an additional minute.
+Baku would consume 6M in total (of his turn), which wouldn’t affect the LSR Variation and would still give him enough ‘Safe Strategies’ until Leap Second happens.
+
+Since Hal had claimed that he wanted to win perfectly, then in this theoretical scenario he would’ve been unlikely to fail his check again.
+This would also align with Baku’s goal, which is to accumulate as much as possible in Hal’s cylinder before finishing him off with Leap Second.
+
+Let’s do some simple calculations:
+Hal had already died for 1M24S.
+IF he were to fail his check in R3T2 then he would die again for 1M.
+In total, Hal would have already died for 2M24S, meaning Baku would just need to accumulate 1M36S or more, before finishing Hal off with Leap Second, which would cause him to fail his check, adding another 1M of accumulation.
+In total, Hal would be dead for 5 minutes or longer if after his death in R3T2 Baku had accumulated just 1M36S before Leap Second.
+
+Now, R3T2 begins at 8:28 AM, and since it’s a second turn, it’s a part of V3.
+Assuming Hal failed his check, then the Fourth Round would begin at 8:33 AM.
+Assuming that Baku fails his check once until Leap Second, which would consume 6M of the game time, we can easily calculate that since LSR is Activated Baku would have 5 Turns as ‘D’ left to accumulate >=1M36S before Leap Second.
+
+That would be easily enough to fulfill  his objective and win this gamble. That’s why causing Hal to fail his own check in R3T2 would be the most logical move for Baku.
+
+Overall, the way Baku would use Leap Second here would be way more resilient and effective, while the price he has to pay for it would be very small.
+
+As I explained, it’s very logical for Baku to still aim to have Hal fail his check AGAIN in R3T2, as he would have a much easier time adapting his strategy and wouldn’t even need to die in order to Activate LSR.
+
+Of course, Hal had foreseen such intentions and in R3T2 he will absolutely use Safe Strategy to prevent it.
+After R3T2, Baku’s early checks, which have yet to happen, are ALSO aligned with Hal’s goal, which I will explain later.
+
+After Baku’s check, Hal goes through Cognitive Overload and as intended, since he doesn’t know about Leap Second, he attributes his ‘failures’ as simply being outplayed by Baku. Such a mindset is reflected in his behavior which is supposed to deceive Baku. When Baku checked and looked at Hal, the latter looked devastated.
+
+【Ｒｏｕｎｄ ３ Ｔｕｒｎ ２】
+
+ST- Squandered Time
+H-0S,     B-29S
+ND- Near-Deaths
+H-1 (1M24S),     B-1 (1M)
+
+As I have just explained, it’s very logical for Baku to attempt to have Hal fail his check.
+Baku didn’t drop the handkerchief instantly. The longer ‘C’ doesn’t check, the higher the chance of them using Safe Strategy.
+Seeing that Hal is very likely to use Safe Strategy, Baku then dropped the handkerchief to accumulate as much as possible, dropping at 24S.
+Hal had used Safe Strategy and accumulated 36S.
+
+To the outsiders, based on the last 3 turns (R2T2, R3T1, R3T2) it seems that Baku ‘has grasped the flow’.
+Such a mindset of the Referees also aligns with Hal’s intentions which will soon be shown.
+
+【Ｒｏｕｎｄ ４ Ｔｕｒｎ １】
+
+ST- Squandered Time
+H-36S,     B-29S
+ND- Near-Deaths
+H-1 (1M24S),     B-1 (1M)
+
+Baku is forced to make an early check. He checks at 10 seconds, while Hal drops the handkerchief at the 7th second.
+With this, Baku accumulates 3S in his Cylinder.
+In terms of LSR, V3 still remains, like so:
+
+As you may know, Hal could have just not dropped the handkerchief and he would be sure to have Baku die there, but why didn’t he do that?
+Well, the answer is that Hal CAN’T allow Baku to die there as it’s a part of his strategy.
+Hal wants to accumulate as much as possible in Baku’s cylinder while shielding himself from Leap Second. To do the latter, Hal must limit his accumulation to make sure that after he fails check due to Leap Second, he will still be dead for less than 5M in total.
+“But wait, why would Hal fail his check due to Leap Second? He already figured it out!”, you might be wondering. The answer is that Hal is aware of his limits and he is aware that he might lose his memory before Leap Second. If Hal loses his memory, he won’t be able to successfully check at 61st second. This will be elaborated on later.
+
+Hal already aims to seize 2 seconds and he already has formulated an exact strategy shortly after his first revival.
+If Hal gets successfully revived after Leap Second, he would have a Resilience Battle against Baku which he would undoubtedly win. Attempting to win this way gives Hal the biggest chance of victory.
+
+Hal prevented Baku’s death on purpose in order for his scheme to work.
+
+The referees were amazed at how Baku had seemingly grasped the entire flow of the game.
+Looking at the last turns, the game seems to have been going perfectly for Baku.
+Hal had meticulously manipulated the referees into being in such a state, perceiving the Leader as the one who is being cornered, which he will now take advantage of.
+
+Leader directly tells the referees to be silent.
+
+He understands the emotions of everyone who seems to be present and directly answers their statements.
+1.
+
+2.
+
+3.
+
+Hal is referring to Douji lowering the volume of the Speaking Clock
+
+4.
+
+After saying this, Hal then speaks to Baku and in the end he brings up destiny.
+Hal comments on Baku’s nervousness and ‘analyzes the situation’.
+He is shown to just realize that there is another reason for Baku turning around other than simply keeping the ‘flow’ on his side. Hal then claims that if he finds out this reason, then he will win.
+Because Hal is consciously unaware of Leap Second, his ‘Acting Skills’ are fully ‘genuine’ and even Baku can’t see through his true intentions.
+
+Okay, there is a lot to unpack with what just happened.
+
+First of all, in R2T1 Hal had ALREADY prepared Douji to lower the volume of the Speaking Clock (SC) by quietly whispering to Baku, thus indirectly getting the Referees to want to lower the volume in order to hear what’s happening. This tactic worked, but the volume itself wasn’t lowered yet, Hal wasn’t able yet to utilize his Echolocation, because the SC was still too loud.
+*Hal had intended to lower the Volume back in R2T1, but he only managed to prepare Douji for his next tactic (another attempt of lowering SC) which would be a follow-up.
+
+In R4T1 however, Hal had actually used an inherently different tactic which had the same aim.
+
+After his revival Hal had known that:
+1. In R3T1: Baku will accumulate very low amounts of ND-Drug after using the Safe Strategy.
+(Quick Reminder: If Hal had dropped the handkerchief early then Baku’s cylinder would be filled up too much and he wouldn’t be able to activate LSR. Neither of them would be able to proceed with their schemes)
+
+2. In R4T1: Baku will accumulate very low amounts of ND-Drug after using a Risky Check, which Hal will actually PREVENT from failing.
+After this, the referees were bound to react in such a manner which Hal was free to abuse. Hal manipulated what seemed to be the flow of the game in order for the referees to act this way, thinking that Baku was in the lead, which Hal could then directly call out.
+
+In order to misdirect Baku even further, Hal had used FUNDAMENTALLY DIFFERENT METHODS of lowering the volume of SC (Speaking Clock):
+
+   1. In R2T1 it was through conversation with Baku where it seemed Hal attempted to Induce Despair in him. Referee Douji wanted to lower the volume of the SC in order to hear what Hal was whispering.
+Unlike the latter, it also happened in the middle of the turn, it seemed to be like an action of manipulating Baku.
+This method was Clearly Indirect.
+   2. In R4T1, Hal had DIRECTLY told the referees to be quiet, which actually caused them to lower the volume of the SC in order to hear him better.
+Unlike the former, it happened during the break between R4T1 and R4T2, it’s like a reaction to Baku ‘grasping the flow’.
+This method was Blatantly Direct in comparison to the first one.
+
+These two tactics are FUNDAMENTALLY different, with one being Extraordinarily Indirect and the other one being Overly Direct, they have both been implemented at different timings and with different context, but their purpose is one and the same, which is lowering the volume of the Speaking Clock.
+
+These were just another layers of complexity Hal went through in order to make his scheme almost impossible to see through.
+Simply amazing. Hal had orchestrated what seemed to be an entire ‘flow of the game being grasped by Baku’ that the Referees commented on, with Referees thinking that Hal is the one who is being cornered, and Hal actually aligned it with his true aim.
+In the meantime Hal was working in the shadows and achieving what he actually wanted.
+
+Now that the volume of the SC is lowered enough, Hal is now free to use Echolocation.
+Baku thinks that Hal didn’t see through Leap Second yet.
+
+This is just a small portion of Hal’s scheme.
+Remember what I said, following Hal’s first revival, EVERYTHING had been foreseen, aligned and executed according to his scheme.
+Everything since Hal’s first revival is concretely a part of his strategy.
+This obviously means that there are still many layers of this scheme left to uncover and there are still many alignments of his tactics left to explain.
+
+【Ｒｏｕｎｄ ４ Ｔｕｒｎ ２】
+
+ST- Squandered Time
+H-36S,     B-32S
+ND- Near-Deaths
+H-1 (1M24S),     B-1 (1M)
+
+Hal spoke to Baku about destiny, obviously referring to the knowledge he acquired from watching Eko’s tapes, which Baku also saw.
+Hal makes Baku used to seeing him imitate Eko’s mannerisms.
+
+Hal also proceeds to casually solve a single rubik’s cube in his right hand, but this will be elaborated on later.
+
+Hal spoke about destiny before the turn began. This caused Baku to ask him about it, which Hal elaborated on. Knowing Usogui, he opposes the idea of destiny, unlike Hal.
+After Usogui criticizes this idea, saying destiny has nothing to do with their match, Hal proceeds to ridicule him the same way Eko would.
+
+With Eko’s mannerisms, Hal uses echolocation and checks at 34S.
+
+Although this turn was quite simple on its own, it’s also directly correlated with what has yet to happen.
+First of all, Hal had just accumulated 34S in his cylinder.
+His cylinder now has 1M10S of Near-Death Drug in total.
+Remember how Baku wanted Hal to fail his check in order to activate Leap Second Route? Now that Hal had accumulated so much, him failing his check wouldn’t be beneficial for Baku, it would actually be the opposite.
+IF Hal had failed his check, thus gaining an additional minute and dying for 2M10S, then a situation would look like this:
+
+Hal would’ve failed his check, but the Leap Second Route Variation would have remained as V3.
+Ideally, Baku aims to win thanks to Leap Second. He wants Hal to be taken out in one-shot and Baku wants to avoid a resilience battle at all costs.
+
+By increasing his own accumulation like so, Hal had made his scheme even more resilient, making the scenario where ‘Hal fails his own check before LS’ is unappealing to Baku, who will now instead focus on accumulating as much as possible in Hal’s cylinder.
+
+This tactic serves 2 purposes, the first one is about making Baku desperate to accumulate Hal’s cylinder without the latter failing his check, and the second one is yet to be shown, fully aligned with the rest of Hal’s scheme.
+
+【Ｒｏｕｎｄ ５ Ｔｕｒｎ １】
+
+ST- Squandered Time
+H-1M10S,     B-32S
+ND- Near-Deaths
+H-1 (1M24S),     B-1 (1M)
+
+Baku currently has an accumulation of 32S. As Hal had shown through his first Near-Death, ~1M30S of Near-Death allows for 5M Interval. Baku should check instantly, because if he had accumulated too much before failing his check, the interval could be 6M instead, making Baku unable to activate the Leap Second Route.
+6M Interval would cause the situation to look like this:
+
+Baku would be unlikely to survive the 3rd Near-Death, so he maybe would’ve needed to give up on Leap Second unless Hal had coincidentally activated it himself.
+
+With that in mind, Baku checks instantly, but accumulates just 1S. Baku was shocked, fearing that Hal saw through him.
+Hal laughed, saying he had foreseen Baku’s action and explained it.
+
+Hal’s consciousness went through Cognitive Overload and his mind arrived at the ‘most suitable’ reasoning behind Baku’s actions, which is a 3-Death Strategy (3ND).
+This game is dependent on keeping your options.
+As long as you have different options as “C”, then you can be unpredictable to your opponent.
+If you can’t die anymore, then you will become predictable.
+
+If Baku is able to successfully pull off that strategy, he won't lose all his options. He won't be pushed to the corner if he dies twice, as he will be able to die for the third time.
+Baku's Squandered time is now 33 Seconds. If he fails his check (+1M) then he will die for 1M33S.
+X+1M33S+1M<5M
+X<2M27S
+He will have about <2M27S to die a third time.
+If he only had 1M left then he would've gotten cornered, as that would allow him only for a single reliable Safe Strategy, shortly eliminating his options.
+
+Baku belittles him and ‘thanks’ Hal for preventing his checks from failing. He makes fun of Hal and points out that theoretically, he had sustained no damage at all, quite the opposite.
+Baku jokingly asks Hal to continue making Instant Drops like this so that he doesn’t have to die.
+
+Hal then points out a reason behind his actions, while again ridiculing Baku just like Eko would. He brings up Yakou’s deteriorating condition and explains the one who dies first will actually have an advantage. After each revival, Yakou’s quality of CPRs will diminish further.
+Through his recent actions, he claims to have just confirmed his ‘instinct’ was right.
+
+The best part about this ‘bluff’ is that it’s actually true.
+Souichi manipulates Baku’s following actions in a way that seems like it will truly benefit him.
+
+Souichi then easily manipulates Yakou thanks to a full understanding of his mindset:
+
+Hal had used Reverse Psychology in order for Yakou to gain his strength back. Hal also bluffs about doing the ‘3 Death Strategy’ (3ND) himself. It’s an alignment that makes Hal’s scheme even more resilient and believable.
+Baku is FORCED to Drop Instantly.
+Reverse Psychology is a method of persuasion that is effective but only amongst certain individuals. The ones most sensitive to it are typically those who want to prove themselves or have low self-esteem.
+
+For context, Hal had already gained some form of psychological leverage on Yakou during the first round.
+
+Yakou, as a Referee Nr.0, feels a very strong sense of duty and he does everything in his power in order for the matches he presides to progress as smoothly and fairly as possible.
+Reviving someone from their death is an ambiguous responsibility. Even if Yakou were to give his best, if the CPR were to fail, he would still despair, feeling that it was his fault for not carrying it out as well as he could have.
+The guilt would remain even if the CPR itself was perfect, yet the revival didn’t succeed.
+After Yakou went through numerous encounters, Hal had managed to flawlessly abuse his personality traits with just a few words.
+
+【Ｒｏｕｎｄ ５ Ｔｕｒｎ ２】
+
+ST- Squandered Time
+H-1M10S,     B-33S
+ND- Near-Deaths
+H-1 (1M24S),     B-1 (1M)
+
+Everyone believed in Hal’s bluff.
+
+Even if that weren’t the case, there is also another contingency in Hal’s scheme. IF Baku were to act irrationally and didn’t believe in Hal’s bluff, he would STILL be forced to drop the handkerchief Instantly. That’s because of the accumulation Hal had prepared in R4T2. Even if Hal were to die, Leap Second Route wouldn’t be activated.
+Baku literally CAN’T allow even the possibility of Hal failing his check, or else his cylinder would’ve been emptied which would instead contradict Baku’s goal that is to take out Hal in one shot.
+
+Hal’s Near-Death would’ve made the game go forward by 8M which is like the length of 2 Rounds passing. Meanwhile Hal’s Near-Death would’ve only accumulated 1M of ND-Drug.
+Based on his fabricated Persona, Hal is more likely to use Safe Strategies. Additionally, in the 3rd Round Hal had used Safe Strategy (36S accumulation) and in the round after that Hal accumulated 34S, both being ABOVE the 30S Mark which is the equivalent of Hal failing his check.
+
+Before Leap Second, it seems easier to accumulate more in total in Hal’s Cylinder when Hal makes successful checks than it is if Hal were to fail his check- consuming 8M of the game, which is an equivalent of 2 Rounds.
+
+Additionally, choosing to die first will grant Baku a higher chance of revival rather than dying 2nd.
+The most logical move for Baku is to prevent Hal from failing his check, preventing his supposed 3ND Strategy as a whole, with Baku dying first instead.
+
+Baku, according to Hal’s predictions, drops the Handkerchief Instantly.
+
+Hal doesn’t Instant-Check.
+Despite knowing that Baku will drop the Handkerchief Instantly, Hal still delays his own check.
+.
+.
+.
+
+tsk tsk
+
+After a while, Hal ‘needlessly’ uses echolocation, giving off a ridiculing meaning, while successfully checking and accumulating 15S.
+
+Even though Hal aims to seize 2 Seconds, he still didn’t check instantly. He delayed his check and ‘needlessly’ used echolocation in order to misdirect Baku.
+Think about it from Baku’s perspective, if Hal were to figure out Leap Second and wanted to shield himself from it, then why wouldn’t he seize as much as possible? Well, actually by accumulating more than he could’ve, Hal had created a disruptive Pattern amongst his actions, making it Insanely Difficult to see through. On the other hand, through his act, Hal had made this ‘surface-level’ Pattern believable.
+
+Hal accumulated more than necessary, which seemingly contradicts his goal, but in reality it’s similar to how Baku had fooled Lalo in Protoporos.
+
+Hal had psychologically manipulated Baku and caused him to internally rule out the possibility of him aiming to survive Leap Second.
+Rather than getting greedy, Hal had taken all the precautions to prevent Baku from catching up to his scheme too early, thus making sure that Baku doesn’t figure it out and prevent it.
+If Hal had aimed to seize more time, for example 20 seconds, the chance of Baku figuring out his scheme would be much higher, so the likelihood of ‘20SD’ succeeding would be very low, while the chance of his revival succeeding wouldn’t go up by much.
+By seizing just 2 seconds, Hal’s accumulation will constantly be ‘very close’ to going overboard, thus resembling a Twisted Version of Carrot on a Stick. Hal continuously makes Baku desperate to target his accumulation through Instant-Drops, valuing each second which would be vital for making Hal’s TTD go overboard.
+
+Additionally, after Hal’s declaration of intending to die, he had bluffed and manipulated Yakou into getting a short adrenaline rush, but now that his intentions of dying were revealed to be a lie, via cognitive overload Yakou’s physical capabilities are lowered further.
+This effect is amplified by the unusual timing of Hal’s check, as after a moment Yakou realized that Hal didn’t intend to check instantly (“which doesn’t make sense”), with Hal then confirming his suspicions.
+
+Hal’s Accumulation is now 1M25S.
+
+【Ｒｏｕｎｄ ６ Ｔｕｒｎ １】
+
+ST- Squandered Time
+H-1M25S,     B-33S
+ND- Near-Deaths
+H-1 (1M24S),     B-1 (1M)
+
+Baku checks instantly in order to die. Hal allows him to, deciding not to drop the handkerchief.
+
+Hal consciously believes in a perfect victory, the one where he avoids dying. Although it might seem irrational, it aligns with his numerous actions he had taken so far and it’s quite believable based on others’ impression of him.
+By doing so, Hal allows Baku to create a flawed profiling of himself, which will further cause Baku to be entangled in Hal’s scheme.
+
+“YOU CAN DIE TWO OR THREE TIMES AS YOU WISH.
+IT’S NOT NECESSARY FOR ME ANYMORE…
+NEITHER DYING
+NOR
+RESETTING THE CYLINDER.”
+
+On the surface, Hal had simply caused Yakou’s CPR to deteriorate further before allowing Baku to finally fail his check, ‘not intending to die himself’. Such a move would be very beneficial if Baku were to die for good.
+
+In reality, there are more layers of what had just happened which have yet to be explained.
+Hal plays into his ‘Perfect Victory’ Persona starting from the first round. Additionally, just earlier he had introduced a concept of ‘instinct’ which he follows, despite not knowing the exact reason for it, which further gives Baku profiling of Hal’s actions being seemingly casual and based on things which aren’t definite.
+Hal does so in order to misdirect Baku, to whom such a mindset is beneficial. Since Hal doesn’t intend to die, it would be easier for Baku to accumulate large amounts of ND-Drug.
+
+Because of Hal’s previous Manipulation of Yakou, the latter is now in worse condition than he would’ve normally been due to the confusion and the amount of stress. Baku now has to die for 1M33S, the chance of his revival succeeding isn’t high.
+
+.
+
+.
+
+.
+
+It seems that Yakou had punched Baku despite the time limit, instead putting more force into the 15th Compression, thanks to which the latter had survived.
+
+Through Baku’s death, the Leap Second Route has been finally activated and V3 became V2, like so:
+
+Now that Leap Second Route is active, Baku will start to fully focus on filling up Hal’s cylinder.
+
+【Ｒｏｕｎｄ ６ Ｔｕｒｎ ２】
+【８：４３ ＡＭ， Ｖ２】
+
+ST- Squandered Time
+H-1M25S,     B-0S
+ND- Near-Deaths
+H-1 (1M24S),     B-2 (1M)+(1M33S)
+
+Hal has 1M25S of accumulation within his cylinder. He had already died for 1M24S in R2. In a way his total accumulation is 2M49S.
+Hal had known for a long time how much he will accumulate in the following rounds:
+8S in R6T2
++
+1S in R7T2
++
+1M (Failed Check) in R8T2
++
+1M (Failed Check) in R9T2
+=
+2M9S
+
+The explanation behind those will soon be shown.
+
+Coupled with Hal’s:
+-Current Accumulation in his Cylinder (1M25S)
++
+-The time he has already been dead for (1M24S)
+-In total he plans to be dead for 4M58S (1M25S+1M24S+2M9S).
+
+He aims to seize 2 seconds and wants to prevent Baku from catching up to his intentions, yet making the latter more desperate into targeting the accumulation through Instant-Drops.
+
+Additionally, IF Hal were to fail his check twice, for example in Round 6 and Round 7, then his TTD would be 4M49S and LSR would be deactivated, with V2 changing into V1, like so:
+
+The only way to change V1 back to V2 would be to cause a 7M (+2M) Interval, but that’s not an option for Baku. Basically, Hal would’ve died for a shorter time than if he fell for Leap Second, but through this Hal would’ve prevented Leap Second as a whole, meaning that the actual Resilience Battle would’ve happened sooner.
+
+This scenario is very improbable, but essentially, Baku can allow Hal to fail his check only once (after activating LSR, but before LS), but the former still doesn’t intend to do so considering the current situation. The reason being that Baku still believes in Hal’s ‘Perfect Victory’ Misdirection, which makes Hal more likely to use Safe Strategies.
+However, it’s meant to show that in Baku’s POV, if Hal catches up to the pattern of Insta-Drops, Baku will instead be able to refrain from dropping once and thus have Hal fail his check. This would add 1M of Total Accumulation and V2 would remain.
+Baku is unsure whether Hal will see through this pattern of Insta-Drops, so he ‘saves up’ such an option just in case.
+
+Now, onto the actual turn.
+
+Hal is consciously wondering whether Baku suspects he'd want to take a ‘breather’.
+
+Baku, affected by Hal’s Direct and Indirect Manipulation, is desperate to accumulate as much as possible in Hal’s Cylinder. He drops the handkerchief Instantly, after which Hal had used Echolocation and then checked at 8 Seconds, thus accumulating 8 Seconds.
+
+Hal still abstains from speaking to Baku, which is an important tactic, but I will explain it soon.
+
+Now, I need to explain something. Let’s look at the pattern of Souichi’s checks.
+
+Souichi’s ‘First’ Major Declaration took place here
+
+As we can see, following Hal’s First Revival his checks have been getting more and more accurate.
+
+Starting from his declaration, he had instead started doing Risky Checks.
+I’m referring to Hal’s declaration in which he said that Baku has a superior reason behind his actions (without knowing what that reason is yet).
+It was also the one where he was referring to destiny and started ‘casually’ solving Rubik’s Cube.
+Each time Hal was solving Rubik’s Cube his proficiency at it had been becoming greater and greater. This is another tactic which shows Hal ‘seemingly’ becoming more and more acute by sharpening his senses.
+Even Douji, who wasn’t able to see this, was wondering if Hal is going to take a breather considering the recent checks.
+
+With each check being around 2x shorter, it seems like Hal had been getting more and more shrewd as the Squandered Times became lower and lower.
+
+Hal’s Check in the 5th Round had allowed him to create such a pattern. He had orchestrated numerous layers in order to conceal his true scheme.
+
+Additionally, Hal’s 5th Round Check is something that could be called an ‘Adaptive Check’. Basically-
+   1. IF Hal were to have accumulated ‘more/less’ in R3T2,
+|
+   2. Then he would’ve accordingly delayed his check in R4T2 (or checked earlier),
+|
+   3. Based on this he would’ve chosen to accumulate ‘less/more’ in R5T2 (where he is sure that Baku will drop Instantly), which means that such a Pattern of Shorter Checks was bound to happen.
+For example, IF Hal accumulated just 30S in R4T2, he would’ve then decided to accumulate 19S in R5T2, giving the same total as what really happened :
+34+15=30S+19
+Additionally, the longer Hal doesn’t check in R5T2, the more he manipulates Baku into disregarding all suspicions regarding something like Deviation Strategy.
+
+Hal had set up 3 Major Layerings with each respective one being Extremely Hard to decipher, each one being significantly more difficult to see through than the last.
+The First Layer is the Surface-Level Scheme which Hal had orchestrated perfectly, making it seem like he’s treating STL like a Regular Mind-Game in which he is occasionally driven by his casual Instinct.
+
+The Second Layer is about Echolocation for which Hal had carried out numerous schemes for it to be concealed.
+
+The Third Layer, which is ‘2 Second Deviation’, is practically Impossible to decipher until it’s too late. Despite me already describing numerous instances of how difficult it is to see through, there are still other complex elements left to uncover.
+
+These layers now have been described extremely broadly.
+
+Hal had managed to align all 3 of these Layerings and he had been carrying them out all at the same time. Each of them have their own respective tactics and are composed of many different layers as well.
+Each one of these layers had been benefiting Hal for the sake of his goal, despite the Major ones being ‘fundamentally different’.
+
+Because Hal checks so sparingly by creating such a pattern, his echolocation is even harder to see through. If someone were to see through it they’d have the impression that it’s Hal’s Main Weapon which he tried very hard to conceal in order to keep such an advantage as long as possible.
+However, that’s just the basis of what I have yet to explain.
+
+After Hal’s Insane Check everyone is shocked.
+Baku starts tweaking, but Hal still refrains from talking to him, instead being focused on his own ‘Perfect State’.
+Hal continuously plays along with his conscious ‘Perfect Victory’ Persona he had introduced through numerous tactics.
+He acts arrogantly which aligns with many of his prior actions, such as when he described himself like he’s a ‘God-Like’ Entity who doesn’t need to die in order to win.
+Him refraining from speaking to Baku makes sense considering the persona he had laid out for everyone to see, his ‘Consciously Genuine’ Persona he had orchestrated in Advance.
+
+There was also a small chance of Baku dropping the handkerchief at fe. 2 seconds, in which case Hal would create ‘4 Second Deviation’ instead.
+It was very unlikely though when considering Hal’s previous manipulation
+
+【Ｒｏｕｎｄ ７ Ｔｕｒｎ １】
+
+ST- Squandered Time
+H-1M33S,     B-0S
+ND- Near-Deaths
+H-1 (1M24S),     B-2 (1M)+(1M33S)
+
+It’s Baku’s turn as C.
+Since the LSR is Active and it’s part of V2 Pattern, Baku doesn’t risk Deactivating it.
+In order for LSR to remain Active, Baku aims to use ‘Safe Strategies’ until Leap Second happens.
+
+As the turn passes, Baku begins to notice there is something off.
+
+Since Baku uses Safe Strategy, he is given enough time for him to notice the volume of SC being lowered.
+
+Now, onto Hal’s POV.
+
+Via Cognitive Overload Hal is led to believe that due to Baku’s aura, the latter will be able to check instantly the moment he drops the handkerchief.
+
+In order to make his scheme more resilient, it’s only logical for Baku to use the Safe Strategy. If Baku were to die now then V2 would become V1.
+
+Since Baku aims to take out Hal through Leap Second, not intending to have any Resilience Battle later, he has no problem using Safe Strategy even at the cost of his own accumulation.
+After all, why would Baku’s Cylinder matter if he ‘is going to win’ anyway?
+
+However, subconsciously aware of this, Hal is now free to benefit from it.
+By dropping the handkerchief instantly, Hal accumulates 60 Seconds in Baku’s Cylinder.
+
+Hal’s Scheme Proceeds as Intended.
+On the outside, he appears to be God-Like.
+
+【Ｒｏｕｎｄ ７ Ｔｕｒｎ ２】
+
+ST- Squandered Time
+H-1M33S,     B-1M
+ND- Near-Deaths
+H-1 (1M24S),     B-2 (1M)+(1M33S)
+
+Baku sat on the ground and analyzed the situation.
+He had noticed that the Volume of the Speaking Clock had been lowered.
+
+At first, Baku thought that he’s the one who caused that. After his recent revival he hadn’t been able to convey his words properly, which would’ve caused one of the people overseeing the match to lower the volume of the Speaking Clock in order to understand him.
+
+But then Usogui realized that the volume of the Speaking Clock had already been lowered before. Through the Tactics I’ve already mentioned, Hal had already lowered the Volume.
+
+Baku explains that Hal did so in order to be able to utilize his Echolocation.
+After Baku found out about Echolocation, Hal’s personas in Baku’s mind merged and aligned with the Hal in front of him.
+
+Baku was led to believe that Hal will use Echolocation as efficiently as possible. First utilizing it at 10 Seconds, then at 30 Seconds and refraining from using it again, instead going with Safe Strategy at the end.
+Baku believes that this is Hal’s entire scheme, his main trick, which makes Baku think that Hal will try to make it as resilient as possible in order to keep this advantage.
+
+Baku first thinks about dropping his necktie, which ‘should’ cause Hal to mistake it for a handkerchief, thus turning around and failing his check.
+
+However, Baku is then able to read Hal’s (conscious) thoughts.
+
+Hal thinks to himself:
+
+‘So you noticed what I have been doing, Madarame Baku.’
+‘Making me believe I have found the handkerchief.
+Making me fail my check, through actually making me discover another object.’
+
+After seeing through Hal’s ‘thoughts’ Baku then decides to do as ‘originally intended’ (as he knew that Hal will go through this train of thoughts), flattening the handkerchief on the ground instead.
+
+Here are the Scans.
+
+With this, Baku should be able to fully accumulate 60 Seconds worth of ND-Drug in Hal’s Cylinder…
+
+.
+
+.
+
+.
+
+Hal, despite Usogui’s expectations, turned around instantly and accumulated just a single second.
+Such a tactic had been foreseen by Hal, he had gone as far as to make Baku believe that he won’t turn around.
+
+This tactic had been orchestrated by Hal.
+(And it’s been orchestrated in 2 different ways.)
+
+Hal WANTED Baku to figure out Echolocation at this SPECIFIC moment in order for him to then use such a tactic.
+
+Let’s start chronologically.
+Here are some of the hints Hal had laid out in order for Baku to figure out Echolocation;
+
+.
+
+.
+
+#1
+
+Instead of testing his Echolocation when Baku was dead, Hal had instead done so in a very suspicious manner for Baku to notice.
+First of all, he had dropped the Handkerchief long before the round even began to cause Yakou to comment on his behavior.
+Only then Hal actually tested his Echolocation for Baku to hear and later reflect on after noticing the change in the Volume:
+
+The most impressive part about Hints 1-2-3 will be explained below
+
+.
+#2
+
+Hal shocked Baku with his illogical behavior before ‘needlessly’ using Echolocation for Baku to notice.
+
+The use of it is NOT needless in the grand scheme of things, as Hal aimed to use it as a hint for Baku alongside other things
+
+.
+
+#3
+
+‘Referee Douji, for me, your thoughts and what you’re doing right now are so easy to read.’
+
+In his Declaration, Hal had Indirectly Showcased that Douji is currently doing something at this specific moment, which Hal is aware of.
+Hal was referring to Douji lowering the volume of the SC which was currently happening due to Hal’s actions.
+
+The best part about the hints 1-2-3 is that by themselves they’re NOT enough to have Baku figure out Echolocation, as back then he hadn't noticed the change in the SC Volume yet.
+These are INSANELY clever hints which aimed to help Baku reason out Echolocation, not helping him at the time those hints were laid out, BUT ONLY HELPING HIM WHEN HE NOTICES THE CHANGE IN THE VOLUME.
+
+Baku would only notice the true meaning behind those hints when he reflects back on what had happened, which would take place much later- at the specific timing that Hal had been orchestrating the entire time 💀
+
+As we can see, this INSANELY Indirect Tactic SUCCEEDED, as when Baku was figuring out Echolocation he had specifically reflected on Hal’s words:
+
+.
+
+.
+
+.
+
+#4&5&6
+
+#4
+After Hal caused Baku to fail his check (for a second time) he had stopped talking.
+
+Hal had orchestrated his entire arrogant persona and aligned it through numerous tactics and actions before finally refraining from speaking to Baku following Baku’s Second Revival.
+
+#5
+However, by Baku just getting revived Hal had caused the Volume of the SC to be lowered EVEN FURTHER. Baku’s Strategy is reliant on the deviations, so he made sure it was successful and muttered to Yakou, asking him when the next turn will start.
+By doing so the volume of the SC was lowered even further, making it even more noticeable.
+
+#4&6
+
+Then, in R7T1 Baku proceeded to use Safe Strategy so as to not risk the LSR. Hal abstained from talking so combined with the ‘Spare Time’ being given through Safe Strategy Baku had enough time to notice the Volume of the Speaking Clock being lowered.
+This is the SPECIFIC timing Hal had orchestrated for Baku to notice the change in the Volume.
+
+After this, Baku was able to connect the dots as he was finally able to understand the meaning of Hints #1&2&3.
+This is how insane the Alignment is in Hal’s Strategy.
+
+Now, let’s talk about the ‘hints’ laid out by Hal in order to make Baku believe the former won’t turn around
+
+#1
+
+The first hint is obviously the Persona present since the very first round. Hal had supposedly wanted to win without suffering any losses.
+It’s been especially highlighted in Hal’s Declarations and during the Aftermath of his bluff- when Baku failed his Check:
+
+From Baku’s perspective it must be true, otherwise why would Hal allow Baku to die first, later intending to die himself? It would’ve seemed illogical and for Baku TO EVEN DOUBT Hal’s intentions he would’ve needed to assume that Hal had already figured out Leap Second, which Baku was ALREADY manipulated to rule out.
+
+If we assume that Hal truly aims to win without dying, like he claimed he does, it makes him more likely to use the Safe Strategy which aligns with Baku’s motivation in R7T2, which was to fill up Hal’s Cylinder with a full 1M worth of ND-Drug.
+
+#2
+
+Here is another tactic to make Baku believe that he won’t turn around.
+
+Essentially, Hal caused Baku to stop suspecting him regarding Leap Second by abusing HIS OWN Cognitive Overload
+
+Cause
+
+Effect
+
+This is just one of the CONTINUOUS instances of Hal abusing his own Cognitive Overloads. In reality Hal’s Cognitive Overloads have been abused constantly since the very first round.
+Another instance of the same tactic was the 3ND Fabrication, as this tactic had been constantly ongoing.
+
+#3&4
+
+The 3rd and 4th Hints come under a single Tactic.
+
+This Tactic is Hal’s check in the 5th Round.
+
+Hal had used Echolocation and checked at 15S.
+
+By doing so, he achieved two things:
+   1. By checking so late despite his bluff, he had behaved as if he were hesitant to check, which makes his Check in the 7th Round even more unlikely. After all, the chance of Baku dropping instantly in R5T2 was much higher than him dropping instantly in R7T2 and since Hal was supposedly so hesitant for the former, it only makes sense that he would use Safe Strategy for the latter, right?
+
+   2. By using Echolocation at about 10S, he had aligned his checks with the specific pattern of Echolocation- the pattern of using the Echolocation as efficiently as possible.
+
+Essentially Hal had given Baku the impression that Echolocation is his Main Weapon which is CRUCIAL to him, which is why he would NEED to use it so efficiently.
+Both Rounds 5&6 support this pattern, as Hal had detected the handkerchief at 15S and 8S respectively
+
+From Baku’s perspective Hal aimed to use Echolocation as efficiently as possible in order to make the best use of it- making it more resilient and being able to use it more times, as Baku thinks it’s Hal’s Main Weapon.
+Such belief aligns with Hal’s TRUE aim.
+
+.
+
+.
+
+Now that I explained all the intricacies behind Hal’s check, a question arises:
+“Why did Hal sacrifice his Echolocation?”
+
+First of all, Hal plans to fail his check in the R8T2 in order to forcefully trigger his Memory Loss, thus preventing it from happening Mid-Game and losing via breaking the rules.
+Via Calculations, Hal was required to accumulate just 1S in R7T2.
+His Total Accumulation before R7T2 was 2M57S, but is now 2M58S.
+Hal intends to die next round (+1M)
+He’s also prepared to fall for Leap Second (+1M)
+
+Through his Check in R7T2 Hal confirmed that 2SD is successful.
+No matter what, assuming that Hal doesn’t break the rules, he will have at least 2 Second Deviation.
+Hal intends to fail his check on R8T2, but in case he hasn’t hinted to Baku about the Echolocation, the latter would still be VERY likely to figure it out during Hal’s 2nd Near Death.
+Hal would’ve been dead for more than 2 Minutes whereas just less than a minute was enough for Baku to notice the change of the Volume.
+Since Baku would’ve figured out Echolocation anyway and R7T2 was the last round Hal could make ‘use’ of it, Hal had made Baku figure it out which in turn made him Drop Instantly.
+
+Simply put, by ‘sacrificing’ his Echolocation Hal had made sure that Baku would drop instantly in R7T2 and thus Souichi confirmed the creation of the 2 Second Deviation. These were Insane and overly Intricate Steps taken by Hal just for this single check- in order to ensure this Deviation succeeds.
+This is also Insane Decision Making, as Baku would’ve definitely figured out Echolocation during Hal’s 2nd Near Death, so it would’ve been rendered useless anyway.
+In reality, Hal didn’t lose ANYTHING he wouldn’t have lost otherwise and instead he chose to benefit as much as possible.
+
+The Deviation is bound to happen and Hal consciously acknowledges that ‘if it keeps going a little more’ he will finally get to see the secret.
+
+【Ｒｏｕｎｄ ８ Ｔｕｒｎ １】
+
+ST- Squandered Time
+H-1M34S,     B-1M
+ND- Near-Deaths
+H-1 (1M24S),     B-2 (1M)+(1M33S)
+
+The referees are still focused on 3ND Strategy:
+
+To make sure the 3ND Strategy succeeds, Baku would’ve needed either to do an Instant Check in order to fail, or he would’ve needed to check within 26 Seconds from the time the Handkerchief is dropped.
+
+However, Baku isn’t focused on 3ND at all as it’s obviously just a misdirection. Instead he’s still focused on Leap Second Strategy for which he will use Safe Strategy in order to keep The Active LSR (V2)- intending to win the game through Leap Second.
+
+Knowing this, Hal ‘could have’ dropped instantly in order to accumulate full 60S in Baku’s Cylinder. However, such action would be too blatant and it would instead be a hint for Baku regarding ‘2SD’ for which Hal needs to still fail his check (before LS).
+
+Instead, Hal drops the Handkerchief after 5 Seconds, thus accumulating 55S in Baku’s Cylinder, as the latter had used Safe Strategy.
+
+By dropping only after 5S, Hal concealed that he’s (subconsciously) assured that Baku will definitely use Safe Strategy.
+
+Baku lashes out on Hal, while the latter finally speaks, deciding to Induce Despair in him.
+
+【Ｒｏｕｎｄ ８ Ｔｕｒｎ ２】
+
+ST- Squandered Time
+H-1M34S,     B-1M55S
+ND- Near-Deaths
+H-1 (1M24S),     B-2 (1M)+(1M33S)
+
+Let’s look at Baku’s POV, particularly the RxT2 Data:
+
+Based on the last 4 Rounds Baku had created a very blatant pattern of Dropping at 0S.
+Based on Hal’s checks becoming more and more accurate, it seems that he had caught onto this pattern.
+By pulling off such a risky check in R7T2, Hal had effectively shown that his intention of winning without dying is just a bluff and he isn’t more likely to use Safe Strategies at all.
+From Baku’s Perspective, the most likely possibility is that Hal intends to die once again to reset his Cylinder and have a resilience battle against him.
+If Hal were to fail his check in R8T2 then his accumulation would be reset whereas Baku already has 1M55S worth of ND-Drug in his Cylinder.
+Right now it’s most logical that Hal will continue doing Instant-Checks until Failure.
+For Baku, the most logical move is to go against the pattern, refraining from Dropping Early in R8T2, anticipating Hal’s Instant-Check.
+
+By Hal failing his check the situation will look like this:
+
+Due to Hal’s hypothetical Near-Death being 2M34S long, the Variation of LSR wouldn’t change as V2 would remain.
+If Baku didn’t have Hal die now then he would completely lose such an opportunity, as Hal failing his check in this hypothetical R9T2 (which would start at 8:53, Baku’s turn as D would start at 8:55) would’ve ‘consumed Leap Second’.
+
+Essentially, Hal had orchestrated the entire scenario of ‘Hal failing his check’ in R8T2 to be the best possible option for Baku by entirely eliminating the Strategic Framework of focusing on filling up Hal’s Cylinder via Instant-Drops.
+
+Hal turns around INSTANTLY to make SURE he fails.
+
+However, the true reason why Hal decided to take such action is because of his Memory Loss (ML).
+
+Hal orchestrated this entire scenario in order to prevent himself from breaking the rules after ML is Triggered.
+
+Hal FORCEFULLY triggers his own Memory Loss through Near-Death and asks Yakou to summarize the rules and everything that had happened so far.
+
+Memory Loss is the exact reason why Hal aimed to create the Deviation in the first place. He predicted that he’d fall for Leap Second so he aimed to seize 2S to survive. Hal chose to benefit from Baku’s scheme by fully filling up Baku’s Cylinder to 2M55S, thus guaranteeing his victory in the Resilience Battle after Leap Second, assuming that the revival succeeds.
+
+Due to the Near-Death, Hal will have enough time to recover all the necessary information. If Hal didn’t do so, then he would’ve lost his Memory in the middle of the turn and immediately broke the rules
+
+Hal dies for the 2nd time and his TTD is 3M58S.
+
+Hal then controls how his own consciousness gains information.
+His consciousness is shown Baku’s laugh (on the same TV where the ‘Answer’ is) and his own statement which he’s implied to not remember.
+At the end, Hal’s consciousness reaches the answer, Awareness of Leap Second, that was left here by his subconsciousness which he now only needed to pick up
+
+After his Memory Loss Yakou reminds Hal of the rules and everything that had happened so far.
+
+【Ｒｏｕｎｄ ９ Ｔｕｒｎ １】
+【８：５７ ＡＭ， Ｖ２】
+
+ST- Squandered Time
+H-0S,     B-1M55S
+ND- Near-Deaths
+H-2 (1M24S)+(2M34S),     B-2 (1M)+(1M33S)
+
+Hal, against his will, drops the handkerchief instantly.
+By allowing himself to consciously reach the answer right before Memory Loss, Hal had still kept a portion of the influence of previous subconscious awareness.
+
+Due to Leap Second, Baku still chooses to use a Safe Strategy.
+
+Hal accumulates full 60S in Baku’s Cylinder.
+
+【Ｒｏｕｎｄ ９ Ｔｕｒｎ ２】
+
+ST- Squandered Time
+H-0S,     B-2M55S
+ND- Near-Deaths
+H-2 (1M24S)+(2M34S),     B-2 (1M)+(1M33S)
+
+Hal falls for Leap Second, as he turns around at 60 Seconds.
+
+Hal has to go through 1M of Near-Death, making his TTD 4M58S.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Hal gets ‘successfully revived’.
+
+He reveals to Baku that he SEIZED these 2 Seconds, the process of which was confirmed through Rounds 6 and 7.
+
+N̴o̴w̶.̴.̵.̴ ̷B̶e̷t̴ ̶y̸o̷u̷r̴ ̷l̵i̶f̷e̵ ̷a̸n̶d̶ ̴t̸u̴r̶n̶ ̶a̶r̸o̸u̷n̷d̴.̴ ̸Y̶o̴u̴ ̴w̷a̸n̴t̷ ̶t̵o̵ ̷h̴a̸v̷e̴ ̶a̷ ̶d̷e̸a̵t̸h̸ ̴m̵a̸t̸c̶h̸ ̶w̶h̵i̷l̵e̸ ̷y̴o̸u̴r̴ ̷l̷i̴f̴e̷ ̴i̵s̸ ̷h̶a̵n̶g̷i̸n̸g̴ ̸o̸n̷ ̴a̷ ̶t̷h̴r̷e̶a̸d̶,̸ ̵d̵o̷n̶'̸t̵ ̶y̷o̷u̵?̸ ̷
+A̷̝̅ș̵͗ ̷̪́y̸̖̓ö̷̝ṵ̷̈́ ̷̡̈ẇ̸͉i̷͍̎s̵̜̍h̷̯̉.̴̝̾ ̶̰̊
+
+̴H̶o̷w̵e̶v̵e̴r̶,̷ ̸y̷o̴u̶ ̸h̴a̸v̶e̷ ̶n̵o̸ ̶c̴h̸a̷n̵c̵e̴ ̴t̶o̷ ̶w̷i̷n̶ ̴a̷n̵y̴m̸o̶r̵e̶.̸
+̸N̴o̸w̴,̵ ̴w̶i̷l̸l̴ ̴y̷o̸u̸ ̴b̶e̷ ̴a̷b̸l̷e̶ ̸t̶o̴ ̶f̸i̶n̵d̴ ̶t̶h̴e̷ ̵h̶a̶n̶d̴k̷e̵r̴c̸h̴i̷e̵f̴?̸
+
+Hal proceeds to corner Baku in this resilience battle.
+Scans
+
+He induces despair in Usogui.
+At one point, Baku’s Cylinder is filled up so much that if he doesn’t check within 15S then he will instantly lose as his Accumulation in the Cylinder will go over 5M.
+Scans
+
+.
+
+.
+
+Madarame Baku. Without you there is no us. The current Kakerou wouldn't exist. It's not because of anyone else.
+It's you, Usogui, who made us stronger.
+Don't look back anymore. I'm grateful to you. So, don't look back. There's nothing on the ground.
+Don't look back.
+
+.
+
+Baku turns around and sees that Hal is dead.
+
+With this, Baku wins ‘Drop the Handkerchief’ Gamble and becomes the 22nd Leader of Kakerou.
+
+【Ｃｌａｒｉｆｉｃａｔｉｏｎｓ】
+
+   1. These “Hallucination Rounds” were reality experienced by the three of them.
+They were meant to show that if Hal had managed to get revived then he would’ve cornered Baku and won.
+
+   2. Hal lost due to the poor quality of Yakou’s CPR and not because he misjudged how much his body can handle.
+Kaji and Marco started the revival 2 minutes later than it should’ve started, so in total Hal was dead for more than 6M yet he still managed to get revived, definitively proving that it was Yakou’s CPR which was problematic.
+
+      3. Throughout the entire gamble, Baku made no logical mistakes. He even suspected Hal of figuring out Leap Second right after the LSR was opened to him, yet via Hal’s manipulation he was logically manipulated to rule it out.
+Basically, from Baku’s Perspective the chance of Deviation Strategy existing was so low that trying to counter such an unlikely scheme would’ve made Baku’s chance of winning much lower.
+It’s implied that Baku saw through Hal’s Deviation Strategy after the latter failed his check in R8T2.
+
+      4. In total, Hal had 3 Main ‘Win-Cons’.
+1) Baku not being revived from his 2nd Near-Death
+2) Hal not losing his memory
+3) Yakou’s CPR successfully reviving Hal after Leap Second
+
+【Ｃｏｎｃｌｕｓｉｏｎ】
+
+First of all, I’d like to thank my friend Henkei05 for sharing these amazing colorings with me. He makes beautiful colorings of Usogui on a regular basis, so please check out his channel.
+
+Compared to my previous document, this one was undeniably much harder to make and its production took much longer.
+I guess it’s because my previous document hasn’t really covered the intricacies and was more like a broad summary of Hal’s general feats.
+
+Needless to say, this Analysis undeniably proves that Souichi’s Strategy is in a tier of its own.
+
+Normally, these sorts of docs ‘Rank’ the best Strategy Categories from best to worst… but honestly I don’t even know how I would rank them, as each Strategy Category from Hal is nothing like I’ve ever seen.
+
+Thank you for reading.

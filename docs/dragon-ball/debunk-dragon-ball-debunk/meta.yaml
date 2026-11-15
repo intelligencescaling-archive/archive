@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunk-dragon-ball-debunk
+category: doc
+title: Debunk Dragon Ball Debunk
+authors: []
+series:
+- dragon-ball
+characters: []
+tags:
+- wis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1TMQdma8PVPtSApgmGsPZamwHXmrZjI0K/view
+    google_id: 1TMQdma8PVPtSApgmGsPZamwHXmrZjI0K
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 3306
+    files:
+    - format: pdf
+      name: I am sharing 'Debunk refutations' with you.pdf
+      bytes: 1717661
+      sha256: 28bc597924dcf44c34383e2fa2ae7237d1e34637ee9cd4f00c0eac0897f447db
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Debunk Dragon Ball Debunk
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

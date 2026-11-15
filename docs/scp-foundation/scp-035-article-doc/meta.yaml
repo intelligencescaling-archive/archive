@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scp-035-article-doc
+category: doc
+title: SCP-035 Article Doc
+alt_titles:
+- SCP 035 Article Doc
+authors:
+- name: Axolotol4044/KitchenCoyote7942
+  source: doc-text
+series:
+- scp-foundation
+characters:
+- scp-035
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/19qX4dwEs1Gk9Rf_53v9NXMs3DHMBGWFs3I9V_inMnkg/edit?tab=t.0#heading=h.jezo43c2f1aq
+    google_id: 19qX4dwEs1Gk9Rf_53v9NXMs3DHMBGWFs3I9V_inMnkg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1826
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 273350
+      sha256: ee7c94406a441a2ccd4be09cc787e4299b1881d032a32c00a890313de2967c90
+    - format: docx
+      name: document.docx
+      bytes: 755994
+      sha256: 54f6c7fd3ddd1235aa28cc0535226c2fa6286b6cc097ddac67aaef1293a9a48c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: SCP 035 Article Doc
+- library: remastered
+  section: SCP Foundation
+  character: SCP-035
+  link_text: SCP-035 Article Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

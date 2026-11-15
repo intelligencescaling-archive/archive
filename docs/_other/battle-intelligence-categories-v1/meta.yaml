@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: battle-intelligence-categories-v1
+category: doc
+title: Battle Intelligence Categories V1
+alt_titles:
+- Battle IQ Categories Analysis
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1t0qVT3Ai_bVfUDnYc6a-N2OZEmVfgRszgzN8YvZGU5M/edit?tab=t.0#heading=h.314ouycdmryp
+    google_id: 1t0qVT3Ai_bVfUDnYc6a-N2OZEmVfgRszgzN8YvZGU5M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 573
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 90709
+      sha256: e6a26c5d4fe27d5a865e194ad09bb739088521fb8988615853d9ce92340961e7
+    - format: docx
+      name: document.docx
+      bytes: 1228419
+      sha256: 564a15cc1a5cebb215c91a3952633674db76a94870ae07cd11527f41b08419b7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Battle IQ Categories Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aristotle-means-doc
+category: doc
+title: ARISTOTLE MEANS DOC
+alt_titles:
+- Aristoteles Means Doc
+authors: []
+series:
+- ace-attorney
+characters:
+- aristotle-means
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=133flrjHgFpTt4mPPPFT44gQIwLebj5RgESLRU51bTrU
+    google_id: 133flrjHgFpTt4mPPPFT44gQIwLebj5RgESLRU51bTrU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 2951
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4264490
+      sha256: b964ed3e7c1e56ae29cbf33571af137cf5088d741b3424b1c78ae7fb17dca03a
+    - format: docx
+      name: document.docx
+      bytes: 4421626
+      sha256: 38816a2a999fb9646fd4b6c784d28ef63e622d551009b876df8e4cbffffaeeb8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Aristoteles Means Doc
+- library: remastered
+  section: Ace Attorney
+  character: Aristotle Means
+  link_text: ARISTOTLE MEANS DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

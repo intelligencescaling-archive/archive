@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: inspector-tsukumo-doc-ghs48
+category: doc
+title: Inspector Tsukumo Doc - [ghs48]
+alt_titles:
+- Inspector Tsukumo Doc
+authors: []
+series: []
+characters:
+- inspector-tsukumo
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1eseUlubZGtpNrZEjgJ7Th2ON--m_JGat4mg4R-8nf2w/edit?usp=sharing
+    google_id: 1eseUlubZGtpNrZEjgJ7Th2ON--m_JGat4mg4R-8nf2w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 106
+    words: 27626
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 26056565
+      sha256: 719abe1c53d899a27371ad2b307ce7ad16519eecc96fda6f9021f8ab7a605c59
+    - format: docx
+      name: document.docx
+      bytes: 22277957
+      sha256: 4425e2f1fe3a4cc3ccb409cc67c1a633c000ce472d21f56f861be5e76e5eaa0e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Inspector Tsukumo Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

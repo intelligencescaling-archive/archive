@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sudo-trial-plan-stp
+category: doc
+title: Sudo Trial Plan (STP)
+alt_titles:
+- Koji's Sudo trial plan
+authors:
+- name: Plasma
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15U6-ExBmHRLSqxEvoEf1JQqMh1ElzpmP6mHPlL92gto
+    google_id: 15U6-ExBmHRLSqxEvoEf1JQqMh1ElzpmP6mHPlL92gto
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 54
+    words: 8589
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3074587
+      sha256: 8645cf84f67f8712dcb137780123ba92b48be19730ad406182c8088dc9bd86c9
+    - format: docx
+      name: document.docx
+      bytes: 2506346
+      sha256: aed56ef9ccfbb4fdee8f4c698e4738d644dfa35fa8e44597201ec517e5d137f4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's Sudo trial plan
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Sudo Trial Plan (STP)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

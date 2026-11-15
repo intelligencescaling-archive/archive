@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: assane-diop-series-lupin-doc
+category: doc
+title: ASSANE DIOP - SERIES LUPIN doc
+alt_titles:
+- Assane Diop Doc
+authors:
+- name: ghs youtube:@ghs48
+  source: doc-text
+series:
+- lupin
+characters:
+- assane-diop
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15srSXXiOCBJ5wc0fZzQceKTBsY5gnAoz9gzNwF0JSzw
+    google_id: 15srSXXiOCBJ5wc0fZzQceKTBsY5gnAoz9gzNwF0JSzw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 155
+    words: 31897
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 78969381
+      sha256: 9de8f8be513bbe79cc61d86d83bdfa18326e1cc325f63e27da4fc159f09d51c1
+    - format: docx
+      name: document.docx
+      bytes: 59738562
+      sha256: 7b467aa6d7f037d0b582d9d66653c42a0ebe7a8fc84786aa38c4a3d09635c54f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Assane Diop Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

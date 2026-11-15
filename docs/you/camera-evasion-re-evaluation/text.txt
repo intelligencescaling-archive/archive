@@ -1,0 +1,30 @@
+Madre Linda Escape
+
+I was revisiting docs for Joe and came across this feat that looks very underappreciated and rather unknown as of now
+
+ Joe Goldberg VSI Feat (S3E10)
+
+Now, while this is already a solid feat, this is, at least to me, WAY better than it is scaled
+
+I see no logical reason why it has to limited to the cameras that have been shown, and not just the average amount of cameras in a town
+
+In San Francisco, where Madre Linda was shot at in real life, has 25 cameras per 1,000 people for public spaces
+https://knsiradio.com/2026/04/09/the-10-most-watched-cities-in-america-and-what-that-means-for-privacy/
+
+Looking at the average at low density suburban neighborhoods, the average looks to be ~28,000 residents.
+28,000 / 1,000 = 28 * 25 = 700 cameras
+Joe would also need to visualize stuff like which path is best and the actual neighborhood itself
+
+3000 people, i’ll but it that majority of these houses have about 3 per each which would mean 1000 houses
+
+Every lot would count for ~0.5 acres approximately
+
+1000 * 0.5 = 500 acres or 2.023e+6 m^2
+
+Then if we assume that the tallest building is there is 3 stories then 9 meters tall
+
+9 m * 2023500 m2 = 18,211,500 m³
+
+Joe was able to visualize what the cameras were watching, the neighborhood itself, and which path would be best to take without being seen once all while dealing with physical pain
+
+This is impossible to achieve VSI and CPI

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pmh-doc
+category: doc
+title: PMH Doc
+alt_titles:
+- PMH
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1bIOavEpo3Vj0Lq9oG67nPXyAtc_R1otd
+    google_id: 1bIOavEpo3Vj0Lq9oG67nPXyAtc_R1otd
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      file: download disabled by owner (HTTP 403-equivalent)
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: PMH
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: PMH Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

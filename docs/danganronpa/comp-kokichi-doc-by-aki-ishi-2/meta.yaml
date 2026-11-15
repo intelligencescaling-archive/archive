@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-kokichi-doc-by-aki-ishi-2
+category: doc
+title: Comp Kokichi Doc. By aki_ishi_2
+alt_titles:
+- Comp Kokichi Ouma doc
+authors: []
+series:
+- danganronpa
+characters:
+- kokichi-oma
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18Q_fieh-nWSpaWsN_jEUoCizcNbdzzF3MLBtaf2Fu4I/edit?usp=drivesdk
+    google_id: 18Q_fieh-nWSpaWsN_jEUoCizcNbdzzF3MLBtaf2Fu4I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 5379
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 178706
+      sha256: 7268e17722c88f14b05249aaf2388b4b7fdb2a3aa669c78e3b2f48d4d6b111a2
+    - format: docx
+      name: document.docx
+      bytes: 19286
+      sha256: dc8a031f11abaac49063da149613051e9d5445182ef38f17a0c6082cf00685d1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Comp Kokichi Ouma doc
+  note: (By Aki_Ishi)
+- library: remastered
+  section: Danganronpa
+  character: Kokichi Oma
+  link_text: Comp Kokichi Ouma doc
+  note: (By Aki_Ishi)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

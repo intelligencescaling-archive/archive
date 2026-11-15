@@ -1,0 +1,153 @@
+Yokoya's Speed Reading FSIQ Calc and Rebunk
+By HelloThere1089
+
+This doc will have two parts. The first part will calc Yokoya’s speed reading feat. The second part will rebunk this feat.
+The Calc
+This section’s purpose is to calculate Yokoya’s reading speed. Based on how quickly Yokoya is flipping the pages, we can already tell that this is way beyond peak human level in reading speed. I will calculate my own interpretation first, and then calculate a conservative lower bound estimate.
+
+Establishing the facts
+These are all the relevant panels of this feat:
+
+This shows Yokoya quickly flipping through a book (or fanning the pages), closing it, and putting it back. Things I would like to point out:
+1. The book’s thickness is approximately half of the thickness of Yokoya’s thumb.
+2. During the flipping snapshot, 6 pages are actually being flipped.
+Secondly let’s establish that he was actually reading while flipping these pages.
+
+Here is the LG handler complimenting his reading speed, confirming that the scene is showing him actually reading the book. And this is after a closeup of him flipping the pages. Context clues tell us that she is referring to her observation of him flipping the pages quickly. Mind you, the only thing she actually observed was him flipping the pages. She has nothing to go off of.
+
+And this is Yokoya confirming that he is using a speed reading technique.
+
+Now we know that there should be no ambiguity regarding what was happening in these panels. Yokoya read a book extremely quickly. The logic will be discussed in the next sections.
+
+Mapping the Calc
+The calc will be divided into multiple parts for simplicity’s sake.
+1. Methodology of the calculation
+2. Calculating the WPM speed
+3. Benchmarking the speed reading skill
+4. Calculating a safe end
+
+Methodology of the calc
+I will calculate the timeframe of this panel
+
+As you can see, 6 pages have been flipped within an unknown timeframe. However we can use some clues and physics to calculate a lower bound timeframe. First of all, since the amount written in each page is different in this panel, we can confirm these are 6 unique pages flipped instead of this showing just afterimages of one single page. It also helps that each page has a “flip” onomatopoeia beside it.
+
+Now that we have established that 6 pages were flipped, I would like to establish another fact. If the timeframe of this panel is too long, the pages will fold due to gravity. So I will calculate the minimum possible speed at which the page needs to be flipped to not fold under gravity. Then I will use that speed to calculate the total amount of time the page will take to swing between the book covers. I will then divide this time by six pages as six total pages are airborne by the time the first page finishes its swing or flip. Using an average words per page ratio I will then calculate the WPM at which Yokoya would need to read this book.
+
+Lastly I will use a conservative estimate as well. This would defy the laws of physics but it might serve as a good enough lowball for some.
+
+Calculating the WPM speed
+
+Imagine an upside down pendulum. There is a minimum energy required to push the pendulum upwards in a way that it stops midway making a 90 degree angle with the horizontal axis. This is calculated by equating the potential energy and kinetic energy formulae. A derivation of the formula used is as follows:
+
+1. We are assuming the minimum required KE so that the page achieves zero velocity at the top of the flip and then falls due to gravity. Which means the KE = PE (you’ll get it if you study Newton’s Laws of Motion).
+2. The PE formula further has 2 components, the potential when the page is vertically straight up and when the page makes an angle of 30 degrees with the vertical line (assuming the two covers make a 60 degree angle between them). This potential difference is the energy required to make it fall in a flip.
+
+Given that
+
+At the top where the angle made is 0
+
+Thus while going up
+
+And while going down
+
+As a general formula
+
+Now Integrating over the period when the page flips
+
+Where
+
+The +/-0.2 degrees is present as offset. The timeframe is integrated to account for a non-constant angular velocity. However the motion cannot mathematically be zero at the top like the premise assumes (cuz it will blow up the integral). So I need to have an offset at the top. In an actual setup, the motion approaches zero at the top but diverges.
+
+Upward timeframe
+
+Given that
+
+Downward timeframe
+
+Given that we are assuming the motion of a simple pendulum for this case of flipping pages, =.
+
+To get the height of the pages we can use the picture of Yokoya holding the closed book to estimate that the book is about 2 times Yokoya’s thumb length. The average thumb length is about 2.74 inches. This makes the book around 5.48 inches in width. If we go by standard book sizes, this is the closest to 5.75 x 8.25 inches. So using 5.75 inches as W
+
+Using values of h and g
+
+We know that Yokoya had to read roughly 6 pages front and back within this timeframe. An average number of words per page in a book is 250.
+
+High Ball
+Let’s take the picture of 6 pages being suspended mid flip at face value and calculate a high end.
+
+Yokoya’s reading speed in WPM is:
+(250 x 2 x 6 x 60)/1.00026
+= 179953 words per minute
+
+Low Ball
+Let’s assume Yokoya only flipped one page at a time and read the book simultaneously.
+
+Yokoya’s reading speed in WPM is:
+(250 x 2 x 1 x 60)/1.00026
+= 29992 words per minute
+
+Benchmarking the speed reading skill
+
+The current world record is held by Howard Burg at 25000 WPM. This puts Yokoya at 7.2x (High Ball) to 1.2x (Low Ball) the peak human CPI in speed reading.
+
+Calculating a safe end
+
+I do prefer the safe end to avoid wank. Yokoya’s scene is indeed unrealistic. However, I think establishing a safe low end is important so that the feat isn’t completely disregarded. Also there is a decent possibility that the upcoming anime might change a few things or add more context. If my calc isn’t consistent with the eventual anime adaptation, then I have no qualms about rejecting this calc entirely.
+
+For a safe end I will use the most used unit of time to show a “moment” in fiction. And that is 1 second. Additionally, I will try 5 seconds and 10 seconds as arbitrary lower bound estimates. Anything greater than 10 seconds makes no sense simply because of the physics of it. I don’t see how 6 pages mid flip (essentially fanning the pages) can remain suspended in air for more than 10 seconds straight. So the conservative end is as follows:
+
+Using 1 second timeframe: (250 x 2 x 6 x 60) = 180000 WPM (7.2x)
+Using 5 seconds timeframe: (250 x 2 x 6 x 60)/5 = 36000 WPM (1.44x)
+Using 10 seconds timeframe: (250 x 2 x 6 x 60)/10 = 18000 WPM (0.72x)
+
+These estimates put Yokoya’s CPI at 7.2x, 1.44x, and 0.72x the CPI of peak humans respectively.
+
+Conclusion
+Interpretations
+	WPM
+	Benchmark
+	Physics based interpretation
+	High Ball (6 pages)
+	179953
+	7.2x Peak Human
+	Mid Ball (3 pages)
+	89976
+	3.6x Peak Human
+	Low Ball (1 page)
+	29992
+	1.2x Peak Human
+	Arbitrary timeframe assumptions
+	High Ball (1 second)
+	180000
+	7.2x Peak Human
+	Mid Ball (5 seconds)
+	36000
+	1.44x Peak Human
+	Low Ball (10 seconds)
+	18000
+	0.72x Peak Human
+
+This feat puts Yokoya’s CPI at 7.2x to 1.2x peak human using the physics calc, and 7.2x, 1.44x, and 0.72x peak human using conventional measures of the timeframe of a single panel.
+
+I personally find the 1.2x peak human estimate to be the safest. It follows the rules of physics that the page should take 1.00026 seconds to rise and fall. It also matches with the conventional assumption that a single panel or moment is 1 second long as a second is the most widely used unit of time. Lastly it also accounts for the rebuttal or claim that the scene only consists of one page being flipped, and that the 6 pages are just afterimages. Overall, because this is a lower bound estimate, Yokoya’s actual CPI is definitely much higher than the calculated 1.2x peak human.
+
+The Rebunk
+This debunk isn’t directed to my calc so I don’t really need to rebunk anything. However to stop some arguments from being presented and people using this to debunk my feat, I’ll rebunk some of the arguments. I am not defending the original calc because I can’t even access the doc. Anyways, props to both the creator of the original calc and the debunk of it.
+1. “It is most generally known that feats > statements”: This is the ad populum fallacy. Just because most people believe this, doesn’t mean feats actually hold more significance than direct statements from the author. If an author clearly asserts that a character can read a book in a minute, it would be illogical to disregard that statement. Also the author doesn’t need to prove to the audience that the character he created can do something. Secondly, this speed reading done by Yokoya isn’t even a statement. It is a solid on screen feat that I have calculated. So the statements and feats argument doesn’t even work here.
+2. “So instead of interpreting the fact that he could speed read, he just rememorized the structure of the Liar Game Games” This directly ignores the LG employee complimenting Yokoya’s reading speed. Actual character statements > vague fanfic what-ifs. So unless you have proof that he knew about the structure from before, this is just a head canon.
+3. “The Author Did Not Create a feat of Speed Reading, It was misinterpreted” No. The scene is clearly referring to speed reading techniques. The author's intention is crystal clear.
+4. “ Furthermore, if we look at how the author draws and explains the panels, we know that the characters usually explain the feats before or after it is used.” I don’t even understand what the argument is here. So if it is not explained it is not a feat at all? We have an in-verse statement confirming it happened. We have panels showing it happened. But the debunk wants us to ignore the feat entirely because it can’t believe a show that explains most of its feats can have unexplained feats as well. Being unexplained doesn’t disqualify it from being a feat.
+I believe these are the arguments that could have been used against my calc. The rest of the arguments don’t really target my calc specifically so I don’t have to rebunk them.
+
+Thank you for reading
+
+Discord: hellothere1089
+Yokoya’s VCI
+The speed reading feat has a VCI component as well. At first glance it might not appear so since speed reading seems like a boost in CPI alone. However there is research done on speed readers. This states that at higher speeds, due to biological constraints, the number of words a reader can read per page reduces. Which means that the load on comprehension increases. Readers have less information to go off of but have to comprehend the text. This results in the obvious drop in comprehension. However in the story we know that Yokoya used the information gained from his speed reading to uncover the history of the Liar Game.
+
+Here Yokoya explains that he is fluent in 4 foreign languages and routinely reads foreign novels which requires him to be a master in those 4 languages. He is obviously also fluent in his native language. So that makes him fluent in 5 total languages. This increases his vocabulary and verbal comprehension.
+
+Here he explains how he actually understood the history of the Liar Game. Which means he actually comprehended the stuff he was speed reading. This combined with the earlier research tells us that he has the ability to comprehend text with minimal words.
+
+Conclusion
+Yokoya’s ability to comprehend foreign text with minimal words combined with his mastery of 5 languages puts his VCI at a very high level.

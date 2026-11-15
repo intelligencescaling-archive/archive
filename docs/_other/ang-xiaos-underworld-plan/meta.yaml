@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ang-xiaos-underworld-plan
+category: doc
+title: ANG XIAO’S UNDERWORLD PLAN
+alt_titles:
+- Ang Xiao's Underworld Plan doc
+authors: []
+series: []
+characters:
+- ang-xiao
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1G3BQT32naDGS8kTEMtHjJKVCW-xwn2BIIFwKKSWfrXo/edit?usp=drivesdk
+    google_id: 1G3BQT32naDGS8kTEMtHjJKVCW-xwn2BIIFwKKSWfrXo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 5679
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 246241
+      sha256: 99f72593c182d1c73ff6fceee270020cea45cf1b050a49c0ab9153a8ef50f502
+    - format: docx
+      name: document.docx
+      bytes: 24588
+      sha256: 6f42b6ee587b26f670877ce415d5080b96a0ecc68ecc564e9e306cd9821eca92
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ang Xiao's Underworld Plan doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

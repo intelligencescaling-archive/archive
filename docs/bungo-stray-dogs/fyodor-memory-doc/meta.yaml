@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fyodor-memory-doc
+category: doc
+title: Fyodor memory doc
+alt_titles:
+- Fyodor memory
+authors:
+- name: rimurusensei7
+  source: doc-text
+series:
+- bungo-stray-dogs
+characters:
+- fyodor-dostoevsky
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xAmAJzfV3mkRM5t1t3aRGsMcTKqjRSJ3a0TeAO1_0AE
+    google_id: 1xAmAJzfV3mkRM5t1t3aRGsMcTKqjRSJ3a0TeAO1_0AE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 848
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5886965
+      sha256: 6e629a0585215a774b4bece0dffd6fd989a1c77fd8dccab84f4903fe400dd0b2
+    - format: docx
+      name: document.docx
+      bytes: 4598951
+      sha256: 5e85eb472b4e4e23160d30839d74183a62b37a64326298b32ea890b906007dc1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: Fyodor memory
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Fyodor Dostoevsky
+  link_text: Fyodor memory doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

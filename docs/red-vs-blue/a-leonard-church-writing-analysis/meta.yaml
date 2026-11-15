@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-leonard-church-writing-analysis
+category: doc
+title: A Leonard Church writing analysis
+alt_titles:
+- Leonard Church writing analysis
+authors: []
+series:
+- red-vs-blue
+characters:
+- leonard-church
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10ZH2F8--6oFW_QvRUSso0Qz9FSwuh7sMqHs-3irsG7U/edit?tab=t.0
+    google_id: 10ZH2F8--6oFW_QvRUSso0Qz9FSwuh7sMqHs-3irsG7U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1221
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 95398
+      sha256: e97f807e32f72220eadf70033c57f6bd1dd2f39fe7c2a1173f10a36f3622f164
+    - format: docx
+      name: document.docx
+      bytes: 10475
+      sha256: b5aa320395dea00298618fd7d90733c8ca82354d0d3c67b4ded31d7866b3d4d5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Leonard Church writing analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

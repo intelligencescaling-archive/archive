@@ -1,0 +1,111 @@
+AYANOKOJI KIYOTAKA’S 3 VIP FEAT
+Doc made by Enii.
+It was mentioned by Kiyotaka that the possibility of Ryuen cracking the whole pattern with just 3 VIPs exists.
+
+P1: the Zodiac groups from the exam are based on the Chinese Zodiac groups , numbered 1 to 12. The pattern of matching the Zodiac group to the alphabetical order of the students in a group's list, was according to the chronological order in which the Zodiac groups are arranged.
+
+P2: this is the compatibility trio chart of Zodiac trios:
+
+P3: this is the Zodiac groups relationships chart. Let Ideal Match, Match and No Match be, respectively, IM, M and N.
+
+P4: using the alphabetical order pattern, the VIP of the Cow group is Yume Kobashi of class B, which Ryuen made an intentional wrong guess on.
+
+P5: the VIP of Monkey group is from class B. Rooster, Pig and Rat’s VIPs are from class A, mentioned by Ryuen.
+
+P6: Rabbit = Kei, Dragon = Kushida and Horse = Minami. The remaining groups are 3 of class C and 1 of class B. Sheep, Dog, Snake and Tiger.
+
+C1: if we consider Dog group as the VIP, the 4 compatibility trios classified by which class the VIP of the group belongs to becomes:
+Trio 1: A, B, D
+Trio 2: A, B, C
+Trio 3: B, C, D
+Trio 4: A, C, D
+
+C2: if we input the VIPs’ classes we know in a table of IMs, Ms and Ns, it would end like this:
+
+MAIN
+	IM
+	M
+	N
+	A
+	D, B
+	B
+	D
+	B
+	C, A
+	A
+	C
+	C
+	D, B
+	A
+	B
+	D
+	C, A
+	B
+	A
+	D
+	A,B
+	A
+	B
+	C
+	B, A
+	B
+	A
+	D
+	C, B
+	C
+	A
+	C
+	D, A
+	D
+	B
+	B
+	A, D
+	C
+	C
+	A
+	B, C
+	D
+	D
+	B
+	C, D
+	D
+	D
+	A
+	D, C
+	C
+	C
+
+C3: when you do a comparison to the main Zodiac group with the IM, M or N, none of them overlap even when you consider all 12 cases and all 48 combinations.
+This also includes the compatibility chart, where the combinations followed are A, B, C+A, B, D+A, C, D+B, D, D, each unique combination which covers all 4 cases.
+
+From this, you can conclude:
+
+C4: the groups arranged according to the class the VIP of the group belongs to are as follows:
+
+Class A: Rat, Rooster, Pig.
+Class B: Monkey, Cow, Dog.
+Class C: Sheep, Tiger, Snake.
+Class D: Rabbit, Dragon, Horse.
+
+C5: the probability of this match being a coincidence is extremely low—even lower than the likelihood of the alphabetical pattern (which was canonically used in the story) happening by chance. This strongly suggests that the arrangement of VIPs follows a deliberate pattern.
+C6: Certain zodiac signs appear to be grouped based on the class they belong to. In the context of the pattern, these grouped signs are treated as a single entity. As a result, the IMs, Ms or Ns are always from a different class—because they’re considered separate from the grouped unit. So, the rules in this case are:
+C7: VIPs of groups from IM columns don’t share a class.
+C8: VIPs of groups from the main column don’t share a class with those in the IM column.
+C9: Same goes for the main column compared with the M column and N column.
+In this case, in order to crack the pattern you need 3 VIPs from your class.
+For example, Class D. Their own VIPs were from Rabbit, Dragon and Horse groups. Make a chart about which groups’ VIPs cannot share the same class:
+Rooster: Monkey, Cow.
+Cow: Snake, Rooster, Rat, Sheep.
+Tiger: Dog, Pig, Monkey.
+Snake: Cow, Rooster, Monkey, Pig.
+Sheep: Pig, Cow.
+Monkey: Rat, Snake, Tiger.
+Rooster: Cow, Snake.
+Dog: Tiger.
+Pig: Sheep, Tiger, Snake.
+FC: These are the groups whose VIPs won’t be sharing a class. Then, class D will use the 3 VIPs of their own class, consequently noticing the alphabetical order anomaly. But in order to confirm and conclude an universal rule:
+* Get the lists of all the 12 Zodiac groups.
+* Assume the pattern they noticed for class D is true and applies to every class. Calculate the hypothetical VIPs of all groups by relating the zodiac group number to alphabetical order of students' surnames, and arrive at the assumed 12 VIPs.
+* They get a total of 9 VIPs, 3 each from classes A, B, C, 3+3+3. They need to verify this hypothesis.
+* Group the result VIPs together in accordance to their classes and input their classes into the chart they arrived at.
+This is how you can reach the answer of knowing all VIPs.

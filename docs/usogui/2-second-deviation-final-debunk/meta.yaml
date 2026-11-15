@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 2-second-deviation-final-debunk
+category: doc
+title: 2 second deviation final debunk
+alt_titles:
+- Hal debunk 3
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1dXdGiiDRtU4KrPioYH-viprP-Z4QCWhkjitQPabuevI
+    google_id: 1dXdGiiDRtU4KrPioYH-viprP-Z4QCWhkjitQPabuevI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 86
+    words: 12939
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 59259530
+      sha256: db603df566600fbe29a5a8435c027c6c95f5c4c3395ab1589017b045ee182545
+    - format: docx
+      name: document.docx
+      bytes: 55839294
+      sha256: ca977fdf37ab5396285189fcbc7c01c456a632b8cc7d9d5061425d70fef7d7b1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Hal debunk 3
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: 2 second deviation final debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

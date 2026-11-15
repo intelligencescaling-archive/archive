@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: manabu-horikita-s-feat-list-documentary
+category: doc
+title: Manabu Horikita's Feat List Documentary
+alt_titles:
+- manabu
+- Manabu Horikita’s Feat List Documentary
+authors:
+- name: JayChef
+  source: doc-text
+- name: DAX PMFT
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- manabu-horikita
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12CKbxZE_mJjroo59bYRXR33u3C9mwwW5TNiLkrE1AW4/edit?usp=drivesdk
+    google_id: 12CKbxZE_mJjroo59bYRXR33u3C9mwwW5TNiLkrE1AW4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 54
+    words: 21496
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 897387
+      sha256: 7d6e5bd2543fce77addfb96dd5f61d3698d0a5d873f4417fc1fc858e74d0a3c5
+    - format: docx
+      name: document.docx
+      bytes: 737153
+      sha256: 883c15ca5e4fa19021c3e919c67624268ca45774c242c8b7caaee608121e0b3f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: manabu
+- library: remastered
+  section: Classroom of the Elite
+  character: Manabu Horikita
+  link_text: Manabu Horikita’s Feat List Documentary
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

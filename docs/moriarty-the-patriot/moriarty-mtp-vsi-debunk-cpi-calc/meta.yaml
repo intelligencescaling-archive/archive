@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moriarty-mtp-vsi-debunk-cpi-calc
+category: doc
+title: Moriarty (MTP) VSI Debunk & CPI Calc
+alt_titles:
+- WJM VSI and CPI Debunk
+authors: []
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- debunk
+- cpi
+- vsi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1fK4QOrHfJ7tGdCIvjLtQUSSZoUVHFwvphluN4F20xqc/edit?usp=sharing
+    google_id: 1fK4QOrHfJ7tGdCIvjLtQUSSZoUVHFwvphluN4F20xqc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1446
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9409276
+      sha256: 658814d960488e578ef12886692d295b7f3ea4ddac4117e27ed260c60dcf6268
+    - format: docx
+      name: document.docx
+      bytes: 8014891
+      sha256: 34a6d2fa7b26d942200ee614a685e4b98677aacdc8743b884a78a9871df36c95
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: WJM VSI and CPI Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

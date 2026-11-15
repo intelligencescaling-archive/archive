@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-combat-skills
+category: doc
+title: JOE COMBAT SKILLS
+alt_titles:
+- Joe Goldberg WIS Doc
+authors:
+- name: Jagger
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1034PzAsUPvXD_H21nuqFPjP6jq5ELhkV8I76qdMXGiI/edit?usp=drivesdk
+    google_id: 1034PzAsUPvXD_H21nuqFPjP6jq5ELhkV8I76qdMXGiI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 1311
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 15795730
+      sha256: 83b5bf00bf67b136665b6b85569182bc1ab3964256babe95276549cd59b7b9f7
+    - format: docx
+      name: document.docx
+      bytes: 20156323
+      sha256: 8ef4d1d5e5e3a2dbd7d5390c13ec2378bd54db7e2123dc1429e25e74323e24e2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe Goldberg WIS Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

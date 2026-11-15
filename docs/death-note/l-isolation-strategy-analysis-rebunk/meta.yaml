@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-isolation-strategy-analysis-rebunk
+category: doc
+title: L isolation strategy analysis rebunk
+alt_titles:
+- L Isolation Strategy Explanation and Rebunks
+- L Isolation Strategy Analysis and Rebunk
+authors:
+- name: /Echonomy
+  reddit: Echonomy_Echo_8500
+  source: doc-text
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+- strategy
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1lGhgIFUcbFbSmdpMMp2rPTbkEo8e2MJep309544EyMI/edit?usp=drivesdk
+    google_id: 1lGhgIFUcbFbSmdpMMp2rPTbkEo8e2MJep309544EyMI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 30
+    words: 10397
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 64747444
+      sha256: 7a32c009eef569bb2c8d2d815c25ae381ed817f5b167ef641601e2b9bde84168
+    - format: docx
+      name: document.docx
+      bytes: 56550550
+      sha256: 2ff74c2f1937789fa612ebe8d00d1dea839e0c4e917e4527a137aed80a7dc42e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L Isolation Strategy Explanation and Rebunks
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: L Isolation Strategy Analysis and Rebunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

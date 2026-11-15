@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-team-revive-strategy
+category: doc
+title: 'PATRICK JANE TEAM REVIVE STRATEGY:'
+alt_titles:
+- PJ 7
+authors:
+- name: Hassan Mustafa
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1u3qqTyk9wopaxcAzdni_-3tfhOb-NccKfzn_UpdXUxs
+    google_id: 1u3qqTyk9wopaxcAzdni_-3tfhOb-NccKfzn_UpdXUxs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 6243
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 670445
+      sha256: 4a4c9d2df188ad6baf9928707e7c8b32d79cde5426c1aec0e83b8694b5785628
+    - format: docx
+      name: document.docx
+      bytes: 2157326
+      sha256: ccf617c39c7b79aa3be62f735bbcb11e3b5838a32bb2be27a4c3cd8e06a92a74
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 7
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: 'PATRICK JANE TEAM REVIVE STRATEGY:'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

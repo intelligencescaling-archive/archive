@@ -1,0 +1,384 @@
+# Series registry. ids are used in meta.yaml `series`.
+- id: 18-levels-of-hell
+  name: 18 Levels of Hell
+  aliases:
+  - '18 LEVELS OF HELL:'
+  - 18LOH
+  - 'The 18 Levels of Hell: Lying is Forbidden Here'
+- id: 20th-century-boys
+  name: 20th Century Boys
+- id: a-nightmare-on-elm-street
+  name: A Nightmare on Elm Street
+- id: a-song-of-ice-and-fire
+  name: A Song of Ice and Fire
+- id: ace-attorney
+  name: Ace Attorney
+- id: akagi
+  name: Akagi
+- id: alice-in-borderland
+  name: Alice in Borderland
+- id: altered-beast
+  name: Altered Beast
+- id: alya-sometimes-hides-her-feelings-in-russian
+  name: Alya Sometimes Hides Her Feelings in Russian
+  aliases:
+  - Roshidere
+- id: as-the-gods-will
+  name: As the Gods Will
+- id: assassination-classroom
+  name: Assassination Classroom
+- id: bakudan
+  name: Bakudan
+- id: bendy-and-the-ink-machine
+  name: Bendy and the Ink Machine
+- id: berserk
+  name: Berserk
+- id: beyblade-burst
+  name: Beyblade Burst
+- id: blue-lock
+  name: Blue Lock
+- id: bones
+  name: Bones
+- id: breaking-bad-better-call-saul
+  name: Breaking Bad / Better Call Saul
+  aliases:
+  - Breaking Bad | Better Call Saul
+  - 'BCS + BB:'
+  - Breaking Bad
+  - Better Call Saul
+- id: bungo-stray-dogs
+  name: Bungo Stray Dogs
+  aliases:
+  - BUNGOU STRAY DOGS
+- id: c-auguste-dupin
+  name: C. Auguste Dupin
+- id: call-of-duty
+  name: Call of Duty
+- id: call-of-duty-zombies
+  name: Call of Duty Zombies
+- id: case-closed
+  name: Case Closed
+  aliases:
+  - Detective Conan
+- id: cat-country
+  name: Cat Country
+- id: classroom-of-the-elite
+  name: Classroom of the Elite
+  aliases:
+  - 'COTE:'
+  - COTE
+- id: code-geass
+  name: Code Geass
+- id: counter-side
+  name: Counter:Side
+- id: creepypasta
+  name: Creepypasta
+- id: danganronpa
+  name: Danganronpa
+  aliases:
+  - 'DANGANRONPA:'
+- id: dc-comics
+  name: DC Comics
+  aliases:
+  - DC Comics | DC Expanded Universe
+  - 'DC COMICS/MOVIES:'
+  - DCEU
+- id: death-note
+  name: Death Note
+  aliases:
+  - 'DEATH NOTE:'
+- id: deltarune
+  name: Deltarune
+- id: detective-mitarai
+  name: Detective Mitarai
+- id: detroit-become-human
+  name: 'Detroit: Become Human'
+- id: dexter
+  name: Dexter
+  aliases:
+  - DEXTER
+- id: dies-irae
+  name: Dies Irae
+- id: doki-doki-literature-club
+  name: Doki Doki Literature Club!
+- id: dr-frost
+  name: Dr. Frost
+  aliases:
+  - 'DR.FROST:'
+- id: dr-stone
+  name: Dr. Stone
+- id: dragon-ball
+  name: Dragon Ball
+- id: dune
+  name: Dune
+- id: durarara
+  name: Durarara!!
+- id: fate
+  name: Fate
+  aliases:
+  - 'FATE:'
+  - Type-Moon
+- id: fathers-and-sons
+  name: Fathers and Sons
+- id: fight-club
+  name: Fight Club
+- id: five-nights-at-freddy-s
+  name: Five Nights at Freddy's
+  aliases:
+  - Five Nights at Freddy’s
+  - FNAF
+  - 'FNAF | MISCELLANEOUS:'
+- id: food-wars
+  name: Food Wars!
+- id: for-honor
+  name: For Honor
+- id: frieren
+  name: Frieren
+- id: ghost-of-tsushima
+  name: Ghost of Tsushima
+- id: god-of-war
+  name: God of War
+- id: halloween
+  name: Halloween
+- id: hannibal
+  name: Hannibal
+  aliases:
+  - Hannibal Lecter series
+- id: happy-hills-homicide
+  name: Happy Hills Homicide
+- id: honkai-impact-3rd
+  name: Honkai Impact 3rd
+- id: honkai-star-rail
+  name: 'Honkai: Star Rail'
+  aliases:
+  - HSR
+- id: hoyoverse
+  name: HoYoverse
+- id: hyouka
+  name: Hyouka
+- id: i-care-a-lot
+  name: I Care a Lot
+- id: i-have-no-mouth-and-i-must-scream
+  name: I Have No Mouth, and I Must Scream
+- id: ichiban-ushiro-no-daimaou
+  name: Ichiban Ushiro no Daimaou
+- id: invincible
+  name: Invincible
+- id: jujutsu-kaisen
+  name: Jujutsu Kaisen
+- id: jurassic-world
+  name: Jurassic World
+- id: kaguya-sama-love-is-war
+  name: 'Kaguya-sama: Love Is War'
+- id: kaiji
+  name: Kaiji
+- id: kakegurui
+  name: Kakegurui
+  aliases:
+  - KAKEGURUI
+- id: kingdom-hearts
+  name: Kingdom Hearts
+- id: konosuba
+  name: KonoSuba
+- id: land-of-the-lustrous
+  name: Land of the Lustrous
+- id: liar-game
+  name: Liar Game
+  aliases:
+  - 'LIAR GAME:'
+- id: lies-fraud-and-psychic-ability-school
+  name: Lies, Fraud, and Psychic Ability School
+- id: lincoln-rhyme
+  name: Lincoln Rhyme
+- id: lord-of-the-mysteries
+  name: Lord of the Mysteries
+- id: lupin
+  name: Lupin
+- id: magic-emperor
+  name: Magic Emperor
+- id: mario-luigi
+  name: Mario & Luigi
+- id: marvel
+  name: Marvel
+- id: medium
+  name: Medium
+- id: minecraft
+  name: Minecraft
+  aliases:
+  - MINECRAFT
+- id: miraculous
+  name: Miraculous
+- id: miside
+  name: MiSide
+- id: miss-marple
+  name: Miss Marple
+- id: monster
+  name: Monster
+- id: moriarty-the-patriot
+  name: Moriarty the Patriot
+- id: mrozoverse
+  name: Mrozoverse
+- id: my-teen-romantic-comedy-snafu
+  name: My Teen Romantic Comedy SNAFU
+  aliases:
+  - Oregairu
+- id: neuro-supernatural-detective
+  name: 'Neuro: Supernatural Detective'
+- id: no-game-no-life
+  name: No Game No Life
+  aliases:
+  - 'NGNL:'
+  - NGNL
+- id: omniscient-reader-s-viewpoint
+  name: Omniscient Reader's Viewpoint
+- id: oshi-no-ko
+  name: Oshi no Ko
+- id: paradise-lost
+  name: Paradise Lost
+- id: prison-break
+  name: Prison Break
+- id: psych
+  name: Psych
+- id: psycho-pass
+  name: Psycho-Pass
+- id: ravages-of-time
+  name: Ravages of Time
+- id: re-zero
+  name: Re:Zero
+  aliases:
+  - 'RE: Zero'
+- id: real-life
+  name: Real Life
+  aliases:
+  - Real Life Historical Figures
+  - 'Real Life Historical Humans:'
+  - 'Real Life Historical Humans: | MISCELLANEOUS:'
+- id: record-of-ragnarok
+  name: Record of Ragnarok
+- id: red-vs-blue
+  name: Red vs. Blue
+- id: regular-show
+  name: Regular Show
+- id: reverend-insanity
+  name: Reverend Insanity
+- id: rick-and-morty
+  name: Rick and Morty
+- id: ron-kamonohashi-s-forbidden-deductions
+  name: Ron Kamonohashi's Forbidden Deductions
+- id: rwby
+  name: RWBY
+- id: saw
+  name: Saw
+- id: scp-foundation
+  name: SCP Foundation
+  aliases:
+  - SCP
+  - 'SCP | MISCELLANEOUS:'
+- id: scream
+  name: Scream
+- id: se7en
+  name: Se7en
+- id: sherlock-holmes
+  name: Sherlock Holmes
+- id: sonic-the-hedgehog
+  name: Sonic the Hedgehog
+- id: soulsborne
+  name: Soulsborne
+- id: south-park
+  name: South Park
+- id: spiral-the-bonds-of-reasoning
+  name: 'Spiral: The Bonds of Reasoning'
+- id: squid-game
+  name: Squid Game
+- id: star-vs-the-forces-of-evil
+  name: Star vs. the Forces of Evil
+- id: star-wars
+  name: Star Wars
+- id: tenet
+  name: Tenet
+- id: the-blacklist
+  name: The Blacklist
+- id: the-boiled-one-phenomenon
+  name: The Boiled One Phenomenon
+- id: the-count-of-monte-cristo
+  name: The Count of Monte Cristo
+- id: the-dark-tower
+  name: The Dark Tower
+- id: the-death-notice
+  name: The Death Notice
+- id: the-detective-is-already-dead
+  name: The Detective Is Already Dead
+  aliases:
+  - 'The Detective Is Already Dead:'
+  - TDIAD
+- id: the-devotion-of-suspect-x
+  name: The Devotion of Suspect X
+- id: the-divine-comedy
+  name: The Divine Comedy
+- id: the-elder-scrolls
+  name: The Elder Scrolls
+- id: the-eminence-in-shadow
+  name: The Eminence in Shadow
+- id: the-idiot
+  name: The Idiot
+- id: the-incredibles
+  name: The Incredibles
+- id: the-irregular-at-magic-high-school
+  name: The Irregular at Magic High School
+- id: the-mandela-catalogue
+  name: The Mandela Catalogue
+- id: the-mentalist
+  name: The Mentalist
+  aliases:
+  - 'THE MENTALIST:'
+- id: the-owl-house
+  name: The Owl House
+- id: the-promised-neverland
+  name: The Promised Neverland
+- id: the-saga-of-tanya-the-evil
+  name: The Saga of Tanya the Evil
+  aliases:
+  - Youjo Senki
+- id: tokyo-ghoul
+  name: Tokyo Ghoul
+- id: tomodachi-game
+  name: Tomodachi Game
+  aliases:
+  - 'TOMODACHI GAME:'
+- id: toy-story
+  name: Toy Story
+- id: transformers
+  name: Transformers
+- id: umineko
+  name: Umineko
+  aliases:
+  - Umineko no Naku Koro ni
+- id: undertale-aus
+  name: Undertale AUs
+- id: usogui
+  name: Usogui
+  aliases:
+  - 'USOGUI:'
+- id: v-for-vendetta
+  name: V for Vendetta
+- id: watership-down
+  name: Watership Down
+- id: whiplash
+  name: Whiplash
+- id: wifies
+  name: Wifies
+- id: wuthering-waves
+  name: Wuthering Waves
+- id: you
+  name: You
+- id: your-turn-to-die
+  name: Your Turn to Die
+  aliases:
+  - 'YTTD:'
+  - YTTD
+- id: yu-gi-oh
+  name: Yu-Gi-Oh!
+- id: yu-yu-hakusho
+  name: Yu Yu Hakusho
+- id: zero-escape
+  name: Zero Escape

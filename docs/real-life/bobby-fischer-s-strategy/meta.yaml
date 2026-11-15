@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bobby-fischer-s-strategy
+category: doc
+title: Bobby Fischer's Strategy
+authors:
+- name: umontrose [
+  source: doc-text
+- name: Youtube
+  source: doc-text
+- name: Tiktok]
+  source: doc-text
+series:
+- real-life
+characters:
+- bobby-fischer
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1R_OBSBvU7yqWM0k65Psh7MZPGyoqH2C77fdPDdHXcyk/edit?usp=drivesdk
+    google_id: 1R_OBSBvU7yqWM0k65Psh7MZPGyoqH2C77fdPDdHXcyk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1697
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2668636
+      sha256: ef31350bbbdc4d0e7f42aa751ac02cab7de9c5a3be1ebcae951954527b7701be
+    - format: docx
+      name: document.docx
+      bytes: 3849942
+      sha256: 2593982e20e907a4aabe49547b37723d74cb7fb35c38ceb364fb39502e0fe617
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Bobby Fischer's strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

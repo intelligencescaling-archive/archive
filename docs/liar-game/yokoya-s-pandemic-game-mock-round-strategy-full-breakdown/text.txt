@@ -1,0 +1,111 @@
+r/IntelligenceScaling - Yokoya's Pandemic Simulation strategy FULL BREAKDOWN analysis +MOST OVERLOOKED / HIDDEN Infection-Spread Frameworks REASONING FEAT
+
+A vastly overlooked feat is that Yokoya inferred the same underlying infection-spread frameworks that Akiyama later reverse-engineered from the monitor's display of the mock round results.
+Immediately after checking his status and learning that he was INFECTED, Yokoya devised a strategy to exploit that very status. He consequently worked through the possible infection-spread frameworks to determine whether his strategy was viable, much like Akiyama did in RO4K, where he systematically calculated all 300+ combinations to validate his Stalemate plan.
+By the time Yokoya accepted Nao's proposal for the INFECTED players to reveal themselves and the NORMAL players to cooperate in producing vaccines, he had already worked through every infection-spread framework and established the viability of his infection strategy.
+P1: The mock round rewards the top three players by allowing them to begin the main game as NORMAL.
+P2: Yokoya is randomly assigned the INFECTED status.
+P3: A player who remains INFECTED cannot occupy one of the three NORMAL positions.
+C1: Based on P1–P3, Yokoya recognizes that remaining INFECTED until the end would prevent him from achieving his objective, so he looks for a way to exploit his INFECTED status while ultimately becoming NORMAL before the final ranking.
+Identifying the Apparent Infection Limit
+P4: The ordinary contact sequence determines the order in which players make their prescribed contacts and, consequently, their subsequent contact opportunities.
+P5: An INFECTED player can infect a NORMAL player through direct contact.
+P6: An INFECTED player entering the ordinary sequence has a limited number of opportunities to make such contacts.
+P7: Under the ordinary sequence, one INFECTED player can infect at most two additional players.
+P8: With the two original INFECTED players entering the sequence normally, the ordinary sequence can produce at most four additional infections.
+C2: Based on P4–P8, Yokoya recognizes that the apparent four-infection limit is caused by the ordinary contact order restricting the number of opportunities available to the original INFECTED players.
+Identifying Infection Timing as the Exploitable Variable
+P9: A player who becomes INFECTED earlier has more subsequent contact opportunities than a player who becomes INFECTED later.
+P10: A player infected before his prescribed contact in the sequence can participate in additional subsequent contacts while INFECTED.
+C3: Based on P9 and P10, Yokoya identifies infection timing as the exploitable variable: infecting players before their prescribed contacts gives them additional opportunities to spread the infection.
+Creating Additional INFECTED Sources
+P11: Yokoya is INFECTED.
+P12: Yokoya can make contacts with NORMAL players before the ordinary sequence fully restricts his opportunities.
+P13: Yokoya can contact four NORMAL players during this preliminary period.
+P14: A player who becomes INFECTED during this preliminary period can participate in the remaining contact sequence while INFECTED.
+C4: Based on P11–P14, Yokoya determines that he can infect four NORMAL players before their prescribed contacts, thereby creating four additional INFECTED sources.
+C5: Based on C4, Yokoya determines that these additional INFECTED sources create further opportunities for infection during the remaining sequence, allowing the infection to spread beyond the apparent four-infection limit.
+Solving the Concealment Problem
+P15: Yokoya intends to exploit his INFECTED status while remaining hidden from the other players.
+P16: If the other players discover that Yokoya is INFECTED, they can identify him as a source of the infection and interfere with his strategy.
+P17: Two cooperating NORMAL players can falsely present themselves as INFECTED.
+P18: Fatty is NORMAL.
+P19: Bangs is NORMAL.
+P20: Fatty and Bangs have agreed to follow Yokoya's instructions.
+Contextual insight
+Before the game was revealed, Yokoya bribed Fatty and Bangs, telling them not to think too much about the money he had just given them, as he claimed to know everyone within the LGT office and therefore knew how to win. He assured them that if they followed his instructions, they would win as well. Through this arrangement, Yokoya secured their cooperation before the mock round even began.
+C6: Based on P15–P20, Yokoya determines that Fatty and Bangs can conceal his INFECTED status by falsely presenting themselves as INFECTED while remaining genuinely NORMAL.
+Contextual insight
+Yokoya has therefore addressed two problems necessary to exploit his INFECTED status: expanding the infection beyond the ordinary sequence's apparent limit and concealing himself as the actual source of the infection.
+However, expanding the infection and concealing his status are not sufficient to achieve his ultimate objective. He must also find a way to return to NORMAL before the mock round ends while preserving Fatty and Bangs' NORMAL statuses.
+Nao's Proposal
+P21: Nao proposes that the INFECTED players reveal themselves.
+P22: Once the INFECTED players are identified, the NORMAL players can cooperate in performing the contact sequence.
+P23: The ordinary sequence allows NORMAL players to accumulate vaccines.
+P24: The accumulated vaccines can be used to neutralize INFECTED players.
+C7: Based on P21–P24, Yokoya recognizes that Nao's proposal provides a favorable arrangement through which he can execute his existing infection strategy while creating an opportunity to return to NORMAL.
+Contextual transition
+Although the other players initially doubt Nao's proposal, Yokoya raises his hand and announces that he will cooperate. He explains that, since there is no money involved in the mock round, there is no reason to waste time.
+Yokoya then quickly evaluates the numerical requirements of the proposed cooperation and states:
+"In the ideal situation, after the two 'Infected' identify themselves, it will only require 5 'Normal' players to save them. In the end, even the 'Infected' can obtain 4 vaccines. If I join, we'll be 6 people on board; we just need one more player to execute this strategy."
+After Yokoya explains his calculation, Fatty announces that he will help. Subsequently, all the other players raise their hands and agree to cooperate.
+Execution of the Infection Strategy
+P25: Fatty claims to be INFECTED.
+P26: Bangs claims to be INFECTED.
+P27: The group proceeds under the assumption that the two INFECTED players have been identified.
+P28: Yokoya remains genuinely INFECTED.
+P29: Yokoya makes contact with four NORMAL players before the ordinary sequence fully restricts his opportunities.
+P30: Those four players become INFECTED.
+P31: Those four newly INFECTED players participate in the remaining contact sequence.
+C8: Based on P29–P31, Yokoya's early infections create additional INFECTED sources that can participate in the remaining sequence, providing further opportunities for infection to spread.
+P32: The infection propagates through the remaining sequence.
+P33: Fatty and Bangs remain genuinely NORMAL.
+C9: Based on P32 and P33, the infection spreads without compromising the two NORMAL players reserved for Yokoya's eventual return to NORMAL.
+Contextual transition
+While some players hesitate to make contact, Yokoya acts first and contacts four players. Meanwhile, Glasses, the other genuinely INFECTED player, does not identify himself because Fatty and Bangs have already claimed to be INFECTED.
+As the other players begin cooperating and making contact, Glasses has little opportunity to clarify the situation before the process proceeds. Consequently, both Yokoya and Glasses spread the infection through their contacts, with Yokoya being the more aggressive of the two.
+Returning to NORMAL
+P34: Two NORMAL players contacting each other generate a vaccine dose for each player.
+P35: Bangs (NORMAL) and Fatty (NORMAL) make secret contact with each other, each accumulating one vaccine dose (both becoming NORMAL+1).
+P36: Fatty (NORMAL+1) contacts Yokoya (INFECTED); this cures Yokoya (he turns NORMAL), while Fatty becomes INFECTED.
+P37: Bangs (NORMAL+1) contacts Yokoya (NORMAL); since both are NORMAL, each receives a vaccine dose, leaving Bangs at NORMAL+2 and Yokoya at NORMAL+1.
+P38: Bangs (NORMAL+2) contacts Fatty (INFECTED); this cures Fatty (he turns NORMAL), while Bangs becomes INFECTED with one vaccine dose remaining (INFECTED+1).
+P39: Bangs executes "ACTIVATE" on his watch using his remaining vaccine dose to convert his status from INFECTED+1 to NORMAL.
+C10: Based on P34–P39, the vaccine sequence allows Yokoya to return to NORMAL while also ensuring that Fatty and Bangs finish as NORMAL.
+Contextual transition
+After the NORMAL players have completed their contacts with one another, Nao suggests that they should begin contacting the INFECTED players. However, Akiyama stops her and suggests that everyone check their statuses first.
+Nao discovers that she is INFECTED+0. The other players subsequently check their statuses and discover that they have also become INFECTED+0. By then, time has already expired.
+P40: The remaining nine players are INFECTED.
+P41: Yokoya, Fatty, and Bangs are the only three players who finish the mock round as NORMAL.
+C11: Based on P1, P40, and P41, Yokoya, Fatty, and Bangs occupy the three winning positions and receive the reward of beginning the main game as NORMAL.
+Canon timeline/summary
+Yokoya recruits Fatty and Bangs before the game, bribing them to secure their cooperation.
+→ learns that he is INFECTED.
+→ recognizes that remaining INFECTED would prevent him from achieving his objective.
+→ identifies the apparent four-infection limit.
+→ identifies infection timing as the exploitable variable.
+→ determines that early infections can create additional INFECTED sources.
+→ determines that those additional sources can spread the infection beyond the apparent four-infection limit.
+→ solves the concealment problem by having Fatty and Bangs falsely present themselves as INFECTED while remaining genuinely NORMAL.
+→ Nao proposes the reveal-and-vaccine procedure.
+→ Yokoya recognizes that Nao's proposal provides favorable circumstances for executing his existing strategy.
+→ quickly calculates the numerical requirements of the proposed cooperation and announces his willingness to participate.
+→ Fatty agrees to help, followed by the remaining players.
+→ Fatty and Bangs falsely identify themselves as INFECTED.
+→ Yokoya carries out the four early infections.
+→ those four players participate in the remaining sequence as additional INFECTED sources.
+→ together with Glasses, the infection spreads throughout the group while Fatty and Bangs remain NORMAL.
+→ Bangs and Fatty secretly contact each other to reach NORMAL+1 each.
+→ Fatty (NORMAL+1) contacts Yokoya (INFECTED) → Yokoya becomes NORMAL, Fatty becomes INFECTED.
+→ Bangs (NORMAL+1) contacts Yokoya (NORMAL) → Bangs becomes NORMAL+2, Yokoya becomes NORMAL+1.
+→ Bangs (NORMAL+2) contacts Fatty (INFECTED) → Fatty becomes NORMAL, Bangs becomes INFECTED+1.
+→ Bangs presses "ACTIVATE" to convert from INFECTED+1 to NORMAL.
+→ Yokoya (NORMAL+1), Fatty (NORMAL), and Bangs (NORMAL) occupy the top three positions as the only three NORMAL players and earn the main game reward.
+Yokoya's strategy therefore consists of three interconnected stages: expanding the infection through early infections, concealing his own INFECTED status while preserving Fatty and Bangs' NORMAL statuses, and ultimately reversing his INFECTED status while ensuring both Fatty and Bangs remain NORMAL to monopolize the top winning positions.
+The chronological distinction is clear: Yokoya develops the infection-spread, concealment, and trio-preservation strategy before Nao proposes cooperation. Nao's proposal subsequently provides circumstances under which Yokoya executes his existing strategy, while Fatty and Bangs' preserved NORMAL status enables his return to NORMAL and eventually clears all infections within the trio.
+Akiyama's Pandemic Virus CPI.pdf(relative time frame_reasoning-basedCPIcounterpart)
+stuff:
+C2: Based on P4–P8, Yokoya recognizes that the apparent four-infection limit is caused by the ordinary contact order restricting the number of opportunities available to the original INFECTED players.
+ Image de commentaire
+
+Additional Insight (layered W): https://www.reddit.com/r/IntelligenceScaling/comments/1wg0rph/comment/p9qoqqz/

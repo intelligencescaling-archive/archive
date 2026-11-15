@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jins-forest-exam-plan
+category: doc
+title: Jin’s Forest Exam Plan
+alt_titles:
+- Jin Kirihara Forest exam plan
+authors: []
+series:
+- lies-fraud-and-psychic-ability-school
+characters:
+- jin-kirihara
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10maQT_1ecKRNhIg_nOfkYW2rF-agZPKbSadsMCXNFCs/edit?usp=drivesdk
+    google_id: 10maQT_1ecKRNhIg_nOfkYW2rF-agZPKbSadsMCXNFCs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 4371
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 183262
+      sha256: 18a3b623960eddc286e7aeb629081e30d30cea6760fb734d04bb1c4748a5e72b
+    - format: docx
+      name: document.docx
+      bytes: 19662
+      sha256: 8cdf735c5af80ff7441d7ca822de42ad6c8d5b1b710ecd4d22664b3453bd3581
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jin Kirihara Forest exam plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

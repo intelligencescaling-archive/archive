@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: re-zero-documents
+category: doc
+title: Re:Zero documents
+alt_titles:
+- 'RE: Zero SCD docs'
+authors: []
+series:
+- re-zero
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1KHgElUe6K_6Q7oyBs5n9SplToTA0CmgyiaSYdIfqz_s/edit?usp=drivesdk
+    google_id: 1KHgElUe6K_6Q7oyBs5n9SplToTA0CmgyiaSYdIfqz_s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 116
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 61465
+      sha256: 70807a693d04b3f37de95906b287e14e41e3fc718877c8e27c82d593668adfa1
+    - format: docx
+      name: document.docx
+      bytes: 7933
+      sha256: f4657629bc989fada8a92d6d868ce6d4e494a3907fafb4be3a99cdd03d0ada02
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: 'RE: Zero SCD docs'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

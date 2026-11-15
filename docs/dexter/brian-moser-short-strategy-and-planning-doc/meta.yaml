@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: brian-moser-short-strategy-and-planning-doc
+category: doc
+title: Brian Moser Short Strategy and Planning Doc
+authors:
+- name: umogrimes
+  source: doc-text
+- name: tt
+  source: doc-text
+- name: yt
+  source: doc-text
+series:
+- dexter
+characters:
+- brian-moser
+tags:
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1rFZ_z9IYe0tZvSnWOoTa3NePfQzWegZQdoSTllXQWBo
+    google_id: 1rFZ_z9IYe0tZvSnWOoTa3NePfQzWegZQdoSTllXQWBo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2468
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1314599
+      sha256: e97cd1cb951526fb52834aa55f9e5cabcd2998f280febac2eb4936a14528a35d
+    - format: docx
+      name: document.docx
+      bytes: 1204995
+      sha256: df2ceda66b75ea00a2ff1d6b8539dbf3a69c74e38b683ca4283e5f2d7605facb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: DEXTER
+  link_text: Brian Moser short strategy and planning doc
+- library: remastered
+  section: Dexter
+  character: Brian Moser
+  link_text: Brian Moser Short Strategy and Planning Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-blind-observer
+category: story
+title: The Blind Observer
+authors: []
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1RLfjV_nF4PcmYRJAbVjQtmrotoFkv2xIiXOxDyRJxVs/edit?tab=t.0
+    google_id: 1RLfjV_nF4PcmYRJAbVjQtmrotoFkv2xIiXOxDyRJxVs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 17352
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 501164
+      sha256: a7b34760a7ceb9d6b8b20ac0a0b35a57f38d700bcb9068cc5d634e3b5baf099c
+    - format: docx
+      name: document.docx
+      bytes: 53251
+      sha256: ae01eedbf0135832729709cddb114c9a2352113692ec39b443b6bd1dde6c679d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: stories
+  section: T
+  link_text: The Blind Observer
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

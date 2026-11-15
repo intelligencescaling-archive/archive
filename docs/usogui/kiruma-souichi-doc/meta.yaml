@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiruma-souichi-doc
+category: doc
+title: Kiruma Souichi DOC
+alt_titles:
+- Hal document
+authors:
+- name: Hypervenomxtreme 2.0
+  source: doc-text
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1dCxZdwSWEKFi3GPzZH4hdfulugX2DJjuEqPqMFNStsw
+    google_id: 1dCxZdwSWEKFi3GPzZH4hdfulugX2DJjuEqPqMFNStsw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 142
+    words: 49079
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19156395
+      sha256: 1de370ef76cdef034e4c504f2335fbd5a909686e454e134c391da6779e878fe8
+    - format: docx
+      name: document.docx
+      bytes: 17460008
+      sha256: 18550e684776740b3eb6e708149912bd048964c2784296c4aa6ec6ed72d09ceb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DOCS I MADE:'
+  link_text: Hal document
+  note: (contains his feats from all the arcs where he appeared including the Coin Pushing game, Battleship, Protoporos, Air Poker and the STL too)
+- library: old
+  section: 'USOGUI:'
+  link_text: Kiruma Souichi Doc
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Kiruma Souichi DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

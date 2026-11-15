@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: reputation-narrowing-doc
+category: doc
+title: Reputation Narrowing Doc
+alt_titles:
+- Kuze Masachika Reputation Narrowing doc
+- Yuki Suou Reputation Narrowing doc
+authors: []
+series:
+- alya-sometimes-hides-her-feelings-in-russian
+characters:
+- masachika-kuze
+- yuki-suou
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jEg3lOuuPEhDoqC2pwMdO-iCNHI5s7DRsv0ecnpGxyo
+    google_id: 1jEg3lOuuPEhDoqC2pwMdO-iCNHI5s7DRsv0ecnpGxyo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 131
+    words: 12625
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 20873427
+      sha256: 469cc645c8ea46713c1888c0f515e5a60c15e74a38c52a6d88556954056fedf5
+    - format: docx
+      name: document.docx
+      bytes: 19224264
+      sha256: 1140af8cac20db872086e7aa1188039b5b9c18672834814f156ba9674d82174a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kuze Masachika Reputation Narrowing doc
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Yuki Suou Reputation Narrowing doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

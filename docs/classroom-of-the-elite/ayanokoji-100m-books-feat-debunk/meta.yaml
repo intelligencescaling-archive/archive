@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-100m-books-feat-debunk
+category: doc
+title: Ayanokoji 100M books feat debunk
+alt_titles:
+- Koji's 100 million books CPI feat debunk
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+- debunk
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1cScc7wxmHx3y5tJs2i_YVC9rdrmWgIH8JzVU7hYEZ8o/edit?usp=drivesdk
+    google_id: 1cScc7wxmHx3y5tJs2i_YVC9rdrmWgIH8JzVU7hYEZ8o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 106
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 59377
+      sha256: de6886e139e3922f16c0fc54ed6263ff5092aaaa18036eda1e3c9d80360ae35e
+    - format: docx
+      name: document.docx
+      bytes: 626337
+      sha256: a75864c29f4b88c0936cd19122b9887726fba11f9b768118bb64160ad46b911d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's 100 million books CPI feat debunk
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokoji 100M books feat debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

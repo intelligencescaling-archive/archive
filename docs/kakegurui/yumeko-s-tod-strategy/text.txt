@@ -1,0 +1,172 @@
+A summarized analysis explaining Yumeko’s tactical approach in her bet against Sayaka Igarashi in the Tower of Doors
+By: Cento & Hayatoz
+
+Chapters 30-33
+Rules
+Chapter 30
+
+Before entering the Tower, Yumeko had predicted that Kirari had prepared this tower with the intention of using it for the gamble, so she kept an eye on the exterior of the tower before entering, including the relative position of the moon outside in relation to the Tower. [WMI + VSI + Abductive Reasoning + Prediction + Emotional Understanding]
+
+Round 1
+
+After the first interval, Yumeko uses her own turn to check the middle door, which turned “5” to “12C” once the interval clocked in into Yumeko’s turn, however, she also makes sure to misdirect Sayaka to stop her from reading her answer for the door, and the door leads nowhere as it was closed off by a solid wall, even though they just came from it. [Bluffing]
+
+This also means Yumeko immediately deduced that the numbers on the doors were hexadecimal numbers and converted them all within moments. [PSI + WMI + Knowledge Application + Observation]
+
+Sayaka’s turn came over, and she looked at the numbers on the walls and deduced they were hexadecimal numbers. She then translates these numbers into decimal notation, revealing they are angles. She further confirmed this as the numbers changed, but their order did not. 12c in the Center Door translates to 300°.
+
+Yumeko: F5 (doesn’t move)
+Sayaka: F5 -> F4
+
+Hexadecimal to Decimal Conversion Feat Calculation (Hex Conversion Feat):
+So, as stated above, both Yumeko and Sayaka were able to convert all the hexadecimal numbers to decimal in moments after looking and realizing that they were in hex format.
+The numbers are: b4, f0, 12c, 168, 78, 3c.
+
+Conversion Example:
+ Interface gráfica do usuário, Texto, Aplicativo
+
+Descrição gerada automaticamente
+
+* B4 Conversion:
+Step 1:
+4 -> 16^0 = 1
+b -> 16^1 = 16
+
+Step 2:
+4 ->
+1*4 = 4
+b ->
+16*b (11) = 176
+
+Step 3:
+176 + 4 = 180
+
+* F0 Conversion:
+Step 1:
+0 -> 16^0 = 1
+f -> 16^1 = 16
+
+Step 2:
+0 ->
+1*0 = 0
+f ->
+16*f (15) = 240
+
+Step 3:
+240 + 0 = 240
+
+* 12c Conversion:
+Step 1:
+c -> 16^0 = 1
+2 -> 16^1 = 16
+1 -> 16^2 = 256
+
+Step 2:
+c ->
+1*c (12) = 12
+2 ->
+16*2 = 32
+1 ->
+256*1 = 256
+
+Step 3:
+ 256 + 32 + 12 = 300
+
+* 168 Conversion:
+Step 1:
+8 -> 16^0 = 1
+6 -> 16^1 = 16
+1 - > 16^2 = 256
+
+Step 2:
+8 ->
+1*8 = 8
+6 ->
+16*6 = 96
+1 ->
+256*1 = 256
+
+Step 3:
+256 + 96 + 8 = 360
+
+* 78 Conversion:
+Step 1:
+8 -> 16^0 = 1
+7 -> 16^1 = 16
+
+Step 2:
+8 ->
+1*8 = 8
+7 ->
+16*7 = 112
+
+Step 3:
+112 + 8 = 120
+
+* 3c Conversion:
+Step 1:
+c -> 16^0 = 1
+3 -> 16^1 = 16
+
+Step 2:
+c ->
+1*c (12) = 12
+3 ->
+16*3 = 48
+
+Step 3:
+48 + 12 = 60
+
+Adding up the number of all the digits processed/manipulated in their minds in each conversion gives us a total number of 184.
+These conversions happened from one manga page to another, so they were extremely quick. Here are the estimations of the time span:
+
+* High-ball: 1 second -> 184 ÷ 1 = 184 informations in one second
+* Mid-ball: 3 seconds -> 184 ÷ 3 = 61.33 informations in one second
+* Low-ball: 5 seconds -> 184 ÷ 5 = 36.8 informations in one second
+
+Round 2
+
+After another interval, however, since Yumeko had found out that the middle door wasn’t working, she next tried to observe the outside of the tower, using the only landmark, the moon. And when she does, she figures out everything about the tower, as the moon wasn’t in the same relative location it was, as Yumeko first assumed (like Sayaka) that the outer doors were rotating, she should’ve seen the moon from the door “78”, but it wasn’t.
+
+Yumeko assigns the x-axis to represent time and the y-axis to represent location within the tower. This means that as time progresses (moving along the x-axis), the location within the tower changes (moving along the y-axis). Yumeko had remembered the relative position of the moon in the sky in relation to the tower. The moon's position and angle can serve as a reliable indicator of time and location, especially in relation to the tower. By comparing the calculated position of the moon based on the time-location coordinates she's established with the actual observed angle of the moon, Yumeko can detect any discrepancies. If the moon's angle doesn't correspond with its expected position based on the time and location within the tower, it indicates that something is wrong.
+
+With this, Yumeko realized that the doors weren’t rotating, but rather, the inside of the tower was, as in, they were. This meant that the moon was still in the position f0, but then that made something not make sense, why was the middle door blocked off? Yumeko tackled this by further deducing that the tower was made of 2 different towers, an inner tower that didn’t rotate, and an outer tower that did, she knew this because she realized that, while the floor doors didn’t change, their numbers when rotations happened, which indicated how many floors they lead down to, the middle door did, but because she opened it when it had “12C”, which is 300, it wasn’t going to lead anywhere. And since the middle door was rotating every turn (aka, at the beginning of each interval), on the 6th turn, it’ll be back to “5”. [Abductive Reasoning + Deductive Reasoning + Perception + Prediction + VSI + Abstract Thinking]
+
+Yumeko: F5 (doesn’t move)
+Sayaka: F4 -> F2
+
+Round 3
+
+Sayaka gets to the final floor, so far playing a perfect game, however, Yumeko after confirming all her hypotheses and understanding the working mechanism of the tower, decides to get down in 3 turns, so she can use the middle door right on the turn when she’s on the first floor, making her finish the tower in 4 turns, which is the least amount of moves possible from her position. However, a more important reason was for her to drop Sayaka’s guard, as she realized that Sayaka’s purely logical mind would cause her to doubt the simplicity of the game, so she might risk her 4th turn to confirm if the middle door truly doesn’t open, and it won’t, which would give Yumeko the time she needs to move. [Emotional Understanding + Logical Manipulation + Inductive Reasoning + Prediction + Tactics]
+
+Sayaka gets to the first floor.
+
+Yumeko: F5 -> F3
+Sayaka: F2 -> F1
+
+Round 4
+
+Sayaka is on the first floor, and per the rotation, Yumeko should play first for the round, so Yumeko, instead of going directly to floor 1, which would satisfy Sayaka’s fear and let her win by outpacing Yumeko; Yumeko instead only moves to the second floor, which instills fear and doubt into Sayaka’s turn, so she tries the middle door instead of moving up just to make sure she isn’t missing some detail. [Indirect/Emotional/Logical Manipulation + Emotional Understanding + Decision-Making]
+
+Yumeko: F3 -> F2
+Sayaka: F1 (doesn’t move)
+
+Round 5
+
+Yumeko finally appears on the first floor, and this deceives Sayaka into believing that Yumeko is in fact totally behind her, and if Sayaka plays a perfect game now, there is no way that Yumeko could catch up. [Concealment]
+
+Yumeko: F2 -> F1
+Sayaka: F1 -> F3
+
+Round 6
+
+Yumeko solves the problem on the middle door and climbs to the 5th floor on her own turn. Sayaka’s turn comes, and she solves the problems she needs quickly, when she reaches the 5th floor, she finds Yumeko waiting for her next to Kirari.
+
+Despite having her own life and very source of happiness, gambling, being on the line, Yumeko didn’t falter for a single moment throughout the entire gamble. [Emotional Management]
+
+Lastly, to note, all the problems Sayaka solved, including the Mahjong and Chess problems, should be solvable by Yumeko far quicker than Sayaka both narratively and by in-verse feats/statements. [PSI + Knowledge Application + Overall Knowledge]
+
+Yumeko: F1 -> F5
+Sayaka: F3 -> F5
+
+Yumeko utilized a series of complex deductions and intricate decision-making to adapt to her initial mistake and managed to clear the Tower of Doors against Sayaka, further showcasing her ability to adapt, plan under pressure, and analyze abstract concepts on the spot.

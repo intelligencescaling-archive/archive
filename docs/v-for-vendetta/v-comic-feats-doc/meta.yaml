@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: v-comic-feats-doc
+category: doc
+title: V Comic Feats Doc
+authors: []
+series:
+- v-for-vendetta
+characters:
+- v
+variant: Comic
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1wWgUYGXxWlrUQZ6PrQZFMFLJTUu11S8Y8zkcApsh_KE
+    google_id: 1wWgUYGXxWlrUQZ6PrQZFMFLJTUu11S8Y8zkcApsh_KE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2164
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 137670
+      sha256: 726ccf1774464cbbf20effe0e129bd396ee6ea2268211f1ba4d3e245f2751587
+    - format: docx
+      name: document.docx
+      bytes: 30269
+      sha256: aeedf2a56de2cc0b6537d11357f24da84c32ceeb481e88a1aaa7664591a3a7d5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: V comic feats doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

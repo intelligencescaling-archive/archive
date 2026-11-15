@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: brian-moser
+category: doc
+title: Brian Moser
+alt_titles:
+- Novels Brian Moser SCD document
+authors:
+- name: Osbis
+  source: doc-text
+series:
+- dexter
+characters:
+- brian-moser
+variant: Novels
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wxwr7vGQ_CGsTdT5As-oU0R-gbG6vuCZDlEljT_XMCE/edit?usp=drivesdk
+    google_id: 1wxwr7vGQ_CGsTdT5As-oU0R-gbG6vuCZDlEljT_XMCE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 8953
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 764499
+      sha256: eb92470628b9cf441b10e5d0587b3ff39adf3c0e3c88286251cd5a2898299615
+    - format: docx
+      name: document.docx
+      bytes: 1411996
+      sha256: abdd45cac646025e4570ffaaeb3fb893bb6682e084f764d54be980d70d81e15c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: DEXTER
+  link_text: Novels Brian Moser SCD document
+- library: remastered
+  section: Dexter
+  character: Brian Moser - Novels
+  link_text: Brian Moser
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

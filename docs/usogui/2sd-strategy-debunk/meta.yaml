@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 2sd-strategy-debunk
+category: doc
+title: 2SD Strategy Debunk
+alt_titles:
+- Hal's 2SD Strategy Debunk
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- strategy
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15LaBL-GoLhDjMqfYbVGbDBNZfl9Y7_qoeVCBEhAgaWg/edit?usp=drivesdk
+    google_id: 15LaBL-GoLhDjMqfYbVGbDBNZfl9Y7_qoeVCBEhAgaWg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 1810
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 28591526
+      sha256: 0c1e8626cdf0b286adf0aabc62f8309c5013ee3376a1ec5ac54a10ef3f66b303
+    - format: docx
+      name: document.docx
+      bytes: 19385714
+      sha256: 37660486791c87fc8743b4d76e07085c0207c9dc437c9178245aaf041a8b0030
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: 2SD Strategy Debunk
+  note: (for some reason, I can't access it, but it's probably a problem on my end)
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Hal's 2SD Strategy Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

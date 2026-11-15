@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-to-debate-made-by-arcadia
+category: doc
+title: How to debate | Made by Arcadia
+alt_titles:
+- How to debate
+authors: []
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15YHQ9rp8uRKyOXe1l5FegZGiTOPLKwjOdKaIyVraNIA/edit?usp=drivesdk
+    google_id: 15YHQ9rp8uRKyOXe1l5FegZGiTOPLKwjOdKaIyVraNIA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 779
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 132894
+      sha256: 29d38383e7550a1a09d479f6354b910539b9bedd694f74ddc58dba50e67e6f58
+    - format: docx
+      name: document.docx
+      bytes: 49040
+      sha256: 00954054e6c9f82269cb52756d60b186915f2f5c19abc714f0561139201749e0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: How to debate
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

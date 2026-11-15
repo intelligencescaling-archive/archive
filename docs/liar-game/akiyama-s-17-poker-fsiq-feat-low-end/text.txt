@@ -1,0 +1,143 @@
+Akiyama's 17 Poker FSIQ Feat
+By HelloThere1089
+
+This doc will explain my conservative interpretation of the 17 Poker FSIQ feat. This is not necessarily the only possible interpretation, but it is one that avoids wank the most.
+
+The Rules of the Game
+The game 17 Poker follows the rules of normal poker for the most part except a few things. It has 17 cards total instead of a full deck. Secondly it includes a Joker that can take the place of any card on the deck. So if you have a Joker in your hand, you can use it as any of the remaining 16 cards to get the best possible hand from the cards given to you. The other 16 cards include 4 Aces, 4 Jacks, 4 Queens, and 4 Kings. The hierarchy of the hands is as follows:
+
+The shuffling works as follows:
+1. The dealer takes out a fresh deck each round.
+2. Uses riffle shuffles on it.
+3. The dealer asks both players how many cards from the top they wish to cut
+Then the betting starts. The exact rules of betting aren’t really relevant here.
+
+Chronology of important events
+Akiyama notices the dealer’s perfect shuffle during the mock game
+
+Akiyama notices Kikuchi’s strategy during the 4th hand of the actual hand
+
+Likely at the start of hand 5, he realized that the dealer uses a new deck each round. He considered the possibility that every deck has the same order of cards. Akiyama’s theory is confirmed by the 6th hand.
+
+He then states that that’s when he came up with his idea of locating the position of every card in the deck. Akiyama confirms the exact starting order by the 8th hand.
+
+He explains how the perfect shuffle arranges the deck each time
+
+By the 8th shuffle you go back to where you started. Akiyama also states that his goal in the 8th round was to confirm the starting order of the cards. He asked to exchange 5 cards which allowed him to know 10 cards in the deck.
+
+With the knowledge of the patterns of perfect shuffle and the starting order of the cards, Akiyama was able to manipulate the dealer and the game in a way that he’d always have 4 of a kind, a hand that Kikuchi could never beat. With all that out of the way, let’s move on to the interpretation.
+
+*This doc’s purpose is to calculate the “Low End Interpretation”. It also calculates the “Mid End Interpretation” to allow people to make informed choices.
+
+High End Interpretation (Objectively wrong)
+The highest end assumes that Akiyama shuffles the cards in his head every time the dealer does. This is about 17 cards shuffled every second or so. So it comes out to 8.5-17 operations per second. However this is a complete wank and directly contradicts Akiyama’s strategy. Akiyama stated that he calculated the best number of shuffles and THEN manipulated the dealer to force that number of shuffles. So if he only figured out the order after the 8th hand ended, and manipulated the dealer before the 9th hand started, the dealer didn’t have the opportunity to shuffle in front of him which eliminates the possibility of him matching the dealer’s speed of shuffling.
+Mid End Interpretation (Generous but not incorrect)
+This is the mid end interpretation of the feat. In this we assume that Akiyama shuffled the cards in his head after the 8th hand ended and before the 9th hand started. Akiyama couldn’t have known the position of any card in the starting order before the 8th hand since the dealer still used Hindu shuffle before. Thus, we know for a fact that Akiyama confirmed the order during the 8th hand itself. This interpretation assumes that after knowing the exact starting order, Akiyama runs the 8 shuffles in his head using the starting order and decides the number of shuffles necessary for him to win. Between him revealing the 8th hand and him interrupting the dealer for the first time in the 9th hand (he asks the dealer to shuffle one more time to get his desired order) there were around 332 words spoken by all the characters.
+
+PSI Calculation
+Apparently English speakers speak 120 to 150 words per minute in conversations. Secondly, the syllables per second speed of English and Japanese are 6.19 and 7.84 SPS respectively. Using unitary method we can estimate:
+
+135 x (7.84/6.19) = 170.99 or 171 (Low Ball)
+
+Another source lists 193 WPM as the average Japanese reading out loud speed. (Mid Ball)
+Lastly, this article claims 240 WPM as the average Japanese speaking speed. (High Ball)
+
+Using these 3 values we can get a timeframe of
+332/171 = 1.94 minutes (Low Ball)
+332/193 = 1.72 minutes (Mid Ball)
+332/240 = 1.38 minutes (High Ball)
+
+So at the bare minimum, Akiyama had 1.38 minutes (literally assuming no pauses or breaks between speech) to do the following calculation:
+17 Cards x 8 Shuffles = 136 position shifts or operations.
+
+Using the 3 timeframes we can get the PSI in terms of Operations per Second.
+136/(1.94*60) = 1.168 Ops/Sec (Low Ball)
+136/(1.72*60) = 1.318 Ops/Sec (Mid Ball)
+136/(1.38*60) = 1.643 Ops/Sec (High Ball)
+
+I personally think that the WPM should be closer to 240. However the Mid Ball estimate is better as it can account for pauses and breaks.
+
+Benchmarking PSI
+It is important to benchmark in order to compare this feat to the real world norm. Here is a research report on the mean score in the Symbol Digit Modalities Test. This is used to measure processing speed. The report divides the population into demographics and age groups. The highest average score is 58.21 successful symbol substitutions in 90 seconds. According to this the average human PSI would be 0.65 Ops/Sec. So far no documented case of someone scoring 110 is there. However, that would be the theoretical maximum. Considering that the cases are this unknown, we can assume that the peak human PSI should be around 110/90 = 1.22 Ops/Sec. WAIS on the other hand gives mean and max score of Digit Symbol test as 65.98 and 133 successful pairings in 120 seconds. This gives us the average PSI of 0.55 Ops/Sec and peak PSI of 1.11 Ops/Sec. Depending on the methodology you choose, Akiyama has 2x to 2.4x the PSI of the average human IRL, and 1.1x to 1.2x the PSI of the theoretical maximum (using his Mid Ball PSI of 1.318 Ops/Sec). This would put Akiyama in the same ballpark as the peak human in PSI.
+
+I will calculate the WMI of Akiyama in the Low End Interpretation because WMI should not be affected by the timeframe and should be the same in all interpretations.
+
+Low End Interpretation (My Interpretation)
+This interpretation involves the assumption that Akiyama formed his strategy starting the 5 minute break offered after the 6th hand. This is because Akiyama stated that he confirmed Kikuchi’s strategy in the 6th hand as shown above. Right after he states the following:
+
+So it is my reasoning that right after confirming Kikuchi’s strategy, Akiyama started formulating his own strategy. And then he made all the necessary calculations in his head during all the conversation that Nao had with the other team. We know Akiyama wasn’t holding a pen and paper the entire time. Also he technically had time starting from the break, until he interrupted the dealer in the 9th round to calculate all the patterns on the perfect shuffle. However a possible rebuttal to this explanation can be “How can Akiyama run all the patterns in his head if he doesn’t even know the starting order of the deck.” However this is logically possible and actually supported by Akiyama’s explanation. Akiyama knew that the dealer uses a new deck every time as early as the fifth hand. So by the 6th hand he definitely had the logic ready. All he needed were placeholders of all the cards to run in his head and identify the pattern. Here is a visual representation of this in an Excel sheet.
+
+Here I used A, B, C, D as placeholders for the cards in the deck. Here A would be the Joker in the actual order. You can see that we can actually trace A to Joker’s position in Akiyama’s explanation as well. And by the 8th shuffle you can see that the placeholders are in alphabetical order as Akiyama said. So there is no actual need to know the starting order to know the pattern after each shuffle. After creating this table in his head, Akiyama simply needs to replace the placeholders with the actual cards as he finds out their order one by one in the 8th hand. Let me make the table with the actual starting order
+
+I used formulae in this Excel file. For the first 8 positions in a deck, a perfect shuffle changes its position to double its initial rank in the deck. For example the 1st card becomes 2nd, 2nd becomes 4th, 3rd becomes 6th, and so on. The 17th card does not change its position at all. The cards starting from 9th occupy the remaining odd places in order. So 9th becomes 1st, 10th becomes 3rd, 11th becomes 5th, and so on. Once you understand the logic which Akiyama must have caught on pretty early on, it is very predictable. Though I need an Excel sheet or a paper to follow it for 8 shuffles and Akiyama can do it in his mind.
+
+After he had formulated the table in his mind, all he needed to do was to look at the pattern of the shifts in Joker’s position.This way he was able to find the best possible number of shuffles for him. So he essentially had 5 mins + 7th round + 8th round + some of 9th round to calculate the entire table and the best possible pattern for his strategy.
+
+PSI Calculation
+A given timeframe of 5 minutes makes it easy for me to do this calculation. Of course Akiyama couldn’t have made all the calculations during the 5 minute break since he didn’t even know the starting order yet. But we can infer from above that whatever the timeframe is will be more than 5 minutes. So we can at least calculate a high end for Akiyama in this methodology.
+136/(5*60) = 0.4533 Ops/Sec
+
+Using this we can assume Akiyama had plenty of time to work through the calculations at average processing speeds.
+
+WMI Calculation
+I believe WMI and overall Memory is where this feat actually shines. To calculate WMI let’s first set a clear methodology to do this. For this feat I will be assuming 17 cards x 8 shuffles as remembering 136 cards (or elements) in a specific sequence as illustrated in the Excel sheets above. WMI is often calculated using a test called digit span. Here a sequence of digits is shown in a short timeframe and the person has to type it out in the exact order or in the reverse order. If we map the card shuffling feat onto this method, we can reasonably assume Akiyama can keep track of 136 digits in his mind within a short amount of time and type them out in the exact order. For this methodology we are considering a single card as one digit to avoid wank.
+
+Benchmarking WMI
+The average forward digit span performance is stated to be 5 to 9. The peak forward digit span performance is held by Simon Reinhard which is 240 digits repeated in exact order. This would put Akiyama’s feat of handling 136 cards in his mind at 15x the average human WMI and 0.567x the peak human WMI. This would put Akiyama in the same ballpark as the peak human in WMI.
+
+VSI
+This feat also has a VSI component. The depiction in the manga suggests Akiyama visualized the card shuffling in small pictorial representation which each had a suit and face value. This shows high detail oriented VSI. Also if we consider the Low End Interpretation of the feat, the Excel format also gives us the same ballpark in terms of VSI where each placeholder represents one card.
+
+Benchmarking VSI
+VSI is usually measured using block design tests where people need to reason and manipulate 2D shapes and solve the puzzles. Obviously the level of detail in visualization is impressive in the case of Akiyama, but we can’t really quantify that. Therefore we need to compare it with other feats or characters on a case by case basis. However building a sequence or table in one’s head and manipulating the elements to match the shuffle patterns requires Visual Reasoning. Simon Reinhard as mentioned above is the world record holder in forward digit span. He is stated to be a user of the method of loci, a mnemonic technique which uses visualization to remember things. The Memory Palace technique falls under this. Which is why it is not unreasonable to assume that Akiyama would have had to use some sort of method of loci to remember the 136 card shuffle positions. Which further supports the VSI component of this feat.
+
+Conclusion
+Interpretations
+	Akiyama
+	IRL average
+	IRL peak
+	Scaling
+	Rating
+	PSI
+	Mid End (Low Ball)
+	1.168
+Ops/Sec
+	0.55 to 0.65
+Ops/Sec
+	1.11 to 1.22 Ops/Sec
+	1.8x Avg
+	Avg
+Human+
+	Mid End
+(Mid Ball)
+	1.318
+Ops/Sec
+	1.08x Peak
+	Peak Human+
+	Mid End
+(High Ball)
+	1.643
+Ops/Sec
+	1.35x Peak
+	Peak Human+
+	Low End
+	0.433
+Ops/Sec
+	_
+	Avg Human
+	WMI
+	Low End
+	136
+Digit Spans
+	5-9
+Digit Spans
+	240
+Digit Spans
+	15x Avg
+
+	Peak Human
+
+Closing Remarks
+My Low End Interpretation reduces the PSI of this feat when compared to the Mid End and High End Interpretations. However the feat remains equally impressive in WMI for handling 136 cards in his head while he found the best number of shuffles to win 100% of the time, and VSI for visualizing the cards in his head. He had to keep track of 136 cards with at least a suit and a face value (possibly even higher detailing), and manipulate them in a visual space based on the patterns of perfect shuffles. The PSI of the Mid End is very impressive, putting him around (or above) peak human level.
+
+Discord: hellothere1089

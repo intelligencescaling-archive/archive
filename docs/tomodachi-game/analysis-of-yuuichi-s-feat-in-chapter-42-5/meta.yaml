@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-yuuichi-s-feat-in-chapter-42-5
+category: doc
+title: analysis of Yuuichi's feat in chapter 42.5
+alt_titles:
+- Yuuichi Katagiri-Chapter 42.5 Analysis
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+- analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1e6fXJW6WyF6No1Msu22r5d6Op7dXO_Z_/edit?usp=drivesdk&ouid=107562670602473967947&rtpof=true&sd=true
+    google_id: 1e6fXJW6WyF6No1Msu22r5d6Op7dXO_Z_
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Yuuichi Katagiri-Chapter 42.5 Analysis
+      bytes: 3490849
+      sha256: 69bad3f2dabd5682fbd4c558903841cbcba59019ce3ae245bfedfba2a66c5837
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: analysis of Yuuichi's feat in chapter 42.5
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi Katagiri-Chapter 42.5 Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

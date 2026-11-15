@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jozuka-hisui-medium-novel-s-document
+category: doc
+title: Jozuka Hisui(medium novel)'s document
+alt_titles:
+- Jozuka Hisui doc
+authors:
+- name: Abby
+  source: doc-text
+series:
+- medium
+characters:
+- hisui-jozuka
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1MhCCjqJntI0szyt__P42Zk8SNTXqqHtxeX2HBX4D5y8/edit?usp=drivesdk
+    google_id: 1MhCCjqJntI0szyt__P42Zk8SNTXqqHtxeX2HBX4D5y8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 8626
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 341760
+      sha256: 6aad2dd46eae867d76976090546140d493cec04e9f909532b4883b2b4318856f
+    - format: docx
+      name: document.docx
+      bytes: 631035
+      sha256: 366704e5481551e88792ce44fa0daf332ae78514737c1ee3abd5bc2997ea176a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jozuka Hisui doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

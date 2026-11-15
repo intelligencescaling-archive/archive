@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-5x9-strategy
+category: doc
+title: Joe 5x9 strategy
+authors: []
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-caxaXZC7WLNPJdTatFnIvzPmRhjRVQtUcGb59ZWKgw/edit?usp=drivesdk
+    google_id: 1-caxaXZC7WLNPJdTatFnIvzPmRhjRVQtUcGb59ZWKgw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 5838
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4329748
+      sha256: cee9cdf6216c1a4cf00d997b6621106a44c907a2b61ac3c563a1d4938f0a6cdb
+    - format: docx
+      name: document.docx
+      bytes: 3083938
+      sha256: 93478b70989735c5143abeda629ccd36ac9cdade738e64bafdd66a8494cdafc0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe 5x9 strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

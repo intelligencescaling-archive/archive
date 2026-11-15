@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-feats
+category: doc
+title: Lelouch feats
+alt_titles:
+- Lelouch 2
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PfUp92lv1oNOXWPW66YzzB8_GLhQf8QCXvTCcfhUDKQ
+    google_id: 1PfUp92lv1oNOXWPW66YzzB8_GLhQf8QCXvTCcfhUDKQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 53
+    words: 13679
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 437219
+      sha256: 93d70156fbb5d9bb3ef3c656ca627873616dbca293727ad963c3050396594b83
+    - format: docx
+      name: document.docx
+      bytes: 50061
+      sha256: e2e88dbe7c6df3d7999cd924c75b0a14eef874f4deb43b182441e67d23b1e14b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch 2
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Lelouch feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

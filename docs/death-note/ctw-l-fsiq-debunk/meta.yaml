@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ctw-l-fsiq-debunk
+category: doc
+title: CTW L FSIQ Debunk
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+variant: Change the World
+tags:
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1udUdkZw0gsy3WncQv_MWlk7KJc2K-UX1BOsGrsUihJI
+    google_id: 1udUdkZw0gsy3WncQv_MWlk7KJc2K-UX1BOsGrsUihJI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 702
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1133128
+      sha256: 5e2e81310f77d9ffa5b709eb0dd7efdfa533a91805d3052ba581cdf87aaf891a
+    - format: docx
+      name: document.docx
+      bytes: 1121561
+      sha256: a9ed5da516d4cddb6e76ea6293230feb3e0f6717c0cc85de6da4a36ae4fa21a1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: CTW L FSIQ Debunk
+- library: remastered
+  section: Death Note
+  character: L Lawliet - Change the World
+  link_text: CTW L FSIQ Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

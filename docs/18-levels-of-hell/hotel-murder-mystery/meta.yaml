@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hotel-murder-mystery
+category: doc
+title: Hotel Murder Mystery
+alt_titles:
+- Chen Ran Feats in Hotel Murder Mystery
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Jw_D98avb6NoFQeW0xfMtbF-daUVK1EqefxSxnJM4do/edit?usp=drivesdk
+    google_id: 1Jw_D98avb6NoFQeW0xfMtbF-daUVK1EqefxSxnJM4do
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 4245
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 180544
+      sha256: 242d3bc33d70dede610aa790b432309f431490a311ce9295933ebdd2c4b0c6b3
+    - format: docx
+      name: document.docx
+      bytes: 18710
+      sha256: dbabb5a49e9169024932c5ac960bdd2959eafd92a77cdd7da6f0fa56119351de
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran Feats in Hotel Murder Mystery
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

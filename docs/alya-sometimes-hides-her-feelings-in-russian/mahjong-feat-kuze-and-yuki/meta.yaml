@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mahjong-feat-kuze-and-yuki
+category: doc
+title: Mahjong Feat (Kuze and Yuki)
+alt_titles:
+- Mahjong Feat
+- Kuze Masachika Mahjong Feat
+- Yuki Suou Mahjong Feat
+authors:
+- name: N-Ice
+  source: doc-text
+series:
+- alya-sometimes-hides-her-feelings-in-russian
+characters:
+- masachika-kuze
+- yuki-suou
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Qanocg1QsgFoVbNSP9lMCFbV8DhC8t5lTASyBrfP3_w/edit?usp=drivesdk
+    google_id: 1Qanocg1QsgFoVbNSP9lMCFbV8DhC8t5lTASyBrfP3_w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 4846
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1918086
+      sha256: 0f9ec5e90419514dd3368d2b3c8fac9c5a72f8484d83b41de6533c7d79ff9b46
+    - format: docx
+      name: document.docx
+      bytes: 1707450
+      sha256: 5b0e36d137d57c134f0449499918f8c3d15e51f8875f6a3a760aa71116536434
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Mahjong Feat
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kuze Masachika Mahjong Feat
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Yuki Suou Mahjong Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: goo-goo-ga-ga
+category: doc
+title: Goo goo ga ga
+alt_titles:
+- Red John Rebunk Doc
+authors: []
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1CJpeJJiPlW-tPFW1DZ__OTGaanQxRyfZ9LJpdZmly60
+    google_id: 1CJpeJJiPlW-tPFW1DZ__OTGaanQxRyfZ9LJpdZmly60
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 995
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2770878
+      sha256: 280c458b3b6d595e46c458ba7781970152100d7d592f566b8ccc21fac01934b6
+    - format: docx
+      name: document.docx
+      bytes: 2581533
+      sha256: c6c7c010b044f4fc25ded407d7773999cb89c647992878a35f7ecc3c7c99f5ae
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Red John Rebunk Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

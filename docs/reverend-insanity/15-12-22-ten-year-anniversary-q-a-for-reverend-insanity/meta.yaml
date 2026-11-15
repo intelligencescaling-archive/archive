@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 15-12-22-ten-year-anniversary-q-a-for-reverend-insanity
+category: doc
+title: 15/12/22 Ten-Year Anniversary Q&A for Reverend Insanity
+authors: []
+series:
+- reverend-insanity
+characters: []
+tags:
+- q-and-a
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-0rSUZow2mVWFcInnsydvHx6DX6vWuz43AN1O9PLgY0/edit?usp=drivesdk
+    google_id: 1-0rSUZow2mVWFcInnsydvHx6DX6vWuz43AN1O9PLgY0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 4576
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 170009
+      sha256: 7accc3df4db1ae8403e27a089886ce4357d99ff50883c1de8043378c1f2ed280
+    - format: docx
+      name: document.docx
+      bytes: 20616
+      sha256: 9f936db2fc9f1d1d2bb78774b5cf6789649ec1587d20d09e0d1e2a107dd42128
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: 15/12/22 Ten-year anniversary Q&A for Reverend Insanity
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-emily-charliebots-feat-rebunk-by-axiom
+category: doc
+title: Henry Emily Charliebots Feat Rebunk - by Axiom
+alt_titles:
+- Charliebots Feat Rebunk
+- Charliebot feat Rebunk
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags:
+- feats
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=16-VjDriinWVftL9_yjmVDwc09l1XOMo57RNGXiGK838
+    google_id: 16-VjDriinWVftL9_yjmVDwc09l1XOMo57RNGXiGK838
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 2769
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2402076
+      sha256: 484028c7e2cd75814de70e5977c8d9dcdbbf774ac2905e14da9c7174ea66899d
+    - format: docx
+      name: document.docx
+      bytes: 1815729
+      sha256: 06a31cf7559a18763568246acdb06702b2b9d4ddb5b9a70a391560fbe699eeaa
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Charliebots Feat Rebunk
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Charliebot feat Rebunk
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: Henry Emily
+  link_text: Henry Emily Charliebots Feat Rebunk - by Axiom
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

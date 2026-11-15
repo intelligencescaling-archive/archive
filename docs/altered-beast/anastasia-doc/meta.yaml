@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: anastasia-doc
+category: doc
+title: Anastasia Doc.
+alt_titles:
+- Anastasia SCD Analysis document
+authors:
+- name: Calcu
+  source: doc-text
+series:
+- altered-beast
+characters:
+- anastasia
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-AAB0Rq3WhoGcRV7Kh4Blugyc-ZYtVc0MZNvQZjFN7M/edit?usp=drivesdk
+    google_id: 1-AAB0Rq3WhoGcRV7Kh4Blugyc-ZYtVc0MZNvQZjFN7M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 3562
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6433422
+      sha256: 0ebca1cd4e427b0a5ae768333c0dcc227e2a62f7961a4ed40bed3534d492caa0
+    - format: docx
+      name: document.docx
+      bytes: 5437694
+      sha256: 93e99702dcaa66302735dd5da038632dd034a303d112cb9f0e91f3b615880d2d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Anastasia SCD Analysis document
+  note: (written in Spanish)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-megadoc-stage-novels-nobleman-psychoanalysis-feat
+category: doc
+title: Lelouch megadoc- Stage novels - nobleman psychoanalysis feat
+alt_titles:
+- Lelouch stage Novels nobleman psychoanalysis
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1qS02MtX2Gg7ogmpoIN0lBr2C_rxUh1p1QrBczTZo2OE
+    google_id: 1qS02MtX2Gg7ogmpoIN0lBr2C_rxUh1p1QrBczTZo2OE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1612
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 134618
+      sha256: 8489edd3e2e14f7ee36886a065ed71fafb116f34712a618b6bc979ed67669318
+    - format: docx
+      name: document.docx
+      bytes: 12866
+      sha256: 220fcb79ac5032f0b8e559fa1555adf99ab4ad42d52170edb6e71a4446b30cdd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch stage Novels nobleman psychoanalysis
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Lelouch megadoc- Stage novels - nobleman psychoanalysis feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tristan-turnbull-doc
+category: doc
+title: TRISTAN TURNBULL DOC
+authors: []
+series:
+- ace-attorney
+characters:
+- tristan-turnbull
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1DoNBxMtfWeOF49nCNO75SBBg-vGTwDD8FSasiiMtLtk/edit?tab=t.0
+    google_id: 1DoNBxMtfWeOF49nCNO75SBBg-vGTwDD8FSasiiMtLtk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 1637
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 38153832
+      sha256: 65f67f757cbb68e939fd66136a4e719bd9e2e149732dfed26a4b64ad9d942fef
+    - format: docx
+      name: document.docx
+      bytes: 28020071
+      sha256: 760341c53e5d81c051ad88e5c576f64bd1ddcbaa19728dac178e8d199c021220
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Tristan Turnbull Doc
+- library: remastered
+  section: Ace Attorney
+  character: Tristan Turnbull
+  link_text: TRISTAN TURNBULL DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

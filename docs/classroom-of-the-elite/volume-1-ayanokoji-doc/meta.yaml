@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: volume-1-ayanokoji-doc
+category: doc
+title: Volume 1 Ayanokoji Doc
+alt_titles:
+- V1 Ayanokoji SCD document
+authors:
+- name: COUNTERKOUJI
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1tAbePMz_5VMq5AiWpJj26mCEoMvv1acrvzqu6ExApEk/edit?usp=drivesdk
+    google_id: 1tAbePMz_5VMq5AiWpJj26mCEoMvv1acrvzqu6ExApEk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 47
+    words: 15496
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2769016
+      sha256: 69b2aae36deed9a0bf29449968a1d662f6af9fded65466206cddf517df75d18e
+    - format: docx
+      name: document.docx
+      bytes: 2480099
+      sha256: b21cb1e6dce9d69f2575784491d9ca3dc6f63ffee147572b6d6a8a4bb1fb7805
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: V1 Ayanokoji SCD document
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Volume 1 Ayanokoji Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

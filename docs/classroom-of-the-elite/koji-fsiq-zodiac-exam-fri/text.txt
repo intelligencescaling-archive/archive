@@ -1,0 +1,152 @@
+ZODIAC EXAM
+
+Explanation of the Phone Switch Strategy:
+To start with, Koji stated that his phone strategy is something he had been planning since the start of the exam.
+After Koji forcefully brought Kei over to his side, he took her phone and switched their SIM cards using private points, which would copy the email stating that the user was the VIP, Koji also replicated their call/email history to keep Kei hidden.
+Next, he switched his phone that now had Kei’s SIM card in it with Yukimura's phone, and he replicated phone information on both of the devices, creating a double-layered trap.
+The first trap would be sprung once Yukimura was revealed to be the VIP, which would be backed by the replicated phone information and Yukimura's knowledge of Koji’s password, which would force them to believe the phone belonged to Yukimura.
+The second trap would be sprung if Yukimura were exposed, which would cause the students to believe that Koji was the true VIP and that he lied to them.
+Both traps worked and Ichinose exposes Yukimura, claiming to the rest of the group that she had investigated how viable a phone switch strategy would be with her classmates. In her investigations, she mentions that the SIM cards can not be exchanged and that phone information could be replicated, which allowed her to “see through” the deceptions Koji created with the phone information and password.
+Koji had banked on the student's not realizing that the SIM cards could be switched. The only way one can really see through that strategy is having the knowledge that SIM cards can be switched for private points
+Morishige, a Class A student, had decided to input Koji’s name through an email, which caused him to unknowingly trigger Outcome #4, giving 50 class points to Class D and 500,000 private points to Kei.
+Despite the fact that Koji’s phone switch had nearly ended up failing due to Ichinose pretending to go along with Koji’s strategy, he still had a backup plan that would ensure he'd be named as the VIP, which meant he had close to no worries. Because Ichinose couldn’t be 100% sure while exactly the VIP is.
+
+In detail ayanokoji’s insurance plan:
+Koji had given Hirata a slip of paper, after which Hirata informed Koji of the real VIP of the Rabbit group. ---> So that slip was something which touched the subject of the VIP of his own group.
+2.That slip of paper was mentioned by Koji as his insurance plan that the class A people definitely named him as the VIP. ---> Which means the slip contained the false information that "Koji is the VIP of the Rabbit group".
+3. After the exam was over, Hirata talked to Koji about his insurance plan working. He brought up the subject of the slip Koji gave him. ---> The plan was executed by Hirata.
+4. Check the student list of the Dragon group provided, it contains Katsuragi's name.
+So deducing the whole matter using these hints, Koji’s insurance plan was that he wrote the false information about him being the VIP on the slip, and gave it to Hirata to drop it in front of the class A guys to see. So, he can cover both scenarios.
+If he is "exposed" as the VIP of the Rabbit group, the slip dropped in front of the class A guys will serve as a double confirmation to them that Koji was the VIP.
+If class A people suspected the real VIP, that is Kei, the slip containing the information would serve as a factor for them to reconsider their decision of voting her as the VIP. After all, even Ichinose didn't have proof that Kei was the VIP and was just basing it off her hypothesis as to what she would've done in that situation. It could easily have been a setup, in which class A loses 50 points. To implant this kind of idea in their heads.
+
+Alternative method to crack the VIP pattern:
+We know that the key to knowing all the VIPs in the Zodiac exam in Y1V4 was to crack the VIP pattern. In canon, the method Ryuen used to crack the pattern was by gathering the names of 6 VIPs in total, according to the rule mentioned in Y1V5 i.e. 2 VIPs from class B , 3 VIPs from his own class , and 1 VIP from class D. However, it was mentioned by Koji that the possibility of Ryuen cracking the whole pattern with just 3 VIPs exists, if you remember the details of the volume, leaving aside the method he told us about the way to crack the pattern with 6 VIPs by just collecting the VIP names. That means an alternative method to crack the VIP pattern with 3 VIPs exists, which Ryuen missed out on noticing.
+
+To start, in case you are aware, the Zodiac groups from the exam are based on the Chinese Zodiac groups, numbered 1 to 12. The pattern of matching the Zodiac group to the alphabetical order of the students in a group's list, was according to the chronological order in which the Zodiac groups are arranged. That's the description the novel spoonfed to us, but now let's dive a little deeper.
+
+This is the "compatible trio" chart of the Zodiac groups. :  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4dBC5IEzMHTmOLOlJwK4x3k0fZTxk-rEbYw&usqp=CAU
+
+This is the Zodiac groups relationships chart , which gives us information on a Zodiac group's allies , secret friend and conflict animal : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmb8201QAb-I9UWKYSgJN1UYBHMNGkhgk70A&usqp=CAU
+
+Now, go back to Y1V4, and consider the classes which the VIP of each group belonged to. You will need to do Math as well as concentrated reading.
+- Using the alphabetical order pattern, the VIP of the Cow group is Yume Kobashi of class B ,which Ryuen made an intentional wrong guess on. Similarly, doing the Math by looking at the results, the VIP of Monkey Group (which Koenji ended) is from class B.
+-Rooster, Pig and Rat's VIP's are from class A , mentioned by Ryuen during targeting them.
+- Rabbit (Kei), Dragon (Kushida),
+and Horse (Minami)
+- The groups remaining are 3 of class C and 1 of class B. Sheep, Dog, Snake, Tiger.
+
+Now observe the compatibility trio charts closely. Remember this exam is all about patterns. If we consider Dog group as the VIP , the 4 compatibility trips classified by which class the VIP of the group belongs to , become as :
+
+- Trio 1 : A , B , D
+
+- Trio 2 : A , B , C
+
+- Trio 3 : B , C , D
+
+- Trio 4 : A , C , D
+
+Now also observe the table of allies, secret friends and conflict animals' comparison with the main zodiac animal. If we input the VIPs' classes we know of in the table , it becomes something like this :
+
++------+----------------+---------------+-----------------+
+
+| Main | Allied | Secret friend | Conflict animal |
+
++------+----------------+---------------+-----------------+
+
+| A    | D,B            | B             | D               |
+
++------+----------------+---------------+-----------------+
+
+| B    | C,A            | A             | C               |
+
++------+----------------+---------------+-----------------+
+
+| C    | D,B            | A             | B               |
+
++------+----------------+---------------+-----------------+
+
+| D    | C,A            | B             | A               |
+
++------+----------------+---------------+-----------------+
+
+| D    | A,B            | A             | B               |
+
++------+----------------+---------------+-----------------+
+
+| C    | B,A            | B             | A               |
+
++------+----------------+---------------+-----------------+
+
+| D    | C,B            | C             | A               |
+
++------+----------------+---------------+-----------------+
+
+| C    | D,A            | D             | B               |
+
++------+----------------+---------------+-----------------+
+
+| B    | A,D            | C             | C               |
+
++------+----------------+---------------+-----------------+
+
+| A    | B,C            | D             | D               |
+
++------+----------------+---------------+-----------------+
+
+| B    | C,D            | D             | D               |
+
++------+----------------+---------------+-----------------+
+
+| A    | D,C            | C             | C              |
+
++------+----------------+---------------+-----------------+
+
+You can observe the pattern. When you do a comparison to the main zodiac group with an allied animal, secret friend or conflict animal, none of them overlap even when you consider all 12 cases , all 48 combinations. This also includes the compatibility chart, where the combinations followed are A, B, C + A ,B ,D + A ,C ,D + B ,C ,D , EACH unique combination which covers all 4 cases. SO , what is the conclusion that we can derive from this discovery ?
+First, the groups arranged according to the class the VIP of the group belongs to are as follows :
+
+-Class A : Rat , Rooster , Pig
+
+-Class B : Monkey , Cow , Dog
+
+-Class C : Sheep , Tiger , Snake
+
+-Class D : Rabbit , Dragon , Horse
+
+Second, since the probability of such a match being a coincidence is EXTREMELY low (even lower than the possibility of the alphabetical order pattern being a coincidence which was canonically used in the story), this is a pattern in which the VIPs of the groups are arranged. Hence, in this case, what should be the inference? It's that certain Zodiac signs are grouped together in accordance to the "classes" they belong to, and they're considered as one entity when the pattern is concerned. Hence, the "allies" , "secret friends" or "conflict animals" are always the groups from another class, since they're treated as someone different from them. So the rules in this case are :
+VIPs of groups from allied columns don't share a class.
+VIPs of groups from the main column don't share a class with those in the allied column.
+Same goes for the main column compared with the secret friend column and conflict animal column.
+So what is the method to crack the pattern in this case ? You just need to know your own class' 3 VIPs for that. Let's consider from class D's perspective. Their own VIPs were from Rabbit , Dragon and Horse groups. So what they do is make a chart about which groups' VIPs cannot share the same class. In their case, it would be like this :
+Rooster - Monkey, Cow
+Cow - Snake, Rooster, Rat, Sheep
+Tiger - Dog, Pig, Monkey
+Snake - Cow, Rooster, Monkey, Pig
+Sheep - Pig, Cow
+Monkey - Rat, Snake, Tiger
+Rooster - Cow, Snake
+Dog - Tiger
+Pig - Sheep, Tiger, Snake
+These are the groups whose VIPs WON"T be sharing a class. Then, they use the 3 VIPs of their own class they have at hand , to analyze the pattern they can find, and the alphabetical order anomaly is noticed. HOWEVER , at this point they still can't be sure whether this pattern is only restricted to their own class, or it is universal. Because it is entirely possible every class has a different pattern of VIP arrangement. That is the reason Ryuen had to take class D's and class B's VIPs to confirm that the pattern indeed applied to other classes as well. BUT, with this chart, they can verify their pattern. How? The steps are :
+Get the lists of all the 12 Zodiac groups.
+Assume that the pattern they noticed for class D is true and applies to every class, and calculate the hypothetical VIPs of all groups by relating the zodiac group number to alphabetical order of students' surnames, and arrive at the assumed 12 VIPs.
+They get a total of 9 VIPs, 3 each from classes A, B, C, 3+3+3. They need to verify this hypothesis.
+Group the result VIPs together in accordance to their classes , and input their classes into the chart they arrived at. That's it, boom. Pattern verified. They now have access to all VIP names in the exam.
+This is how one can arrive at the root of the exam with only 3 VIPs, the more efficient method of doing it. And hints tell us that Koji knew about this. He talked about a way to arrive at the answer using just 3 VIPs, but didn't elaborate. He also said he could've used other means to score far more points than he did. He also said what he did in the Zodiac exam was the bare minimum required.
+Koji most likely could've ended the entire Zodiac exam on the first day itself, but he didn't, because his plan was to make Ryuen collide with him head on in V7 and personally defeat him, not go brute force on everything like that.
+
+To put it simply, Koji knew of a method to crack the pattern with 3 VIPs only, meaning that with the identities of the Class D VIP's, he could've won the exam in one fell-swoop.
+He most likely  recognized, analyzed and simplified it all in his head on the first day.
+
+Koji also deduced the deal Ryuuen made with Kanzaki and how Ryuuen achieved to guess the VIP’s of the groups that haven’t finished:
+Cow group ended with the VIP being the winner, which doesn’t make sense, since Ryuuen stated that he knew the pattern of the VIP’s. To crack the pattern, Ryuuen needed the names of 6 VIP’s. Koji already knew Ryuuen had 4 VIP’s(3 of Class C + Kushida), so he just needed 2 more to find the rest. Koji concluded that he made a deal with Class B to give Ryuuen the names of the 2 VIP’s, whose games were already over, and in exchange, lost on purpose in the Cow zodiac group and wouldn’t interfere in Ichinose’s group.
+Koji’s premises:
+Kushida was trying to hide Ryuuen when she hugged Koji, because at the moment he was trying to turn around, implying that it was fake
+She would only hide him if she didn’t want Koji to know about their meeting.
+She wouldn’t want him to know only if she betrayed the class
+Ryuuen just needed 2 more names, the same amount of lost VIP’s from Class B and in Ryuuen’s group(Cow) and Ichinose’s group did the VIP win.
+Reasoning for ZODIAC EXAM(in detail):
+We know there was a pattern in which the VIPs were assigned, the author revealed this in V5. You needed 6 VIP names in total to crack the pattern. Ryuuen claimed that he found the pattern. How did he do that? He got 3 VIPS assigned from his own class, which leaves out 3 VIPs from outside classes. So he has to find some way to get those 3 VIP names.                                                                            1VIP was Kushida. If you remember on the 2nd day, Ryuuen got a message from Kushida on his phone saying "Sorry last night". The previous night was the same instance when Kushida suddenly hugged Kiyo on the ship, when Kiyo was about to turn. What does this imply? It means the hug was fake, made in order to prevent Kiyo from turning and noticing Ryuuen and give him time to hide. She was secretly meeting up with Ryuen during this time, and we know she had been dealing with him in Y1V4 since he knew she was the VIP. This was the time when Kushida gave out that she was the VIP and betrayed her class. Ryuen came from behind Kiyotaka to meet up with Kushida. If Kiyotaka would've turned, he would notice him and her betrayal would be exposed flat along with Ryuen. That is the reason she apologized to him next day on the phone, because of her negligence. Kiyo noticed this regardless, he had already expected Kushida would t the class again in Y1V5.                                                Remaining 2 VIPs were from class B, given to Ryuuen by Kanzaki. What is the proof of this and how to deduce it? If you check the results, Class B ended up with 0 points in total. At first glance, it seems class B didn't earn anything as they were neither targetted nor did they have any profit.
+However, remember that Ryuen made a wrong guess on a particular group? The Cow group. It was mentioned in V5 that Ryuen gave away 50 points to this group for free despite being aware of the root of the exam. Why would he do this and harm his own class? Hirata and Horikita raised this point but they couldn't understand the incident. This is where we begin our deduction.                                          We had the VIP list of this Cow group given to us for some reason, must be a reason why so. Let's have a look at that first.                                                                            A-Class: Yasumi Sawada, Naoki Shimizu, Haruka Nishi, Kenta Yoshida B-Class: Yume Kobashi, Yui Ninomiya, Kihito.                                                                       Watanabe C-Class: Yūya Yuki, Yuji Nomura, Mariko Yajima D-Class: Kanji Ike, Airi Sakura, Ken Sudō, Chiaki Matsushita. Arrange these names in accordance to the Japanese Hiragana alphabetical order, we get it as Ike Kanji, Kobashi Yume, Sakura Airi, Sawada Yasumi, Shimuzu Naoki, Sudō Ken, Nishi Haruka, Ninomiya Yui, Nomura Yuji, Matsushita Chiaki, Yajima Maruko, Yuki Yūya, Yoshida Kenta, Watanabe Kihito.
+So if we check this list and use the pattern for finding the VIPs given to us by the author we arrive at the answer that Yume Kobashi was the VIP of that group. The pattern for the VIPs arrangement in the groups was revealed in V5, i.e. the number of the surname of the student when arranged in Japanese alphabetical order corresponds to the number of the Zodiac group. There are 12 Zodiac groups numbered from 1 to 12. Check the list of the Cow group, use this pattern to tally the student surnames and her name turns out to be the VIP, since Kobashi is 2nd in the alphabetical order we have for Cow group, which is the 2nd group in the Zodiac groups order.
+This Yume Kobashi is from class B. It means the student whom Ryuen made a wrong guess on, was actually from class B. Now go back to the results again. Class B ended up with O points. But we just proved that the wrong guess made by Ryuen was on a class B VIP, which means they had to get 50 points. So for them to end up with O points, they should've lost 50 points as well. Now check the results carefully. A class losing 50 points is essentially Outcome 3, where the traitor guessed correctly. We have 5 instances of this according to the results i.e. Rooster, Pig, Rat, Horse and Monkey groups. However Rooster, Pig and Rat are from A and Horse is from D, as mentioned by Ryuen himself regarding A, and earlier on in the volume by Hirata about D. So the only group class B could've lost points on is the Monkey group. Does this group ring a bell? This was the name of the group whose exam Koenji ended on the first day by guessing the VIP correct. So the VIP which Koenji guessed, was from class B, not class C. That's how class B ended up with zero points. Coming back to the matter, Ryuuen basically gave away 50 points to class B for free Why would he do that, unless he gets something in return from class B, as only that way it would be an equal trade? So we know that Ryuen got something out of class B from this action. What did he get ? If you remember, this happened on the 3rd day, for which the exam ended, and the very next day Ryuuen claims he found the pattern and knows the VIP. On the previous day, he also said that he knows the VIP of the Dragon group, and his class may be the one to win. This happened just the day after Kushida betrayed, and the day prior to the Cow group incident. Therefore, the conclusion is the person who Ryuen got the VIP names from has to be from the same group as him, as that group's exam had ended, and they got time to make negotiations. Kanzaki is from the same Dragon Group as Ryuuen.                                                                               We know this as the Dragon group list was provided to us by the author. Also point to note that Ryuen needs 2 more VIP names to complete his pattern cracking mechanism at this point. So what happened is obvious. Kanzaki gave the VIPs of the already ended groups' i.e. Monkey and Cow, to Ryuen. If you remember, Ichinose was not willing to cooperate with Ryuuen despite of taking damage cause Ryuuen is untrustworthy. Ichinose not changing her approach is what prompted Kanzaki to make his move, as Koenji had already wrecked their class of 50 points, remember Monkey group. Koenji's actions spurred Kanzaki into betrayal, as he panicked that their class would have a net negative result. He and Ryuuen had a deal behind the scenes. Kanzaki will provide Ryuuen with the VIP names of 2 groups, Cow and Monkey since those aroups' exams already. Ryuuen gives Class B 50 points by making a wrong guess on Cow Group, and ALSO leaving out the group Ichinose was in, because Kanzaki didn't want to get Honami involved in this, as he had betrayed her. If she came to know Kanzaki acted against her orders he would lose her trust. This was the reason Ryuuen did not target Kei despite him knowing she was the VIP. As it was mentioned, that Ryuen waited for Kei's group's exam to end, before sending the target VIP names to the school. Why do you think, if Ryuen found the pattern, he waited for Kei's group's exam to end before making his move? Since he already should've known that Kei was the VIP. This is in fact the reason. The wrong guess on Cow Group was made on Ryuuen's orders, cause it's mentioned in the same arc that all of Ryuuen's classmates were obedient to him. So it was not a result of betrayal,intentional.                            What if Ryuuen betrayed Kanzaki and targeted the Dog group which had a VIP from class B or targetted Kei? Kanzaki had the option of writing Kushida's name as the VIP before 21:30 hours, and thus score 50 points for their class. This way, Ryuuen loses Kushida's trust for the coming volumes since she didn't get the private points she wanted by achieving Outcome 1, he also loses out on his opportunity to amass private points via achieving Outcome 1. So basically, Ryuuen left out class B because of his deal with Kanzaki. He left out Kei because Ichinose was present in the group. He left Kushida because he needed her trust. He targeted the rest. So him saying he was focusing exclusively on class A was a lie, cause he wouldn't have targeted.                                                               Minami from class D otherwise, who was the VIP of the Horse group. Class D did not get saved because of Koenji, if Koenji hadn't attacked class B Ryuuen would've never gotten the chance to make a deal with Kanzaki. Then he could've never attacked Minami from class D. Then class D would've never lost the additional 50 points they did.      This is how Ryuuen won the exam and Kanzaki betrayed Ichinose. Also, if you notice, the Tokito Hiroya guy is from the Cow group, according to the list given to us. It's highly likely he was the one Ryuuen ordered to make the wrong guess, and he's angry cause he didn't understand wtf happened. He thought Ryuuen betrayed his class to Honami by not making proper guess despite knowing the pattern. Because from a layman's perspective, it can seem that way. Like Ryuen simped for Honami or something like that. He just knew Ryuuen knew the pattern, he didn't think how. That's why he wants Ryuen to step down. Also, we also know for a fact from V5 that Koji understood all this happened, since he said he pretended to not know the answer to why Ryuen made a wrong guess when Horikita brought it up in V5, and didn't feel like explaining it. Koji reasoned all this in a similar manner.

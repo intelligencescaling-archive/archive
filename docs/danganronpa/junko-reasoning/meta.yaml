@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: junko-reasoning
+category: doc
+title: junko reasoning
+alt_titles:
+- Junko's reasoning
+authors: []
+series:
+- danganronpa
+characters:
+- junko-enoshima
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12u7ouzW8Z18KQWBxttx_kTFjjF0kIqxD59D4jio0lkI
+    google_id: 12u7ouzW8Z18KQWBxttx_kTFjjF0kIqxD59D4jio0lkI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 4127
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 585001
+      sha256: 7d19feb001470fcbda2a98a3bc6ff8d54b7d189ad1060ffea2099a07a2c4c262
+    - format: docx
+      name: document.docx
+      bytes: 582496
+      sha256: 88361cd6c902a17c683fb9fb8db1174668589db00b4d2cb40cf16b080fc11065
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Junko's reasoning
+- library: remastered
+  section: Danganronpa
+  character: Junko Enoshima
+  link_text: junko reasoning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

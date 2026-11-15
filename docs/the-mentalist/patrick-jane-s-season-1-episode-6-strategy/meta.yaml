@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-season-1-episode-6-strategy
+category: doc
+title: Patrick Jane's Season 1 Episode 6 Strategy
+alt_titles:
+- PJ S1E6 strategy
+authors:
+- name: AgentNemo
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/13tfXRld28awPrtEyqrBLv3sfAbG95xhSsfkHnTF5m5Y/edit?usp=drivesdk
+    google_id: 13tfXRld28awPrtEyqrBLv3sfAbG95xhSsfkHnTF5m5Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1209
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3317664
+      sha256: 4e58c209d7d86c72701ac0430c5ef2c4d2dd4bb1e925f9581fa5d83f6c9ca9eb
+    - format: docx
+      name: document.docx
+      bytes: 2830090
+      sha256: 71c021921a5c9c34734cee029d40989ba0d91698886a03047192765dbb4e1947
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ S1E6 strategy
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane's Season 1 Episode 6 Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

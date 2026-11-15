@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: flynch-doc
+category: doc
+title: FLYNCH DOC
+authors: []
+series:
+- ace-attorney
+characters:
+- flynch
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1VHDFx56b0vFq1CtcoBS2ffW5HklL4AA9e6h9_IZmFN8/edit?tab=t.0
+    google_id: 1VHDFx56b0vFq1CtcoBS2ffW5HklL4AA9e6h9_IZmFN8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 1002
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1851370
+      sha256: bbddbc30e28c8bf711b66b5e4eb7f21292dbe667b1be11181b60ebda6e9c7001
+    - format: docx
+      name: document.docx
+      bytes: 1711927
+      sha256: 0cb9484d8ac8d0e98d447c9c1d7b8e745b1f28b3d6a8c212d35ad4b561650973
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Flynch Doc
+- library: remastered
+  section: Ace Attorney
+  character: Flynch
+  link_text: FLYNCH DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

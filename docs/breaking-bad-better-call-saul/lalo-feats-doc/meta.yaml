@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lalo-feats-doc
+category: doc
+title: Lalo Feats Doc
+alt_titles:
+- Lalo Salamanca
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- lalo-salamanca
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Rcfwyh3Kfn7luTf1QBoI0R5flO1fIUUlHse7Ek1k9Ow
+    google_id: 1Rcfwyh3Kfn7luTf1QBoI0R5flO1fIUUlHse7Ek1k9Ow
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 13938
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1309421
+      sha256: 342216aaca6bfe2b7a1d29e93068ff162902e977f917ebfe9a689bfda6f973c0
+    - format: docx
+      name: document.docx
+      bytes: 832118
+      sha256: 03ddf6ba900d5d5dd97f4d240ab73591e172114e36b5b1d231cfe90a0cb59f7b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'BCS + BB:'
+  link_text: Lalo Salamanca
+- library: remastered
+  section: Breaking Bad | Better Call Saul
+  character: Lalo Salamanca
+  link_text: Lalo Feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

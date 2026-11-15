@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-pf-analysis-debunk
+category: doc
+title: Patrick Jane PF Analysis - DEBUNK
+alt_titles:
+- PJ Poker Feat Analysis Debunk
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- analysis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1qAXhMCxmdy0fkztGezrm3duej_Y6ivqwPnndsx2ZIIM/edit?usp=drivesdk
+    google_id: 1qAXhMCxmdy0fkztGezrm3duej_Y6ivqwPnndsx2ZIIM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 6255
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7393412
+      sha256: 8299a72da2e30a1d11d2b3bb943b9c51fb1f533e7a33108ad06cfcb7fd197b4b
+    - format: docx
+      name: document.docx
+      bytes: 4723720
+      sha256: b50e5c53162af6cb69179360e3284f9b69e17d7590e4509e4ddf3b0e79e4be80
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ Poker Feat Analysis Debunk
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane PF Analysis - DEBUNK
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

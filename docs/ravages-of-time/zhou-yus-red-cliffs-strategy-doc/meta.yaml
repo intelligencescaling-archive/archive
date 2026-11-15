@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: zhou-yus-red-cliffs-strategy-doc
+category: doc
+title: Zhou Yu’s red cliffs strategy doc
+alt_titles:
+- Zhou Yu's red cliff strategy doc
+authors:
+- name: for Reddit
+  reddit: Pick_Me_Gal_1092
+  source: doc-text
+series:
+- ravages-of-time
+characters:
+- zhou-yu
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12AdlEYL2VcO3ew0PsIutVuoNTBKWPE-2ByVUXVsC84k
+    google_id: 12AdlEYL2VcO3ew0PsIutVuoNTBKWPE-2ByVUXVsC84k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 91
+    words: 37863
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 21730366
+      sha256: 3512b44ed888051c8fbcaa2e840543d2109407a89e055abbcdd6da1c71f724ea
+    - format: docx
+      name: document.docx
+      bytes: 17479055
+      sha256: 1353adc70cbc6499018f3c10c6ed57fd48e5cf4658ecde436c8d28f49544cd0a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Zhou Yu's red cliff strategy doc
+- library: remastered
+  section: Ravages of Time
+  character: Zhou Yu
+  link_text: Zhou Yu’s red cliffs strategy doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

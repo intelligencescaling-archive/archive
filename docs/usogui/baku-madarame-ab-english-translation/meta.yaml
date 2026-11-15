@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-madarame-ab-english-translation
+category: doc
+title: Baku_Madarame_AB_English_Translation
+alt_titles:
+- Baku's Abandoned Building doc
+- Abandoned Building doc
+authors: []
+series:
+- usogui
+characters:
+- baku-madarame
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1wP3fqHhvOBWsCKX-kDuOj03dTarpzzE-LRywZrzL45o
+    google_id: 1wP3fqHhvOBWsCKX-kDuOj03dTarpzzE-LRywZrzL45o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 3136
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 180947
+      sha256: e88776661ae0b915f3b1fb4e54ce4275e41e640ae271699d7005bc2c73d3e0f7
+    - format: docx
+      name: document.docx
+      bytes: 17522
+      sha256: f53c2269024daaed868d09734f64605dc3467fcfa69fa4c56fd3c28960f5185a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku's Abandoned Building doc
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Abandoned Building doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

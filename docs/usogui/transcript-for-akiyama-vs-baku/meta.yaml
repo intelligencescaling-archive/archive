@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: transcript-for-akiyama-vs-baku
+category: doc
+title: Transcript for akiyama vs baku
+alt_titles:
+- Transcript for Cridemord's take of Baku Vs Akiyama
+authors: []
+series:
+- usogui
+- liar-game
+characters:
+- baku-madarame
+- akiyama-shinichi
+tags:
+- matchup
+- transcript
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17FV1gpC7W9nHlsseDOTE_mxUUwF35Y19FvEgpruqhzI/edit?tab=t.0
+    google_id: 17FV1gpC7W9nHlsseDOTE_mxUUwF35Y19FvEgpruqhzI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 222
+    words: 73553
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2472993
+      sha256: db6ce5c08393089471d3a4eedbfb680b41df7a689e31b485726d66354dbeb7cc
+    - format: docx
+      name: document.docx
+      bytes: 219212
+      sha256: 6eac68fc8e5445559344fc05f85f8c2d2ef240dfbbecde9a59a13f87c3ebadc7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Transcript for Cridemord's take of Baku Vs Akiyama
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

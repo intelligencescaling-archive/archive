@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ssc
+category: doc
+title: SSC
+alt_titles:
+- SCD categories Doc 7
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10BMvZO6HCM-pdiinC4xqG_8w_PBcPoVWz8SAqmOu4rE
+    google_id: 10BMvZO6HCM-pdiinC4xqG_8w_PBcPoVWz8SAqmOu4rE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 4095
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1093445
+      sha256: 0e895ae3ae89ba82d97abad9e5638a3dcfc519fbfb336b0a62fafb4011fa04b6
+    - format: docx
+      name: document.docx
+      bytes: 880499
+      sha256: 38863a5cd925f29956d8a4e8f3aedacdc6d9033d1cba3fac818ab5d745c9dcc9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD categories Doc 7
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

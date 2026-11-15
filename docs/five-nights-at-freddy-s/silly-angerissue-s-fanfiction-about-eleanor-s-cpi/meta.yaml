@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: silly-angerissue-s-fanfiction-about-eleanor-s-cpi
+category: doc
+title: Silly AngerIssue's fanfiction about Eleanor's CPI
+alt_titles:
+- Eleanor's Parallel Memory Recall Feat
+- Parallel Memory Recall
+authors:
+- name: AngerIssue
+  source: doc-text
+series:
+- five-nights-at-freddy-s
+characters:
+- eleanor
+tags:
+- feats
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1uNBtennIGXLKwHKbzTq6ZtY8vhSMOfUDPbP05KND_0o
+    google_id: 1uNBtennIGXLKwHKbzTq6ZtY8vhSMOfUDPbP05KND_0o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1976
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 153945
+      sha256: 29ca1bd929c5274050e807e20d849e4a9bb61fe1ae5330167b9af56e47a9bedd
+    - format: docx
+      name: document.docx
+      bytes: 2219600
+      sha256: b344d680b3fd04f3286a7c78a151bb98d0d6502a82da42ba2ab57eec1e347e4a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Eleanor's Parallel Memory Recall Feat
+  note: (made by Silly Angelssue)
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: Eleanor
+  link_text: Parallel Memory Recall
+  note: (made by Silly Angelssue)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

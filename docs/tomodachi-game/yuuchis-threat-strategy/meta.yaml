@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuchis-threat-strategy
+category: doc
+title: Yuuchi’s threat strategy
+alt_titles:
+- Yuuichi Threat Strategy
+authors:
+- name: Morreti_Amon
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11aFrNFvbVD3oBJ41uKD_XVMs7mM9emeONS2-y1qbGeA/edit?usp=drivesdk
+    google_id: 11aFrNFvbVD3oBJ41uKD_XVMs7mM9emeONS2-y1qbGeA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2966
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 135064
+      sha256: 036d90cba8a3c1f41d0c849217e54a1f67d4f7de89506f09bef2c645dab3066f
+    - format: docx
+      name: document.docx
+      bytes: 15487
+      sha256: 1ff03eea1ad5036778542b138604d63a682eae1efba5268edd8bc23725548689
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi Threat Strategy
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi Threat Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

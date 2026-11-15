@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: roots-of-a-akiyama-doc
+category: doc
+title: 'Roots of A : Akiyama Doc'
+alt_titles:
+- Another Roots of A Akiyama Doc
+authors:
+- name: Axolotol4044/KitchenCoyote7942
+  source: doc-text
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1BUhECqMhA65R2zfea1ZvAZec2NmqaYa2jQZ9S1TAifY/edit?usp=drivesdk
+    google_id: 1BUhECqMhA65R2zfea1ZvAZec2NmqaYa2jQZ9S1TAifY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 3842
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 792405
+      sha256: 16eefc4ced8af32b7728aac356c773ad4b450c4f065ca36ead7e89246aefaefb
+    - format: docx
+      name: document.docx
+      bytes: 1411307
+      sha256: 65c7ca05e66a304bd471b29a089c41b13c874f2281868f1f84b3c6e6b3438c48
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Another Roots of A Akiyama Doc
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: 'Roots of A : Akiyama Doc'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

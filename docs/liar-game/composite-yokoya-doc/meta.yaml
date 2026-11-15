@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: composite-yokoya-doc
+category: doc
+title: COMPOSITE YOKOYA DOC
+alt_titles:
+- Comp Yokoya doc
+authors:
+- name: Teyfik1432
+  source: doc-text
+- name: Tokho
+  source: doc-text
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vQT-MSbfdll87QHpj6BlwXXUcIGSfcyq6Oj_9CXiUfE
+    google_id: 1vQT-MSbfdll87QHpj6BlwXXUcIGSfcyq6Oj_9CXiUfE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 175
+    words: 34720
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 88341655
+      sha256: d7fc26571b4292591996c74c3d829f5d098390fdf081ca6a9fd521223b6e50d9
+    - format: docx
+      name: document.docx
+      bytes: 69628295
+      sha256: df59fa4d1551d2874792ea0beb5663634ff4ced925a0bfbcdb1dbaa63268eab9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Comp Yokoya doc
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko - Composite
+  link_text: COMPOSITE YOKOYA DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

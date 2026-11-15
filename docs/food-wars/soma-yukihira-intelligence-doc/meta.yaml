@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: soma-yukihira-intelligence-doc
+category: doc
+title: Sōma Yukihira Intelligence Doc
+alt_titles:
+- Soma Yukihira Doc
+authors: []
+series:
+- food-wars
+characters:
+- soma-yukihira
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=167n2U1O1XveHxbFW0Ba4MefFhUaYb5O-u26xOMz0bAU
+    google_id: 167n2U1O1XveHxbFW0Ba4MefFhUaYb5O-u26xOMz0bAU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2650
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 384259
+      sha256: b8acdc6644dcd8757b7726af834ce1781ae143b2842c0d64ec668d06bf9d68ed
+    - format: docx
+      name: document.docx
+      bytes: 263949
+      sha256: cec7e2f264d1b7e4a436e69fe56b804a63e3833af05c46ece89845ef191aa412
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Soma Yukihira Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

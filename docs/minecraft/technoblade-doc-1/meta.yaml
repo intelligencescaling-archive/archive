@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: technoblade-doc-1
+category: doc
+title: Technoblade Doc (1)
+alt_titles:
+- Technoblade Doc
+authors: []
+series:
+- minecraft
+characters:
+- technoblade
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WuUn28msvsHkHZ4qlCuK5XxfRoTHSOCkKoqXdR-wWYI/edit?tab=t.0
+    google_id: 1WuUn28msvsHkHZ4qlCuK5XxfRoTHSOCkKoqXdR-wWYI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 35
+    words: 13664
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1178857
+      sha256: ddd6f88e1905525ddaf50e647135cf2a8f4389b2151db0dd2572d939ac8b4bc1
+    - format: docx
+      name: document.docx
+      bytes: 1046159
+      sha256: 6772b69fe5621a1d5b5b73e41a070fc63e6ab47bcfd1e5cf084faba80cab527f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: MINECRAFT
+  link_text: Technoblade Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

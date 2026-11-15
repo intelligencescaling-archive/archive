@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rover-cognitive-proficiency-index
+category: doc
+title: ROVER - COGNITIVE PROFICIENCY INDEX
+alt_titles:
+- Rover's CPI
+authors: []
+series:
+- wuthering-waves
+characters:
+- rover
+tags:
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18lnjmvL_BQC10KEd1lPiSeOj_S-qezegjgzWn7nNCOw
+    google_id: 18lnjmvL_BQC10KEd1lPiSeOj_S-qezegjgzWn7nNCOw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 394
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 135916
+      sha256: db1c0a7655ed15b07a0fb5efb955246ccfb4a28ea30a01d6321d9418af3f62a4
+    - format: docx
+      name: document.docx
+      bytes: 431773
+      sha256: 463ff8d434f9cad182744b10bf9d0da3151b06b12709cfac7bffd32eaf1e4ac6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Rover's CPI
+  note: (Wuthering Waves)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

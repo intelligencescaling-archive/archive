@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: will-graham-s-dinner-strategy
+category: doc
+title: Will Graham's Dinner Strategy
+alt_titles:
+- Will Graham's Mirroring Feat
+authors:
+- name: 'Mizumono_2x13 Credits to: Hi_Nocts'
+  source: doc-text
+series:
+- hannibal
+characters:
+- will-graham
+tags:
+- feats
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1S-L37PTgt3Hwr8MftjnYYP-z2U0zyI7yBvhlz1C85AM/edit?usp=sharing
+    google_id: 1S-L37PTgt3Hwr8MftjnYYP-z2U0zyI7yBvhlz1C85AM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 955
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 101498
+      sha256: 83b5dc46eedeaafe6822f3befa580a58c643a15d2f6e8b4651987d686a54622c
+    - format: docx
+      name: document.docx
+      bytes: 10024
+      sha256: bb783a3a86b8a6745d4c9be274470f31018843a5e075b23c83675120173d70da
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Hannibal
+  character: Will Graham
+  link_text: Will Graham's Mirroring Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

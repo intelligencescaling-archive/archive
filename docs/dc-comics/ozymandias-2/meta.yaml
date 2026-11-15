@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ozymandias-2
+category: doc
+title: Ozymandias 2
+alt_titles:
+- Ozymandias
+authors: []
+series:
+- dc-comics
+characters:
+- ozymandias
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1mC-JhawTf05zuDWrtQHcx-rUHuxE0qvNQ8rBKNbbSww
+    google_id: 1mC-JhawTf05zuDWrtQHcx-rUHuxE0qvNQ8rBKNbbSww
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Ozymandias 2
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Ozymandias
+  link_text: Ozymandias
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

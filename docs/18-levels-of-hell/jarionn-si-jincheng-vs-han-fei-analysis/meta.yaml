@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jarionn-si-jincheng-vs-han-fei-analysis
+category: doc
+title: Jarionn - Si Jincheng Vs Han Fei Analysis
+alt_titles:
+- Small Analysis of S Jiancheng's Scheme in Ch. 866 - 873)
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- si-jincheng
+- han-fei
+tags:
+- analysis
+- scheming
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1IO4Zr1W2YW9Eb8zhj5QFoK6njLZPBD3jR6YcygyKCQ0/edit?usp=drivesdk
+    google_id: 1IO4Zr1W2YW9Eb8zhj5QFoK6njLZPBD3jR6YcygyKCQ0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1517
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 90429
+      sha256: affd28d313ec116350aea207e21924343acfc65548c89dfaed07eeed964118da
+    - format: docx
+      name: document.docx
+      bytes: 11059
+      sha256: 4dd9183c858251a962f950a685cae21c8815469c99dcebbd63201f3c3c0ca2d9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Small Analysis of S Jiancheng's Scheme in Ch. 866 - 873)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

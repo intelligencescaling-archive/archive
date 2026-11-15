@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mark-hoffman-saw-v-analysis
+category: doc
+title: Mark Hoffman/Saw V Analysis
+authors:
+- name: Kronensegler
+  source: doc-text
+series:
+- saw
+characters:
+- mark-hoffman
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1LXCkKarAbtoY4yQ6z789AWYdq2Fyp7v7XK-gQd8Bo4A
+    google_id: 1LXCkKarAbtoY4yQ6z789AWYdq2Fyp7v7XK-gQd8Bo4A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1572
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 193885
+      sha256: 6a913535ef2792144dbf8aa5cf738a1d4d3b7fe15cdd2c8dba4b1d514f7f3186
+    - format: docx
+      name: document.docx
+      bytes: 81223
+      sha256: 5dc864c008f5cd2118e050e93f797414c893cab5e75cb9f1f8eb9b6cf7e4f6ab
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Mark Hoffman/Saw V Analysis
+- library: remastered
+  section: Saw
+  character: Mark Hoffman
+  link_text: Mark Hoffman/Saw V Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagisa-shiota-intelligence-doc
+category: doc
+title: Nagisa Shiota Intelligence Doc
+alt_titles:
+- Nagisa intelligence doc
+authors: []
+series:
+- assassination-classroom
+characters:
+- nagisa-shiota
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-doRcHaomUIRhUgL4_mISAHlooEnA8I8wkWFDV9eZzw
+    google_id: 1-doRcHaomUIRhUgL4_mISAHlooEnA8I8wkWFDV9eZzw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2378
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 331747
+      sha256: 01b2bb148f0ba0f920ec4f46c787da258133b10bb503c8bd13088165c4557175
+    - format: docx
+      name: document.docx
+      bytes: 216387
+      sha256: 6e3c1d827ab5d1005d6a80d51c3afb37fe9285176af33928ab9a9edd5510aeee
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Nagisa intelligence doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pjs-1x6-strategy
+category: doc
+title: PJ’s 1x6 strategy
+alt_titles:
+- Patrick Jane 1x6 plan and strategy
+- PJ’s 1x6 plan & strategy
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14iJunq2vkWvAAh0-EOt9v35eiWKkGILWUXRZ_eI2AVA
+    google_id: 14iJunq2vkWvAAh0-EOt9v35eiWKkGILWUXRZ_eI2AVA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1442
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 168063
+      sha256: 0063ea9c379521204383b141554c86087823cb59824b25a5b7a5851494b0ce8f
+    - format: docx
+      name: document.docx
+      bytes: 484605
+      sha256: b388cc99431173654e4fe0e40a1a41f5d3e6c5aeffd329859b66db3195e076b1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Patrick Jane 1x6 plan and strategy
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: PJ’s 1x6 plan & strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

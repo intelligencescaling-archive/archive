@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-moon-deception-rmd-feat
+category: doc
+title: Red Moon Deception (RMD) feat
+alt_titles:
+- Akane's Red Moon Deception Feat
+authors:
+- name: Akane Kurashiki
+  source: doc-text
+series:
+- zero-escape
+characters:
+- akane-kurashiki
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1h27mYV-dgeFiWgaEvv7bHwPcgsYSosGDeuJHtkp9WHw/edit?usp=drivesdk
+    google_id: 1h27mYV-dgeFiWgaEvv7bHwPcgsYSosGDeuJHtkp9WHw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1948
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1608613
+      sha256: 7cdffb15e6240d6b9f0766f8f2053f2946857dab769130651d55a671f72d5fa6
+    - format: docx
+      name: document.docx
+      bytes: 2058265
+      sha256: 8da6d1a5b9caf0ab0638c9feecb7c65e17a0a84edc734fcedcf7c857ea6bea0a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akane's Red Moon Deception Feat
+- library: remastered
+  section: Zero Escape
+  character: Akane Kurashiki
+  link_text: Red Moon Deception (RMD) feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

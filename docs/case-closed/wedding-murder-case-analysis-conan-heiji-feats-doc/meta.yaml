@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wedding-murder-case-analysis-conan-heiji-feats-doc
+category: doc
+title: Wedding Murder Case Analysis (Conan & Heiji Feats Doc)
+alt_titles:
+- wedding murder case analysis
+authors:
+- name: Grüner Drache
+  source: doc-text
+series:
+- case-closed
+characters:
+- conan-edogawa
+- heiji-hattori
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1qdG1K_P8JQ-WB3vtBSjm-O1TPZeHUr1biV0Q9HQxVQk
+    google_id: 1qdG1K_P8JQ-WB3vtBSjm-O1TPZeHUr1biV0Q9HQxVQk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 3532
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 12625172
+      sha256: 3e9ca8fe7f085156d22ac8ea695cd9da56de2f6d47cecc9d0e36e879ad73a81c
+    - format: docx
+      name: document.docx
+      bytes: 12193563
+      sha256: 20322b26e0a32fbf1f5bc4901fc904939a4a9fa74fa0bc395f243a504e497b56
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: wedding murder case analysis
+- library: remastered
+  section: Case Closed
+  character: Conan Edogawa (or Kudo Shinichi)
+  link_text: Wedding Murder Case Analysis (Conan & Heiji Feats Doc)
+- library: remastered
+  section: Case Closed
+  character: Heiji Hattori
+  link_text: Wedding Murder Case Analysis (Conan & Heiji Feats Doc)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

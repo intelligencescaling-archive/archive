@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: todd-gladiator-island
+category: doc
+title: Todd Gladiator Island
+alt_titles:
+- Todd Gladiator Island Strategy
+authors: []
+series:
+- re-zero
+characters:
+- todd-fang
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1qVNf4aONZg8W6r3Fnk-MUWZ4xndlXPmhQwtJzQ91rCc/edit?usp=drivesdk
+    google_id: 1qVNf4aONZg8W6r3Fnk-MUWZ4xndlXPmhQwtJzQ91rCc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1484
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 64005
+      sha256: ff95caf401fb94d67015965f53166086a4bfff3044605652681881dc2ade1c0a
+    - format: docx
+      name: document.docx
+      bytes: 11841
+      sha256: 9d4b959eb1268607640b5bf7a06bd1a71822bbe6c6149ce6b28347958eb144f6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Todd Gladiator Island Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

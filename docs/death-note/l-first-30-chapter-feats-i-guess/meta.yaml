@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-first-30-chapter-feats-i-guess
+category: doc
+title: L first 30 chapter feats i guess
+alt_titles:
+- L first 30 chapter feats
+- L first 30 chapters feats i guess
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19Ir-YDlQgJpS0Ofr1eYrF3kZywts-KjlJOBqZebMLZg
+    google_id: 19Ir-YDlQgJpS0Ofr1eYrF3kZywts-KjlJOBqZebMLZg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3315
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 127920
+      sha256: 9dc3d8f1a87bc460fc77e0fa5d3925cb38301f472692faa4fbef7f7298d79eda
+    - format: docx
+      name: document.docx
+      bytes: 15014
+      sha256: 44069609c7e4be84e2ec59a930d57b52408b50e2aaa064edbf10d390b8a92d12
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L first 30 chapter feats
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L first 30 chapters feats i guess
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

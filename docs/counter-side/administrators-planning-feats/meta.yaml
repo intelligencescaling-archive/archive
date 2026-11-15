@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: administrators-planning-feats
+category: doc
+title: ADMINISTRATOR’S PLANNING FEATS
+alt_titles:
+- Administrator Planning feats
+authors: []
+series:
+- counter-side
+characters:
+- administrator
+tags:
+- feats
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1o5Rp0-aLz95naZDf1i7NOtdLC7yOG0CmN26E0Mi6HMI
+    google_id: 1o5Rp0-aLz95naZDf1i7NOtdLC7yOG0CmN26E0Mi6HMI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 8551
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2921109
+      sha256: 05dc03187320ca2da2e5cba729d710619edfb5eff02003d89685d62beb0113b5
+    - format: docx
+      name: document.docx
+      bytes: 2142156
+      sha256: 4f82504545abdb6bfacfeb6e7ace37f6ddc343ce7ad71094469cb86b4b023358
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Administrator Planning feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

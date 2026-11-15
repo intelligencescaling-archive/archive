@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: minotaur-s-labyrinth
+category: doc
+title: Minotaur's Labyrinth
+alt_titles:
+- Baku's Minotaur Labyrinth Strategy
+- Minotaur Labyrinth Strategy
+authors:
+- name: Whitty
+  source: doc-text
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1HugvTUyKHjHs515-VT1NH_CpzWVKRgsxxKwmTYdDdzI/edit?usp=drivesdk
+    google_id: 1HugvTUyKHjHs515-VT1NH_CpzWVKRgsxxKwmTYdDdzI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 6319
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1246122
+      sha256: a75192c20e93ee85e0bd2d3d7fcc269960a8b446d4dec33a105fd2f3bcbf6859
+    - format: docx
+      name: document.docx
+      bytes: 905595
+      sha256: 6f5fecd6f69b2a592b4d163a72530ed04e8d1501dd7305551f998bbe9dddf4f5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku's Minotaur Labyrinth Strategy
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Minotaur Labyrinth Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

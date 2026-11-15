@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: force-quit-strategy
+category: doc
+title: Force Quit Strategy
+alt_titles:
+- Forced Quit Strategy
+authors:
+- name: ForAllPosterity
+  source: doc-text
+series:
+- zero-escape
+characters:
+- akane-kurashiki
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1CWdKH3jZ4wD9oq2haRTIahYZLU9JzNMOTd0vdbQuqzc
+    google_id: 1CWdKH3jZ4wD9oq2haRTIahYZLU9JzNMOTd0vdbQuqzc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 5395
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8244385
+      sha256: a0b8a20178da8e9daec58f45ff14a377436e3fefa3c323d019ddca20a9eb6fa6
+    - format: docx
+      name: document.docx
+      bytes: 12454208
+      sha256: 7533b8b9c452c1d2f49209c6a590e0445b9d1a58fa38e0e5b6d740971089455c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Forced Quit Strategy
+- library: remastered
+  section: Zero Escape
+  character: Akane Kurashiki
+  link_text: Forced Quit Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

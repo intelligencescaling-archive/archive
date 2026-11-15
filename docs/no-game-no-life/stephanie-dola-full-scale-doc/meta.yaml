@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: stephanie-dola-full-scale-doc
+category: doc
+title: STEPHANIE DOLA FULL-SCALE DOC
+alt_titles:
+- Stephanie Dola SCD feats
+- Stephanie Dola SCD doc
+authors: []
+series:
+- no-game-no-life
+characters:
+- stephanie-dola
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Xko7ZnfSoHma8p1tVUyZsIgX0CvAbP0B8HAuO77lhfM/edit?tab=t
+    google_id: 1Xko7ZnfSoHma8p1tVUyZsIgX0CvAbP0B8HAuO77lhfM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 40
+    words: 4960
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4320384
+      sha256: c6c49a1943aca61635897cedc6cf1bcbb562a471585bd053fa1b363bbe19d41d
+    - format: docx
+      name: document.docx
+      bytes: 4190141
+      sha256: 4956058e176ef3580fc56f657855744b3ef792337515d6a30da0992b9a1fa060
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Stephanie Dola SCD feats
+  note: (under development)
+- library: remastered
+  section: No Game No Life
+  character: Stephanie Dola
+  link_text: Stephanie Dola SCD doc
+  note: (under development)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

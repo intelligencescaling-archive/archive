@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: zhuo-fan-intelligence-doc
+category: doc
+title: Zhuo Fan Intelligence Doc
+alt_titles:
+- Zhuo Fan
+authors: []
+series:
+- magic-emperor
+characters:
+- zhuo-fan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1gWpqxSNZ4SGEEuuZejAJkrxDBHbCBy3ix62aFaIvum8
+    google_id: 1gWpqxSNZ4SGEEuuZejAJkrxDBHbCBy3ix62aFaIvum8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 372
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 129485
+      sha256: 87c1d5baf0e26983c46d08f9b6605fabf3c9e3dcf61859deaaf06e1df2b9a1d0
+    - format: docx
+      name: document.docx
+      bytes: 48445
+      sha256: fe70803b0bfdeb89d3b8483a8dabd7b1a7ae20324988b817b2c4da09b6d0315c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Zhuo Fan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

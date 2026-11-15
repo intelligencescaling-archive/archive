@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: phen-228-intelligence-feats-document-fanon
+category: doc
+title: PHEN-228 INTELLIGENCE FEATS DOCUMENT (FANON)
+alt_titles:
+- PHEN-228 doc(the boiled one)
+authors:
+- name: creationcawthon2
+  reddit: creationcawthon2
+  source: doc-text
+series:
+- the-boiled-one-phenomenon
+characters:
+- phen-228
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1dMhQPQPy2R4GY7B82SctLT3WBWF8xjKyWpPRdYpabtQ
+    google_id: 1dMhQPQPy2R4GY7B82SctLT3WBWF8xjKyWpPRdYpabtQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 2538
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1972503
+      sha256: a4c59187b584ba67d43ac3bd17a34e95ca073c4c26af300494fe60b4a5ecba24
+    - format: docx
+      name: document.docx
+      bytes: 2517612
+      sha256: f8bf80348ebdf305c4bbf97bb9799c6cdfef403f6a449ffb905ed7190b5252ad
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: PHEN-228 doc(the boiled one)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

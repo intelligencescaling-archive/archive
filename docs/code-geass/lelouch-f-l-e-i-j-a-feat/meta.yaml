@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-f-l-e-i-j-a-feat
+category: doc
+title: Lelouch F.L.E.I.J.A feat
+alt_titles:
+- Lelouch's F.L.E.I.J.A feat (final version)
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EnQKjhVTrL30mULmHDwgadrCRb8ENKa0
+    google_id: 1EnQKjhVTrL30mULmHDwgadrCRb8ENKa0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Lelouch's F.L.E.I.J.A feat (final version).docx
+      bytes: 713336
+      sha256: e2e712a4c2aab0d35786d3a17efd86572353b9bce2802e4d82b1490ca8a1eb38
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch F.L.E.I.J.A feat
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Lelouch's F.L.E.I.J.A feat (final version)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

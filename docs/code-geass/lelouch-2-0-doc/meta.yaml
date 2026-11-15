@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-2-0-doc
+category: doc
+title: Lelouch 2.0 doc
+alt_titles:
+- Lelouch 1
+authors:
+- name: Animangamastarmedia
+  source: doc-text
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1FpcI1vrdBNUwwIz6dbyb0MaLqJAjxGb9yM4XF9DQmzY
+    google_id: 1FpcI1vrdBNUwwIz6dbyb0MaLqJAjxGb9yM4XF9DQmzY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 8060
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 582393
+      sha256: 1f279514554f20c58c4f82e3e26af368a6389ed33b01a032f4e631c3cf30d8b7
+    - format: docx
+      name: document.docx
+      bytes: 215736
+      sha256: f022946689e1510ae63eda95546afd5c6725dab49bf7d7472f519f3660741318
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lelouch 1
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: Lelouch 2.0 doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

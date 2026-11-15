@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chishiya-shuntaro-jack-of-hearts-doc
+category: doc
+title: Chishiya Shuntaro Jack Of Hearts Doc
+alt_titles:
+- Chishiya Shuntaro Jack of Hearts
+authors:
+- name: VisitUsual8507
+  reddit: VisitUsual8507
+  source: doc-text
+series:
+- alice-in-borderland
+characters:
+- shuntaro-chishiya
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10zF4fA9i68n1WVYs46OljeCL7u-BfBDPX0ProZ2hJ8M/edit?usp=drivesdk
+    google_id: 10zF4fA9i68n1WVYs46OljeCL7u-BfBDPX0ProZ2hJ8M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 3111
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1055286
+      sha256: 92263e23392202ba2d395ce13484c3491af9fc7ac12ac13540d69f958e8a4719
+    - format: docx
+      name: document.docx
+      bytes: 1050546
+      sha256: f50dc798292f2d0d1b0323f36db60b79d5cbb6507e1f6e20145636cc386cc959
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Chishiya Shuntaro Jack of Hearts
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

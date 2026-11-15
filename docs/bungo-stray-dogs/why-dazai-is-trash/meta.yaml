@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-dazai-is-trash
+category: doc
+title: why Dazai is trash
+authors: []
+series:
+- bungo-stray-dogs
+characters:
+- dazai-osamu
+tags:
+- writing-analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-slides
+    url: https://drive.google.com/open?id=1DeMYTezXmm71gvgmxYzmVTO4dTm1g0RaFlLKXjjFfC4
+    google_id: 1DeMYTezXmm71gvgmxYzmVTO4dTm1g0RaFlLKXjjFfC4
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: why Dazai is trash
+  note: (as a character)
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Dazai Osamu
+  link_text: Why Dazai is Trash
+  note: (Writing)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: marla-grayson-doc
+category: doc
+title: Marla Grayson doc
+authors: []
+series:
+- i-care-a-lot
+characters:
+- marla-grayson
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1Z2TVvPaZEzV6oalC0Jkm1tPkXIzbfeNn/edit?usp=drivesdk&ouid=107562670602473967947&rtpof=true&sd=true
+    google_id: 1Z2TVvPaZEzV6oalC0Jkm1tPkXIzbfeNn
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: MarlaGrayson_Hazanas.docx
+      bytes: 4309235
+      sha256: 73f3b5c2509e4d1fe4e34a6fff153cc0a76bde65544e3ffe45039fc59237061f
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Marla Grayson doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

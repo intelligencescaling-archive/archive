@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: voja-doc
+category: doc
+title: Voja Doc
+alt_titles:
+- Voja SCD Document
+- Voja
+authors:
+- name: Axolotol4044/KitchenCoyote_The2nd
+  source: doc-text
+series:
+- usogui
+characters:
+- voja
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1g40LLvKx9H-ZNxzPpXGJZrPO7QxfnqQBZF97-xcSkmQ/edit?usp=drivesdk
+    google_id: 1g40LLvKx9H-ZNxzPpXGJZrPO7QxfnqQBZF97-xcSkmQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2203
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 404472
+      sha256: 1a19575e7f329908b32a01609363b4c7c6667440ed4c72ffdcfc4c1d1689219e
+    - format: docx
+      name: document.docx
+      bytes: 1736327
+      sha256: e833c4b71cfa2f894230408788ade25ded8f3cb804700ceddb4cb0bcd4536110
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Voja SCD Document
+- library: remastered
+  section: Usogui
+  character: Voja
+  link_text: Voja
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,44 @@
+In this document I will analyze Patrick Jane’s Poker Feat from episode 6, season 1.
+
+Made by:
+Arthen
+Contacts:
+Discord: svakeloo
+TikTok: arthenam
+
+The context of the feat
+
+After winning $250,000 in BlackJack, Patrick Jane is playing poker with Cho and Rigsby. Van Pelt asks him how he won. Patrick replies he memorized cards. He tells them he uses his memory palace for it and as an example, asks her to shuffle the cards so he can show the result of it. He asks Van Pelt to shuffle the deck, he doesn’t look at her or in her direction and while she’s shuffling, guesses Cho’s and Rigbsy’s hands, after that, he guesses the dealer card after Van Pelt finishes the shuffling. Van Pelt was shuffling for around 11 seconds. Every place in his memory palace is the position in the deck (1-52) and every card has its own symbol. Photos of it:
+
+Amount of cards in the deck
+
+So let's first count how many cards are not in the deck.
+
+Poker is played with 52 cards, as we can see, there are 14 cards that are not in the deck. I got it from 2+3+4+2+2+1=14. So there are 38 cards in the deck (52-14).
+
+Analysis of the feat
+
+CPI analysis
+
+So, as I said in the context part, Patrick guessed the dealer card BEFORE she finished shuffling. Like 1 second before, when she did the final shuffle. Because Van Pelt didn’t play with them - she doesn’t know how to play poker and what’s the most common way of shuffling among people who don't know how to play card games? Right, overhand! And also we were shown the last second of her shuffle and yes, she was shuffling by overhand. Overhand is when you take a part of a deck and move it to another part of the deck. From watching the scene, I counted 2 shuffles in the last second, which means Patrick had to move 76 cards in his memory palace per second & had to hold 38 cards in his memory but also their positions in the deck, so he had to hold 76 objects. Also Patrick knew the whole deck before she started shuffling because he was able to name 2 cards in the deck and he didn’t even look at them.
+
+Guessing the dealer card part
+
+Now, let's put the analysis of his CPI here aside for a moment and just think about how impressive this stuff is.
+1. Patrick didn’t look in her direction.
+2. He was able to see her shuffling only via peripheral vision.
+3. He guessed the suit of the dealer card after her shuffling.
+First, for Patrick to shuffle the cards in the deck, he would need to see how she's shuffling, but he wasn’t looking in her direction. It means that he either knew how she would shuffle or he has unrealistic vision, which makes his peripheral vision as clear as his central vision. I pick the second variant, you’ll ask me why and I’ll say because it is the most conservative version, considering that predicting a chaotic system is just unbelievably less probable than Patrick being a genetic anomaly. But that just contradicts his other feats, for example from 2x1, he looked at women with his central vision, but couldn’t he just see her reactions via peripheral vision if he ACTUALLY has unrealistic peripheral vision? So it has to be him predicting a chaotic system. But I, to be honest, do not like this stupid feat and just consider it one of those situations, when writers just buff the character for a moment. So I’ll leave it to you. You can either reject this feat, like I did, or you can assume that PJ has clear peripheral vision, which contradicts his behavior in 2x1, or you can assume he predicted a chaotic system. In any case - it is fine to take any of those interpretations.
+CPI analysis continuation
+
+As I’ve said before, Patrick had to move 76 cards per second around in his memory palace. Let me show you how impressive that is.
+In this study, credits to HelloThere1089 in his document, I couldn’t find a good study and remembered about his PJ FSIQ debunk doc.
+In this study, 30-34 year old male people’s average amount of symbol digit modalities test was 53.87 in 90 seconds. I picked 53.87 because Patrick Jane was 34 in season 1 of  The Mentalist.
+
+The Symbol Digit Modalities Test (SDMT) is a quick and easy assessment tool used to measure cognitive processing speed, attention, and visual scanning, and is sensitive to brain damage. To administer it, a person has 90 seconds to write the numbers corresponding to a series of abstract symbols based on a provided key. So it consists of 3 operations: seeing the symbol, associating it with the other one, writing it down. So to find how many operations in second an average person can do, we have to multiply 53.87 by 3 and divide by 90; 53.87*3=161.61; 161.61/90=1.796;
+It means the average person’s PSI is 1.796 operations per second. Now, let’s calculate Patrick’s PSI. Patrick moving one card around his memory palace consists of 8 operations: perceiving the card, associating it with the symbol, associating the position of the card with the exact place in his memory palace, finding the symbol in the exact place, removing it from there, associating its next position after the shuffle with the place in the memory palace, finding the particular place it’s supposed to be in, putting it there.
+76*8=608; Patrick’s PSI is 608 operations per second. Patrick’s WMI is 76 objects in the head, while the average person’s is 4±1. 76/3=25.333; 76/4=19; 76/5=15.2;  Let’s count how much higher his PSI is than the average person of his age’s PSI. 608/1.796=338.53; Patrick’s PSI is 338.53 times higher than the average person’s PSI & Patrick’s WMI is 15.2/19/25.333 times higher than the average person’s WMI. Also the memory palace feat is very good for VSI since he in detail describes symbols he associated the cards with.
+
+Conclusion
+Patrick Jane’s poker feat puts him in an almost unrealistic range of PSI. And depending on interpretation, it also buffs either his perception, or his psychological insight.
+I hope you’ve enjoyed reading this document. If you have any questions, please contact me in discord.

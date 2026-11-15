@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-change-the-world-doc
+category: doc
+title: L Change The World Doc
+alt_titles:
+- CTW L 2
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+variant: Change the World
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15eOFfVIvrHh61jQb11vw8NQL4Yyc46-X9MR7CdH1Y24
+    google_id: 15eOFfVIvrHh61jQb11vw8NQL4Yyc46-X9MR7CdH1Y24
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3431
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 411911
+      sha256: 9543ff203a2d4378c17004d73f929db733ac009e72c89d654cdd9e6bee7aec97
+    - format: docx
+      name: document.docx
+      bytes: 1602948
+      sha256: 406a54d976b55bd1586c8cbb67e9ffcec58b8ad4c7071ef3961907153fb991d8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: CTW L 2
+- library: remastered
+  section: Death Note
+  character: L Lawliet - Change the World
+  link_text: L Change the World Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

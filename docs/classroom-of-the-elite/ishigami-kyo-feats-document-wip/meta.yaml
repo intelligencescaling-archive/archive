@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ishigami-kyo-feats-document-wip
+category: doc
+title: Ishigami Kyo Feats Document (WIP)
+alt_titles:
+- Ishigami Kyo SCD Feats Doc
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kyo-ishigami
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1pSgKYUYwUnn75ILyVbatMFiAK6BZ2JbTV_3cp1ikNGg/
+    google_id: 1pSgKYUYwUnn75ILyVbatMFiAK6BZ2JbTV_3cp1ikNGg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 2778
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2809041
+      sha256: 66c89b2aa77611865280ceb087c25e5f216b78f0d9736328a2fe5d844cbab970
+    - format: docx
+      name: document.docx
+      bytes: 3069106
+      sha256: 46875e91f08dabab698c7dd0bab3b0b27e0bd146678ff9b218d7d33a5ee17c76
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ishigami Kyo SCD Feats Doc
+  note: (WIP)
+- library: remastered
+  section: Classroom of the Elite
+  character: Kyo Ishigami
+  link_text: Ishigami Kyo Feats Document (WIP)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

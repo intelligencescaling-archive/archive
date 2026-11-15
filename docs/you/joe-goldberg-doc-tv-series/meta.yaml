@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-doc-tv-series
+category: doc
+title: Joe Goldberg Doc (TV Series)
+alt_titles:
+- Joe Goldberg
+authors:
+- name: umontrose
+  source: doc-text
+- name: tt
+  source: doc-text
+- name: yt
+  source: doc-text
+- name: sido75
+  source: doc-text
+- name: yildizya/cheatspeed
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nokx8U0sb87bwx9_oDJjfNL0b8WRFAzZKFeafV7LAqc
+    google_id: 1nokx8U0sb87bwx9_oDJjfNL0b8WRFAzZKFeafV7LAqc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 35
+    words: 11844
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2611058
+      sha256: 1855647c00667e7807d2ba05101efcb65caef5988d3fdedfe5b8492f139d43ff
+    - format: docx
+      name: document.docx
+      bytes: 1498116
+      sha256: 8fe78f0a40ca796bc41a4768e38a99aca4e0a61f3bea572e4be3133bab5de961
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joe Goldberg
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

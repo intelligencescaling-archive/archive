@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chess-match-y1v11
+category: doc
+title: Chess match Y1V11
+alt_titles:
+- Chess Match - Ayanokouji’s feats - V11
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1rSLUTOzqgsfpublB6N__U6RS-5FCpQK_DdJNcXYh9fE
+    google_id: 1rSLUTOzqgsfpublB6N__U6RS-5FCpQK_DdJNcXYh9fE
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Chess match Y1V11
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Chess Match - Ayanokouji’s feats - V11
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

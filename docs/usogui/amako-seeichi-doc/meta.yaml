@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: amako-seeichi-doc
+category: doc
+title: Amako Seeichi Doc
+alt_titles:
+- Amako Seeichi SCD document
+- Amako Seeichi
+authors:
+- name: Axolotol4044/KitchenCoyote_The2nd
+  source: doc-text
+series:
+- usogui
+characters:
+- amako-seeichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/180zrRg968LN14ku5NgJDymCmS0KtxjgpQIlIQDtdr-Q/edit?usp=drivesdk
+    google_id: 180zrRg968LN14ku5NgJDymCmS0KtxjgpQIlIQDtdr-Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 2098
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 248106
+      sha256: ca86ceedc856c56a0f2e0cf5cee3e7576d68f39185012242be36e1e53bb4d530
+    - format: docx
+      name: document.docx
+      bytes: 917727
+      sha256: 44319c6ff4a6c8456dafa7bc3022ac6a9e471db50cc0033476362d7e5d01dff4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Amako Seeichi SCD document
+- library: remastered
+  section: Usogui
+  character: Amako Seeichi
+  link_text: Amako Seeichi
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

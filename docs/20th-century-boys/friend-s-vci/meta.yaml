@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: friend-s-vci
+category: doc
+title: Friend's VCI
+alt_titles:
+- Friend VCI
+authors: []
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- vci
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jfACUQP0vdE_WUmr2PFwuryJ1h5Fp9rZEoI6CfgPeq0
+    google_id: 1jfACUQP0vdE_WUmr2PFwuryJ1h5Fp9rZEoI6CfgPeq0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3196
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 259231
+      sha256: c6839c9d1d91de2ba6f35eed769be9bf10c31fcbdd769b373be954cb773a9cd1
+    - format: docx
+      name: document.docx
+      bytes: 2980651
+      sha256: 68ad6fe964eb5eb07e150e00d8030db0492e374a6d89293b00cd9b1c1eb945d5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Friend VCI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

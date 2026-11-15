@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: siesta-s-scheming-feats
+category: doc
+title: Siesta's Scheming Feats
+alt_titles:
+- Siesta's Scheming Feats Doc
+authors:
+- name: Reverie
+  source: doc-text
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+tags:
+- feats
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1KKUsYp0lqVxjOKNcgyZf-4Nq1mSNAOk6UgaHZA6qnnY/edit?usp=drivesdk
+    google_id: 1KKUsYp0lqVxjOKNcgyZf-4Nq1mSNAOk6UgaHZA6qnnY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 120
+    words: 38725
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3712605
+      sha256: 47af8eae9ee3d5fd30df098f1f20270cc1201bb3dbcda2df3a2da9a080ce7adb
+    - format: docx
+      name: document.docx
+      bytes: 2312148
+      sha256: 7622a2dfbb158239837a5e393df82e143367e32e98e59baef42e7c3846ec9bc6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Siesta's Scheming Feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

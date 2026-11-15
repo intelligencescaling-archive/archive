@@ -1,0 +1,129 @@
+Pandemic Game LR Before we start, you can read Akiyama’s chain of reasoning in this document.
+
+Let me clear up a possible misunderstanding first — my goal here isn’t to directly disprove Akiyama’s deduction. What I actually want to do is explain why Akiyama’s reasoning burns way more cognitive energy than necessary, and to present a simpler alternative model that does the same job more efficiently.
+1. If you’re wondering why that makes Akiyama’s deduction “bad,” it’s because in its current form it’s just not that impressive. Figuring out the system’s basic axioms is something any observer could do, since the rules themselves are deterministic and already define everything for you. Now I’ll lay out the rules of the Pandemic Game.
+R1.
+
+Two of the players will be chosen as "Infected" at the beginning of the game.
+
+R2.
+
+A player can confirm their status by using one of the four "examination rooms".
+
+R3.
+
+When 2 "normal" players "contact" they will each receive one vaccine.
+
+R4.
+
+When 2 "infected" players "contact" nothing happens.
+
+R5.
+
+When a "normal" contacts an "infected", the normal person will become "infected".
+
+R6.
+
+When an "infected" contacts a "vaccine holder" they will become "normal", while the other player loses a vaccine.
+
+R7.
+
+An "infected" who owns vaccines can click "activate" on their watch to become "normal". As a result, the player will lose a vaccine.
+And here’s how you can derive the system’s three fundamental axioms from them.
+“If 10 players contact each other in a round-robin and one is infected, the virus spreads to only 2 people.”
+Derived from: R1 (2 infected start), R4 (IF+IF → nothing), R5 (IF+NM → NM becomes IF)
+Explanation:
+Only one infected can turn a few normals before meeting another infected or looping ends. Round-robin contact limits total spread a direct result of R4 and R5.
+
+“If two players are infected, the results are inconsistent.”
+Derived from: R1, R4, R5
+Explanation:
+Two infected players can’t infect each other (R4), and each spreads differently to normals (R5), creating uneven, non-linear infection ratios.
+
+“If two infected exist and one actively contacts three normals first, nine become infected.”
+Derived from: R1, R5
+Explanation:
+Because R5 allows infection on every contact, one active infected spreading early to multiple normals triggers a chain reaction before others start perfectly matching the “9 IF” outcome.
+
+These ideas are already built into the system, Akiyama didn’t really have to think hard to find them since the rules themselves explain everything. You got R5 saying IF plus NM makes another IF, that’s how infection spreads. R4 says when two IFs meet nothing happens, so that’s what slows it down. R3 and R6 are about vaccines, how you make them and how they can fix infection. So his first three premises are just different versions of the same thing, one with round-robin order, one with two IFs meeting, one with free contacts that spread fast. The system’s made in a way that those “axioms” aren’t some genius deduction, they’re just what naturally happens when you let the rules play out.
+At this point I think most people would agree with me, so I’ll skip over that part. The only actually impressive inductive step in Akiyama’s whole reasoning is the one used to build the needed algorithm. Since you can already read that inductive reasoning in the document above, I’ll just explain it briefly here.
+He assumes two players are the initial infected, then applies the game rules (like IF+NM → IF, IF+IF → nothing, etc.) step by step to test possible contact scenarios. For each scenario, he compares the results with the data revealed at the end of the game. The ones that don’t match are discarded, and the single scenario that perfectly fits the rules is accepted as the correct one. In short, he’s basically using a trial-and-error method to logically figure out which two players were infected from the start.
+Not sure if you see the problem here, but this kind of reasoning is just as simple, and the algorithm he builds through induction isn’t even generalizable. What makes an inductive inference actually good is how well it can be generalized, and Akiyama’s one totally fails there. Simulating interactions just to tell truth from lies isn’t some hard thing to think through, and it can’t be generalized cause every new situation would force you to redefine the axioms and rebuild the model from scratch. In Pandemic, anyone could’ve figured that out on the spot, grabbed a piece of paper, and tried it themselves. What makes Akiyama seem impressive isn’t deep understanding or insight, it’s just that he can run that deductive simulation in his head.
+* If IF + NM → IF, then when X contacts Y and neither gets infected, that means X isn’t infected (NM) and Y isn’t infected (NM) either. That kind of contact is “NM + NM,” so both of them get +1 vaccine (R3).
+A line of reasoning like that is something anyone could come up with. Cause this kind of reasoning is just mechanical, there’s nothing deep going on. If IF + NM makes IF, then yeah, if X meets Y and both stay normal, obviously they were both NM so they each get +1 vaccine (R3). That’s not some big brain move, it’s just following the rules like pressing buttons in order. There’s no creativity, no insight and no comprehension, just basic cause and effect. Anyone who actually read the rules once could figure that out, so I honestly don’t get why people think it’s impressive at all.
+So is there really nothing else that makes Akiyama’s reasoning good besides all that simulation stuff? Well actually there is, but it totally depends on how you look at it. His deduction is verifiable, and the fact that it’s so mechanical and lacks creativity kinda makes it flawless and impossible to disprove. But I wouldn’t count that as a +, cuz in a closed system where everything’s limited and deterministic, being “perfect” isn’t about brains, it’s just the system doing what it’s built to do. That perfection says more about the game’s setup than about Akiyama’s intelligence.
+So if you’re wondering what I mean when I keep saying since the start that there’s an easier way to solve this than Akiyama’s method, well, now it’s time to show it.
+
+In this game people are split into two groups
+
+* the infected ones (IF)
+* and the normal ones (NM)
+
+If someone’s infected and touches a normal person with no vaccines, that normal instantly turns infected too
+so the virus only jumps from “no-vaccine” to “no-vaccine” people
+
+But as everyone keeps touching each other, they start building up vaccines
+which means the longer the game goes, the harder it gets for the virus to spread
+
+Right when the game starts everyone’s touching everyone
+and nobody’s got any vaccines yet
+that’s the easiest moment for the virus to spread, the early window
+
+That window doesn’t last long
+once everyone’s touched a few people and stacked up some vaccines
+there’s no unvaccinated left
+and from that point the virus can’t really move anywhere
+
+By the end of the game we see this
+
+9 people got infected
+
+and all of them are “infected with zero vaccines”
+that’s a really specific case
+it means the virus only spread during that early window
+cause if it had spread later, some infected would’ve had vaccines by then
+
+At the start there were just two infected
+one super active
+the other barely talked to anyone
+
+If the active one touched a bunch of people in that early window,
+he could’ve caused all 9 infections by himself
+but if both infected had spread evenly,
+the virus wouldn’t have gone that far
+or we’d have seen some vaccinated infected people appear
+
+During that early window the active one touched 7 unvaccinated people in a row
+they all got infected
+so before the game’s even over, there are already 9 infected total
+
+And that’s why
+
+the fast mover, Yokoya, is the real spreader
+
+The other infected, FourEyes, just stays passive
+
+In the end the virus spreads to everyone through Yokoya
+but later he touches a couple of normals and turns normal again
+so by the end he’s counted as normal
+
+And the whole question he’s asking is basically
+
+“If 9 people end up infected, what kind of behavior pattern makes that possible?”
+
+Then he checks one by one
+
+If everyone touches in order → nope
+If both infected spread evenly → nope
+If one guy moves fast and touches everyone → yeah that works
+
+That one “yeah”
+is the single scenario where Yokoya moves first and spreads it all
+
+Result of this algorithm should be like this:
+
+Conclusion: This feat easily below Yumeko in Deduction
+Normally, I wouldn't mention this algorithm in the document, but if I'm claiming it can be optimized, I felt I needed to provide at least one concrete example. If you claim my algorithm is flawed, we can discuss it. That would be a win for me too, but it still doesn't invalidate the document's main proposition. I want you to know that.
+Edit: I realized I hadn't mentioned reaching the conclusion that the spread began at an early stage. While Akiyama's feat is somewhat impressive, it still isn't sufficient to truly measure it at such a high level as it's been exaggerated. At the very least, I can claim that he has accurately assessed the scope of his own situation, but he can't go beyond addressing a few types within his own closed system.
+Edit 2:
+Thanks for reading. This document made by: @Whynot5534 (on youtube) whynot_223 (on discord)

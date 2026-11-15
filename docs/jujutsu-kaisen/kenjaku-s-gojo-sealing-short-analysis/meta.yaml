@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-s-gojo-sealing-short-analysis
+category: doc
+title: Kenjaku ‘s Gojo sealing short analysis
+alt_titles:
+- Kenjaku's Gojo Sealing short analysis
+authors: []
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+- satoru-gojo
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1w_vaWM6NbT08fiXdC_MGXMsFUlrZMZq3tLgd8xRfW9Y
+    google_id: 1w_vaWM6NbT08fiXdC_MGXMsFUlrZMZq3tLgd8xRfW9Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 3853
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 27585218
+      sha256: f92355cd3adca6542d9c4d9202abd4174d5ac34e955cc81a9cfc6e448dc76b45
+    - format: docx
+      name: document.docx
+      bytes: 21123005
+      sha256: fb1e91ebcfe1a81c553e409642e528442863cdaa910877c01715c99d2e66f098
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kenjaku's Gojo Sealing short analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-s-stock-market-feat-debunk
+category: doc
+title: L's Stock Market feat Debunk
+alt_titles:
+- L’s Stock Market feat debunk
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- feats
+- debunk
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ZGdJPZevcSnYqtR3jcaYQRKKHeON6kkVW_2kZYAGDZs
+    google_id: 1ZGdJPZevcSnYqtR3jcaYQRKKHeON6kkVW_2kZYAGDZs
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L's Stock Market feat Debunk
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L’s Stock Market feat debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

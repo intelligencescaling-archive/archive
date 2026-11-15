@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-madarame-some-feats
+category: doc
+title: Baku Madarame some feats
+alt_titles:
+- Baku 2
+authors: []
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1v1bbvPtf8zhmAEinxNCe6SDZYgE-FhMrnmVD1o1YZKQ
+    google_id: 1v1bbvPtf8zhmAEinxNCe6SDZYgE-FhMrnmVD1o1YZKQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 21
+    words: 13271
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 392281
+      sha256: fa40232d72420e2826edd3724011377561e829d2abdb7e791e79a942cc2a7b12
+    - format: docx
+      name: document.docx
+      bytes: 34175
+      sha256: da986e948d9139ef2da095fd4841213d105c4ef71014914f176c0e5d86b319bb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku 2
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Baku Madarame some feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

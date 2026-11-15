@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: charles-vespian-hale-document
+category: doc
+title: Charles Vespian Hale Document
+alt_titles:
+- Charles Vespian Hale Doc
+authors: []
+series:
+- lincoln-rhyme
+characters:
+- charles-vespasian-hale
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1PRrYAjGqf91l4fMz7eWPFDJgZiPsWHeceNHbi83gSD4/edit?usp=drivesdk
+    google_id: 1PRrYAjGqf91l4fMz7eWPFDJgZiPsWHeceNHbi83gSD4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 99
+    words: 20160
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 684529
+      sha256: 78072b0f4a058a4f2f736d856e0343dd526b1bfbfda665f085e7dc821eeb9cf2
+    - format: docx
+      name: document.docx
+      bytes: 79771
+      sha256: 3eaa9425bc3c88d4c711ecdf83ef7cbd14de571a34b756ba51eccaa9bdc5c9df
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Charles Vespian Hale Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

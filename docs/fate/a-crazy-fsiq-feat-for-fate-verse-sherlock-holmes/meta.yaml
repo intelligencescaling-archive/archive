@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-crazy-fsiq-feat-for-fate-verse-sherlock-holmes
+category: doc
+title: A crazy FSIQ feat for Fate verse Sherlock holmes
+alt_titles:
+- Fate Sherlock FSIQ Doc
+authors: []
+series:
+- fate
+characters:
+- sherlock-holmes-fate
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17BIMN0inMzfrEDV_qsjFbvA3597jRqzuBCywWzGy9aA
+    google_id: 17BIMN0inMzfrEDV_qsjFbvA3597jRqzuBCywWzGy9aA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 93
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 311404
+      sha256: c00a3698f860e7dfa0209719afb6ef6789db0674fe4689fb3fa3253d9433839f
+    - format: docx
+      name: document.docx
+      bytes: 253372
+      sha256: 8a9b9cf5829770ee897f6c57859f6ac77d1e11b181f5c59d273a2c82ad9d787e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Fate Sherlock FSIQ Doc
+- library: remastered
+  section: Fate
+  character: Sherlock Holmes
+  link_text: A crazy FSIQ feat for Fate verse Sherlock holmes
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

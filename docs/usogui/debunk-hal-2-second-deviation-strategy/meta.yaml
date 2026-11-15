@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunk-hal-2-second-deviation-strategy
+category: doc
+title: Debunk Hal 2 second deviation strategy
+alt_titles:
+- Hal debunk 2
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- strategy
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GjBcAAyeUlwcImIqM4U59_qiUbC7ocIBsbbKnEamvYA
+    google_id: 1GjBcAAyeUlwcImIqM4U59_qiUbC7ocIBsbbKnEamvYA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 4634
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 19145154
+      sha256: 8dc93fe47b54650282a789481f7bdf039b6a130a33523f7c991db5e67d81a38d
+    - format: docx
+      name: document.docx
+      bytes: 20297497
+      sha256: f5e49fc6e0a11c86044b131b49c1f3731773776d6bb1ac9cb5066c1b62b4c26e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Hal debunk 2
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: Debunk Hal 2 second deviation strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

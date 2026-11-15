@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: strategy-planning-and-tactics-doc
+category: doc
+title: Strategy, Planning, and Tactics Doc
+alt_titles:
+- Strategy, Planning and Tactics Document
+authors:
+- name: HelloThere1089
+  source: doc-text
+series: []
+characters: []
+tags:
+- guide
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1_sxHBYYYY6m3nJTeptsjfNxet36-CtMGVgX_rG8yPKY/edit?usp=drivesdk
+    google_id: 1_sxHBYYYY6m3nJTeptsjfNxet36-CtMGVgX_rG8yPKY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3632
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 168305
+      sha256: 6b5a4b2faff0a425501b731ef681c57db400e36e52d5cfb87aff4b5a938233bc
+    - format: docx
+      name: document.docx
+      bytes: 28198
+      sha256: 3f673b8944a94db19827700cf6861604b558066c86cce903ca51f1e6bd7d272d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Strategy, Planning and Tactics Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

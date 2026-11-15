@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bb-fsiq-debunk
+category: doc
+title: BB FSIQ Debunk
+authors: []
+series:
+- death-note
+characters:
+- beyond-birthday
+tags:
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VOV3MaVSfPbpsWIexc49TWLjabOQNdYRGM4asZVAm1c
+    google_id: 1VOV3MaVSfPbpsWIexc49TWLjabOQNdYRGM4asZVAm1c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3072
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 541454
+      sha256: f1e375cc443f19a6ceb410287ac96374db5abca0d45d46a17b35308c50cb2f6c
+    - format: docx
+      name: document.docx
+      bytes: 364604
+      sha256: cd5ca4017c0ef2b65c86ec0d9c0a709afca0309d04d0a82104cb04bad8590de9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: BB FSIQ debunk
+- library: remastered
+  section: Death Note
+  character: Beyond Birthday
+  link_text: BB FSIQ Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

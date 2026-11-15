@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chishiya-shuntarou
+category: doc
+title: Chishiya Shuntarou
+alt_titles:
+- Chishiya Shuntaro Doc
+authors: []
+series:
+- alice-in-borderland
+characters:
+- shuntaro-chishiya
+variant: Manga
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1rYvUkW4m68tRv9vezrVs5uZfrIBoad0wYYbSRuEioDc/edit?tab=t.0
+    google_id: 1rYvUkW4m68tRv9vezrVs5uZfrIBoad0wYYbSRuEioDc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 9332
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 725095
+      sha256: d26ed191599d01d6afcf784341de9686f103a6911eadde52de53d91396a2956e
+    - format: docx
+      name: document.docx
+      bytes: 393362
+      sha256: 28fa92ed3714b0d8326327e45ca3d67adb47e27ef6ee6a7f174490614843784b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Chishiya Shuntaro Doc
+  note: (only manga version)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

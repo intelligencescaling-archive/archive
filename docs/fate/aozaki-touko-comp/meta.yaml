@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aozaki-touko-comp
+category: doc
+title: Aozaki Touko (Comp)
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- aozaki-touko
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1kJAAJ7fIRV4hpLwQcI80DDPESze9XGfi-L6unSQwAJc/edit?tab=t.0
+    google_id: 1kJAAJ7fIRV4hpLwQcI80DDPESze9XGfi-L6unSQwAJc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 730
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2175944
+      sha256: d3bf25fa804a3e2ca08d2c31fe1133724ea54d95e6dc9f765d5e876f42a1a591
+    - format: docx
+      name: document.docx
+      bytes: 1494457
+      sha256: 0c5eb59460a8f2d79570cd56c3b0cfe0657e4da5b447a72df54f06603536b072
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Fate
+  character: Aozaki Touko - Composite
+  link_text: Aozaki Touko (Comp)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

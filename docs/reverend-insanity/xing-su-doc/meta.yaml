@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: xing-su-doc
+category: doc
+title: Xing Su Doc
+alt_titles:
+- Xing Su SCD Document
+authors: []
+series:
+- reverend-insanity
+characters:
+- xing-su
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IM8tmSGChZz1_fJQeeoo43XtKv5N1Bt5GuTVqQcyjSI
+    google_id: 1IM8tmSGChZz1_fJQeeoo43XtKv5N1Bt5GuTVqQcyjSI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 8243
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 842360
+      sha256: 3d8b84854b3445a1b1f849f91c15c89d314de530897aacaea31d8c16615ae41b
+    - format: docx
+      name: document.docx
+      bytes: 1895736
+      sha256: 23898ecdbe050981ab73aa5ef37fe134b566094a68e4058ec46821168f18b92e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Xing Su SCD Document
+  note: (Reverend Insanity)
+- library: remastered
+  section: Reverend Insanity
+  character: Xing Su
+  link_text: Xing Su Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

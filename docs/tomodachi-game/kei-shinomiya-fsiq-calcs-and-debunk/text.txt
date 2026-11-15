@@ -1,0 +1,69 @@
+Kei Shinomiya FSIQ Debunk and Calc
+By HelloThere1089
+
+In this doc I will be debunking some feats stated in this doc and present a few calculations of my own.
+1. Seeing the Sun Debunk
+2. Location Calculation Feat
+3. Riffle Shuffle Tracking Feat
+
+Discord: hellothere1089
+Seeing the Sun Debunk
+
+This section will mainly feature the “saw the sun perfectly” feat in the FSIQ calculations section. As usual, props to the original creator.
+
+False Premise
+The doc claims the following:
+
+“As we all know he saw the sun perfectly, this would mean he had enough vision to look at the sun, micri meter perfect.”
+
+The doc also states that it is taking everything literally, likely to buff the feat beyond what it actually is. However, even to take something literally, a statement still needs to exist. No statement regarding “seeing the sun perfectly” was ever made in the scans provided by the doc. The scans shown are as follows:
+
+Nowhere in these scans is it mentioned that he saw or visualized the sun in such high fidelity. All he is stated to do is see the shift in the sun’s position from before he was blindfolded, to after the blindfold was taken off, while also taking into account the shift in sun’s position due to the rotation of the Earth. While this is impressive in calculation, this has nothing to do with visualization of the sun in high detail. It is not even needed. In fact the word “perfectly” is not even present in any of the scans.
+
+Which is why the attempt to calculate the CPI and VSI of Kei by dividing the distance of the Sun with the distance humans can see typically, is also flawed. Because it assumes that he needed to visualize every detail of the sun as if it were 5 km away from him. The entire visual span calculation also doesn’t make sense because the Sun, from that far away, wouldn’t even occupy much of the visual span of even the shortest individual. The doc completely invented the perfect visualization feat and then tried to calculate the visualization of the Sun as if Kei were using a human zoom effect.
+Location Calculation Feat
+I will now try to elaborate on what Kei actually had to do. However, due to the few details actually given, I will have to make some assumptions. If you disagree with them, then feel free to either disregard the calculation, or plug in your assumptions/numbers in my methodology and get your own answer.
+
+The Scans
+
+Based on the statements, Kei calculated his location based on:
+1. Speed of the cars
+2. Time spent while travelling
+3. Position of the sun
+
+The Calc
+Based on the available information, we can infer some details as well. Roads are rarely straight for long stretches. So we can infer that he also took into account the turns that the cars made. The text implies that Kei is using the dead reckoning methodology. Let’s divide the calc based on the different formulae used in this:
+Part 1: Calculate the distance covered by the car. The formula is very well known for this.
+Distance = Speed x Time
+
+Part 2: Calculate the net displacement between the starting and final position of the van. This requires Kei to track all the turns made by the car. After he has all the turns he needs to calculate the shortest possible distance between the initial and final positions. This can be done by equating the path of trajectory with simple shapes like triangles, semicircles, etc and using formulae like the Pythagoras, circumference formula, or more complex formulae for complex shapes like pentagons. This can be tracked in real time by a genius like Kei and at the end he can use the ratio to get the net displacement. Since we don’t know how many turns the car made, for ease of calculation I will assume he was doing it in real time. This part is also highly assumptive because it is very much possible that the trajectory of the car was relatively straight.
+
+Part 3: Calculate the direction of net displacement. If his tracking of turns is perfect, this wouldn’t be required, however since it was mentioned, we can assume it was necessary. After calculating the net displacement, we get a probable radius of where Kei can be with the center being the starting point. After that, using the shift in Sun’s position, he can know the rough position of himself on the island.
+
+This can be achieved by knowing a few things:
+1. The Sun shifts 15 degrees per hour due to the rotation of the Earth.
+2. Initial and final position of the Sun.
+3. Estimated celestial lines of positions (Solar azimuth and altitude)
+
+Based on these things, Kei could have gotten a rough estimate of his location on the Island.
+
+The timeframe of this calculation is pretty vague. Because a lot of this can be done before even seeing the final position of the Sun in the sky. Let’s say the time between when the car stopped moving and when his blindfolds were taken off was 5 minutes. Then it would be less impressive compared to if he did it in seconds after the blindfolds were taken off. Only part 3 of the calculation requires the position of the Sun. The rest can be calculated before that. And after getting the position of the Sun, Kei can just calculate the direction and know his location. We also don’t know how long “immediately” is. So even part 3 is tough to estimate. You can argue he did it in a matter of seconds. In which case it would be impressive depending on the methodology he used. He could have used a simplistic model like length and angle of shadows, or accurate estimation of the Solar Azimuth, altitudes, etc.
+
+Conclusion
+I have purposefully avoided needlessly complex formulae in this doc because of how vague the feat itself is. Either way, the feat is an impressive CPI feat, likely at the level of the top human calculators IRL or even above depending on what formulae and timeframe Kei used. If we assume he also tracked all the turns that the car made, this would also be a sensory and VSI feat because he must have had to account for that while calculating the net displacement.
+
+Riffle Shuffle Tracking
+
+It is stated that Kei can indeed track the entire card order easily if riffle shuffle is used and with some difficulty if hindu shuffle is mixed in.
+
+Usually cards are shuffled in a quick manner in casinos. However, as a low end, I’ll be assuming that each cut of the Hindu shuffle takes 1 second. Since Hindu shuffle is the harder one to keep track of, I’ll be using that one primarily in this calc. So every second of shuffling, the order of the cards are rearranged. As such, Kei would have to make 52 Operations/Second and keep 52 cards in his mind simultaneously in order. This covers the PSI and WMI aspect of this feat.
+
+Benchmarking PSI
+Here is a research report on the mean score in the Symbol Digit Modalities Test. This is used to measure processing speed. The report divides the population into demographics and age groups. The highest average score is 58.21 successful symbol substitutions in 90 seconds. According to this the average human PSI would be 0.65 Ops/Sec. So far no documented case of someone scoring 110 is there. However, that would be the theoretical maximum. Considering that the cases are this unknown, we can assume that the peak human PSI should be around 110/90 = 1.22 Ops/Sec. WAIS on the other hand gives mean and max score of Digit Symbol test as 65.98 and 133 successful pairings in 120 seconds. This gives us the average PSI of 0.55 Ops/Sec and peak PSI of 1.11 Ops/Sec.
+
+Benchmarking WMI
+The average forward digit span performance is stated to be 5 to 9. The peak forward digit span performance is held by Simon Reinhard which is 240 digits repeated in exact order.
+
+Conclusion
+Depending on the methodology chosen, Kei Shinomiya should be around 46.85x to 42.62x the PSI of the peak human. His WMI should at the very least be 5.8x the WMI of the average person.
+As a low end interpretation, it can also be argued that Kei simply keeps track of the card that he sees at the bottom of every cut, and then later calculates the order after the entire shuffling process is done. This makes the calculation timeframe unknown. If we assume he takes 3-4 minutes to calculate (also assuming that the hindu shuffle involved 5 cuts at least), this would put his CPI at peak human level with exceptional visual tracking.

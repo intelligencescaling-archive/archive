@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jia-jin-sheng-murder-case
+category: doc
+title: Jia Jin Sheng Murder Case
+alt_titles:
+- Fang yuan's jia jin sheng murder case
+authors:
+- name: Rain
+  source: doc-text
+- name: Herald
+  source: doc-text
+- name: Kylizz
+  source: doc-text
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1fixVa0k3oUFrqR9GZ5_5XbXgaz03wGKnmK4fW4nfpIc
+    google_id: 1fixVa0k3oUFrqR9GZ5_5XbXgaz03wGKnmK4fW4nfpIc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 65
+    words: 26631
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 700664
+      sha256: 70f07a13667b236e227bd2c6140fb515b917e8b3b82932ce82fd30466362292b
+    - format: docx
+      name: document.docx
+      bytes: 659618
+      sha256: 6b2c0e526a6ef24f7d9dcacb195d39578c6cbc872430c7a8ac1dd3ea81a1acfc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang yuan's jia jin sheng murder case
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Jia Jin Sheng Murder Case
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

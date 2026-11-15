@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: outerversal-son-goku
+category: doc
+title: Outerversal Son Goku
+alt_titles:
+- Outerversal Goku
+authors: []
+series:
+- dragon-ball
+characters:
+- goku
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/18_-tMyTqXb5zAz0WYdppbj6XkkY5kBAPs930oWfuPaM/edit?usp=drivesdk
+    google_id: 18_-tMyTqXb5zAz0WYdppbj6XkkY5kBAPs930oWfuPaM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 345
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2565410
+      sha256: 8f042be027f92c8d5e7ed7325f66836bf97d8ded02e08e319e9ccdc20f3556f2
+    - format: docx
+      name: document.docx
+      bytes: 2689316
+      sha256: 81613d4e28bdb418ae8ab1b2ac54934c2256c39a503ce922813d2a582db8e7e1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Outerversal Goku
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

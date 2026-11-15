@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: xun-yu-s-shattered-strategy
+category: doc
+title: Xun Yu's shattered strategy
+authors:
+- name: Pick_Me_Gal_1092
+  reddit: Pick_Me_Gal_1092
+  source: doc-text
+series:
+- ravages-of-time
+characters:
+- xun-yu
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pVpzxtTv6YlGe1M3d7nx5COCq6OT7X7zjrqWhWY8LSA
+    google_id: 1pVpzxtTv6YlGe1M3d7nx5COCq6OT7X7zjrqWhWY8LSA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 13638
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 478250
+      sha256: eab471fee28a482ea4ab806749ab634b42480a0e1bab9cf63faf4ca07b7cd84e
+    - format: docx
+      name: document.docx
+      bytes: 38243
+      sha256: ae6f01e9f9fc0d92e8f5bf56a350bb1ac0052ecaef0fa09a8e33ee2dc40db313
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Xun Yu's shattered strategy
+- library: remastered
+  section: Ravages of Time
+  character: Xun Yu
+  link_text: Xun Yu's shattered strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

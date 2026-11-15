@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: beyond-birthday
+category: doc
+title: Beyond Birthday
+authors: []
+series:
+- death-note
+characters:
+- beyond-birthday
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1lgZr9Sd9foTGD9PkCuaYYMi17esQ7mB8gB8wtsA8css/edit?usp=drivesdk
+    google_id: 1lgZr9Sd9foTGD9PkCuaYYMi17esQ7mB8gB8wtsA8css
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 40
+    words: 20013
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 911680
+      sha256: f44dab607386f36fe27935693b2d526432c58d2d84a73bc60a3a91b3b20a5c3f
+    - format: docx
+      name: document.docx
+      bytes: 392084
+      sha256: 993a92b0f5d66d09562dac7506d83522626e82accf07e9b5c821406516d2f1ac
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Beyond Birthday
+  note: (Copy of the Copy)
+- library: remastered
+  section: Death Note
+  character: Beyond Birthday
+  link_text: Beyond Birthday
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

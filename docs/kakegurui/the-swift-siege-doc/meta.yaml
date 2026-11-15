@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-swift-siege-doc
+category: doc
+title: The Swift Siege Doc
+alt_titles:
+- The Swift Siege Plan Doc
+authors:
+- name: Huegexick
+  source: doc-text
+series:
+- kakegurui
+characters:
+- yua-shishiba
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1IvrgcCnVWKt1q7CnRq3lVROi7UqqeSZ3VaQcoE7eNA4/edit?usp=drivesdk
+    google_id: 1IvrgcCnVWKt1q7CnRq3lVROi7UqqeSZ3VaQcoE7eNA4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 51
+    words: 12270
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 15809748
+      sha256: 2d6e5e628ab0aabbaf592db9b06a2c7ea644a61f5721b41abe645824ca45a89f
+    - format: docx
+      name: document.docx
+      bytes: 15856252
+      sha256: 83b4ecd322b30fabb89d9b58b627c0b0649f91c8cf0a77350d3bf0172dd6333a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: The Swift Siege Plan Doc
+- library: remastered
+  section: Kakegurui
+  character: Yua Shishiba
+  link_text: The Swift Siege Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-document-for-scd
+category: doc
+title: Patrick Jane document for SCD
+alt_titles:
+- Patrick Jane doc made by @Z.Z. (Zz9he)
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1B6sVaag8rV7sxltDanM1dc4kFFGgn-WWLpfFhYJtbU8/edit?tab=t.0
+    google_id: 1B6sVaag8rV7sxltDanM1dc4kFFGgn-WWLpfFhYJtbU8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 184
+    words: 77955
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2216806
+      sha256: 7af391c23e556617cbe5660aa7756e56e0d2b1c113718a5e1d47a8b026e0e56e
+    - format: docx
+      name: document.docx
+      bytes: 1426255
+      sha256: b04f0e953479d7f719df2bd79755c14e311296b1e81d9e2bb3928a0fb61e1ac2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Patrick Jane doc made by @Z.Z. (Zz9he)
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane document for SCD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

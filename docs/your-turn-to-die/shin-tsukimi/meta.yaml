@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shin-tsukimi
+category: doc
+title: Shin Tsukimi
+authors: []
+series:
+- your-turn-to-die
+characters:
+- shin-tsukimi
+- sou-hiyori
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1SjoA6wnX-oPuCkXeHQE_dAIbJkK0JxdOQVPyLrvJknk
+    google_id: 1SjoA6wnX-oPuCkXeHQE_dAIbJkK0JxdOQVPyLrvJknk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 2317
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 100645
+      sha256: a1fb09c0f76f4b6fe2cf92516ae5c2ff8262feb5da3c12b9eba5da741c6ea1ff
+    - format: docx
+      name: document.docx
+      bytes: 158031
+      sha256: 83de93e6fdfe823f7f67de9f678c3916d1f647a3a07229f356f5b836387229c4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'YTTD:'
+  link_text: Shin Tsukimi
+- library: remastered
+  section: Your Turn to Die
+  character: Shin Tsukimi | Sou Hiyori
+  link_text: Shin Tsukimi
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,66 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kei-and-satoshi
+category: story
+title: Kei and Satoshi
+alt_titles:
+- Kei and Satoshi (vol 1)
+- Kei and Satoshi (vol 2)
+- Kei and Satoshi Volume 2
+authors: []
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- title: Kei and Satoshi
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1z4LmwmzvZIlOIS1jMaaCGkZt_gN-3KFd/view
+    google_id: 1z4LmwmzvZIlOIS1jMaaCGkZt_gN-3KFd
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 142
+    words: 44375
+    files:
+    - format: pdf
+      name: Kei and Satoshi (light version).pdf
+      bytes: 5642662
+      sha256: 6bd2781a2b54f47de9c74613aafe57c084746c2915497d7c0f5b5ca86e026661
+    text:
+      file: text-1.txt
+      method: pdf-extract
+- title: Kei and Satoshi Volume 2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1jdMORkLW9N4-1ie8Sckg5X7Irmx9MMOp/view?usp=sharing
+    google_id: 1jdMORkLW9N4-1ie8Sckg5X7Irmx9MMOp
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 145
+    words: 42917
+    files:
+    - format: pdf
+      name: Kei and Satoshi Volume 2.pdf
+      bytes: 5642700
+      sha256: a06393eaf35109536c0f7c40442a3b752a4a965dcd5f62e33e693b389ef235b9
+    text:
+      file: text-2.txt
+      method: pdf-extract
+found_in:
+- library: stories
+  section: K
+  link_text: Kei and Satoshi (vol 1)
+  note: (Gambling)
+- library: stories
+  section: K
+  link_text: Kei and Satoshi (vol 2)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

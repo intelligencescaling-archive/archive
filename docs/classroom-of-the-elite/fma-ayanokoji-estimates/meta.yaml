@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fma-ayanokoji-estimates
+category: doc
+title: FMA AYANOKOJI ESTIMATES
+alt_titles:
+- Koji's FMA Feat estimates
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1I2ii6o5svPuYRK8A24JufMA8zmCXS39dGrX8ZIi29IA/edit?usp=drivesdk
+    google_id: 1I2ii6o5svPuYRK8A24JufMA8zmCXS39dGrX8ZIi29IA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 801
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 341015
+      sha256: 59e061a8c31bc7253bb11a5fd927343338762ea1c76c405d519cd86ab9a086fd
+    - format: docx
+      name: document.docx
+      bytes: 627057
+      sha256: 851ed79ca19e3a1084797af17dede5901483869df4e614aeea2a0427e2bf0bed
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's FMA Feat estimates
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: FMA AYANOKOJI ESTIMATES
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

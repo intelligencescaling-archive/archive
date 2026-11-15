@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: characters-that-don-t-have-finished-docs-yet
+category: doc
+title: Characters that don't have finished docs yet
+alt_titles:
+- Short list of characters that doesn't have any document yet
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series: []
+characters: []
+tags:
+- list
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12EsEn6QIQYMgCbY0WrscSEZuqDbu6mExZfJmmLGfRWE/edit?usp=drivesdk
+    google_id: 12EsEn6QIQYMgCbY0WrscSEZuqDbu6mExZfJmmLGfRWE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 249
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 43792
+      sha256: c22c43acf6029cdb71ca55161033e99af04a65ca7044d654f55a3d7131241634
+    - format: docx
+      name: document.docx
+      bytes: 7845
+      sha256: 7e7a52545a9db4ded2ccad27fb11406863ce053adfd610ca6f1bcf6065f17a93
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DOCS I MADE:'
+  link_text: Short list of characters that doesn't have any document yet
+  note: (Lol, I had deleted this by accident, but I already added it back)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

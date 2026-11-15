@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: camera-evasion-re-evaluation
+category: doc
+title: Camera Evasion re-evaluation
+authors: []
+series:
+- you
+characters:
+- joe-goldberg
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14TYRAJbJihHDBkDixaWN7bqQtOhzMA07jNb0OWwbM-4/edit?usp=drivesdk
+    google_id: 14TYRAJbJihHDBkDixaWN7bqQtOhzMA07jNb0OWwbM-4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 265
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 36086
+      sha256: 60084ffb734d32a852cd7c3c9474fcf206441cdf2ea57725208ac5d644b60108
+    - format: docx
+      name: document.docx
+      bytes: 7980
+      sha256: c623b3bff0b4ef5a83854d92ab8882b9c8aaf15c03afd255eca0ff7d94fb8a74
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Camera Evasion re-evaluation
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

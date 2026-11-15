@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tm-psi-feat-debunk-updated-1-0
+category: doc
+title: TM PSI feat debunk updated 1.0
+alt_titles:
+- PJ PSI Feat Debunk
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- debunk
+- psi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1yNt6C-6W60bS_HFy7OpjBqU5c70ev16lY6irAAWdXqo
+    google_id: 1yNt6C-6W60bS_HFy7OpjBqU5c70ev16lY6irAAWdXqo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 685
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 271042
+      sha256: dfaef997ea37205aa32a4e1e03d59fed744ad5ebc88086f709006a95d5da702f
+    - format: docx
+      name: document.docx
+      bytes: 712131
+      sha256: 0f3fe500f2da48a0b023a37e319048b9f5217331886487a7957fb80e64bed4bb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ PSI Feat Debunk
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: TM PSI feat debunk updated 1.0
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

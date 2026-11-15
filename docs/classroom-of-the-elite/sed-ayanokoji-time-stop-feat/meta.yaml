@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sed-ayanokoji-time-stop-feat
+category: doc
+title: SED ayanokoji time stop feat
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+variant: Solo Elite Disclosed
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1QazWymWTRwJRAfUrCoZgUY8qZdTy_HjSu4MdWcwwUzQ/edit?usp=drivesdk
+    google_id: 1QazWymWTRwJRAfUrCoZgUY8qZdTy_HjSu4MdWcwwUzQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 457
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 79358
+      sha256: 6f5179063f2545974613be43a63c151f66c91aa59ed9ce51d95dc4ce4d87c305
+    - format: docx
+      name: document.docx
+      bytes: 318108
+      sha256: 4bea4dc062430aa00e3f12d09ab0ca42a451ee57b20c1c31173f791d875768e2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: SED Ayanokoji time stop feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji - Solo Elite Disclosed
+  link_text: SED ayanokoji time stop feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

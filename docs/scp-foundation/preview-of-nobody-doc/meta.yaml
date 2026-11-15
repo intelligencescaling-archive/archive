@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: preview-of-nobody-doc
+category: doc
+title: Preview of Nobody Doc
+alt_titles:
+- Nobody
+authors:
+- name: XDwasGone
+  source: doc-text
+series:
+- scp-foundation
+characters:
+- nobody
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_aGnLgoSwCf2KQFAylGdaX1avULjE6347-j2Bmtn_o0
+    google_id: 1_aGnLgoSwCf2KQFAylGdaX1avULjE6347-j2Bmtn_o0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 5994
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 691961
+      sha256: 4752b63f3750a1dde5d0052d609ed4b891c9f18cb7e35a0cbc3f4778f0e226fb
+    - format: docx
+      name: document.docx
+      bytes: 463693
+      sha256: 795b5d2833746b1a371dc987404f2d14cf97f97b350e7b3a48d2d2a068abfdd6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: Nobody
+- library: remastered
+  section: SCP Foundation
+  character: Nobody
+  link_text: Preview of Nobody Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

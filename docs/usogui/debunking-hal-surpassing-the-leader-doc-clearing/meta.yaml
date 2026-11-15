@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-hal-surpassing-the-leader-doc-clearing
+category: doc
+title: debunking Hal surpassing the leader doc + clearing misconception
+alt_titles:
+- Hal Debunk 1
+- Hal debunk 4
+authors: []
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1QiXxz8pl4o7A0hyXxf2M34Cv4d-u7yCh6VOSzily40I/edit?usp=drivesdk
+    google_id: 1QiXxz8pl4o7A0hyXxf2M34Cv4d-u7yCh6VOSzily40I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 68
+    words: 8217
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 75543258
+      sha256: 4f1683fc403b69deef6a0f931a70c85b413b9d34a486e8328b6edd4c53dacd8a
+    - format: docx
+      name: document.docx
+      bytes: 67078398
+      sha256: 7879a0feb906ce41e00dfbef49a58ad5f1de5061620f0a90f77a0558482972d4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Hal Debunk 1
+- library: old
+  section: 'USOGUI:'
+  link_text: Hal debunk 4
+- library: remastered
+  section: Usogui
+  character: Kiruma Souichi
+  link_text: debunking Hal surpassing the leader doc + clearing misconception
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

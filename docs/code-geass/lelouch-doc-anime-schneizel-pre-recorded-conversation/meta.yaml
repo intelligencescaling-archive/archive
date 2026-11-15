@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-doc-anime-schneizel-pre-recorded-conversation
+category: doc
+title: 'Lelouch doc (Anime): Schneizel pre-recorded conversation'
+alt_titles:
+- Schneizel Pre-recorded conversation
+authors: []
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1NzQeuaAvPUoQYQIJUtW5fco5GbXWTJUX3vFb7Ih209M/edit?usp=drivesdk
+    google_id: 1NzQeuaAvPUoQYQIJUtW5fco5GbXWTJUX3vFb7Ih209M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2275
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 131908
+      sha256: 9b19fd9d55467ecfc1f2fca081e98cb7eaa31a62d39ae02028b12b84fe4ebf6e
+    - format: docx
+      name: document.docx
+      bytes: 14512
+      sha256: 2becb8c2a67e20af7ad9c8798fb55c5d55ad3366dcd39e46d441c1429812c324
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Schneizel Pre-recorded conversation
+- library: remastered
+  section: Code Geass
+  character: Lelouch vi Britannia
+  link_text: 'Lelouch doc (Anime): Schneizel pre-recorded conversation'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

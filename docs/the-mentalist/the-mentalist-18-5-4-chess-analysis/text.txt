@@ -1,0 +1,110 @@
+The Mentalist: 18-5-4 (Chess Analysis)
+Made by: magadaz. [ Stockfish dev-2024 ]
+
+________________
+
+Colors used from referenced doc; And episode I use for timestamps.
+White : Miscellaneous
+Red : Strategy, Planning, Tactics
+Green : FSIQ, Intel IQ, Knowledge
+Blue : SQ, EQ
+Yellow : Deception, Manipulation
+Pink : Reasoning, Thinking
+Magenta: Foresight, Observation, Perception
+Cyan: Statements
+
+The scenarists & author of the serial may not be familiar with chess. ( !! )
+________________
+
+Dear readers, welcome back to our analysis of chess components. Today we will focus on the series "The Mentalist" and its outstanding protagonist Patrick Jane. Without further ado, let's get to the point: Jane is not just a detective, but a master of observation and analysis, with a unique ability to understand human psychology. His charisma, ingenuity and desire for justice make him not only an attractive character, but also a deep person whose transformation from a con man to a detective reveals many facets of his character.
+
+________________
+
+Pre-main board analysis
+[ Season 2, Episode 21] - In the “18-5-4” episode of The Mentalist, a game of chess becomes the central plot element, symbolizing the strategic struggle between the characters. The main character, Patrick Jane, is talking to Tolman Bunting, one of the suspects in the murder of the victim's friend. During their conversation, Bunting mentions that he recently played chess with the victim.
+
+[ 9:05 ] - I… feel like they purposely used glass pieces instead of black pieces, just to hide the mess they created on this board. I edited the picture so your eyes won’t suffer unlike mine…
+
+[FEN] - I tried all my best trying to replicate what’s on the board. (Still not sure!)
+Patrick Jane: “Yeah, I think he might’ve mate you.” , but the problem is that Tolman is playing as black pieces, SF16 says it’s +6,7 for white, a catastrophic difference. I wouldn't say that it's an anti-feat, it's just that this particular scene was made more for the sake of dialogue-wise & cinematic-wise, and to emphasize that Patrick Jane can evaluate a position in a matter of seconds like some kind of CM/FM in chess, and with the assumption above, I think that's true. It's up to you, whether this is feat or anti-feat.
+
+Tolman asked, “You play?” to which the response was simply, “Oh, little.” This exchange sets the stage for a chess game between detective Patrick Jane and suspect Tolman Bunding, played both verbally/blindfolded. As the episode unfolds, viewers will eventually see the arrangement of the chess pieces, but first, let’s explore the initial moves of such a game…
+
+[ 9:22 ] - Tolman Bunding removes chess pieces.
+________________
+
+Main board analysis
+The dialogues follows (only chess involved sentences):
+- Patrick Jane: I’ll open with pawn to c4 (Neither of them decided who’s first to move, Patrick Jane took initiative and decided himself).
+- Tolman Bunding: Pawn to e6.
+- Patrick Jane: Knight to f3.
+- Tolman Bunding: Pawn to d5.
+- Patrick Jane: Declining the gambit, that’s interesting. (This is the English opening, Agincourt variation, which is definitely not a gambit. It seems the screenwriters may not have recognized this distinction, as reaching a specific opening, variation, system, or gambit requires precise notation of the moves played on the board, before the final position on the board. Small blooper.)
+- Patrick Jane: Pawn to d4.
+- Tolman Bunding: Oh really?
+- Patrick Jane: Scout’s honor.
+…
+- Tolman Bunding: You are gonna regret that open*. (* - Opening)
+- Patrick Jane: We’ll see.
+…
+- Tolman Bunding: You sure, you want to stick with that open*. (* - Opening)
+- Patrick Jane: Why not?
+- Tolman Bunding: Knight to f6.
+- Patrick Jane: Knight to c3
+- Tolman Bunding: Bishop to e7.
+- Patrick Jane: <smiles> Your funeral.
+…
+- Patrick Jane: By the way, <turns around>,  Bishop g5 - might’ve hung Queen. (?!)
+We can now explore the type of gambit that Patrick and Tolman discussed, illustrated in the picture below, which showcases one of the more popular gambits. It's unclear whether the screenwriters foreshadowed this moment, but it certainly adds an exciting element to watch.
+(?! - Regarding the hanging of the Queen, I find it hard to believe that Patrick Jane would overlook the Knight on f6, especially since they are still following a QGD variation. It appears the writers did not consult anyone knowledgeable about chess. Not necessarily an anti-feat, but a blooper.)
+
+[ 10:20 ] - Patrick Jane walks away, current position.
+
+At this point the game is interrupted, but not for long, hours passed; it continues remotely by correspondence and Tolman sends a message: “Inside castle”, then Patrick Jane says: “As he means, towards his doom.” [10:31]
+
+________________
+
+COMMENT: Reference to an unknown aspect of the QGD: Orthodox Defense, a quote from Tarrasch. Due to my unfamiliarity with English sources—primarily because it is not my native language—I will rely on resources available in my own language. Of course with English translation.
+
+Cambridge Springs, 1904; Notes by Siegbert Tarrasch and Georg Marko.
+“Thanks to this defense, which I jokingly called
+"orthodox", the Queen's Gambit has been especially
+favored by Whites for the last few decades.
+They always achieved an advantageous position very quickly,
+and therefore it seemed unwise to them to neglect
+the advantages that could be achieved with such conveniences.
+For more than 30 years I have constantly pointed out
+the unsatisfactoriness of this defense, which
+always gives the opponent a stronger piece to play.”
+- Siegbert Tarrasch | Source: page 30 |
+Short information: Siegbert Tarrasch (1862-1934) was a prominent German chess master and physician, renowned for his contributions to chess theory and literature. He was one of the leading players in the late 19th century, winning several major tournaments and earning the title of one of the original grandmasters. Tarrasch is particularly noted for his writings, including "The Game of Chess," which popularized strategic concepts and influenced generations of players. Siegbert Tarrasch was never a world champion, despite being one of the strongest players of his time. He declined a title match in 1892 due to his medical career and later faced Emanuel Lasker for the championship in 1908 but was defeated. Tarrasch is often regarded as one of the greatest players never to hold the title, having won several major tournaments and contributed significantly to chess theory and literature.
+
+It is quite surprising that the authors have gone so abruptly into the depths of chess, of course not without stupid mistakes, but I will not blame them for this, such inconsistency will continue to be common, surely, the writers asked to find someone who is good at chess, just for the sake of this little scene, to emphasize Patrick Jane's level of knowledge.
+
+________________
+
+In the next scene where these characters meet, White makes a move, followed by Patrick Jane's dialogue: "Bishop takes e7."
+(While I won't label this as a mistake, it's important to note that we don't know how much time has elapsed since their last interaction. Given the previous context, it's likely that some moves were made off-screen, by correspondence, making it easier to interpret the game’s progression.)
+
+[ 18:40 ] - Patrick Jane and Tolman Bunting met again.
+
+In office we see Patrick Jane looking at the chessboard, position will change several times, so I decided to focus on the last ever appearing in the office:
+
+[ 26:40 ] - Patrick Jane’s chessboard.
+
+[ FEN ] - It’s unclear which side to move, so I will leave it here. It’s up to you to decide.
+And finally, the final position, the board is clearly visible, the position is restored, not without difficulty, but successfully, a photo is attached below. Needless to say, many moves have been skipped. And a very unexpected plot twist occurs, because this is not random nonsense, but a position from the famous sixth game of the match for the title of world champion between Robert Fischer and Boris Spassky, and by the way, it began with the same opening as the game from our series, an extremely curious situation, but there is one HUGE mistake here, in the original game now white should be moving, but in the series black… ( Just think about it, they foreshadowed from the beginning the famous sixth game, just to fatally blunder who’s right to move? Even from a cinematic perspective it would have had more impact if Patrick Jane just sacrificed the rook and then played Bc4. )
+Okay, so what are their moves? Pawn to f5, and there's a blooper in the series, Tolman says f4, and the whites respond with Bishop c4… not only do they blunder the Queen. For some reason Patrick Jane here claims it’s mate in #3, even in its original game Stockfish 16 NNUE says it’s only mate in #7 ( Does it look cinematic? Yes. Logical? No. Anti-feat? Yes. )
+
+[ 42:05 ] - Patrick Jane plays Bc4 (??)
+
+[ FEN ] - How they SHOULD have showed the board when Patrick Jane plays Bc4
+But a truly brilliant move is Qf4(!!) (Screenwriters just threw the game out of a window.)
+Conclusion
+After all, it was Queen's Gambit Declined: Tartakower Defense. Patrick Jane's impressive grasp of chess theory and history, was ultimately proved futile in the context of the match. It’s impossible to high-ball him; to assume that Patrick Jane's performance is a GM-level. Yes, the whole plot of this episode is centered around this game, but they completely failed in the end. Therefore it’s impossible to equate what could have saved if they showed mate on the board, but this simply, did not happen. It is acceptable to assume that all off-screen moves were 1:1 copied from Fischer vs Spassky game notation, but board on [ 26:40 ] simply disproves it, twice, you can assume that chessboard position in the office is not connected to a Jane vs Bunting’s game, still this doesn’t help him. (You won’t find this chess position in a real game between Bobby Fischer and Boris Spassky). As far as the whole episode goes, referencing their chess battle. I will rate their chess performance based only on what we’ve seen on a screen.
+1. Patrick Jane’s chess performance:
+Elo (Overall board): 1000-1100. | Elo (Final scene): 300(-).
+2. Tolman Bunting’s chess performance:
+Elo (Overall board): 1250-1300. | Elo (Final scene): N/A.
+BONUS
+CIPC #2: The mentalist, S1 E3: Red tide, someone from this Belgian website covered a chess game from Season 1,  Episode 2 - it was quite interesting to read.

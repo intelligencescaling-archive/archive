@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: manfred-von-karma-doc
+category: doc
+title: MANFRED VON KARMA DOC
+alt_titles:
+- Manfred Von Karma
+authors: []
+series:
+- ace-attorney
+characters:
+- manfred-von-karma
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1j56JDthxl5Cz1uiT-8EZF08OApVxVeinYboyllM5_ZQ
+    google_id: 1j56JDthxl5Cz1uiT-8EZF08OApVxVeinYboyllM5_ZQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 1821
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2633918
+      sha256: 3fbed7dc9ce9002830d9bcdbbf3bf458149ae141e9cebf533022ab8c868a16c7
+    - format: docx
+      name: document.docx
+      bytes: 2991751
+      sha256: 59c33218a4ea95a6849909d28486f74bc4d99aaac06ae174b3e70e96a378b46f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Manfred Von Karma
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

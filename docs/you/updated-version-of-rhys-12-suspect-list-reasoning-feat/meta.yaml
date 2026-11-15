@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: updated-version-of-rhys-12-suspect-list-reasoning-feat
+category: doc
+title: UPDATED VERSION of Rhys 12 suspect list Reasoning feat
+alt_titles:
+- Updated Version of Rhys 12 Suspects List
+authors: []
+series:
+- you
+characters:
+- rhys-montrose
+tags:
+- feats
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1zcWheU6ZrYkUKmCzP7CHXruk8TpYaU8zQEXum3WyP_E/edit?usp=drivesdk
+    google_id: 1zcWheU6ZrYkUKmCzP7CHXruk8TpYaU8zQEXum3WyP_E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3338
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 168258
+      sha256: a4242590d6571c7903a802a218ac72f84ec0cf5d648c255493ce3c2ce01d5706
+    - format: docx
+      name: document.docx
+      bytes: 61208
+      sha256: dc8f4e8d45dd1c77b71a1610e96af1853dc6f16cac0980d243edbb942afb7bea
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Updated Version of Rhys 12 Suspects List
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

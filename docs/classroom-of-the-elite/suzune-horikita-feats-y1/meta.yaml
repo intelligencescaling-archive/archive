@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-horikita-feats-y1
+category: doc
+title: SUZUNE HORIKITA FEATS Y1
+alt_titles:
+- Another Suzuke Horikita SCD doc
+- Horikita Suzune doc
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Uqm84tY84krDGz638ojmIkVCs7qKdOGHgwu7y3UzHbI/edit?usp=drivesdk
+    google_id: 1Uqm84tY84krDGz638ojmIkVCs7qKdOGHgwu7y3UzHbI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 6893
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1014857
+      sha256: 3b1a6ff293214cdd03eda18c47537a7a95addfc49ff00c0d940d87519ebb4fc8
+    - format: docx
+      name: document.docx
+      bytes: 854585
+      sha256: 621a1918c274eaeac1471d04c58f1113a69e3f4a54b75f8a41fd40df8f8bdc7a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Another Suzuke Horikita SCD doc
+- library: remastered
+  section: Classroom of the Elite
+  character: Suzune Horikita
+  link_text: Horikita Suzune doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

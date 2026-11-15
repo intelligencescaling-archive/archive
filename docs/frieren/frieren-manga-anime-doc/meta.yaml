@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: frieren-manga-anime-doc
+category: doc
+title: Frieren (Manga + Anime) doc
+alt_titles:
+- Frieren SCD Doc
+authors: []
+series:
+- frieren
+characters:
+- frieren
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WQnqlMcd0CaEilbojTZygJlfNW9SbpaE8G7oFuVbmjc/edit?tab=t.0
+    google_id: 1WQnqlMcd0CaEilbojTZygJlfNW9SbpaE8G7oFuVbmjc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 3476
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 213042
+      sha256: e1e9f7aaa3e9103dc9217f739cb6b97ac04a896e994f85d2324d246b96cf17f6
+    - format: docx
+      name: document.docx
+      bytes: 771770
+      sha256: 5e6a18fea2a5a9f84a7c0e8d39c610eae3528ed54081d1b0c8eaaa23549243c0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Frieren SCD Doc
+  note: (WIP)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wjm-s-overall-eq-feats
+category: doc
+title: WJM's Overall EQ feats
+alt_titles:
+- WJM overall EQ feats
+authors:
+- name: AwaKen
+  source: doc-text
+- name: Druxzy
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- feats
+- eq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17Qo-jF0MX5eKcBbjTOOTI9EyWzTnJUQHq0m16NX5bnk
+    google_id: 17Qo-jF0MX5eKcBbjTOOTI9EyWzTnJUQHq0m16NX5bnk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 655
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 382216
+      sha256: 7b0d229f1decc421980623135dc9bfb282556e7d5dc9134f41a7817a45d6450d
+    - format: docx
+      name: document.docx
+      bytes: 1224206
+      sha256: 0abecae893b32e889e64fd67b334120d3b4293dc03f86fc5de9b154ee4f01113
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: WJM overall EQ feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

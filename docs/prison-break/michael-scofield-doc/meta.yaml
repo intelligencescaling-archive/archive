@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-scofield-doc
+category: doc
+title: Michael Scofield Doc
+alt_titles:
+- Michael Scofield doc 2
+authors:
+- name: umogrimes
+  source: doc-text
+series:
+- prison-break
+characters:
+- michael-scofield
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1SdtbkcdmXJlA9lmlsWxJNAe5mjEqRgGVPzysjGFgbKE
+    google_id: 1SdtbkcdmXJlA9lmlsWxJNAe5mjEqRgGVPzysjGFgbKE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 49
+    words: 28225
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3550456
+      sha256: d6eaf1654a87e5b03aa7a8b4a5ad335951543c838aab3796d08f44085adc00db
+    - format: docx
+      name: document.docx
+      bytes: 3471636
+      sha256: b349ae757f3f54ed94718dd4bce8bbfca4937737982385a3e7850f9411147b41
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Michael Scofield doc 2
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: richard-arata-scd-doc
+category: doc
+title: Richard Arata SCD Doc
+alt_titles:
+- Richard Arata
+authors: []
+series:
+- usogui
+characters:
+- richard-arata
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1WIuFnYJvWG77LpkwxBVQ2ywK-fUrw5-AJkSSFmwzFqI/edit?usp=drivesdk
+    google_id: 1WIuFnYJvWG77LpkwxBVQ2ywK-fUrw5-AJkSSFmwzFqI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1077
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 79384
+      sha256: 68812b1c0f9ca597f953b09c98a26e17a1ef2531d6799078725f1c22066a81c8
+    - format: docx
+      name: document.docx
+      bytes: 10128
+      sha256: d68f66754167e85c9e8ef95b9b08ad498773dc8b28cd19aecb420748274ed2e1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Richard Arata SCD Doc
+- library: remastered
+  section: Usogui
+  character: Richard Arata
+  link_text: Richard Arata
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

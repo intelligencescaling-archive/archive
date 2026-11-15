@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d3rlord3-debunk-rebunk
+category: doc
+title: D3rlord3 DEBUNK-rebunk
+authors:
+- name: scd_scal1489
+  source: doc-text
+series:
+- wifies
+characters:
+- d3rlord3
+tags:
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1RXYlLoXmYfODDBecV0Yo2qrFxyFJQp_rrysFTUzU0Iw/edit?usp=drivesdk
+    google_id: 1RXYlLoXmYfODDBecV0Yo2qrFxyFJQp_rrysFTUzU0Iw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 649
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 89465
+      sha256: db73221bec9372c8d87640d56525e53f6cd495e789d9e9ca1c87e2ee9f382c2c
+    - format: docx
+      name: document.docx
+      bytes: 875756
+      sha256: 5aefc73b8823d045533dd582c8fe67fc6a1a2983262210ffca10d0d92af82298
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: D3rLord3 Debunk-rebunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

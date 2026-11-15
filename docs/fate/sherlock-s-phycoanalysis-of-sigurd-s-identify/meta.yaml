@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-s-phycoanalysis-of-sigurd-s-identify
+category: doc
+title: Sherlock's phycoanalysis of Sigurd's identify
+alt_titles:
+- Fate Sherlock's psychoanalysis on Sigurd's identity
+authors: []
+series:
+- fate
+characters:
+- sherlock-holmes-fate
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1wzv27JGzOdJV3l6lh6NeTkOvyPSkwp1BC7YPuPYByfA
+    google_id: 1wzv27JGzOdJV3l6lh6NeTkOvyPSkwp1BC7YPuPYByfA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 301
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6904715
+      sha256: 2ca1555561f2a49c5398a0acff8a01c8fa85092e0b779d2c0e5f0db27038c328
+    - format: docx
+      name: document.docx
+      bytes: 3660902
+      sha256: c7067fd3f97cfe05cd618fffe8015227156f984b7a973a5ff1deb5119ab1856d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Fate Sherlock's psychoanalysis on Sigurd's identity
+- library: remastered
+  section: Fate
+  character: Sherlock Holmes
+  link_text: Sherlock's phycoanalysis of Sigurd's identify
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

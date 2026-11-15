@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akuto-sai-isn-t-as-strong-as-you-think
+category: doc
+title: Akuto Sai isn't as strong as you think.
+alt_titles:
+- Akuto sai debunk
+authors: []
+series:
+- ichiban-ushiro-no-daimaou
+characters:
+- akuto-sai
+tags:
+- wis
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jvlgj8UIeIBx7mz9A61BEtc2gvQsuTjcTt-qOqHSpCY
+    google_id: 1jvlgj8UIeIBx7mz9A61BEtc2gvQsuTjcTt-qOqHSpCY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 34
+    words: 5328
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6637637
+      sha256: 5da29c7a9a9de7f57b844105c1d10cbb1b8f7a29bb683282fb684a6f467bbc90
+    - format: docx
+      name: document.docx
+      bytes: 6611167
+      sha256: 7996a5e060255440c6222a25c6a3132909a5e045d06f36accddcfd923c719dc7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akuto sai debunk
+  note: (WIS)(Was already rebunked)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

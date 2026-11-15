@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mercurius-analysis-dumps
+category: doc
+title: Mercurius Analysis Dumps
+alt_titles:
+- Mercurius writing analysis
+authors: []
+series:
+- dies-irae
+characters:
+- mercurius
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1r3VSxNTG4JGEjxugvvf0t7QKKmBwxfdoNd21kRE9a5Q/mobilebasic
+    google_id: 1r3VSxNTG4JGEjxugvvf0t7QKKmBwxfdoNd21kRE9a5Q
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 15420
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 515197
+      sha256: f7b04a921e2e10787eafce83e0c204d2cb786af6cccad94f8f1c3bec009d8aec
+    - format: docx
+      name: document.docx
+      bytes: 351194
+      sha256: 88273bd80eb5f71c0d99f87a4e1c6241e883526a622b89f8e54ed48b1310bf77
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Mercurius writing analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

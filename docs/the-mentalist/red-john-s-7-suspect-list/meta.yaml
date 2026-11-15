@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-john-s-7-suspect-list
+category: doc
+title: Red John's 7 Suspect List
+alt_titles:
+- Red John 7 suspects list Reasoning
+- Red John's 7 Suspects List
+authors: []
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1OnaGKbWbAcv3qcPcUqsbFa_uUsodxDqmQZwwNOxn7Ns/edit?tab=t.0
+    google_id: 1OnaGKbWbAcv3qcPcUqsbFa_uUsodxDqmQZwwNOxn7Ns
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 9692
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 508442
+      sha256: b9108f32ac1488c21c7a1049cadac317bb7080d623d22f785368e8a1ecf63e0a
+    - format: docx
+      name: document.docx
+      bytes: 1988148
+      sha256: a8acbbc4fc15488b70af4f1bd8617d7ee4c6709cf6f5556239c5ec4313f26359
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Red John 7 suspects list Reasoning
+- library: remastered
+  section: The Mentalist
+  character: Red John
+  link_text: Red John's 7 Suspects List
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: intricatelogy-scaling
+category: doc
+title: INTRICATELOGY SCALING
+alt_titles:
+- Intricatelogy scaling system
+authors:
+- name: Aki
+  source: doc-text
+- name: Teyfik
+  source: doc-text
+- name: Tokho
+  source: doc-text
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lIy4e7HBQiRGMPycfWxjcqE8a1VfJeX1h3XZmJO7jeM
+    google_id: 1lIy4e7HBQiRGMPycfWxjcqE8a1VfJeX1h3XZmJO7jeM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 9362
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 427613
+      sha256: 5a43cf670129249303564787ab513837adef12ae77e82347c10543ffd755d69e
+    - format: docx
+      name: document.docx
+      bytes: 354751
+      sha256: 29d2280a6af1c518394f93fc3c63009829c4e9e84815c4f29eba64ce84ea4a2f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Intricatelogy scaling system
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

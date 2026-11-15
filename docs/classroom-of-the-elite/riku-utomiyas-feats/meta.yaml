@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: riku-utomiyas-feats
+category: doc
+title: Riku Utomiya’s Feats
+alt_titles:
+- Riku utomiya
+authors:
+- name: JayChef
+  source: doc-text
+- name: Cento
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- utomiya-riku
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11Z5hf9lkstAPEZLrXqWrayUd_aio6zH8E0GGH1cBW6k
+    google_id: 11Z5hf9lkstAPEZLrXqWrayUd_aio6zH8E0GGH1cBW6k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1214
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 121005
+      sha256: 1b698b227cdaceb5c32b869dc202cef48500ae1b9b7e772eef6fe863fb7dbd57
+    - format: docx
+      name: document.docx
+      bytes: 317542
+      sha256: ac98467edd51ac591ee9710f94eda1536012bb29e8a9e4c4e59a84dcc5d8c57e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Riku utomiya
+- library: remastered
+  section: Classroom of the Elite
+  character: Utomiya Riku
+  link_text: Riku Utomiya’s Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

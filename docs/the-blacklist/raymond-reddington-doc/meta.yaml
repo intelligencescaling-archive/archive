@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: raymond-reddington-doc
+category: doc
+title: Raymond Reddington DOC
+alt_titles:
+- Raymond Redington Doc
+authors:
+- name: Mysterior Person
+  source: doc-text
+series:
+- the-blacklist
+characters:
+- raymond-reddington
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aQRcbfC4GqOCKKCCNE0jtt2FIuI6jDzZ_9nAhZCXQ9I
+    google_id: 1aQRcbfC4GqOCKKCCNE0jtt2FIuI6jDzZ_9nAhZCXQ9I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 6006
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 798117
+      sha256: 673ba242f89e64c5d31e5f7c477bf084f56316df1c913d9aec3b8a8061bdf058
+    - format: docx
+      name: document.docx
+      bytes: 447760
+      sha256: a79f9e330ec1876cbf96bbc509e574b8a9316692f65e4de8ea5a5a2417074d51
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Raymond Redington Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sparkles-planning
+category: doc
+title: Sparkle’s Planning
+alt_titles:
+- Sparkle Planning
+authors:
+- name: SoundStorm
+  source: doc-text
+series:
+- honkai-star-rail
+characters:
+- sparkle
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/149gfHjntZH9vpEMom0zMegxug2Kv032fXU2zpEEirbs/edit?usp=drivesdk
+    google_id: 149gfHjntZH9vpEMom0zMegxug2Kv032fXU2zpEEirbs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 3589
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 226811
+      sha256: 39cb9356f14657b1096d918e4c97fbd98a3254efe6668178701678e69cbd7bda
+    - format: docx
+      name: document.docx
+      bytes: 709742
+      sha256: 51cfcd2c1c1d3b7de03d8091b09c549296ffb44d9409a25da3ed3d7c1db7c8a8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sparkle Planning
+  note: (HSR)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

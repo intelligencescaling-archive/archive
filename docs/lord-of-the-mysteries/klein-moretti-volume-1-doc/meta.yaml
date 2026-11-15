@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: klein-moretti-volume-1-doc
+category: doc
+title: Klein Moretti Volume 1 Doc
+authors: []
+series:
+- lord-of-the-mysteries
+characters:
+- klein-moretti
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1TXzp_oAiJe1H9kalHfI6rGnB1PhS7J-6QdbxDvqPj8E/edit?usp=drivesdk
+    google_id: 1TXzp_oAiJe1H9kalHfI6rGnB1PhS7J-6QdbxDvqPj8E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 10371
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 520779
+      sha256: 5f2038244f98728ca3a7b196915c40c3616a475773ea15bc48671e97dee87e3f
+    - format: docx
+      name: document.docx
+      bytes: 98513
+      sha256: c9212b87f607d4c0d370d789836fda3781cbf521f474fb65f21379f114695be3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Klein Moretti Volume 1 Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

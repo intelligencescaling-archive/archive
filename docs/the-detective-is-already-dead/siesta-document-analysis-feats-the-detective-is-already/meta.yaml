@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: siesta-document-analysis-feats-the-detective-is-already
+category: doc
+title: Siesta Document + Analysis Feats (The Detective Is Already Dead) [Discontinue]
+alt_titles:
+- Siesta Full-Scale document
+authors: []
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+tags:
+- feats
+- analysis
+- fsiq
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vOir9dlwTM9rliu5fpchzjrpLEmKLt8EdttTVU762HA
+    google_id: 1vOir9dlwTM9rliu5fpchzjrpLEmKLt8EdttTVU762HA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3311
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2379089
+      sha256: 9b1c0005e0d6ae545dcf48ba2be9592aad37f8392751803b5c72388994342f87
+    - format: docx
+      name: document.docx
+      bytes: 3550811
+      sha256: e53d5c76cb9a93b8a544710ae4a1e936ba71c96783fa64320dbfe9c9ac960a7f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Siesta Full-Scale document
+  note: (not finished and probably won't be finished so soon since I heard it was Discontinued)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

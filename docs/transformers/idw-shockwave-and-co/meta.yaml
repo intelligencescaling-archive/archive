@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: idw-shockwave-and-co
+category: doc
+title: IDW Shockwave (And Co)
+alt_titles:
+- Shockwave IDW doc
+authors: []
+series:
+- transformers
+characters:
+- shockwave
+variant: IDW
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1_pPsbj6eTH3xVHSIuzEHMmaM5QxkAqk2UgAbHg3_JRY/edit?usp=drivesdk
+    google_id: 1_pPsbj6eTH3xVHSIuzEHMmaM5QxkAqk2UgAbHg3_JRY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 3855
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 16734973
+      sha256: 51a95af71b688c0bcc9d86b7e64b1fda99f0890829084aa00780604445a6ad10
+    - format: docx
+      name: document.docx
+      bytes: 16546593
+      sha256: f829c3429a826b75e047fabc28cc276b6e7c0c7d70d0d6510a36ba42947d410b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Shockwave IDW doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

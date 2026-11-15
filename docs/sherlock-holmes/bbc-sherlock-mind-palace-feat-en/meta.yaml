@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bbc-sherlock-mind-palace-feat-en
+category: doc
+title: BBC Sherlock Mind Palace feat (EN)
+alt_titles:
+- BBC Sherlock Holmes Mind Palace Feat
+authors: []
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+variant: BBC
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Ckyl7eJ5vHgSHKh9qFcNN16_rtQjD-y9DzzZI3cVeOI/edit?usp=drivesdk
+    google_id: 1Ckyl7eJ5vHgSHKh9qFcNN16_rtQjD-y9DzzZI3cVeOI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 1
+    words: 414
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 43316
+      sha256: f8356e274357773613ae61d6536ae48cab5f1e87bbe916d7656ccf848d0e210a
+    - format: docx
+      name: document.docx
+      bytes: 8134
+      sha256: e80e4c86e656ee07a7ff9a9db2b24f7111debe7f377365af1308103f80e6f5f4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: BBC Sherlock Holmes Mind Palace Feat
+- library: remastered
+  section: Sherlock Holmes
+  character: Sherlock Holmes (BBC)
+  link_text: BBC Sherlock Mind Palace feat (EN)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

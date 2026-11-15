@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: metternich-doc
+category: doc
+title: Metternich doc
+alt_titles:
+- Klemens Von Metternich doc
+authors:
+- name: LLA
+  source: doc-text
+series:
+- real-life
+characters:
+- klemens-von-metternich
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1rdhkj0CTLumEJ39DMFEunD2f5L2t0eLiCJ51wlOLR44
+    google_id: 1rdhkj0CTLumEJ39DMFEunD2f5L2t0eLiCJ51wlOLR44
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 14331
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1183709
+      sha256: 91ea07c64cd9b489bf56339f16ccb52c4260cb15910b64bcfdaaef3e825d42af
+    - format: docx
+      name: document.docx
+      bytes: 739786
+      sha256: 88015c03706c1eb3edad0899a635cc606c86dcd6bf41315af382e75bafa67f56
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Klemens Von Metternich doc
+- library: remastered
+  section: Real Life Historical Figures
+  character: Klemens von Metternich
+  link_text: Metternich doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

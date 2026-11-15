@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: administrator-cooper-fsiq-doc
+category: doc
+title: Administrator (Cooper) FSIQ Doc.
+alt_titles:
+- Administrator cooper FSIQ Doc
+authors: []
+series:
+- counter-side
+characters:
+- administrator
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jBKDMWFDjSlLpNfZXg1qoV6BwPSt8MW9Ggc_vAA9mtc
+    google_id: 1jBKDMWFDjSlLpNfZXg1qoV6BwPSt8MW9Ggc_vAA9mtc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 1951
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1764098
+      sha256: 87b4349c9aaef34fecac1628f2dd70216165b94bee77e6088fd226323b1559a3
+    - format: docx
+      name: document.docx
+      bytes: 1748169
+      sha256: 79a1f8485e6523d40e24b83d40737d1a1a9dfb0577bd1ef10e052e9c3c519c3b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Administrator cooper FSIQ Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

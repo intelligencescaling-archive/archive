@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: logical-reasoning-is-a-subcategory
+category: doc
+title: Logical Reasoning is a subcategory
+authors: []
+series: []
+characters: []
+tags:
+- scd-theory
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Pt0pimT_w6Nky6aHv2gJVMNqvlr6lvccXszxHcXV6bE
+    google_id: 1Pt0pimT_w6Nky6aHv2gJVMNqvlr6lvccXszxHcXV6bE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 446
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 149476
+      sha256: 1a0d77cdd55ed9a3910985fd24575051572a5817cae71bc7317c01967664f720
+    - format: docx
+      name: document.docx
+      bytes: 432208
+      sha256: a0bf53f02df09467557a03db1e1b6283a38750210dcdd5cff883de2540492928
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Logical reasoning is a subcategory
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

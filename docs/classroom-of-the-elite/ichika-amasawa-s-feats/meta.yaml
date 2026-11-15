@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichika-amasawa-s-feats
+category: doc
+title: Ichika Amasawa's Feats
+alt_titles:
+- Ichika 1
+- Ichika Amasawa’s Feats
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- ichika-amasawa
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1NojzM7XPRIINDeyKdL7k6-w9Iw7BV4nFUQ0v7nZy62k/edit?usp=drivesdk
+    google_id: 1NojzM7XPRIINDeyKdL7k6-w9Iw7BV4nFUQ0v7nZy62k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3737
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 184133
+      sha256: f91db60ec2781972d0c33de60da5a762eec8dba3f27feaceccb3ce4949151c3f
+    - format: docx
+      name: document.docx
+      bytes: 536462
+      sha256: ba7f618adf4ad110fda430c51892e3600c54287ea564d10c60b2e0a96c330c36
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ichika 1
+- library: remastered
+  section: Classroom of the Elite
+  character: Ichika Amasawa
+  link_text: Ichika Amasawa’s Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

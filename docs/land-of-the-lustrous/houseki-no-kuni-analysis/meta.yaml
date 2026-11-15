@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: houseki-no-kuni-analysis
+category: doc
+title: Houseki no kuni analysis
+alt_titles:
+- Housekuni no Kuni Writing Analysis
+authors: []
+series:
+- land-of-the-lustrous
+characters:
+- phosphophyllite
+tags:
+- writing-analysis
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1oC6pCnB1A2AlMGhLS7_RZtViFSkQ6NraUgdlCkz7Cs0/edit?usp=drivesdk
+    google_id: 1oC6pCnB1A2AlMGhLS7_RZtViFSkQ6NraUgdlCkz7Cs0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 2224
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3448904
+      sha256: 5f89c7007cd1b3169fad8ca7dea499f7d00812a14b4d46ff86c9240501c20f53
+    - format: docx
+      name: document.docx
+      bytes: 5074319
+      sha256: 6d7022af45f1c36ecd3276fc1309186f0770990971beef225679aba96b8e9d07
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Housekuni no Kuni Writing Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: anime-yuuichi-katagiri-doc-6-episodes
+category: doc
+title: Anime Yuuichi Katagiri Doc 6 episodes
+alt_titles:
+- Anime Yuuichi doc
+- Anime Yuuichi Feats doc
+authors:
+- name: KatagiriCuts - YouTube
+  source: doc-text
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/16j-8wpz1j8kLrA1MmI82lHnJENfyOzYUs60x6Y6qIYU/edit?tab=t.0
+    google_id: 16j-8wpz1j8kLrA1MmI82lHnJENfyOzYUs60x6Y6qIYU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 5645
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1981427
+      sha256: 885203a1a77b8000ff83767cb8acbd47ebe75c5c9d72b678fa7287ea271b16c9
+    - format: docx
+      name: document.docx
+      bytes: 4585198
+      sha256: 7ca457730cb21e34135ebd6b007ce31ad66c11e5ea6a922d1e58ac68f135994a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Anime Yuuichi doc
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Anime Yuuichi Feats doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

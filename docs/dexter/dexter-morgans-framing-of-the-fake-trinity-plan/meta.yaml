@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dexter-morgans-framing-of-the-fake-trinity-plan
+category: doc
+title: Dexter Morgan’s Framing of the Fake Trinity Plan
+alt_titles:
+- Dexter planning
+- Dexter Morgan's Framing of the Fake Trinity Plan
+authors: []
+series:
+- dexter
+characters:
+- dexter-morgan
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Z0Df-RtdCCRpen9SdaLvuG2Ldw2S6MNy0I5BBSuLnd0
+    google_id: 1Z0Df-RtdCCRpen9SdaLvuG2Ldw2S6MNy0I5BBSuLnd0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 959
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 48826
+      sha256: 16873ea0f055d0f2df4b1bcd3414eb47d0137f99f47acfde49c772f0bad1e3b8
+    - format: docx
+      name: document.docx
+      bytes: 8876
+      sha256: b756ab473bf5471a84cb777cb58bbd06f619da9e7adfc2b0d0e482fcfa26452b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: DEXTER
+  link_text: Dexter planning
+- library: remastered
+  section: Dexter
+  character: Dexter Morgan
+  link_text: Dexter Morgan's Framing of the Fake Trinity Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

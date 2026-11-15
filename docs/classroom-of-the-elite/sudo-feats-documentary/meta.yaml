@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sudo-feats-documentary
+category: doc
+title: Sudo Feats Documentary
+alt_titles:
+- Sudo
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- ken-sudo
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10zLL02G-IK2C95i99QnCOS7MlW4Zjoqf1S1SdmY4eH0
+    google_id: 10zLL02G-IK2C95i99QnCOS7MlW4Zjoqf1S1SdmY4eH0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1127
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 105507
+      sha256: 72d3323b05c565855356f332d1bd904f38314cf22c101d6cc229fb540c747920
+    - format: docx
+      name: document.docx
+      bytes: 11856
+      sha256: f8e9da8a795501e6e10fddc2e1336f4cd3c0b68807dbd5ef0610680990ba2f96
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Sudo
+- library: remastered
+  section: Classroom of the Elite
+  character: Ken Sudo
+  link_text: Sudo Feats Documentary
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

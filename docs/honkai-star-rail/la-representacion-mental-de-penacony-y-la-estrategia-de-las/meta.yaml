@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: la-representacion-mental-de-penacony-y-la-estrategia-de-las
+category: doc
+title: La representación mental de Penacony y la estrategia de las bombas
+alt_titles:
+- Sparkle's Bomb Strategy and Penacony VSI
+authors:
+- name: Calculadora
+  source: doc-text
+series:
+- honkai-star-rail
+characters:
+- sparkle
+tags:
+- strategy
+- vsi
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1s9rFmTGWoG9ZpmRoaYnOw-FPfloXtb2auIMlE6RAPRg/edit?usp=drivesdk
+    google_id: 1s9rFmTGWoG9ZpmRoaYnOw-FPfloXtb2auIMlE6RAPRg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 2234
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1512786
+      sha256: 440de94551a55ed7496fca3a0e90fe36f8e1486ae18b425f2e1f4523f8f32a38
+    - format: docx
+      name: document.docx
+      bytes: 1328187
+      sha256: 9304a5cbfb69c7b02ddc46dd69d3caeb876d83b3661d7d644b28fb672d50bc37
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sparkle's Bomb Strategy and Penacony VSI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

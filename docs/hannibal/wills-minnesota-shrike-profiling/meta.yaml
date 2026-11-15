@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wills-minnesota-shrike-profiling
+category: doc
+title: Will’s Minnesota Shrike profiling
+alt_titles:
+- Will's Minnesota Shrike profiling
+authors:
+- name: Slick_editzz
+  source: doc-text
+series:
+- hannibal
+characters:
+- will-graham
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BN6dyVeCdYXdbciaANFd8sEL1UfLswkXT9o9cQx8pjM
+    google_id: 1BN6dyVeCdYXdbciaANFd8sEL1UfLswkXT9o9cQx8pjM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 758
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 70709
+      sha256: 4a99bf0551f50a33866da9a13987cf0a89a137d9343ac1e23424267dffc348e4
+    - format: docx
+      name: document.docx
+      bytes: 9625
+      sha256: 15a3f262ba79f51f6200bccefa35f797874565af4b0a7cded3fc8fba44ac2a5c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Will's Minnesota Shrike profiling
+- library: remastered
+  section: Hannibal
+  character: Will Graham
+  link_text: Will’s Minnesota Shrike profiling
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

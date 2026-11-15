@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-light-yagami-s-introduction
+category: doc
+title: Analysis of Light Yagami's introduction
+alt_titles:
+- Analysis of Light Yagami’s introduction
+authors:
+- name: real1st1cfr1sk
+  source: doc-text
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+- writing-analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11SdGCP9K3oVATHfDyKW2dMpeHX7fKXNKDaa8DKIyHYU/edit?usp=drivesdk
+    google_id: 11SdGCP9K3oVATHfDyKW2dMpeHX7fKXNKDaa8DKIyHYU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1514
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 78851
+      sha256: 040050d8673593dd2f624e766616ca95af58b35eb0b09cd3e452d95dddaea902
+    - format: docx
+      name: document.docx
+      bytes: 154451
+      sha256: 9d3bd9f0368c53ca173349a1c02e9c06a13dbc612dfad61d3810e1d4e16d8a30
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Analysis of Light Yagami's introduction
+  note: (a Writing document I guess, idk, I didn't read it yet)
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Analysis of Light Yagami’s introduction
+  note: (Writing)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

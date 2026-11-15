@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rio-ranger-beta-doc-documentation-english
+category: doc
+title: Rio Ranger Beta Doc Documentation English
+alt_titles:
+- Rio Ranger Doc
+authors:
+- name: 'Javier : Discord = .javierdzr'
+  source: doc-text
+series:
+- your-turn-to-die
+characters:
+- rio-ranger
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RJ_rdYmgSr2ijuGmj9qmjVO19a-N9_AA8Fw6LV4eR9g
+    google_id: 1RJ_rdYmgSr2ijuGmj9qmjVO19a-N9_AA8Fw6LV4eR9g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 12202
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3425550
+      sha256: 806c2bd29f1103c5585d015044e1175cb24a634e7621e1f05c904f63f5e9b630
+    - format: docx
+      name: document.docx
+      bytes: 4312663
+      sha256: 8efb0913a8cb3f8f677de76bd7b58c7bebff16b41be447b1e3a3a669f9c7a7a3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'YTTD:'
+  link_text: Rio Ranger Doc
+  note: (Beta Version)
+- library: remastered
+  section: Your Turn to Die
+  character: Rio Ranger
+  link_text: Rio Ranger Beta Doc Documentation English
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

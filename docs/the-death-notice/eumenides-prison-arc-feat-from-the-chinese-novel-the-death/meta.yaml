@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: eumenides-prison-arc-feat-from-the-chinese-novel-the-death
+category: doc
+title: Eumenides Prison arc Feat (From the Chinese Novel “The Death Announcement”)
+alt_titles:
+- Eumenides prison arc feat
+authors: []
+series:
+- the-death-notice
+characters:
+- eumenides
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1FNYMp5SRjWqo5hHI1y1GRzlKVBVDPDx2woQF2ie8dOg
+    google_id: 1FNYMp5SRjWqo5hHI1y1GRzlKVBVDPDx2woQF2ie8dOg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 10662
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 352643
+      sha256: 0ad4fff85f4ec6e92615790088ec41927238658b642d42649399e2d3aa672dd0
+    - format: docx
+      name: document.docx
+      bytes: 137945
+      sha256: 7b54bc4ff76da95b43a32dfe6e9babd887f35135774c470fcca727a5e6f3f2b9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Eumenides prison arc feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: doomsday-rex-analyses
+category: doc
+title: Doomsday rex analyses
+alt_titles:
+- Doomsday Rex analysis
+authors: []
+series: []
+characters:
+- doomsday-rex
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1TjhPfHih8yY4GqwM5fypuLZOkJRQILckSeqcrUqvTzU/edit?tab=t.0#heading=h.z7fa81ld0hn8
+    google_id: 1TjhPfHih8yY4GqwM5fypuLZOkJRQILckSeqcrUqvTzU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 944
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 766055
+      sha256: d519d3dba3b67c850bc99a58682a5b5ce066ed2d75e17b26965cca9e0c54c973
+    - format: docx
+      name: document.docx
+      bytes: 714726
+      sha256: 15c89092feaaa8f6cd4d12b7c18210c5ee62aff087b4eee12c913dd0b6737edf
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Doomsday Rex analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

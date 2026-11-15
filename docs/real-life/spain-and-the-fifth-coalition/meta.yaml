@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: spain-and-the-fifth-coalition
+category: doc
+title: Spain and the Fifth Coalition
+alt_titles:
+- Spain and the 5th coalition
+authors: []
+series:
+- real-life
+characters:
+- napoleon-bonaparte
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/19prn-V_3dT3X-ja74VTLN4-QbNj0OAUCZte977BjjDg/edit?tab=t.0
+    google_id: 19prn-V_3dT3X-ja74VTLN4-QbNj0OAUCZte977BjjDg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 10819
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25764715
+      sha256: 94bb71086c559431fd48c728fb200b2fae241cc52b073b1e39d66a3fcc85178f
+    - format: docx
+      name: document.docx
+      bytes: 22339175
+      sha256: caba9c0ffc5eb42131594cf89dea08fadd75d12723b77cab7e40201cbce58b9a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Spain and the 5th coalition
+- library: remastered
+  section: Real Life Historical Figures
+  character: Napoleon Bonaparte
+  link_text: Spain and the 5th Coalition
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

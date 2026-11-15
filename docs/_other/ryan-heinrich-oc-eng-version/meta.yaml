@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ryan-heinrich-oc-eng-version
+category: doc
+title: Ryan Heinrich (OC) ENG Version
+alt_titles:
+- Ryan Heinrich
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series: []
+characters:
+- ryan-heinrich
+tags:
+- oc
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/10AlDYdxilQj8wwa-5RNIsVRDXnXUWHdkpW93-_fWQg8/edit?usp=drivesdk
+    google_id: 10AlDYdxilQj8wwa-5RNIsVRDXnXUWHdkpW93-_fWQg8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 22214
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 626252
+      sha256: 574e103881552f51e15c471f76fdd1aacf29d0f4a8d9d7b09a75264df49e9ea1
+    - format: docx
+      name: document.docx
+      bytes: 52001
+      sha256: 91d7ea84ad99e19646c4638014a1295903dbc0dc813488a66d38c60ab16d5df2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Ryan Heinrich
+  note: (Finished)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

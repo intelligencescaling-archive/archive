@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: strategy-of-find-search-destroy-the-third-kira
+category: doc
+title: Strategy of Find - Search - Destroy the Third Kira
+alt_titles:
+- CTW L search - find and destroy the third Kira strategy
+authors:
+- name: Veris
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+variant: Change the World
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14s2j4-V9IT-eZHyngSjOl9rc8A322r_n4ppGzlErREQ/edit?usp=drivesdk
+    google_id: 14s2j4-V9IT-eZHyngSjOl9rc8A322r_n4ppGzlErREQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1759
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 129082
+      sha256: 86c3eb1544fd9ec1c8b47c3efd18113d659dc6093b69a09591727b0b83faca9c
+    - format: docx
+      name: document.docx
+      bytes: 202366
+      sha256: 85d3cd82f91a6ed823cc4c1003e45c3c4300c36aded0fd31e6287c890158aee7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: CTW L search - find and destroy the third Kira strategy
+- library: remastered
+  section: Death Note
+  character: L Lawliet - Change the World
+  link_text: Strategy of Find - Search - Destroy the Third Kira
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

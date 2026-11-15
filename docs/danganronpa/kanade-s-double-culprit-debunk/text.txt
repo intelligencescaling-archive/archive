@@ -1,0 +1,175 @@
+This will be an analysis on Double Culprit’s Strategy from Kanade Otonokoji (SDRA2). Author: berl8989
+________________
+
+THE STRATEGY
+Double Culprit Strategy’s explanation:
+The Danganronpa universe is constructed so that only one person at a time could achieve murder. This isn’t explicitly told to us (until the moment of this trial), but it was already strongly implicit.
+Kanade wanted to find a way in which she would have been able to make a double culprit. By “double culprit” I mean making two people the culprits of the same murder.
+In order to achieve that objective, she used the ability that her sister (Hibiki) and herself (Kanade) had.
+The ability was described as follows (quote from the game itself) “If we are in beat we can play with a margin of error less than 0.000001 seconds!”. Scan:
+
+In the context of the game, this was referring to playing at concerts.
+Further context being that Kanade was the guitarist and Hibiki the Vocalist.
+In Danganronpa who injures the victim last, becomes the culprit. Will leave proofs since this claim is CRUCIAL:
+Proof 1: Mikado “If it isn’t a special case like rule 6, normally the person who last injured the victim while they were still alive becomes the culprit”.
+
+Proof 2: Mikado “To put it simply, let’s say Iroha stabs Teruya with a knife. If I stab the dying Teruya before his last breath I would become the blackened that killed Teruya. So it becomes a game of who made the last shot!”.
+
+Proof 3: Yuki“...but for two killers and one target, the one who made the finishing blow is the culprit”
+
+Proof 4: Syobai “...if the person who makes the finishing blow takes the name of the blackened…”
+
+Proof 5: Monocrow “if a murder occurs anywhere, the high-tech sensors of Utsuroshima detect who hit last down to 0.001 seconds”
+
+Kanade’s reasoning was (not a quote): “considering the incredibly low margin of error, I could make use of my ability in order to make it seem as though two people killed the same person together while hitting that person with a knife, and so tricking the system”.
+Last context: the systems could detect anything with 0.00001 seconds of precision. Just 1 zero less than Kanade’s and Hibikit’s ability. Scan:
+
+________________
+
+AIM OF THE ANALYSIS
+The aim of this analysis will be to show how the thought process behind the strategy didn’t make any sense.
+This analysis actually (kinda) works using the narrative’s POV too. This is because luck can be considered a variable there too, and in this case luck could be addressed as the cause of the strategy’s success.
+________________
+
+POINT   - Start of piercing timing =/ end of piercing timing misunderstanding
+The ability would (at best) START the piercing at the same time. But what matters is “who last injured the victim “(as Mikado said),“who made the finishing blow is the culprit” (as Yuki said),  “who makes the finishing blow” (as Syobai said) and (as Monocrow himself said) “who hit last”, which means the ending of the piercing time was the only thing that mattered to determine who would become the culprit.
+________________
+
+And why would this be an issue?
+Step 1- The human body is asymmetrical. The part of the body which they pierced through was the abdominal area.
+
+The abdominal area is strongly asymmetrical. The internal layout of the organs, the blood vessels, the nerves…these are all strongly asymmetrical.
+Even the structures to which abdominal muscles attach are not perfectly symmetrical (rib cage, diaphragm, pelvis).
+The abdominal muscles also present different shapes and thickness.
+The distribution of fat is uneven (depending on posture, genetics, organ position, fascial tension).
+________________
+
+Step 2- The ability is ONLY about the rhythm (quote) “If we are in beat we can play with a margin of error less than 0.000001 seconds!”.
+The ability (in the most charitable of the assumptions) would establish both of the sisters to have synchronized neural inputs for moving their body.
+What the ability does not do, is make the environment physical entities irrelevant.
+________________
+
+Step 3- Considering the physical entities specific to this case (the human body of Setsuka), there would be differences in the piercing timings of Hibiki and Kanade.
+Why?
+Because the asymmetry of the body would cause asymmetry within the piercing AND within the retraction.
+This is due to:
+A- different organs or different areas of organs being hit
+B- different area around the organ being hit
+C- different positions and angles of Hibiki and Kanade (meaning different lever physics)
+
+D_ different body characteristics. E.g. Kanade’s boobs are massively bigger than Hibiki’s, Kanade’s muscle is narratively much stronger, she is also taller….(all of these impact the piercing strength and the lever physics)
+
+>(HIBIKI)(KANADE)<
+And to top this all off, two other things would MASSIVELY increase the differences in timing:
+D- fluid physics (given all the fat, blood etc.) since they are virtually impossible to predict to the level required (below 0.00001 sec of precision)
+E- the differences in area pierced would cause the body to move in extremely unpredictable ways, which would then increase the differences themselves.
+________________
+
+I also want to underlie how the mid-piercing and retraction timing differences would also add up to each other.
+________________
+
+ANTICIPATING CRITIQUES - “But that just means that Kanade accounted for all of this and calculated this issue!”
+Ok so: not only was this issue NEVER (both explicitly and implicitly) mentioned. Not only would this require calculations that are impossible in real life even using the best technology available. Not only would this go against Syobai’s analyst persona. Not only would this go against Kanade’s egomaniac persona. But this would just contradict Kanade herself.
+Why?
+This is because:
+She would have had to adjust muscle pressure (applying differences based off of Hibiki’s hand position) everything mid-execution. Which contradicts the fact she would be using a synchronization ability.
+So either she calculated everything and processed things below 0.00001 seconds and never used the ability, or she did use the ability and just got lucky she hit the right timing against all odds.
+________________
+
+And another funny detail: the calculations themselves are impossible to begin with, since Kanade couldn’t know Setsuka’s internal tissue and internal bodily parts (like their weight, position, dimensions and so on…).
+So even theoretically the calculations cannot be made. Even if she had access to some alien physics theories.
+________________
+
+Additional Points 1 - The Ability
+Once again quote from Hibiki: “If we are in beat we can play with a margin of error less than 0.000001 seconds!”. This means that the margin of error was just 1 single digit.
+Btw more context: she said this right after performing in a concert in front of the other characters.
+Now considering this, let’s go over each problem:
+1- The “If” with the “We are on beat” means that they are not automatically on beat, because it’s dependent on conditions (e.g. mood)
+2- The “We can” means that even IF they are on beat, it doesn’t necessarily follow that they will go at such rhythmic pace. It’s a peak, and even WHILE on beat.
+3- The “Play” means it’s exclusive to a musical setting. This part is exponentially increased in importance, due to the other “if”s depending on this to even begin with at existing.
+4- Hibiki has no arm-based rhythmic training. Hibiki is shown to coordinate only through voice (as she is the vocalist). At least Kanade had a guitar, meaning arm coordination made some sort of sense, but in Hibiki’s case it’s totally random that now she can apply the same rhythmic ability using her arms
+5- Hibiki was shown to be anxious and sweating even in the very moment of stabbing Setsuka. This also impacts the “mood” part we also established before, but exponentially lowering the chances of success. Scan:
+
+6- Even in the hypothetical case of Kanade training Hibiki, she would have needed to put her into deep trauma. But that was shown to be the case only with Setsuka (since the time they landed in Dangarnonpa).
+She would have also needed a body to train with, which she obviously didn’t have. And in case she had that, she would have just caused more things to hide from others, making her own plan to fail from the start.
+Not even mentioning that when Hibiki is in that state of trauma, she is not even conscious, and unconscious muscle movement doesn’t have nearly as much muscle memory as a conscious body does.
+7- The fact that this was an ability within a musical context, makes things even worse, because they actually had practice with their songs over and over again. So the result of 0.000001 sec is also dependent on practice as well.
+8- Their ability isn’t even about precision, just timing.
+All these points considered: the very idea that the ability somehow applied (to the level required especially) would be insanity.
+________________
+
+Additional Points 2 - Monocrow’s stupidity
+Monocrow legit knew the possibility of two murders happening at the same time. Even though his thought process was different (and really weird) “‘But what if two different murders happen at the same time”. Scan:
+
+Still, he knew this could be the case.
+The thing is, he stopped developing the high-tech sensors at 0.00001 sec.
+Considering the alien technology he had access to, he could have easily built a better system.
+For instance, in our current world, defense related systems can already go 0.000001 s. Which is for reference the best performance Kanade and Hibiki could achieve (within a musical context, and so on and so on).
+Meaning that the whole strategy in the first place relies on Monocrow’s stupidity.
+________________
+
+Additional Points 3 - Medical Kit non-sense
+Kanade, being described as a “perfectionist,” had a medical kit to “revive” Setsuka in case the strategy failed, so she could maintain Setsuka alive for a some time and try again.
+
+The problem is simple:
+Point 1- A deep abdominal double stab (the one Setsuka had) would cause:
+1- Massive internal bleeding (hemorrhagic shock) – the main cause of death
+2- Organ damage (liver, spleen, stomach, intestines, etc.)
+3- Pneumoperitoneum (air leaking into the abdominal cavity)
+4- Peritonitis (severe inflammation + infection from intestinal leakage)
+5- Neurogenic shock (collapse of autonomic functions due to trauma)
+________________
+Point 2 - Real-world context
+Abdominal stabs are among the deadliest forms of trauma, with significant mortality even in modern hospitals equipped with surgery, transfusions, ventilators, and trauma teams.
+Point 3- Kanade would have needed to:
+1- call Monocrow
+2- wait for him to appear
+3- ask if the plan failed
+4- wait for his answer
+5- return to Setsuka
+6- take “stuff” (who knows what ??) from the medikit
+7- apply said “stuff”
+8- wait for the “stuff” to have effects
+9- re-try the strategy
+…while Setsuka is actively dying of blood loss.
+________________
+
+All three these points considered:
+1- Setsuka would have already died by the 5th step probably, and most definitely by the 8th step
+2- no description of such incredible medical prowess was ever given. In the Danganronpa universe, everything that isn’t explicitly or strongly implied to be “magical” must be assumed as realistic, so I wonder what Kanade would have had.
+________________
+
+Per rendere il piano plausibile, l’abilità di Kanade e Hibiki dovrebbe avere TUTTE queste proprietà:
+
+sincronizzazione neuromuscolare totale
+
+compensazione automatica delle differenze fisiche
+
+feedback sensoriale condiviso
+
+previsione dei movimenti del corpo della vittima
+
+sincronizzazione della forza e della profondità del colpo
+
+totale assenza di tremori, stress, ansia
+
+un sistema di controllo motorio quasi telepatico
+
+poteri fisici che nessun altro personaggio possiede
+
+“adattamento immediato alle differenze tissutali” > negato dalla semantica di come Hibiki descrive la sua abilità (“if we are on beat….”) che nega immediatezza
+
+“feedback sensoriale condiviso” > Kanade più volte dimostra emozioni molto diverse da quelle di Hibiki. Questo ANCHE mentre suonano al concerto usando l'abilità, dove l'espressione di Hibiki è di gioia e quella di Kanade è di concentrazione. Inoltre come è già mostrato proprio nel momento dello stabbing Hibiki era in stato di evidente preoccupazione a differenza di Kanade.
+
+“controllo motorio telepatico” > Kanade è mostrata più volte mostrare cose che Hibiki NON può fare (e.g. tirare dardi con estrema precisione, mentre Hibiki si sofferma ad ammirarla)
+
+Ed ANCHE avessero tutto questo (e non ce l'hanno) dovrebbe comunque passare del tempo nella telepatia per la trasmissione di informazioni.
+Questo perché:
+1- il movimento con strumento musicale è GIà noto e vi ci sono allenate da una vita, a differenza dello stabbing
+
+2- ANCHE SE fossero abituate entrambe allo stabbing ogni corpo è diverso, ogni posizione ha leve diverse etc…
+
+3- ogni informazione INEVITABILMENTE NUOVA (e sono un INCREDIBILE ammontare) sarebbe stata dovuta trasmettere in tempo sotto i 0.000001 secondi, e con adattamento di conseguenza. Questo ammontare di informazioni (anche concedendo la velocità) è incredibilmente superiore a quello di suonare ad un concerto, e avrebbe aumentato incredibilmente il delay.
+Quindi o hanno ricevuto un buff superumano proprio nel mentre del piano, oppure la proporzione non regge minimamente.
+
+This will be an analysis on Double Culprit’s Strategy from Kanade Otonokoji (SDRA2). Author: berl8989 THE STRATEGY Double Culprit Strategy’s explanation: The Danganronpa universe is constructed so that only one person at a time could achieve murder. This isn’t explicitly told to us (until the moment of this trial), but it was already strongly implicit. Kanade wanted to find a way in which she would have been able to make a double culprit. By “double culprit” I mean making two people the culprits of the same murder. In order to achieve that objective, she used the ability that her sister (Hibiki) and herself (Kanade) had. The ability was described as follows (quote from the game itself) “If we are in beat we can play with a margin of error less than 0.000001 seconds!”. In the context of the game, this was referring to playing at concerts. Further context being that Kanade was the guitarist and Hibiki the Vocalist. In Danganronpa who injures the victim last, becomes the culprit. Will leave proofs since this claim is CRUCIAL: Proof 1: Mikado “If it isn’t a special case like rule 6, normally the person who last injured the victim while they were still alive becomes the culprit”. Proof 2: Mikado “To put it simply, let’s say Iroha stabs Teruya with a knife. If I stab the dying Teruya before his last breath I would become the blackened that killed Teruya. So it becomes a game of who made the last shot!”. Proof 3: Yuki“...but for two killers and one target, the one who made the finishing blow is the culprit”Proof 4: Syobai “...if the person who makes the finishing blow takes the name of the blackened…” Proof 5: Monocrow “if a murder occurs anywhere, the high-tech sensors of Utsuroshima detect who hit last down to 0.001 seconds” Kanade’s reasoning was (not a quote): “considering the incredibly low margin of error, I could make use of my ability in order to make it seem as though two people killed the same person together while hitting that person with a knife, and so tricking the system”. Last context: the systems could detect anything with 0.00001 seconds of precision. Just 1 zero less than Kanade’s and Hibikit’s ability. Scan: AIM OF THE ANALYSIS The aim of this analysis will be to show how the thought process behind the strategy didn’t make any sense. This analysis actually (kinda) works using the narrative’s POV too. This is because luck can be considered a variable there too, and in this case luck could be addressed as the cause of the strategy’s success. POINT - Start of piercing timing =/ end of piercing timing misunderstanding The ability would (at best) START the piercing at the same time. But what matters is “who last injured the victim “(as Mikado said),“who made the finishing blow is the culprit” (as Yuki said), “who makes the finishing blow” (as Syobai said) and (as Monocrow himself said) “who hit last”, which means the ending of the piercing time was the only thing that mattered to determine who would become the culprit. And why would this be an issue? Step 1- The human body is asymmetrical. The part of the body which they pierced through was the abdominal area. The abdominal area is strongly asymmetrical. The internal layout of the organs, the blood vessels, the nerves…these are all strongly asymmetrical. Even the structures to which abdominal muscles attach are not perfectly symmetrical (rib cage, diaphragm, pelvis). The abdominal muscles also present different shapes and thickness. The distribution of fat is uneven (depending on posture, genetics, organ position, fascial tension). Step 2- The ability is ONLY about the rhythm (quote) “If we are in beat we can play with a margin of error less than 0.000001 seconds!”. The ability (in the most charitable of the assumptions) would establish both of the sisters to have synchronized neural inputs for moving their body. What the ability does not do, is make the environment physical entities irrelevant. Step 3- Considering the physical entities specific to this case (the human body of Setsuka), there would be differences in the piercing timings of Hibiki and Kanade. Why? Because the asymmetry of the body would cause asymmetry within the piercing AND within the retraction. This is due to: A- different organs or different areas of organs being hit B- different area around the organ being hit C- different positions and angles of Hibiki and Kanade (meaning different lever physics) D_ different body characteristics. E.g. Kanade’s boobs are massively bigger than Hibiki’s, Kanade’s muscle is narratively much stronger, she is also taller….(all of these impact the piercing strength and the lever physics) And to top this all off, two other things would MASSIVELY increase the differences in timing: D- fluid physics (given all the fat, blood etc.) since they are virtually impossible to predict to the level required (below 0.00001 sec of precision) E- the differences in area pierced would cause the body to move in extremely unpredictable ways, which would then increase the differences themselves. I also want to underlie how the mid-piercing and retraction timing differences would also add up to each other. ANTICIPATING CRITIQUES - “But that just means that Kanade accounted for all of this and calculated this issue!” Ok so: not only was this issue NEVER (both explicitly and implicitly) mentioned. Not only would this require calculations that are impossible in real life even using the best technology available. Not only would this go against Syobai’s analyst persona. Not only would this go against Kanade’s egomaniac persona. But this would just contradict Kanade herself. Why? This is because: She would have had to adjust muscle pressure (applying differences based off of Hibiki’s hand position) everything mid-execution. Which contradicts the fact she would be using a synchronization ability. So either she calculated everything and processed things below 0.00001 seconds and never used the ability, or she did use the ability and just got lucky she hit the right timing against all odds. And another funny detail: the calculations themselves are impossible to begin with, since Kanade couldn’t know Setsuka’s internal tissue and internal bodily parts (like their weight, position, dimensions and so on…). So even theoretically the calculations cannot be made. Even if she had access to some alien physics theories. Additional Points 1 - The Ability Once again quote from Hibiki: “If we are in beat we can play with a margin of error less than 0.000001 seconds!”. This means that the margin of error was just 1 single digit. Btw more context: she said this right after performing in a concert in front of the other characters. Now considering this, let’s go over each problem: 1- The “If” with the “We are on beat” means that they are not automatically on beat, because it’s dependent on conditions (e.g. mood) 2- The “We can” means that even IF they are on beat, it doesn’t necessarily follow that they will go at such rhythmic pace. It’s a peak, and even WHILE on beat. 3- The “Play” means it’s exclusive to a musical setting. This part is exponentially increased in importance, due to the other “if”s depending on this to even begin with at existing. 4- Hibiki has no arm-based rhythmic training. Hibiki is shown to coordinate only through voice (as she is the vocalist). At least Kanade had a guitar, meaning arm coordination made some sort of sense, but in Hibiki’s case it’s totally random that now she can apply the same rhythmic ability using her arms 5- Hibiki was shown to be anxious and sweating even in the very moment of stabbing Setsuka. This also impacts the “mood” part we also established before, but exponentially lowering the chances of success.6- Even in the hypothetical case of Kanade training Hibiki, she would have needed to put her into deep trauma. But that was shown to be the case only with Setsuka (since the time they landed in Dangarnonpa). She would have also needed a body to train with, which she obviously didn’t have. And in case she had that, she would have just caused more things to hide from others, making her own plan to fail from the start. Not even mentioning that when Hibiki is in that state of trauma, she is not even conscious, and unconscious muscle movement doesn’t have nearly as much muscle memory as a conscious body does. 7- The fact that this was an ability within a musical context, makes things even worse, because they actually had practice with their songs over and over again. So the result of 0.000001 sec is also dependent on practice as well. 8- Their ability isn’t even about precision, just timing. All these points considered: the very idea that the ability somehow applied (to the level required especially) would be insanity. Additional Points 2 - Monocrow’s stupidity Monocrow legit knew the possibility of two murders happening at the same time. Even though his thought process was different (and really weird) “‘But what if two different murders happen at the same time”. Still, he knew this could be the case. The thing is, he stopped developing the high-tech sensors at 0.00001 sec. Considering the alien technology he had access to, he could have easily built a better system. For instance, in our current world, defense related systems can already go 0.000001 s. Which is for reference the best performance Kanade and Hibiki could achieve (within a musical context, and so on and so on). Meaning that the whole strategy in the first place relies on Monocrow’s stupidity. Additional Points 3 - Medical Kit non-sense Kanade, being described as a “perfectionist,” had a medical kit to “revive” Setsuka in case the strategy failed, so she could maintain Setsuka alive for a some time and try again. The problem is simple: Point 1- A deep abdominal double stab (the one Setsuka had) would cause: 1- Massive internal bleeding (hemorrhagic shock) – the main cause of death 2- Organ damage (liver, spleen, stomach, intestines, etc.) 3- Pneumoperitoneum (air leaking into the abdominal cavity) 4- Peritonitis (severe inflammation + infection from intestinal leakage) 5- Neurogenic shock (collapse of autonomic functions due to trauma) Point 2 - Real-world context Abdominal stabs are among the deadliest forms of trauma, with significant mortality even in modern hospitals equipped with surgery, transfusions, ventilators, and trauma teams. Point 3- Kanade would have needed to: 1- call Monocrow 2- wait for him to appear 3- ask if the plan failed 4- wait for his answer 5- return to Setsuka 6- take “stuff” (who knows what ??) from the medikit 7- apply said “stuff” 8- wait for the “stuff” to have effects 9- re-try the strategy …while Setsuka is actively dying of blood loss. All three these points considered: 1- Setsuka would have already died by the 5th step probably, and most definitely by the 8th step 2- no description of such incredible medical prowess was ever given. In the Danganronpa universe, everything that isn’t explicitly or strongly implied to be “magical” must be assumed as realistic, so I wonder what Kanade would have had."

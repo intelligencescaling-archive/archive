@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: reframing-poseidon
+category: doc
+title: REFRAMING POSEIDON
+alt_titles:
+- Michael Scofield Reframing Poseidon Plan
+authors: []
+series:
+- prison-break
+characters:
+- michael-scofield
+- poseidon
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1sszxV6vWarGT_O7gwfu5LvZesU0EDdmzAFfb-YG0A7A/edit?usp=drivesdk
+    google_id: 1sszxV6vWarGT_O7gwfu5LvZesU0EDdmzAFfb-YG0A7A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1696
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 126440
+      sha256: 3d08f3a3a33d02d2bb58b38ae0fd559cda3935825482abf8ca745c9d0ad5539c
+    - format: docx
+      name: document.docx
+      bytes: 53391
+      sha256: b24b2b5316e9ecac40cd955e22583427136b039a078dfd69e63e2c47eef95a80
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Michael Scofield Reframing Poseidon Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

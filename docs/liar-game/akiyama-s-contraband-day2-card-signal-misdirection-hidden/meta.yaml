@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-contraband-day2-card-signal-misdirection-hidden
+category: doc
+title: Akiyama's Contraband Day2 Card-Signal Misdirection HIDDEN FEAT comprehensive in-depth ANALYSIS
+alt_titles:
+- Akiyama Contraband Day2 Card-Signal Misdirection | Hidden Feat
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1jOx_qp4hHFd5N1yzTJ8WTIvAFa32wEJzxVmWkY7hvFs/edit?tab=t.0
+    google_id: 1jOx_qp4hHFd5N1yzTJ8WTIvAFa32wEJzxVmWkY7hvFs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2069
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 491666
+      sha256: e09ae3cf09cd3bff1c82fbdfae319f2db0ee05c2c61dce1f4d488da62abeda47
+    - format: docx
+      name: document.docx
+      bytes: 478757
+      sha256: 1516bfeed9af83d3db6a9ea77321031453a26ad588996bda115d148ba2199ae9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama Contraband Day2 Card-Signal Misdirection | Hidden Feat
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama Contraband Day2 Card-Signal Misdirection | Hidden Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

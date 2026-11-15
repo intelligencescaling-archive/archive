@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokouji-s-si-year-1-volume-5
+category: doc
+title: Ayanokouji's SI (Year 1 Volume 5)
+alt_titles:
+- Koji's SI feat Y1V5
+- Ayanokouji’s SI (Year 1 Volume 5)
+authors:
+- name: Plasma
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1d3NeIaxSb0VMKIb1ZitMfbZNsee1ShYtJVfN80WV87g
+    google_id: 1d3NeIaxSb0VMKIb1ZitMfbZNsee1ShYtJVfN80WV87g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 6622
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 351360
+      sha256: 4f4ca622fda6bfbfd36a5e07db606342baf71c31d86ab45165f31d314e226b53
+    - format: docx
+      name: document.docx
+      bytes: 2504604
+      sha256: 1c1093d2dbf0f9b6eb66d4f9263ea15f72038b4a71f30e985e9f061de5de147e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's SI feat Y1V5
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Ayanokouji’s SI (Year 1 Volume 5)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

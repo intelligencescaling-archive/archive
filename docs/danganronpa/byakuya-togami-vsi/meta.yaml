@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: byakuya-togami-vsi
+category: doc
+title: Byakuya Togami VSI
+alt_titles:
+- Byakuya Togami's VSI
+authors:
+- name: akuya Togami’s VSI
+  source: doc-text
+series:
+- danganronpa
+characters:
+- byakuya-togami
+tags:
+- vsi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wxmQSXTeesCJ67DZCdWukaGPNxIdUIwIK1KVbevbbXQ/edit?usp=drivesdk
+    google_id: 1wxmQSXTeesCJ67DZCdWukaGPNxIdUIwIK1KVbevbbXQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1168
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1494099
+      sha256: 7bfc099e7df84d1f0220020d5b77dde6f209552243750a9eee5f36db6460401a
+    - format: docx
+      name: document.docx
+      bytes: 1711678
+      sha256: 236cc7a5ac6a701fe9cdb9f01baadca4a2ff6d79080ee5991500bd4010498507
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Byakuya Togami's VSI
+- library: remastered
+  section: Danganronpa
+  character: Byakuya Togami
+  link_text: Byakuya Togami VSI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pj-slams
+category: doc
+title: PJ slams
+alt_titles:
+- Another Patrick Jane SCD doc
+authors:
+- name: Arthen
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wZ95RXCgjX0FP2HngNk8J8U2kXdsKuTl7B5gP2XzHo8/edit?usp=drivesdk
+    google_id: 1wZ95RXCgjX0FP2HngNk8J8U2kXdsKuTl7B5gP2XzHo8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 69
+    words: 14513
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 17380936
+      sha256: 478a55bb8e3ed3e40d55fadccba6aed0148b6f8a7f61d0cc7ca7dfe22ce3e615
+    - format: docx
+      name: document.docx
+      bytes: 12419403
+      sha256: 9f77f8eacb9eab9c20147b3c8876fc18fad6ab2959f8e9253d7a22ea24bab75e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Another Patrick Jane SCD doc
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: PJ slams
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

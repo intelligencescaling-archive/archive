@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: humiliating-and-humbling-nigel
+category: doc
+title: Humiliating and humbling Nigel
+alt_titles:
+- Chen Ran Feats in Cat and Mouse Game
+- Qiu Yinong Feats in Cat and Mouse Game
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+- qiu-yinong
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13o5QSzl3JNxJzAayjrZjuKA5FKzItErcGeSuyYpGBsk
+    google_id: 13o5QSzl3JNxJzAayjrZjuKA5FKzItErcGeSuyYpGBsk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 20
+    words: 11478
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 406777
+      sha256: 0ff09615beff7f14cee3a796052268f1cfaed3b29ed368ca392578b4cef9d8f0
+    - format: docx
+      name: document.docx
+      bytes: 34578
+      sha256: 71bec3659868e667679fbeb70d808fcfcbfecad4a2bb1b9f1913b75186320235
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran Feats in Cat and Mouse Game
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Qiu Yinong Feats in Cat and Mouse Game
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

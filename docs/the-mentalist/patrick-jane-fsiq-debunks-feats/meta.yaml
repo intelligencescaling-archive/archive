@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-fsiq-debunks-feats
+category: doc
+title: Patrick Jane FSIQ Debunks & Feats
+alt_titles:
+- PJ FSIQ Debunks & Feats
+authors:
+- name: HelloThere1089
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Hc1xlaGxImE1oNd3aeRcyBf-FuaZGNcFsbacx2qCMY8
+    google_id: 1Hc1xlaGxImE1oNd3aeRcyBf-FuaZGNcFsbacx2qCMY8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 6562
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3640152
+      sha256: 3264001126fca2324314709da7a9b2a9f90634df27d1bb966e8f25762e50ee39
+    - format: docx
+      name: document.docx
+      bytes: 5546075
+      sha256: 089d6f6f3c80465702179bfdc375e66f1adda6359b7db9e851c30101759676f1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ FSIQ Debunks & Feats
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane FSIQ Debunks & Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

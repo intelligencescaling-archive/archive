@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: takuya-yagami-self-expulsion-theory
+category: doc
+title: Takuya Yagami self expulsion theory
+alt_titles:
+- Takuya Yagami Self Expulsion Theory Doc
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1OQDjnePYaYdmFzY4IShZvnrNgBgrw9QZLvOgsALUdu8/edit?usp=drivesdk
+    google_id: 1OQDjnePYaYdmFzY4IShZvnrNgBgrw9QZLvOgsALUdu8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 855
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 83125
+      sha256: 83711bbd6d296fd791ce275142d0556623bc09b4cebd7eedfc470826f7836a57
+    - format: docx
+      name: document.docx
+      bytes: 319387
+      sha256: b86968aa4ca2fc2424261181a91d238535eb53aef0ebb71825d334dd94cdd147
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Takuya Yagami Self Expulsion Theory Doc
+- library: remastered
+  section: Classroom of the Elite
+  character: Takuya Yagami
+  link_text: Takuya Yagami self expulsion theory
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

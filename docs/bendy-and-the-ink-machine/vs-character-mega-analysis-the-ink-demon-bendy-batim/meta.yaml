@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vs-character-mega-analysis-the-ink-demon-bendy-batim
+category: doc
+title: 'VS. Character Mega-Analysis: The Ink Demon/Bendy (BATIM)'
+alt_titles:
+- Bendy scale
+authors:
+- name: R_T_B
+  reddit: R_T_B
+  source: doc-text
+series:
+- bendy-and-the-ink-machine
+characters:
+- bendy
+tags:
+- wis
+- analysis
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/0/d/1I8LrWk5baiTI4kL5bNcPWPUuN31ku4mf2xBSq0z-zBU/mobilebasic
+    google_id: 1I8LrWk5baiTI4kL5bNcPWPUuN31ku4mf2xBSq0z-zBU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 74
+    words: 15021
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 71213782
+      sha256: 9ca3ebb2a41455272be031b1f6f2ff45a211b260830757272005d3bda21a9018
+    - format: docx
+      name: document.docx
+      bytes: 120860367
+      sha256: a3a2496fbca2904df86e2eb77f5f5fe85181cd239b8ed2cbf98caa1e97d9dde8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Bendy scale
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

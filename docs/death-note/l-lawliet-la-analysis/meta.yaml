@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-la-analysis
+category: doc
+title: L Lawliet LA analysis.
+alt_titles:
+- L lawliet analysis
+authors:
+- name: Druxzy
+  source: doc-text
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1oT5EfK8JapQ5jz6gNL2O8uZ93GzKRSxurhD8hWWyHwE
+    google_id: 1oT5EfK8JapQ5jz6gNL2O8uZ93GzKRSxurhD8hWWyHwE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 818
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 84006
+      sha256: 04b4a0568e7f7648a859ceed1ee66c4ecd68fce7986cd47fe69940906b91180e
+    - format: docx
+      name: document.docx
+      bytes: 1639830
+      sha256: e541813e73c0d09c3e22ba6df17fd19a14cee2e324e03e7cbe8f7f71c70b6083
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L lawliet analysis
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L Lawliet LA analysis.
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

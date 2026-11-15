@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-scofield-doc-2
+category: doc
+title: Michael Scofield doc
+authors:
+- name: River/ratjoe
+  source: doc-text
+series:
+- prison-break
+characters:
+- michael-scofield
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Y13Q4KIG5U6_36uqyO8QxpbeNB7xqCTnxJcBsLDGAvk
+    google_id: 1Y13Q4KIG5U6_36uqyO8QxpbeNB7xqCTnxJcBsLDGAvk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 11211
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 13727849
+      sha256: fb4dcfea5b87f5ad2506c71ccd58a78320105d40e656cfff80d016ca391e6fd7
+    - format: docx
+      name: document.docx
+      bytes: 10412141
+      sha256: 3aa46589f34dc78b5b4c35913195dae2481aff5681b76afbcccafcf018723b42
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Michael Scofield doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

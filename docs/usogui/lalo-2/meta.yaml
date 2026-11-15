@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lalo-2
+category: doc
+title: Lalo 2
+alt_titles:
+- Lalo
+authors: []
+series:
+- usogui
+characters:
+- vincent-lalo
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1tjInhyi6FC50Gr8lHLb11lr9sXrZIYZO
+    google_id: 1tjInhyi6FC50Gr8lHLb11lr9sXrZIYZO
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Lalo.docx
+      bytes: 7888913
+      sha256: c246c65abc6abd59f895866c8147b6d0c5abccbfe9e749b368bf99b4bc0e51f5
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Lalo 2
+- library: remastered
+  section: Usogui
+  character: Vincent Lalo
+  link_text: Lalo
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

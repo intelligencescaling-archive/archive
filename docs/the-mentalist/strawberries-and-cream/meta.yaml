@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: strawberries-and-cream
+category: doc
+title: 'Strawberries And Cream:'
+alt_titles:
+- PJ 10
+authors:
+- name: Hassan Mustafa
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ZjYqbGueZNN_rXzISVWEH8tD-IVqe6Qvvfi4TxstrZY
+    google_id: 1ZjYqbGueZNN_rXzISVWEH8tD-IVqe6Qvvfi4TxstrZY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 30
+    words: 8537
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4985636
+      sha256: 176d3c53ed186f33d1efb470cd70c9e8fed409ff407364e27e0e2b5d013f1704
+    - format: docx
+      name: document.docx
+      bytes: 5452607
+      sha256: ddd4f63a3d073b992adbb8d55361b8a38cdef29bc1b44a7e9c365655d3a80469
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 10
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: 'Strawberries And Cream:'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

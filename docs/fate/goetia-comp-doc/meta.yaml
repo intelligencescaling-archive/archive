@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: goetia-comp-doc
+category: doc
+title: Goetia (Comp) doc
+alt_titles:
+- Comp Goetia Doc
+authors:
+- name: Yusha]
+  source: doc-text
+series:
+- fate
+characters:
+- goetia
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1kYxF_sfeWusfD2lv66ECJERU4YFx6PSjEwR4RFzlMcA/edit?usp=drivesdk
+    google_id: 1kYxF_sfeWusfD2lv66ECJERU4YFx6PSjEwR4RFzlMcA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1542
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 939575
+      sha256: f47cd879ad615fee96de575b4114ca5aaa77daab1c5e5a03c7c44c0df101b922
+    - format: docx
+      name: document.docx
+      bytes: 653173
+      sha256: f982b62589fd91510c87187a96d88419080891834568de38ea871c13622bcc62
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Comp Goetia Doc
+- library: remastered
+  section: Fate
+  character: Goetia - Composite
+  link_text: Goetia (Comp) doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

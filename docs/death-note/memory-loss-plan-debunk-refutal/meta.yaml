@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: memory-loss-plan-debunk-refutal
+category: doc
+title: Memory loss plan debunk refutal
+alt_titles:
+- memory loss rebunk
+- Memory loss debunk refutal
+authors:
+- name: Hans
+  source: doc-text
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- planning
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1rOqSWhTtakS_MFA21NbSCQY1N7e-NZaBqJEP5gWZkZY
+    google_id: 1rOqSWhTtakS_MFA21NbSCQY1N7e-NZaBqJEP5gWZkZY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 1211
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 60874
+      sha256: 2e48c5521aefced54e1879e5d45dfdb7ee0aad2959c68469b94e7ca2722fff73
+    - format: docx
+      name: document.docx
+      bytes: 9675
+      sha256: 353c32f85a094576a3306188fd084281068c142dc93080d8e2ee587826efe103
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: memory loss rebunk
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Memory loss debunk refutal
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

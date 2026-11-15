@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moon-seonghyun-document-for-scd
+category: doc
+title: Moon Seonghyun document for SCD
+alt_titles:
+- Moon Seonghyun
+- Moon Seonghyung document for SCD
+authors: []
+series:
+- dr-frost
+characters:
+- moon-seonghyun
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1q0-uWErI0hA-EM1nVV1ZS8Mcu6vIFELJaF7tAUA-W3g/edit?usp=drivesdk
+    google_id: 1q0-uWErI0hA-EM1nVV1ZS8Mcu6vIFELJaF7tAUA-W3g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 42
+    words: 13163
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2951444
+      sha256: 2c373c4c27fa2d2de2347201d668cc4fd90b13817f4f917b393afe8aa7a15a9b
+    - format: docx
+      name: document.docx
+      bytes: 3117068
+      sha256: b48bde1299b50da1ff2db939a93a00e1f49d64b7dd0ac2fcc044c486913f4174
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DR.FROST:'
+  link_text: Moon Seonghyun
+- library: remastered
+  section: Dr. Frost
+  character: Moon Seonghyun
+  link_text: Moon Seonghyung document for SCD
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

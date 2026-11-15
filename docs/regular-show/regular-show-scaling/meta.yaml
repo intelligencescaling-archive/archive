@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: regular-show-scaling
+category: doc
+title: REGULAR SHOW ~ Scaling
+alt_titles:
+- regular show scaling
+authors:
+- name: ctrl
+  source: doc-text
+series:
+- regular-show
+characters: []
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1R_CYg6FennAzvK3eViPaCcKHW4gl_s0l2h2_blzZUxc
+    google_id: 1R_CYg6FennAzvK3eViPaCcKHW4gl_s0l2h2_blzZUxc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 845
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 202028
+      sha256: 2624561dae4fa0532b4c62c40d7fcc98d51fa8e571b4e545ff5512e04be67101
+    - format: docx
+      name: document.docx
+      bytes: 144608
+      sha256: e77b5261ec07e8d6b2b1d92c74ce68293ee55f216d0955d46599f5374d5d946a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: regular show scaling
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

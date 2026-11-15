@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: administrator-featherlink-feat
+category: doc
+title: Administrator Featherlink Feat
+authors: []
+series:
+- counter-side
+characters:
+- administrator
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1acu45WO8JeTu0fJ_umc09ZDJVo_WK9EfL5mMrJIFkGk
+    google_id: 1acu45WO8JeTu0fJ_umc09ZDJVo_WK9EfL5mMrJIFkGk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1046
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 770895
+      sha256: c64071a3e4ab1ce40bb10792e47040f96cccaf1cc8b2cb69a0316a0c4a1a70fa
+    - format: docx
+      name: document.docx
+      bytes: 723136
+      sha256: 573a0b50e44bbe04747800f975d8b48d30a67322533c707600553cac9619bb85
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Administrator Featherlink Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

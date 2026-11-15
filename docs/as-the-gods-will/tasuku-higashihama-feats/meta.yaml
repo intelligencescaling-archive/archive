@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tasuku-higashihama-feats
+category: doc
+title: Tasuku Higashihama feats
+alt_titles:
+- Tasuku Higashihama
+authors: []
+series:
+- as-the-gods-will
+characters:
+- tasuku-higashihama
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11ApVSJsbjQUR0p531XvWBiZnBP4u8UAiBTl7qX2wODA
+    google_id: 11ApVSJsbjQUR0p531XvWBiZnBP4u8UAiBTl7qX2wODA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2308
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 128255
+      sha256: 9135622c0e8668490305f15e20cb637eb0f5866b029e4aa4e1383badddade29d
+    - format: docx
+      name: document.docx
+      bytes: 387465
+      sha256: 6aa23dc221fb0debc2f47784265811ce31409cb84e0b5228586df73835a90480
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Tasuku Higashihama
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

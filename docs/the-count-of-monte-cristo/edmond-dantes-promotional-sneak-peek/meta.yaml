@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: edmond-dantes-promotional-sneak-peek
+category: doc
+title: Edmond Dantes promotional sneak peek.
+alt_titles:
+- Edmond Dantes DOC
+authors:
+- name: plank_krabs66/suspicious-cut3802
+  source: doc-text
+series:
+- the-count-of-monte-cristo
+characters:
+- edmond-dantes
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1pyjapDCYCCvADHBDS5KuTrBLzVtsvHZftHZlRHXAtuY
+    google_id: 1pyjapDCYCCvADHBDS5KuTrBLzVtsvHZftHZlRHXAtuY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 2464
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 813298
+      sha256: 6e919e4202ef93fb1e56e8567fc190b98f8091128406a0bbed2b515277bbbbd6
+    - format: docx
+      name: document.docx
+      bytes: 922212
+      sha256: c454e2e0c9df1a01a1a1194dceca7423eb58c500768a7de81c2ef8d5e14edca3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Edmond Dantes DOC
+  note: (not even close to being finished yet)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

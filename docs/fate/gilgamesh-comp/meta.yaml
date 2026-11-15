@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gilgamesh-comp
+category: doc
+title: Gilgamesh (Comp)
+alt_titles:
+- Comp Gilgamesh Doc
+authors:
+- name: Nino_IQ]
+  source: doc-text
+series:
+- fate
+characters:
+- gilgamesh
+variant: Composite
+tags:
+- composite
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1hie8uDIsiGx4hjAR0FKf-g1kEJ-DA-1NgLkijT2CWf8/edit?usp=drivesdk
+    google_id: 1hie8uDIsiGx4hjAR0FKf-g1kEJ-DA-1NgLkijT2CWf8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 1627
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 16997543
+      sha256: 9343c8b9f859fae91d5d7d191c3b6974031fd6378f9d58ed74a5f10e0a89fe74
+    - format: docx
+      name: document.docx
+      bytes: 16333124
+      sha256: 6acd98b9a346d9f1200681ec388c93a4ce27e9c92cc754e8e353b02d61c485e4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Comp Gilgamesh Doc
+  note: (not finished)
+- library: remastered
+  section: Fate
+  character: Gilgamesh - Composite
+  link_text: Gilgamesh (Comp)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

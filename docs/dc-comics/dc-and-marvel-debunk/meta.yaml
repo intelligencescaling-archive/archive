@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dc-and-marvel-debunk
+category: doc
+title: DC and Marvel debunk
+authors: []
+series:
+- dc-comics
+- marvel
+characters: []
+tags:
+- wis
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1jv3FPa9fpGT8csi40DP3aw_Z22BHw3dR_f9egvrlHWg/edit?tab=t.0#heading=h.73k5ycqedgyp
+    google_id: 1jv3FPa9fpGT8csi40DP3aw_Z22BHw3dR_f9egvrlHWg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 136
+    words: 33973
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25792927
+      sha256: d86b8fd3eed81683f355b0a8ec50c611de9f0fb606d2a12d24ae1b9abd5c9dca
+    - format: docx
+      name: document.docx
+      bytes: 25935374
+      sha256: c8fdccb92926c029d34be8c2d9c317a667344452d36c5ca4f978a5208643255c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: DC and Marvel debunk
+  note: (WIS)(Was already rebunked)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

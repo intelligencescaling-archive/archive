@@ -1,0 +1,57 @@
+Moriarty CPI Feat
+                                        By: Indra & Dominoo
+
+They are playing platoon
+
+In platoon each person is handed two cards, your goal is to get 21, you can either twist which means you take a new card or stick which means you don’t take anything
+
+Moriarty saw the cards and in mere seconds calculated all the relevant possibilities.
+
+13 cards when Moriarty saw it
+
+A: 4
+B: 3
+C: 4
+C: 9D, 1/11C, 3D, 9H (22)   D: 2
+
+A: 2H, 4C, 6S, 5+C  (17+)
+B: 10D, 7D, 6S (23)
+
+D: 8C, 10H (18)
+
+#ace:1/4
+#2:1/4
+#3:1/4
+#4:1/4
+#5:1/4
+#6:2/4
+#7:1/4
+#8:1/4
+#9:2/4
+#10:2/4
+
+ D needs to get 3 or less to win(less than 3 might not work), or 3 exactly(favourable outcome). On the table there are 13 cards and platoon is played with 48 total cards(no 10s) so 48-13 is 35
+
+Making for 35! Combinations of cards. Although the only card that matters is the top one.
+
+In a standard pile there we need a 3 in which there are 3 in the pile so 3/35
+
+Example:
+
+1D, 5S, 3H……6D, 3S
+
+The last number has to be any of the 3’s to satisfy it.
+
+Nothing got debunked
+there is a missing information
+Based on your calculations, the winning percent was 25 tho it wasn’t
+They did a mistake in the manga
+It’s better to take the LN as a feat since the LN has repeated only one story from the manga which was the pontoon feat
+
+Mori is a mathematician teacher, and considering the distance between 80 and 25 it is too much, and it is a sign that it is bs
+There are only 2 opportunities
+1 mistranslation
+2 we haven’t got enough information
+The LN proves that.
+
+The feat is really complex and confusing and unfortunately we aren’t given enough information to fully understand it.

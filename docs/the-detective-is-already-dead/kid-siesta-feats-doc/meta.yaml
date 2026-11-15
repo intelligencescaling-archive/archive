@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kid-siesta-feats-doc
+category: doc
+title: KID SIESTA FEATS DOC
+authors: []
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+variant: Kid
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/16cNzAuj8-z9RcGLk3_1GQ1JxQhqNqbtIHTO_KgoUSZA/edit?usp=drivesdk
+    google_id: 16cNzAuj8-z9RcGLk3_1GQ1JxQhqNqbtIHTO_KgoUSZA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1453
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2676009
+      sha256: 144a6f1adad825b855a9ec8cdc0a2803654a5b963a3b0594b5f45b168fe2f27b
+    - format: docx
+      name: document.docx
+      bytes: 2343791
+      sha256: 47690eeea28a906caae4ecf4e6380c78142f808daefe5c8700f6ea621e0709fc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Kid Siesta Feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 4-reasons-why-dbf-is-connected-to-dbx
+category: doc
+title: 4 Reasons Why DBF is Connected to DBX
+authors: []
+series:
+- dragon-ball
+characters: []
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1dri4AYIsNRD3nTjm4CellfJoABcM-VrV9z6d9Jv_GlQ/edit?tab=t.0
+    google_id: 1dri4AYIsNRD3nTjm4CellfJoABcM-VrV9z6d9Jv_GlQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 1274
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 25941445
+      sha256: fe7c260ffeba8dc79602396a1864a667b140be5ad1a1c0bee2f5a177f8b1e955
+    - format: docx
+      name: document.docx
+      bytes: 27435454
+      sha256: a6e1901f164e546cc633405e893d5dcc4e0dfd7c987d4a7e531b5f1ae6a4faf8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: 4 Reasons Why DBF is Connected to DBX
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

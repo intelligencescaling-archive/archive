@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dt-powerscaling
+category: doc
+title: DT Powerscaling
+alt_titles:
+- Dark Tower cosmology
+authors: []
+series:
+- the-dark-tower
+characters: []
+tags:
+- wis
+- cosmology
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1kRu3mvJyAQNWzsBtmLymHDZFSFyXDAS_XgFGqJ7QRmg/mobilebasic
+    google_id: 1kRu3mvJyAQNWzsBtmLymHDZFSFyXDAS_XgFGqJ7QRmg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2338
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 440533
+      sha256: 62395c47129889ef9cd5e584484adea8e447843227161307ad0983f934b46d5b
+    - format: docx
+      name: document.docx
+      bytes: 479354
+      sha256: 0d25bfd1c913e81c549e8af2fd3d886a874c804e6088bf821c1598e926fd4d04
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Dark Tower cosmology
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

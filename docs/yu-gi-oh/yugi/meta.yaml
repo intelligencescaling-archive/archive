@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yugi
+category: doc
+title: Yugi
+authors: []
+series:
+- yu-gi-oh
+characters:
+- yugi-muto
+tags: []
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/13FGpw5PcGPv9Mh_te3EzH47Wk0PEy99x/edit?usp=drivesdk&ouid=107562670602473967947&rtpof=true&sd=true
+    google_id: 13FGpw5PcGPv9Mh_te3EzH47Wk0PEy99x
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Yugi s0 doc.docx
+      bytes: 5374930
+      sha256: 9b9640dbfb7fc89a8ef1d4a15cc794a60e9f39e4a51e058f7fb521359d7e9115
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Yugi
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

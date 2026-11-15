@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-katagiri-analysis
+category: doc
+title: Yuuichi Katagiri Analysis
+alt_titles:
+- Yuuichi Katagiri SCD Analysis
+authors: []
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Eo7hdLJGkVR66ViRr0RjqlcbZfIkyBH0dtvLfljvCuk/edit?tab=t.0
+    google_id: 1Eo7hdLJGkVR66ViRr0RjqlcbZfIkyBH0dtvLfljvCuk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 8554
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 323387
+      sha256: 923d2b6d1acfeb44b7376be3cc79573cab793804768fbffe6b502350c6ce35d5
+    - format: docx
+      name: document.docx
+      bytes: 309321
+      sha256: dbf97fd2bf8530aac362a52c648f4beaed7df3fac0a25d6cb10b66f96f3d4c7a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'TOMODACHI GAME:'
+  link_text: Yuuichi Katagiri SCD Analysis
+  note: (made by DAX)
+- library: remastered
+  section: Tomodachi Game
+  character: Yuuichi Katagiri
+  link_text: Yuuichi Katagiri SCD Analysis
+  note: (made by DAX)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

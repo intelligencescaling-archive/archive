@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fukurou-scd-doc
+category: doc
+title: Fukurou SCD Doc
+alt_titles:
+- Fukurou
+authors: []
+series:
+- usogui
+characters:
+- fukurou
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ei-mI3sWotEldyffgrV4XJSHapD-qPHcEZHbhVT24Qw/edit?usp=drivesdk
+    google_id: 1ei-mI3sWotEldyffgrV4XJSHapD-qPHcEZHbhVT24Qw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 979
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 90480
+      sha256: a1ddd284047d936a8167cf1569db14718f9baa44a8fa669092aefcf96f64d859
+    - format: docx
+      name: document.docx
+      bytes: 10245
+      sha256: 6b7caf5c52b941d311a90af9186c0123075335ddd18a9ae50bab3b37a31f0f2c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Fukurou SCD Doc
+- library: remastered
+  section: Usogui
+  character: Fukurou
+  link_text: Fukurou
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tom-taylor-intelligence-document
+category: doc
+title: Tom Taylor Intelligence document
+authors:
+- name: 'yours truly: Tom Taylor Productions!'
+  source: doc-text
+series: []
+characters:
+- tom-taylor
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1S783h0JSwrfNBiXdneSFOEZnMTCj-ACqHMuz7fMgm0o
+    google_id: 1S783h0JSwrfNBiXdneSFOEZnMTCj-ACqHMuz7fMgm0o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 200
+    words: 23355
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 57615779
+      sha256: 4b881d48abbab5934d22a70d2b73314d7a9211361bd5357f50428024a59864f8
+    - format: docx
+      name: document.docx
+      bytes: 56530966
+      sha256: dada0edf17746affe24387c85b09c1784f51f2d0740a9963aae2d53f451c56bd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Tom Taylor intelligence document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

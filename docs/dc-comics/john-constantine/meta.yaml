@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-constantine
+category: doc
+title: John Constantine
+alt_titles:
+- John Constantine DOC
+authors:
+- name: Professor Fiction
+  source: doc-text
+series:
+- dc-comics
+characters:
+- john-constantine
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vEqKJ_KYKt_ZHZl5eryhoN7zN_laz_uJBltoIcE0XAo
+    google_id: 1vEqKJ_KYKt_ZHZl5eryhoN7zN_laz_uJBltoIcE0XAo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1446
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 331796
+      sha256: c5bae28de0258287abc4a759ec495d9e922eee2d26cdd3141df7ab367c667656
+    - format: docx
+      name: document.docx
+      bytes: 2474708
+      sha256: fc1eb2ca0773c75d4405c29375c4506d7caa66e180e2156626c2b964034f9d44
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: John Constantine DOC
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: John Constantine
+  link_text: John Constantine
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

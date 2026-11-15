@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rebirth-lr
+category: doc
+title: Rebirth LR
+alt_titles:
+- Friend LR feat
+authors: []
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- feats
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14e3abcjkHS4PR022gTPkyiXaG5AaAWeFweX3EvkZ4Kw
+    google_id: 14e3abcjkHS4PR022gTPkyiXaG5AaAWeFweX3EvkZ4Kw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1369
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 74335
+      sha256: 11b2f9b0f47595d03ca6c6b68fa8e2b3ce7dd2c9df39d468547f905b4141581b
+    - format: docx
+      name: document.docx
+      bytes: 288016
+      sha256: 289789b7b88e0a4ac101711420ed5e018944139cb44a244332fc334650559279
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Friend LR feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

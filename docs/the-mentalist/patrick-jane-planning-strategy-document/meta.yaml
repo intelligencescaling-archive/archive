@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-planning-strategy-document
+category: doc
+title: 'PATRICK JANE PLANNING & STRATEGY DOCUMENT:'
+alt_titles:
+- PJ 5
+authors:
+- name: Hassan Mustafa
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- strategy
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11JqJ8GxOkBVMSfznwz4A46T_pjc23BJ4QLYfG75qnWw
+    google_id: 11JqJ8GxOkBVMSfznwz4A46T_pjc23BJ4QLYfG75qnWw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 4515
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2641172
+      sha256: ec4d40adc0a31ba01f6c37fffb44c66da3cabf637023d5a78d63f666e0af14d8
+    - format: docx
+      name: document.docx
+      bytes: 4421664
+      sha256: c2f158ecc57d0950715051eba3e513a11327c3e0fb32756674ff03a2e17fe1a8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 5
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: 'PATRICK JANE PLANNING & STRATEGY DOCUMENT:'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

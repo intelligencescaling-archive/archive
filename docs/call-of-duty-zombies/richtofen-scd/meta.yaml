@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: richtofen-scd
+category: doc
+title: Richtofen scd
+alt_titles:
+- Richtofen SCD Doc
+authors: []
+series:
+- call-of-duty-zombies
+characters:
+- edward-richtofen
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1CepJJCgTN5Yokyrwt8PXC07c9OEJCWFQFnaJ7lzmdbM/edit?usp=drivesdk
+    google_id: 1CepJJCgTN5Yokyrwt8PXC07c9OEJCWFQFnaJ7lzmdbM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 33
+    words: 12094
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1167241
+      sha256: 4f4aea794d10fa29088ea135f255be914a05d74ae1f00fe2b753d84a3dac22cc
+    - format: docx
+      name: document.docx
+      bytes: 706190
+      sha256: 2912b9eace8bc9c76425735dac27ef4700c19fdd4e0a164be5697e8912bfcae3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Richtofen SCD Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

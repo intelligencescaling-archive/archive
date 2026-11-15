@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sneak-peak-of-comp-baku-doc
+category: doc
+title: Sneak Peak of Comp Baku Doc
+alt_titles:
+- Sneak Peek of Comp Baku Doc
+authors:
+- name: Axolotol4044/KitchenCoyote7942
+  source: doc-text
+series:
+- usogui
+characters:
+- baku-madarame
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1lcZ8lvGRaFy8UcDHlITLvsjim5WM2319lvla6O-bvSc/edit?usp=drivesdk
+    google_id: 1lcZ8lvGRaFy8UcDHlITLvsjim5WM2319lvla6O-bvSc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 709
+    words: 39757
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 169983874
+      sha256: 034d867a96051371ba4fa896cab037ffc2ad8ae8fcfb29266f59aded46ac0aa0
+    - format: docx
+      name: document.docx
+      bytes: 186753270
+      sha256: 950fc60468b0b85de03a44470b78a3b95fa071a70f254826265b9e5dba1e2549
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Sneak Peek of Comp Baku Doc
+- library: remastered
+  section: Usogui
+  character: Baku Maradame - Composite
+  link_text: Sneak Peak of Comp Baku Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mikado-shinsen-theory-strategy-doc
+category: doc
+title: Mikado Shinsen theory strategy doc
+alt_titles:
+- Mikado Shinsen Theory strategy
+authors: []
+series:
+- danganronpa
+characters:
+- mikado-shinsen
+tags:
+- strategy
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1vfzpXUmZVx5Q-21nVDssPa7At4uDj68w
+    google_id: 1vfzpXUmZVx5Q-21nVDssPa7At4uDj68w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Mikado Shinsen Theory strategy.docx
+      bytes: 154456
+      sha256: 621c4e1b34910db0a17a1312c14796698aaf78ad9b2cbdc60a7a7e039d48bad3
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Mikado Shinsen theory strategy doc
+- library: remastered
+  section: Danganronpa
+  character: Mikado Shinsen
+  link_text: Mikado Shinsen Theory strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

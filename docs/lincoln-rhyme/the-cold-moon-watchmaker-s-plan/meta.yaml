@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-cold-moon-watchmaker-s-plan
+category: doc
+title: The Cold Moon - Watchmaker's Plan
+alt_titles:
+- Charles Vespian Hale's Cold moon - Watchmaker's plan
+authors: []
+series:
+- lincoln-rhyme
+characters:
+- charles-vespasian-hale
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WwJfFELKH19xWaqER87B_a8bkEzmHwUotlOSyIxWSLo
+    google_id: 1WwJfFELKH19xWaqER87B_a8bkEzmHwUotlOSyIxWSLo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 68
+    words: 26516
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 784907
+      sha256: 98339ea1aadca0e16c727ebaed66166512cd9dadad11ef27dd82ef597a2eba81
+    - format: docx
+      name: document.docx
+      bytes: 91952
+      sha256: b42652049024c7096ddb8a0d8f540ab758a46e8c5bbd77c57504f21c6d3335a8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Charles Vespian Hale's Cold moon - Watchmaker's plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

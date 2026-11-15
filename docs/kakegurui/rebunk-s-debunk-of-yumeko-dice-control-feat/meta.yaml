@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rebunk-s-debunk-of-yumeko-dice-control-feat
+category: doc
+title: REBUNK'S DEBUNK OF YUMEKO DICE CONTROL FEAT
+alt_titles:
+- debunk of the Rebunk of Yumeko dice control feat
+authors:
+- name: Cris Mix
+  source: doc-text
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- feats
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PcymMK_79iPNKvOKNLNdnT3nT_QWgGz22Y7ILucFpU4
+    google_id: 1PcymMK_79iPNKvOKNLNdnT3nT_QWgGz22Y7ILucFpU4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 802
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 93026
+      sha256: 97f2f00867930729bbd534d103940a3b53dc0c14942d76db083902978f3c1188
+    - format: docx
+      name: document.docx
+      bytes: 9653
+      sha256: 6e23624ff68b7963ec5eb40955c729ca2712f3da8cbedc013ef191df03871373
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: debunk of the Rebunk of Yumeko dice control feat
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: REBUNK'S DEBUNK OF YUMEKO DICE CONTROL FEAT
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

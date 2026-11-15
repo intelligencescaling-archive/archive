@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: indominus-rex-incomplete-p1
+category: doc
+title: Indominus Rex (INCOMPLETE / P1)
+alt_titles:
+- Indominus Rex Doc
+authors:
+- name: Bittus
+  source: doc-text
+series:
+- jurassic-world
+characters:
+- indominus-rex
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1KApqdq-drCIClCfS3WyZWLnFKTkK_wm8LHatuuDzzgQ/edit?usp=drivesdk
+    google_id: 1KApqdq-drCIClCfS3WyZWLnFKTkK_wm8LHatuuDzzgQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1419
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 963577
+      sha256: 6afa7961d6cd9e1f38ce3a1a05857c33cdee5b4319d1d62ea9ee29fc5e562492
+    - format: docx
+      name: document.docx
+      bytes: 1144061
+      sha256: f29fd11c8247174fb016f8741b1b7a4334e4e8a6aca31d674be0666ab0eb9f4a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Indominus Rex Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

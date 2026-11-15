@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: medea-manipulation-of-the-cardinal-feat
+category: doc
+title: Medea manipulation of the cardinal feat
+authors: []
+series: []
+characters:
+- medea
+tags:
+- feats
+- manipulation
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/document/d/1cz6J8tiAug-O8QKDKvFr-z7EKbfUUwjf/edit?fbclid=IwY2xjawLbjsFleHRuA2FlbQIxMABicmlkETFZMVhpUHFqUXBud1RUSEtlAR7vo9zW1i8U5H6_MpA-sMI0XKZLLfbo-tp-PrsY3pNXV3TTJNUXj3n3auD9lA_aem_vhdtRREXQb1I5kssBxjhRA&tab=t.0
+    google_id: 1cz6J8tiAug-O8QKDKvFr-z7EKbfUUwjf
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Medea manipulates the cardinal Feat - Predictions of PsychÃ©'s actions and thoughts (subfeat of falses rumor feat)-1.docx
+      bytes: 16497
+      sha256: 7aa547b1612783ae79d23c689489f9be1d6a92cfe7c76d2984a2384786b13f0b
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Medea manipulation of the cardinal feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language
+  - series

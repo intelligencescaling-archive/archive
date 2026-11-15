@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joseph-harrison-oc-eng-version
+category: doc
+title: Joseph Harrison(OC)(ENG VERSION)
+alt_titles:
+- Joseph Harrison
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: library
+series: []
+characters:
+- joseph-harrison
+tags:
+- oc
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1GHwH4klQUP8J-qpP5YeH3AjdZE7zffi7UeYqzA0D4zA/edit?usp=drivesdk
+    google_id: 1GHwH4klQUP8J-qpP5YeH3AjdZE7zffi7UeYqzA0D4zA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 13347
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 391824
+      sha256: a592756ff564a6bccf9c38f9a1ada6373f663797af6a37de3893f9d215e1a2c6
+    - format: docx
+      name: document.docx
+      bytes: 34930
+      sha256: 1c2e95af8dd7a2d18877988b1310bdeb0bdfb2fc825915ab22880a33bba109d8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'
+  link_text: Joseph Harrison
+  note: (Finished)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

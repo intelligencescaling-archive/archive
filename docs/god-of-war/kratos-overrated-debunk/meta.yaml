@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kratos-overrated-debunk
+category: doc
+title: '"Kratos overrated" debunk'
+alt_titles:
+- '"Kratos is overrated" debunk'
+authors:
+- name: TheCardinalKing
+  source: doc-text
+series:
+- god-of-war
+characters:
+- kratos
+tags:
+- wis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/15hZf36ZKdvP4KiTTPaVDBUxWGi_738Er6rZYU1sFleM/edit?tab=t.0#heading=h.ih0z7sxuwolq
+    google_id: 15hZf36ZKdvP4KiTTPaVDBUxWGi_738Er6rZYU1sFleM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3580
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 292394
+      sha256: 495c72705f1fa26e111089f7cb3b68a8332bb22ed2f094779cc1ff8dcb794651
+    - format: docx
+      name: document.docx
+      bytes: 22997
+      sha256: 684f7567e5ede75fb2bdec31bd28f382650e0ae135d60eb13781024bbb50b604
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: '"Kratos is overrated" debunk'
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

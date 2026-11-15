@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: reverend-insanity-volume-3
+category: doc
+title: Reverend Insanity Volume 3
+alt_titles:
+- Reverend Insanity volume 3 analysis
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- analysis
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1l4eBzx9vpBieXBY8VMoQRnh9qGYQfxKoiMPdxrmqXss
+    google_id: 1l4eBzx9vpBieXBY8VMoQRnh9qGYQfxKoiMPdxrmqXss
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 6422
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5361381
+      sha256: 7f8804110651221154eb485ed685027b1e1393fca80765a91b16619a75e35568
+    - format: docx
+      name: document.docx
+      bytes: 6452736
+      sha256: e903a7d0e464086cbd00a350fadcdc71bc2e13d2add955276c1a0f398360c39d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Reverend Insanity volume 3 analysis
+  note: (ongoing)
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Reverend Insanity Volume 3
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

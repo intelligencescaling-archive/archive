@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: batman-debunk
+category: doc
+title: Batman debunk
+authors:
+- name: DDY
+  source: doc-text
+series:
+- dc-comics
+characters:
+- batman
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1AabUYKwa3Jrykg5cs0bh4Lon2HPqhJTDL7V0lKzSQtk
+    google_id: 1AabUYKwa3Jrykg5cs0bh4Lon2HPqhJTDL7V0lKzSQtk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 151
+    words: 20542
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 44699143
+      sha256: 6d82fdd816209ef9b5a9aba3368a32cde3f6fca0aab0d1051fabccd337f50647
+    - format: docx
+      name: document.docx
+      bytes: 37768308
+      sha256: d249a609bcc260e7982e1360c5366ba642a44d68234d8afbae58e49ce7a1f2d8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Batman debunk
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Batman
+  link_text: Batman debunk
+  note: (WIS + SCD)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

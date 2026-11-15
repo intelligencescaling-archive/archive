@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: completed-v0-ayanokoji-doc
+category: doc
+title: Completed | V0 Ayanokoji Doc
+alt_titles:
+- Complete Volume 0 Koji Doc
+- Complete | V0 Koji Doc
+authors:
+- name: CounterKouji
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1rzW6PTX1HOol70fsTU_ZYWSielqV9znmX6fImVRyEtM
+    google_id: 1rzW6PTX1HOol70fsTU_ZYWSielqV9znmX6fImVRyEtM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 14676
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3428456
+      sha256: 346d883b60d9644341d61cab62153815b0b7a123d998d027b5a740d8d944ff1e
+    - format: docx
+      name: document.docx
+      bytes: 4670186
+      sha256: e4e1ed1be37d8db840791a9b1ecd4cd42ba63f83e87828120ca48a038a83bbb8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Complete Volume 0 Koji Doc
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Complete | V0 Koji Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

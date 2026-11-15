@@ -1,0 +1,535 @@
+“I’ll take a potato chip….and eat” (author: yours truly, berl8989)
+
+(The document is pretty long, but don’t be scared — most sections are self-contained. You can read any paragraph on its own and still get the point.)
+
+THE MINI-TV CASE
+
+Let’s start strong. Problem 0.
+1. A chip bag acts like a “partial Faraday cage”
+When the chip bag is metal-lined (as they all were and still are) but left open, it still reflects and blocks radio or TV waves — just not completely.
+1. The aluminum interior reflects electromagnetic waves.
+2. The open top allows some of those waves to get in
+So a mini-TV (like the Casio JY-10) ends up sitting inside a kind of “metal cave with one open side.”
+That opening is the only path for the signal to enter.
+Photo: Demonstration of a Faraday cage: electrical discharges travel around the metal frame instead of passing through it.
+
+________________
+2. What happens to the signal
+1. The waves that come in through the open part bounce around inside the bag.
+2. Most of the signal is weakened, reflected, or scattered by the aluminum walls.
+3. Only part of the antenna “sees” the outside world, so reception becomes unstable.
+________________
+
+The result would be:
+1. a weak or noisy image,
+2. static or hissing in the audio,
+3. or even complete loss of signal if you move the bag slightly.
+If the mini-TV is near the open end, the antenna can still catch some signal.
+If it’s deep inside the bag, farther from the opening, it’s surrounded by metal and almost completely shielded.
+And in this case, it’s mid-way to the end (scan).
+
+In conclusion: at best there is some signal but it *should* be strongly disrupted (which would result in a huge gamble from Light’s part), and at worst there should be no signal at all.
+________________
+
+Now that we have started strong, let us get some more context.
+The shown mini-tv doesn’t resemble any actual mini-tv during that year (2004).
+
+Examples of top-notch (actual) mini-tvs during 2004:
+1- (on the left) CASIO EV-4500, 2- (on the right) Casio JY‑10 LCD Pocket Color TV
+
+3- (on the left ) Casio TV-770, 4 (in the middle) Casio TV-990, -5 (on the right) Sony FDL-22, 5
+
+All these *actual* mini TVs required:
+* a telescopic antenna
+* continuous power supply or replaceable batteries otherwise they had an operating time of less than 4 hours
+* weight wise they were going from 230 up to 450 grams. But we will take 230 grams since it’s the most optimal case for Light (Casio JY-10)
+* size wise the most optimal for Light (the Casio JY‑10) would have the lowest depth of 34 mm, still a width of 88 mm and a 74 mm height.
+Since we chose the Casio JY-10, its energy maintenance was 2-3 hours at most.
+Not only that, but after 2-3 weeks it’s severely important to take out the batteries because battery terminals could corrode if batteries stay there for that long.
+But this isn’t counting that he placed the mini-tv inside a potato chip package *while* the package was still filled with potato chips. So corrosion would start even earlier (due to oil vapors, salt, and moisture from the chips).
+Problem 1:
+This means Light had to be lucky that L didn’t start the surveillance after that day — otherwise the battery terminals could have already corroded. And it’s not like Light could just casually replace the batteries whenever he wanted without risking being seen. It’s not as if L asked for permission before setting up surveillance, meaning Light had no way of knowing when it would begin.
+Problem 2:
+The 74 mm height (also mixed with the 34 mm depth) would make the mini-tv’s existence within the package easily observable. That’s like having 8 rules combined (depth) each of 7.4 cm, having to stand within a potato chip package.
+This problem 2, becomes even of a bigger problem for 2 other reasons:
+1. the more Light eats chips, the more evident the form of mini-tv becomes
+2. when Light will have to finish the chips (in order to throw the thing in the trash as he did) he will have to wrap the content of the package in a way that it will not show the mini-tv for the cameras watching the trash can from above. But within the scene, the mini-tv acts literally as if it doesn’t exist in order to save the plot. Scan:
+
+Problem 3:
+Talking about disposing of the evidence, Light’s dumbass legit semi-throws (from around 40 cms from the trash can) the potato chip (containing the mini-tv) into the garbage can. This would:
+1. end up making some sort of really unusual sound. Remember: a normal potato chip package is about 30 grams, with the mini-tv it’s about 260 grams.
+2. end up in a strange movement for a package of chips being thrown.
+3. The manga even writes it as “THWOK”, an onomatopoeia used for something solid striking a surface — not the light “flap” or “shff” you’d expect from foil and air. Scan:
+
+Problem 4 (huge):
+The Casio JY-10 (as all the mini-tvs at that time) has an antenna you had to extend in order to receive signal. Otherwise it legit wouldn’t work (or the signal received would be really weak at best). The antenna (for this model but similarly for others too) was about 20-30 cms.
+Light never even extends the antenna (for very obvious reasons).
+Scan of Casio JY-10’s antenna:
+
+Problem 5:
+Assuming that Light turned the mini-tv on while eating the potato chips (if we assume otherwise much more important problems arise), there are still many issues at hand:
+The easiest case would be if the mini-TV used a mechanical switch. But when turned “on,” such a switch produces a click — not loud, but reasonably audible (especially considering L’s sensory implied capabilities).
+Even under that assumption, turning the switch with your fingers requires the TV to stay steady, since the mechanism isn’t that sensitive to pressure. That means the mini-TV needed some sort of support from behind — something Light couldn’t use for obvious reasons.
+This makes turning it on very difficult, especially considering that some chips should have been under it, making the surface unstable.
+I said “should” because, conveniently, none appear to be there. What a coincidence🙄.
+Oh and btw it would also be very safe to assume that Light’s fingers were also somewhat oily (🍟), meaning that it would have been even easier to fuck it up.
+
+Problem 6:
+The Casio JY-10 model (and, by the way, this was the standard) had a small red LED near the display to indicate that the mini-TV was turned on. This light stayed on until the device was switched off.
+That red dot would have leaked at least a little light through the metallic lining of the chip bag or its opening.
+Now, in the image we don’t actually see the dot—but it’s also true that we never get a clear view of the top-left corner of the screen and also that it could just be on top of the mini-tv instead in front of. And even if there truly weren’t any visible light, there should have been. Yet another coincidence, huh?
+Problem 7:
+Type of screen
+The Casio JY-10 used a passive-matrix LCD panel (STN or early TFT), similar to the small displays found in calculators or portable devices from the late ’90s and early 2000s (again, this is a standard within the mini-tvs available at that time).
+It wasn’t the modern IPS or VA type that allows wide viewing angles.
+________________
+
+What this means in practice
+When viewed straight on, the image looked normal — acceptable colors and contrast.
+But if you tilted the screen even 20–30 degrees up or down: the colors would wash out, the contrast would drop sharply, and in some cases, the picture would invert (dark areas turning light, and vice versa).
+
+Specifically:
+1. Looking from below → the screen would look almost completely black.
+2. Looking from above (Light’s case) → it would look pale and washed out.
+3. Why this happens
+The liquid crystals only direct light properly along one viewing axis.
+Outside of that axis, the polarized light doesn’t pass correctly through the filter — and since the JY-10 didn’t have optical compensation layers, visibility dropped fast with angle.
+________________
+4. Practical result
+To see properly:
+1. you had to hold it almost perfectly perpendicular to your eyes (around 90°).
+2. If you placed it on a table, tilted it, or looked at it sideways → the image would almost disappear.
+In conclusion:
+Light should not have been able to see anything from the angle he was forced to use.
+The position he adopted was the only one that allowed the mini-TV to remain hidden — but at that angle the display would have been unreadable.
+Unless we assume that L placed his cameras absurdly badly (which would be really laughable to *this* kind of bad), Light was meant to stay within a fixed viewing area.
+He certainly wasn’t shown sitting directly in front of the TV with his head lowered toward it — which would have been the only way to actually see the screen.
+Scans for example
+In Front Of example (first scan); From angles (second and third scans)
+
+youtube video link
+Problem 8:
+There was no way in hell to begin with that Light would have been able to see the inside of the potato chip package and into the mini-tv screen. Just look at the perspective. This is self-explanatory. Hopefully.
+
+Actually imma make chatgpt make the calcs coz I don’t feel like wasting time on this self-evident thing. (Don’t waste your time too by reading)
+“What the frame shows
+1. Light is upright, eyes roughly 120 cm from the floor; desk ≈ 70 cm → eyes ≈ 50 cm above the desk.
+2. The chip bag lies flat near the keyboard, opening upward / slightly away from him.
+3. The mini-TV is inside the far end of that bag.
+
+Immediate occlusion
+   * From that posture his sightline hits the bag wall and chips. He can see the outer foil, not inside the pouch.
+
+   * To see inside he’d need to drop his head to near desk level and aim directly into the opening—exactly the kind of movement you wouldn’t risk under surveillance.
+
+Viewing-angle math (generous assumptions)
+      1. Horizontal eye-to-bag distance ≈ 40 cm; vertical drop 50 cm → line of sight is arctan(50/40) ≈ 51° downward from horizontal.
+      2. Mini-TV LCDs of that era (STN/early TFT) tolerate about ±20° vertical before washing out (see Problem 7).
+      3. Even if the bag’s mouth tilts the screen upward by 30–45°, the effective viewing offset is still ≈ 51° − 30–45° = 6–21° only if the screen itself is tilted toward him. But in the depicted setup the screen plane is effectively vertical and recessed, and the opening lip occludes the required direct line of sight.
+      4. Once you include the recess depth and foil lip, the practical incidence to the screen becomes > 30–60° off-axis (and often fully blocked), which for STN panels means washed-out or black.
+
+Bottom line
+         1. From the shown head position, he cannot see the screen.
+         2. The “reader camera” is an impossible viewpoint given Light’s actual line of sight.
+         3. Only by lowering his head to near desk height and peering straight into the opening could he get a usable view—exactly what he’s not doing.”
+W chatgpt 💖
+Problem 9:
+Let's assume he could actually see the faces. It was heavily implied it was for a mere moment. Say that when the journalists would show the criminal, the full thing would cover up one third of the whole screen (which is arguably a lot). Now this screen is already pretty small. And Light would have had to both read the names and the faces in a meaningful manner. In just a moment.
+Now more calcs from chatgpt (assuming the screen of the mini-tv light had was 3/2 of the one of the JY-10, putting Light at an extreme advantage): scroll till the last page.
+Not even counting that the quality of the resolution and stuff was incredibly bad back then. Just look at this:
+
+Problem 10:
+Setup:
+Light has to (1) carry the chip bag—with the mini-TV hidden inside—up the stairs, then (2) place it on the desk, all without revealing the device.
+(1) Carrying the bag upstairs
+A mini-TV like the Casio JY-10 weighs around 180–230 g and is a rigid “mini-brick.” Inside a flexible bag of chips, that mass will:
+         1. Shift and thud: while climbing, every step causes the brick to drop and bump against the bag’s bottom. The sound is heavier and duller than normal chip rustle.
+         2. Deform the bag: the rigid block forms a flat, hard facet and angular edges, completely unlike the soft, uneven shape of real chips.
+         3. Change the rattle signature: chips alone make a high, light crinkle; add a dense object and you get low thuds and momentum shifts that feel “off.”
+         4. Alter the way he holds it: to keep the TV upright, Light would have to grip the bag firmly and steadily, again not a casual gesture.
+
+(2) Placing the bag on the desk
+To set the bag down without exposing the TV, Light would need near-perfect precision:
+            1. Orientation constraint: the TV must end up vertical, angled just right toward Light, and screen-up at the far end.
+If the mini-TV isn’t positioned correctly—both vertically and with the precise tilt Light needs—then the entire setup becomes pointless.
+And achieving those two conditions is no small feat: the bag still contains chips, which means uncontrollable internal movement, and even with an empty bag it’s hard to make a small brick land perfectly aligned.
+            2. Noise and motion: foil crinkle + chip slide + hard-object tap create an unnatural sound profile.
+            3. Silhouette and reflection: the flat display produces a distinct planar outline under the foil, and any opening could leak light from the red LED or reflect the screen.
+            4. Repositioning risk: if the bag doesn’t settle correctly, Light would have to adjust it manually—tapping or rotating the bag—to line up his viewing angle, behavior that would look conspicuous on camera.
+
+Problem 11:
+Before even starting his supposed operation, Light would have had to eat or remove several chips from the bag.
+Otherwise, the mini-TV would have been completely blocked by the layers of chips sitting above it — making it impossible to see the screen or even the LED.
+And this isn’t optional:
+               1. In a standard, unopened bag, chips fill the volume irregularly, often piling above the midpoint of the bag.
+               2. A device like the JY-10, sitting at the bottom or far end, would be buried under multiple layers of chips.
+               3. To get a clear line of sight, Light would have needed to partially empty the bag — either by eating several chips or pushing them aside, both actions that take time and movement.
+
+This automatically reduces the time window available for the “feat.”
+By the time he’s cleared enough space to even see the screen, the news broadcast showing the criminals could already be in progress or either way he lost occasions.
+The supposed “instant setup” becomes another sequence of fussy, time-consuming steps, contradicting how effortlessly it’s portrayed.
+
+Problem 12:
+Light claims he was simply writing “one letter at a time,” but that casual statement hides an absurd level of precision required for the trick to work.
+Let’s break it down:
+________________
+
+(1) Accuracy without sight
+He was writing without looking at the paper — meaning he’d have to mentally estimate the exact spot where to place each new letter.
+If even one stroke was slightly misaligned, the writing could overlap or drift, making the names illegible and therefore unusable.
+This would require near-perfect spatial awareness and control, something even trained calligraphers struggle with while blind.
+________________
+
+(2) The writing surface
+The paper itself was taped to the inside of the chip bag using scotch tape — and the only “base” underneath was the flexible, uneven layer of chips.
+That surface offers almost no structural stability:
+                  1. It flexes and crunches under pressure.
+                  2. It shifts unpredictably with each stroke.
+                  3. Even a small push of the pencil would deform the base, altering where the line lands.
+
+In short, it’s a nightmare to write on, especially if you need precision.
+________________
+
+(3) The oily-hand factor
+By this point, Light’s fingers were almost certainly oily from the chips.
+That means:
+                     1. Reduced grip on the small pencil.
+                     2. Smearing or slipping when touching the paper.
+                     3. A higher chance of tearing or crumpling the delicate writing surface.
+
+Even a thin layer of oil can make it nearly impossible to maintain a controlled stroke — especially when balancing your hand inside a noisy, unstable foil bag.
+
+Problem 13:
+Light uses the vertical grip in order to write.
+
+Using a vertical grip, would:
+                        1. make your hand necessarily scratch the surface of the potato chip package(if not just moving the entire potato chip package)
+                        2. increases the chances of slipping up considering the already established points at “problem 12”.
+Problem 14:
+The very next day there was the garbage man displacing the trash, so Light was able to get rid of the evidence (once again, what a coincidence). But if L was actually not stupid he could have at least thought about controlling the garbage but whatever.
+
+Mind you that in the meanwhile of all of this, a supposedly god-tier intuitive detective is survelling Light, and that the agents virtually didn’t even check shit at Light’s own house (otherwise they would have easily found out about the mini-tv) while Light’s entire family was being suspected of being a kind of unreachable terrorist who could virtually kill anyone as long as the killer had a name and face.
+These 2 would count as problems but given they were already pretty obvious for the audience I didn’t wanna give them that “name”.
+________________
+
+Pattern Problem.
+The potato chip strategy (as in the way it was enacted by Light and also inherently) presented patterns that would easily raise suspicion.
+
+A bit of context first:
+Since Light canonically didn’t (and virtually couldn’t) change anything about the cause or time of death (during the potato chip trick), every criminal would have died after 40 seconds after Light would write their names.
+
+This brings us to pattern one: criminals, during the whole (and *first*) day Light was being surveilled, only die when the potato chip package was open.
+
+The second pattern, of course, is that only 2 criminals died.
+
+For the third pattern we’ll need more context:
+
+Watari comes into the room to inform L that (quote) : “A bank employee being questioned for suspected embezzlement and a purse-snatcher being held in detention, both just died of heart attacks.”
+
+L himself saying (quote):
+“Kira’s victims today were killed right away for extremely minor crimes”
+
+And right in the next panel (quote again):
+“And even though the cameras were only just installed, the Yagami’s Family behavior today was so clean it’s almost funny..:”
+
+Also one detail to notice: even though L didn’t go out of his way to explain what he meant with the first quote, we can plausibly assume (and even if he didn’t mean it like that, it’s still a plausible explanation that any reasonable person would come out with, regardless if L really thought about it) that he meant that it’s strange that people with much more problematic crimes weren’t killed.
+
+And this is an inherent problem to the strategy, since Light obviously can’t get the “privilege” of deciding who dies or who doesn’t, creating this really strange (and easy to see) pattern.
+
+How Light wants to get rid of this “third pattern” problem (I will be merely quoting what he said about it):
+“So I only managed to kill a purse-snatcher and an embezzler, two really minor criminals compared to my earlier victims.
+
+Even if criminals die who were on the news while I wasn’t online or watching TV, if they’re minor criminals, and this happens only when I am not getting any news, that could give him grounds to suspect me.
+
+In other words if I kill minor criminals who are shown when I am watching the news then people who committed minor crimes will have died when I was watching and when I wasn’t watching, so it won’t attract special attention.
+
+Now I already know where all the cameras are, so I’ll just be real open about watching tv and meanwhile I can easily write names into the death note scraps I’ve hidden around my desk.
+
+And when I’m outside I’ll remember the names and faces of other criminals in the new, major or minor.
+
+And write them into the death note page I hid inside my wallet, giving them various times of death.
+
+There I’m covered. Let L spy on me all he wants!”
+
+Now this is even more nonsensical than the potato chip strategy.
+1- It doesn’t delete the fact that the pattern once broke (at all), it just goes back to the old one (at best)
+2- He says “Now I already know where all the cameras are, so I’ll just be real open about watching tv and meanwhile I can easily write names into the death note scraps I’ve hidden around my desk.”
+
+This assumes that he found *yet another spot* to hide from the surveillance cameras which *should* have been the main focus if anything.
+
+Not only that, but he is *writing* the names of the victims down the DN scraps (Light himself says this), *not* normal papers. And the rule goes that even if you don’t picture the face, as long as you write down a name, someone *will* die.
+
+“But Light could just write the names down to then remember them later on and write them in the future, since someone else other than the criminal could die”
+
+Ok point 1: why the fuck did he chose the DN to remember the names. Out of all things. Especially since the DN could actually make the victims shown on screen *die* within 40 seconds, meaning that he is legit betting on “I hope this isn’t the only guy who has this name”. Which is a completely nonsensical gambit, it does NO benefits at all to Light.
+
+Point 2: Light himself logically implied that while watching the TV he is remembering the names and faces (otherwise the strategy he would want to implement would fail if he didn’t remember their faces obviously). Meaning that he knows the face. So the actual criminal *would* die. Which makes this even more nonsensical.
+
+In short: this whole thing is completely illogical.
+
+Also this whole stuff just assumes no-one is watching his ass outside of his house, which if true, just means L and the squad are dumbasses.
+
+________________
+
+L Stupidly Finished The Surveillance.
+
+If we take the authorial slip (which would only make things much worse) that the whole “using DN scraps” happened 2 days after potato chip, then it would be 4 days after potato chip.
+Otherwise it’s 3 days after the potato chip trick.
+
+So in the first case it would be 5 days total, in the second case 4 days total.
+Now within the narrative the author insists on 5 days passing, which again, would only make things worse.
+
+The conclusion L makes:
+“I’ve studied (blah blah blah)....that of the people in the Kitamura and Yagami families, suspicious activity was observed in nobody”
+
+And then later on L says:
+“even if one of them is Kira, they simply aren’t making any mistakes. They are putting criminals to death as always without showing us how.
+
+There’s a five percent probability”
+
+Then he goes on with some bullshit narrative stuff (which I will put here in the doc just to avoid any “but there are missing pieces” kinda stuff).
+The only relevant (but still not related to potato chip at all) stuff he says is that “if it’s one of the people Raye Penber was investing before December the 19th it’s someone in either the Kitamura or the Yagami family”.
+
+Why all of this makes no sense at all:
+                        * the patterns Light creates are blissfully ignored by L
+                        * The third pattern in particular somehow becomes irrelevant to L even though the strategy Light took doesn’t affect that pattern at ALL logically speaking. That’s like saying “oh there was a bug once, but Imma ignore it since other times it doesn’t show up”. And even worse, the moment there was a bug, was the very day the surveillance started
+                        * L knows that the only possible people that could be Kira are within these 2 families, and instead of trying to use other surveillance methods and so on, just gives up (and decides to go on with the self-revelation bullshit that I will talk about another time)
+                        * Even worse, let’s say that Light’s second strategy somehow didn’t kill criminals on the spot. L would have had only 1 single occasion of being the witness, while in *all* the other days Light killed criminals outside of his surveilliance. And this single occasion was the only one where a “bug” appeared. Now if this isn’t the most blatant pattern, I don’t know what is
+
+________________
+
+(EXTRA) Possible Interferences?
+I don’t know much about physics and considering this is kinda complicated, I am not using this as an argument but more so as a doubt.
+Considering there were 3 surveillance cameras within like 10-30 cm the potato chip package, and another 10 within a 40-80 cm area, would that cause interferences?
+Because obviously if so, not only would Light’s mini-tv lose signal, but L would see and hear lots of bugs from his cameras too.
+
+________________
+
+(EXTRA) BOOK UNDER THE POTATO CHIP PACKAGE (??):
+You can see that right under the package of potato chips, there was a book.
+
+This book really reminds of a dictionary due to the form it is presented (high height and low extension for length and width).
+Due to visual proportionality, we can infer that this book is much bigger than the other ones. At least twice as much.
+So we can, most certainly, infer that its height should be at least 3.5 cm.
+
+RELATIONSHIPS WITH THE POTATO CHIP:
+Angulation wise: the potato chip package is leaning towards light, while the book is placed orthogonally relative to the package of chips.
+
+Position in space: the book is also standing under the package coming from the opposite side relatively to the part of the potato chip package that was opened in order to eat.
+This means the book would hold the mini-tv much higher.
+This would result in:
+                        1. the mini-tv being ever more preposterously shown
+                        2. the mini-tv being covered up even more by the package, due to the package stretching (due to the height differences from the part held by the book and the part that isn’t held by the book)
+                        3. the “landing area” for the mini-tv, would require Light to be even more precise in how he lands the potato chip package, otherwise it would result in the mini-tv rotating and Light not being able to see anything.
+
+________________
+
+(EXTRA) WRITING PROBLEMS I GUESS (??)
+I don't know why, but Light and L refer to the time the potato chip incident happened as in “two days ago”. Which would mean that off-screen Light survived somehow without raising suspicion and killing criminals as always. Proofs:
+
+Now I will go on considering this an authorial slip not worth entertaining but still.
+________________
+
+CALC:
+Assumptions (boosted)
+                        * Screen = 1.5× the JY-10 (diagonal scales linearly)
+→ width ≈ 6.9 cm, height ≈ 5.1 cm, area ≈ 35.2 cm² (3.38″ diag).
+
+                        * The “criminal box” covers ⅓ of the screen area
+ → area ≈ 11.7 cm².
+
+                        * Viewing distance ≈ 50 cm (eyes to desk).
+
+How big is the face/text?
+Face
+Even generously giving ~70% of that box to the headshot:
+                           * face area ≈ 8.2 cm² → square ~ 2.9 cm × 2.9 cm.
+
+Angular size at 50 cm:
+θ≈2arctan⁡ ⁣(2.9/250)≈3.3∘\theta \approx 2\arctan\!\left(\frac{2.9/2}{50}\right) \approx \mathbf{3.3^\circ}θ≈2arctan(502.9/2​)≈3.3∘
+That’s recognizable for a familiar face if the image is sharp and stable.
+But remember: analog mini-TV, low contrast, bag rim occlusion, and likely off-axis viewing → effective detail drops a lot.
+Name text
+Screen height is 5.1 cm. A typical lower-third line on such a layout would be ~3–5 mm tall.
+Angular height at 50 cm:
+                              * 3 mm → 0.34° (≈ 20 arc-min)
+
+                              * 5 mm → 0.57° (≈ 34 arc-min)
+
+Those are borderline to readable with good eyesight if the characters are crisp, high-contrast, and stationary. On a tiny, analog STN screen viewed obliquely? Expect smear, noise, and wash-out, pushing it below comfortable readability—especially “in a moment.”
+Time factor (“a mere moment”)
+Even at 1.5× size:
+                                 * Face recognition: maybe yes, fleetingly, in ideal conditions.
+
+                                 * Reading the full name: unlikely in ≤1–2 s on a noisy, low-brightness 3.38″ analog LCD—particularly from a constrained angle and through a bag opening.
+
+Bottom line
+Even with the 3/2-sized screen, the numbers stay borderline at best:
+                                    * Face ≈ 3.3°: barely workable if everything else is perfect (it isn’t).
+
+                                    * Text 0.34–0.57°: marginal, and analog/angle/bag penalties make it implausible to read “in a moment.”
+
+So making the screen 1.5× larger doesn’t rescue the feat—it remains very unlikely in realistic viewing and timing conditions.
+
+In questa sezione andremmo ad analizzare gli errori strategici da un punto di vista puramente teorico dell’idea del potato chip nella situazione di Light, indipendentemente da quello che accade nella storia ed indipendentemente dalla plausibilità dell’azione in sè (cosa già esaminata).
+Ripeto: indipendentemente da come è andata nel canon.
+
+*i problemi non sono in ordine di importanza*
+
+Problema Numero 1:
+
+L'idea del Potato chip in astratto, senza voler correre ulteriori rischi estremi, richiede che il piano venga attuato una sola volta.
+
+Questo tuttavia è un problema di dimensioni enormi. Anche assumendo che L se la beva la prima volta *non* ne seguirebbe necessariamente che le investigazioni su Light cesserebbero da lì a poco.
+
+Evitando di lasciare vago cosa io intenda per “ulteriori rischi” intendo:
+caso 1- dover mettere in altri sacchetti altre mini-tv.
+Qui vi sono più modalità:
+Modalità 1: farlo ex-ante. Sarebbe in via teorica possibile,seppur rimanendo rischioso in quanto aumenterebbe in modo drastico le probabilità che qualcuno scruti l’oggetto all’interno della famiglia di Light.
+Senza contare che non può certo riempire la mensola di pacchetti di patatine con mini-tv. Sarebbe molto probabilmente limitato, nel più ottimistico dei casi, a 3 tentativi. Che sarebbero l’equivalente di 3 momenti di giornata in cui proverebbe lui non sia Kira. Un pò pochino.
+
+caso 2- farlo ex-post *in casa* sarebbe suicidio con tutte le telecamere.
+
+caso 3- farlo ex-post *fuori di casa* sarebbe comunque un suicidio in quanto sarebbe più che ragionevolmente spiato da una pedina edil comportamento risulterebbe estremamente sospetto.
+
+Tornando al caso 1, il problema poi diventerebbe un altro: L, grazie alla sua pattern recognition, noterebbe che “fatalità” proprio ogni volta che Light si accinge a mangiare patatine, i criminali muoiono, e scoprirebbe il trucchetto subito. Quindi anche avendo più volte a disposizione il problema rimarrebbe.
+
+Problema Numero 2:
+L (non si sa perchè) non considera nemmeno che Kira possa avere assistenti o aiutanti, ma agisca in maniera completamente autonoma.
+Già anche solo questa osservazione (estremamente plausibile nella realtà) lascerebbe L quasi “indifferente” dal veder morire persone da parte di Kira mentre sono state per la prima volta fatte vedere al telegiornale.
+Potrebbe benissimo trattarsi di aiutanti che ripuliscono al posto suo.
+
+Questa considerazione metterebbe alle strette Light, che sarebbe osservato senz’altro su un periodo di tempo più lungo.
+
+Problema Numero 3:
+Un’altra osservazione (che per la stessa logica di prima, farebbe in modo che Potato Chip non scagioni Light in un periodo breve di tempo) sarebbe che il numero di criminali morto è estremamente basso, e di conseguenza Kira potrebbe essere entrato in possesso di quelle informazioni (le loro facce e nomi) in precedenza della loro comparsa in televisione.
+
+Problema Numero 4:
+Kira questa volta uccide solamente 3 persone. Adesso io non sono al corrente di eventuali calcoli su quante persone uccidesse di media al giorno, ma mi sembrava abbastanza palesemente narrativamente implicato fossero *almeno* sulle centinaia.
+Questo numero limitato di persone è vincolato al tipo di strategia che Light sceglie, non è una variabile mutabile all’interno dei vincoli del suo piano. Eppure lascia di passaggio una anomalia statistica di dimensioni importanti.
+La conclusione palese è che Kira in questo momento è limitato da “qualcosa”.
+
+L’unico modo in cui questa cosa potrebbe essere sanabile, sarebbe prevedere questa situazione e alzare drasticamente la variabilità delle morti nell’operato di Kira. Ma così facendo i suoi piani ne risentirebbero in maniera enorme in termini di efficacia e credibilità (perchè mai Kira un giorno dovrebbe uccidere 1000+ persone ed un altro 2-3 a parità di informazioni sui criminali disponibili?) andando ad intaccare il suo obiettivo principale.
+
+Problema Numero 5:
+Light fa affidamento che quando la polizia e investigatori arriveranno a casa sua, non si metteranno a setacciarla da zero, ma invece sceglieranno coscientemente di spendere pochissimo tempo in casa sua e osservando il minimo. In essenza scegliendo una strategia molto specifica del “non toccate nulla facciamo finta di niente” cosa per nulla scontata contando il suo possibile status da terrorista internazionale. Adesso non me ne occupo personalmente ma dubito sia questa la procedura standard.
+
+Tantè che, per esempio, non innescano nemmeno il meccanismo del Death Note che Light aveva creato sulla scrivania.
+“Però potrebbe averlo disattivato”
+Il punto è che Light non ha preavvisi sul quando si faranno vivi i poliziotti. Quindi delle due una:
+- o il meccanismo era inutile in principio
+- o ai poliziotti è richiesto essere così tonti da non controllare nemmeno i cassetti.
+
+Problema Numero 6:
+Il “dispiegamento delle telecamere”. L’autore qua non so come abbia fatto a convincere il pubblico ma vi è una evidentissima problematica: il potato chip ruota TUTTO intorno all’idea che vi sia un buco nella vista delle telecamere e che Light possa sfruttarlo e farlo precisamente con la visione d’angolo di un sacchetto di patatine.
+Se L avesse fatto mettere le telecamere in una maniera appropriata, il trick non ha senso in partenza.
+
+Problema Numero 7:
+Light ad un certo punto dovrà sbarazzarsi della mini-tv. La mini-tv dovrà necessariamente finire in un cestino. Per una indagine di terrorismo internazionale è ovvio che tutto ciò che entra ed esce da quella casa verrebbe analizzato, e qual’ora L dovesse vedere la mini-tv sarebbe finita.
+
+Senza contare che correrebbe il rischio di non essere lui incaricato allo spostare il cestino, aumentando le probabilità (dato che non vi era ulteriore spazzatura al di sopra essendo l’ultima in ordine) che sua madre o chi per esso, smuova il cestino in modo che le telecamere da sopra potessero vedere la mini-tv.
+E se la madre avesse notato in primis la mini-tv sarebbe stato tanto peggio.
+
+Problema Numero 8:
+Non può scegliere le vittime, quindi potrebbe finire per uccidere  soggetti molto inusuali per Kira.
+Tra l’altro questo problema avviene pure canonicamente.
+
+Problema Numero 9:
+Mancanza totale di capacità difensiva rispetto ad un’ iniziativa ipotetica da parte dell’investigatore (L). L avrebbe potuto dire: so che si informa tramite il telegiornale per uccidere le sue vittime (era stato più che ben appurato in passato), quindi tolgo quell’opzione togliendo le connessione wireless con dispositivi Jammer (disturbatori di segnale) nella stanza di Light.
+Esistevano già i jammer a inizio 2000, ed anche quelli a gittata immediata (1-2 metri) in modo così pure da permettere ad L di continuare ad usare buona parte delle sue telecamere (senza contare metodi alternativi comunque esistenti).
+Era nelle sue possibilità ma non l’ha fatto.
+
+Problema 0: L'effetto "Gabbia di Faraday" parziale
+1. Il sacchetto come schermatura elettromagnetica
+Un sacchetto di patatine si comporta, in linea teorica, come una "Gabbia di Faraday parziale". Poiché l'interno è rivestito di alluminio (un materiale conduttore), il sacchetto riflette e scherma le onde radio o televisive, anche se lasciato aperto.
+                                       * L'interno metallizzato agisce come uno specchio per le onde elettromagnetiche.
+                                       * L'unica via d'accesso per il segnale è l'apertura superiore del sacchetto.
+                                       * La mini-TV (come la Casio JY-10) si ritrova quindi confinata in una sorta di "caverna metallica" con un solo lato esposto.
+2. Comportamento del segnale
+Le onde che riescono a penetrare attraverso l'apertura iniziano a rimbalzare caoticamente sulle pareti interne di alluminio.
+                                       * Il segnale viene in gran parte indebolito, riflesso o disperso dalle pareti metalliche.
+                                       * Poiché solo una minima parte dell'antenna è effettivamente esposta all'esterno, la ricezione diventa estremamente instabile.
+Il risultato tecnico sarebbe:
+                                       * Un'immagine debole, disturbata o piena di "neve".
+                                       * Audio disturbato da fruscii costanti.
+                                       * Possibile perdita totale del segnale al minimo spostamento del sacchetto.
+In sintesi: se la mini-TV è vicina all'apertura, l'antenna può ancora intercettare qualcosa; se invece è posizionata in profondità (come si vede nelle scansioni del manga), è quasi completamente schermata dal metallo.
+Conclusione
+Nella migliore delle ipotesi, il segnale sarebbe così degradato da rappresentare un rischio enorme per Light; nella peggiore, non ci sarebbe stato alcun segnale, rendendo il piano tecnicamente impossibile.
+Problema 1: Il limite hardware: Specifiche della Mini-TV
+Tutte le mini-TV dell'epoca presentavano vincoli fisici e tecnici significativi:
+                                       1. Antenna e Alimentazione: Richiedevano un'antenna telescopica esterna per funzionare e avevano un'autonomia estremamente limitata (meno di 4 ore) se non collegate a una fonte di alimentazione continua.
+                                       2. Peso: Il peso oscillava tra i 230 e i 450 grammi. Anche scegliendo il modello più leggero e ottimale per Light (la Casio JY-10), parliamo comunque di 230 grammi inseriti in un sacchetto di carta e alluminio.
+                                       3. Dimensioni: Sempre considerando la Casio JY-10, l'ingombro era di 88 mm di larghezza, 74 mm di altezza e uno spessore di 34 mm.
+                                       4. Manutenzione Energetica: L'autonomia massima del modello citato era di appena 2-3 ore. Inoltre, le batterie richiedevano una rimozione frequente (ogni 2-3 settimane) per evitare la corrosione dei terminali.
+Il fattore ambientale: Bisogna considerare che la TV è stata inserita nel sacchetto insieme alle patatine. La presenza di vapori d'olio, sale e umidità residua del cibo avrebbe accelerato drasticamente il processo di ossidazione e corrosione dei componenti elettronici, rendendo il dispositivo inaffidabile o inutilizzabile in tempi molto brevi.
+________________
+
+Questo significa che Light ha dovuto avere fortuna che L non abbia iniziato la sorveglianza dopo quel giorno — altrimenti i terminali delle batterie avrebbero potuto essere già corrosi. E non è che Light potesse semplicemente sostituire le batterie casualmente ogni volta che voleva senza rischiare di essere visto. Non è come se L avesse chiesto il permesso prima di impostare la sorveglianza, il che significa che Light non aveva modo di sapere quando sarebbe iniziata.
+Problema 2:
+L'altezza di 74 mm (combinata con la profondità di 34 mm) renderebbe l'esistenza della mini-tv all'interno della confezione facilmente osservabile. È come avere 8 righelli messi insieme (profondità), ciascuno di 7,4 cm, che devono stare in piedi dentro un sacchetto di patatine. Questo problema 2 diventa un problema ancora più grande per altre 2 ragioni: più Light mangia patatine, più la forma della mini-tv diventa evidente; quando Light dovrà finire le patatine (per poter buttare la cosa nella spazzatura come ha fatto), dovrà avvolgere il contenuto della confezione in modo che non mostri la mini-tv alle telecamere che sorvegliano il cestino dall'alto. Ma all'interno della scena, la mini-tv agisce letteralmente come se non esistesse per salvare la trama.
+Problema 3
+ (enorme): La Casio JY-10 (come tutte le mini-tv di quel tempo) ha un'antenna che dovevi estendere per ricevere il segnale. Altrimenti non funzionerebbe proprio (o il segnale ricevuto sarebbe nel migliore dei casi davvero debole). L'antenna (per questo modello, ma similmente anche per gli altri) era di circa 20-30 cm. Light non estende nemmeno l'antenna (per ragioni molto ovvie).
+Problema 4
+Tipo di schermo La Casio JY-10 utilizzava un pannello LCD a matrice passiva (STN o i primi TFT), simile ai piccoli display che si trovavano nelle calcolatrici o nei dispositivi portatili della fine degli anni '90 e primi anni 2000 (di nuovo, questo è uno standard tra le mini-tv disponibili all'epoca). Non era del tipo moderno IPS o VA che permette ampi angoli di visione.
+Cosa significa in pratica:
+                                       1. Se guardato frontalmente, l'immagine appariva normale — colori e contrasto accettabili.
+                                       2. Ma se inclinavi lo schermo anche solo di 20–30 gradi verso l'alto o verso il basso: i colori sbiadivano, il contrasto crollava drasticamente e, in alcuni casi, l'immagine si invertiva (le aree scure diventavano chiare e viceversa).
+Nello specifico:
+                                       * Guardando dal basso → lo schermo sembrerebbe quasi completamente nero.
+                                       * Guardando dall'alto (il caso di Light) → sembrerebbe pallido e sbiadito.
+                                       3. Perché succede: I cristalli liquidi indirizzano la luce correttamente solo lungo un asse di visione. Al di fuori di quell'asse, la luce polarizzata non passa correttamente attraverso il filtro — e poiché la JY-10 non aveva strati di compensazione ottica, la visibilità calava rapidamente con l'angolazione.
+                                       4. Risultato pratico: Per vedere correttamente:
+                                       * dovevi tenerlo quasi perfettamente perpendicolare agli occhi (circa 90°).
+                                       * Se lo appoggiavi su un tavolo, lo inclinavi o lo guardavi di lato → l'immagine quasi scompariva.
+In conclusione: Light non avrebbe dovuto essere in grado di vedere nulla dall'angolazione che era costretto a usare. La posizione che ha adottato era l'unica che permetteva alla mini-TV di rimanere nascosta — ma a quell'angolo il display sarebbe stato illeggibile. A meno di non assumere che L avesse posizionato le sue telecamere in modo assurdamente pessimo (il che sarebbe davvero ridicolo a questi livelli), Light doveva rimanere entro un'area di visione fissa. Certamente non è stato mostrato seduto direttamente di fronte alla TV con la testa abbassata verso di essa — che sarebbe stato l'unico modo per vedere effettivamente lo schermo.
+Problema 5
+ Non c'era assolutamente alcun modo, per cominciare, che Light fosse in grado di vedere l'interno del pacchetto di patatine e lo schermo della mini-tv dalla sua prospettiva. Non penso sia una cosa realizzabile in generale se non assumendo pose alquanto discutibili.
+
+Problema 6
+ Assumiamo che potesse effettivamente vedere i volti. Era fortemente implicito che fosse per un mero istante. Diciamo che quando i giornalisti mostravano il criminale, l'intera grafica coprisse un terzo dell'intero schermo (che è probabilmente molto). Ora, questo schermo è già piuttosto piccolo. E Light avrebbe dovuto leggere sia i nomi che i volti in modo significativo. In un solo istante.
+
+Problema 7
+Configurazione: Light deve (1) trasportare il sacchetto di patatine — con la mini-TV nascosta all'interno — su per le scale, poi (2) posizionarlo sulla scrivania, il tutto senza rivelare il dispositivo.
+(1) Trasportare il sacchetto al piano di sopra Una mini-TV come la Casio JY-10 pesa circa 180–230 g ed è un "mini-mattone" rigido. All'interno di un sacchetto flessibile di patatine, quella massa:
+                                       * Si sposterà e colpirà: durante la salita, ogni passo fa cadere e urtare il mattone contro il fondo del sacchetto. Il suono è più pesante e sordo del normale fruscio delle patatine.
+                                       * Deformerà il sacchetto: il blocco rigido forma una sfaccettatura piatta e dura e bordi spigolosi, completamente diversi dalla forma morbida e irregolare delle vere patatine.
+                                       * Cambierà il timbro del rumore: le patatine da sole producono un crepitio acuto e leggero; aggiungi un oggetto denso e otterrai colpi sordi e spostamenti di slancio che sembrano "sbagliati".
+                                       * Altererà il modo in cui lo tiene: per mantenere la TV in posizione verticale, Light dovrebbe afferrare il sacchetto in modo saldo e costante, di nuovo non un gesto casuale.
+(2) Posizionare il sacchetto sulla scrivania Per appoggiare il sacchetto senza esporre la TV, Light avrebbe bisogno di una precisione quasi perfetta:
+                                       * Vincolo di orientamento: la TV deve finire in verticale, angolata correttamente verso Light e con lo schermo verso l'alto all'estremità opposta.
+                                       * Se la mini-TV non è posizionata correttamente — sia verticalmente che con l'inclinazione precisa di cui Light ha bisogno — allora l'intera configurazione diventa inutile.
+                                       * E ottenere queste due condizioni non è impresa da poco: il sacchetto contiene ancora patatine, il che significa movimento interno incontrollabile, e anche con un sacchetto vuoto è difficile far atterrare un piccolo mattone perfettamente allineato.
+                                       * Rumore e movimento: il crepitio della pellicola + lo scivolamento delle patatine + il tocco dell'oggetto duro creano un profilo sonoro innaturale.
+                                       * Silhouette e riflesso: il display piatto produce un distinto contorno planare sotto la pellicola, e qualsiasi apertura potrebbe far trapelare la luce dal LED rosso o riflettere lo schermo.
+                                       * Rischio di riposizionamento: se il sacchetto non si deposita correttamente, Light dovrebbe regolarlo manualmente — picchiettando o ruotando il sacchetto — per allineare il suo angolo di visione, un comportamento che apparirebbe sospetto in telecamera.
+
+Problema 1:
+Parlando dello smaltimento delle prove, quel cretino di Light lancia letteralmente (da circa 40 cm dal cestino) il sacchetto di patatine (contenente la mini-tv) nella spazzatura. Questo:
+                                       * finirebbe per produrre un tipo di suono davvero insolito. Ricorda: un normale sacchetto di patatine pesa circa 30 grammi, con la mini-tv ne pesa circa 260.
+                                       * risulterebbe in un movimento strano per un pacchetto di patatine lanciato. Il manga scrive persino "THWOK", un'onomatopea usata per qualcosa di solido che colpisce una superficie — non il leggero "flap" o "shff" che ti aspetteresti da alluminio e aria.
+Problema 2
+Il modello Casio JY-10 (e, tra l'altro, questo era lo standard) aveva un piccolo LED rosso vicino al display per indicare che la mini-TV era accesa. Questa luce rimaneva attiva finché il dispositivo non veniva spento. Quel puntino rosso avrebbe filtrato almeno un po' di luce attraverso il rivestimento metallico del sacchetto di patatine o dalla sua apertura. Ora, nell'immagine in realtà non vediamo il puntino — ma è anche vero che non abbiamo mai una visuale chiara dell'angolo in alto a sinistra dello schermo e anche che potrebbe trovarsi sopra la mini-tv invece che davanti. E anche se non ci fosse stata davvero alcuna luce visibile, avrebbe dovuto esserci. Un'altra coincidenza, eh?
+Problema 3
+ Prima ancora di iniziare la sua presunta operazione, Light avrebbe dovuto mangiare o rimuovere diverse patatine dal sacchetto. Altrimenti, la mini-TV sarebbe stata completamente bloccata dagli strati di patatine sovrastanti — rendendo impossibile vedere lo schermo o persino il LED. E questo non è opzionale:
+                                       * In un sacchetto standard sigillato, le patatine riempiono il volume in modo irregolare, spesso accumulandosi sopra la metà del sacchetto.
+                                       * Un dispositivo come la JY-10, posizionato sul fondo o all'estremità opposta, sarebbe sepolto sotto molteplici strati di patatine.
+                                       * Per ottenere una linea di vista libera, Light avrebbe dovuto svuotare parzialmente il sacchetto — mangiando diverse patatine o spostandole di lato, entrambe azioni che richiedono tempo e movimento.
+Questo riduce automaticamente la finestra temporale disponibile per l'impresa. Nel momento in cui avesse liberato abbastanza spazio anche solo per vedere lo schermo, il telegiornale che mostra i criminali potrebbe essere già in corso o, in ogni caso, avrebbe perso delle occasioni. Il presunto "allestimento istantaneo" diventa un'altra sequenza di passaggi meticolosi e dispendiosi in termini di tempo, contraddicendo la naturalezza con cui viene ritratto.
+Problema 4
+Light sostiene che stesse semplicemente scrivendo "una lettera alla volta", ma questa affermazione casuale nasconde un livello assurdo di precisione richiesto per la riuscita del trucco. Analizziamolo: (1) Precisione senza vista Stava scrivendo senza guardare il foglio — il che significa che avrebbe dovuto stimare mentalmente il punto esatto dove collocare ogni nuova lettera.
+                                       * Se anche solo un tratto fosse leggermente disallineato, la scrittura potrebbe sovrapporsi o deviare, rendendo i nomi illeggibili e quindi inutilizzabili.
+                                       * Ciò richiederebbe una consapevolezza spaziale e un controllo quasi perfetti, qualcosa con cui persino i calligrafi esperti avrebbero difficoltà a occhi chiusi.
+(2) La superficie di scrittura Il pezzo di carta stesso era attaccato all'interno del sacchetto di patatine con del nastro adesivo — e l'unica "base" sottostante era lo strato flessibile e irregolare di patatine. Quella superficie non offre quasi alcuna stabilità strutturale:
+                                       * Si flette e scricchiola sotto pressione.
+                                       * Si sposta in modo imprevedibile a ogni tratto.
+                                       * Anche una piccola pressione della matita deformerebbe la base, alterando il punto in cui cade la linea. In breve, è un incubo su cui scrivere, specialmente se serve precisione.
+(3) Il fattore "mani unte" A questo punto, le dita di Light erano quasi certamente unte per via delle patatine. Questo significa:
+                                       * Presa ridotta sulla piccola matita.
+                                       * Sbavature o scivolamenti al contatto con la carta.
+                                       * Una maggiore probabilità di strappare o sgualcire la delicata superficie di scrittura. Anche un sottile strato d'olio può rendere quasi impossibile mantenere un tratto controllato — specialmente mentre si tiene in equilibrio la mano all'interno di un sacchetto di alluminio rumoroso e instabile.
+Problema 5
+Light usa l'impugnatura verticale per scrivere.
+Usare un'impugnatura verticale:
+                                       * farebbe necessariamente grattare la mano contro la superficie della confezione di patatine (se non addirittura spostare l'intero sacchetto);
+                                       * aumenta le probabilità di scivolare, considerando i punti già stabiliti nel 'Problema 12'.

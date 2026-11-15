@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: golf-feat-debunk-v0-5
+category: doc
+title: Golf Feat Debunk (V0.5)
+alt_titles:
+- PJ Golf Feat Debunk(V0.5)
+authors:
+- name: scd_scal489
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Yikqtj1vG5CtVEunUZfkrsJdVQt2x5iNcUwyTgckxak
+    google_id: 1Yikqtj1vG5CtVEunUZfkrsJdVQt2x5iNcUwyTgckxak
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 802
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 127300
+      sha256: ab669af3ad551310bead2ade90940e9dc3de6bd0e74306a5c2b7bba9a2992fbf
+    - format: docx
+      name: document.docx
+      bytes: 1985408
+      sha256: 7eb33999a97d2a558ba86dd2c3b4738cccf22f514b052ed017b1f9268b15f2be
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ Golf Feat Debunk(V0.5)
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Golf Feat Debunk (V0.5)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fate-sherlock-holmes-doc
+category: doc
+title: Fate Sherlock Holmes Doc
+authors: []
+series:
+- fate
+characters:
+- sherlock-holmes-fate
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1votiYxqAiYjBGGeYAwsiOM6fE5PK1VMMe4wKKhUMC5w/edit?usp=drivesdk
+    google_id: 1votiYxqAiYjBGGeYAwsiOM6fE5PK1VMMe4wKKhUMC5w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 4058
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 18091448
+      sha256: f4916ed0acd8a71ba4fc6f8a40714c874d620eae402b2a09359006261cb1cdd6
+    - format: docx
+      name: document.docx
+      bytes: 16656578
+      sha256: e534d1722ae2c821d98574dae1c904aac0eb2355d9fbfc6c7d892c7ac898d5c6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Fate Sherlock Holmes Doc
+  note: (not finished)
+- library: remastered
+  section: Fate
+  character: Sherlock Holmes
+  link_text: Fate Sherlock Holmes Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

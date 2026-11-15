@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: telepathic-resistance-feat-trf
+category: doc
+title: Telepathic resistance feat (TRF)
+alt_titles:
+- Ozymandias Telepathic Resistance Feat
+authors: []
+series:
+- dc-comics
+characters:
+- ozymandias
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1dPf9_qt1ySDbwInYM-U-BhZrJZcPbqLFUzUzwz6VAd8/edit?usp=drivesdk
+    google_id: 1dPf9_qt1ySDbwInYM-U-BhZrJZcPbqLFUzUzwz6VAd8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 763
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3623831
+      sha256: 040e9f36cb29363652ba37c1c4ce4678f55f8e96c82845c8ae6c9966636b41d4
+    - format: docx
+      name: document.docx
+      bytes: 3481263
+      sha256: 96ba270e6dc8f6147ed52f92d89a0cf61b2a8f628382d115dec86daa7c6e22e5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Ozymandias Telepathic Resistance Feat
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Ozymandias
+  link_text: Ozymandias Telepathic Resistance Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

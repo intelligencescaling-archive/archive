@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-master-of-minds-feats
+category: doc
+title: Patrick Jane Master Of Minds. Feats
+alt_titles:
+- PJ master of minds feats
+authors:
+- name: Zruft/@Talabat
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Yro2Xp54NmQpKcIm4zTfR4juqau8I-vJG4EAr807MII
+    google_id: 1Yro2Xp54NmQpKcIm4zTfR4juqau8I-vJG4EAr807MII
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 9396
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 304102
+      sha256: c7daeae33ef85afa156008735d463c429596267feb5f451db5d396ccd933690c
+    - format: docx
+      name: document.docx
+      bytes: 605196
+      sha256: cb44f02bbd0aa472b7fc07257601b9009fd3dceace378bd960790d9c43de0619
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ master of minds feats
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane Master Of Minds. Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

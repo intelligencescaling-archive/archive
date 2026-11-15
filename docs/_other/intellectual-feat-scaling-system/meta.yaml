@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: intellectual-feat-scaling-system
+category: doc
+title: Intellectual Feat Scaling System
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/15co_c53TofFH_qG7KPj91K2R9BeH96kA/view
+    google_id: 15co_c53TofFH_qG7KPj91K2R9BeH96kA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 601
+    files:
+    - format: pdf
+      name: Intellectual Feat Scaling Method.pdf
+      bytes: 311570
+      sha256: 9e1c87be226856ba668c8ecc9f2112180a766d8b952326765cd68eaebfd7dee3
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Intellectual Feat Scaling System
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

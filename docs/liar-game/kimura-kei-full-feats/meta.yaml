@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kimura-kei-full-feats
+category: doc
+title: Kimura Kei full feats
+alt_titles:
+- Kimura Kei
+authors: []
+series:
+- liar-game
+characters:
+- kimura-kei
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lKU173sJCgTv4762bvm69sgNWi3OgZD7glag1HmDx1E
+    google_id: 1lKU173sJCgTv4762bvm69sgNWi3OgZD7glag1HmDx1E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 40
+    words: 10143
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 17544478
+      sha256: e56d6079622225b40b8c067f59762d7a09ce43695a87370e22197d8e1cf0c578
+    - format: docx
+      name: document.docx
+      bytes: 18244906
+      sha256: f0a9f6e7440cda7d8e6094a568388ec2d0ca884a3ae7d342b7173707c2a889a6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Kimura Kei
+- library: remastered
+  section: Liar Game
+  character: Kimura Kei
+  link_text: Kimura Kei full feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

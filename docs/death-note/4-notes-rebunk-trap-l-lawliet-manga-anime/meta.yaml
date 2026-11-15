@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 4-notes-rebunk-trap-l-lawliet-manga-anime
+category: doc
+title: 4 Notes Rebunk Trap | L Lawliet (Manga + Anime)
+alt_titles:
+- 4 notes trap Rebunk
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Fo3WcT6Lkc5gPkEl2q04Rn0YEWgLL6EX6grN3dPPTAY/edit?usp=drivesdk
+    google_id: 1Fo3WcT6Lkc5gPkEl2q04Rn0YEWgLL6EX6grN3dPPTAY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1049
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 179904
+      sha256: 4b06ab4cbee5028dc2718cbd77ab3e8e799bc1988b5ca7cb8715c21b4634ab94
+    - format: docx
+      name: document.docx
+      bytes: 465024
+      sha256: 182e56639f380f905c018fad17f80d6f8d9270c8d04cf54ef9d9f138d10e45d2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: 4 notes trap Rebunk
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: 4 Notes Rebunk Trap | L Lawliet (Manga + Anime)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pj-6x16-plan
+category: doc
+title: PJ 6x16 Plan
+alt_titles:
+- Patrick Jane 6x16 Plan
+authors:
+- name: Arthen
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Fv7ivYCUo4CFO5zWzWq0JjKm0Dwj5qkUKyCyIBomcrg/edit?usp=drivesdk
+    google_id: 1Fv7ivYCUo4CFO5zWzWq0JjKm0Dwj5qkUKyCyIBomcrg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 2595
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1163215
+      sha256: d680bfac26da2560c3ddc9af7f25651ce6cfa213900d8206112a87e5dec9fcfc
+    - format: docx
+      name: document.docx
+      bytes: 1197466
+      sha256: e3633cce903b0ada20a171323add53a7b5322ae58799029318c39bc867eaadfe
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 6x16 plan
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane 6x16 Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-reevaluation
+category: doc
+title: Light Yagami Reevaluation
+authors: []
+series:
+- death-note
+characters:
+- light-yagami
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ZSkOnEKEplnk9SUZM__le5hH58pLcy48-D1j48iu4qg/edit?usp=drivesdk
+    google_id: 1ZSkOnEKEplnk9SUZM__le5hH58pLcy48-D1j48iu4qg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 103
+    words: 34591
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 22987664
+      sha256: 873fc4e0577342b6aeb6eb5fe3f0a29fd56dfc16b50daba8b1c1fc1bec3943a5
+    - format: docx
+      name: document.docx
+      bytes: 27941638
+      sha256: f988a71b9d7dbb76c43a39e29d680340e7a40f9513b4f94c713007467ce2d3a6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Light Yagami Reevaluation
+- library: remastered
+  section: Death Note
+  character: Light Yagami
+  link_text: Light Yagami Reevaluation
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

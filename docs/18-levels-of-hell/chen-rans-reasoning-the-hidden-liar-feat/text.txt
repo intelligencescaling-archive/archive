@@ -1,0 +1,245 @@
+Chen Ran’s Reasoning the Hidden Liar feat
+
+* Rashoumon/ Simply Amazing
+________________
+Introduction
+This doc covers Chapters 148 to 152. Long Hui had already used his whisperer skill that forces people to have a conversation with someone every 5 mins or lose their common sense. But this skill’s usage has led to hidden consequences, and Diwu Zeyi uses his skill too after deducing the liar, to corner Chen Ran and kill him.
+
+Sooner Duo Jie also uses his skill to create a multi layer interference to corner Chen Ran. Thus the situation develops like this.
+
+   * Chen Ran has to find the skill effects of all the 3 Star Player skills
+   * Chen Ran has to deduce the liar and circumvent the effects of the existing skills at the same time
+   * Chen Ran has to successfully activate Eternal Kingdom to nullify all skills
+
+Deducing the liar is what will be covered in this short doc. The reasoning of the skill effects are short and easy to understand, as deductions from name and colour of the liar killers.
+
+I’ll also take this chance to explain some basic terminologies even readers forget
+
+To use a skill is to forego a Guaranteed Successful Judgement Opportunity. This mechanism is both subjective and objective, and needs the following criterias to be fulfilled
+
+   * First, prove that the liar lied through your deduction. Even if someone lies but you aren’t able to prove it, you can’t activate your skill. Thus it is important to correctly deduce where and about what has the target lied.
+   * This is unlike judging, where you can judge freely without needing proof. Instead the shooter uses his statement “You Lied” as a collateral.
+   * Second, subjectively decide to forego the opportunity to judge that lie, i.e, you can’t judge the person to death if you have used a skill with that lie instead
+
+Also I’ll explain Gui Yus’ and how they work
+
+   * A Gui Yu is an unknown lie that has been proven true by circumstantial evidence. This means that nobody knows if the statement is true or false, but the creator of the Gui Yu has made evidences through physical or other means to forge the lie as truth
+   * As long as a Gui Yu is not broken, anyone stating the Gui Yu statement is not a liar. Anyone who doesn't break the Gui Yu but proclaims the Gui Yu is a lie, is a liar
+   * A Gui Yu can be broken by exposing anyone within the current space to the truth through valid evidence. Another Gui Yu can’t be made to break this Gui Yu and only true evidence can be used to do so. A Gui Yu break is effective across the whole space, regardless of whether the others have seen the evidence or not.
+   * If the creator of the Gui Yu had uttered the Gui Yu before its creation or when it was created and sustained, the creator is judged to be a liar
+   * If the listener/others utter the Gui Yu after it has been broken, they are also deemed liars. But if they had previously uttered it during the time it wasn’t broken, it isn't judged a lie even after the Gui Yu is broken.
+
+Let me also explain how multiple personalities work in hell.
+
+   * If the person had multiple personalities before death, each personality is judged as an independent person by the hell. But they can still occupy the same body.
+   * Thus due to the nature of them being judged as a separate person, the liar killer skill also changes depending on who is in control of the body and each personality gets its own liar killer skill
+   * When entering an instance, the personality in control matching to the instance gets to stay in control throughout the instance.
+   * The personalities don’t share memories nor points earned
+
+At last, let me explain the skill effects of all the 3 Three Star players
+
+   1. Keep Silent : Causes a countdown timer of 5 minutes to appear in the hand of the players. Before the countdown ends, the player must either converse with someone or deduce information regarding the dungeon.
+
+Converse here means that both people doing the conversation must reply to each other. The deduction done under the skill effect can be judged as lies. Circumvents the established rule that wrong deductions regarding the dungeon can’t be judged as a lie
+
+   2. Emperor Emerges Across the Three Rivers : Allows the user to slowly weaken and usurp control the pre existing skills in space. The degree of weakening and usurpation of control can be done through deducing information about the dungeon/Instance.
+
+After gaining control of skills present, the user can enhance the effects of controlled skills proportional to his star level.
+
+   3. Disorderly : Causes the brain to receive the feedback of the second action before the action has even taken place. Thus the affected would never register their second action performed. Easily understood as a sort of time skip in the cognition of those affected
+________________
+
+Part 1 : When did the Lie Emerge?
+
+After Diwu Zeyi uses his skill, Chen Ran starts his deduction.
+P1 : Diwu Zeyi is a Liar Killer and didn’t create a Gui Yu in prior
+P2 : Skills can be only used by either sacrificing a Guaranteed Successful Judgement Opportunity on a lie or a Gui Yu
+
+Thus from P1 and P2,
+C1 : Someone among the 10 players alive had lied
+
+From observation, P3 : No one has openly lied on the surface
+P4 : A broken Gui Yu can be judged as a lie
+P5 : A Gui Yu’s creator can be judged as a liar if he uttered the Gui Yu even while it was unbroken
+
+From C1, P3, P4
+C2 : The Liar is judged as so due to a Gui Yu breaking
+
+From memory and observation, P6 : No one has uttered a statement now resembling a broken Gui Yu (Nobody repeated anything that was perceived as Gui Yu like)
+From C2, P5, P6
+C3 : A Gui Yu creator’s Gui Yu had been broken, making him/her a liar
+
+P7 : The currently alive Whisperers are Long Hui, Lin Xiuyuan and Li Zhitong
+Thus from C3 and P7
+C4 : The Liar must be one of Long Hui, Lin Xuiyuan and Li Zhitong.
+
+But Chen Ran feels not sure enough of his Premise P6 and thus Conclusion C4, Thus decides to rule all the others out too, one by one.
+
+At this moment, Duo Jie also deduces the liar like Diwu Zeyi did, thus uses his skill Disorderly too. Do note that both Duo Jie and Diwu Zeyi have more experience and have completely cultivated their minds to sever Id’s influence, resulting in faster deductions.
+
+From Zhou Chen’s actions, Chen Ran is able to deduce Disorderly’s effect. But due to the skill effect, he is no longer able to keep track of Diwu Zeyi, who has been deducing the dungeon out loud and increasing his skill’s control over other skills. This series of events strengthen his confidence in P6
+
+Now P8 : Qiu Yinong has used Wheel of Time previously
+P9 : Wheel of Time enables her to check judgement of everyone without herself being judged as a liar
+Thus from P8 and P9
+C5 : The person wasn’t judged as a liar by the end of Qiu Yinong’s skill
+
+From C1 : The person has been judged as a liar by the time Diwu Zeyi used his skill
+
+Thus from C1, C3 and C5
+C6 : The Gui Yu was broken in between the time from when Qiu Yinong finished her skill usage and Diwu Zeyi used his skill
+
+P10 : The only action that happened in the timeframe C6 describes is Long Hui using his skill
+Thus from P10 and C6
+C7 : Long Hui’s skill usage broke the Gui Yu,thus making the Gui Yu creator a liar.
+
+P11 : Long Hui’s skill places the countdown timer on player’s hands
+P12 : The corpses do not have a countdown in their hands
+From P11 and P12,
+C8 : Those who have countdown timer in their hands are players
+
+From C3, C7 and C8,
+C9 : The broken Gui Yu is related to identity as a player
+
+But P13 : All 10 Players have the countdown timer in their hands.
+This is due to P14 : Chen Ran’s usage of Eternal Kingdom has broken the player skill
+Thus from C7, C9, P13 and P14
+C10 : Eternal Kingdom deciphered a preexisting skill, causing the person with problematic identity to reveal their player form, and Keep Silent skill of Long Hui has labelled them as a player, thus breaking the Gui Yu
+C10’s validity can be proven with C5
+________________
+
+Part 2 : A Manufactured Deduction
+
+Next is to identify who had this identity problem. Chen Ran suspects Lin Xiuyuan.
+P15 : Lin Xiuyuan’s slave provided a lie to Li Zhitong, someone from an opposing team
+P16 : Lin Xiuyuan’s slave died when Qiu Yinong used Wheel of Time later
+Thus,
+Question 1 : Did Lin Xiuyuan’s slave also provide a lie to Lin Xiuyuan?
+
+If the answer to Question 1 is yes, then
+Question 2 : why hasn't Lin Xiuyuan used his skill yet?
+
+Also P17 : Lin Xiuyuan and Li Zhitong’s team entered the Instance 1 minute before Chen Ran’s team
+Thus from P15, P16, P17, Questions 1 and 2
+C11 : Lin Xiuyuan has already used his skill in that 1 min period.
+
+P18 : Previously when Chen Ran used Eternal Kingdom, Lin Xiuyuan also tried to use his skill Substitute Doll
+From P18
+C12 : Lin Xiuyuan’s skill is Substitute Doll
+
+P19 : During the start of the Instance, Lin Xiuyuan said “My name is Lin Xiuyuan”
+From P19, C11 and C12,
+C13 : The Lin Xiuyuan seen by Chen Ran, from the start of the Instance till he used Eternal Kingdom, was the Substitute Doll Lin Xiuyuan, not the Player Lin Xiuyuan
+
+C13 will explain P19 as Lin Xiuyuan establishing a Gui Yu (Substitute doll saying its Lin Xiuyuan and all others believing so)
+From C13, the events in this Instance can be explained, such as Lin Xiuyuan’s skill effects for everything to work, such as
+
+First, the Substitute Doll transforms into him and appears before everyone.
+Second: The true body turns invisible!
+
+Only this can explain why Lin Xiuyuan didn't change at all after Chen Ran used the Eternal Kingdom, and it also explains why he emphasized “I am Lin Xiuyuan”.
+Eternal Kingdom caused his Substitute Doll to disappear and his true body to appear, and since it was in the dark, no clues could be seen.
+Emphasizing “I am Lin Xiuyuan” was precisely to create a Guǐ Yǔ(P19).
+
+Now Chen Ran thinks if  C11 is true, there aren't any liars among the 10 people.
+Because By C11, P19
+C14 : P19 was said by Substitute Doll Lin Xiuyuan, thus not making him a liar
+And P20 : Nobody called Lin Xiuyuan by his name after Eternal Kingdom was used.
+
+Thus if C11 is true, from P19 and P20
+C15 : There are no liars among the 10 people
+C15 contradicts C1
+
+From memory, Chen Ran recalls if C11 is true, then as a substitute doll P18 usage was unnecessary
+And thus from P18
+C16 : Lin Xiuyuan was a player when he tried using his skill alongside Eternal Kingdom
+
+Thus Chen Ran thinks longer, and recalls the info gathering he did against Lin Xiuyuan
+P21 : Lin Xiuyuan cleared “Redemption of the Psychopath” Instance
+P22 : The Instance is closely associated with Multiple Personalities
+P23 : Memories and Identity aren’t shared between multiple personalities
+
+Here, Chen Ran brings forth an assumption, from P18, P21, P22, P23 and C11
+C17 : Lin Xiuyuan has multiple personalities
+
+From C17
+C18: This will explain P18 as the sub personality forgetting usage at C11, since memories aren't shared across.
+
+At this point of deduction, Chen Ran realises this line of deduction is a trap by the 3 star players.
+Because from experience in his previous dungeon “The Lonely Revenge”, he knows
+
+P24 : Different personalities using the same Liar killer gun result in different skills
+
+And P24 contradicts C18, because different personalities have different skills. This will thus also contradict C11, or atleast, skill used at C11 wouldn’t be the same skill as Substitute Doll
+
+P25 : Newbies aren’t aware how Multiple Personalities work in hell
+P26 : The 3 star players also have information on Lin Xiuyuan
+From P24 contradiction and P25 and P26
+C19 : The Three Star Players assumed a knowledge gap and used this to lead Chen Ran into this reasoning path.
+
+This leads Chen Ran to start deducing at a different starting point and correct the previous contradictions
+
+________________
+
+Part 3 : The Double Gui Yu Deduction
+
+P27 : Li Zhitong’s skill, “Mount Tai Crushing Down” causes heavy mental damage
+P28 : No other players except Chen Ran and Qiu Yinong knew of Eternal Kingdom’s Dispel effect.
+We know from C16 : Lin Xiuyuan was a player when he tried to use “Substitute Doll”
+Thus considering P27 and P28, C16 is completely true.
+
+From P15, P16, P17, Question 1, Question 2 and C16
+Question 1 can be answered as no
+Thus C17 : Lin Xiuyuan’s slave did not provide a lie to Lin Xiuyuan.
+C17 would explain Question 2 and C26.
+
+Now Question 3 thus arises : Why did Lin Xiuyuan’s slave not provide a lie to Lin Xiuyuan?
+We know P29 : Lin Xiuyuan’s teammates were all nurtured by him
+P30 : Li Zhitong matched with a 3 Star Player and Newbies
+
+One of the answer to Lin Xiuyuan’s Question would be
+C18 : Lin Xiuyuan is not the slave owner
+From P15 and C28,
+C19 : Li Zhitong is the slave owner, and has planted him in Lin Xiuyuan’s team
+
+But P29 would contradict with C19. C19 will also be contradicted because communication between Lin Xiuyuan’s slave and Li Zhitong will be impossible without Lin Xiuyuan noticing during P17.
+
+Thus C18 is also contradicted, thus from P29 and C18 contradiction
+C20 : Lin Xiuyuan is the slave owner
+
+If C20 is true, and the answer of Question 1 is also yes, it would contradict with C16 and Question 2
+Thus C21 : The slave only provided lies to Li Zhitong and not Lin Xiuyuan
+
+Thus from C20 and C21, there is only one plausible answer for Question 3
+C22 : Lin Xiuyuan is the slave owner, but he does not know he is the slave owner
+
+This is because if he knew, he could have used his skill earlier to evade P27
+Thus from C22, C17 can be deemed true
+
+And from P31 : Once a personality enters the Instance, the same personality occupies the body throughout the instance
+From P23, C17, P29, C22 and P31
+C23 : Lin Xiuyuan’s sub personality entered the Instance, unaware of his slave's existence
+
+From P23 and C23
+Thus P19 would form two Gui Yus
+Gui Yu 1 : My name is Lin Xiuyuan, as the sub-personality’s Gui Yu
+Gui Yu 2 : My name is Lin Xiuyuan, as the Substitute Doll’s Gui Yu
+
+So to break both Gui Yus’, two pieces of unique identification are required.
+Gui Yu 2 was broken due to Long Hui’s skill, from C7, C8 and C9
+Gui Yu 1 was broken by P18 itself,
+because once P18 was said, from P24, Lin Xiuyuan’s teammates can identify the sub-personality
+
+Thus the reason Lin Xiuyuan broke his Gui Yu by himself with P18 will be the threat of P27
+Thus
+Conclusion : The liar is Lin Xiuyuan’s sub personality, claiming to be Lin Xiuyuan with a Gui Yu that broke into a lie
+
+Now Question 2 again arises, because Lin Xiuyuan could have used his Gui Yu to use his skill
+But doing so would break the Gui Yu and make him a liar, similar to P18.
+
+Now Chen Ran can clear all his contradictions in his reasoning and use his skill “Eternal Kingdom”
+
+Thank you for reading the doc.
+________________
+
+A Diagrammatic Representation

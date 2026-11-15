@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiara-sessyoin-doc
+category: doc
+title: Kiara sessyoin doc
+alt_titles:
+- Comp Kiara(Fate)
+authors:
+- name: Yusha
+  source: doc-text
+series:
+- fate
+characters:
+- kiara-sessyoin
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cU7XyGMMRVnI5Dzl-BEpYM4Uuuq4gfy3mllG-Lgqw7Y
+    google_id: 1cU7XyGMMRVnI5Dzl-BEpYM4Uuuq4gfy3mllG-Lgqw7Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 45
+    words: 12390
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5052080
+      sha256: a4f632a6059cbdbc29b308731898eb3b55bbfafce23d0a4fb66e608851879ca4
+    - format: docx
+      name: document.docx
+      bytes: 5030753
+      sha256: eba9f09313c26770eac09c2cbdd4f5bd67095937fbc5fbf4c1d15b85a5082a27
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Comp Kiara(Fate)
+- library: remastered
+  section: Fate
+  character: Kiara Sessyoin - Composite
+  link_text: Kiara sessyoin doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

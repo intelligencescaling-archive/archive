@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-lunge-doc
+category: doc
+title: Another Lunge Doc
+alt_titles:
+- lungedoc_original
+authors: []
+series:
+- monster
+characters:
+- heinrich-lunge
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1-QD7l48IP8zJV1qNyFQkVrWIECORCJT9/view
+    google_id: 1-QD7l48IP8zJV1qNyFQkVrWIECORCJT9
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3061
+    files:
+    - format: pdf
+      name: lungedoc_original (1).pdf
+      bytes: 811534
+      sha256: 0be86dd14cc7787c851f0a8d15866b96310e9cb1211df820d3e52772277de930
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Lunge Doc
+- library: remastered
+  section: Monster
+  character: Heinrich Lunge
+  link_text: lungedoc_original
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

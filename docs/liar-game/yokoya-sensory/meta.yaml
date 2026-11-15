@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-sensory
+category: doc
+title: Yokoya sensory
+alt_titles:
+- Yokoya's Sensory Feat
+authors: []
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1cLPa0PsnOBBOMwFz1DOtB3nvUWwPVeHTfLpCFB1bg2A/edit?usp=drivesdk
+    google_id: 1cLPa0PsnOBBOMwFz1DOtB3nvUWwPVeHTfLpCFB1bg2A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 186
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2280201
+      sha256: b42ec10afb17efbaa606db79ba0440c91a54f2eb05b06cf04c4da9f377a40142
+    - format: docx
+      name: document.docx
+      bytes: 4423847
+      sha256: 5cc0ec6202aa69cd44b6d47c374975d5556b2ab200baedbb58aaa254f2086912
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Yokoya's Sensory Feat
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: Yokoya sensory
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

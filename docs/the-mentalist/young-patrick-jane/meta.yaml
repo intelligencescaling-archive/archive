@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: young-patrick-jane
+category: doc
+title: Young Patrick Jane
+alt_titles:
+- Young Patrick Jane Feats Doc
+authors:
+- name: umontrose [
+  source: doc-text
+- name: Youtube
+  source: doc-text
+- name: Tiktok]
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1FRd9xiC06ldYod4COL0zE_9z3zF7kSEj1lQC-6-_9Bo/edit?usp=drivesdk
+    google_id: 1FRd9xiC06ldYod4COL0zE_9z3zF7kSEj1lQC-6-_9Bo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 774
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1181152
+      sha256: 812743a5e55697daabcf365a34534857ea22e7ae7c44bca00295d0b7736cf007
+    - format: docx
+      name: document.docx
+      bytes: 2341933
+      sha256: 812302be28bdd55101d5d2376a9a279406e21d9c616711e3f8abfbd6b4a54952
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: Young Patrick Jane Feats Doc
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Young Patrick Jane
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

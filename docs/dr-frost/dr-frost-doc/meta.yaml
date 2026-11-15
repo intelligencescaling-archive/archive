@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dr-frost-doc
+category: doc
+title: Dr Frost DOC
+alt_titles:
+- Dr. Frost 1(PT-BR)
+authors:
+- name: Gustavo Sborz
+  source: doc-text
+series:
+- dr-frost
+characters:
+- nambong-baek
+tags: []
+language: pt
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/11bTvGt0kDAJRrX2aAXouLC1JbH4iqkV7_hLEaN4VspI/edit?usp=drivesdk
+    google_id: 11bTvGt0kDAJRrX2aAXouLC1JbH4iqkV7_hLEaN4VspI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 4771
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2509256
+      sha256: 866e1e5e79491787fd5afddfbfba8caf332acffc46e79fd37bd320a4955681ba
+    - format: docx
+      name: document.docx
+      bytes: 2890406
+      sha256: b3cf492489f537f942b7e6872db70941153e5fd06279a7a3c9ede5eb04fbf498
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DR.FROST:'
+  link_text: Dr. Frost 1(PT-BR)
+  note: (not finished)
+- library: remastered
+  section: Dr. Frost
+  character: Nambong Baek
+  link_text: Dr Frost DOC
+  note: (Brazilian Portuguese)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

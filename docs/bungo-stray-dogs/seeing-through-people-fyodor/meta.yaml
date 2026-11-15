@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: seeing-through-people-fyodor
+category: doc
+title: seeing through people - fyodor
+alt_titles:
+- Fyodor STP
+authors: []
+series:
+- bungo-stray-dogs
+characters:
+- fyodor-dostoevsky
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Zae0-ukiatXGsliL9qyVs68TpyGZ4tgd2MvCIE7tzW4
+    google_id: 1Zae0-ukiatXGsliL9qyVs68TpyGZ4tgd2MvCIE7tzW4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 3055
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 114780
+      sha256: f2d3a225de66aa9f8e334579cf670ff958cae9510b027e3c56fb8b51acab8a11
+    - format: docx
+      name: document.docx
+      bytes: 14425
+      sha256: 01fdd1ac21e2588c6bd54518687d035cb26ca049a7444e5fd6e8b5b606d381ea
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: BUNGOU STRAY DOGS
+  link_text: Fyodor STP
+- library: remastered
+  section: Bungo Stray Dogs
+  character: Fyodor Dostoevsky
+  link_text: seeing through people - fyodor
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

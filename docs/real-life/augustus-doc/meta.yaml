@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: augustus-doc
+category: doc
+title: Augustus doc
+alt_titles:
+- Augustus Caesar Doc
+authors:
+- name: LLA
+  source: doc-text
+series:
+- real-life
+characters:
+- augustus-caesar
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1rHfqO5mZvfCD3c8bn1alYwy3_Ai49GEYgRpHFa2wKwg/edit?tab=t.0
+    google_id: 1rHfqO5mZvfCD3c8bn1alYwy3_Ai49GEYgRpHFa2wKwg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 18334
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2702100
+      sha256: cbe93695ef3e2007a6005676334e7053437dff0604962ec3845faec7fbcadfc4
+    - format: docx
+      name: document.docx
+      bytes: 1784723
+      sha256: 88c8fe2868258b7e7f7a30c51ff2a3b9e2282e0f19944519bbdd9c217531138f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Augustus Caesar Doc
+- library: remastered
+  section: Real Life Historical Figures
+  character: Augustus Caesar
+  link_text: Augustus doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

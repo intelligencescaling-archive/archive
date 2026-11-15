@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiraris-urr-plan
+category: doc
+title: Kirari’s URR Plan
+alt_titles:
+- Kirari URR Plan
+- Kirari's URR Plan
+authors: []
+series:
+- kakegurui
+characters:
+- kirari-momobami
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14jzPvl8G2cGy6ST1xVXeEuUH8MBIDDMeHGuYwRrSNgM/edit?usp=drivesdk
+    google_id: 14jzPvl8G2cGy6ST1xVXeEuUH8MBIDDMeHGuYwRrSNgM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1972
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 176727
+      sha256: d5b871dd090369683edcd5c43ae34ad089eef23b9fd77235d5a422ba2b55b005
+    - format: docx
+      name: document.docx
+      bytes: 370470
+      sha256: 174a0f4a72ab4da5f7c8df0a020beaec39b032f6a6f76e7208ab3dbb7d986d98
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Kirari URR Plan
+- library: remastered
+  section: Kakegurui
+  character: Kirari Momobami
+  link_text: Kirari's URR Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

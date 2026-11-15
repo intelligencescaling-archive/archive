@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: i-think-therefore-i-am-doc
+category: doc
+title: I Think Therefore I AM DOC
+authors:
+- name: AniMangaMastarMedia
+  source: doc-text
+series:
+- i-have-no-mouth-and-i-must-scream
+characters:
+- am
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1eHMfgJkRuJs8ZGKWoPUcI7awNo6etJQ0XhQdHMZcCRA
+    google_id: 1eHMfgJkRuJs8ZGKWoPUcI7awNo6etJQ0XhQdHMZcCRA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 1961
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2292314
+      sha256: 0dbe604e29236d229ce75822db916601f6a71815b35113ccb28d7d294843526d
+    - format: docx
+      name: document.docx
+      bytes: 3268608
+      sha256: 9a6d4e49439650cf3e6328517cbce75bb6374db84d249f2ebb6491b9cf6d055c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: I think Therefore I AM Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

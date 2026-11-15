@@ -1,0 +1,251 @@
+WAR OF THE THIRD COALITION DOC
+Written by Azraelyc
+
+The Coalition Plan:
+The coalition plan in 1805 envisioned a slow, synchronized build-up of allied armies across Europe, followed by coordinated advances once all forces were in position. Austria would carry the main burden by committing its strongest army in the German theater, advancing into Bavaria to hold ground and engage French forces until Russian armies marching from the east could arrive and tip the balance. A secondary Austrian army under Archduke Charles would operate in northern Italy to contain French forces there. Russian troops were to move west in stages, first reinforcing the German front and then contributing to broader offensive operations.
+At the same time, supporting campaigns were planned on the periphery: British and Russian forces, with Neapolitan support, would operate in southern Italy, while in northern Germany Swedish troops from Pomerania, Russian contingents advancing overland, and British landings along the North Sea coast would apply additional pressure. Taken together, the plan aimed at a broad, multi-theater convergence, in which allied armies advanced in parallel and eventually combined their strength to overwhelm French forces through coordinated, continent-wide pressure.
+
+La Grande Armée:
+* Reorganizing the institution of the Army
+After crowning himself emperor, Napoleon set about constructing his army.
+Napoleon did not inherit a perfect army under the Directory:
+* the regime was “extremely unpopular, inefficient and by many accounts thoroughly corrupt”
+* the army’s performance in 1799 was “inconsistent”
+* France was saved largely by “Massena’s victory at the Second Battle of Zurich”
+He concentrated his finest generals into a single force, The Grande Armée, ensuring that talent was unified rather than scattered. The army was built around a standardized organizational structure, led by a professionalized officer corps that had been carefully purged and refined. Its formations were large, cohesive, and rigorously trained, commanded by leaders who had worked together for years.
+Although this army was originally assembled for an invasion of Britain that never materialized, it was now ready to be unleashed against the Coalition.
+
+〚Because these measures shaped the war as a whole and gave Napoleon overarching control of it, I view it as Strategy Building.〛
+(Strategy Building, Leadership)
+* The counter-intuitive idea: fewer units, same manpower
+One of Napoleon’s most subtle innovations was resisting numerical inflation. Instead of creating more regiments by thinning existing ones, he merged weak units, reduced the number of regiments but kept the number of battalions (and men) roughly the same
+
+This mattered because:
+* fewer regiments meant fewer officers
+* fewer officers meant better selection
+* better officers meant better cohesion and command
+〚Seeing invisible variables (selection quality, cohesion, command bandwidth) instead of just visible numbers, makes this Abstract Reasoning.〛
+(Abstract Reasoning, Strategy Logistics)
+* Concentration with Redundant Depth
+One of Napoleon’s most modern and decisive innovations was his method of concentrating combat power without exhausting the state’s strategic reserves. When forming the Grande Armée, regiments were brought as close to full strength as possible by drawing men from their weaker elements. The surplus was not discarded, but deliberately left behind and reorganized into reserve formations.
+This same logic applied across arms.
+The result was a dual-use system: frontline units marched at full strength and high cohesion, while France retained trained reserves, internal security, and a continuous replacement mechanism.
+(Strategy Logistics)
+* The corps system: operational independence
+Napoleon organized the Grande Armée into corps d’armée:
+
+Each corps:
+* could march separately
+* live off local resources
+* fight alone until support arrived
+This allowed:
+* parallel marches
+* faster concentration
+* operational surprise
+The genius here is not chaos, it is controlled decentralization.
+(Strategy Logistics)
+The Bavarian Campaign:
+* The Ulm encirclement (September–October 1805)
+This feat begins when Austrian General Mack enters Bavaria. He calculates that Napoleon will require at least sixty days to reach the theater, which gives him confidence and time. Believing that the Russians will arrive before the French, Mack advances toward Ulm. This assumption proves to be a fatal miscalculation, one that Napoleon fully exploits.
+This feat is often underestimated and reduced to a simple battlefield encirclement. What is frequently overlooked is that it is in fact a double encirclement, operating simultaneously on the diplomatic and operational levels.
+First Encirclement: The Diplomatic One
+Mack’s entire plan rests on the assumption that Bavaria will remain neutral, or at worst, passively cooperative. In reality, Napoleon had started securing Bavaria’s alliance before the campaign even began.
+This immediately produces three effects:
+* Mack loses his expected partner
+* His eastern line of retreat is placed in jeopardy
+* Napoleon gains political legitimacy to operate inside German territory
+Crucially, Napoleon does not pause diplomacy while conducting operations, he conducts both at the same time. As the text notes, “Napoleon concluded alliances with Baden and Württemberg…”
+
+〚Napoleon’s decision to secure alliances with both of these states serves as an example of planning coverage. They represented potential threats to his flanks while he was conducting his encirclement.〛
+This is decisive because:
+* French corps can march without fear of hostile action on their flanks
+* Austrian hopes of rallying the German states collapse
+* The concept of German neutrality effectively disappears
+By the time Napoleon completes the battlefield encirclement at Ulm, Austria has already been politically isolated in southern Germany. Bavaria has aligned with France, and potential threats on Napoleon’s flanks (Baden and Württemberg) have been secured as allies. Mack is not merely surrounded by French troops; he is enclosed within a hostile diplomatic environment.
+Second Encirclement: The Operational One
+With the diplomatic maneuvers explained, we return to the battlefield.
+When the Grande Armée reached the Rhine, Napoleon spread his corps along the river and placed Bernadotte’s forces to the east.
+His goal was not to attack Mack directly, but to cut him off from Russian support and Austrian reinforcements.
+Misdirection: As the text explains, “Napoleon planned to turn Mack’s right flank and descend on his rear.” To make this possible, Napoleon first misled the Austrians. He sent a cavalry screen into the Black Forest, making it appear that the main French threat was coming from the west. This fixed Mack’s attention in the wrong direction and delayed his reaction.
+
+Encirclement: While Mack focused westward, Napoleon immediately crossed the Danube and divided his forces:
+1. Some corps moved east to block any relief (coverage).
+2. While the rest maneuvered to surround Ulm.
+As French units swept south, west, and north, Mack’s escape routes steadily disappeared. When Mack finally attempted to break out, his efforts were poorly coordinated and easily defeated. Misreading French movements and hesitating at critical moments, Mack lost the initiative entirely.
+
+By mid-October, the encirclement was complete. With no relief forthcoming, Austrian command cohesion and morale collapsed, and Ulm surrendered without a decisive battle.
+(Strategy Building, Strategy Fortitude, Planning Process, Planning Applicability, Planning Coverage, Misdirection)
+Between 11–20 October 1805, Napoleon destroyed Mack’s Austrian Army of Germany: Whole Austrian units surrendered at places like Haslach-Jungingen, Memmingen, Elchingen, and finally Ulm.
+The Campaign of Austria:
+Originally the Austrians were supposed to be the main force in Germany, the Russians were meant to arrive later as support. But after Ulm the Austrian army was gone and the Russians suddenly became the main Allied army.
+* The Kutuzov–Napoleon Cat-and-Mouse Pursuit
+After Ulm, Kutuzov who was supposed to reinforce Mack and was near, deliberately chose retreat over battle. Fully aware that he could not defeat Napoleon in a head-on fight, he resolved to fight only on terms of his own choosing. He abandoned supplies aiming to exhaust the French and stretch their logistics. Leaving Bagration with a disciplined rearguard, Kutuzov drew his main army east toward Wels, linking up along the way with an Austrian corps under Merveldt. Napoleon answered with a rapid, multi-corps pursuit, pushing Lannes, Davout, and Murat forward on converging routes in hopes of forcing a decisive engagement. Kutuzov refused the trap. Using Bagration and small Austrian detachments, he staged sharp, controlled delaying actions at places like Ried and Lambach, never to win battles, but to break French tempo and allow the main army to slip away intact. Kutuzov also exploited terrain with precision. The Inn, Traun, and Enns rivers became successive defensive pauses: bridges burned, crossings contested, and French momentum repeatedly checked just long enough to widen the gap. Each delay strengthened Kutuzov, who recovered stragglers and consolidated his force, while Napoleon’s army grew increasingly stretched and burdened by long supply lines and security duties. The illusion of a fleeing enemy finally collapsed near Amstetten, where Bagration, reinforced by Miloradovich, halted Murat’s advance with fierce resistance. The Russians stood firm, counterattacked, and inflicted serious losses, making clear that Kutuzov was not evading out of weakness, but conducting a calculated retreat. By this stage, the pursuit had become a strategic duel: Napoleon sought speed and a decisive battle; Kutuzov sought time, preservation, and exhaustion. Instead of repeating Ulm, Napoleon found himself drawn deeper into Austria, chasing an opponent who grew stronger the longer he refused to be caught.
+Napoleon tried to gamble by sending Mortier’s 8th Corps north of the Danube to cut Kutuzov off.
+Kutuzov turned hunter instead of hunted and nearly destroyed the isolated division at Dürrenstein, forcing the French back across the river. Although the Russians failed to annihilate the division, they secured Kutuzov’s flank.Although Kutuzov avoided battle and retained the strategic advantage, Napoleon still achieved notable successes: he occupied Upper and Lower Austria, captured Vienna, and
+seized extensive arsenals stocked with weapons, powder, and shot, along with magazines filled with provisions.
+And Napoleon had far better Strategy Flexibility than the Allies. Although Kutuzov succeeded in drawing out and dispersing the French army, Napoleon responded brilliantly by occupying a central position in Moravia and along the Danube Valley, anchored on Brünn to the north, Vienna at the center, and Graz in Styria to the south. These positions were connected by reliable roads, short marching distances, and secure bridges and supply depots. As a result, Napoleon operated on interior lines: he could shift troops between threatened sectors more rapidly than the Allies and reinforce a chosen point while enemy forces were still on the march.
+This gave him multiple strategic options.
+Even in a bad strategic situation, Napoleon has options. If the Allies:
+* advance from Olschan → he can concentrate at Brünn
+* threaten Vienna → he can shift south
+* move into Bohemia → he can pivot west
+* hesitate → he gains time
+Kutuzov was undeniably skillful, he avoided decisive battle, exhausted the French, and forced their dispersion, but while Kutuzov was reacting to circumstances, Napoleon was constructing a system that reduced the need for reaction altogether. He did not merely endure being stretched; he transformed dispersion into flexibility.
+(Strategy Building, Strategy Flexebility)
+* Prussia emerges as a problem now
+Napoleon then received word that Frederick William III had met with Alexander I at Potsdam on 2 November. Even without knowing the specifics, the implication was clear to him: Prussia was beginning to slide toward the coalition. And that was exactly what was happening, despite its official neutrality, Prussia was being quietly drawn in through Alexander’s behind-the-scenes diplomatic maneuvering.
+* Battle of Trafalgar
+Then, on the 18th, news reached Napoleon of Admiral Nelson’s destruction of the French and Spanish fleets at Trafalgar, making a decisive victory over the Allies even more urgent. With the French army in occupation of Brünn, the Danube campaign had effectively come to a close and the war shifted into a new phase.
+The Moravian Campaign:
+* The Coalition Plan for Moravia
+The prolonged cat-and-mouse pursuit between Napoleon and Kutuzov ultimately reached its conclusion in Moravia. By the time Kutuzov arrived in northern Moravia, around Olšany, he found himself in a far more favorable situation than at any earlier point in the campaign. His army had fully concentrated after weeks of retreat, giving him a considerable mass of troops and a clear local advantage. Napoleon, by contrast, now commanded fewer forces, as Kutuzov’s steady withdrawal had allowed Russian reinforcements to converge while simultaneously stretching and dispersing the French. This shift in the balance of forces strengthened Kutuzov’s strategic position and gave the Allies confidence that they could finally face Napoleon on more equal terms. This confidence was further reinforced by diplomatic developments. Negotiations with Prussia, mentioned earlier, appeared to be progressing successfully, largely due to Alexander’s diplomatic efforts. There was growing expectation that Prussia would soon enter the war on the Allied side, adding yet another powerful force to the coalition and tightening the strategic net around Napoleon.
+Napoleon himself halted upon reaching Moravia, establishing his main position at Brünn in southern Moravia.
+Shortly thereafter, Alexander arrived at Allied headquarters and began to take a leading role in shaping the campaign’s next phase. Although Kutuzov advocated caution and preferred to wait until the Prussians had fully committed their forces before risking a decisive engagement, Alexander was unwilling to delay. He feared that if the Allies waited too long, the Prussians would arrive in time to claim the glory of victory for themselves. As a result, Alexander envisioned a more limited role for Prussia: rather than fighting alongside the main Allied army, they would be used to block Napoleon’s potential lines of retreat.
+Alexander’s operational plan focused on striking against the French right flank. Allied communications were to be shifted away from Olomouc toward Hungary, drawing the army closer to Archduke Charles while simultaneously threatening Napoleon’s communications with Vienna. The intention was not merely to attack Napoleon directly, but to force him into a reactive posture by endangering his logistical and operational lifelines. The logic behind this plan was both simple and highly persuasive. Napoleon appeared stalled, hesitant, and no longer advancing aggressively, while the Allied army concentrated around Olschan enjoyed local numerical superiority. By cutting French communications with Vienna, the Allies believed they could isolate Napoleon, deny him reinforcements, and compel him to retreat. If Napoleon were defeated under these conditions, his only viable escape route would lie along the difficult Budweis–Linz road. Beyond that narrow avenue, the main Prussian army stationed in Franconia was expected to intervene, delivering what the Allies hoped would be the final blow.
+* Napoleon's Moravian Perimeter Plan of 1805)
+We now turn to Napoleon’s plans and strategies in Moravia. This phase is of particular importance, as the formulation of this plan laid the causal groundwork for the forthcoming Battle of Austerlitz, Napoleon’s magnus opus. Although the decisive engagement had not yet taken place, essential elements of this plan would bring it about. You see, at this very moment, Napoleon occupied a precarious position and was fully conscious of the exposure of his strategic situation. He clearly perceived a number of pressing realities that shaped both the risks he faced and the solutions he would soon construct, namely:
+Napoleon's Analysis:
+(1) First, Kutuzov’s army remained intact. After a month of successful withdrawal, the main Austro-Russian force had not only escaped destruction but had been reinforced, taken up a strong position near Olmütz, and secured both supplies and a fortress in its rear.
+Under these conditions, any direct pursuit was no longer meaningful or productive.
+(2) Second, to the south is Archduke Charles’ army present, and it gives a different kind of danger: It threatens Vienna, Napoleon’s critical logistical and political prize and it requires a large force, which will tie down French troops. Offensive action is risky against him because: If Charles retreats into Hungary the French would be drawn far from their base, overextended and exposed. Napoleon cannot simply “attack everywhere.” He must contain Charles, not chase him.
+(3) Third, Ferdinand’s corps operating to the west, though small, could not be dismissed. While not immediately decisive, it remained a persistent nuisance and carried the potential to become dangerous if reinforced.
+(4) Finally, Prussia loomed as an uncertain but significant factor. Although not yet openly hostile, it was clearly drifting toward the Coalition.
+
+The Moravian plan thus emerged from a sober appreciation of strategic limits rather than from aggressive optimism.
+The Strategy:
+Following this assessment, Napoleon formulated a form of operational coverage that also functioned as an overarching strategy. Its purpose was to stabilize the immediate situation without sacrificing freedom of action. To create a system of controlled vulnerability that turns every plausible enemy choice into self-inflicted disadvantage, while preserving maximum French freedom of action through interior lines and rapid concentration.
+Napoleon basically wanted to create a defensive perimeter.
+A defensive perimeter implies several key features: a clearly defined boundary separating secure space from contested ground; continuous observation through patrols and screens to detect threats early; depth in defense, with overlapping layers rather than a single fragile line; and flexibility, allowing forces to shift, reinforce weak sectors, or launch counterstrokes as needed. Its ultimate purpose is not passive defense, but to buy time, protect vital assets, and shape the enemy’s choices and movement.
+What distinguished Napoleon’s approach was scale. This was not a perimeter around a camp, a city, or a bridge, as in most modern tactical defenses. Instead, he envisioned a perimeter on an operational–strategic level, spanning multiple regions.
+The Planning:
+The defensive perimeter described in strategy was not governed by a single, simple plan; rather, it was composed of a very intricate one that will be examined in detail;
+Before breaking down each sector of Napoleon’s defensive perimeter and the way they were organized, it is first necessary to understand its scope: This defensive perimeter extended from Bohemia to Hungary, from the Danube into Moravia (that’s how big it is), and incorporated multiple army corps, cavalry screens, and fortified points into a single operational framework.
+* Sector 1: The main French force pursuing Kutuzov (threat–Kutusov)
+This force, which constituted the main French body pursuing Kutuzov under Murat’s command, was divided into two corps: the 4th and the 5th.
+The 4th Corps (Observation) was tasked with maintaining cautious and continuous contact with the Russian advance guard along the Brünn–Olmütz road. Layers of cavalry, light cavalry, dragoons, and cuirassiers, formed a deep reconnaissance screen and an inherent delaying system, effectively shadowing Kutuzov’s advance guard at all times. This cavalry screen enveloped the 4th Corps itself, while the corps occupied the high ground south of the road, including the Pratzen Heights.
+The 5th Corps (Base) was concentrated in and around Brünn. Napoleon transformed Brünn into the functional operational hub of the system: a logistical center, a reserve position, and a pivot point from which rapid concentration and maneuver could be executed.
+Thus, as becomes clear, these forces together formed a defensive perimeter. The 4th Corps provided observation while holding a dominant strategic position, while the 5th Corps served as the base, allowing the 4th to concentrate with it rapidly if required. As a result, this sector presented virtually no vulnerability on the front.
+
+Napoleon extended this logic to his rear and flanks.
+* Sector 2: French force in the Northwest (threat–Ferdinand)
+To the northwest, the 1st Corps was ordered to occupy Budweis, opening the Brünn–Budweis–Linz route to the Danube, and then to press Ferdinand's small force back into Bohemia.
+In this step Bernadotte was always to keep his two French divisions in reserve and to employ his Bavarian division and cavalry for offensive operations.
+The French divisions were to advance only as far as Iglau while the Bavarians were to press Ferdinand back on Kolin and, if possible, Prague. Why? It seems Napoleon clearly intended the Bavarians to bear the operational risk in a worst-case scenario, basically pawns, such as the arrival of Russian or Prussian reinforcements, while the French core forces remained uncommitted, intact, and secure.
+In which case the Bavarians would fall back and concentrate with the intact 1st Corp.
+
+* Sector 3: French force in the Southeast (threat–Archduke Charles)
+Napoleon’s handling of the Archduke Charles problem is particularly interesting, since its concentration has dual aims. To contain him, he established a continuous cordon stretching from Pohrlitz to Pressburg (Bratislava).
+Davout’s divisions held Pressburg, reinforced by strong cavalry formations deployed along the March and Thaya rivers.
+Mortier’s VIII Corps, Marmont’s II Corps, and additional formations secured Vienna, Graz, and the southern Danube crossings.
+But this is where Napoleon’s genius becomes clear, because these forces could be rapidly concentrated “to oppose an advance by either Charles or Kutuzov”.
+While cavalry screens between Vienna and Brünn provided early warning of enemy movement.
+
+This means, Napoleon created the freedom to decide where to fight; against Charles if he advanced, or against Kutuzov if the opportunity arose.
+This is crucial, because these same forces would later be redirected against Kutuzov at Austerlitz, showing that Napoleon was already operating on a broader strategic level.
+* Sector 4: The situation with Prussia (threat–Prussia)
+Although Prussia’s entry into the war remained a possibility, Napoleon judged it
+“the least of his worries at this point.”
+Although Prussia and the Allies were making diplomatic progress and an eventual Prussian alignment with the Coalition seemed plausible, Prussia had not yet committed itself to war. Its mobilization was slow, so unlike the Austro-Russian forces already concentrated and actively maneuvering in Moravia, Prussia lacked the positional advantage to intervene quickly in that theater. Even had Berlin decided for war, Prussian forces could not have influenced events before the Moravian situation reached its conclusion.
+Nevertheless, he issued precautionary orders. Ney and Augereau, operating in the Tyrol and Vorarlberg, were instructed to be ready to march north to the Danube if required, while reserve forces and the Armée du Nord secured the Rhine and the Batavian Republic.
+Napoleon's 3 Contingencies
+With his dispositions complete, Napoleon moved beyond deployment to prediction. He identified three possible courses of action for the main Austro-Russian army, and created coverages or contingencies for each.
+The first was a maneuver through the mountains north of Brünn. Given the poor roads and difficult terrain, Napoleon judged this option unlikely and easily countered by striking Allied columns as they debouched from the mountains. Only limited cavalry reconnaissance toward Zwittau was required.
+1. The first was a maneuver through the mountains north of Brünn.
+Given the poor roads, broken terrain, and limited capacity for large-scale movement, Napoleon judged this option unlikely and operationally inefficient. Even if attempted, it could be easily countered by striking the Allied columns as they debouched from the mountain passes, where their formations would be compressed and vulnerable.
+→ As a result, no major dispositions were required; only limited cavalry reconnaissance which Napoleon sent toward Zwittau, sufficient enough to detect and monitor any movement in this direction.
+
+2. The second was a direct assault on the French positions east of Brünn.
+The second was a direct assault on the French positions east of Brünn. This possibility concerned Napoleon the most on a tactical level, as such an attack could be launched rapidly, “quickly before his forces could be fully concentrated,” and might force an engagement under unfavorable timing.
+→ Nevertheless, Napoleon was prepared for this. He planned a controlled withdrawal through Brünn and then southward toward Znaym and Vienna, trading space for time while preserving the integrity of his army. Strong cavalry forces positioned along the Olmütz road were tasked with delaying the Allied advance, maintaining contact, and providing early warning, ensuring that even a sudden attack would not result in strategic surprise.
+
+3. The third option, a flanking maneuver against the French right.
+This was both the most dangerous and the most promising. From the Allied perspective, such a maneuver would threaten French lines of communication and draw their army closer to Archduke Charles in Hungary, making it appear strategically sound. Napoleon, however, recognized that this movement would overextend the Allied army and expose its own right flank.
+He therefore concluded that this scenario “offered the best opportunity for a decisive French victory.”
+→ If the Allies committed to this maneuver, Napoleon intended to allow the movement to develop fully before responding, calling in Bernadotte’s I Corps and Davout’s III Corps at the decisive moment. Once concentrated, these forces would strike the exposed Allied flank and drive it into the swamps and ponds south of the Olmütz road, producing the decisive result he sought.
+To encourage this fatal Allied choice, Napoleon deliberately weakened his own right flank. Only a single cavalry brigade, Margaron’s, screened the sector from Austerlitz to Göding along the March River.
+This “thin string of outposts” was strong enough to provide warning but weak enough not to discourage an Allied flanking movement.
+The vulnerability was intentional. Napoleon was not reacting to enemy decisions; he was shaping them.
+
+* Personal Insight on Napoleon’s Moravian Perimeter Plan
+The first point that must be emphasized in Napoleon’s Moravian Strategy is its extraordinary flexibility, especially when compared with the Allied approach. For months, the Allies—under Mikhail Kutuzov, had been retreating skillfully, gaining time, reinforcements, and positional advantages. Yet despite this success, their planning remained fundamentally static. Napoleon’s plan, by contrast, was flexible. It was not constructed around a single intended action, but around a framework in which any plausible Allied choice could be met, and more importantly, exploited. Napoleon’s design was such that if the Allies did X, he could do Y, but not merely to parry the blow. His responses were structured to place the enemy at a disadvantage as a consequence of their own decisions. When examined closely, the only scenario in which Napoleon adopted a genuinely defensive posture was a sudden, direct Allied assault on Brünn, for which he prudently prepared a controlled withdrawal as a contingency. In virtually every other case, however, the plan was aggressive in outcome even when defensive in appearance. Wherever the Allies chose to apply pressure, Napoleon retained the ability to pivot his corps, shift weight rapidly, and strike elsewhere. This was made possible by superior intelligence, layered cavalry screens, and constant observation, nothing of significance could occur without being detected in time. What makes this all the more impressive is that while Kutuzov was deliberately stretching the French through retreat and delay, Napoleon was simultaneously building elasticity into his own system. By the time the Moravian plan was complete, he had effectively covered every major risk, established multiple contingencies, and ensured that no single Allied move could force him into a strategically unfavorable position. The result is a plan of remarkable depth and sophistication, one that borders on the extreme in its level of foresight. Few plans in military history were thought through with this degree of conditional logic and layered coverage. The intricacy of the design is further revealed in how its components were interconnected. A particularly striking example is Napoleon’s handling of the anticipated Allied flanking maneuver against his right. If the Allies committed to this move, Napoleon intended not to resist it immediately, but to allow it to develop fully before delivering the counterstroke, calling in Jean-Baptiste Bernadotte’s I Corps and Louis-Nicolas Davout’s III Corps at the decisive moment. What makes this exceptional is that these corps were initially deployed in different regions and assigned different roles. Davout’s corps, for instance, was tasked with containing Archduke Charles and securing Vienna, yet within Napoleon’s system, even this mission was conditional. If the strategic situation demanded it, Davout’s role could be redefined, his axis of movement altered, and his weight redirected against Kutuzov instead. This capacity to reassign purposes without losing coherence is the hallmark of Napoleon’s thinking here. Objectives were not rigid; they were modular. Corps were not tied to a single enemy or theater; they were instruments whose function could change as the situation evolved. That is why this plan feels so modern—and so extraordinary. Napoleon was not improvising brilliance on the battlefield; he had already embedded it into the structure of his strategy. This is precisely why the plan flows so naturally into the outcome at the Battle of Austerlitz.
+(All Planning Categories, All Strategy Categories, Deductive & Abductive Reasoning, Contingencies, Anticipation, Prediction, Bluffing, Fabrication, Risk Assessments, Divergent Thinking, Analytical & Critical Thinking, )
+* The Coalition offensive begins: Wischau and Rausnitz.
+The Austro-Russian offensive opened in late November 1805 with a successful attack on Wischau and Rausnitz (Attack made so that the main Allied columns could advance as far as Nemojan).
+
+Both towns lay northeast of Brünn, precisely in sector 1 of Napoleon's plan.
+The Coalition interpreted these events as clear evidence of French weakness, and reports from outposts, combined with the visible withdrawal of French cavalry, “nourished these illusions.”. Napoleon, however, read them as confirmation that his plan was unfolding exactly as intended. The forces in this sector had never been meant to stand and fight; their role was to observe, delay, and project vulnerability. That objective was achieved, the warning had been delivered. Napoleon now knew that the Austro-Russian army had abandoned Olmütz and was advancing aggressively and in strength. To the Allies, the French withdrawal appeared disorderly and decisive. In reality, Napoleon had never intended to hold these positions. This divergence in perception was critical. The Allies believed they had compelled a retreat; Napoleon knew he had successfully drawn them forward.
+
+The apparent ease of success at Wischau bred confidence, confidence that would soon be exploited.
+* The Battle of Austerlitz
+Once the reconnaissance elements of the IV Corps were engaged at Wischau and Rausnitz, Napoleon ordered them to reassemble and concentrate, exactly as planned. It was at this moment, upon receiving confirmation of the fighting at Wischau and Rausnitz, that the chain of events leading to the Austro-Russian downfall was set.
+The Allied attack confirmed that their army had gone over to the offensive, signaling that the conditions were now ripe for Napoleon’s plan to unfold.
+At this point, one of Napoleon’s three pre-established contingencies, outlined earlier in this document, would necessarily be triggered. The Allies could advance through the north against his left, attempt a frontal assault, or strike at his deliberately weakened right flank in the south. Napoleon clearly preferred the third option, but he had prepared responses for each possibility.
+Holding the heights at this stage, including the famous Pratzen Heights he had deliberately chosen, Napoleon possessed the observational advantage. From this position, he carefully watched Allied movements, paying particular attention to the southern sector on his right. But when the Russian and Austrian forces hesitated, Napoleon initiated his masterful deception concerning the Pratzen Heights, designed to force their hand.
+This deception operated on two levels:
+1. The first was diplomatic.
+Which itself consisted of two complementary tactics.
+
+* On 27 November, Napoleon received Austrian envoys Johann von Stadion and Karl Giulay. During this meeting, he consciously adopted the posture of a commander under strain: he feigned anxiety, emphasized his isolation, and spoke as though his position were precarious. At the same time, he reinforced this verbal performance with visible military movements. French units were ordered to withdraw, positions were deliberately vacated, and movements were conducted in full view of the enemy.
+This was deception by coordination, carefully aligned words and actions. As Thiébault later observed, the effect was convincing.
+
+* The following day, on 28 November, Napoleon met Prince Dolgoruky, Tsar Alexander’s envoy, near Posorsitz (an encounter likely encouraged by the success of the previous day’s performance). Dolgoruky arrived with terms appropriate for a defeated opponent. Napoleon rejected them, but only after ensuring that the envoy witnessed what appeared to be preparations for a French retreat. His calculated hesitation and refusal seem designed to deepen the impression that he was masking weakness rather than confidence.
+Beyond misleading Dolgoruky personally, this meeting likely confirmed for Napoleon that the Austro-Russian command had accepted the illusion. The very nature of the terms offered revealed the Allies’ belief that Napoleon was nearing collapse, precisely the misjudgment he intended to cultivate.
+
+2. The second layer of deception unfolded on the field.
+To finish off the deception on the 29th, Napoleon went off with the retreat. In full view of Allied cavalry, the main French forces withdrew from the heights into the northern Goldbach valley, on the western side of the Pratzen Heights below the plateau, out of sight of Allied observers. The movement was deliberate, controlled, and highly visible. Two corps marched rearward in chequered squares, disciplined formations glinting in the sunlight. To Allied observers, this appeared to confirm French weakness and retreat. That perception was precisely what Napoleon intended. The withdrawal preserved his freedom of action while encouraging the Allies to commit ever more deeply to their flanking maneuver. What the enemy interpreted as vulnerability was, in reality, a deliberate act of choice.
+
+The withdrawal was both a deception and a calculated strategic move: by pulling back, Napoleon preserved all three of his contingencies, buying himself the time and flexibility to commit decisively to whichever option the situation ultimately demanded
+Napoleon's third contingency activates:
+The Allied army advanced with extreme caution. On 30 November, it finally resolved to occupy the Pratzen Heights, which for two days had concealed French dispositions. Napoleon observed these movements calmly, and when he detected the mass of the Allied army beginning to bulge southward, his conclusions were clear.
+This development activated Napoleon’s third contingency. As this contingency prescribed, Davout from Sector 3 (southeast) was to reinforce the deliberately exposed right flank in the south. Simultaneously, Napoleon prepared a counterstroke from his center and left, intending to strike the Allies as their movement unfolded. The trap was now fully set: by committing to the southern maneuver, the Allies took the bait and triggered the spring mechanism of Napoleon’s plan.
+
+The Trap: What followed once the Allies committed to Napoleon’s deception
+Napoleon drafts the revised plan.
+
+1. The Allies would descend from the Pratzen into the souther Goldbach Valley. (STEP 1)
+To execute their flanking maneuver against the French right, the Allies would be compelled to descend from the Pratzen Heights toward the southern sector of the Goldbach Valley, in the direction of Tellnitz and Sokolnitz. Napoleon would expect—and deliberately rely upon—this movement. By attacking the French right flank, the Allied columns would voluntarily abandon the dominant high ground of the Pratzen Heights, moving downhill into the lower Goldbach basin south of the plateau, leaving the central heights temporarily exposed and thinly held.
+This descent would not merely reposition the Allied army, but would reorient it away from the battlefield’s central axis, stretching the Allied line and committing its main strength into terrain that restricted rapid redeployment. In doing so, the Allies would unknowingly open the Pratzen Heights to attack from the western and central approaches, creating the precise conditions Napoleon required for his counterstroke.
+2. Soult would seize the Pratzen Heights. (STEP 2)
+Once the Allied columns began their descent, Napoleon would order Soult’s corps to attack uphill and retake the Pratzen Heights. The Allied center, weakened by its own movement and poorly oriented for defense, would be only lightly held. Soult’s assault would split the Allied army in two and restore French control of the battlefield’s central position, severing coordination between the Allied wings.
+3. Lannes and Murat would advance on the French left. (STEP 3)
+While Soult attacked the center, Lannes and Murat would advance forcefully against the Allied right wing. Their purpose would not be its immediate destruction, but its fixation—preventing that wing from redeploying toward the Pratzen Heights to support the Allied center. Bernadotte, recalled from Sector 2 (northwest)—where, as previously noted, he had been positioned to block a potential attack by Ferdinand—would now concentrate near Brünn with two infantry divisions and supporting cavalry. This movement would reinforce the French left and ensure sustained pressure without weakening other sectors of the line.
+
+4. The Allied right would be rolled up. (STEP 4)
+With the Pratzen lost and the right wing pinned, the Allied right would become vulnerable to attacks from multiple directions. Forced to retreat laterally and backward under constant pressure, cohesion would deteriorate. Units would interfere with one another, command would break down, and coordinated resistance would become impossible.
+5. The Allied army would be driven into the southern ponds and swamps. (STEP 5)
+In the final phase, sustained French pressure would funnel the retreating Allied troops into the unfavorable terrain to the south—ponds, marshes, and narrow crossings—where movement would be restricted and the retreat would turn into a rout.
+
+The Battle, December 2:
+Before dawn, Napoleon Bonaparte rose after only a few hours of sleep and greeted his staff with confidence: “Now gentlemen… let us go and begin a grand day!” A thick fog lay over the valleys, especially along the Goldbach stream, masking movements and compressing combat into close, violent encounters.
+1. On Napoleon’s deliberately weakened right flank:
+As the Allied left wing descended toward Napoleon’s deliberately weakened right flank, fighting erupted in two key villages:
+Tellnitz and Sokolnitz.
+* Tellnitz: The Allied forces assigned to this sector were commanded by Johann von Kienmayer. Upon arrival, they met immediate resistance and became embroiled in a series of skirmishes. These early engagements were soon reinforced by elements of Nicolas Davout’s corps, which reached the right flank precisely as Napoleon had intended. Kienmayer sought to force a breakthrough by committing Heudelet’s advance guard, but this effort proved inadequate.
+Tactically, the Allies succeeded in taking Tellnitz; operationally, however, they failed. More than two hours were consumed securing the village, time that proved irrecoverable.
+* Sokolnitz: The fighting at Sokolnitz followed a similar pattern. Initial skirmishing was intended to delay and hold, and although the Allied forces eventually prevailed through numerical superiority, their advance was badly slowed. Confusion, poor coordination, and cautious movement through dense fog caused the engagement to last far longer than planned. The French delayed the Allies for over an hour, withdrew largely intact, and prevented any effective pursuit.
+As at Tellnitz, the Allies achieved a tactical victory at Sokolnitz, but operationally the delay was catastrophic.
+2. On Napoleon’s Attack of the Allied Center at the Pratzen Heights
+Although the situation on the French right appeared increasingly dangerous, this development was precisely what Napoleon had intended. His objective was not a limited tactical success but an operational one: to draw the Allied army downward, delay its movements, and weaken its center by inducing it to abandon the Pratzen Heights. Once the Allies fully committed to this maneuver and began descending from the heights, Napoleon acted.
+Concealed by the dense fog that filled the Goldbach valley, the French army remained silent and immobile while Napoleon waited for confirmation that the Allied center was sufficiently exposed. At the decisive moment, Napoleon unleashed Soult’s corps. The divisions of Saint-Hilaire and Vandamme suddenly emerged from the mist and advanced rapidly uphill. In the fog, many Russian troops initially mistook the advancing French columns for friendly forces, losing valuable time. When the error became apparent, it was already too late. A race for the Pratzenberg—the key ground dominating the Pratzen Heights—ensued, and it was won by the disciplined French light infantry, who secured the position and forced the Russians to counterattack uphill.
+The decisive blow followed when the French infantry opened their ranks to reveal concealed artillery, which fired devastating canister at close range. Russian formations were shattered almost instantly.
+In less than an hour, Napoleon transformed Allied confidence into strategic catastrophe.
+3. On Napoleon’s Left Flank pinning the Allied Right
+While Soult struck the Allied center on the Pratzen Heights, Napoleon’s left flank advanced under Jean Lannes, supported by Joachim Murat’s cavalry. This advance aimed not at immediate destruction, but at fixation and pinning the allied right. By engaging the Allied right, Napoleon prevented any redeployment toward the Pratzen and drew Allied cavalry under Johann von Liechtenstein fully into the fight. The Allied right was thus contained at the decisive moment, unable to influence the collapse of the center.
+Aftermath:
+In the end, the outcome followed a grimly predictable course. Murat and Lannes inflicted severe losses on Bagration’s wing, successfully fixing it in place and preventing any intervention in the center. Deprived of support, the Allied center was shattered, contemporary accounts speak of men cut down where they stood as they attempted to flee. With the center destroyed, the only remaining Allied escape lay to the south, against Napoleon’s deliberately weakened right flank. Davout’s corps, though it had resisted stubbornly for hours, was nearing the point of collapse. At that moment, Napoleon acted decisively. From the Pratzen Heights, he released Saint-Hilaire, Vandamme, Oudinot, Soult, and finally the Imperial Guard, directing them around the Allied rear toward Sokolnitz and Tellnitz. These forces converged on the southern Allied columns, which were now encircled and annihilated. As remnants attempted to escape, Napoleon rode to the Chapel of St. Anthony to oversee the final phase of the battle. From there, French artillery opened fire on the frozen ponds as troops fled across the ice. Those who were not killed by French arms or drowned in the freezing water ultimately laid down their weapons.
+French bands struck up “La Victoire est à Nous,” a psychological full stop to the battle. Napoleon then issued his victory address:
+“Soldiers! You are the finest warriors in the world.”
+
+Conclusion:
+By the afternoon of 2 December, the Allied army no longer existed as a coherent force. What had marched onto the field in confidence was broken, scattered, and driven into ruin across the frozen ponds and muddy valleys of Moravia. The Pratzen Heights, abandoned in pursuit of victory, became the anvil upon which the Allied host was smashed. Smoke, fog, and the echo of cannon marked the end of any hope of recovery. When the firing finally ceased, Europe understood what had happened. At Austerlitz, Napoleon Bonaparte did not merely win a battle—he imposed his will so completely that resistance collapsed into silence.
+This victory is his magnus opus, the purest expression of his genius and the masterpiece upon which his legend was forged.
+(All Strategy Categories, All Planning Categories, Bluffing, Misdirection, Acting skills, Fabrication, Indirect Manipulation, All Reasoning Categories, Trap Setting, All Foresight Categories)
+* An extraordinary prediction of the battlefield
+Even before what would become his masterpiece at Austerlitz, Napoleon displayed a striking ability to foresee how and where the battle would unfold. You see, upon halting near the small hill known as the Santon shortly after arriving at Brünn, he immediately issued specific orders: the slope facing the enemy was to be dug out, and the escarpment artificially steepened.
+This detail is revealing. Napoleon was not reacting to events as they developed, he was actively shaping the battlefield in advance.
+He then undertook a careful and systematic reconnaissance, personally riding across the surrounding ground. He examined key villages such as Sokolnitz, Tellnitz, and Monitz; studied lakes, low-lying areas, and exposed approaches; and paid particular attention to elevated terrain, above all the Pratzen Heights.
+At one point, he reportedly told his staff:
+“Gentlemen, examine this ground carefully. It is going to be a battlefield.”
+He may not yet have had a fully formed plan, but he had already identified, almost instinctively, the place where the decisive struggle would occur. As he later remarked, the fighting would take place there within less than two months.
+
+(Prediction, Observation, Abstract Reasoning)

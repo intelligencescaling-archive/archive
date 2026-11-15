@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sed-ayanokoji-morse-code-test
+category: doc
+title: SED Ayanokoji - Morse Code Test
+alt_titles:
+- COTE Sole Elite Disclosed WR Flashback chap 15.5 feat
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+variant: Solo Elite Disclosed
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1O_KVfyJm6DUOTXmIxQfSI8lzdtoQ9lrJHDWKvphjWJE/edit?tab=t.0
+    google_id: 1O_KVfyJm6DUOTXmIxQfSI8lzdtoQ9lrJHDWKvphjWJE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1459
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 96970
+      sha256: 76d84428f5638cb866e7f3bf7829b4ec033558321e4d8e7a705e52c113fe88c3
+    - format: docx
+      name: document.docx
+      bytes: 284552
+      sha256: fd7ef3f400d3f6a49bc8b33cff49a55e2ea21b8e7074e35777de1ef9650bb0e4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: COTE Sole Elite Disclosed WR Flashback chap 15.5 feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji - Solo Elite Disclosed
+  link_text: SED Ayanokoji - Morse Code Test
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

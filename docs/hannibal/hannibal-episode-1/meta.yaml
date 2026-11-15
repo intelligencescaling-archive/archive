@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-episode-1
+category: doc
+title: Hannibal Episode 1
+alt_titles:
+- Hannibal TV Series Episode 1 Feats
+- TV Series Hannibal Episode 1 Feats
+authors: []
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/file/d/1ODj2BvzC0U-MaCdTv_VYa8EN5gXaaT7J/view
+    google_id: 1ODj2BvzC0U-MaCdTv_VYa8EN5gXaaT7J
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3250
+    files:
+    - format: pdf
+      name: Hannibal Episode 1.pdf
+      bytes: 130668
+      sha256: 23c750ef316b1356c3ea3231971d906ab5927b24fc4c212d7048b2e88c59fbbe
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hannibal TV Series Episode 1 Feats
+- library: remastered
+  section: Hannibal
+  character: Hannibal Lecter
+  link_text: TV Series Hannibal Episode 1 Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

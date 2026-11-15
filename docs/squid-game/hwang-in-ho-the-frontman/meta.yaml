@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hwang-in-ho-the-frontman
+category: doc
+title: Hwang In-ho (The FrontMan)
+alt_titles:
+- Frontman Doc
+authors:
+- name: horrormente
+  source: doc-text
+series:
+- squid-game
+characters:
+- the-frontman
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Ut-amRRi_7Vu8A2yRkHIoQ8KR4mRDy52_1XxZWqOrUw/edit?usp=drivesdk
+    google_id: 1Ut-amRRi_7Vu8A2yRkHIoQ8KR4mRDy52_1XxZWqOrUw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 5982
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 20475789
+      sha256: c17ed1a86265caa30d7681438e5e80fa7a8da5fdb6a94214859711862571d7c4
+    - format: docx
+      name: document.docx
+      bytes: 19832040
+      sha256: 74c7349c9ff33c03a408b4a4959acc05a39d7e0cb053b74db378036750d00262
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Frontman Doc
+  note: (squid game)
+- library: remastered
+  section: Squid Game
+  character: The Frontman (Hwang In-ho)
+  link_text: Hwang In-ho (The FrontMan)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

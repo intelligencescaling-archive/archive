@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: evaluating-the-cognitive-feats-of-terence-fletcher-folder
+category: doc
+title: Evaluating the Cognitive Feats of Terence Fletcher, 'Folder theft' scene (Whiplash, 2014)
+alt_titles:
+- Evaluating the Cognitive Feats of Terence Fletcher
+authors: []
+series:
+- whiplash
+characters:
+- terence-fletcher
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1K8mH6eYk6VAK7SURdydFIrO83H8UCm_piqNwOEh3Q1A/edit?usp=drivesdk
+    google_id: 1K8mH6eYk6VAK7SURdydFIrO83H8UCm_piqNwOEh3Q1A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1269
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10020728
+      sha256: f243bd129e2b9772785e974bc278eeeb48d3bc127730525f1f30cf94b74538c4
+    - format: docx
+      name: document.docx
+      bytes: 9949464
+      sha256: 0fdffa35addf3e3b84c29f9e31fba4eae51ef5e476b96fb20eda8feae69ef26e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Evaluating the Cognitive Feats of Terence Fletcher
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

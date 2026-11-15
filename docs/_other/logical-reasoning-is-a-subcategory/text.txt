@@ -1,0 +1,114 @@
+REASONING - LOGICAL IS A SUBCATEGORY
+
+I.Reasoning as the Umbrella Category
+
+Definition (APA Dictionary of Psychology):
+
+ “Reasoning is the process of thinking in a logical way in order to form conclusions or judgments.”
+
+But it further states:
+
+ “Types of reasoning include deductive, inductive, analogical, abductive, mathematical, and causal reasoning.”
+
+ Notice:
+Deductive, inductive, and abductive are types of reasoning, not of logical reasoning.
+If they were subtypes of logical reasoning, APA would have written:
+
+ Reasoning > Logical Reasoning > Deductive/Inductive/Abductive
+
+But it does not.
+They are all parallel branches under reasoning.
+
+Logical reasoning is one of many types, not the parent.
+
+ Logical Reasoning ≠ All Structured Reasoning
+
+Logical reasoning is reasoning that follows formal logic, such as:
+
+If A = B, and B = C, then A = C.
+
+Syllogisms
+
+Truth tables
+
+Symbolic logic
+
+But!!!
+
+Analogical reasoning: doesn't follow formal logic, yet is still valid cognitive reasoning.
+
+Matrix reasoning: visual and pattern-based; not symbolic logic.
+
+Moral reasoning: involves intuition and value-based processes.
+
+ Even abductive reasoning (best-guess based on limited data) often violates formal logic, and yet is still reasoning.
+
+Thus:
+
+Logical reasoning is a style or modality.
+
+Deductive/inductive/abductive are mechanisms of inferential processing, applicable inside or outside of logical reasoning.
+
+ They don’t fall under logical reasoning. They intersect, not inherit.
+
+ II. Hierarchy Breakdown (Actual Structure)
+
+Correct Cognitive Hierarchy:
+
+Reasoning
+├── Logical Reasoning
+├── Analogical Reasoning
+├── Deductive Reasoning
+├── Inductive Reasoning
+├── Abductive Reasoning
+├── Abstract Reasoning
+├── Matrix Reasoning
+
+ Incorrect (What SCD forums wrongly assume):
+
+Reasoning
+└── Logical Reasoning
+    ├── Deductive Reasoning
+    ├── Inductive Reasoning
+    └── Abductive Reasoning
+
+ Why that’s wrong:
+
+Deduction, induction, and abduction are inference systems, not structural children of a singular style.
+
+Logical reasoning is only one mode that may use deductive structure, but so does scientific or philosophical reasoning.
+
+III. Support from Standardized Cognitive Testing
+
+Tests like WAIS-IV and WISC-V divide cognitive operations into broad factors:
+
+> Fluid Reasoning (FRI)
+Includes:
+
+Matrix reasoning
+
+Figure weights
+
+Arithmetic reasoning
+
+Pattern detection
+
+No subtest is labeled “logical reasoning” because logic is a style of processing, not a domain of intelligence.
+
+ Confirmed: Deductive, inductive, abstract, and analogical reasoning are treated as independent and equal under FRI, not nested under logical reasoning.
+
+ TL;DR [FOR LAZY BUMS]
+
+Reasoning is the master cognitive function.
+It includes logical reasoning, deductive reasoning, inductive, abductive, analogical, abstract, matrix, and more.
+
+Logical reasoning is a subcategory of reasoning, referring specifically to structured thinking using formal rules.
+
+Deductive, inductive, and abductive reasoning are independent mechanisms of inference, and not subtypes of logical reasoning.
+They can operate within logical reasoning, but also outside it in probabilistic, moral, or analogical contexts.
+
+Thus, it is incorrect to say
+
+"deductive/inductive/abductive" are subtypes of logical reasoning.
+
+They are subtypes of reasoning itself.

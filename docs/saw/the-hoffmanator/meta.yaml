@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-hoffmanator
+category: doc
+title: The Hoffmanator
+alt_titles:
+- Mark Hoffman SCD Doc
+authors: []
+series:
+- saw
+characters:
+- mark-hoffman
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15pcSRxg1RENNhtNjb6Ceisnf-D1q5UYXt-36AV-B1Bs
+    google_id: 15pcSRxg1RENNhtNjb6Ceisnf-D1q5UYXt-36AV-B1Bs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 31
+    words: 12794
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 505491
+      sha256: 950dd08edf6943479287a0bb6c29857481ce8dc6d7042af8179617f0ae18876b
+    - format: docx
+      name: document.docx
+      bytes: 109205
+      sha256: f15e385e7e31450bc763c19302c4bbcdc1380d2fc84e6eff1b1ea125f101dc3b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Mark Hoffman SCD Doc
+- library: remastered
+  section: Saw
+  character: Mark Hoffman
+  link_text: The Hoffmanator
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

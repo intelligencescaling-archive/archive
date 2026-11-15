@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: utilization-scaling
+category: doc
+title: Utilization Scaling
+alt_titles:
+- Utilization Scaling System
+authors:
+- name: Dimen-sensei
+  source: doc-text
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11CNvUdtonpJ4Rkt9zQNJ_GdbJDXyYDKGYdKmf5wn3nI
+    google_id: 11CNvUdtonpJ4Rkt9zQNJ_GdbJDXyYDKGYdKmf5wn3nI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 2483
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 197743
+      sha256: d7799d2b7156301823fa1b2dbca2006ae7b6c4702237e7ec5961df86d5c510b6
+    - format: docx
+      name: document.docx
+      bytes: 16941
+      sha256: 19a0bacbffaf2367414fcf62429050fd2764ae82c81353f43acbefc805532f32
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Utilization Scaling System
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

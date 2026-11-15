@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: near-s-x-kira-feat-analysis
+category: doc
+title: Near's X-Kira feat analysis
+alt_titles:
+- Near X-Kira Reasoning Feat
+- Near’s X-Kira feat analysis
+authors: []
+series:
+- death-note
+characters:
+- nate-river
+tags:
+- feats
+- analysis
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LoTFdd8seI38eRwQ9FiQUlklpycL_8nI86jhgthfmv8/edit?usp=drivesdk
+    google_id: 1LoTFdd8seI38eRwQ9FiQUlklpycL_8nI86jhgthfmv8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 2665
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 272298
+      sha256: 523cd3015167fc2d991639c9b08e25be18ce9c3041a1f9430bb586ea10ddc95a
+    - format: docx
+      name: document.docx
+      bytes: 100832
+      sha256: 3ab098cb5e3abd1e74c36c220d889c36f09f99d14374a15ebb3f0bb725ff35d6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Near X-Kira Reasoning Feat
+- library: remastered
+  section: Death Note
+  character: Nate River (Near)
+  link_text: Near’s X-Kira feat analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tokuchi-strategy-against-the-bluemars
+category: doc
+title: Tokuchi Strategy against the BlueMars
+alt_titles:
+- Tokuchi Toua's strategy against Blue Mars
+authors: []
+series: []
+characters:
+- toua-tokuchi
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1XprmACP5y4CszlIkARDCW-vvVUN2ClF705K0M479b88/edit?tab=t.0
+    google_id: 1XprmACP5y4CszlIkARDCW-vvVUN2ClF705K0M479b88
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 9073
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 899976
+      sha256: d1d73adb843e663524b146e3f5488e5177a460d50111c95507e12603e10d0e22
+    - format: docx
+      name: document.docx
+      bytes: 675996
+      sha256: 711ada77dfc760450b6e7655df16854a1bffdada84ceb1f49e94f958338e390a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Tokuchi Toua's strategy against Blue Mars
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

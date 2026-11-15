@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-s-handchopper-calculations
+category: doc
+title: Baku's Handchopper calculations
+alt_titles:
+- Handchopper Calculations
+authors: []
+series:
+- usogui
+characters:
+- baku-madarame
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/17eSj6Dli2cxR53C45IEQ2LNoMeg5JEeB_Y7amZE7Y4I/edit?usp=drivesdk
+    google_id: 17eSj6Dli2cxR53C45IEQ2LNoMeg5JEeB_Y7amZE7Y4I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 502
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2725420
+      sha256: 62e9dbbec9acba389d05d500ba2c486393c80fc6c0772f19bf0e6bfb258910eb
+    - format: docx
+      name: document.docx
+      bytes: 2866566
+      sha256: 4754c556f9f0a7761a8dc1088633eafd3564dd2ab3d18974eb6c770a06ca1c95
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku's Handchopper Calculations
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Handchopper Calculations
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

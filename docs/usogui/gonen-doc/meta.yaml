@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gonen-doc
+category: doc
+title: Gonen Doc
+alt_titles:
+- Gonen
+authors:
+- name: Shin
+  source: doc-text
+series:
+- usogui
+characters:
+- gonen
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nfTzDoYJjFWuFvPoX-ct_6j8KTBdtvwlbV_n0HLy3Ek
+    google_id: 1nfTzDoYJjFWuFvPoX-ct_6j8KTBdtvwlbV_n0HLy3Ek
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 963
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 880434
+      sha256: fe568cdcc2459a33c699bd4df2bc144944de49cff373f1ec7e5acdb4f671ab10
+    - format: docx
+      name: document.docx
+      bytes: 2970716
+      sha256: 60f446eea028b4f468d6b2971305c27e879d3cccc3e67fae939a2b20f085243b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Gonen
+- library: remastered
+  section: Usogui
+  character: Gonen
+  link_text: Gonen Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

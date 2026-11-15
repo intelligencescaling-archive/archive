@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chess-feat
+category: doc
+title: Chess Feat
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1PejDG0sA38GYSU68R2Owto0FOfRQAteQ8xP0ByYMKCM
+    google_id: 1PejDG0sA38GYSU68R2Owto0FOfRQAteQ8xP0ByYMKCM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1105
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 387954
+      sha256: 71023aa903bed13c5e2911d80c6f3b00eef765726768c13e6830577fddbf815d
+    - format: docx
+      name: document.docx
+      bytes: 411303
+      sha256: 634803f7e20677eeca8583f2e26025398885ce58c3c415ee093724b5477ea047
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Chess feat
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Chess Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

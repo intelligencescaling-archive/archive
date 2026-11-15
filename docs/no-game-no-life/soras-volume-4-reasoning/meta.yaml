@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: soras-volume-4-reasoning
+category: doc
+title: Sora’s Volume 4 Reasoning
+alt_titles:
+- Sora's volume 4 Reasoning
+authors: []
+series:
+- no-game-no-life
+characters:
+- sora
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1FpGeCdEx-N0MHvKyz8rOmE3VKdW4vo8EbUrvn57cV8Y/edit?usp=drivesdk
+    google_id: 1FpGeCdEx-N0MHvKyz8rOmE3VKdW4vo8EbUrvn57cV8Y
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2033
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 268010
+      sha256: 8c3de18cde8d12cf227a8164b5026f82b4ef7ee6c1e47b718975e8aa99ea5cbf
+    - format: docx
+      name: document.docx
+      bytes: 724457
+      sha256: 3dfc05f9feb2b708f9008dcf4001a16076a28e1999950fa23a3a85cb2d1cb304
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Sora's volume 4 Reasoning
+- library: remastered
+  section: No Game No Life
+  character: Sora
+  link_text: Sora's Volume 4 Reasoning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: doc-1wutklexw5
+category: doc
+title: Сребанк на СРанг Юуаня
+alt_titles:
+- Fang Yuan Chapter 1 FSIQ Debunk
+- Chapter 1 Fang Yuan FSIQ Analysis - Debunk
+authors:
+- name: WAI
+  source: doc-text
+- name: Limbo
+  source: doc-text
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- analysis
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wUtKLexw5JayDZv5nY_3V5o79V5M__zYpNevUD0czJk/edit?tab=t.0
+    google_id: 1wUtKLexw5JayDZv5nY_3V5o79V5M__zYpNevUD0czJk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1070
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 619480
+      sha256: 6cdc3fce632da8bfb4e3ceb5accdf04eb42294ed4e5020a01e579690adb436ba
+    - format: docx
+      name: document.docx
+      bytes: 1313892
+      sha256: f7bd0d33aabcc0bc2318287c160c0c76c3e6c5ab1422252baead1e6d7c359dc1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan Chapter 1 FSIQ Debunk
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Chapter 1 Fang Yuan FSIQ Analysis - Debunk
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

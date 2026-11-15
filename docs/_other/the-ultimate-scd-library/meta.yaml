@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-ultimate-scd-library
+category: doc
+title: The Ultimate SCD Library
+authors:
+- name: hypervenomxtreme2.0
+  source: doc-text
+series: []
+characters: []
+tags:
+- library
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Eo1uBktSrI7FBLsxpQGIMjyRr855jjJpIsKmzuiGFIE
+    google_id: 1Eo1uBktSrI7FBLsxpQGIMjyRr855jjJpIsKmzuiGFIE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 57
+    words: 4339
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 18511701
+      sha256: cc6d7a334e87f25b63153524e166ea19ca9792387fcd8597c9909e5f7dbb583d
+    - format: docx
+      name: document.docx
+      bytes: 18457524
+      sha256: 6f0f686c214b7847db6698a2b9bdc4ca8227836dea84f0cc372eb0c1fb474fca
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: null
+  link_text: The Ultimate SCD Library
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: derived-scaling-document
+category: doc
+title: Derived Scaling Document
+alt_titles:
+- Derived scaling
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1fFhMKDXyzcq1cSL2iKdB0NpmNgjbu8PquzTxMnT97YA
+    google_id: 1fFhMKDXyzcq1cSL2iKdB0NpmNgjbu8PquzTxMnT97YA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 2746
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 127667
+      sha256: 7ad741e4071136696a1ea3f27f42f33d3c15d6c51bd570c14b1caaaed7178f7b
+    - format: docx
+      name: document.docx
+      bytes: 13380
+      sha256: 65bd355c5e43eb2b4c9d6f0d6f42c867e8cafca47c7ad97827754ebb7af09ff1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Derived scaling
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

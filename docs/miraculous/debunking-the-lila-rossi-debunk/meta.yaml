@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-the-lila-rossi-debunk
+category: doc
+title: Debunking the Lila Rossi Debunk
+alt_titles:
+- Lila debunk of the debunk doc
+authors:
+- name: Spritethecola
+  source: doc-text
+series:
+- miraculous
+characters:
+- lila-rossi
+tags:
+- rebunk
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KpfFD7w7xpO61csy0EKSW3RmbxH4HHgONUy9QrDJPv8
+    google_id: 1KpfFD7w7xpO61csy0EKSW3RmbxH4HHgONUy9QrDJPv8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 15
+    words: 5892
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10091118
+      sha256: d7f73592a29a787d5f8aa84526f98c316b0d3e98caa2f19f242091cd5e315cc0
+    - format: docx
+      name: document.docx
+      bytes: 9648146
+      sha256: 4ce26eefa38ff5fbd2df8f72a0d97fccd666a6fc334cf31265694ee95081a715
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lila debunk of the debunk doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

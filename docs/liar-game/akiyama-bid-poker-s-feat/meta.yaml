@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-bid-poker-s-feat
+category: doc
+title: Akiyama Bid Poker's feat.
+alt_titles:
+- Akiyama Bid Poker Feats
+- Akiyama Bid Poker’s feat.
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mGKZiuoTdmfxFQWftDoIibhQeESmvzGeCfRwLPq2iKE/edit?usp=drivesdk
+    google_id: 1mGKZiuoTdmfxFQWftDoIibhQeESmvzGeCfRwLPq2iKE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 59
+    words: 18917
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2848902
+      sha256: d1fa1e01020e6dcfa4b091803b1fbef65ad7c8e9f37bacb47a33ac6f1c0d2f7e
+    - format: docx
+      name: document.docx
+      bytes: 2345861
+      sha256: 18fb900636309438ea270a0abb3c04b07a03aaf115927bd448e86b6e5418be1c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama Bid Poker Feats
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama Bid Poker’s feat.
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

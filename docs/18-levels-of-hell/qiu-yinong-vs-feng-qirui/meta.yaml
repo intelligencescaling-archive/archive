@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: qiu-yinong-vs-feng-qirui
+category: doc
+title: Qiu Yinong vs Feng Qirui
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- qiu-yinong
+- feng-qirui
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/0/d/1VthdclrUW2ODqRimgHah7Nn8YFHvxs1A9mWv5JpaMtE/mobilebasic
+    google_id: 1VthdclrUW2ODqRimgHah7Nn8YFHvxs1A9mWv5JpaMtE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 45
+    words: 5960
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 698336
+      sha256: 96f37b51715e3c81745acf1c975b0102b03bc9a0c73ddf1dc79248285d78c1a5
+    - format: docx
+      name: document.docx
+      bytes: 742334
+      sha256: 7c16cdde7ec49f4ffbe291278050dc3dbf3e66a5a1e9fd9a2cb780f155a3d433
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Qiu Yinong Vs Feng Qirui
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

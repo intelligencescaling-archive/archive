@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jack-the-ripper-old-doc
+category: doc
+title: Jack, The Ripper (OLD DOC)
+alt_titles:
+- Jack the ripper(Shuumatsu no Valkyrie)
+authors: []
+series:
+- record-of-ragnarok
+characters:
+- jack-the-ripper
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1G1ZOz5aqVjnlKVHKm2FG0PpM3i5J6Mwbj0UZJyWIEu0
+    google_id: 1G1ZOz5aqVjnlKVHKm2FG0PpM3i5J6Mwbj0UZJyWIEu0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3126
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11246221
+      sha256: 04046aa7010b1cbfea36ad1f1ec8bb4f548146a6f68bf5f29080b7b7b3d368a2
+    - format: docx
+      name: document.docx
+      bytes: 11611911
+      sha256: 93f7ed08190fad107395341cbea581397499d92319a1abe207ecb081c9322367
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Jack the ripper(Shuumatsu no Valkyrie)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

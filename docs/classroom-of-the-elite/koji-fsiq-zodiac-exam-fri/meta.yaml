@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: koji-fsiq-zodiac-exam-fri
+category: doc
+title: KOJI FSIQ - ZODIAC EXAM FRI
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mW9BtoKIDaAPdD2x0p2fNH1sShrQvhUGJRl05aryNLc/edit?usp=sharing
+    google_id: 1mW9BtoKIDaAPdD2x0p2fNH1sShrQvhUGJRl05aryNLc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3938
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 180688
+      sha256: a7b3ceafe823357501170d7806fba35232ada5219f0cf0b13ab280fdc4cca9fb
+    - format: docx
+      name: document.docx
+      bytes: 383868
+      sha256: 1083d3516e5bd81d432431542f9795c2415b2ace2892abb009fc5352a9afe2de
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: KOJI FSIQ - ZODIAC EXAM FRI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

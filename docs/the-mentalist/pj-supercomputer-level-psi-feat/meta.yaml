@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pj-supercomputer-level-psi-feat
+category: doc
+title: Pj supercomputer level PSI feat
+alt_titles:
+- PJ 2
+authors:
+- name: River
+  source: doc-text
+- name: RatJoe
+  source: doc-text
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- psi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GuCqOlS_aXY83Zyxeq-pAVN1cBvRMEvk33vAxK_GQb8
+    google_id: 1GuCqOlS_aXY83Zyxeq-pAVN1cBvRMEvk33vAxK_GQb8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 207
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 107642
+      sha256: 64987524f174786b8568e858355271c24959662fbf16f5572e58bfef500cb7f1
+    - format: docx
+      name: document.docx
+      bytes: 36804
+      sha256: c6bcc0fc21c148c1516c1de2af9fc9866d61565a295e29382de729a6aeb3698e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 2
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Pj supercomputer level PSI feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

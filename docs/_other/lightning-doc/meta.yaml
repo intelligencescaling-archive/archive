@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lightning-doc
+category: doc
+title: Lightning Doc
+authors: []
+series: []
+characters:
+- lightning
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1o0DM9BDxL--RIHXMHNlasLSvzo6S3FqipphPmSMBaAU
+    google_id: 1o0DM9BDxL--RIHXMHNlasLSvzo6S3FqipphPmSMBaAU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 7533
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 975970
+      sha256: 31f80c03f1f358c30d4b2d544916fe5c0c4dc58b3dce6610dc27fe163dbc084c
+    - format: docx
+      name: document.docx
+      bytes: 685078
+      sha256: 8a686ecdacbc64fb1ab670e03a6927d10a6649f008056645aed96d7fd58d0c09
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lightning doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunk-of-anition-yokoyas-fsiq-liar-game-continuation
+category: doc
+title: 'Debunk of Anition Yokoya’s FSIQ: Liar Game - Continuation'
+alt_titles:
+- Yokoya's debunk continuation
+authors:
+- name: ReincarnatedDeveloped Supremacy
+  source: doc-text
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- debunk
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Np9ZO38IdskL5WpuTN83M-rwS7hKpC7jXuq_lpKfTp8
+    google_id: 1Np9ZO38IdskL5WpuTN83M-rwS7hKpC7jXuq_lpKfTp8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 1479
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8968256
+      sha256: 2b6a59da5330cd2d58aba888ce3b64be18e981b3bead2fae2aa7d72c9829244d
+    - format: docx
+      name: document.docx
+      bytes: 7514255
+      sha256: 8b3d4d9a83f34e343b1e50d24c85d1df8b45dcc74126c2ac9d1e541a9ce90144
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Yokoya's debunk continuation
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: 'Debunk of Anition Yokoya’s FSIQ: Liar Game - Continuation'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: richtofen
+category: doc
+title: RICHTOFEN
+authors:
+- name: Banesmanifold
+  source: doc-text
+series:
+- call-of-duty-zombies
+characters:
+- edward-richtofen
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18MrctmqKu1ld1jObhtqv0le5NWl77CvI5PUWzVdYGfY
+    google_id: 18MrctmqKu1ld1jObhtqv0le5NWl77CvI5PUWzVdYGfY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1910
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 201910
+      sha256: 42feea4a6120ebdb0bb4b2e5b0604225202dec94bd6262fb624ff4fb67bb768c
+    - format: docx
+      name: document.docx
+      bytes: 1391782
+      sha256: 062c0b9d9252684727ddbaf3b8331d3c75b910fac2e454c472bb34d24e7e44da
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: RICHTOFEN
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

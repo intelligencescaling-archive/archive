@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kirari-corporal-analysis-feat
+category: doc
+title: Kirari Corporal Analysis Feat
+authors:
+- name: Hellos / Chapter 76
+  source: doc-text
+series:
+- kakegurui
+characters:
+- kirari-momobami
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VBBsbi0IHx5G0csXxCXrDryWR0ZMIeWo6csqfcTwTj8
+    google_id: 1VBBsbi0IHx5G0csXxCXrDryWR0ZMIeWo6csqfcTwTj8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1060
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1291558
+      sha256: 415881b839f16c0885fc2897cec7f5fe59d79361c318454d4c7befd7156659ba
+    - format: docx
+      name: document.docx
+      bytes: 1618642
+      sha256: 4755e7491357a6008b8746e1177378dbdfb4e4918a793b40b0d5e7d0f3e61793
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: Kirari Corporal Analysis feat
+- library: remastered
+  section: Kakegurui
+  character: Kirari Momobami
+  link_text: Kirari Corporal Analysis Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: niu-youdao-first-two-schemes
+category: doc
+title: Niu Youdao first two schemes
+authors: []
+series: []
+characters:
+- niu-youdao
+tags:
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1sL5H5Orx3nKym1ci5mJqDo7IKq1K7A1UJfHwkDaL_8A/edit?usp=drivesdk
+    google_id: 1sL5H5Orx3nKym1ci5mJqDo7IKq1K7A1UJfHwkDaL_8A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 2270
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 95717
+      sha256: aef3649892869defde32e3498b5903f953b1522c7e9d2b623e7559aef641f86e
+    - format: docx
+      name: document.docx
+      bytes: 469428
+      sha256: 8ae75dae710b47e2ae7d54db7a78fe73601654991def83071fb6944283679680
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Niu Youdao First two Schemes
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chen-rans-reasoning-the-hidden-liar-feat
+category: doc
+title: Chen Ran’s Reasoning the Hidden Liar feat
+alt_titles:
+- Chen Ran Reasoning the Hidden Liar
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wGtqIGjaQp6Sbd4o5E0K3ilu44bNRCv6j0OciDyhO3I/edit?usp=drivesdk
+    google_id: 1wGtqIGjaQp6Sbd4o5E0K3ilu44bNRCv6j0OciDyhO3I
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 2687
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2566760
+      sha256: 0d1d8d7ced379badb7e7f93a4ab336085a1d7075fab486e5ee2e4733e4c85a57
+    - format: docx
+      name: document.docx
+      bytes: 2869531
+      sha256: eff4612854c4b60ce50d2a0061615258bb2d7107551c76a6e8faa8e37ca0f38d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Chen Ran Reasoning the Hidden Liar
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

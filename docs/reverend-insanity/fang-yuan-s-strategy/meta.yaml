@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-s-strategy
+category: doc
+title: Fang Yuan's strategy
+alt_titles:
+- Fang Yuan's strategies
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NfgGHQWmr2skQ8rcdg2I7GZs00Nr519seaI5XJqg5pA
+    google_id: 1NfgGHQWmr2skQ8rcdg2I7GZs00Nr519seaI5XJqg5pA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3667
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 167077
+      sha256: 128581393b35d8bdc8368ead18efa08c5888fd2ae5077e7cf1f738f00368d1b0
+    - format: docx
+      name: document.docx
+      bytes: 15669
+      sha256: 869226c25e854bc94bd422a59b38e38bc79e21992bcf3f9aacecc27ab7c7d33a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan's strategies
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Fang Yuan's strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

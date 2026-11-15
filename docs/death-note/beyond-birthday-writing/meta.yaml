@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: beyond-birthday-writing
+category: doc
+title: Beyond Birthday Writing
+alt_titles:
+- BB Writing Doc
+authors: []
+series:
+- death-note
+characters:
+- beyond-birthday
+tags:
+- writing-analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14Jstbxh18bGF1pVc83FimzL3ibcM3qHqtCj3lG-tMe8/edit?usp=drivesdk
+    google_id: 14Jstbxh18bGF1pVc83FimzL3ibcM3qHqtCj3lG-tMe8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 368
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 99946
+      sha256: 3ea72904cc810ffb6170855407da10525a4272f58b6c2aea322dcbd9328fe835
+    - format: docx
+      name: document.docx
+      bytes: 809176
+      sha256: 521b4dc7d2a735fda310a3d74fdecf13f30a4e41a701793353dba0c03cfdf082
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: BB Writing Doc
+- library: remastered
+  section: Death Note
+  character: Beyond Birthday
+  link_text: Beyond Birthday Writing
+  note: (Writing)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scheming-is-garbage
+category: doc
+title: Scheming is Garbage
+authors:
+- name: Aryan
+  source: doc-text
+series: []
+characters: []
+tags:
+- guide
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1VKdJqYWpI0EuAMA-mgyXzcaZyT_LcgBGqWhxHJpT7gk/edit?usp=drivesdk
+    google_id: 1VKdJqYWpI0EuAMA-mgyXzcaZyT_LcgBGqWhxHJpT7gk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1240
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 95415
+      sha256: 3e2e3a54682b0283c4d68a2e3e4edb58c10177656dbcf038d783aa65009f2607
+    - format: docx
+      name: document.docx
+      bytes: 1296627
+      sha256: 4b440c6fb974fcf7d2132067f7e0ad3b3b65422a59f8da3b92e346481929e8b0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Scheming is Garbage
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

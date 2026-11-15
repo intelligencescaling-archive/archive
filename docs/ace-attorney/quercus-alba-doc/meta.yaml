@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: quercus-alba-doc
+category: doc
+title: QUERCUS ALBA DOC
+alt_titles:
+- Quercus Alba SCD document
+authors: []
+series:
+- ace-attorney
+characters:
+- quercus-alba
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VOOGeVNKUWAnTmUmWLNzy8msVGJYDhnT8seYQHiYW0E
+    google_id: 1VOOGeVNKUWAnTmUmWLNzy8msVGJYDhnT8seYQHiYW0E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 32
+    words: 4954
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8737168
+      sha256: c6c53c2c755650da6ef25b1b2b8965748e779359a079ca955bbc9d7304e77f54
+    - format: docx
+      name: document.docx
+      bytes: 8101813
+      sha256: 8b156606e660b370b08e174b34ad351d6eb68148e49623d955d6a16177b388bb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: Quercus Alba SCD document
+- library: remastered
+  section: Ace Attorney
+  character: Quercus Alba
+  link_text: QUERCUS ALBA DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

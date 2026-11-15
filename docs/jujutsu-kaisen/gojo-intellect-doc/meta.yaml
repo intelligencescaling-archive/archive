@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gojo-intellect-doc
+category: doc
+title: Gojo Intellect Doc
+alt_titles:
+- Gojo Satoru Intellect Doc
+authors:
+- name: Robert
+  source: doc-text
+series:
+- jujutsu-kaisen
+characters:
+- satoru-gojo
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1VQwo37NfRiJhFtVDO-WYs5CQZTpuW7GpoVHW2_tX50M/edit?tab=t.0
+    google_id: 1VQwo37NfRiJhFtVDO-WYs5CQZTpuW7GpoVHW2_tX50M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 767
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 94573
+      sha256: 53a14479b9a4289d254c740271fba49a9a48d92b08d24d6ecdd25629017ddda0
+    - format: docx
+      name: document.docx
+      bytes: 9392
+      sha256: 86f93e883bd39a6e24af98682695ffbb5afb35ac9670b8224881082e423d896b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Gojo Satoru Intellect Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

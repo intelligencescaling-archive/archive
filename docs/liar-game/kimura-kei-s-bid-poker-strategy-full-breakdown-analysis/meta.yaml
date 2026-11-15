@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kimura-kei-s-bid-poker-strategy-full-breakdown-analysis
+category: doc
+title: Kimura Kei's Bid Poker strategy FULL BREAKDOWN analysis
+alt_titles:
+- Kimura Kei's Bid Poker Strategy
+- Kimura Kei Bid Poker Strategy
+authors: []
+series:
+- liar-game
+characters:
+- kimura-kei
+tags:
+- analysis
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1gg_gejMfgr4ks2CLMSAPE0Vl4xMAbwvnKAory_Ah-PQ/edit?tab=t.0
+    google_id: 1gg_gejMfgr4ks2CLMSAPE0Vl4xMAbwvnKAory_Ah-PQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 5419
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 427586
+      sha256: 61e289414c4374aacd96b88bd52d3b3443652019dd4e69e6cdb4ad434cf143ce
+    - format: docx
+      name: document.docx
+      bytes: 209847
+      sha256: c1556b6e77c79b4799e419f60bc01de736ced14442c35a99070671b495d3fd4f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Kimura Kei's Bid Poker Strategy
+- library: remastered
+  section: Liar Game
+  character: Kimura Kei
+  link_text: Kimura Kei Bid Poker Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

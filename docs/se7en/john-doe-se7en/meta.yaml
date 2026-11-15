@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-doe-se7en
+category: doc
+title: John Doe (Se7en)
+alt_titles:
+- John Doe Se7en Doc
+authors: []
+series:
+- se7en
+characters:
+- john-doe
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LLUUXgb99vwWCHbSM4TcrjoSCF5WU3uSASPDmnOM1Rc/edit?tab=t.0
+    google_id: 1LLUUXgb99vwWCHbSM4TcrjoSCF5WU3uSASPDmnOM1Rc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 64
+    words: 8736
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3366216
+      sha256: 89ddd8d6c50cbaa826301560dce81c3303d77673018f7ca61cc6e9f4ce4b9739
+    - format: docx
+      name: document.docx
+      bytes: 10995301
+      sha256: cce847d761ec97c2dbaec59fc54db240e2699743cddc5d46d21eb8fa061a4ac2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: John Doe Se7en Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

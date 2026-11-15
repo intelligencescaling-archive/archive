@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-pf-analysis
+category: doc
+title: Patrick Jane PF analysis
+alt_titles:
+- Patrick Jane Poker Feat Analysis
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/u/0/d/1459z3D8y_Ss4eRfXMZZxh-L_R6ZO1MbXA9sxk48pTUQ/mobilebasic
+    google_id: 1459z3D8y_Ss4eRfXMZZxh-L_R6ZO1MbXA9sxk48pTUQ
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1133
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5636271
+      sha256: aac314a487f1fe8af35f788771c14fbf6bf31258c3c07e5d787bba37024a1daa
+    - format: docx
+      name: document.docx
+      bytes: 3545790
+      sha256: c3837df5129021f2a5f392251c7f6c44d25738ff6dc50481020bc01eba9a51c9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane Poker Feat Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

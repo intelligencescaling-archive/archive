@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiyo-s-thinking-and-reasoning-feats-y2v1
+category: doc
+title: Kiyo's Thinking and reasoning feats (Y2V1)
+alt_titles:
+- Koji's feats in reasoning and thinking at Y2V1
+- Kiyo’s Thinking and reasoning feats (Y2V1)
+authors:
+- name: plasma
+  source: doc-text
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1OioDtuI5tAI8FAU0uC8bi8vjTdY1ChD3Kou0TMYkmac
+    google_id: 1OioDtuI5tAI8FAU0uC8bi8vjTdY1ChD3Kou0TMYkmac
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 4380
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 268589
+      sha256: 40d32a39868713083623fdbc507cc4c80d4a6bb47d6be29016c86d404c7f79c2
+    - format: docx
+      name: document.docx
+      bytes: 640770
+      sha256: b24e112a96ebf52b9e302c6bc11ed523b69703136cb022caafe61af1840acaf6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Koji's feats in reasoning and thinking at Y2V1
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Kiyo’s Thinking and reasoning feats (Y2V1)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

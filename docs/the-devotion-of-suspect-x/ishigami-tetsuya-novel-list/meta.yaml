@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ishigami-tetsuya-novel-list
+category: doc
+title: Ishigami Tetsuya novel list
+alt_titles:
+- Ishigami Tetsuya Novel feat list
+authors: []
+series:
+- the-devotion-of-suspect-x
+characters:
+- tetsuya-ishigami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1I9-wlE3ej745PaM8dwXjGmHax0SsR7gP0tDSmw31rr4
+    google_id: 1I9-wlE3ej745PaM8dwXjGmHax0SsR7gP0tDSmw31rr4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3942
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 169460
+      sha256: 529bb36820c3e06ff4d2f5a35d77f6f3de9ae8b14165998c397c498baa3fdadc
+    - format: docx
+      name: document.docx
+      bytes: 17740
+      sha256: f95b9141d2889e22a426d0a00222d7fde2799f3d73cec26c13ba1246b37dab41
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ishigami Tetsuya Novel feat list
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

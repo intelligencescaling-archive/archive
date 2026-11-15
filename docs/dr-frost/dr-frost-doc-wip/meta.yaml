@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dr-frost-doc-wip
+category: doc
+title: Dr. Frost Doc (WIP)
+alt_titles:
+- Dr. Frost 2
+authors:
+- name: Muaaz
+  source: doc-text
+- name: Chronos
+  source: doc-text
+series:
+- dr-frost
+characters:
+- nambong-baek
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1cKGA0YMN7_FCmXaWvWiX85GKPtoV0_jVyLzcUL9tFmo/edit?usp=drivesdk
+    google_id: 1cKGA0YMN7_FCmXaWvWiX85GKPtoV0_jVyLzcUL9tFmo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 15801
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 624282
+      sha256: 707eaebef603186a07ecdfd6982afba806a40eeb6669156e40da00184e05192c
+    - format: docx
+      name: document.docx
+      bytes: 460606
+      sha256: 3233293d37284d26ed9ec10849341d3d4ad16d14569cfa78572afb6883777235
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DR.FROST:'
+  link_text: Dr. Frost 2
+- library: remastered
+  section: Dr. Frost
+  character: Nambong Baek
+  link_text: Dr. Frost Doc (WIP)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

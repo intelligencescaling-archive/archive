@@ -1,0 +1,333 @@
+Solution of Bern's Game
+
+Published using Google Docs
+Report abuseLearn more
+
+Solution of Bern's Game
+Updated automatically every 5 minutes
+
+Battler's Solution of Bern's Game Document
+Solution of Bern's Game Document
+
+Written by Sieben. If you have any question/clarification, I'm on Discord as sieben_guts.
+Background info for non-Umineko readers
+Before we start with the doc, I will briefly talk about what you need to know to understand the context.
+
+In this Bern's game, there's the gamemaster and the player, the gamemaster creates the gameboard where the murder happens in a world, and the player tries to solve it. It's similar to a typical murder mystery, but there will be some rules.
+Battler and Beatrice are the only ones playing, and the Battler in the gameboard is inhrently different from the Battler in the Meta World playing the game. If it's confusing for you or you're non Umineko readers, just approach me, I will try to explain properly to you.
+
+1. Red Truth:
+Red Truths are true statements and anything said in red is a fact that can be presented by the gamemaster unquestionably without any evidence. Red can work as hints for the players to solve the mystery. it can also be used to restrict absurd theories which could go against detective fiction rules
+
+2. Blue Truth:
+Blue Truths are used by the players, and they are the proposed theories to the murder happening in the gameboard. (eg. how the murder happened) The gamemaster must counter the blue with red or the player would come closer to winning the game. Whatever is in blue must abide by the red truths stated.
+
+3, Purple Statements
+Purple Statements are new type of statement used in Bern's game, and they are statements which are considered as truths, unless stated by the murderer. This means the murderer can lie with Purple.
+
+Don't worry, I will add colour text accordingly, but putting manga panels will make the doc pretty busy, so I won't do that. The format will follow this
+
+"Akiyama is Strategy Goat" - Sieben
+
+This means the statement in red was said by me!
+The Rules:
+
+Premise 1: A culprit is defined as a murderer.
+Premise 2: A culprit is capable of lying.
+Premise 3: A culprit can lie about things other than their murders
+Premise 4: Anyone who is not a culprit speaks only truth
+Premise 5: No nonculprit will be an accomplice to a culprit
+Premise 6: A culprit commits their murders directly.
+Premise 7: A culprit does not die
+Premise 8: Death refers to Physical Death.
+Premise 9: A Culprit is among the introduced characters.
+Premise 10: There are no lies in the narration
+
+Characters TREE
+
+And before we start, if you're a non-Umineko reader, please look at this image. Remember the characters. Or at least have the image ready so that you can refer to it and not get lost, it will be important.
+
+The blue line characters are servants, and red line is the Ushiromiya Family, Dr. Nanjo is just a physician. And the red line shows parents and their child.
+
+Eg. Jessica is Kruass and Natsuhi's child. As for Maria, Rosa is a single mom.
+First Night
+
+October 5, 8:00 A.M.
+The slaughter of the first night begins at 8:00 A.M, where Gouda (Mansion's Servant) woke up and went to the dining room for duty, but the dining room was locked. And he met Kumasawa (Another servant) outside the dining room. Both of them are the first to discover the crime scene and opened the dining room.
+
+Premise 11: "The Dining Room was locked" - Gouda
+
+To make it clearer. In this case, it means there are two possible scenarios
+1. Gouda is telling truth > Door was locked when he woke up (He is innocent)
+2. Gouda is telling lie > Door wasn't locked when he woke up (He is murderer)
+
+This logic applies for every purple, since murderers can lie with purple, so please keep it in mind. Now, let's continue.
+
+Premise 12: "After opening the door with the master key, I found a most dreadful scene" - Gouda
+
+Premise  13: "Eva-Sama, Hideyoshi-Sama, Rudolf-Sama, Kyrie-Sama, and Genji-San were on the floor covered in blood" - Kumasawa
+
+Premise 14: "There was an immediate uproar, everyone gathered in the dining room" - Kruass
+(He says this at the crime scene)
+
+Premise 15: "All the children examined their parents" - Shannon
+
+Premise 16: "Mama was dead, and not just mama. I bet all the victims were killed instantly" - Maria
+
+Premise 17: "Dad and Mom were long gone… It was clear they had been murdered…" - Goerge
+
+Premise 18: "Dad and Kyrie-San were killed too! There's no way the could still be alive!" - Battler
+
+Premise 19: "Dr. Nanjou and I confimed that Genji-Sama has perished" - Kanon
+
+Premise 20: "They were Grusome deaths, indeed… No one would mistake the state of the bodies, at least of all me…" - Dr. Nanjou
+
+The survivors then investigated the dining room and there was no one hiding inside, no suspicious strangers were present. But the windows doors were all locked, meaning the rooms have been perfectly shut tight.
+
+This doesn't make sense since they are curious how the victims were locked inside, and how the killer escape the locked dining room.
+
+Premise 21: "We must suspect the servants with the Master Keys. Only the servants could have left the Dining Room and locked it after the murders" - Kruass
+
+Premise 22: "To prevent future trouble and misuse, I destroyed Genji's Master Key" - Natsuhi
+
+RECAP TIME!
+
+Gouda wakes up, sees the dining room locked and with Kumasawa, they open the dining room with the master key. And then they see the dead bodies, and for now, please just keep note of the purple statements so far.
+
+STOP! - said by Player Battler.
+
+Player Battler then proceed to try to confirm something with Bernkastel, the gamemaster.
+
+"First, about the keys. Is there anyway to lock the door from outside apart from the master keys" - Player Battler
+
+My interpretation is that since the gameboard is just starting, Player Battler wanted to reduce the complexity of the situation by confirming the existence of a way to lock the room from outside, or lack thereof.
+
+This is especially important because so far, the narrative is leading to suspecting the servants with masterkeys. If master keys weren't the only way to lock from outside, then it would become more complicated.
+
+Now, let's see Bernkatel's reply.
+
+Premise 23: "I will use Red, There is no way to lock or unlock any door from the outside except for the master keys. Of course, every door can be locked or unlocked by the latch on the inside" - Bernkastel
+
+"Shouldn't there be individual room keys beyond the Master Key" - Beatrice
+
+Which Bernkastel replies with
+
+Premise 24: "I've eliminated them in this case to keep the game from overly complex. There are no keys on this game board aside from the master keys" - Bernkastel
+
+Player Battler then further tried to narrow down the mystery by asking how many master keys are there.
+
+Premise 25: "Five, each servants possess one of them. At this point, Genji's key has been destroyed, so only four are left" - Bernkastel
+If you remember the characters tree, there are five servants, and now Genji is dead, and there is Natsuhi talking about destroying Genji's key.
+
+Premise 26: "Also, the master keys are always kept on their person. They cannot be stolen or given away, and no one aside from their owner can use them" - Bernkastel
+
+This means, only the servants can lock and unlock doors in this game.
+
+To recap again, innocents speak only truth, but murderer can lie with purple.
+
+Second Night
+The group returns to the room to discuss their next actions.
+By this point in time, all outside lines were down, and no one really had any alibi.
+
+Natsuhi and Krauss then left the room to speak to each other privately.
+
+However, even after a long time, both Natsuhi and Krauss never returned.
+
+Premise 27: "I called their room on the internal line, but they aren't picking up, even though it's been ringing and ringing" - Shannon
+
+The entire group then proceeds to head to Natsuhi's room.
+
+Jessica attempts to open the door, but it's locked
+
+Premise 28: "Ugh.. the door is locked" - Jessica
+
+Shannon then uses the Master key she possess to open the door, to only find the corpses of both Natsuhi and Krauss.
+
+Dr. Nanjou does a body check
+
+Premise 29: "It's no good… they're both already dead! Death was instant, I suspect…" - Dr. Nanjou
+
+Premise 30: "The windows are locked! Not again! So this room is locked up too, Dammit!!!" - Jessica
+
+Said locked windows are regarding the Natsuhi's room they just entered to find her and Kruass's corpses.
+
+Their next logical action was to suspect the servants since they had the master keys (via Premise 26)
+
+Premise 31: "Have no fear! In order to clear up the suspicion upon us, we were watching one another" - Gouda
+
+Premise 32: "That's right. We servants have been together ever since the first incident happened. Each one of us can verify the alibis of the other servants" - Shannon and Kanon
+
+Battler's next inference was how it did not make sense because if the servants were watching each others, nobody should have been able to commit those murders and locked the door.
+
+They then proceed to shut all the doors in the mansion shut by taping, so that nobody can get in or out of mansion anymore.
+
+Player Battler then proceed to ask Bern if they actually sealed the whole mansion and any form of egress, including the third-floor windows.
+
+Premise 33: "All of the windows in this game are either fixed shut or have metal bars that prevent entrance or exit. Therefore, if the front door and back door are sealed shut, so is the entire mansion effectively" - Bernkastel
+
+Player Battler response:
+
+"It would be easy to kill Natsuhi and Krauss, the culprit simply has to knock the door and get them to open it" - Player Battler
+
+"However, you can't lock it afterwards" - Player Battler
+
+This reasoning is still mainly due to Premise 31, 32 & 26. Only servants have the keys to lock them, and all of them have alibis.
+
+"But… it's still possible that all the servants are working together." - Player Battler
+
+Although they had alibis, it was still the servants, meaning if they all worked together, they could have still commited the murder and lock the door.
+
+Player Battler then propose a theory:
+
+"I have my suspicions about the victims of the first night. Among the victims, there could have been someone playing dead. And then after they successfully killed Kruass and Natsuhi, they could have locked it from inside and hid inside the room" (this is referring to the second night room, not first night)
+
+However, Bernkastel responds with
+
+Premise 34: " The culprit of the first night did indeed kill six. Also..The group sealed Natsuhi's room when they left it. The Culprit did not leave with them The tape seal on Natsuhi's room, the dining hall, and the mansion door will not be broken" - Bernkastel
+
+This means there's no trick like hiding in the room and sneaking out later.
+
+Fourth Night
+The group then moved to the guest house, trying to maintain watch over one another to be safe, however Shannon and Kanon went outside to take care of something.
+
+The rest then went out to look for them, only to find Shannon's corpse.
+
+Premise 35: "Shannon-San has passed away as well" - Dr. Nanjou
+
+Premise 36: "In the time between Shannon leaving and everyone gathering together to search for her… we all had the moments where we could have been alone" - Jessica
+
+Premise 37: "That's right, none of us have an alibi. We all could have done it" - Battler
+
+Premise 38: "George-Niisan couldn't kill Shannon…" - Jessica
+Jessica said this as George was crying about how he could never kill Shannon.
+
+Premise 39: Together with Shannon's death, both Shannon and Kanon has met physical death.
+
+Premise 40: Shannon and Kanon's Master Keys were left at the scene, and they were destroyed on the spot
+Fifth and Sixth night
+The two remaining master keys are now with Gouda and Kumasawa, they were locked inside in a closed environment with all locked windows and doors.
+
+George, Jessica and Battler now discuss about how someone could have hidden in the dining room for first night, but they actually searched everywhere during the first night.
+
+Battler then suggests a secret door, but Jessica replys with
+
+Premise 41: "There are no secret doors. This is my house. I would know it best of all" - Jessica
+
+They then proceed over to the servant's room, just to find Gouda and Kumasawa's corpse
+
+Premise 42: "Their wounds were instantly fatal" - Dr. Nanjou
+
+Premise 43: "Nobody has an alibi, yet again" - Battler
+
+They then talked about how their corpses' throats were slit open widely, and it would not have been possible for anyone to do that without getting blood on them.
+
+Premise 44: "None of the four cousins or Dr. Nanjou could have killed Gouda-San and Kumasawa-San…?" - Jessica
+
+Premise 45: "Nothing is open..! The guesthouse was perfectly shut tight" - George
+
+Perhaps the Culprit has a master key - Dr. Nanjou
+
+Premise 46: "There are no more master keys aside from Kumasawa San's and Gouda  San's!" - Battler
+
+Seventh & Eight Nights
+They then destroyed Kumasawa's and Gouda's keys meaning the guest house's defence should have been unbreakable.
+
+Premise 47: However, they found Dr. Nanjou's corpse near the front door, and the front door is still completely sealed.
+
+Premise 48: "He's dead… He was killed!" - Jessica
+
+Premise 49: "Even I can tell at a glance that he died instantly" - George
+
+Premise 50: "Even though the front door was perfectly selaed up" - Maria
+
+Premise 51: "Dr. Nanjou's throat was slit in the same way as the last two servants but none of us has bloodstains. None of the four cousins could have killed Dr. Nanjou" - Jessica
+
+The four cousins are the last four survivors, Jessica, Battler, George and Maria.
+
+Premise 52: Jessica then raged and ran away outside the house, and by the time George, Maria and Battler rushed after Jessica to find her, she's already dead.
+Jessica has died instantly and at the hands of another person. However, neither Battler, Maria or George could have killed her since all three of them were chasing after Jessica together.
+
+Premise 53: "The three of us could not have killed Jessica" - Maria
+
+Premise 54: "Maria Chan couldn't have killed anybody" - George
+
+Premise 55: "You couldn't kill an adult either, George-Oniichan. But a child or a teenager is another case" - Maria
+
+This is the end of the story of this game
+Solution of the Mystery
+
+Battler: "If you take this at face value, you would assume the culprit to be someone from the outside, but this mystery involves human as the guilty Party"
+
+Beatrice: "The trick must be possible by human hands, even if it looks impossible at  a glance"
+
+From now on, there will be conclusions, which will be used as premises later on, for that I will use this structure.
+
+Conclusion: "A Reasoning Statement Here" (Premise N)
+
+This means the conclusion will become a new premise to continue down the line of new conclusion. I will also color the Premise for visual purpose.
+At this point, I would suggest to to access the Premise doc via another device, or open in another tab as it will be easier to know what I am talking about
+
+Now, let's continue
+
+Premise: Anyone who is not a culprit speaks only truth (Premise 4) and No nonculprit will be an accomplice to a culprit (Premise 5)
+Conclusion 1: There is not any non-culprit accomplice who are matching their stories to the killer. It is impossible for someone to be falsifying an alibi to protect the killer
+
+Premise: A culprit commits their murders directly. (Premise 6) and A culprit does not die (Premise 7)
+Conclusion 2: This would mean no remote or indirect means of killing, like traps, and no killers doing a murderer, locking a room and committing suicide
+
+Premise: Death refers to Physical Death. (Premise 8)
+Conclusion 3: Any character who dies is immediately and permanently incapitated. Physical death is absolute and one has no way to live on.
+
+Premise: There are no lies in the narration (Premise 10) and The Culprit cannot be dead (Premise 7)
+Conclusion 4: Whoever is annouced dead by the narration cannot be the culprit
+
+Premise: Deaths of Jessica (Premise 52), Dr. Nanjou (Premise 47) and Shannon (Premise 39) were stated in the Narration
+Conclusion 5: Due to Conclusion 4 and the above premise, Shannon, Dr. Nanjou and Jessica are innocent.
+
+Premise: Shannon was involved in Physical Death (Premise 8 and Conclusion 3)  (Premise 39)
+Conclusion 6: Kanon-Kun is innocent
+
+Premise: With Dr. Nanjou's innocence (Conclusion 5), this means No one would mistake a dead body (Premise 20) is valid.
+Conclusion 7: This means the people Dr. Nanjou, Jessica, Shannon-Chan and Kanon-Kun has examnied are therefore innocent. (Via Conclusion 5 & 6)
+This is because non-culprit cannot lie via purple statement
+
+Premise: Dr. Nanjou examined Kruass and Aunt Natsuhi the second night (Premise 29), Shannon-Chan on the Fourth night (Premise 35),Gouda and Kumasawa-San on the fifth and sixth nights (Premise 42). On the first night, Kanon-Kun pronouced Genji-San's death (Premise 19)
+Conclusion 8: Therefore, we can confirm the deaths and innocence of Uncle Kruass, Aunt Natsuhi, Gouda-San Kumasawa-San, and Genji-San via Premise 7
+
+Premise: The children (George, Battler, Maria) survived and each has a possibility of being the culprit (Premise 15, 16+17+18)
+Conclusion 9: Without confirmation of the children's innocence, we cannot be certain of their parents' deaths. This is because any child (If they're culprit) can use purple statement to lie about their parents' deaths. (Via Premise 2 and 3)
+
+Premise: The servants are innocent (Conclusion 5,6,7,9) and innocents cannot be accomplice (Premise 5). Masterkeys are carried by the servants.
+Conclusion 10: Culprit cannot use the servants as an accomplice because they're innocent, meaning they also cannot use masterkeys as a way for their killing method.
+Premise: The culprit of the first night killed six (Premise 34). However, it wasn't specified that all six were killed on the first night, just that the culrpit killed six people.
+Conclusion 11: Because of the time issue, it is pssible that the culprit has killed only four on the first night and kills two on the second night. And the statement that culprit killed six in total will still be true. This means despite the locked room, the culprit could pretend to be dead on the first night.
+
+Premise: Battler, George, Maria couldn't have taken part in Guesthouse killing (Premise 38) or Jessica's killing (Via Premise 52's Narration)
+Conclusion 12: There must have two adult culprit pretending among the six dead people on the first night. This is possible due to Conclusion 11 (Only four could die and two could bepretending). Two Adult Culprit was concluded due to how they shut Natsuhi's room tight (Narration) and via Premise 33, the one adult can't escape Natsuhi's room to commit guesthouse+Jessica killing
+
+Meaning, one adult did the mansion killing and stayed in Natsuhi's room, while the other one did the guesthouse killing and Jessica Killing
+
+Now, Battler's Blue Truth comes
+
+There are 3 culprits, two parents and one child.
+Parent "A" did the dining room killing on the first night, and played dead along with Parent "B" while the child falsified their parents' deaths (Premise 15)
+Afer that, the child helped to get Kruass and Natsuhi to open the door so that Parent "A" could murder them.
+Parent "A" then hid inside after killing both Kruass and Natsuhi, however unable to escape due to Premise 34. (This is where Parent B comes into play)
+After getting Kruass and Natsuhi to open the door, the child could then go and murder Shannon on the fourth night.
+Parent "B" then escaped the mansion before they sealed the doors shut (Premise 33). Said Parent "B" also murdered from the fifth night onwards, for guesthouse and Jessica killings.
+Although the guesthouse was locked up, with the help of the child inside, it was possible for Parent B to get inside and commit the murder.
+Maria cannot be the culprit. Via Conclusion 12, there must be 2 parents culprits, and Maria only has Rosa as her parents. Therefore, to falsify two parents' deaths, there must be another child culprit.
+Because a culprit must be the murderer (Premise 6), and there's no chance for two child culprits to commit murder each, Maria must be innocent. This is because Shannon is the only possible victim who could have been killed by the child culprit.
+Because Maria is innocent, that cerifies Rosa's innocence as well (Premise 4)
+George cannot be the child culprit because the child culprit must kill Shannon, and that would contradicts Jessica's purple statement that George would kill Shannon (Premise 38). Via Conclusion 5, Jessica is innocent, therefore must be telling the truth.
+Because George is innocent, he cannot falsify his parents' deaths, that would make Eva and Hideyoshi innocent.
+Moreover, Maria stated that George could kill a minor (Premise 55) Both of Goerge's and Maria statments must either be true or false but because there cannot be two child culprits.
+
+These statements being "Maria can't kill anybody" (Premise 54) and "You couldn't kill an adult, only a minor" (Premise 55). Because it is impossible for George to kill Shannon due to the fact that Jessica, an innocent person said "George cannot kill Shannon" (Premise 38)
+
+It is also impossible for George to have killed Jessica via (Premise 53)
+Both George and Maria are innocents, so both their statements would be true.
+
+Ding Ding! That leaves us with Battler as the child culprit and Kyrie and Rudolf as the two parents culprit.
+
+Thanks for reading!

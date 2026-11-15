@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rot4k-akiyama
+category: doc
+title: ROT4K Akiyama
+alt_titles:
+- Akiyama ROT4K feats
+- Akiyama's ROT4K Feats
+authors:
+- name: Osbis
+  source: doc-text
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1vf75o81Zx0rDvVUURC2MzkYdMQXj-8sYMw-hlOF7VDY/edit?usp=drivesdk
+    google_id: 1vf75o81Zx0rDvVUURC2MzkYdMQXj-8sYMw-hlOF7VDY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 63
+    words: 5422
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5891871
+      sha256: 13c51bffac661a74da8c47b0d789b9f35caa6d7f0bdbf83bda364d84e2301de1
+    - format: docx
+      name: document.docx
+      bytes: 6896188
+      sha256: f3e484cc69ade6377abfdc9f39a3ff3948b2e485eba94820a91f6c92ec2efe14
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama ROT4K feats
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama's ROT4K Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

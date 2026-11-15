@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: administrator-wis-counter-side
+category: doc
+title: ADMINISTRATOR WIS (COUNTER;SIDE)
+alt_titles:
+- Administrator WIS
+authors: []
+series:
+- counter-side
+characters:
+- administrator
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1G1X1gdozIm5E7j12G1uM_qRNwBYj-kWpGnZmMnsG2Jk
+    google_id: 1G1X1gdozIm5E7j12G1uM_qRNwBYj-kWpGnZmMnsG2Jk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 8077
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2648189
+      sha256: 264fe63a0bda58390cd7da614bda0079a2ed0e316d0ca484640c9ff59fc56956
+    - format: docx
+      name: document.docx
+      bytes: 2389376
+      sha256: f40139fe56331d35047832be01e9309f59a2c092875ebe49c822bc5f27cf68ab
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Administrator WIS
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

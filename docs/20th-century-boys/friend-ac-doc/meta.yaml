@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: friend-ac-doc
+category: doc
+title: Friend AC Doc
+alt_titles:
+- Friend AC Feats
+authors: []
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1UNrDAO-w_CzpqzCCZLA6R0dXldrX7wD46LwwMrqBcJY/edit?tab=t.0
+    google_id: 1UNrDAO-w_CzpqzCCZLA6R0dXldrX7wD46LwwMrqBcJY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 831
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 455927
+      sha256: ded21105c9d603a5d09257f27bfe1a9e1d60d85e75b0a852e074d641de239d5b
+    - format: docx
+      name: document.docx
+      bytes: 1666742
+      sha256: 902922c5266deff1d9e646c0aca511bfeac26d3519d2f5981ef928bb6f64384d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Friend AC Feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: feats-project-year-2-volume-5
+category: doc
+title: Feats Project Year 2 Volume 5
+alt_titles:
+- Ayanokoji Leadership
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Zb3v7WMW_4x1NrYfKqgCLRrEtvl_dEa-0tEfxu528Ew
+    google_id: 1Zb3v7WMW_4x1NrYfKqgCLRrEtvl_dEa-0tEfxu528Ew
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1142
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 81758
+      sha256: 1befd28c4ae98912ed554ce572ebd649536a2d5ee58e9fcb279bf3db096db9f2
+    - format: docx
+      name: document.docx
+      bytes: 10324
+      sha256: 63c4385827ecb39b5d994d8e3b01b031add7bad38021acb9a7b6eeb7dd2a1f36
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ayanokoji Leadership
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Feats Project Year 2 Volume 5
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ozymandias-doc
+category: doc
+title: Ozymandias doc
+alt_titles:
+- Ozymandias
+authors:
+- name: Banesmanifold
+  source: doc-text
+series:
+- dc-comics
+characters:
+- ozymandias
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18Nio36JuluqHAKOVQoXlF6RxLQVyBfzJGvWSgt0YKt0
+    google_id: 18Nio36JuluqHAKOVQoXlF6RxLQVyBfzJGvWSgt0YKt0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 2068
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 539058
+      sha256: 9013953da71472457d437cdf7038c5ab960760410f72f1510e85d60d70df452d
+    - format: docx
+      name: document.docx
+      bytes: 2597181
+      sha256: f9d2671620890442ab8a1bf67c4b395193c9b2806ebc1a1fec1c0ed7430d3cc9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DC COMICS/MOVIES:'
+  link_text: Ozymandias
+- library: remastered
+  section: DC Comics | DC Expanded Universe
+  character: Ozymandias
+  link_text: Ozymandias doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

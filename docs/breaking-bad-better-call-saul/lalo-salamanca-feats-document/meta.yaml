@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lalo-salamanca-feats-document
+category: doc
+title: Lalo Salamanca | Feats Document
+alt_titles:
+- Lalo Salamanca SCD document
+authors: []
+series:
+- breaking-bad-better-call-saul
+characters:
+- lalo-salamanca
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1gmdkekWnOA3ORueA9cymiBDdiwApfsMIBuQbLxxceFA/edit?usp=drivesdk
+    google_id: 1gmdkekWnOA3ORueA9cymiBDdiwApfsMIBuQbLxxceFA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 43
+    words: 14556
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7886190
+      sha256: 70ac99f452ff6921e3c1ee40c6e55e5119347a930d7191b1f36a69d2b92affbc
+    - format: docx
+      name: document.docx
+      bytes: 7781483
+      sha256: b20b6ed86ea7ed607ba6f0c662f0e0e4d5db2ab93386f5e8be68cd355359f8e9
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'BCS + BB:'
+  link_text: Lalo Salamanca SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

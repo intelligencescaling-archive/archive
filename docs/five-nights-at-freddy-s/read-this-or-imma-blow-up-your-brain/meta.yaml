@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: read-this-or-imma-blow-up-your-brain
+category: doc
+title: Read this or Imma blow up your brain
+alt_titles:
+- Another Doc about Dittophobia Afton
+- Another Dittophobia Afton Doc
+- Dittophobia William Afton Document
+authors: []
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1bQEU3Q144lBei6Nno4_BzXrn6w1oTMYvwUBI32heiog
+    google_id: 1bQEU3Q144lBei6Nno4_BzXrn6w1oTMYvwUBI32heiog
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 3953
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 114797
+      sha256: f013e0f2edfbd2343100b2f722dd1e9f18800649ebb9ccbc371a1911c6571890
+    - format: docx
+      name: document.docx
+      bytes: 15748
+      sha256: 550b7a0dbfc4b4bc7be77329f4766d9d802e37de137bd2e35704bf65efa20769
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Another Doc about Dittophobia Afton
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Dittophobia Afton Doc
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: William Afton
+  link_text: Dittophobia William Afton Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

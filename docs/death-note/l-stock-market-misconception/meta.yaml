@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-stock-market-misconception
+category: doc
+title: L Stock Market Misconception
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: http://drive.google.com/file/d/1WSZyd52CDxIxGq6TEYm8YPNfsaEdbzBi/view?usp=sharing
+    google_id: 1WSZyd52CDxIxGq6TEYm8YPNfsaEdbzBi
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 758
+    files:
+    - format: pdf
+      name: L Stock Market Misconception.pdf
+      bytes: 324150
+      sha256: 0e2e9bc489a4b71847a737f9aa53f1218ce7ff0f3e519cbd9fb91463a14dec80
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: L Stock Market Misconception
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

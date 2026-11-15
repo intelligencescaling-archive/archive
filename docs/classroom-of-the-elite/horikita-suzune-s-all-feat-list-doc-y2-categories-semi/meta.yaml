@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: horikita-suzune-s-all-feat-list-doc-y2-categories-semi
+category: doc
+title: Horikita Suzune's all Feat List Doc (Y2 Categories) (semi-finished)
+alt_titles:
+- Horikita Suzune SCD Feat List Doc
+- Horikita Suzune’s all Feat List Documentary (Y2) (started)
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+tags:
+- feats
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1_1od6OgaiE3q3C6MWfgGtVppOyog78K5D_gu8euUdpU/edit?usp=sharing
+    google_id: 1_1od6OgaiE3q3C6MWfgGtVppOyog78K5D_gu8euUdpU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 543
+    words: 137229
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9859741
+      sha256: 4e292dadaead31f23d6cd285daab9074f2ce8fc6cb4f08a28cdb52830e375d35
+    - format: docx
+      name: document.docx
+      bytes: 5762719
+      sha256: 75348259822c9bd8680914c73f2c9d62de0dc9223dd0053fd83d71f6fd8ae261
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Horikita Suzune SCD Feat List Doc
+  note: (year 2)
+- library: remastered
+  section: Classroom of the Elite
+  character: Suzune Horikita
+  link_text: Horikita Suzune’s all Feat List Documentary (Y2) (started)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: daybit-sem-void
+category: doc
+title: Daybit Sem Void
+authors:
+- name: Nino_IQ
+  source: doc-text
+- name: Yusha]
+  source: doc-text
+series:
+- fate
+characters:
+- daybit-bluebook
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1eKTaHYGDijaKCJ1wHdMej8RdfEo-5_bNzR0XKbO4tAI
+    google_id: 1eKTaHYGDijaKCJ1wHdMej8RdfEo-5_bNzR0XKbO4tAI
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 4523
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10609395
+      sha256: 8988dbb71a966e60a6771d82dd7b27aff10d8f5c6fda600ded44ed0a3eb8ea7c
+    - format: docx
+      name: document.docx
+      bytes: 9344309
+      sha256: 0717a348cbc7814e839a3a4709a488110c82778b9c766ff24536b680327d884a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Daybit Sem Void
+  note: (not finished)
+- library: remastered
+  section: Fate
+  character: Daybit Bluebook
+  link_text: Daybit Sem Void
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

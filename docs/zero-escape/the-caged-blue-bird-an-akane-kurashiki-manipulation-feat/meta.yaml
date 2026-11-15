@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-caged-blue-bird-an-akane-kurashiki-manipulation-feat
+category: doc
+title: 'The Caged Blue Bird: An Akane Kurashiki Manipulation Feat'
+alt_titles:
+- 'Akane Kurashiki: The Caged Blue Bird feat'
+authors: []
+series:
+- zero-escape
+characters:
+- akane-kurashiki
+tags:
+- feats
+- manipulation
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1LfhK3owJgFzBjsPEJZghVC8TZ6tL3FNfnzQL3ArxrIo/edit?usp=drivesdk
+    google_id: 1LfhK3owJgFzBjsPEJZghVC8TZ6tL3FNfnzQL3ArxrIo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 44
+    words: 5359
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 17552191
+      sha256: 0a58b8646f5ce611cbd956576154e092a9def89dce3c02fe9fbd504ef791d73b
+    - format: docx
+      name: document.docx
+      bytes: 23646145
+      sha256: ebe98c99edac7a2729612147cf6aa2e57670784381dd8c57ae5d914b4c09c38d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: 'Akane Kurashiki: The Caged Blue Bird feat'
+- library: remastered
+  section: Zero Escape
+  character: Akane Kurashiki
+  link_text: 'The Caged Blue Bird: An Akane Kurashiki Manipulation Feat'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

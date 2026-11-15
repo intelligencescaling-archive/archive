@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: essential-archie-sonic-scale
+category: doc
+title: Essential Archie Sonic Scale
+authors: []
+series:
+- sonic-the-hedgehog
+characters: []
+variant: Archie Comics
+tags:
+- wis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1_u2erptBemfxR3blScT-eqKFxrmLzzLt86OtH9yI-i4/mobilebasic#heading=h.is7i0oy25uub
+    google_id: 1_u2erptBemfxR3blScT-eqKFxrmLzzLt86OtH9yI-i4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 84
+    words: 1964
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 132777450
+      sha256: aecdf8e495c39e1b342107fcc131c6189b1f065a03cb5ddb15c1aa74906faddb
+    - format: docx
+      name: document.docx
+      bytes: 128166591
+      sha256: cd54c75911fe5a0ca581464028b45b27b83a1b5f9caf740cd963027f6a272c85
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Essential Archie Sonic scale
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

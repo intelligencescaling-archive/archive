@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: syobai-hashimoto-s-doc
+category: doc
+title: Syobai Hashimoto's Doc
+alt_titles:
+- syobai
+- Syobai Hashimoto’s Doc
+authors:
+- name: Neffy
+  source: doc-text
+- name: Yusha
+  source: doc-text
+- name: Kokichi
+  source: doc-text
+series:
+- danganronpa
+characters:
+- syobai-hashimoto
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Rk34VjscH3SWWpyqN3pawtW-DUieM_71Hh0VYFxIRNs
+    google_id: 1Rk34VjscH3SWWpyqN3pawtW-DUieM_71Hh0VYFxIRNs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 13356
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 613676
+      sha256: cb10046785dc03baaea04135995e84c912597b9aafe4942d8f788d5b2f65d2cd
+    - format: docx
+      name: document.docx
+      bytes: 1657431
+      sha256: a666e4c586828f93cf824ccd8f389cecaeecb5650bd23e62eae9935f3c1fac0a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: syobai
+- library: remastered
+  section: Danganronpa
+  character: Syobai Hashimoto
+  link_text: Syobai Hashimoto’s Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

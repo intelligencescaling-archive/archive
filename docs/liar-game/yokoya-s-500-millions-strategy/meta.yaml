@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-s-500-millions-strategy
+category: doc
+title: Yokoya's 500 millions strategy
+alt_titles:
+- Yokoya's 500 million yen strategy
+authors: []
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1e5UQ2TC5Pb5UCjgl_OLMG63u-uYfRhLgHwCpSle0zkM/edit?usp=drivesdk
+    google_id: 1e5UQ2TC5Pb5UCjgl_OLMG63u-uYfRhLgHwCpSle0zkM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 9686
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 392541
+      sha256: ccf7e8225b71304a17b9c011785aa9f62ba5a9015b1e4a5d6edf710e6dd415c7
+    - format: docx
+      name: document.docx
+      bytes: 345915
+      sha256: 430c9e7528f22f3b91fe98b280aa7d8d3372b83b484a210cfe66cb69d0ad7294
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Yokoya's 500 million yen strategy
+- library: remastered
+  section: Liar Game
+  character: Yokoya Norihiko
+  link_text: Yokoya's 500 millions strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: miyukii-inheritance-game-feat
+category: doc
+title: MIYUKII INHERITANCE GAME FEAT
+alt_titles:
+- Miyuki inheritance Game feat
+authors: []
+series: []
+characters:
+- miyuki
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1s8kfUarv_ESsYyv9djMCw3M3HXFcYdQm4uWasjfxLj8/edit?usp=drivesdk
+    google_id: 1s8kfUarv_ESsYyv9djMCw3M3HXFcYdQm4uWasjfxLj8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1327
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 265648
+      sha256: f38f50dfb15abe577731ef9ebed3aef2f723b3a49cfb45c865d0c21d9d5eaa72
+    - format: docx
+      name: document.docx
+      bytes: 196171
+      sha256: 2781d4607ed5d341d6cd20284aa336e315cfdcdf9e036b3eab5b51ed71e8c2b8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Miyuki inheritance Game feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

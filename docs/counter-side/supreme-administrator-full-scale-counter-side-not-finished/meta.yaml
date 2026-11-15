@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: supreme-administrator-full-scale-counter-side-not-finished
+category: doc
+title: Supreme Administrator Full-Scale (Counter;side) NOT FINISHED
+alt_titles:
+- supreme administrator full-scale doc
+authors: []
+series:
+- counter-side
+characters:
+- supreme-administrator
+tags:
+- fsiq
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1pVkQWWdyREuOB5AhU4d0sa9ek94z9iIFW0cLV9gx1to/edit?usp=drivesdk
+    google_id: 1pVkQWWdyREuOB5AhU4d0sa9ek94z9iIFW0cLV9gx1to
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 144
+    words: 54120
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3104405
+      sha256: 511b0587d9c4242bd76faa4dee5dacac944dbd763fbf36cbd32e2f5b558cfc54
+    - format: docx
+      name: document.docx
+      bytes: 3142543
+      sha256: 92c19c5c886000aa24150f9877467032ac97ab99f5b40dfe183ed6ad05df8bc2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: supreme administrator full-scale doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

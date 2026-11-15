@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-root-of-a
+category: doc
+title: Akiyama (Root of A)
+alt_titles:
+- Akiyama Shinichi Root of A
+authors: []
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1pDatfBT_b2Q0V-u3MjXtIRNFVSvhK8JL4UwP9ptoj28/edit?tab=t.0
+    google_id: 1pDatfBT_b2Q0V-u3MjXtIRNFVSvhK8JL4UwP9ptoj28
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 836
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3918079
+      sha256: 8e8980b0b1fbf806479056deba6d62edb8cd16d8eeec0402fe73afd2702f0572
+    - format: docx
+      name: document.docx
+      bytes: 2969948
+      sha256: 17553b3cbb1ece3f91ece7e527f319d19d565fe0f967295ab930ecb2aa0e8b5c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'LIAR GAME:'
+  link_text: Akiyama Shinichi Root of A
+- library: remastered
+  section: Liar Game
+  character: Akiyama Shinichi
+  link_text: Akiyama (Root of A)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: freddys-necronomicon-obtainment-no-plan-fan-theory
+category: doc
+title: Freddy’s Necronomicon Obtainment (NO) Plan (FAN THEORY/INTERPRETATION)
+alt_titles:
+- Freddy Krueger Necronomicon Obtainment
+authors:
+- name: Bittus
+  source: doc-text
+series:
+- a-nightmare-on-elm-street
+characters:
+- freddy-krueger
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IO_3b9JXWxWC1a0VR27U71RVgIKT_VOM2Toi1pdJKcM
+    google_id: 1IO_3b9JXWxWC1a0VR27U71RVgIKT_VOM2Toi1pdJKcM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 34
+    words: 8784
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1631079
+      sha256: 99c328e73a061d82ccccbf19dc087c50160fe3a09d56112d716e8a0f0b71ec6e
+    - format: docx
+      name: document.docx
+      bytes: 3971848
+      sha256: 6d8e5f82f388bd9ce8e08200bf5c200ab01425c77919d8ebb3ee38a8abe47b6a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Freddy Krueger Necronomicon Obtainment
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

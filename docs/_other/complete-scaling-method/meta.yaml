@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: complete-scaling-method
+category: doc
+title: Complete Scaling Method
+authors: []
+series: []
+characters: []
+tags:
+- scaling-system
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1zKpjoAFf1yb-geuBFx3YvrrSlS5QTJ5u9N5j2AJV01s/edit?usp=drivesdk
+    google_id: 1zKpjoAFf1yb-geuBFx3YvrrSlS5QTJ5u9N5j2AJV01s
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 6186
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 336452
+      sha256: 8104bb45c6dd3045b32c410f6342071e46b4f35f3723d40729997d73fd703793
+    - format: docx
+      name: document.docx
+      bytes: 514939
+      sha256: 6584ae80641316abb142b4f73d1b7b25d1f1cfd219680e629549b7c136895bf8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Complete Scaling Method
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

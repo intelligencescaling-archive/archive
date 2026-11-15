@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scheming
+category: doc
+title: SCHEMING
+alt_titles:
+- Scheming Document
+authors:
+- name: Luga
+  source: doc-text
+series: []
+characters: []
+tags:
+- guide
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Nhy1h9C-juesJr1K77scxHF1vEpQtsBn6xBzUfNpo6A/edit?usp=drivesdk
+    google_id: 1Nhy1h9C-juesJr1K77scxHF1vEpQtsBn6xBzUfNpo6A
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 1606
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 135965
+      sha256: 6c79aa85d15fbcf4e7917ede707196e577093924b5de1a6bb4aa37aa869fcc9f
+    - format: docx
+      name: document.docx
+      bytes: 339615
+      sha256: 61071dc0251ac361afb5f8c42122f3d1ec5f952812ed99ed7bf5422696d7fec3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Scheming Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-s-decade-long-plan
+category: doc
+title: Baku's decade-long plan
+alt_titles:
+- Baku’s decade long plan
+authors: []
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1UKQ2SkvOiJ_gg2ABvaKNccbtx0F48MHM
+    google_id: 1UKQ2SkvOiJ_gg2ABvaKNccbtx0F48MHM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 24
+    words: 5911
+    files:
+    - format: pdf
+      name: Baku's decade long plan.pdf
+      bytes: 3424531
+      sha256: 0e16048ee86876072ef3de56b8ac12cc0dea2493841c24aff79714712cf902f8
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'USOGUI:'
+  link_text: Baku's decade-long plan
+- library: remastered
+  section: Usogui
+  character: Baku Madarame
+  link_text: Baku’s decade long plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

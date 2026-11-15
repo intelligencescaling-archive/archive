@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joes-plan-with-nadia-and-edward-fully-explained
+category: doc
+title: Joes plan with Nadia and Edward fully explained
+authors:
+- name: Jagger
+  source: doc-text
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1rK7GB-wxKWQACk29i88bWl6RjQSV9IO2YgGKITNG2nU/edit?usp=drivesdk
+    google_id: 1rK7GB-wxKWQACk29i88bWl6RjQSV9IO2YgGKITNG2nU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1508
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 955576
+      sha256: fa58545dbc5026b2f36682e31d5fbce647338b7c71ef820f3e9be4285d238573
+    - format: docx
+      name: document.docx
+      bytes: 4329509
+      sha256: 6f782fa6c3a4ce3f28dbe648b5f674e04d850308efffd942b1c7f0f6eb8cffd0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Joes plan with Nadia and Edward fully explained
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

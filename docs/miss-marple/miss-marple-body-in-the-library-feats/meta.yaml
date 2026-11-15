@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: miss-marple-body-in-the-library-feats
+category: doc
+title: Miss_Marple_Body_in_the_Library_Feats
+alt_titles:
+- Another Miss Marple doc
+authors: []
+series:
+- miss-marple
+characters:
+- jane-marple
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ohs6RnEs-kJ8XVeXpJKEo-CecP6Dgf8DZcoK1f_Wqqk/edit?usp=drivesdk
+    google_id: 1ohs6RnEs-kJ8XVeXpJKEo-CecP6Dgf8DZcoK1f_Wqqk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 37
+    words: 16238
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7471360
+      sha256: 91fbfa29a2dc3c8f776d07fd7d7d4acda7f5b33c89cc8838664fe4f2482d8163
+    - format: docx
+      name: document.docx
+      bytes: 7686726
+      sha256: f3523675d2725701f02664042dcf55daa57648546a21edee2d0e8fa2706196a8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Miss Marple doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

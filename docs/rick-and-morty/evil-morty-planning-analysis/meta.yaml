@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: evil-morty-planning-analysis
+category: doc
+title: Evil Morty planning analysis
+alt_titles:
+- Evil Morty planning
+authors:
+- name: Mrnotme
+  source: doc-text
+series:
+- rick-and-morty
+characters:
+- evil-morty
+tags:
+- analysis
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1FMgo79WbLnYaS7jfxDZNF14VPWUMUYyuPgWRJc25WVc
+    google_id: 1FMgo79WbLnYaS7jfxDZNF14VPWUMUYyuPgWRJc25WVc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 17
+    words: 5673
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3588299
+      sha256: a8d19e61c3ed56e81d1969d74e799b12726361a882fdd972a9eceba6c5ca6bd9
+    - format: docx
+      name: document.docx
+      bytes: 3953322
+      sha256: 8dd4ae9ac28d5ed96dce3bde1118fb2c6245a93b1b34483be839194bf4837927
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Evil Morty planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

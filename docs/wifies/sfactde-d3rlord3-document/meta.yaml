@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sfactde-d3rlord3-document
+category: doc
+title: SFACTDE D3rlord3 Document
+alt_titles:
+- D3rLord3 SFACTDE Document
+authors: []
+series:
+- wifies
+characters:
+- d3rlord3
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1CIeiJsFzpomCBuxWWC9a-aJLuHyRd4rWf6SigomVnaw/edit?usp=drivesdk
+    google_id: 1CIeiJsFzpomCBuxWWC9a-aJLuHyRd4rWf6SigomVnaw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 1977
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6972940
+      sha256: 75e077cd63ba4693b2347d3483517b507bf525639a56078b7bbd02f339d6971d
+    - format: docx
+      name: document.docx
+      bytes: 6140084
+      sha256: 8be6f6648d9aac43a0513f0a525d7ee8cdfd4b2e890d36b6d2d30c621f389c00
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: D3rLord3 SFACTDE Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

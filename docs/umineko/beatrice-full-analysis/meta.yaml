@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: beatrice-full-analysis
+category: doc
+title: Beatrice Full Analysis
+authors:
+- name: Pizzus
+  source: doc-text
+series:
+- umineko
+characters:
+- beatrice
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Y7trof6JCNYWQ2k-nM5Js-VsD79SDhLwaEw2hNyC7JY
+    google_id: 1Y7trof6JCNYWQ2k-nM5Js-VsD79SDhLwaEw2hNyC7JY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 264
+    words: 40780
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 141836559
+      sha256: 3c423b68a333d096779809500aaa108c40f12f199ee133755ab74324fe3046d2
+    - format: docx
+      name: document.docx
+      bytes: 122643461
+      sha256: e10eab30413b55278b7515728b5d2f9dae125ec520cec3d91fd9d0a22e3a7a9e
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Beatrice Full Analysis
+- library: remastered
+  section: Umineko
+  character: Beatrice
+  link_text: Beatrice Full Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-feats-evaluation
+category: doc
+title: Patrick Jane [Feats Evaluation]
+alt_titles:
+- PJ 9
+authors: []
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1YHQzQQNpnjZ5oi_kvVCxgli4cdjjUsZBN7R1wbnvXPI
+    google_id: 1YHQzQQNpnjZ5oi_kvVCxgli4cdjjUsZBN7R1wbnvXPI
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'THE MENTALIST:'
+  link_text: PJ 9
+- library: remastered
+  section: The Mentalist
+  character: Patrick Jane
+  link_text: Patrick Jane [Feats Evaluation]
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - language

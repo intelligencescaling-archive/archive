@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: structure-of-dante-s-hell
+category: doc
+title: Structure of Dante's hell
+authors:
+- name: LLA
+  source: doc-text
+series:
+- the-divine-comedy
+characters: []
+tags:
+- cosmology
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GuG23w6avki_ydtbA0DnEPG4c0yYsqqWhJWyf3IyTqo
+    google_id: 1GuG23w6avki_ydtbA0DnEPG4c0yYsqqWhJWyf3IyTqo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 4721
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 386772
+      sha256: aa62c9484543bd864aae49a571c86c37be41b9e1f0f3995ca9a0f304cbfc554f
+    - format: docx
+      name: document.docx
+      bytes: 234830
+      sha256: 6b547885ef59fd34edf4570a81471831ee834d48160ef6b0d87b5ae80c5f434c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: structure of Dante's Hell
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

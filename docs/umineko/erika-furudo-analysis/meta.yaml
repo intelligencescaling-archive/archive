@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: erika-furudo-analysis
+category: doc
+title: Erika Furudo Analysis
+authors:
+- name: Pizzus
+  source: doc-text
+series:
+- umineko
+characters:
+- erika-furudo
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1V9grx5FFBgTsgYCvFjzLbk0ty2cK8qOkCNeI4eWUTB4
+    google_id: 1V9grx5FFBgTsgYCvFjzLbk0ty2cK8qOkCNeI4eWUTB4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 29
+    words: 5189
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 781869
+      sha256: d484d562a908c6f2a29802e318f22a32934ae4247f59f21f732359bec5afa7f3
+    - format: docx
+      name: document.docx
+      bytes: 1099117
+      sha256: e046c39ab4290dd2b30ec2ca8a363490249133968e23d527af1c9f0b79c6df76
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Erika Furudo analysis
+- library: remastered
+  section: Umineko
+  character: Erika Furudo
+  link_text: Erika Furudo Analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

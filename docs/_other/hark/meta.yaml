@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hark
+category: doc
+title: hark
+alt_titles:
+- Hark's Change Of Heart Plan
+authors: []
+series: []
+characters:
+- hark
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1dLjtwZ-szjRG1MmvSviF_b9LHOyYnt2jS6WBaWkGbE8/edit?usp=drivesdk
+    google_id: 1dLjtwZ-szjRG1MmvSviF_b9LHOyYnt2jS6WBaWkGbE8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1799
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 63681
+      sha256: 847ed646718373a98d5b90c5e8458571dd5d7a3addfd7e120a016c4a4ec1618a
+    - format: docx
+      name: document.docx
+      bytes: 11000
+      sha256: 84067c328de6f38a62ae464d0247d4bb58768e0e89cf557a465fceaabccdc1b1
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hark's Change Of Heart Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

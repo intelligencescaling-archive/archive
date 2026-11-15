@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yumeko-s-tod-strategy
+category: doc
+title: Yumeko's ToD Strategy
+alt_titles:
+- yumeko ToD strategy
+authors:
+- name: Cento
+  source: doc-text
+- name: Hayatoz
+  source: doc-text
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1TpsxG_qwLsNMc_SA1J4HOBVZFWAbkrfuNzKWjLQioZc
+    google_id: 1TpsxG_qwLsNMc_SA1J4HOBVZFWAbkrfuNzKWjLQioZc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 1410
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 248166
+      sha256: 02518eb10cf3bc1f36da9eff28f94b030c2284465f8cf9656df193cc73532d13
+    - format: docx
+      name: document.docx
+      bytes: 842442
+      sha256: 29733a6e0ee84ef7516bec2c17774829eb23200a848c6635c1a6f75a0a888a9c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: KAKEGURUI
+  link_text: yumeko ToD strategy
+- library: remastered
+  section: Kakegurui
+  character: Yumeko Jabami
+  link_text: Yumeko's ToD Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

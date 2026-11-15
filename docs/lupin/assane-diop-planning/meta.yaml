@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: assane-diop-planning
+category: doc
+title: ASSANE DIOP PLANNING
+alt_titles:
+- Assane Diop Planning doc
+authors: []
+series:
+- lupin
+characters:
+- assane-diop
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1ZrDu61hF50FT5CQLaYDyGR6rJdmqdYKBQhb4B4G78rE/edit?usp=drivesdk
+    google_id: 1ZrDu61hF50FT5CQLaYDyGR6rJdmqdYKBQhb4B4G78rE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 3580
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3483107
+      sha256: 5360ae8cb9f955ae289816fc5e6c37aa68847c52e31f6e8c25a4631593f115d8
+    - format: docx
+      name: document.docx
+      bytes: 4330655
+      sha256: 5a0efb3883dc1c619adcadc895665765964f843774a70d94254165cf73c04efa
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Assane Diop Planning doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

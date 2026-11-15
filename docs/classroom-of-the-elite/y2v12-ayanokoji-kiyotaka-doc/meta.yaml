@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: y2v12-ayanokoji-kiyotaka-doc
+category: doc
+title: Y2V12 AYANOKOJI KIYOTAKA DOC
+alt_titles:
+- Ayanokoji 1
+- Y212 AYANOKOJI KIYOTAKA DOC
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1n_u94M-xbLf0kVXRYezKTeFqwHe5pDqn-gHMQCJ4jNU
+    google_id: 1n_u94M-xbLf0kVXRYezKTeFqwHe5pDqn-gHMQCJ4jNU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1129
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 51943
+      sha256: 6a6859bab6f647d84bb32cec3ca42085b81ddf947816d1541094dd96464a31be
+    - format: docx
+      name: document.docx
+      bytes: 327566
+      sha256: 914105908df95ba2fbf1cacff8db634403c7651f5505d296f0baa6499a8bcafd
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Ayanokoji 1
+- library: remastered
+  section: Classroom of the Elite
+  character: Kiyotaka Ayanokoji
+  link_text: Y212 AYANOKOJI KIYOTAKA DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: movies-light-potato-chip-feat
+category: doc
+title: Movies Light Potato Chip Feat
+alt_titles:
+- TLN Light potato chip feat
+authors:
+- name: XDwasGone
+  source: doc-text
+series:
+- death-note
+characters:
+- light-yagami
+variant: Change the World
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1bA-af0pPtEZKOTMx2hpkcwZnm9Qx5p4DJk9gbg_wg14/edit?usp=drivesdk
+    google_id: 1bA-af0pPtEZKOTMx2hpkcwZnm9Qx5p4DJk9gbg_wg14
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 6
+    words: 1295
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7739454
+      sha256: c85a8cbe8fe76125d52e422277554ddbb778b999f8ae700c14f094ffff09ab64
+    - format: docx
+      name: document.docx
+      bytes: 6652867
+      sha256: 1ad4a4ab2bc326a9316f168e0094171f53f0047f92d4b2aa1a5be45507a7cc52
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: TLN Light potato chip feat
+- library: remastered
+  section: Death Note
+  character: Light Yagami - Change the World
+  link_text: Movies Light Potato Chip Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

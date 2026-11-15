@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-powerful-is-star-butterfly
+category: doc
+title: How powerful is Star Butterfly
+authors: []
+series:
+- star-vs-the-forces-of-evil
+characters:
+- star-butterfly
+tags:
+- wis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-R3Tj29Q_ECq-jiEaBDT5kTrC3UClXoEmzTg6qDBBuc/edit?tab=t.0
+    google_id: 1-R3Tj29Q_ECq-jiEaBDT5kTrC3UClXoEmzTg6qDBBuc
+  capture:
+    status: export-blocked
+    date: '2026-11-15'
+    files: []
+    missing:
+      pdf: HTTP 401
+      docx: HTTP 401
+      txt: HTTP 401
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: How powerful is Star Butterfly
+  note: (WIS)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

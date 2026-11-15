@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sparkle-depersonalization-feat
+category: doc
+title: Sparkle Depersonalization Feat.
+alt_titles:
+- Sparkle Depersonalization Feat
+authors:
+- name: Calcu
+  source: doc-text
+series:
+- honkai-star-rail
+characters:
+- sparkle
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10cP3rwS7pVIeA2ly-jnC5FnlNJRp1uu322GWDhZ8Vi4
+    google_id: 10cP3rwS7pVIeA2ly-jnC5FnlNJRp1uu322GWDhZ8Vi4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 6704
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4135176
+      sha256: 86bbd1c918d76e55641b12a66769b2614dc749d93abe09b77f77c6d3c1aec772
+    - format: docx
+      name: document.docx
+      bytes: 5099207
+      sha256: ca430d62398cdb6c6beb764b62191b2f5572c980380ebd47d0b52fb52101459a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Sparkle Depersonalization Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

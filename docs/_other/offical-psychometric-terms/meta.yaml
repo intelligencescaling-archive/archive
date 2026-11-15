@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: offical-psychometric-terms
+category: doc
+title: Offical Psychometric terms
+alt_titles:
+- SCD Categories Doc 8
+authors: []
+series: []
+characters: []
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1FWE7-hnedG2zPGoaB91VehZyQAXmzuui22xtIbPaZt4
+    google_id: 1FWE7-hnedG2zPGoaB91VehZyQAXmzuui22xtIbPaZt4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1517
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 157029
+      sha256: d6cc38df163d63758eec6bf60db2550c7b7a57bcbe6d3874024539f8de2df9a3
+    - format: docx
+      name: document.docx
+      bytes: 323178
+      sha256: 3f3d1dadbb47520454b2ab6c2349800febb00c036985642acc0e01916ba208f4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'SCD categories Docs:'
+  link_text: SCD Categories Doc 8
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

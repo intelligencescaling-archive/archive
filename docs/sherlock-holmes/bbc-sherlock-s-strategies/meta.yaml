@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bbc-sherlock-s-strategies
+category: doc
+title: BBC Sherlock's Strategies
+alt_titles:
+- BBC Sherlock Holmes Strategies
+authors: []
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+variant: BBC
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12WhM60Mkw01nqJleG4kOcaMgtHqiy9W7x8Rilg0YGv8
+    google_id: 12WhM60Mkw01nqJleG4kOcaMgtHqiy9W7x8Rilg0YGv8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 14984
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 560893
+      sha256: 67f212ec2a70fb16184cc495bbfd8d8ebec32045389f6a5d113bb3bddaa33c66
+    - format: docx
+      name: document.docx
+      bytes: 877008
+      sha256: 937a78f80fd49e13079c2060853940934d8d7250b906b02cc86dc8b8d873d181
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: BBC Sherlock Holmes Strategies
+- library: remastered
+  section: Sherlock Holmes
+  character: Sherlock Holmes (BBC)
+  link_text: BBC Sherlock's Strategies
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

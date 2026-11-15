@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lotso-doc
+category: doc
+title: LOTSO DOC
+authors: []
+series:
+- toy-story
+characters:
+- lotso
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/14SpPTbfzmKbUJvEjFocHhyLLcX6cZ4FEtX2M14ewv58/edit?usp=drivesdk
+    google_id: 14SpPTbfzmKbUJvEjFocHhyLLcX6cZ4FEtX2M14ewv58
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 1219
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3657633
+      sha256: 0dcb15e1d43875d1ac3eac3f6d23eef689ede233ee0458fc41f0792d82dfd588
+    - format: docx
+      name: document.docx
+      bytes: 3068537
+      sha256: a6089fc84dbce613574d1692866df90f825feb4f35cc426d7e325cc440c9630b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Lotso doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

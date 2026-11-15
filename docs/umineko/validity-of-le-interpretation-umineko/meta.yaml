@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: validity-of-le-interpretation-umineko
+category: doc
+title: Validity of LE interpretation (Umineko)
+alt_titles:
+- Logic Error Interpretation Debate
+authors: []
+series:
+- umineko
+characters:
+- battler-ushiromiya
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14i_hr0HBce1L_x12dKwWp8sFdKcrwVqWjbo8mziYQwk
+    google_id: 14i_hr0HBce1L_x12dKwWp8sFdKcrwVqWjbo8mziYQwk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 4072
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7449756
+      sha256: 9e2c57394172e56d414266b5ea0954822f6186966be67f4106eb8d94c48a00db
+    - format: docx
+      name: document.docx
+      bytes: 6255215
+      sha256: 704f61f11992cec7d7f96a090389ee365fa513aca353c2bfcc82beade25270ad
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Validity of LE Interpretation (Umineko)
+- library: remastered
+  section: Umineko
+  character: Battler Ushiromiya
+  link_text: Logic Error Interpretation Debate
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

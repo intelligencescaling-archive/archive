@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kaneki-ken-writing-analysis
+category: doc
+title: Kaneki Ken writing analysis
+authors: []
+series:
+- tokyo-ghoul
+characters:
+- ken-kaneki
+tags:
+- writing-analysis
+- analysis
+language: null
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1hIywNl-cHd5G8ZqQmNytGlxbUs7fDxD_
+    google_id: 1hIywNl-cHd5G8ZqQmNytGlxbUs7fDxD_
+  capture:
+    status: complete
+    date: '2026-11-15'
+    files:
+    - format: docx
+      name: Kaneki Ken Writing Analysis (1).docx
+      bytes: 327891
+      sha256: 986fd428c6da679608f7e4d989ac927f57d8119ade74f0d559e08d44ec55f8eb
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kaneki Ken writing analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - language

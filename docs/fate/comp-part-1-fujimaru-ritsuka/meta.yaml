@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-part-1-fujimaru-ritsuka
+category: doc
+title: Comp Part 1 Fujimaru Ritsuka
+alt_titles:
+- Comp Fujimaru Ritsuka Doc
+authors:
+- name: Nino_IQ
+  source: doc-text
+- name: Yusha]
+  source: doc-text
+series:
+- fate
+characters:
+- fujimaru-ritsuka
+variant: Composite
+tags:
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13QE6avM9CMzhcf7EmoqysTdN1s3P_84qQVTNWy3nOf0
+    google_id: 13QE6avM9CMzhcf7EmoqysTdN1s3P_84qQVTNWy3nOf0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 3400
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6303670
+      sha256: 1358ee4a09d62a88ef1895f9f56552bf223a3d19340929ba86dce6587d50ace0
+    - format: docx
+      name: document.docx
+      bytes: 6346163
+      sha256: 9db9274aa95d118216139d183bb0bacadab52c940e9c1a1a9306d7d00c985f05
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'FATE:'
+  link_text: Comp Fujimaru Ritsuka Doc
+  note: (part 1)
+- library: remastered
+  section: Fate
+  character: Fujimaru Ritsuka - Composite
+  link_text: Comp Part 1 Fujimaru Ritsuka
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
