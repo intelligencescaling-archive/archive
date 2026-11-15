@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: azoth-mitarai
+category: doc
+title: Azoth-Mitarai
+alt_titles:
+- Azoth-Mitarai Reasoning doc
+authors:
+- name: Aquitosias
+  source: doc-text
+series:
+- detective-mitarai
+characters:
+- kiyoshi-mitarai
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1tGdPfjyUjA7k6tV56w0JmkpumxuPA7R2m1a65rttxa0/edit?usp=drivesdk
+    google_id: 1tGdPfjyUjA7k6tV56w0JmkpumxuPA7R2m1a65rttxa0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 109
+    words: 44375
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1574293
+      sha256: acbeab5c76612abf0d7e6ffe4b108178be1e98a68605a0ba30d6f5b1bf34901a
+    - format: docx
+      name: document.docx
+      bytes: 391681
+      sha256: 0a9d97b635c195dae094dd63282f2fc92d1b35623797509cc7a3964b1624a571
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Azoth-Mitarai Reasoning doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

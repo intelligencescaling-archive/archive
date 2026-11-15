@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-kramer-jigsaw-doc
+category: doc
+title: John Kramer(Jigsaw) doc
+authors: []
+series:
+- saw
+characters:
+- john-kramer
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vQC4m0tQgXcFbmcF2O8V5Iuq50ntS_T7qy-c-jTJrCZkTG1ldSHAug9iSrZu05KZtNYk2lzlM9iUL8n/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vQC4m0tQgXcFbmcF2O8V5Iuq50ntS_T7qy-c-jTJrCZkTG1ldSHAug9iSrZu05KZtNYk2lzlM9iUL8n/pub
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 8847
+    files:
+    - format: html
+      name: published.html
+      bytes: 279704
+      sha256: 48da99788ff9222624509204b983c38cdba6f34caa39a5e54eab386985605629
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: John Kramer(Jigsaw) doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: marion-wheeler-doc
+category: doc
+title: Marion Wheeler doc
+alt_titles:
+- Marion Wheeler
+authors: []
+series:
+- scp-foundation
+characters:
+- mario-wheeler
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vSkahJIqWVcabjfM0Eem-c18UGGSEdqQGKg8X901p9S_yAvDxPBF4jkmlGdgh7iN3BKGQJrw9LMEALB/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vSkahJIqWVcabjfM0Eem-c18UGGSEdqQGKg8X901p9S_yAvDxPBF4jkmlGdgh7iN3BKGQJrw9LMEALB/pub
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 5065
+    files:
+    - format: html
+      name: published.html
+      bytes: 224881
+      sha256: 2aa64a0dba55dda848814c33aa8e4cb3e105c3321a772cf7247c2fb2a94cec91
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: SCP
+  link_text: Marion Wheeler doc
+- library: remastered
+  section: SCP Foundation
+  character: Mario Wheeler
+  link_text: Marion Wheeler
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

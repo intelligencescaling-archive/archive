@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-complete-analysis-of-l-lawliet-by-k
+category: doc
+title: A Complete Analysis of L Lawliet by K
+alt_titles:
+- L lawliet complete analysis
+- A Complete Analysis of L Lawliet
+authors: []
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- analysis
+language: en
+completion: finished
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Kn-0Spuwbz7T95UdoxZm4_gC1RLcqLI7
+    google_id: 1Kn-0Spuwbz7T95UdoxZm4_gC1RLcqLI7
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 69
+    words: 30527
+    files:
+    - format: pdf
+      name: CÃ³pia de A Complete Analysis of L Lawliet by K.pdf
+      bytes: 3883715
+      sha256: 48241ccf71a29dfa966e9add7d00abbf09ba2ac00c5e1a01511d9f32fd6d3b13
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: L lawliet complete analysis
+- library: remastered
+  section: Death Note
+  character: L Lawliet
+  link_text: A Complete Analysis of L Lawliet
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

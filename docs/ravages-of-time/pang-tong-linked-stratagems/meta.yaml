@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pang-tong-linked-stratagems
+category: doc
+title: 'Pang Tong: Linked Stratagems'
+authors: []
+series:
+- ravages-of-time
+characters:
+- pang-tong
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Zb2wQgB_SupMVZjvIFH_PdFJUi5ucR9pFX11SLDrK34/edit?usp=drivesdk
+    google_id: 1Zb2wQgB_SupMVZjvIFH_PdFJUi5ucR9pFX11SLDrK34
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 147
+    words: 11161
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 16173757
+      sha256: 43e66f0d29f992e1f0d46e7ef2d36a6deda4bbad7c0ff32381060a5f982410db
+    - format: docx
+      name: document.docx
+      bytes: 10727792
+      sha256: 7504e2c85d056f7131c89d93853075d1254f250ec69fa94846df09c50e736ff3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: 'Pang tong: Linked Stratagems'
+- library: remastered
+  section: Ravages of Time
+  character: Pang Tong
+  link_text: 'Pang Tong: Linked Stratagems'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

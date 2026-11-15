@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: senku-ishigami-scheming
+category: doc
+title: Senku Ishigami Scheming
+alt_titles:
+- Senku Ishigami's Scheming
+authors: []
+series:
+- dr-stone
+characters:
+- senku-ishigami
+tags:
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ttB0_38Ww3HFzSq6GU94E04WOHC58Vfb5htPHpLkRyY
+    google_id: 1ttB0_38Ww3HFzSq6GU94E04WOHC58Vfb5htPHpLkRyY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 3886
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2367992
+      sha256: 1282fac6d48197eccd6b201fe866012cfc4576287e7be9eb74202440e7e66820
+    - format: docx
+      name: document.docx
+      bytes: 2879381
+      sha256: 6b914fbac889547c17655c4627056885f1bb554670aba6211e906dd76033248a
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Senku Ishigami's Scheming
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

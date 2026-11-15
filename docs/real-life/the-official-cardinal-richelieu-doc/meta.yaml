@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-official-cardinal-richelieu-doc
+category: doc
+title: THE OFFICIAL CARDINAL RICHELIEU DOC
+alt_titles:
+- Cardinal Richelieu doc
+- Cardinal Richelieu
+authors:
+- name: Azraelyc
+  source: doc-text
+series:
+- real-life
+characters:
+- cardinal-richelieu
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1QFrr-_QhkDidZ5oHNn6wgFSjgwjUnYAo03xkXjYPb2E/edit?tab=t.0
+    google_id: 1QFrr-_QhkDidZ5oHNn6wgFSjgwjUnYAo03xkXjYPb2E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 66
+    words: 25206
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 24711794
+      sha256: 458667829672fd9f08524831773a9c93599dd5c22db1a4065c4a69682ed7ef3b
+    - format: docx
+      name: document.docx
+      bytes: 20957874
+      sha256: c314fb4d4da550853c3c81a5b7b8e41915db24039093b1c19a41c3313dfe7618
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Cardinal Richelieu doc
+- library: remastered
+  section: Real Life Historical Figures
+  character: Cardinal Richelieu
+  link_text: Cardinal Richelieu
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

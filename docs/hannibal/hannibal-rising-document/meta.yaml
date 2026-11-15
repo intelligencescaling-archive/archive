@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-rising-document
+category: doc
+title: Hannibal Rising Document
+alt_titles:
+- Novels Hannibal doc(made by clover)
+authors:
+- name: Clauver
+  source: doc-text
+series:
+- hannibal
+characters:
+- hannibal-lecter
+variant: Novels
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1yV9iJ67rk1QWc-MXMpcTI_3NZkpmIy4LWxr4MbSaSR0/edit?usp=drivesdk
+    google_id: 1yV9iJ67rk1QWc-MXMpcTI_3NZkpmIy4LWxr4MbSaSR0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 34
+    words: 12975
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8990924
+      sha256: 87b6756aa9dfb50b85c64e0d6d5b6fd653d515dc9aa7590a7890aeb7a9e92d42
+    - format: docx
+      name: document.docx
+      bytes: 10086702
+      sha256: ca7db30cf402c52d62fe79816f3f5cb77d14c07fcfddb8bc12b202e6494b9659
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Novels Hannibal doc(made by clover)
+- library: remastered
+  section: Hannibal
+  character: Hannibal Lecter - Novels
+  link_text: Hannibal Rising Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

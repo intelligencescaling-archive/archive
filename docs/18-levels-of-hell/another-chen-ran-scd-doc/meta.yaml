@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-chen-ran-scd-doc
+category: doc
+title: Another Chen Ran SCD doc
+authors: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vT6JsP5zEnzOKf1WvW8hy-gWWRc2Ekuo5r4qIrqsOjvLIsG0zXMwH8H3wMrcESQ9deGn5vNdRMlYqhW/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vT6JsP5zEnzOKf1WvW8hy-gWWRc2Ekuo5r4qIrqsOjvLIsG0zXMwH8H3wMrcESQ9deGn5vNdRMlYqhW/pub
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 15076
+    files:
+    - format: html
+      name: published.html
+      bytes: 342213
+      sha256: ff17f64e6b12ffa2eca2637d743b53fc4e911534385056ca9f163d9a5ac06c41
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: '18 LEVELS OF HELL:'
+  link_text: Another Chen Ran SCD doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

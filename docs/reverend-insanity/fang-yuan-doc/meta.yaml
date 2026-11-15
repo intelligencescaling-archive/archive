@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-doc
+category: doc
+title: Fang Yuan Doc
+alt_titles:
+- Another Fang Yuan Doc
+authors: []
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1GgxRAjRxcTB4eYIUAW3R-rhkHWatV6DMn3_I2ti5Q04/edit?usp=drivesdk
+    google_id: 1GgxRAjRxcTB4eYIUAW3R-rhkHWatV6DMn3_I2ti5Q04
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 376
+    words: 167101
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5196414
+      sha256: 7600508f382d1021488ae69cecbf6ee9e903acfccb35de125c5b0204da2ebade
+    - format: docx
+      name: document.docx
+      bytes: 467926
+      sha256: e2ab4befd68e432796f3bc963efe4b9e7389b8ec4fc7f1cf25f2daa3f7940c47
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Fang Yuan Doc
+- library: remastered
+  section: Reverend Insanity
+  character: Fang Yuan
+  link_text: Fang Yuan Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

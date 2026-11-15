@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-rr-scd-document
+category: doc
+title: Another RR SCD document
+authors: []
+series: []
+characters: []
+tags:
+- scd-theory
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1cc-53J0QK6xlGT9pgmyGfeK7GZ0PBfq3TCAuF5PfllU/edit?usp=drivesdk
+    google_id: 1cc-53J0QK6xlGT9pgmyGfeK7GZ0PBfq3TCAuF5PfllU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 2993
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 143298
+      sha256: 73241c5bb600d0f7e2c614d2addacb95a6dce849ec262f0ce9a9ec7f714982a3
+    - format: docx
+      name: document.docx
+      bytes: 15551
+      sha256: 4f2749f6abecfcf6f732a87b4e93636630cf2afcf4cb6ccfd38a837dea6abf0b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another RR SCD document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

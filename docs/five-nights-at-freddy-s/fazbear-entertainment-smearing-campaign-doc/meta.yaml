@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fazbear-entertainment-smearing-campaign-doc
+category: doc
+title: Fazbear Entertainment smearing campaign doc
+alt_titles:
+- Fazbear entertainment smearing doc
+authors:
+- name: Veneno on
+  source: doc-text
+- name: Discord
+  source: doc-text
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/12F98xzrfGX0_vpkyUz3tPUsFL3vN_IukEjj69ovrtMM/edit?usp=drivesdk
+    google_id: 12F98xzrfGX0_vpkyUz3tPUsFL3vN_IukEjj69ovrtMM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 6955
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1779900
+      sha256: f017dc613e13e5c8408a8dbd83a16305860835680f94a06ed3443e2f44a55dcb
+    - format: docx
+      name: document.docx
+      bytes: 3626622
+      sha256: 57e93791ccecd259c2ce010988c2a3be108774987952e17223ef5de6e50a50bc
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: FNAF
+  link_text: Fazbear entertainment smearing doc
+- library: remastered
+  section: Five Nights at Freddy’s
+  character: William Afton
+  link_text: Fazbear Entertainment smearing campaign doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

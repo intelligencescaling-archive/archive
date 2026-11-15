@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cao-cao-doc-100
+category: doc
+title: Cao Cao Doc 100%
+authors:
+- name: Azraelyc
+  source: doc-text
+series:
+- real-life
+characters:
+- cao-cao
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-MtoMwFyYVHBvmdLjFkIC-VToqK8YA6vTzKhKBsZQOM/edit?usp=sharing
+    google_id: 1-MtoMwFyYVHBvmdLjFkIC-VToqK8YA6vTzKhKBsZQOM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 42
+    words: 13845
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 13137271
+      sha256: 7b12bfdc720b345e42851dc87846778440afdd295c6478ae789d3bb7158345f4
+    - format: docx
+      name: document.docx
+      bytes: 11033582
+      sha256: b6f62a651ab2e595b342679e6791f750e34ef8afc0aedc07f10bc65e9d3831eb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Cao Cao Doc 100%
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

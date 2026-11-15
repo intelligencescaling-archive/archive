@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: murphy-doc-2-short
+category: doc
+title: 'Murphy Doc #2 (short)'
+alt_titles:
+- Murphy 2
+authors:
+- name: Cloud
+  source: doc-text
+series:
+- scp-foundation
+characters:
+- murphy-lawden
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1SV8XWLPl_5Rngzu04imByohJuLo1sAB5WvdGXMrkL8E
+    google_id: 1SV8XWLPl_5Rngzu04imByohJuLo1sAB5WvdGXMrkL8E
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 379
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 48476
+      sha256: f341501cbc4b6fccc011fe730e945078b40915bf562710f49ab67bb856fa1100
+    - format: docx
+      name: document.docx
+      bytes: 91963
+      sha256: 64e3000699e1f015896df460fe16310301e3239025335777579d48948d167df6
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: SCP
+  link_text: Murphy 2
+- library: remastered
+  section: SCP Foundation
+  character: Murphy Lawden
+  link_text: 'Murphy doc #2 (short)'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

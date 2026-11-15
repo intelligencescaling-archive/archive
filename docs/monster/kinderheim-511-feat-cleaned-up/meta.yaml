@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kinderheim-511-feat-cleaned-up
+category: doc
+title: KINDERHEIM 511 FEAT CLEANED UP
+alt_titles:
+- Johan Kinderheim 511 Feat
+authors: []
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-7ib0s1l1BOTMigoYorFw2L4C3YQPhRfF3kmtHKsq1k
+    google_id: 1-7ib0s1l1BOTMigoYorFw2L4C3YQPhRfF3kmtHKsq1k
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 22
+    words: 4406
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9625533
+      sha256: b80f65c5edb09edf3e7763592d8d53acd9cfc3ce4caa99a11d7c0b110e6112d0
+    - format: docx
+      name: document.docx
+      bytes: 8787138
+      sha256: f8f3cd3f7e6de1d07ba79c993e0279439490ac3bd34a801b9b80bf667e453a64
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Johan Kinderheim 511 Feat
+- library: remastered
+  section: Monster
+  character: Johan Liebert
+  link_text: KINDERHEIM 511 FEAT CLEANED UP
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

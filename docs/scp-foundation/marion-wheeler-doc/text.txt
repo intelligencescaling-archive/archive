@@ -1,0 +1,229 @@
+Marion Wheeler Intelligence Scaling Document 1.0
+
+Published using Google Docs
+Report abuseLearn more
+
+Marion Wheeler Intelligence Scaling Document 1.0
+Updated automatically every 5 minutes
+
+Marion Wheeler: Intelligence Scaling Document
+SCP Wiki: Antimemetics Division series by qntm
+Author: u/arvinsins
+
+SPOILER WARNING: This document contains major spoilers for the complete Antimemetics Division series, including the resolution of the SCP-3125 arc. Reading the series is way more fun than reading this doc.
+
+This document catalogues the intelligence feats of Marion Wheeler, chief of the SCP Foundation's Antimemetics Division, across qntm's There Is No Antimemetics Division and Five Five Five Five Five. Feats are drawn from the source material and analyzed for the cognitive operations they demonstrate. Each entry is tagged with the relevant categories from the legend below. Key terms are defined in the glossary at the end of this document.
+
+Character Overview
+Marion Wheeler is chief of the SCP Foundation's Antimemetics Division, a position she has held long enough that most of her colleagues, including direct supervisors, have forgotten she exists. She is 49 at the series' start. The Division studies and contains antimemes: concepts and entities that suppress awareness of themselves. It is, by any measure, the most thankless and self-defeating work in the Foundation.
+
+SCP-3125 is the threat she is fighting. It is not a creature or a weapon but a pattern of ideas that has evolved to kill anyone who perceives its full structure, then erase all knowledge of the attack. By 2015, it has quietly destroyed every memetics research institution on Earth except the Foundation's Antimemetics Division, which has shrunk from over 4,000 staff to 125. Marion leads what remains, and she knows it.
+
+This document covers Marion's intelligence feats across the full arc of the series, from her containment protocols to the execution of the plan that ultimately defeats SCP-3125.
+
+Category Legend
+FSIQ-adjacent (tags derived from standardized cognitive assessment indices, used here as analytic categories rather than clinical scores):
+
+FRI (Fluid Reasoning Index): reasoning with novel information under uncertainty; problem-solving without reliance on stored procedures
+EFI (Executive Functioning Index): goal-directed planning, cognitive flexibility, inhibitory control, and task management
+WMI (Working Memory Index): holding and manipulating information in active memory while performing other operations
+PSI (Processing Speed Index): speed and accuracy of cognitive processing, particularly under time pressure or degraded conditions
+CRI (Crystallized Reasoning Index): applying accumulated knowledge, domain expertise, and learned procedures
+
+Reasoning: inference to best explanation, deductive logic, and counterfactual reasoning
+
+Thinking: critical, convergent, abstract, and holistic cognition
+
+Planning/Strategy: long-term and short-term planning, contingency architecture, and strategic design
+
+Foresight: anticipating future states; preparing instruments and systems before they are needed; decisions whose full value only becomes apparent after the fact
+
+AC (Adversity Capacity): sustained performance under conditions designed to defeat cognition: active memory erasure, cognitive degradation, physical threat, perceptual flooding, or extreme constraint
+
+Info. Control/Field Skills: information control and manipulation, operational security, selective disclosure, threat modeling, tactical execution, resource triage, and metacognition
+
+EQ: emotional understanding, management, perception, and self-regulation
+
+Feats
+1. Diagnosing O5-8's Amnestic Compromise and Disarming Clay
+Source: We Need To Talk About Fifty-Five
+
+What is striking about this scene is not the conclusion Marion reaches, but the economy with which she reaches it. Called to a meeting with O5-8, a senior Foundation official who does not know what the Antimemetics Division is, she identifies within minutes that his ignorance is diagnostic rather than administrative. Clay, present as a human aide, has been suppressing O5-8's mnestic intake. The evidence she has is thin: Clay holds a key to a cabinet O5-8 is the sole authorized user of, and O5-8's mnestic supply has been quietly disappearing. Most investigators would treat these as coincidences pending further data. Marion arrives with class-W mnestics already prepared, treating her hypothesis as testable on the spot: if they restore O5-8's memories of the Division, the diagnosis confirms itself through his own files without requiring him to trust her account.
+
+She has also, before the meeting, lifted Clay's personal firearm and suppressed his memory of the theft. She produces it during the confrontation as proof of its origin. Her explanation: "It's tricky to steal a firearm this heavy from someone without them noticing. But stealing a firearm and then stealing their memory of the theft is a little easier." The argument is structured to be self-verifying because trust in her account is not available. Both anomalies she identified are checkable through O5-8's own cabinet records. The structure mirrors differential diagnosis: two symptoms, one cause, confirmed through the patient's own records rather than the physician's.
+
+[EFI, FRI, PSI, CRI, Reasoning, Thinking, Info. Control/Field Skills, EQ, Foresight, AC]
+
+2. Reconstructing a 13-Hour Memory Gap from Incident Reports
+Source: Unforgettable, That's What You Are
+
+After eight days of hospitalization, Marion reconstructs a 13-hour gap in her own memory using written incident reports, cross-referencing staffing levels against baseline estimates and building a timeline from documentation produced by people who were also experiencing mnestic disruption. The reconstruction is careful and methodical. What comes next is more interesting. She asks: "Who founded the division? When?" Neither she nor any accessible record can answer. The question is not assigned; she generates it from the discomfort of being unable to reconstruct her own professional history. It exposes a second and far larger amnestic event: the Division's repeated destruction and reconstruction, erased each time.
+
+The key detail here is not what she discovers, but the epistemic habit that leads her there. She treated written records as more reliable than her own recollection, and she acted on that calibration even when the inference it produced undermined the institution she has spent her career in. Under conditions of confirmed memory compromise, that is both the correct approach and a difficult one to maintain.
+
+[EFI, FRI, WMI, Reasoning, Thinking, Info. Control/Field Skills, AC]
+
+3. Deducing Prior Actions and Managing Perceptual Overload Under Class-Z Effect
+Source: Your Last First Day
+
+Under active facility collapse, her memories of the Division already gone, Marion finds a fresh needle mark on her wrist and works backward from there. She deduces that past-Marion self-administered a Class-Z mnestic, the most dangerous drug in the Foundation's pharmacopeia: it causes permanent brain damage in exchange for temporary perfect recall and full antimemetic perception. "I've killed myself," she says. From a single physical data point, she derives that she prepared this in advance, selected the most extreme option available, and would only have done so if nothing less extreme was sufficient.
+
+When the drug takes effect and total perceptual flooding begins (antimemetically-cloaked graffiti, hidden elevator buttons, white entities, an omnipresent drone signal, all becoming visible simultaneously), she covers her eyes and ears, then deliberately strikes the elevator wall hard enough to bloody two knuckles. The reasoning is precise: acute localized pain preferentially claims cognitive resources, suppressing competing peripheral inputs and enabling selective attention in a state of sensory overload. A trained response to a condition she knew she would face, prepared by a version of herself she can no longer remember. "I'll bootstrap it from first principles," she says.
+
+[FRI, EFI, PSI, CRI, Reasoning, Thinking, Info. Control/Field Skills, Foresight, AC]
+
+4. Reconstructing Her Own Strategic Intent from Self-Knowledge
+Source: SCP-3125 (Addendum 2)
+
+Writing the final entry in the SCP-3125 containment file in November 2015, Marion cannot fully remember the plan she is about to execute. What she does instead is treat her own reasoning patterns as an object of study. Her quote: "This was the plan. It's become garbled in the retelling because of variables, but I know that this was my plan, because I know myself. What else could it have been?" She recovers the plan not through memory but through metacognitive inference: her priorities, decision-making logic, and known constraints, analyzed from the outside. The result is acted on immediately.
+
+She is doing this under amnestic degradation, on a timeline she has identified as final. The framing she reaches for, confident and directional, is worth noting in context: the file may be read by SCP-3125. A message displaying doubt provides adversarial information. Marion's tone is itself a product of the discipline it describes.
+
+[FRI, EFI, Reasoning, Thinking, Info. Control/Field Skills, Foresight, AC]
+
+5. Inferring the Buried Plan from Future-Marion's Apparent Defeat Message
+Source: CASE COLOURLESS GREEN
+
+Inside the SCP-3125 containment unit, Marion watches a video of her future self describe the Division's collapse and say: "There's no war. We've lost the war." What she does not do is accept this at face value. SCP-3125 monitors ideational content and kills those who fully articulate a plan against it, which means future-Marion could not have stated the critical operational insight directly. Present-Marion reads the message as a design problem and extracts the encoded inference: an underground lab at Site 41 already exists, built by a prior iteration of the Division, and it is what she is meant to find.
+
+This requires applying Theory of Mind to one's own future self under adversarial conditions. Present-Marion must model what future-Marion knew, recognize the constraints she was operating under, and reconstruct what the message was built to communicate rather than what it appears to say. She trusts that future-Marion would design communication around the adversary's detection capabilities rather than toward ease of comprehension. Present-Marion's reading of the message - that "There's no war. We've lost the war" is deliberate misdirection rather than despair - suggests she shares the same operational design intuitions as her future self. That trust is, as it turns out, well-placed.
+
+Even if this Marion had read the message as defeat and stopped, the 42-day mandatory inspection cycle built into the containment unit (see feat 9) guarantees another version of Marion would eventually face the same inference.
+
+[FRI, EFI, CRI, Reasoning, Thinking, Planning/Strategy, Info. Control/Field Skills, Foresight, AC]
+
+6. Fountain Pen Throat Strike: Li Neutralization
+Source: The Wild Light
+
+During a high-level briefing, Michael Li produces a gun and fires at Bart Hughes. Marion, seated at the same table with no advance warning, responds in a sequence that is difficult to fault: she grips a fountain pen in her fist, uncapped, lunges from a behind-and-lateral position, deflects Li's gun arm upward with one hand, and drives the pen into his throat with the other. She pulls to open the wound. She confirms Li is neutralized, takes the gun, makes it safe, and checks Hughes. The tactical priority order (deflect, then incapacitate) is correct. The throat target with a rigid implement is high-probability lethal. Li had already fired twice. Marion had only what was in her hand.
+
+What she does immediately after is, I think, equally telling. She states: "This whole Site could be compromised from top to bottom." SCP-3125 spreads through ideational contact; one confirmed instance of compromise in a high-information compartmented briefing is a meaningful update on the likelihood of further compromise, given how the adversary propagates. Her threat model does not stop at the individual. It extends to the population. That generalization drives site extraction rather than a continued meeting.
+
+[FRI, EFI, PSI, Thinking, Info. Control/Field Skills, AC]
+
+7. Mnestic-Amnestic Simultaneous Self-Administration and 30-Meter Jump
+Source: Unforgettable, That's What You Are
+
+On a boat several kilometers offshore, Marion is conducting a classified interview when an invisible entity begins manifesting through the subject. The entity is a threat, but what catches her attention first is a gap: "Why didn't I bring any backup with me? That doesn't make sense." She arrived alone, without an MTF operative, a medic, or a second boat. She treats this not as a failure but as diagnostic information: something influenced her decisions before she arrived. She performs this audit in real time, under lethal threat.
+
+The subject has told her: "If you know it exists, it knows you exist. The more you know about it, the more it knows about you. If you can see it, it can see you." From this Marion builds a working model of the entity's mechanism (it operates through mutual recognition) and follows it to its logical countermeasure. She goes for the medical box, does a hurried burst of mental arithmetic, measures the correct Class-B amnestic dosage with shaking hands, and injects while mnestics are still active in her system, a pharmacological contradiction Foundation protocol prohibits. The prohibition exists for normal conditions. These are not normal conditions.
+
+The entity has physically lifted the boat; by the time she reaches the edge, it is approximately 30 meters above the water. She kicks her shoes off and throws her gun away (shoes drag in water; a wet firearm is dead weight) and jumps. The two countermeasures are redundant: if the amnestic effect is insufficient, the impact creates enough state change to disrupt targeting. By the time she surfaces, she does not remember where she fell from or why. The entity has forgotten about her. The improvised model was correct.
+
+[FRI, EFI, PSI, Reasoning, Thinking, Info. Control/Field Skills, Foresight, AC]
+
+8. Intentional Memory Erasure via Threshold Crossing to Escape the Rider
+Source: Immemorial
+
+At SCP-9429, descending a staircase with millions of spiders cascading around her, Marion is addressed by an entity with two visible gunshot wounds and full mobility: "Marion Wheeler! I owe you for the lake." She had perhaps a second before it could close distance. She stepped backward across the perimeter threshold of SCP-9429.
+
+The stone's antimemetic field suppresses all memory of any encounter for anyone who crosses its perimeter. Marion uses it to erase herself as a target. She had explained this mechanism to Moreno minutes earlier, which means the option was in working memory when it was needed. The rider is immune to conventional lethal force. The threshold crossing is the only available action that works against it. Even if the rider had followed her back across the threshold, the field would have suppressed its memory of her equally; the erasure operates on both parties regardless of which direction they cross. It is a robust solution, not a desperate one.
+
+[FRI, EFI, PSI, WMI, Reasoning, Thinking, Info. Control/Field Skills, AC]
+
+9. Inverted Containment Architecture and Self-Briefing Protocol
+Sources: SCP-3125 (Special Containment Procedures), CASE COLOURLESS GREEN
+
+The foundational insight here is architectural. SCP-3125 cannot be contained by surrounding it; it exists everywhere in human reality except locations specifically purged of its influence. Marion's response is to invert the protocol entirely.
+
+The containment unit at Site 41 functions as an information trap. It accumulates knowledge across successive visits but permits no coherent information to leave. Personnel exit through an amnestic-gas airlock that clears their memory of the contents on the way out. The main Foundation database carries a decoy entry with only the unit's technical specifications, so staff who access it never encounter information sufficient to trigger SCP-3125's defensive response.
+
+What this produces is a distributed cognition architecture. The Division's accumulated knowledge is offloaded from human agents (vulnerable to amnestic cycling and death) into a physical location SCP-3125 cannot reach. Pre-recorded video briefings explain SCP-3125 to future versions of Marion who arrive with their memories erased, making the unit a communication channel across iterations. The message content encodes the critical strategic inference (the underground lab) as inference rather than statement, so SCP-3125 cannot identify it as a plan. The 42-day mandatory inspection cycle ensures eventual discovery by any surviving antimemeticist.
+
+[FRI, EFI, CRI, Thinking, Planning/Strategy, Info. Control/Field Skills, Foresight]
+
+10. Ordering Her Own Memory Erased and Her Husband Hidden from Herself
+Source: Where Have You Been All My Life
+
+After confirming that Adam Wheeler is her husband of 17 years, a fact she had previously erased from her own memory, Marion issues a set of orders that are, taken together, among the most deliberate acts in the series: erase the marriage record, relocate Adam to a site she will never find, incinerate all associated evidence, and schedule all staff including herself for surgical memory erasure."My husband's dead."
+
+Adam is alive. The declaration is an act of deliberate emotional engineering: she manufactures the emotional state the plan requires rather than waiting for it to arrive naturally. The order covers every route of discovery, and by scheduling herself last, she maintains command authority until the final step, preventing subordinates from misreading hesitation as a changed decision. SCP-3125's exploitation of emotional attachments is the explicit threat model she is working against. She removes the leverage point before it can be found.
+
+(NOTE: The same attachment she surgically removes here becomes the material Hughes uses to reconstitute Marion as WILD LIGHT in Tombstone. Adam's memory of Marion, preserved by relocating him rather than erasing him, provides the reconstruction substrate. Marion was designing against exploitation, not against his survival. This decision is the pre-designed counter to contingency 5 in feat 11.)
+
+[FRI, Reasoning, Planning/Strategy, Info. Control/Field Skills, EQ, Foresight]
+
+11. The 9-Year Plan Against SCP-3125
+Sources: SCP-3125 (full entry), We Need To Talk About Fifty-Five, Your Last First Day, Where Have You Been All My Life, CASE COLOURLESS GREEN, Tombstone, Immemorial
+
+The plan to defeat SCP-3125 was set in motion no later than 2008. Marion Wheeler is, by 2015, its primary architect. She dies in November 2015. It executes in 2017. Her physical death is not a terminal failure condition.
+
+The plan's infrastructure is built around three physically separate safe zones, each serving a distinct role. The first is the Cognitohazard Containment Unit on Site 41, the small lead-lined room where the SCP-3125 entry resides, used as the plan's communication channel across time. The second is S041-B30-000, also at Site 41 but 210 metres underground, with more than one thousand times the volume of the first unit and an airlock large enough for a shipping container; it was built to house the irreality amplifier and its construction equipment. The third is S167-001-6183, a vault of identical specification at Site 167, discovered by Adam Wheeler only after Marion's death. All three were constructed under deliberate information blackout. Their records were erased.
+
+Hughes isolated himself starting in 2008, working on the irreality amplifier at Site 167. Its construction required understanding SCP-3125 deeply enough to neutralize it, which is normally lethal. Hughes solved this by sealing himself in before full comprehension became fatal. While he worked, the Antimemetics Division fought a deliberate losing war, accepting casualties to buy time. The Division shrank from 4,000 to 125 personnel. Every person lost was acceptable if it purchased time. Marion's self-briefing recordings in the containment unit encoded the plan's existence without stating it in a form SCP-3125 could identify as a threat. In 2015, she erased her memory of Adam and had him relocated, removing an emotional leverage point before SCP-3125's final push.
+
+The first execution attempt came in November 2015. Marion reached S041-B30-000 expecting Hughes and the machine. Hughes was not there. The available tool (an antimemetic bomb) was insufficient for the strategic goal. She assessed this, then detonated it anyway as a tactical containment measure. The bomb was pre-staged as a dead-man device: her arrival with Class-Z mnestic perception active provided the trigger condition, and the timer provided activation. Past-Marion had anticipated arriving too cognitively degraded for reliable manual operation and removed the requirement for conscious execution. She died. Her final words were addressed to the countdown: "None of this happened, Paul...You and I never existed. There is no Antimemetics Division."
+
+The second execution attempt came in 2017. Adam Wheeler, following instructions Marion had pre-staged in Site 41's control systems, located S167-001-6183 at Site 167. Hughes reconstituted Marion's consciousness from Adam's eidetic memory of her. WILD LIGHT, the ideational construct that resulted, could exist on SCP-3125's conceptual plane and defeat it. Marion executed the assault and did not return.
+
+Contingency analysis:
+
+The following failure modes were addressed by specific mechanisms in the plan's design:
+
+Marion is killed before completion: The plan does not require her survival. Her encoded memory (preserved in Adam) and pre-staged instructions are sufficient for final execution.
+Marion forgets the plan due to amnestic cycling: Plan components are stored externally across the containment unit archive, written records, and physical infrastructure. Adam's Addendum 3 suggests the plan was executed more than once across successive amnestic cycles, each time without Marion retaining memory of the previous attempt. The infrastructure was robust enough to be re-derived and re-triggered independently.
+SCP-3125 recognizes the plan and kills those who know it: It is communicated as inference, not declaration. Future-Marion's video encodes the plan's existence without stating its mechanism.
+The containment unit video is never found: The 42-day mandatory inspection cycle guarantees discovery by any surviving antimemeticist.
+Adam is used as leverage against Marion: Adam was surgically removed from Marion's accessible emotional landscape before SCP-3125's final push.
+The machine is not at S041-B30-000: A second vault at Site 167 (S167-001-6183) was built to the same specification. Marion going to the wrong vault was not the terminal failure condition. The fallback existed before she needed it. Adam's Addendum 3 reads: "Your plan, I think, was in place for longer than you know. And since you weren't at liberty to retain its details, you put it into action more than once."
+
+(Adam's phrasing is hedged - "I think" - his interpretation of available evidence, not a direct statement of Marion's intent.)
+
+Class-Z drug incapacitates Marion before she can act: The bomb's dead-man trigger requires only her presence with Class-Z perception active. Conscious execution is not required.
+The reconstituted Marion refuses or cannot function: Marion's specific traits (willingness to accept ontological discontinuity as a professional condition, capacity to frame personal sacrifice in strategic terms) were known, documented, and preserved in Hughes' reconstruction substrate. The plan selected for its weapon a person whose character was itself a contingency.
+
+Where one component fails, a pre-designed fallback absorbs it. What is most unusual about it is not its complexity but its humility: Marion's survival, her memory, and her continuous presence at the final stage are not required for it to work.
+
+[FRI, EFI, CRI, Reasoning, Thinking, Planning/Strategy, Info. Control/Field Skills, Foresight, AC]
+
+12. SCP-4987 Behavioral Management
+Sources: We Need To Talk About Fifty-Five, Where Have You Been All My Life
+
+SCP-4987 is an antimemetic entity that permanently follows Marion and feeds on her memories. It cannot be contained, killed, or driven off. Marion's response to this is, characteristically, practical: she conditions its behavior through an operant conditioning protocol, producing low-value memories on purpose (game shows, trivia books, idle reading) as scheduled feedings, protecting operationally critical information. Her description of the arrangement: "I have SCP-4987 trained to follow me at my heel. I feed it according to a strict regimen, it eats only the memories I say it's okay to eat. A rapidly progressive, universally fatal memory parasite made chronic and then domesticated."
+
+The protocol requires accurate modeling of the entity's feeding preferences, sustained daily execution, and reliable triage of memories into expendable and critical categories. It is, by her own account, working. The failure mode is worth stating plainly: if the regimen lapses, or the entity breaks training, it consumes something load-bearing, a password, a procedure, a colleague's identity. The margin for error is zero.
+
+(NOTE: In Where Have You Been All My Life, SCP-4987 deviates from the regimen in response to Adam Wheeler's presence. Marion's immediate reaction is diagnostic: "I have SCP-4987 trained to follow me at my heel... And now, what, it suddenly breaks training? That adds up?" She treats the deviation as anomalous data requiring explanation rather than a protocol failure. The break is attributable to SCP-4987 detecting the threat SCP-3125 poses through Adam's proximity. The protocol itself is not implicated.)
+
+[FRI, EFI, CRI, Reasoning, Planning/Strategy, Info. Control/Field Skills, Foresight, AC]
+
+13. Tactical Home Defense Calculation Under Unknown Threat
+Source: Where Have You Been All My Life
+
+Marion is reading in bed when she hears the front door being unlocked. She marks her page, reaches for her phone, and finds that all countermeasures, sensors, and cameras have been disabled using a valid code. She triggers the silent alarm, tucks pillows into her place in the bed, collects her weapon, and takes position beside the bedroom door.
+
+She reframes the question from "who?" to "how many?" and brackets the range: roughly eight attackers before running out of luck; as few as two if they rush with armor, at which point the staircase choke point stops mattering. Armor is the determining variable over count. She closes every exit route: the bedroom door creaks, attic access is equally audible, the window drops to a covered perimeter. She scans the room for a secondary weapon; the knives and knitting needles are downstairs and unreachable. She flags anomalous attackers as a separate failure mode: outside the roughly thirty percent neutralizable by direct fire, the response team arriving in ten minutes changes nothing.
+
+One person comes up the stairs. When the door opens he is face-down on the carpet before he finishes his first word, both wrists pinned, gun at his cheek. She checks the stairs and the windows. There is no one else. The threat is contained before the response team is needed.
+
+[FRI, EFI, PSI, Reasoning, Thinking, Info. Control/Field Skills, AC]
+
+Synthesis
+Marion's most consistent feature is that she treats her own cognition as a potential source of error, not just as a tool. When she must communicate a plan through a channel SCP-3125 monitors, she encodes it as inference rather than statement: the same discipline applied outward that she applies to herself. She does not take her own perception of a situation as the final word on it.
+
+Contingency-first planning. The plan to defeat SCP-3125 was not designed around the assumption that Marion would survive to execute it. What it did instead was select as its final weapon a person whose character (her willingness to accept ontological discontinuity, her capacity to frame personal sacrifice in strategic terms) was known, documented, and preserved against her death. The plan accounted for losing her. It accounted for her forgetting she had built it. It accounted for the person who finally executed it being a reconstituted construct rather than the woman who designed it.
+
+Her immediate-response decisions follow a different logic than her long-range planning, but the underlying principle is the same: identify what the specific situation allows and use only that. The fountain pen, the threshold crossing, the deliberate knuckle-strike, the mnestic-amnestic jump are not clever solutions. They are the only ones available under those constraints. When improvisation reaches its actual limit (Moreno's death in Immemorial), she stops and accepts the outcome.
+
+Information as the primary domain. The containment unit, the self-briefing recordings, the alternate database entry, the memory erasure orders, the pre-staged instructions: these are the decisions that carry the most weight in the series. Marion is not primarily a combatant or a negotiator. The majority of her consequential choices are about controlling information: who has it, in what form, through what channel, accessible to whom and when. She operates in an environment where information itself is the primary threat mechanism, and her work reflects that.
+
+Marion is not the only character in this series with exceptional intelligence. Bart Hughes spends nine years transforming his own body to house ideas too large for a human mind. Adam Wheeler follows a
+
+Glossary
+Noosphere: the totality of human thought understood as a shared conceptual space. Human consciousness operates here natively.
+
+Infosphere: the outermost ideatic plane, where SCP-3125 originates. Vastly larger and more hostile than the noosphere; human cognition has no evolved defenses against entities native to it.
+
+SCP-3125 ("the constant of chaos"): a massive hostile meme complex from the infosphere, now partially intersecting with human reality. It cannot be contained by surrounding it; it exists everywhere in human reality except locations specifically purged of its influence. Foundation models project full manifestation would replace all human thought within four to twelve hours.
+
+SCP-4987: an antimemetic entity that permanently follows Marion and feeds on her memories. It cannot be contained or removed. Marion manages it through behavioral conditioning; see feat 12.
+
+SCP-9429: a carved basalt monolith outside Site 41, built by a civilization destroyed by a proto-SCP-3125 meme complex. Its perimeter carries an antimemetic field that suppresses all memory of encounters upon crossing the threshold, operating on both parties equally.
+
+Eidetic memory: the capacity to recall experiences with near-perfect accuracy and completeness. Adam Wheeler's eidetic memory of Marion provides the reconstruction substrate Hughes uses to rebuild her as WILD LIGHT.
+
+Irreality amplifier: a weapon designed by Dr. Bartholomew Hughes capable of neutralizing SCP-3125. Its construction requires fully understanding SCP-3125, which is normally lethal; Hughes solved this by sealing himself in isolation before comprehension became fatal. Delivery requires an agent capable of operating within the noosphere directly.
+
+WILD LIGHT: the designation for Marion's reconstituted consciousness, rebuilt by Hughes from Adam's eidetic memory of her. As a pure ideational construct rather than a physical person, WILD LIGHT can operate directly within the noosphere and engage SCP-3125 on its own conceptual plane, where physical agents cannot reach it.
+
+Antimemetic bomb: a weapon that erases knowledge of a targeted concept from all affected persons. The bomb Marion detonates in November 2015 erases all human memory of the Antimemetics Division, severing SCP-3125's informational foothold in human civilization.

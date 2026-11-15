@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: apollyon-s-feats-document
+category: doc
+title: Apollyon's Feats Document
+alt_titles:
+- Apollyon SCD feats document
+authors:
+- name: Aryanakane
+  source: doc-text
+series:
+- for-honor
+characters:
+- apollyon
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1fVZ4DY1mFa4ELhEFCYgzTB-BqMOkOziq8nJ6ZPiUENk
+    google_id: 1fVZ4DY1mFa4ELhEFCYgzTB-BqMOkOziq8nJ6ZPiUENk
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 5487
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3659635
+      sha256: 313dacc1e16243612f90e21cc98cbcaf1ca8db0b12c2f0ae669a9fa914e7e287
+    - format: docx
+      name: document.docx
+      bytes: 3929599
+      sha256: a000b320683c1dddf6eb2d5dfac11a90bd88834427e9dbd8b6191e8b3b76c7db
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Apollyon SCD feats document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

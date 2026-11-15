@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-doc-60
+category: doc
+title: HANNIBAL DOC (60%)
+alt_titles:
+- Hannibal doc
+authors: []
+series:
+- real-life
+characters:
+- hannibal
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wYcQ1ARF-8MdWMkrEiw3ifvTpn9SXdz2wcJsBR-6N-c/edit?tab=t.0
+    google_id: 1wYcQ1ARF-8MdWMkrEiw3ifvTpn9SXdz2wcJsBR-6N-c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 41
+    words: 9402
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 20241134
+      sha256: 63985f7043d033d0191fdf2d0ed848290ef5b24224c0f7244d1275ff63eac6cb
+    - format: docx
+      name: document.docx
+      bytes: 19226017
+      sha256: f00f23eb6ebfeaa303271b0116bf33a4edace4c58acf3f4995ceeb33ef477c04
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Hannibal doc
+  note: (not finished)
+- library: remastered
+  section: Real Life Historical Figures
+  character: Hannibal
+  link_text: HANNIBAL DOC (60%)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

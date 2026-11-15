@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: summery-analysis-of-hannibal-lecter-novels-scd
+category: doc
+title: Summery analysis of Hannibal Lecter Novels SCD
+alt_titles:
+- Another Novels Hannibal Lecter Doc
+- Hannibal Lecter Novels SCD analysis
+authors:
+- name: Lenaisapeak
+  source: doc-text
+series:
+- hannibal
+characters:
+- hannibal-lecter
+variant: Novels
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-pj8rTG2Yscftryvk5DU2_3YGuE9O5iHLI_uu8a5QTA
+    google_id: 1-pj8rTG2Yscftryvk5DU2_3YGuE9O5iHLI_uu8a5QTA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 80
+    words: 17155
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4962738
+      sha256: fa5bf89d2fba717252139de5ee1eabfe97ce2debaab867860e296344cadc84eb
+    - format: docx
+      name: document.docx
+      bytes: 6661317
+      sha256: ed83901d6b7fc78127ca1d59f9387e98afb8d324a2b019a640f661e534e28e72
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Novels Hannibal Lecter Doc
+- library: remastered
+  section: Hannibal
+  character: Hannibal Lecter - Novels
+  link_text: Hannibal Lecter Novels SCD analysis
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

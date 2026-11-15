@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ron-kamonohashi-feats-doucment
+category: doc
+title: Ron Kamonohashi feats doucment
+alt_titles:
+- Ron kamonohashi
+authors:
+- name: YuuichiGiri
+  source: doc-text
+series:
+- ron-kamonohashi-s-forbidden-deductions
+characters:
+- ron-kamonohashi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aLGiOv9NClZuVk3CVD8AKytB-g2S3hQ2JSFtKijCQOw
+    google_id: 1aLGiOv9NClZuVk3CVD8AKytB-g2S3hQ2JSFtKijCQOw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 42
+    words: 22133
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2216399
+      sha256: 9f3282ae0f09ff02b5b49a7fc55d5c33911fb5e4c17487881ea8976cd88301a8
+    - format: docx
+      name: document.docx
+      bytes: 1209258
+      sha256: 380b0d1f77be7a1a467188bb34a42e97452f4f56d9c61d65bd62d9c49df6958d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Ron kamonohashi
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

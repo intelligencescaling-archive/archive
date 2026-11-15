@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-note-the-los-angeles-bb-murder-case
+category: doc
+title: Another Note - The Los Angeles BB Murder Case
+alt_titles:
+- Full Another Note Engsub
+- 'Another Note: The Los Angeles BB Murder Case'
+authors: []
+series:
+- death-note
+characters:
+- beyond-birthday
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://docs.google.com/file/d/0B7PfWIUs5GYsdDZNYWUtdTBVMGs/edit?resourcekey=0-smrteMT8IKAdWv5jbJmkfw
+    google_id: 0B7PfWIUs5GYsdDZNYWUtdTBVMGs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 101
+    words: 45888
+    files:
+    - format: pdf
+      name: 95946320-Another-Note-The-Los-Angeles-BB-Murder-Case.pdf
+      bytes: 3060146
+      sha256: c4e547edd2d11d006da9b94ad41059043c9dd8bc2bf2b9e4b9584364c0c8b9a2
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in:
+- library: old
+  section: 'DEATH NOTE:'
+  link_text: Full Another Note Engsub
+- library: remastered
+  section: Death Note
+  character: Beyond Birthday
+  link_text: 'Another Note: The Los Angeles BB Murder Case'
+  note: (Light Novel)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

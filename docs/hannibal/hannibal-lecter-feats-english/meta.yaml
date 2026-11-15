@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-lecter-feats-english
+category: doc
+title: Hannibal_Lecter_Feats_English
+alt_titles:
+- Hannibal Lecter SOTL Movie feats
+- Hannibal SOTL Movie feats
+authors:
+- name: Yashizu
+  source: doc-text
+series:
+- hannibal
+characters:
+- hannibal-lecter
+variant: Movies
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1uyt6b9_doAzE1fZ7PTLSEQUtvhJ1PcJpVNtVepiKS24/edit?usp=drivesdk
+    google_id: 1uyt6b9_doAzE1fZ7PTLSEQUtvhJ1PcJpVNtVepiKS24
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 30
+    words: 11185
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 840325
+      sha256: 74681d5cbbaff89de38a5f9a34614c3243ac44512b0d172f73f303c4b51918f7
+    - format: docx
+      name: document.docx
+      bytes: 1110189
+      sha256: 08a9733ccc76759b89f6476ef0ec5eae82a08d1c8a2f2da578ac1e7283a30027
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hannibal Lecter SOTL Movie feats
+- library: remastered
+  section: Hannibal
+  character: Hannibal Lecter Movies
+  link_text: Hannibal SOTL Movie feats
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

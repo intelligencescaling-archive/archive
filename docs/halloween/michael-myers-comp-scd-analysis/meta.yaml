@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-myers-comp-scd-analysis
+category: doc
+title: Michael Myers - COMP SCD Analysis
+alt_titles:
+- Composite Michael Myers document
+authors:
+- name: unknownuser
+  source: doc-text
+series:
+- halloween
+characters:
+- michael-myers
+variant: Composite
+tags:
+- analysis
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Ta5GZnPc2yQvvWgofxA_dg2Vfw7Yn0hpot3f8M-E0Oc/edit?usp=drivesdk
+    google_id: 1Ta5GZnPc2yQvvWgofxA_dg2Vfw7Yn0hpot3f8M-E0Oc
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 66
+    words: 15264
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 37456137
+      sha256: f894cd29b3234186cda4a05c96b5be8737462fd2b04e7277b6f87d359291f0c6
+    - format: docx
+      name: document.docx
+      bytes: 44913724
+      sha256: 55d5975efe37fbd94b3d0c56107496bb3cb90a2a9ed63f5f930b5dd74a48c377
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Composite Michael Myers document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

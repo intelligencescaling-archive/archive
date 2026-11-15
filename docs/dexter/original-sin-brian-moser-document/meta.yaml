@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: original-sin-brian-moser-document
+category: doc
+title: Original Sin Brian Moser Document
+alt_titles:
+- 'Original Sin: Brian Moser Document'
+authors: []
+series:
+- dexter
+characters:
+- brian-moser
+variant: 'Dexter: Original Sin'
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1O3BQJRrBD3Xtm1m6GO7jA9EoZruEkFG8_gRRuFcVGGU/
+    google_id: 1O3BQJRrBD3Xtm1m6GO7jA9EoZruEkFG8_gRRuFcVGGU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 45
+    words: 15606
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6431833
+      sha256: d5234a81566a4d9931cadd9fb9da1f09758d651f6f752583e091c1140a6d950a
+    - format: docx
+      name: document.docx
+      bytes: 5723195
+      sha256: 83c2090efd3a17164ab3605a5ef72d8b5af741cf27eb820264ed04a881167380
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: DEXTER
+  link_text: 'Original Sin: Brian Moser Document'
+- library: remastered
+  section: Dexter
+  character: Brian Moser
+  link_text: Original Sin Brian Moser Document
+- library: remastered
+  section: Dexter
+  character: 'Brian Moser - Dexter: Original Sin'
+  link_text: Original Sin Brian Moser Document
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

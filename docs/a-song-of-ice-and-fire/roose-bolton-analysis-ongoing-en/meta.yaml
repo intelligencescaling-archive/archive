@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: roose-bolton-analysis-ongoing-en
+category: doc
+title: Roose Bolton analysis (ongoing) (en)
+alt_titles:
+- Roose Bolton
+authors: []
+series:
+- a-song-of-ice-and-fire
+characters:
+- roose-bolton
+tags:
+- analysis
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12Z6LZZsMMPla7CGZbcPxwXFxNYGgHBkCLwYWZVFfRc8
+    google_id: 12Z6LZZsMMPla7CGZbcPxwXFxNYGgHBkCLwYWZVFfRc8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 23
+    words: 4429
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5507262
+      sha256: 266eef866bb8c91a2d8b2a51a5e7c7d04d636d3c8b1119d065e83ccea5081f9c
+    - format: docx
+      name: document.docx
+      bytes: 10030456
+      sha256: 211124df7f9561ef3f6ff44d2798d00c5fbd4fd3137f6aa92cbd0d99e879b13f
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Roose Bolton
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

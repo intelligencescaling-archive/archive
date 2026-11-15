@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-rhys-strategy
+category: doc
+title: The Rhys Strategy
+authors: []
+series:
+- you
+characters:
+- joe-goldberg
+- rhys-montrose
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1n69bFOsYrKVr1OQr_3c2w84j_za_YYBxzSz2RovZNAU/edit?usp=drivesdk
+    google_id: 1n69bFOsYrKVr1OQr_3c2w84j_za_YYBxzSz2RovZNAU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 89
+    words: 19925
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5123504
+      sha256: c0fea63e2a6df1f6880d14b332178bfbf409696d6a8e1ce8609f2875290e2937
+    - format: docx
+      name: document.docx
+      bytes: 4246762
+      sha256: 1a5e3419cd8eb5a0e882d5fbec3a78ab4d2229f6d66a6951dde8e9254776d8c0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: The Rhys Strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

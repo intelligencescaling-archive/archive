@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: siesta-feats-summary-by-horny-senpai
+category: doc
+title: SIESTA FEATS SUMMARY by HORNY SENPAI
+alt_titles:
+- Another Siesta Feats Doc
+authors:
+- name: H*RNY SENPAI
+  source: doc-text
+series:
+- the-detective-is-already-dead
+characters:
+- siesta
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1bgt5KRu7kJ1kZJ7kyI9RqrCG4eYNvfnJe_qwsS1wUaY
+    google_id: 1bgt5KRu7kJ1kZJ7kyI9RqrCG4eYNvfnJe_qwsS1wUaY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 119
+    words: 37567
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6723924
+      sha256: b7e4ed1fab584b7c0438805522554cd5be0a9d32c0866487f637affc97745f68
+    - format: docx
+      name: document.docx
+      bytes: 5529610
+      sha256: ceaa8cad94e41b95edaea1d2324939645b57c6bf78a441de6f6097dcd18edf54
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'The Detective Is Already Dead:'
+  link_text: Another Siesta Feats Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

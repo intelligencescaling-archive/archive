@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mal-scd-doc
+category: doc
+title: Mal SCD Doc
+alt_titles:
+- Mal
+authors:
+- name: Phoenix Animationz
+  source: doc-text
+series: []
+characters:
+- mal
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1l6gwmsGAuMB9yE6I1W4Kg3cJP5XRapOXFFJz-3EC77o
+    google_id: 1l6gwmsGAuMB9yE6I1W4Kg3cJP5XRapOXFFJz-3EC77o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 4648
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3672925
+      sha256: f8d9394dc2a28d2aab364d2abe0d26381d9ed601d83098d5a3ea15b18bb28c29
+    - format: docx
+      name: document.docx
+      bytes: 5646254
+      sha256: 7362327b4b7265685cf359ceb45be82c97ed8160b9da9013b54d5528443896ad
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Mal
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

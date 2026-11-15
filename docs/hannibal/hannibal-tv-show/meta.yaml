@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-tv-show
+category: doc
+title: Hannibal TV show
+authors:
+- name: Q_Q
+  source: doc-text
+- name: Dominoo
+  source: doc-text
+- name: Snokebrabox
+  source: doc-text
+- name: GoatKami
+  source: doc-text
+- name: Acce
+  source: doc-text
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GhWwonFOAozd0oJwjvOWjlT1Oa86-Rjiqi1-ImscnDU
+    google_id: 1GhWwonFOAozd0oJwjvOWjlT1Oa86-Rjiqi1-ImscnDU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 201
+    words: 75173
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 53430163
+      sha256: b15ea28fc0b95de7723dbb8e917e6e46b9f0d49b27038b1c5444db9cd2b9a98c
+    - format: docx
+      name: document.docx
+      bytes: 50149940
+      sha256: 7bbe6e1b74b4daccc5be1e5ccec821d293cc96bf7529125a23276b07a1df5f23
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Hannibal TV show
+- library: remastered
+  section: Hannibal
+  character: Hannibal Lecter
+  link_text: Hannibal TV Show
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

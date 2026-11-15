@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monika-doc
+category: doc
+title: MONIKA DOC
+alt_titles:
+- Another Monika SCD Doc
+authors:
+- name: RF532
+  source: doc-text
+series:
+- doki-doki-literature-club
+characters:
+- monika
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Mh6HSpQ9vc1vsuxQIMXUREwd2H36ztQGEo-GlGJ1xeo/edit?tab=t.0
+    google_id: 1Mh6HSpQ9vc1vsuxQIMXUREwd2H36ztQGEo-GlGJ1xeo
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 206
+    words: 45862
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 63228111
+      sha256: 3dc653f1ecd7489e4211f4e13a0329d70f01000c031b8fcc4207cff13c83c6c6
+    - format: docx
+      name: document.docx
+      bytes: 51061024
+      sha256: cc4b609e3ce10c5dc275cf78ea2f4343463d2a351a47d4164768a062ab07a599
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Monika SCD Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

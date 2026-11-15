@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: freddy-krueger-feats-document-perfect-foresight
+category: doc
+title: Freddy Krueger feats document (perfect foresight interpretation)
+alt_titles:
+- Freddy Krueger Feats doc
+authors:
+- name: Bittus
+  source: doc-text
+series:
+- a-nightmare-on-elm-street
+characters:
+- freddy-krueger
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11WApC9UUGmz2LB5TPTY45qqRfQj4ouQ2hDv2teG9nIw
+    google_id: 11WApC9UUGmz2LB5TPTY45qqRfQj4ouQ2hDv2teG9nIw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 13
+    words: 4131
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 309210
+      sha256: 75ed350904b2e33953eefb7f914e89471dd4ca2ab36ffc9c71a6333129e611e0
+    - format: docx
+      name: document.docx
+      bytes: 438926
+      sha256: eb326218f72f0d9246e782ae8fbfb631350b6362435d4af635a8e95d538f110d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Freddy Krueger Feats doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

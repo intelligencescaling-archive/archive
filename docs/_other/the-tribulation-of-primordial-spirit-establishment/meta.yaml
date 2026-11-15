@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-tribulation-of-primordial-spirit-establishment
+category: doc
+title: The Tribulation of Primordial Spirit Establishment
+alt_titles:
+- Li Qing tribulation feat
+authors: []
+series: []
+characters:
+- li-qing
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1acHamRCgtY7Llrz-OK_Uy6c_0nVF56Uh36G3iGCJ-l0/edit?tab=t.0
+    google_id: 1acHamRCgtY7Llrz-OK_Uy6c_0nVF56Uh36G3iGCJ-l0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 127
+    words: 45440
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1695091
+      sha256: b00cdc0e07020694ffa1edbdb541c5d233ca0d27c1bf7f050cc660a7778e30bf
+    - format: docx
+      name: document.docx
+      bytes: 145827
+      sha256: 48ff1f648554ee710ac66b7424ab63754a820bbd481497ad752faa6ef1796a95
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Li Qing tribulation feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

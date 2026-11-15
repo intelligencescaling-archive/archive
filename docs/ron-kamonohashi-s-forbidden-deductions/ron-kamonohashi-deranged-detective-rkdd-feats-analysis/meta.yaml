@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ron-kamonohashi-deranged-detective-rkdd-feats-analysis
+category: doc
+title: 'Ron Kamonohashi: Deranged Detective (RKDD) feats analysis'
+alt_titles:
+- Another Ron Kamonohashi SCD DOC
+authors: []
+series:
+- ron-kamonohashi-s-forbidden-deductions
+characters:
+- ron-kamonohashi
+tags:
+- feats
+- analysis
+language: en
+completion: finished
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1qgnURA20gmLblrzlR-ejRVXmUKFxkb0gBd7YR2Scus8/edit?usp=drivesdk
+    google_id: 1qgnURA20gmLblrzlR-ejRVXmUKFxkb0gBd7YR2Scus8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 74
+    words: 23710
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3500370
+      sha256: 7b2e93e1b61d68c33d893197015d80421ca1acaa71f2da6bd5649ed23c80a6a4
+    - format: docx
+      name: document.docx
+      bytes: 2410073
+      sha256: 7293c2521ab1395451a8efc26d649def4f6f7ff45bfa1416c222f39e66fe84b8
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Another Ron Kamonohashi SCD DOC
+  note: (made by the same guy that created the other Ron doc, but this one is completed)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

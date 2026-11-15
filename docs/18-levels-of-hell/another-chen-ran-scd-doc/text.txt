@@ -1,0 +1,773 @@
+Stock Game Doc 18LOH PART 1
+
+Published using Google Docs
+Report abuseLearn more
+
+Stock Game Doc 18LOH PART 1
+Updated automatically every 5 minutes
+
+ Rules of “The Monopoly Game” (Economic Game).
+I. Game Structure & Objectives
+Nine players stand on nine separate floating platforms (2m²), with an abyss below.
+Life-or-Death Mechanism: The platform’s existence is tied to the company’s survival. If the company goes bankrupt, the platform disappears, and the player falls into the abyss to their death.
+Roles: Each player runs a randomly assigned company (numbered 1 through 9).
+Objective: Accumulate assets, keep the company from going bankrupt, and eliminate opponents (especially the anonymous enemy “Phú Hào”) through economic attacks.
+II. Production Mechanism (Supply Chain)
+The game establishes a circular supply chain to enforce transactions:
+Products: There are 9 product types (ABCDEFGHM). One company’s product serves as the raw material for the next company (e.g., Company A sells Product A to Company B, which sells to Company C...).
+Note: The company number is DIFFERENT from the Product. Which player owns which company is determined at the start of the game; only the product type needs to be selected. (e.g., Player 1 owns Company 1, but the product is not necessarily A).
+Trading Rules:
+Trading with the System (Market):
+Buying raw materials: Price 100/unit (High).
+Selling products: Price 80 per unit (Low).
+Consequence: Extremely low profit or a loss if operating costs increase.
+Trading with Players: To optimize, Company A should sell to Company B at a price of approximately 90 (higher than the Market’s 80, lower than the Market’s 100).
+Production Process:
+Production Time: 5 minutes per batch per employee.
+Basic Costs: Raw Materials + Employee Wages + Equipment Maintenance
+Equipment durability: Decreases gradually with each production cycle. If it falls below 60, repair or replace the equipment.
+III. Stock Market Mechanics
+This is the core mechanism for eliminating other players.
+Initial valuation: Each company has 1 million shares, priced at 10 points per share. Total value: 10 million.
+Stock Price Fluctuations:
+Price Decline: When the owner sells off shares, lays off employees en masse, or fails to address natural disasters.
+Price Increase/Recovery: When the company expands production scale (hiring more staff, purchasing additional machinery).
+Mandatory Sale Rules:
+If the owner holds shares at round numbers: 100%, 80%, 60%, 40%, the system will automatically force the sale of 20% of the shares to the market for other players to purchase.
+Tip: Players can repurchase a small number of shares to make the percentage an odd number (e.g., hold 81%) to avoid being forced to sell.
+Control Rights:
+If a group of shareholders holds over 51% of the shares, they have the right to convene a “Shareholders' Meeting” and decide on company strategy (expanding production or distributing dividends) regardless of the owner’s (legal entity’s) wishes.
+IV. Survival Mechanism
+The game forces players into an economic arms race; standing still is not an option:
+Cost inflation: Employee wages and equipment maintenance costs gradually increase over time (due to seniority and wear and tear).
+Expansion pressure:
+If the company does not expand, rising costs will erode profits -> Bankruptcy.
+To expand (hire more staff, buy new machinery for 8 million), the company needs massive capital.
+Stock dilution:
+When expanding production on a large scale, the company will issue additional shares (e.g., 1 million new shares).
+If existing shareholders do not have the funds to purchase these new shares, their ownership stake will be halved (e.g., from 51% to 25.5%), resulting in the loss of control over the company.
+Random events: An event (natural disaster, scandal, etc.) occurs every 5 minutes. If you do not spend money to handle it within 1 minute, the stock price will drop and inventory will be damaged.
+Strategy Summary
+Method 1 (Cost-Squeeze): The attacking party acquires >51% of shares -> Forces the target company to continuously expand production -> Operating costs skyrocket -> Forces the company to stop paying dividends -> The target company runs out of cash to pay wages/maintenance -> Bankruptcy.
+Method 2 (Cheap Takeover): Spread rumors or negative events/lay off employees to drive the stock price to rock bottom (e.g., 5 points) -> Buy up all shares -> Force production expansion to recover the price (15 points) -> Sell for profit or use shareholder rights to manipulate.
+Phase 1: The Encirclement Strategy
+1.1 Opening: Game Deduction.
+Deduction about the secret room
+Upon entering the second secret room, all nine people were transported to platforms measuring just 2 square meters, each equipped with a computer displaying the game “Monopoly.”
+After the first secret room, everyone deduced the following premises:
+The subway employee wanted to seek revenge on the hospital, which means he had previously taken his child to the hospital.
+He went there but received no treatment, returned home, then the child’s illness relapsed, and ultimately died at Subway Station No. 4.
+=> Inference: Since they went but couldn’t get treatment, and then had to go again, the child’s illness wasn’t a fatal one that would kill immediately; otherwise, the two wouldn’t have been able to take the subway and would have had to call an ambulance.
+It wasn’t a fatal illness but still couldn’t be treated => the child’s illness has two possibilities.
+They were too poor to afford treatment and could only take the child home.
+
+It seems there’s only one possibility: the organ was stolen. Originally, when it was their child’s turn for a transplant, the hospital gave it to someone else—this is why the subway employee harbors such hatred toward the hospital.
+=> This means the person who stole the organ either holds power or has money.
+=> Further deduction: Sun Long (the player who died in Chamber 1) will die after answering the child’s question at Station 4.
+When Sun Long dies, his hand is clutching a heart, meaning the organ the subway employee’s child needs is… the heart!
+        => So, the scenario would be: The subway employee takes their child to the hospital; at first, the hospital doesn’t have a matching heart, so they have to take the child home to wait.
+Logically, if the hospital had already given the heart to someone else, they wouldn’t have notified the subway employee again…… But for some reason, the subway employee knew their child had a matching heart, so they must have gone to the hospital to demand answers many times.
+And then finally, when bringing the child to the hospital, as they passed the third station, the child’s heart suddenly went into distress… But because it was raining and there was a puddle at the station, combined with a broken electrical wire, the passengers who had just stepped out of the train car were electrocuted to death.
+When the subway train arrived at the fourth station, the panicked passengers got off the train, while the subway employee and the child lingered there, and ultimately the child died at the fourth station.
+That is why the subway employee set the entire train on fire and then went to seek revenge on the hospital.
+In conclusion, there is no connection to the organ thief… So the second secret room will be related to the organ thief.
+
+=> The game “Monopoly” is about playing as a capitalist to make as much money as possible, and the person who steals the child’s organs is the rich person => Therefore, subway employees or NPCs harbor deep hatred toward the rich for stealing their child’s organs => The person who makes the most money also dies, and anyone who goes bankrupt will fall into the abyss => You must devise strategies to control the cash flow.
+At the same time, you shouldn’t reveal your company’s number; the principle is very simple:
+If a player reveals their company number, your opponents will certainly drive your company into bankruptcy… And if you think your teammates are friendly or allied with you, they’ll band together to target others—the reality might be much more complicated.
+For example, if Qiu Yinong is financially undermined by someone, and it’s known that it’s Qiu Yinong, and Chen Ran comes to help, then others will know that Chen Ran’s company is helping Qiu Yinong, and the situation will turn into 2 vs. 7!
+In other words, if initially only one person dies, now two people will die => Therefore, in this game, no one is allowed to reveal their company number
+(Reasoning, Thinking)
+
+1.2.2 Luring the naive into a trap.
+After making their selections, everyone begins to calculate their operations.
+There are 100 employees, each earning 100 points per minute.
+Every minute that passes, the employees’ wages are deducted.
+Open the market, buy raw materials. According to the announcement, 100 people can purchase 100 units of raw materials. Each unit costs 50,000, so the total cost is 500,000.
+The company takes five minutes to produce one batch of raw materials. The capital in the market is 1 million. So, we can calculate the costs.
+i. Raw materials: 500,000.
+ii. Employee wages for 5 minutes: 50,000.
+iii. And after production, machine maintenance is required: 50,000.
+=> Total cost is 600,000.
+For the products made, if sold to the market, the purchase price is:
+80 per unit, with a profit of 200,000.
+However, if buying that product at the market, it costs 100 per unit.
+In other words, if you want to sell that product to the company below, the price will be somewhere between…80–100.
+After 5 minutes—that is, the first capital turnover cycle.
+Everyone’s capital increases to 1,200,000, but at the same time, the wages for 100 employees total 60,000, and machinery maintenance costs also total 60,000.
+And an event has been triggered.
+Event: 【Heavy Rain】 (Note: Please address this event within 1 minute; otherwise, the company will be publicly notified on the stock exchange.)
+There are two options:
+Do not handle: Products in the next batch will be partially or completely defective, and the company’s stock price will drop.
+Handle: Labor costs 50,000, warehouse repair costs 100,000.
+Note: If not handled before the time limit expires, it will be considered as not handled
+At this event, Chen Ran holds 100% of the shares, totaling 1 million shares, each priced at 10 yuan. After careful consideration, Tran Nien decides not to address the issue and makes his move.
+Tran Nien sells 490,000 shares to the market, which are then purchased by other companies.
+Due to the massive sell-off, the stock price drops to 9 yuan per share.
+Company No. 8, due to the impact of a storm, suffered warehouse damage; 30% of the products in the next batch are likely to be defective => The stock price gradually dropped from 9 to 7 yuan per share.
+Witnessing this situation, investors rushed to sell off their shares => The stock price hit a low of 5 yuan.
+At this point, Chen Ran bought back 450,000 shares.
+Summary:
+Bought 450,000 shares.
+Held 96% of the shares.
+Sold 490,000 shares and made 3,200,000.
+Repurchased 450,000 shares, costing 2,250,000.
+=> Made a profit of 950,000.
+Here, instead of addressing the situation, Chen Ran used a capitalist tactic to “make a quick profit,” specifically short-selling.
+To put it simply: Short-selling is like “borrowing a toy to sell first, then buying it back later.”
+Imagine you have a friend named Dou, and you know for sure that Dou is about to bring a rare
+PC to class to trade for trading cards.
+
+Step 1: Borrow & Sell Immediately (When Prices Are HIGH)
+ You think to yourself: “The school will definitely ban toys next week, so no one will want to trade for this PC set anymore, and its value will drop sharply.”
+ You immediately borrow the PC set from Dou with the promise to “return it next week.” Immediately, you sell it to another classmate for $4.00. You now have the money in hand.
+Step 2: Wait for the price to drop (What you PREDICTED)
+ Just as predicted, the school announces a ban on bringing toys. No one is interested in that PC set anymore. Its value drops to just $0.80.
+Step 3: Buy Back & Return (When the Price is LOW)
+ You go to the secondhand toy market (the marketplace) and buy an identical PC set (or the exact same one) for $0.80. Then, you return it to Dou (the friend you borrowed it from).
+Result: Profit or Loss?
+ The money you had initially (from the sale): $4.00
+ The money you spent (to buy it back): $0.80
+ Your profit: $4.00 - $0.80 = $3.20
+The figure of 490,000 shares—representing 49% of the company’s shares sold—serves both as an initial lure to draw victims into the trap (selling large quantities in bulk will cause the stock price to drop) from $0.0004 to $0.00036, while also ensuring that he retains over 50% ownership to maintain control of the company.
+The crux of short selling requires the player to predict that the value of a commodity or stock will decline in the future. In Chen Ran’s’s case, he had information about an impending rainstorm that would damage his company’s products, allowing him to easily trick other players into buying the shares he knew would lose value within the next 5 minutes. ($0.00036-> $0.00028)
+
+In addition, the panic selling that follows a drop in stock prices (a stampede to sell) was also part of Chen Ran’s plan, which would cause his company’s stock price to plummet even further ($0.00028 to $0.00020).
+ All of this maximizes the profit Chen Ran reaps after buying back the shares.
+ (Tactics, Traps, Knowledge, Foresight)
+ However, the short-selling maneuver described above is actually just part of a deeper trap.
+ Objectively speaking, this short-selling tactic is nothing new to those with even minimal experience in the stock market. By this point, most players have at least had ample time to familiarize themselves with such concepts (many previous puzzles were based on hints related to game theory/economics). The game rules also include a mechanism for announcing future events with significant impact, which would make it quite clear to connect to this short-selling strategy if one were aware of it.
+ So why does everyone still fall into the trap like such “naive newbies”? The answer is to weed out the real “newbies” in this game. The probability isn’t high, but if they can identify someone who has never interacted with the stock market, it will be very convenient for their future plans.
+
+Chen Ran, of course, had already planned this out well in advance; the method for identifying the “suckers”—which was actually the real trap—lay in the very first step of his short-selling scheme. The initial drop in the stock price, triggered by Chen Ran’s large-scale selling, was the first part. The rest was a coordinated effort by other market participants who simultaneously bought the shares Chen Ran was selling. These two factors combined created a false impression of timing for the unsuspecting investors—seeing the stock price of the rival company decline—while also generating herd mentality/FOMO pressure => leading them to impulsively buy large quantities of Chen Ran’s company’s stock without giving it proper thought.
+In reality, those participating in this scheme only bought a small portion because they fully understood Chen Ran’s tactics, which were primarily designed to lure the novice investor into buying more. Assuming no one falls for the trap, they wouldn’t lose much even after reselling.
+Looking more closely, Chen Ran is actually the one reaping the biggest benefits here. He foresaw that other players would go along with his scheme, accepting a small loss to lure the unsuspecting “chickens” into the trap.
+The cunning part here is that, for each individual, the loss may be small, but when everyone goes along with this plan, the total benefit that Chen Ran gains becomes significant. Above all, he has also identified which company is run by the fool. In short, Chen Ran not only gathered information but also earned nearly 1 million in funds instead of having to accept small losses like the others.
+ (Info Gather, Mind Read, Tactics, Psychology)
+And in reality, such a fool does exist in this game: Zhou Chen. In the first trading round, Zhou Chen was the one who bought the most shares from Chen Ran:
+ Remaining balance: 1.01 million
+It looks like Zhou Chen is making a profit of 10,000, but with each capital cycle, the costs increase:
+ i. The salary of 100 employees rises to: 60,000.
+ ii. Maintenance costs also rise to: 60,000.
+ => In reality, he is losing 10,000.
+He doesn’t understand market rules and thinks:
+ “Currently, the salary of 100 employees per minute is 60,000. If I fire them all and hire another 100 employees in the shopping center, the total salary will only be 50,000.”
+ => mass layoffs => stock price drops sharply, and he assumes other companies won’t dare to buy because they fear Zhou Chen might act like Chen Ran.
+But Zhou Chen’s shares are still bought.
+ Shareholding structure of Company No. 6 (Zhou Chen):
+ Corporate shares: 83%
+ Company No. 8: 8% (Chen Ran)
+ Company No. 1: 4%
+ Company No. 3: 3%
+ Company No. 5: 2% (Boss)
+ Remaining balance: 2.2 million
+While Zhou Chen is trying to restore the stock price, Company No. 5 (boss) buys another 3% stake => Zhou Chen now holds 80%
+At this point, the mechanism is triggered:
+ “When the shares held by the legal entity cannot be sold and are at thresholds of 100%, 80%, 60%, or 40%, the company will automatically release 20% of shares to the market.”
+Upon realizing this, Zhou Chen hurriedly dumps 1% of his shares.
+ => But everyone, as if prearranged, ignores that 1%.
+Zhou Chen still holds 80% => the mechanism forces 20% of shares onto the market (meaning he still owns 80%, but 20% is forcibly listed). If nothing is done, after a few capital cycles, others will have money to buy that 20% => Zhou Chen drops to 60%, and another 20% is forced out => eventually reaching 40%, losing control, and effectively “dying.”
+In this situation, Zhou Chen is forced to buy back 1% of his own shares so they are no longer in the “floating” state. Of this, 61% cannot be sold, and 19% is waiting to be bought by others.
+ => This way, even if someone buys the 19%, he won’t be forced to release another 20%.
+After this, Zhou Chen finally understands the market rules:
+ In this game, both the leading player and the one at the very bottom will be eliminated without mercy. He wonders whether avoiding the stock market entirely would allow him to survive until the end. The answer is no.
+Because employee wages and maintenance costs increase over time => if he only focuses on production, his funds will quickly become insufficient. In other words, this is a path with no escape: either enter fierce competition and devour opponents, or accept bankruptcy—which means certain death.
+Therefore, in the second capital cycle, with 2 million, he hires 130 more employees. The company now has 200 employees.
+ => As Company No. 6 (Zhou Chen) expands production, the stock price returns to normal.
+All of Zhou Chen’s actions and calculations above were already part of others’ plans. From realizing losses from Chen Ran’s short-selling scheme leading to layoffs (which reduced his company’s value), to struggling with the forced-selling mechanism and eventually understanding the market rules, it was inevitable that he would expand production and wait for the next capital cycle to compete.
+And with that, everyone successfully completed the first trap—luring the fool, Zhou Chen, into becoming a tool for others: he is forced to give up his earnings as dividends to other companies (even more so because they also benefit from his company’s expansion, while he bears the costs), and he becomes the sacrificial “guinea pig” to test the game’s rules.
+ (Manip, Plan, Strat, Foresight, Mind Read, Prep)
+Note: Everyone identified the fool as Company No. 6, but did not yet know the player behind it.
+
+1.2.2 The Foolish Sheep
+Second capital cycle
+After using the fool to probe the rules, the others begin accumulating wealth.
+Company No. 8 (Chen Ran) expands production, and its stock price returns to normal.
+ Company No. 1 expands production, and its stock price increases.
+Players begin calculating.
+At this point, aside from Company No. 6 (Zhou Chen) and Company No. 8 (Chen Ran), all other companies are 100% owned by their legal entity (owner).
+However, when the number of employees reaches 300, they must purchase new equipment to continue expanding. But one set of equipment costs 8 million.
+
+That means, next, they must trade with each other or use stock market strategies to earn enough money to buy equipment.
+From the current situation, the strongest company is Company No. 8. Not only did it gain the most profits, it also acquired 8% of Company No. 6’s shares.
+Next is Company No. 5, which holds 4% of Company No. 8 and also 5% of Company No. 6.
+At this round:
+ Each company has 300 employees.
+ Salary per employee: 200 yuan/person/minute.
+ Thus, to produce one batch of goods requires paying 300,000 in wages (200 × 5 × 300).
+ Equipment maintenance costs are similar, so producing one batch costs a total of 600,000.
+=> This is what is called the harsh market rule forcing everyone to continuously expand production, otherwise they will be crushed by rising costs.
+But the cost to buy new equipment for expansion is now: 8 million.
+From this point, one conclusion can be implicitly understood: whoever sells shares to get money to buy equipment at this moment will be the foolish sheep. (Thinking, Reasoning)
+Currently, stock prices are 15 yuan per share, which is the highest level before expansion.
+At this moment, Company No. 5 (boss) makes a move: dumping 290,000 shares.
+a. Because of the large sell-off, the price gradually drops to 12 yuan/share, which is the level other companies can afford.
+ b. 490,000 shares are fully sold (including 290,000 voluntarily sold and 200,000 forced out after hitting the 80% threshold).
+ c. Company No. 5 earns nearly 6 million (490,000 × 12 = 5.88 million) + existing assets, enough to expand production (needs 8 million total).
+ d. Once expansion happens, Company No. 5’s stock price will return to normal, and they can profit significantly by buying shares at this stage.
+=> This is the calculation behind why other players buy.
+However, Chen Ran sees this as a trap:
+First, Company No. 5 has played perfectly in the previous two rounds. It not only acquired 4% of Chen Ran’s Company No. 8, but also 5% of Company No. 6.
+ => Just from dividends alone, it can cover its costs.
+Second, the one selling shares to buy equipment at this stage will be the foolish sheep. This comes from multiple reasons tied to market fundamentals:
+8 million for expansion means a major upgrade, and stock prices will definitely rise sharply. This is the opposite of short selling (selling because you know prices will fall). No one would sell something they know will soon increase in value.
+Moreover, the key point is that after expansion, there is a high chance that more shares will be issued. For example, if a company initially has 1 million shares, after expansion it may increase to 2 million shares. This leads to dilution of ownership.
+The legal owner of Company No. 5 currently holds 51%. After dilution, it could drop to 25.5%. Even if not fully doubled, there is still a high chance it falls below 50%, causing loss of control.
+Finally, after stock prices surge, it becomes very difficult to buy back enough shares to maintain control.
+=> From all this, Chen Ran concludes that Company No. 5 would never make such a mistake given its previous performance. From there, he deduces their intention and decides to follow along.
+Chen Ran tests the market by selling 50,000 shares, dropping the price to 14 yuan, but no one buys. He sells another 100,000, dropping to 13 yuan, then another 100,000 down to 12 yuan.
+When the price hits 12 yuan, other companies jump in and buy everything. Share distribution becomes:
+ Legal owner: 51% (Chen Ran)
+ No. 5: 29% (Boss)
+ No. 6: 10% (Zhou Chen)
+ No. 7: 5%
+ No. 3: 5%
+Chen Ran now has 12.38 million, more than enough to expand production (8 million). But he does not do it.
+=> At this moment, the trap is revealed. Company No. 5 and No. 8 aim to convert shares into cash and wage a financial war to crush companies that followed along but have limited capital. The obvious target here is the “foolish sheep” identified at the start: Company No. 6 (Zhou Chen).
+The system has layered thinking as follows:
+a. Costs increase each round => eventually profits become negative => bankruptcy
+ b. If you only rely on production, you will definitely collapse => therefore you must use the stock market to gain capital for expansion
+ c. However, based on earlier analysis, no matter how you gain funds, you must absolutely not sell your own company’s shares at this moment (this is why it’s called the “foolish sheep”)
+ => Those who reach level (c) avoid becoming sacrifices and will exploit anyone naive enough to sell their shares
+d. In fact, there is a way to exploit this mindset: choose not to expand production, as Boss and Chen Ran did
+To make it appear that they only reached level (b), they deliberately dumped their shares
+ => Those who spend heavily to buy may go bankrupt first because they cannot gain enough dividend value to offset rising costs
+The real foolish sheep are not those who only understand (b), but those who reach (c) and think they are smart, yet fail to consider deeper strategies from others’ perspectives.
+ (Tactics, Mind Read, Set traps, Prep)
+The only thing Chen Ran finds noteworthy is that Company No. 5 bought a large amount of his shares.
+
+1.2.3 Zhou Chen cuts his tail to survive
+Another production cycle ends. After seeing that Company No. 8 and No. 5 did not expand, Zhou Chen realizes their intention: they are secretly converting shares into cash by “pulling” prices, trapping him as an investor.
+Initially, he bought shares believing they would expand and generate high profits. But reality is the opposite. These companies deliberately delay buying equipment, causing operating costs to rise while revenue lags, pushing the company into prolonged losses.
+While Companies No. 5 and 8 have enough cash reserves (from selling shares) to endure losses, Zhou Chen is stuck in a deadly position. His capital is locked into their shares. When losses become clear, he has no cash to cover them.
+Worse, if he tries to sell shares to cut losses, but no one buys (since others control market timing and don’t want prices collapsing too early), he loses all liquidity. Bankruptcy becomes inevitable.
+In short, he is trapped in a dilemma:
+ Hold → slow death from accumulating losses
+ Sell → immediate death due to inability to exit
+Now Zhou Chen realizes he is in a dead zone and starts searching for a way out. To do so, he must create an “offer that others cannot refuse.”
+He analyzes that from the perspective of Companies No. 5 and 8, they will not let Company No. 6 (Zhou Chen) go bankrupt. Because if No. 6 collapses, the large amount of shares it holds will flood the market, causing severe dilution when others expand and issue more shares.
+This happens because, to maintain financial dominance, Companies No. 5 and 8 already reduced their ownership to the minimum (51%). If diluted, it could drop to 25.5%, and they wouldn’t have enough cash to buy back shares after expansion.
+Therefore, their main goal is not to immediately bankrupt Company No. 6, but to continue “shearing the sheep”:
+ Keep Zhou Chen alive long enough to extract more money, gain sufficient profit, and only then expand production and issue more shares to reclaim control.
+Zhou Chen also considers another scenario: if Company No. 5 and Company No. 8 rely on their abundant cash flow, they could actively engage in a war of attrition against the remaining six companies. However, those six companies are not fools—they could form a tacit alliance: jointly dumping shares to create liquidity, temporarily borrowing capital, then collectively expanding production to trigger a cycle of cash flow that keeps each other alive.
+Simply put, this is a “future lie” constructed among the six companies:
+ “I buy your shares first so you have money to expand production; when you earn more, you will buy back my shares so I can expand as well.”
+It is precisely this possibility of alliance that prevents Companies No. 5 and 8 from risking a war of attrition. Therefore, their optimal choice is still to continue “shearing the sheep” (Zhou Chen) slowly.
+So how do they shear him?
+With the small amount of cash left on his books, even a minor financial gap would immediately bankrupt his company. To avoid certain passive death, he is forced to actively “cut off his tail to survive”: conducting massive layoffs to reduce operating costs, causing the stock price to drop sharply.
+When the price falls to an attractive level, Companies No. 5, No. 8, and even other hidden players will rush in to buy large quantities of shares like hungry wolves. According to market rules, Zhou Chen must use the capital raised from selling these shares to expand production, because only then can the stock price recover and rise.
+But what if Zhou Chen goes back on his word and keeps the money instead of expanding production? After all, Companies No. 5 and 8 have done this before. In that case, he would regain some capital to sustain operations and even engage in attrition. Meanwhile, shareholders would be “trapped” holding stocks that do not increase in value — something other companies absolutely do not want to see.
+Therefore, Zhou Chen must sell at least 51% of his shares to the market to “guarantee commitment.” At that point, if he refuses to expand production, the other companies can intervene through a coordinated shareholders’ council and force Company No. 6 to expand.
+In summary, the only way out is:
+ By cutting staff to push stock prices down, attract buyers, and ensure that total external ownership exceeds 51%. After the company is (forced to) expand production, shareholders will gain massive profits from the stock price recovery without spending a single cent, because the financial burden of expansion is entirely borne by Zhou Chen (the legal owner).
+ → This way, Zhou Chen will not die immediately.
+Moreover, in the long run, Zhou Chen still has a chance to regain control. He can use profits to buy back shares at higher prices. Other companies, no matter how much they want to continue exploiting him, will eventually consider when Company No. 6 is no longer valuable—like a skinny sheep that cannot feed nine fat parasites.
+ → To maximize profits, they will sell their shares of Company No. 6 at peak value, earning huge gains from the price difference (bought low), then use that capital to expand and repurchase their own newly issued shares. This would only happen after several more rounds, once Company No. 6 has expanded.
+=> This is the only way. If Zhou Chen does not sell off shares, he will definitely be the first to die. If he does sell to sustain others, he will still likely be toyed with until death (buying back shares at peak price is extremely difficult and will leave him financially exhausted), but at least he can survive longer and retain a small chance to turn the situation around.
+This is the “offer that cannot be refused” that Zhou Chen must create to sustain himself:
+ Cutting off his tail and begging to be exploited, accepting calculated “shearing.”
+ Because he knows that everything he has calculated, the others have already understood as well.
+ (Adapt, Thinking, Mind Read, Foresight, Psychology, Tactics, Persuasion/Negotiation)
+The question is how exactly to sell.
+Currently, Zhou Chen holds 80% ownership → to drop below 51%, he must sell 31%, leaving himself with 49% (a safe margin to potentially regain control later, while allowing others to control via shareholders).
+Then what price should he sell at? Further calculations follow.
+First, he must initiate massive layoffs to push the stock price down to an attractive “frozen” level—but not too low. If the price drops too far, even selling all shares won’t generate enough money to fund expansion.
+Specifically:
+ Current funds: 1.8 million
+ Required costs: 8 million (equipment) + 3 million (materials) + 1 million (maintenance & labor) = 12 million
+If he sells all 80% of Company No. 6 at the current price:
+ 15 × 800,000 shares = 12 million → absurd. Clearly impossible to sell everything.
+There is still another usable source:
+ 10% shares in Companies No. 5 and 8:
+ 12 × 200,000 shares = 2.4 million
+However, he cannot sell these early because no one would buy them. Other players see that Companies No. 5 and 8 are not expanding production, meaning these shares are unlikely to increase in value soon. Meanwhile, the owners of those companies would not buy back shares unless the price drops below their selling price (still 12).
+Therefore, Zhou Chen must first sell a large portion of Company No. 6 shares (31%) to create a market shock. This stimulates competitors (especially No. 5 and 8) to rush in and buy cheap shares to gain control and avoid dilution risk if Company No. 6 collapses.
+Additionally, increased trading volume and participation will “heat up” the market, improving liquidity and making shares of Companies No. 5 and 8 easier to sell. At that point, competitors will be willing to buy back their own shares from Zhou Chen to strengthen their positions. Only then can he secure the expected 2.4 million.
+Total potential resources (excluding sale of Company 6 shares):
+ 1.8 million (cash) + 2.4 million (selling shares of 5 & 8) + 1 million (next production profit) = 5.2 million
+Actual shortfall:
+ 12.0 − 5.2 = 6.8 million
+If he sells 31% (310,000 shares) to cover the gap, assuming no new shares are issued, each share must be ~21.9 → far too high compared to current market price (15), impossible.
+If he sells more, say 60%, each share would be ~11.3 → still not viable because selling over 51% risks permanent loss of control, violating the “cut tail to survive” principle.
+At this point, Zhou Chen realizes:
+ The only survival path they leave him is to gamble—
+ to gamble that after expansion, new shares will be issued, and the money from those purchases will flow into Company No. 6’s accounts, meaning he won’t need to prepare funds for materials and labor.
+Thus, he only needs to cover about 2.8 million (6.8 − 3.0 − 1.0 = 2.8).
+ If he sells 31% to raise 2.8 million, each share only needs to be priced at around 9.
+Conclusion:
+ The lowest viable selling price that still allows expansion is 9.
+Zhou Chen considers further: what if he sells 31% and no one buys?
+ Unlikely—because if he chooses mutual destruction, after his collapse, other companies would ally and borrow capital. Companies No. 5 and 8 wouldn’t gain much, while others would exploit Company No. 6 for maximum benefit.
+Therefore, selling 31% at 9 will definitely attract buyers.
+From being forced down from 15 to 9 just to “survive,” Zhou Chen cannot help but curse inwardly.
+ (Thinking, Reasoning, WMI, Mind Read, Anticipation, Tactics)
+1.2.4 Cao Xiu’s Grand Plan
+After figuring out a way out, Zhou Chen was just about to stand up and speak when Cao Xiu spoke in a deep voice:
+“I know what you’re all waiting for. If Company No. 6 soon forces the stock price down to 9, I hope you can establish a ‘future lie.’”
+“In my company’s next large-scale production expansion, if additional shares are issued, you must immediately purchase shares worth 500,000 each. There are 8 of you, that’s exactly 4 million—should be enough to cover raw materials, wages, and maintenance after my expansion.”
+“After all, Company No. 6 is very likely to be the first to carry out large-scale expansion… Without a binding future lie, there’s a high chance you won’t buy the newly issued shares of Company No. 6.”
+No one was surprised by Cao Xiu’s request—after all, they themselves had pushed Company No. 6 into this situation. Moreover:
+A stock price of 9 does not include post-expansion reproduction costs.
+Company No. 6 has no money; if no one buys newly issued shares, it will go bankrupt.
+But no one answered immediately. In this capital game round, the real power lay with Company No. 5 and Company No. 8. Whoever answered first was likely one of them, so the others simply observed.
+At this moment, Zhou Chen spoke:
+“Alright.”
+“Financially, Company No. 8 should be the strongest. If I agree, are you going to refuse? Want to fight a war of attrition with Company No. 6?”
+Zhang Meili followed: “Alright.”
+
+Reasoning of Li Zhitong and Qiu Yinong (representing the others):
+From the way they speak, it seems Company No. 6 is Cao Xiu, No. 8 is Zhou Chen, and No. 5 is Zhang Meili. The wording subtly implies the speaker is the company being referenced.
+However, this interpretation is too superficial and exposes one’s company number—which is something no player should do.
+Therefore, thinking in reverse: they are deceiving.
+Cao Xiu is not Company No. 6
+Zhou Chen is not Company No. 8
+Zhang Meili is not Company No. 5
+Recall Cao Xiu’s wording:
+ Only when referring to buying shares does he use “my company,” meaning the future lie actually refers to buying shares of Cao Xiu’s real company, not necessarily Company No. 6.
+To reinforce the illusion that he is Company No. 6, he deliberately mixes “my company” with “Company No. 6.”
+ But he cleverly avoids lying in this sentence:
+ “Company No. 6 is very likely to be the first to expand.”
+ → This is objectively true, so he avoids contradiction.
+If he had said “my company will be the first,” that would be a lie.
+=> Conclusion: Cao Xiu is most likely deceiving.
+ If exposed, nothing is lost. If successful, he might kill one or two players.
+Furthermore, some players may detect the lie but choose not to expose it—and instead cooperate.
+Zhou Chen and Zhang Meili saying “alright” could mean either they fell for it… or they are acting along.
+If cooperating, then they would buy shares of Cao Xiu’s real company—but they don’t know which one that is.
+Qiu Yinong cannot deduce Cao Xiu’s company number. Could there be a secret signal between them?
+=> No conclusion.
+Players fall into a loop of thought. (Thinking, VCI)
+
+At this moment, Zhang Meili suddenly speaks:
+ “My company is… Company No. 5.”
+Everyone is shocked—she openly declares it without evasion.
+ => This must be true.
+Her reasoning:
+Company No. 5 just spent 3 million buying shares of Company No. 8
+Remaining balance: 5.12 million
+It can wait for Company No. 8 to expand first
+It holds 29% of Company No. 8’s shares
+ => Can profit later by selling
+=> Conclusion: Company No. 5 cannot be killed this round
+
+However, Li Zhitong spots a flaw:
+Company No. 5 sold 49% of its shares and bought 25% of Company No. 8
+Also holds 5% of Company No. 6
+ => It should have far more money
+But Zhang Meili says she only has 5.12 million
+=> She is lying
+Li Zhitong prepares to act—
+ But her teammate intervenes, warning her:
+This is likely a deliberate trap
+
+Higher-Level Reasoning (Top players like Chen Ran, Qiu Yinong):
+Chen Ran is almost certainly Company No. 8
+Therefore Zhou Chen cannot be No. 8
+ => Confirms deception between Zhou Chen and Cao Xiu
+Cao Xiu pretended to be Company No. 6
+ => So Company No. 6 must actually be Zhou Chen
+Zhang Meili claims to be No. 5, but her numbers don’t match
+ => Only possibility: there are two Company No. 5s
+(This ties to the story: a wealthy man stealing a heart transplant—possibly another hidden Company No. 5)
+
+Continuation
+Cao Xiu urges everyone to decide.
+Everyone responds only: “Alright.”
+ (Not specifying Company No. 6)
+=> The future lie is now binding:
+ They must buy shares of Cao Xiu’s company after expansion
+
+Cao Xiu then asks Zhou Chen about “Liang Di Shu”
+Zhou Chen understands
+Cao Xiu says:
+ “The number in my company name corresponds to a line in that text.”
+Zhou Chen then reveals:
+ “My company is actually No. 6.”
+And demands everyone repeat the agreement
+
+Li Zhitong’s realization:
+Everyone likely already understood the deception
+They are cooperating to trap others
+Zhou Chen’s reveal forces a second statement
+This exposes Cao Xiu’s company number
+=> Everyone benefits
+But then—
+Cao Xiu gives Zhou Chen the clue privately
+=> This is meant to trap everyone
+
+Core Strategy Layers
+Layer 1: Language Trap
+Cao Xiu creates the illusion he is Company No. 6
+ → If someone buys No. 6 shares
+ → They violate the contract
+ → They die
+
+Layer 2: Financial Trap
+Even those who see through it still cooperate
+Why?
+Cao Xiu gains 4 million
+But that 4 million is actually the “cost” to kill him later
+Key: Zhou Chen
+They likely exchanged company identities secretly
+
+Layer 3: Control & Elimination
+Cao Xiu never directly reveals his number
+ Instead uses a coded hint (Liang Di Shu)
+Target is NOT top players
+ → They will solve it
+Target is Zhang Meili
+ → Likely lacks that knowledge
+=> She dies
+
+Layer 4: Survival Insurance
+Even if exposed:
+Cao Xiu gains 4 million funding
+Others are now shareholders
+ → They are incentivized to keep him alive
+=> Double protection
+
+Conclusion
+Through layered deception starting from a simple role swap with Zhou Chen, Cao Xiu:
+Traps weaker players
+Manipulates stronger players into cooperating
+Secures funding
+Ensures survival
+And even turns supposed allies like Zhang Meili into targets.
+(Strategy, Planning, Tactics, Manipulation, Deception, Traps, Foresight, Mind Read, Psychology, Intelligence)
+
+Layer 4 (continued): Tail-cutting Survival 2.0
+Cao Xiu’s strategy still contains one final layer, which will soon be revealed.
+
+1.2.5 Three Sheep
+
+Returning to the moment when Cao Xiu revealed the hint about Liang Di Shu, the players began analyzing.
+Fifth Choose One said:
+“I remember the movie mentioned something similar, like: After parting, two places filled with longing, peach blossoms of March drifting with the current.”
+“In April the fruits are heavy, in May the pomegranates turn red, I look into the mirror with a restless heart; in June I hold a fan in longing, in July I play the zither but cannot send a letter; in September I gaze at the lonely moon, in October I wait at the empty pavilion.”
+“Based on that… ‘after parting’ probably corresponds to ‘ten-li long pavilion.’”
+Long Hui nodded in agreement:
+“Liang Di Shu truly is a timeless love poem. But I know another version…”
+“Separated in two places, both filled with sorrow, promised to meet in March or April, yet it turned into five or six years.”
+“In July lighting torches, burning incense to pray, in August the moon is full but the person is not.”
+“On Double Ninth climbing high, watching a lone wild goose, countless words left unsaid, sorrowful and desolate…”
+“Ten times leaning on the railing.”
+Da Jie also sighed:
+“This is probably the charm of Liang Di Shu—everyone interprets it differently. No wonder the movie shows different versions and uses them to hide numbers in company names. Truly impressive.”
+Context for Liang Di Shu (for anyone unfamiliar — probably everyone reading this):
+The poem “Liang Di Shu” (also called “Farewell Letter”) by Zhuo Wenjun (Western Han Dynasty, China) is characterized by a structure that continuously counts from 1 to 10, expressing longing after separation. It typically ends with the image of the “ten-li long pavilion.” A common version goes roughly as follows:
+After one farewell, two places share longing.
+Promised three or four months, who knew it would be five or six years.
+Seven-string zither without sound.
+Eight lines of letters that cannot be sent.
+Nine linked rings broken in the middle.
+Ten-li long pavilion, gazing until the eyes grow weary.
+Chen Ran and Qiu Yinong deduced:
+The Three-Star players were deliberately confusing things using different versions of Liang Di Shu. If you try to reconstruct the original from those versions, everything still points toward “ten-li long pavilion” and “ten looks at the railing.”
+=> They are guiding the reasoning toward the number 10.
+But with sufficient knowledge, you could realize both versions are missing a line:
+“Ah, my dear, if only in the next life you were female and I were male.”
+Thus, “after parting” corresponds to “you are female, I am male.”
+Liang Di Shu was written by Zhuo Wenjun to her husband Sima Xiangru. Zhuo Wenjun was female.
+So “you are female, I am male” implies a reversal — female becomes male, male becomes female.
+=> Yin and Yang are inverted.
+=> Zhou Chen is Company No. 6 → reversing 6 gives 9.
+=> Cao Xiu is Company No. 9!
+(Knowledge, Reasoning, Thinking, VCI)
+Explanation of the line and its connection to “after parting”:
+After Sima Xiangru went to Chang’an to serve as an official for about 5–6 years, Zhuo Wenjun sent many letters but received no reply. Having gained wealth and status, Sima Xiangru forgot his wife and intended to take another woman from Maoling as a concubine.
+He sent Zhuo Wenjun a letter containing only numbers:
+“1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 100, 1000, 10,000.”
+The sequence deliberately omitted the character for “hundred million” (億), which also means “memory” or “remembrance.”
+His meaning was clear: he no longer wished to remember their relationship.
+Zhuo Wenjun understood this and wrote Bai Tou Yin, attaching a farewell letter (Liang Di Shu / Farewell Letter).
+That is, he had decided to sever their bond → parting.
+However, in her reply, Zhuo Wenjun added back the missing character “yi” (memory), showing she still remembered their past.
+The poem ends with:
+“Ah, my dear… if only in the next life you were female and I were male.”
+=> “After parting” refers to their final separation, and that line is the concluding verse of the farewell poem.
+TL;DR:
+Liang Di Shu is a collection of poetic letters between a couple. After a long separation, the husband chose to abandon the marriage. The wife realized this and wrote a final farewell letter. The ending line expresses a wish for reversed roles in the next life → “you as female, I as male.”
+=> Therefore, “after parting” corresponds to that final line.
+Execute the sell-off operation: Zhou Chen withdraws personnel + sells many shares → the price drops to 9 units. The remaining players immediately rush to buy according to agreements.
+Shareholding situation:
+Legal entity: 49% (Zhou Chen)
+Number 8: 12% (Chen Ran)
+Number 5 (one): 8% (Boss)
+Number 5 (two): 7% (Zhang Meili)
+Number 9: 6% (Cao Xiu)
+Number 3: 5%
+Number 1: 5%
+Number 2: 4%
+Number 4: 4%
+There are two company 5s. The previous reasoning of the players needs to be re-evaluated.
+The leader likely won’t be eliminated.
+So what are the winning conditions? → The subway staff surely resent the rich, murdering their child, so letting a non-player control company number 5 go bankrupt has a very high success rate.
+The key point: Zhang Meili is in danger because she cannot distinguish which company 5 belongs to her or the Boss on the stock market → players target both companies to eliminate them.
+Zhang Meili fell silent, needing to find a breakthrough when trapped by Cao Xiu + everyone targeting her. She began analyzing:
+Currently, Cao Xiu’s future lies of deception have become unchangeable, followed by Zhou Chen’s lies. She can only proceed step by step to probe Cao Xiu’s company.
+After Zhou Chen’s number 6, the company whose production expands and receives investment from many other companies is Cao Xiu’s.
+However, relying solely on others’ reactions to deduce is very dangerous. If she can think of it, they can too. Other players could jointly create illusions (e.g., another player besides Cao Xiu also expands production + others cooperate) to deceive Zhang Meili. She cannot judge because the future lie does not mention when Cao Xiu will expand production.
+Therefore, to break the situation, the only way is to deduce Cao Xiu’s company number. Zhang Meili herself is not proficient in Liang Di Shu, so clues can only be found in the words of the three Three Star players.
+The potential breakthrough lies in understanding why Di Wu Zheyi and Long Hui presented two different versions. To understand this, one must trace their motives.
+On the surface, both use the “separation” poem to hint at “ten-li long pavilion” and “ten-foot railing,” leading everyone to the number “ten.” This is clearly intentional smoke to mislead.
+But the key is here: If Di Wu Zheyi already said “ten-li long pavilion,” why must Long Hui repeat “ten-foot railing” so blatantly?
+The answer can only be: a discreet hint for Li Zhitong to avoid her falling into a wrong deduction trap.
+But Long Hui openly reminds without fearing others (obviously including Zhang Meili) using his words to deduce Cao Xiu’s company?
+At this moment, Zhang Meili realizes she has been too focused on the game, overlooking the larger competition on the board: the hidden battle among the Three Star players.
+Everyone knows the three Three Star are the strongest here. Naturally, they will use every opportunity to eliminate other Three Star players, reducing the toughest rivals for the final round.
+Therefore, the current situation is perfect to remove one: Di Wu Zheyi.
+Currently, there are 9 players, and Long Hui’s “Careful Words” will force players to pair up for conversations to avoid penalties (see the player skill list).
+Zhang Meili has Cao Xiu, Long Hui has Li Zhitong, Chen Ran has Qiu Yinong, Duo Jie has Zhou Chen. Only Di Wu Zheyi is alone (originally paired with a deceased player in the secret chamber).
+So now, as long as conditions are met (someone lies and he ignores it), Long Hui’s skill can force Di Wu Zheyi’s elimination.
+Therefore, Long Hui does not fear Zhang Meili using his words to deduce Cao Xiu’s company. His priority is protecting Li Zhitong while keeping the odd number of players until “Careful Words” triggers.
+As for Duo Jie, he certainly sees the chance to eliminate Di Wu Zheyi in this scenario, likely cooperating with Long Hui.
+Of course, Chen Ran is another factor. When conditions are met, he can use Eternal Kingdom to nullify all skills. But from Chen Ran’s perspective, Di Wu Zheyi’s death aligns with the goal of eliminating players (preventing skill exposure upon leaving the dungeon). He can sit back and watch the Three Star players weaken each other → no need to intervene.
+In short, for Di Wu Zheyi now, the best move is to harm one person so the remaining number is even, removing Long Hui’s skill threat (e.g., harming Zhang Meili → Cao Xiu forced to pair with Di Wu Zheyi) → Di Wu Zheyi’s words are purely misdirection.
+Long Hui and Duo Jie want to maintain the current odd number → messages hidden in their words can be used for deduction.
+Zhang Meili proceeds to deduce Cao Xiu’s company number.
+Previously, Zhou Chen said: “heard about it, but it relates to QUANTITY, just a short mention”
+Cao Xiu: “Farewell henceforth” in the latter half of Liang Di Shu, corresponding to the poem line, deduce QUANTITY → from the start, both Zhou Chen and Cao Xiu hinted at identifying via QUANTITY in the poem.
+Note: Liang Di Shu is a poem continuously numbered 1 → 10.
+Zhang Meili’s premise: Cao Xiu’s reminder to Zhou Chen about Liang Di Shu refers to QUANTITY in the poem (but this is Cao Xiu’s fake info; the correct line is “Ah, my dear, I wish in the next life I be female, you be male”).
+Why does Zhang Meili trust this premise?
+She lacks the deep knowledge of Chen Ran or Qiu Yinong to reason otherwise.
+Cao Xiu said: “deduce QUANTITY → the number in my company name,” a direct affirmation without ambiguity. But he was signaling Zhang Meili to focus on numbers.
+Therefore, Zhang Meili’s reasoning naturally follows numerical thinking rather than deeper meaning.
+As deduced above, Di Wu Zheyi’s words are purely a trap → eliminate number 10 (only 1 → 9 exists).
+Then Long Hui and Duo Jie → can analyze based on their words because messages are genuinely embedded.
+Liang Di Shu in both versions contains the couple’s separation → thus Liang Di Shu can exist in two versions → both Long Hui and Di Wu Zheyi refer to true Liang Di Shu (Duo Jie said multiple versions exist, no single correct one) → the ascending number order rule in Liang Di Shu is real. (*)
+Thus, the poem must follow a number sequence to maintain its structure, and (*) is the clearest rule shared by both versions → sequence from 1 → 10.
+Here are the two things to parse:
+The poem has a number sequence.
+Ascending or descending order → though the spoken lines are true, the 10 → 1 sequence may be reversed → to mislead Zhang Meili into choosing 10
+Must pay attention to ascending/descending order + there must be a message Cao Xiu sent to Zhou Chen → key/base is Zhou Chen.
+Testing both cases: Zhou Chen is 6
+Ascending → 7
+Descending → 5, but Zhang Meili is already 5 → impossible.
+Descending in literature can be reversed → number 6 reversed is 9
+Conclusion: Cao Xiu’s company → either 7 or 9. Zhang Meili can only deduce this with limited data and knowledge.
+Zhang Meili finally sees the last layer (level 4) in Cao Xiu’s plan:
+Cao Xiu foresaw the hidden battle among Three Star players and knew Di Wu Zheyi would be dangerous, planning all the way to this point.
+Zhang Meili is not only a target but also the “sacrificial lamb” Cao Xiu offers Di Wu Zheyi to handle, avoiding threats from Long Hui and Duo Jie.
+After Zhang Meili (originally paired with Cao Xiu to counter Long Hui) dies, Di Wu Zheyi and Cao Xiu form a pair. Cao Xiu’s “intentions” are clear: seeking protection from a Three Star player to increase survival rate through the dungeon (like Li Zhitong).
+From the start, Cao Xiu’s calculations not only aimed to eliminate but also replace Zhang Meili with a stronger teammate. (Strategy, Planning, Tactics, Manip, Prep)
+
+Continuing calculations:
+Zhang Meili must anticipate the worst-case scenario: others deduce she can only reason from limited information → two cases remain: 7 or 9
+Worst case: both 7 and company 9 expand production, Zhang Meili restricted by Cao Xiu’s lies. Those who know the answer buy both → she cannot determine Cao Xiu’s company.
+Non-shareholders cannot check shareholding → Zhang Meili has only one choice: gamble!
+Cannot identify Cao Xiu’s company as 7 or 9 → reserve 1.5 million units (500k for companies 6, 7, 9).
+What about the remaining money?
+Think from Zhou Chen’s perspective → company 6’s operation shows Zhou Chen doesn’t understand shares.
+He is eager to end the secret chamber, the two company 5s show him conditions: let wealthy control company 5 bankruptcy.
+But the wealthy anticipated this and bought many shares of company 8 (another reason for the seemingly strange purchase at the end of 1.2.2). (Prep)
+Thus, the wealthy is not easily destroyed; Zhang Meili becomes Zhou Chen’s attack target! His company name coinciding with Zhang Meili causes complications.
+What will he do to target Zhang Meili?
+ → Zhou Chen will not buy back company 6 shares from Zhang Meili → she cannot expand production → slowly dies from growth costs.
+How to break the situation? Parasitism strategy:
+ Use all remaining money, buy all shares of company 6… At that point, even without expanding, profits from company 6 can sustain. (Prep)
+Zhou Chen will reason similarly → will not buy shares from Zhang Meili to suffocate her.
+Just as he plans, Di Wu Zheyi, having fully read his mind, advises: “think again” → Zhou Chen realizes Zhang Meili will go all-in to parasitize.
+Di Wu Zheyi continues: best for Zhou Chen not to expand production again in the near future; he currently has money (4 million from prior false contract) → can still resist. → Zhang Meili’s parasitism won’t get immediate funds.
+
+Considering the current situation of Di Wu Zheyi, it is obvious to everyone that Zhang Meili must be eliminated to secure a safe position. Zhou Chen found this reasonable and temporarily held back.
+1.2.6 Shareholders’ Meeting
+Company No. 3 (Long Hui or Duo Jie) initiated a shareholders’ meeting for Company No. 6:
+Option 1: Expand production on a large scale.
+Option 2: Do not expand production.
+Chen Ran thought:
+This move is very clever. It ensures that the result will definitely be “Expand production,” which both protects Zhang Meili (keeping an odd number of players to threaten Di Wu Zheyi) and sends a message to Zhou Chen that resistance is useless.
+Analysis:
+In theory, Di Wu Zheyi is in danger now, so they should choose 2. Cao Xiu, wanting to align with Di Wu Zheyi, would also choose 2 → in that case, the two of them could gradually eliminate Zhang Meili (who is parasitizing Zhou Chen).
+But thinking more carefully, if Cao Xiu chooses 2, it will reveal themselves as Company No. 9 to Zhang Meili → she escapes the first deception trap.
+If Di Wu Zheyi chooses 2, it would immediately reveal their company to others, because everyone knows only Zhou Chen (6), Cao Xiu (9), and Di Wu Zheyi would choose 2 → leaving Di Wu Zheyi’s company exposed → Di Wu Zheyi would be trapped and almost certainly die under the cooperation of the two Three Star players.
+Therefore, only Zhou Chen will choose 2, but Zhou Chen has only 49%, so option 1 wins with 51% → carried out → production expands → Zhou Chen runs out of money and can only lie low, working for others.
+In reality, just as Chen Ran predicted:
+After expanding production, Company 6 issues 1 million new shares. Everyone continues to buy, totaling 500,000 units.
+Zhang Meili, having determined that survival means parasitizing Zhou Chen, adds another 250,000 to buy more, totaling 13.5% of the shares → she becomes a major shareholder of Company 6 → parasitism succeeds!
+Cao Xiu’s plan fails completely, losing both bait and hook. He can’t trick anyone into lying, and his company is exposed. He also wants protection from a Three Star player, Di Wu Zheyi, but this player is also in an extremely dangerous position and can’t protect him.
+Cao Xiu reasons:
+Despite all his schemes, Zhang Meili survives. It’s extremely difficult to arrange things with Three Star players present (he realizes the recent shareholder meeting was initiated by Long Hui or Duo Jie).
+Currently, Di Wu Zheyi wants to escape danger and will target one person. The top target is clearly Cao Xiu, who is also fragile (company number exposed).
+Logically, Cao Xiu should also go all-in on Company 6 like Zhang Meili to ensure survival. But he feels he is already trapped by Three Star players’ plan.
+If Company 6 is parasitized by Cao Xiu and Zhang Meili, they just need to destroy Company 6 to eliminate all three → the player count becomes even.
+Considering the three other potential hosts: Chen Ran, Qiu Yinong, Li Zhitong. He only knows Chen Ran’s company number (8). What if he parasitizes Chen Ran?
+Absolutely not! Chen Ran is the most dangerous outside the Three Star circle, and his skills make him a top elimination priority → parasitizing him would get him eliminated immediately, reducing two players while keeping an odd number (still 7) to continue threatening Di Wu Zheyi, giving Long Hui and Duo Jie strong motives to act.
+Summary:
+If Cao Xiu does not parasitize, Di Wu Zheyi will kill him by any means.
+If Cao Xiu parasitizes:
+Zhou Chen: will share the fate of being picked apart by others
+Chen Ran: will be eliminated by Long Hui and Duo Jie for three reasons
+Difference: Di Wu Zheyi will try to directly harm Cao Xiu, while Long Hui and Duo Jie will not kill him immediately if he parasitizes Zhou Chen, because they want to keep an odd number to pressure Di Wu Zheyi.
+→ Conclusion: Instead of being drained by three Three Star players and trapped, better to take initiative and preserve resources. Better to be a fish on the chopping block than a dead fish.
+Cao Xiu decides to go all-in with his company shares into Company 6, acquiring 14.5% → he also parasitizes Zhou Chen.
+Result:
+Zhou Chen: 24.5% shares
+Cao Xiu: 14.5% shares
+Zhang Meili: 13.5% shares
+In simple terms, if Company 6 earns 1 million, Zhou Chen gets 245,000.
+As new shares are issued, the price is fixed at 15 per share; buying back cheaply is nearly impossible.
+Every time Company 6 earns 1 million, the other two parasites share 280,000 as commissions to cover losses for their own companies.
+The three players continuously invest and feed their own companies → essentially causing no threat to others.
+Chen Ran reminds them:
+After scaling up, each production round requires 50 units per material → total 300 units.
+Old labor & equipment costs 600,000.
+New staff: 100 per point per person
+New equipment maintenance: 150,000
+Total cost: 3.9 million
+One batch sells for 4.8 million → profit 900,000
+Zhou Chen: 220,500
+Cao Xiu: 130,500
+Zhang Meili: 121,500
+Profit too low to keep up with skyrocketing costs → can last only a few rounds. Also, books are depleted due to all-in on Zhou Chen’s company.
+Now, the only option: Cao Xiu and Zhang Meili cut staff, accept an empty company, fully reliant on Zhou Chen. Zhou Chen must hire cheaper new staff to meet expansion, reducing wages.
+Firing reduces share price → other companies swoop in → Company 6 must recruit and expand production: fired 300, plus hire 900 total for expansion.
+Share price stabilizes.
+Each batch now earns 2.55 million.
+Over time, labor and maintenance costs rise → Company 6 can only keep hiring and expanding. Zhou Chen (and the two parasites) appear to earn more on paper but are effectively working for seven other companies → eliminating any chance to buy back shares, as his ownership is diluted by repeated expansion.
+Recap
+The “3 Sheep Trap” is complete, orchestrated by five players: three Three Star, Chen Ran, and Boss.
+Chen Ran’s first short-selling step identifies the first sheep.
+Then Chen Ran exploits Di Wu Zheyi’s plan to push the next sheep into a helpless position.
+Everyone deduces Zhou Chen’s moves → forces him to comply → all get “plucked.”
+Cao Xiu and Zhang Meili are lured into parasitizing Zhou Chen, losing any chance to turn the game → if Zhou Chen dies, they die too (one arrow kills three).
+Zhou Chen now survives barely, forced to work continuously, costs rising each round → the main sheep (Zhou Chen) is powerless.
+Core insight: the plan exploits Cao Xiu’s schemes. He initially needed a partner with little market knowledge and trapped financially → Zhou Chen.
+Three Three Star players manipulate the situation to make Cao Xiu think his plan works, but it’s staged for Zhang Meili to see.
+Both reach the “save yourself” mentality.
+Finally, Zhou Chen loses all chance to buy back shares due to forced expansions → repeated share dilution.
+The Three Sheep Trap strategy cannot foresee every detail, but the major directions are clear. Only the Liang Di Shu section requires improvisation for the “Three Star Showdown” to show clearly.
+1.3 One Arrow, Three Eagles
+At this point, the first commercial battle came to an end.
+Company No. 5 (Zhang Meili) and Company No. 9 (Cao Xiu) had been reduced to junk stocks, with no chance of turning the situation around.
+Company No. 6 had become a money-making tool. If Zhou Chen wanted to reverse the situation, he could only slowly buy back shares.
+
+1.3.1 Mutual Conflict
+When Company No. 6 earned another sum of money, a shareholders’ meeting was immediately convened.
+Notice: Company No. 8 (Chen Ran) is holding a shareholders’ meeting. All shareholders are requested to vote:
+Do not distribute dividends; retain funds in the account and prepare to expand production.
+Distribute dividends; temporarily halt expansion and distribute profits according to shareholding ratios.
+
+Upon hearing this, Zhang Meili and Cao Xiu immediately turned pale.
+Zhou Chen held 24.5%
+ Cao Xiu held 14.5%
+ Zhang Meili held 13.5%
+Together, the three held 52.5%. In theory, if all three chose to distribute dividends, the other shareholders could do nothing.
+However, this had to be considered from Zhou Chen’s perspective. Company No. 6 would not easily go bankrupt, because other companies were relying on it for profit. In other words, even if Zhou Chen chose not to distribute dividends, it would not harm him.
+But for Zhang Meili and Cao Xiu, not receiving dividends would be fatal. Without dividends, they would not be able to cover the losses of their already hollow companies.
+Fearing Zhou Chen might hesitate, Cao Xiu quickly said:
+“Zhou Chen, you must understand—if Zhang Meili and I die, do you think they will let you go?”
+Zhou Chen wavered. He understood that the two of them had been heavily deceived and were now tied to him; they could not betray him. Keeping them alive would be safer. With all three together holding more than 51%, it would be harder for others to eliminate them.
+At this moment, Di Wu Zheyi spoke:
+“Do not rush to a conclusion. You should first look at how many shares the tycoon holds, then decide.”
+
+Zhou Chen frowned and examined the share distribution.
+There were two Company No. 5 entities:
+ One held 13.5%
+ One held 17%
+The one holding 17% was undoubtedly the tycoon.
+Di Wu Zheyi’s implication was clear: if Zhou Chen chose not to distribute dividends, there was a chance to starve the tycoon and clear the second secret room.
+However, if Zhang Meili and Cao Xiu died, the number of remaining players would be seven—an odd number—and for Di Wu Zheyi, the situation would not change.
+There had to be a trap.
+
+As if aware of his thoughts, Di Wu Zheyi smiled faintly.
+At this point, it became clear that all three had been drawn into the rhythm of the economic game. They were focused entirely on stock manipulation and calculations, while the “Three Stars” had staged events to mislead them into believing that Di Wu Zheyi was in a disadvantaged position.
+They had been pressured so much that they forgot the most important condition for Long Hui’s ability: someone must lie.
+If the number of people is odd and someone lies, Di Wu Zheyi can simply shoot that person before Long Hui uses his skill. Even if he shoots slower, the number of people becomes even, meaning Di Wu Zheyi still cannot die.
+But if the number of people is even and someone lies, then the liar will be shot, leaving Di Wu Zheyi with no one to speak to, placing him in a fatal situation.
+
+Zhou Chen hesitated.
+He calculated that the maintenance costs for Zhang Meili and Cao Xiu were approximately 310,000.
+Their companies likely still had around 1 million remaining. If dividends were not distributed, their companies would not last even 20 minutes before going bankrupt.
+If they died, their shares in Zhou Chen’s company would re-enter the market as newly issued stock.
+However, that was not the key issue.
+The key question was whether they could starve the boss’s Company No. 5 and end the secret room.
+The boss had purchased 28% of Company No. 8 and 17% of Company No. 6, so he likely did not have much remaining cash.
+However, the boss had previously obtained a significant amount of money during the stock-dumping phase used to lure others, and had also purchased Zhou Chen’s company at its lowest price of 9. Therefore, starving the boss would be extremely difficult.
+
+After considering this, Zhou Chen sighed and ultimately chose to distribute dividends.
+However, an announcement was made:
+Notice: According to the shareholders’ vote, shareholders holding 61% have chosen not to distribute dividends.
+Everyone rubbed their eyes, suspecting they had seen incorrectly.
+Company No. 9 chose to distribute dividends.
+ Company No. 6 chose to distribute dividends.
+ The remaining eight companies all chose not to distribute dividends.
+This meant Zhang Meili had not chosen to distribute dividends.
+
+Cao Xiu slammed the table in anger and pointed at Zhang Meili:
+“You!”
+Zhang Meili replied calmly:
+“Let’s call it even.”
+
+In reality, a closer analysis reveals the reasoning.
+Zhang Meili was constrained by a future lie condition and could not determine whether Company No. 7 or No. 9 belonged to Cao Xiu. Therefore, she retained 1.5 million to fulfill that condition.
+Cao Xiu, on the other hand, was only constrained earlier. After investing entirely into Company No. 6 and becoming parasitic, he was no longer bound by any future lie conditions.
+Thus, Cao Xiu could not retain much capital at this point. This is reflected in his shareholding of 14.5% compared to Zhang Meili’s 13.5%, a difference of 1%.
+
+Recalculating from the beginning:
+When Zhou Chen forced the stock price down to 9:
+Zhang Meili: 7%
+ Cao Xiu: 6%
+After expansion, all shares were diluted by 50%:
+Zhang Meili: 3.5%
+ Cao Xiu: 3%
+Then both were required to fulfill a contract to purchase 500,000 shares of Zhou Chen’s company.
+Zhang Meili, having determined she was parasitic, added another 250,000.
+ Cao Xiu also invested parasitically.
+Zhang Meili: 3.5% + 500,000 + 250,000 = 13.5%
+ Cao Xiu: 3% + 500,000 + additional parasitic capital = 14.5%
+From this, 1% of shares is valued at 75,000.
+Cao Xiu’s parasitic investment was 362,500.
+
+At this stage:
+Zhang Meili had 1,000,000 remaining.
+ Cao Xiu theoretically had 887,500, which is 112,500 less than Zhang Meili.
+However, during the earlier “luring” phase conducted by the boss and Chen Ran, Zhang Meili refrained from buying in order to remain hidden, while others, including Cao Xiu, did purchase.
+Therefore, Cao Xiu’s actual remaining funds were significantly lower.
+So theoretically, the capital should be 887,500, but after significant deductions it would drop somewhere below 600,000–700,000 due to three rounds of stock manipulation. With the current cycle cost at 310,000 (and still rising), clearly if no commission is shared, Cao Xiu would be dead in two turns (in reality, Cao Xiu only has 510,000 left, so after two turns, death is certain). Company 8/Chen Ran had already held a shareholders’ council meeting to warn Zhang Meili about this, since clearly company 8/Chen Ran can calculate most accurately how much money Cao Xiu has left by looking at Cao Xiu’s shares. If Zhang Meili doesn’t share the commission, it would take three rounds (since she still has 1,000,000), but Zhang Meili has insurance (explained below).
+After calming down, Cao Xiu shakily takes a cigarette, lights it, and inhales deeply. Cao Xiu asks why Zhang Meili did that, considering all three of them are in the same boat. Zhang Meili says, “Do you think a tycoon would just stand by and watch me die?” Looking at the game situation, Zhang Meili’s company will act as a shield in front of the Boss whenever a player wants to destroy company 5. So as long as Zhang Meili survives this period, the Boss will surely inject money for her production, creating two company 5’s to distract other players.
+At this point, it becomes clear that the Boss buying lots of shares in company 8 and selling shares to stall time is not just insurance for Zhang Meili according to Cao Xiu’s plan but also a trap for other players. It also guarantees the Boss’s current cash flow to support Zhang Meili, making her confident in this decision. The premises set up for Zhang Meili by others: the Boss has a large cash flow to keep her alive as a sacrificial pawn. The Three Star guide her reasoning toward cases 7 and 9, making her keep 1,000,000 to inject into these two companies. Company 8/Chen Ran’s reminder made Zhang Meili aware that Cao Xiu is now penniless and will die in 1–2 rounds if he doesn’t share commission. If Cao Xiu dies, he won’t be able to expand production, so Zhang Meili doesn’t need to fulfill her promise, meaning even spending all 1,000,000 reserve is fine. Cao Xiu has betrayed Zhang Meili, so when handed a loaded gun, she won’t hesitate to shoot at him.
+From points (1), (2), (3), and (4), they’ve turned a harmless sheep into a crazed one attacking its own flock. The three-sheep alliance collapses.
+
+1.3.2 Betting on the abyss, three sheep, eliminated!
+Cao Xiu says, “Ha ha ha, so that’s it. One wrong move and the whole board loses. Honestly, before meeting you, I always thought I was the main character… seems it’s a bit late now.” Cao Xiu pulls out the Liar Killer, points it at his head, glances at everyone, and smirks. “Do you find it strange why I mentioned those words? Guess if I lied in them?” Everyone stares at him, knowing he might hide a lie, but no one dares bet. Until he uses his skill, no one will judge him. Cao Xiu looks around and finally his gaze stops on Chen Ran. “Later, you better think carefully about using Eternal Kingdom.”
+He speaks solemnly: “Liar Killer • Push Chaos to Zero!” Then the secret chamber plunges into darkness and restores light. All eight people point guns at Cao Xiu, but no one shoots. They notice nothing has changed, but when looking at the shares, company 9 (Cao Xiu) now only holds 3% of company 6’s shares. Long Hui tries using a skill but fails, meaning Cao Xiu did not lie.
+Everyone now realizes Cao Xiu’s skill can erase his past mistakes, specifically his all-in (parasitic) action in company 6. Without being forced to parasitize, he wouldn’t need to lie to use the skill—this is a cause-and-effect skill. They see that 11.5% of Cao Xiu’s shares disappeared and weren’t bought by anyone else. His skill only disrupts his own cause and effect, not others’. In theory, when Cao Xiu erases the all-in mistake, the 11.5% in the past would be bought by other companies, not appear as newly issued shares. This confirms his skill affects only himself.
+They realize this is a weak cause-and-effect skill; as long as Cao Xiu is destined to die, even resetting won’t save him. An ultimate weapon to nullify this weak cause-and-effect is Chen Ran’s Eternal Kingdom, which nulls all hacks. Clearly, a sheep escaping the pen must face the flock’s spears—this is Zhang Meili.
+She begins analyzing Chen Ran’s Eternal Kingdom, considering its potential upgrades, which could not only null hacks but also erase player items. Chen Ran smirks, knowing this is Zhang Meili’s negotiation tactic: present a difficult problem, then offer a solution, forming alliances while pushing Chen Ran forward. Zhang Meili says her skill can combine with Li Zhitong’s skill to eliminate Chen Ran, smiling subtly and taking in everyone’s expressions. She knows that after Cao Xiu erases his mistake, nearly 3 million will be added to his account. Cao Xiu won’t be tortured to death quickly—only Zhang Meili could be.
+If she lies while using her skill, even if avoiding judgment like Cao Xiu, as long as Chen Ran uses Eternal Kingdom, both will die. In other words, keeping a secret lie is useless unless Chen Ran dies. If others want to kill Chen Ran quickly, they must rely on her skill, giving her negotiation power. No one responds because Zhang Meili has only been drawing plans, not guaranteeing conditions to kill Chen Ran.
+She tells six others (Three Star, Li Zhitong, Cao Xiu, and Zhou Chen) to create a future lie: “After Zhang Meili uses her skill, no one can judge her.” The other five agree, because if her skill can’t avoid lies, Chen Ran or Qiu Yinong would judge her. Seeing the negotiation succeed, Zhang Meili says, “Sigh, I was a teacher in life, teaching generations for eighteen years—maybe that’s why my skill…” She raises a gun at Chen Ran frowning and asks, “If you judge me now, maybe there’s a chance to turn the table, otherwise…” She trails off, silently waiting for Chen Ran and Qiu Yinong. Both remain indifferent—her lie is only known to her; anyone judging her is foolish.
+“Liar Killer • Death Focus!” The chamber goes dark. Maybe thanks to Cao Xiu’s experience or her previous words. Even knowing she’s lying, no one dares judge her because using the skill allows avoidance of lies. In the darkness, Chen Ran’s mind calculates whether to use his skill and retrieves an item from his backpack. Zhang Meili notices; her taunt makes Chen Ran cautious.
+When light returns, everyone sees a giant pair of eyes appear in midair—size of a washbasin, pupils spinning, staring at everyone. Then they lock onto Zhang Meili, whose eyes are closed, but the eyelid hollows indicate no eyes. One giant eye stares at Chen Ran, the other at Qiu Yinong. Both feel hair-raising danger—the slightest movement risks harm.
+Everyone deduces Zhang Meili’s skill effects: summon floating giant eyes to stare at specific targets (Chen Ran and Qiu Yinong), forcing them to act like “well-behaved students.” In Deadgame terms, “studying” = decoding the secret chamber. Targets cannot perform unrelated actions (skills, shooting, speaking) and violating this triggers forced removal from the chamber, i.e., Chen Ran would leave the game table and fall into the abyss. Second effect: convert area attack into single-target attack.
+Now someone just needs to supply a lie so Li Zhitong can use their skill. While deciding who provides the lie, Chen Ran manipulates a mouse with precise movements while Qiu Yinong watches his index finger. They’re using Morse code to fake secret chamber decoding, bypassing “Death Focus” punishment and communicating. Long Hui partially sees this.
+Back to the game: since Zhang Meili and Cao Xiu have lied, once Chen Ran uses Eternal Kingdom, both must die—so to survive, they must kill Chen Ran. Zhou Chen and Li Zhitong know both are in the last positions; further fighting guarantees only death. If carefully analyzed, the battle has three key points:
+The dungeon score reward—irrelevant for Two Star players like them.
+Qiu Yinong—her skill command makes her vulnerable.
+Chen Ran must die—his skill is dangerous for floor 18, so he must be killed in this dungeon.
+Thus, Zhou Chen and Li Zhitong want to end the fight by killing Chen Ran and Qiu Yinong. But both are under control. The Three Star players know to capture Qiu Yinong, they must first kill Chen Ran, then internal conflict occurs. This is irreconcilable because Zhang Meili fears Qiu Yinong’s judgment, forcing her to “follow” her, causing Qiu Yinong to be affected by Li Zhitong. The Three Star cannot interfere.
+In the current board, if ranking desire to kill Chen Ran:
+ 1st: Zhang Meili, Cao Xiu
+ 2nd: Li Zhitong, Zhou Chen
+ 3rd: The Three Star players
+Clearly, the other five players have a fallback, but Zhang Meili and Cao Xiu do not—they are already “sheep” because they lied. But they cannot lie now because they must maintain their skills. If Zhang Meili lies, she violates the “class” rules; if Cao Xiu retracts his cause-and-effect skill, he dies due to lack of funds. Those most eager to kill Chen Ran cannot lie. Remaining are Zhou Chen and Li Zhitong, who haven’t lied, so they have a way out. If one lies and kills Chen Ran, it’s ultimate fortune; if failing, eternal shame. Risk outweighs benefit—they won’t lie.
+This is something Zhang Meili didn’t anticipate. She imagined that if Chen Ran and Qiu Yinong die, their shares return as newly issued stock. Then, controlling the shareholders’ meeting prevents company 6 from expanding, and she would get commission—surviving the ordeal. But she cannot lie, Cao Xiu cannot, and Zhou Chen and Li Zhitong have no reason to lie—so the Three Star cannot provide lies.
+Zhang Meili begins recruiting, asking Zhou Chen what number Chen Ran’s company is. The answer is certainly 8. She analyzes that the boss company holds 29% of Chen Ran’s company shares. If company 8 expands production, the Boss is invincible. So, among the three, who dies first? Likely Zhou Chen—killing him is a single decisive move. If Chen Ran survives, using Eternal Kingdom will kill Zhang Meili and Cao Xiu. What happens to the shares they parasitize? Zhang Meili’s reasoning hits the weak point: if all three cooperate, holding over 50%, company 6 isn’t controlled by others.
+If Cao Xiu and Zhang Meili die, Zhou Chen dies. If both die, the remaining can kill Zhou Chen easily. Organizing the shareholders’ meeting and expanding production will drain Zhou Chen’s company funds, leading company 6 to bankruptcy. Reducing staff could help, but if shareholders refuse, death is the only outcome. Zhou Chen must ally with Zhang Meili and Cao Xiu to survive. Whether shareholders unanimously kill Zhou Chen doesn’t matter—expanding production renders him worthless. Zhou Chen shows his ferocity; Chen Ran’s pupils shrink.
+Zhou Chen asks everyone to state a future lie: “Before Chen Ran dies, you cannot judge me or use skills on me,” and adds: “If Chen Ran survives, you may judge me at will.” These future lies effectively trap the six (Three Star, Li Zhitong, Cao Xiu, Zhou Chen), preventing them from exploiting lies to judge or use skills. But if Chen Ran survives, his future lie becomes a “backup” for him, allowing free skill use. Chen Ran won’t kill him until the end. Three Star realizes this, and Zhou Chen must add the condition that others can judge him—cutting off his retreat.
+The Three Star accept, and the six state the future lies (Three Star, Li Zhitong, Cao Xiu, Zhou Chen). Once Zhou Chen says, “I just lied!” (to supply the lie Chen Ran waits for) and Li Zhitong wants to use skill, he freezes.
+All they could see was that Chen Ran also drew his gun, but in an instant, he was detected by the skill “Death Focus.” Then, Chen Ran’s body seemed to lose control, slowly moving toward the edge of the floor, as “Death Focus” took effect.
+Zhang Meili thought Chen Ran was sacrificing himself to protect Qiu Yinong, but she realized something was off: if Chen Ran died like this, Li Zhitong would no longer launch mental attacks, because in any case, Qiu Yinong still had value. Mental attacks would only turn her into a fool, which was not what the Three Star players wanted. But if Qiu Yinong survived, Zhang Meili and Zhou Chen would surely die. As for Li Zhitong, he wouldn’t care about the life or death of the other two.
+At that moment, Chen Ran’s body moved uncontrollably closer to the floor’s edge… Even as he struggled desperately, he couldn’t escape the control of “Death Focus.” Soon, his foot slipped, and he fell off the floor into the void, plunging into a bottomless abyss. Everyone exhaled, thinking Chen Ran was finally dead.
+Then suddenly, a voice like the reaper claiming a soul echoed from the abyss: “Liar Killer • Eternal Kingdom!” The secret chamber plunged into darkness. The smiles on everyone’s faces froze. Zhang Meili, Zhou Chen, and Cao Xiu all felt a chill to their bones—a cold creeping up their brains and engulfing their entire bodies. Terrifying fear devoured their rational minds. Cao Xiu’s mental state collapsed; he couldn’t imagine what would happen if his skill was broken.
+Not long after, light returned. Qiu Yinong didn’t hesitate, raised her gun, and fired three shots, piercing Zhang Meili, Cao Xiu, and Zhou Chen—straight through the heart! Before dying, the three stared at where Chen Ran had been, their expressions a mixture of shock and relief.
+A rope had one end tied to Chen Ran’s ankle and the other to the leg of a computer desk, which was welded to the floor. Chen Ran hung suspended in midair, not falling into the abyss. Seeing everyone watch, he slowly raised his right hand, showing a V for victory. Then he grabbed the rope with both hands, climbed up, finally grabbed the edge of the floor, and sat back at the desk.
+This scene struck everyone’s nerves. By the time they reacted, the floor beneath Zhang Meili, Cao Xiu, and Zhou Chen disappeared, and their bodies fell into the abyss. Cold sweat soaked their backs. Was he gambling? Was he deceiving them?
+Just now, Zhang Meili dared to use her skill first and even posed a question, proving that Chen Ran had no prior knowledge of her skill. But while the secret chamber was shrouded in darkness, he analyzed Zhang Meili’s skill. He did not use Eternal Kingdom immediately. Instead, in the darkness, he took a rope from his backpack, tied one end to his leg and the other to the desk leg. His purpose was clear: he didn’t use the skill immediately because he knew Zhang Meili could bypass lies, making direct use ineffective. Even if he did, at most, he could only kill Zhang Meili and Cao Xiu.
+Instead, he quietly tied the rope, making Zhang Meili think he had been scared and would just sit there helpless. But with this move, Chen Ran could also kill Zhou Chen—the Three Two Star players—officially putting them on the chopping block. 【He’s insane!】 【Chen Ran is a madman!】
+In short, after completing the first business battlefield/baiting the Three Two Star players, Chen Ran’s initial goal was not just to make them money machines but to wipe them out completely. He reminded Zhang Meili of Cao Xiu’s situation—Cao Xiu had run out of money and only played Zhang Meili once. So Chen Ran held a shareholder meeting, handed Zhang Meili a gun aimed straight at Cao Xiu’s head, and she fired without hesitation.
+Under pressure, Cao Xiu had to use his skill to resolve his dire situation. As a result, Zhang Meili became the next target, like Cao Xiu. She had to use her skill, negotiate intensely, and pull others into an alliance to trap Chen Ran. The other Two Star players, Zhou Chen and Cao Xiu, would certainly comply, while others faced no risk and would agree as well.
+Chen Ran had anticipated this outcome. No matter what hacks Zhang Meili or Cao Xiu used, lies were inevitable. It was impossible to outwit Chen Ran. So they had to ally with Li Zhitong to attack Chen Ran’s psyche, but using Li Zhitong’s skill would also affect Qiu Yinong. Qiu Yinong wouldn’t betray Chen Ran because she needed his support—something the Three Star players did not want at all. They would be pushed out of the game, leaving only Cao Xiu, Zhang Meili, Zhou Chen, and Li Zhitong.
+If they wanted to hack, Zhang Meili and Cao Xiu would be forced to lie (as no one voluntarily provides lies), meaning they had to kill Chen Ran at all costs. To do this, they needed Zhou Chen. Everyone knew Zhou Chen’s skill could lock Chen Ran down. Zhang Meili and Cao Xiu had to convince Zhou Chen. Trapped by the Three Two Star players’ bait, Zhou Chen had no choice—if they died, he would face Chen Ran next. Zhou Chen became the liar provider.
+When everything was set, all three had lied. Chen Ran, relying on the effect of “Death Focus,” had tied a rope to his leg and hid it behind the desk in darkness. Hearing Zhou Chen lie, he stood up → violating the rules, triggering the effect, and fell into the abyss. Upon leaving the battlefield, Chen Ran used Eternal Kingdom to nullify all skills, allowing Qiu Yinong to act freely, killing the three Two Star players before they could do anything.
+The goal of eliminating the three Two Star players was completed, paving the way for a larger objective in the next phase (Stock Game, Part 2) Regardless of skills, these three players had to die. (Manipulation, Deception, Strategy, Thinking, Psychology)

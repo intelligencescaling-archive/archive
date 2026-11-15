@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: no-feats-no-life-part-1
+category: doc
+title: No Feats No Life Part 1
+alt_titles:
+- No feats No life
+authors: []
+series:
+- no-game-no-life
+characters:
+- sora
+- shiro
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1hUYcvJhMmT8y2cQvZQhOw21oL5EgwU3nq9-tkgYrdK0
+    google_id: 1hUYcvJhMmT8y2cQvZQhOw21oL5EgwU3nq9-tkgYrdK0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 104
+    words: 45957
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1589182
+      sha256: c7da3460b37eb24b93c2fdfb47ddc2da908701b40f6b02469270a8a82b06dba5
+    - format: docx
+      name: document.docx
+      bytes: 150024
+      sha256: 0c6ca01af3f0f45e1a26a18ccf82b3d70cbab7e629cc30f4445c93c6aa0e0196
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: No feats No life
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

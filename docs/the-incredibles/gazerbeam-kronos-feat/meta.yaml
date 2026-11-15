@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gazerbeam-kronos-feat
+category: doc
+title: GAZERBEAM | “KRONOS” FEAT
+alt_titles:
+- GazerBeam Kronos Feat
+authors: []
+series:
+- the-incredibles
+characters:
+- gazerbeam
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1UJhPXk8sCCNqyOY7jPhpi2EFYMo9HScqw8Y9oM9j7-w
+    google_id: 1UJhPXk8sCCNqyOY7jPhpi2EFYMo9HScqw8Y9oM9j7-w
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1010
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 147793
+      sha256: 8e0ba015294309d4d15c2da78b43973f4f935b9fe78733fcc6ee617a4437c654
+    - format: docx
+      name: document.docx
+      bytes: 426521
+      sha256: f213b5eac119df1c104a9a746883cefb7f4d6f888b34575366f5a326c1be69af
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: GazerBeam Kronos Feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

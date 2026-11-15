@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji
+category: doc
+title: Kanade Otonokoji
+authors:
+- name: Neffy
+  source: doc-text
+- name: Riiruu
+  source: doc-text
+- name: Druxzy
+  source: doc-text
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Tan_eZegurl0RSa15qm7G4M1alMnyc5RDOICRxj057c
+    google_id: 1Tan_eZegurl0RSa15qm7G4M1alMnyc5RDOICRxj057c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 37
+    words: 21040
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 900861
+      sha256: 52d3172fcd510fd9517882d9326ad75a8a0dd0172dea1cb1f7a1cea625be5483
+    - format: docx
+      name: document.docx
+      bytes: 1027435
+      sha256: bf6b8b43f2833a3ff2c2cf450153b2120797808db9b25ecbe7ac130188140cc3
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'DANGANRONPA:'
+  link_text: Kanade Otonokoji
+- library: remastered
+  section: Danganronpa
+  character: Kanade Otonokoji
+  link_text: Kanade Otonokoji
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

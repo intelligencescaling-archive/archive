@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: circus-clown
+category: doc
+title: Circus clown
+alt_titles:
+- AAI2 Mastermind's Great Plan
+- The Mastermind's Great Plan
+authors:
+- name: Osbis
+  source: doc-text
+series:
+- ace-attorney
+characters:
+- aai2-mastermind
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1uszk3cGxPJ694LBb6i224G8lD6x-Vvrmt6lXRIz2kx0/edit?usp=drivesdk
+    google_id: 1uszk3cGxPJ694LBb6i224G8lD6x-Vvrmt6lXRIz2kx0
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 36
+    words: 5690
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8742656
+      sha256: f8efe91f0403f63c18e63f39c1a31310b94201cb4eaaae545a9db824ed389e5d
+    - format: docx
+      name: document.docx
+      bytes: 8684325
+      sha256: 798a6ccc3be8cda9410cb57286316ce5828819eb16ad94fadfb6310cb1379ca5
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: Ace Attorney
+  link_text: AAI2 Mastermind's Great Plan
+- library: remastered
+  section: Ace Attorney
+  character: AAI2 Mastermind
+  link_text: The Mastermind's Great Plan
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
