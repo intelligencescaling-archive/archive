@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: realistic-feats-evaluation-system
+category: doc
+title: Realistic feats evaluation system
+authors:
+- name: berl8989
+  source: doc-text
+series: []
+characters: []
+tags:
+- scaling-system
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18kmXIObye9cdWuRCLpziHlUVgHyIDZ8xrhhRpj8XtXw
+    google_id: 18kmXIObye9cdWuRCLpziHlUVgHyIDZ8xrhhRpj8XtXw
+  capture:
+    status: partial
+    date: '2025-12-02'
+    words: 6658
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'Scaling systems:'
+  link_text: Realistic feats evaluation system
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251202022951/https://docs.google.com/document/d/18kmXIObye9cdWuRCLpziHlUVgHyIDZ8xrhhRpj8XtXw/edit
+  note: Snapshot from 2025-12-02
+added: '2026-11-15'
+notes: 'The owner made the original private, so this text was recovered from a Wayback Machine snapshot taken 2025-12-02. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check: []

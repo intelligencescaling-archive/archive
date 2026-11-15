@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sora-feats-document
+category: doc
+title: Sora feats document
+alt_titles:
+- Sora’s feats (WIP)
+authors: []
+series:
+- no-game-no-life
+characters:
+- sora
+tags:
+- feats
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GwwFhEo8c5u_FdCRpkzgfV4A-Nc2O5dySQPR0PziUt4
+    google_id: 1GwwFhEo8c5u_FdCRpkzgfV4A-Nc2O5dySQPR0PziUt4
+  capture:
+    status: partial
+    date: '2025-12-03'
+    words: 5465
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'NGNL:'
+  link_text: Sora feats document
+- library: remastered
+  section: No Game No Life
+  character: Sora
+  link_text: Sora’s feats (WIP)
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251203054736/https://docs.google.com/document/d/1GwwFhEo8c5u_FdCRpkzgfV4A-Nc2O5dySQPR0PziUt4/edit
+  note: Snapshot from 2025-12-03
+added: '2026-11-15'
+notes: 'The owner made the original private, so this text was recovered from a Wayback Machine snapshot taken 2025-12-03. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors

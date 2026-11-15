@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-volume-1-feats
+category: doc
+title: Fang Yuan volume 1 feats
+authors:
+- name: immortal-f8k
+  source: doc-text
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/16TJ3aQHY85Lee-gX_pdeBtmPyL-oCj2dBhiYMRIuFgk/edit?usp=drivesdk
+    google_id: 16TJ3aQHY85Lee-gX_pdeBtmPyL-oCj2dBhiYMRIuFgk
+  capture:
+    status: partial
+    date: '2025-12-04'
+    words: 18546
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Fang Yuan volume 1 feats
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251204010016/https://docs.google.com/document/d/16TJ3aQHY85Lee-gX_pdeBtmPyL-oCj2dBhiYMRIuFgk/edit
+  note: Snapshot from 2025-12-04
+added: '2026-11-15'
+notes: 'The owner made the original private, so this text was recovered from a Wayback Machine snapshot taken 2025-12-04. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

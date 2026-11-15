@@ -1,0 +1,447 @@
+RFES (pronounced “er-ef-es”) - author: berl8989 (under work in  progress)
+
+🟥= Important Definitions ; 🟫= Examples ; 🟧= Inner monologue ;
+🟪= Important Concepts ; 🟩= “Reasoning/Why”
+-
+
+I welcome you to the RFES scaling document.
+What RFES evaluates
+RFES scales a character’s intelligence by asking: How cognitively demanding would it be for a human author to conceive the feats that the character performs?
+
+Perspective (Rule 0)
+Given this is the metric, RFES uses the authorial perspective rather than the narrative one.
+If you truly want to get the theoretical basis for this scaling, I’d suggest to read this doc: 
+-
+
+Author Perspective Explanation
+Trait 0: what happens in the story was decided by the author himself.
+Trait 1: the author has semi-omnipotence (they can make nearly everything happen in the story).
+Trait 2: the author has full access to real-world knowledge (science, prior art, game theory etc.). This is an assumed trait.
+Trait 3: one of the main limiting factors for the author is his intelligence, since it’s finite. His intelligence being limited is what makes the comparisons meaningful.
+-
+“Cognitively Demanding”
+RFES acknowledges that effort (time/energy spent crafting a feat) can *aid* cognitive transmission, but it is merely taken into account indirectly: production time or resources are not scored themselves; they “matter” only insofar as they increase the cognitive density and coherence embedded in the feat.
+This is because what matters is merely the output.
+-
+“Does RFES scale how smart the authors are ?”
+
+The answer would be: in most cases no, and at best there are only indicative correlations.
+
+It depends on the amount of effort the author chose to put *specifically* for the writing of the intelligence feats. And even then, it’s limited to the types of intelligence one can express through fictional works.
+
+-
+“Why is it not the case most of the time?”
+
+1- usually, multiple people work behind projects.
+
+2- We take into account individual characters, not the whole cast that the author created. Some characters could display different types of intelligence or have different levels of it.
+
+3- we do not take into account personal achievements.
+
+4- story structure is irrelevant, even though that would be a major indicator of intelligence.
+
+5- The amount of time that an author had to work is irrelevant. Even though obviously that would create great discrepancies.
+
+-
+What is evaluated within this system?
+1- Cognition/Intelligence evaluative concepts that can be hard to write coming from the authorial perspective.
+2- Cognitive / Intelligence concepts that have to be “science based”. By “science based” I mean: a- there have to be studies about them, b- these concepts have to lack vague definitions, c- their causal relationships must be somewhat known (which parts of the brain are involved and so on).
+3- Since not all scientific concepts are fully developed (e.g. planning), and since there are some practical measures we must take (given the fact we are scaling fictional characters and not real people), we will then adapt these concepts later.
+-
+Category error cognitive abilities: concepts that even though are completely science based, either are completely irrelevant within the authorial POV due to its very nature:
+1- Processing Speed
+2- Emotional Regulation
+Simply said: there is no possible way an author can ever showcase these capabilities within a work of fiction, so in the first place they are irrelevant.
+-
+Grey Zone: concepts that technically *can* apply BUT that either very rarely do so, *or* that very commonly would only influence the overall evaluation by a really small margin while also overlapping with other capabilities as well.
+1- Cognitive Flexibility: I mean, stories are a simulation the authors create so there really is not the “usual” form of adaptability. But indirectly, by “adapting” to the simulations they themselves create, they are kinda doing so.
+2- Inhibitory Control and Attention: both extremely important for the vast majority of all cognition and intelligence, BUT, since I already explained how we do not take into consideration time and stuff, the main way this is expressed is already being taken into account (planning being a primary example).
+3- Verbal / Visual Intel: really rare to see feats specifically strong in these areas, but at the end of the day we would already be taking them into account due to the stuff you will see later (working memory, abstract thinking, metacognition and so on)
+4- Working Memory Updating: only somewhat relevant in very few occasions (plans?)
+5- Long Term Memory: again only somewhat relevant in very few occasions (plans?)
+-
+Strong cognitive / intelligence indicators (white zone). Now, I will give the summary definition for each of these, but remember that they will most probably be adapted later.
+Working Memory: a system for holding and manipulating information in real time to support higher-order cognition.
+Metacognition: the capability to understand, monitor, and control one’s own thinking and learning processes.
+Abstract Thinking: the capability to move beyond concrete experiences to reason about general principles, symbolic meanings, and hypothetical scenarios
+Pattern Recognition: capability to detect and interpret meaningful structures or regularities in information
+Creativity: capability to produce novel and valuable ideas through a dynamic interplay between divergent generation and convergent evaluation, supported by the coordinated activity of associative and executive brain networks
+Divergent Thinking: capability of generating multiple, varied, and original ideas or possibilities from a single prompt or problem
+Convergent Thinking: capability of evaluating, refining, and selecting the most effective or coherent idea among the many generated
+Critical Thinking: metacognitively guided regulation of reasoning that aims to minimize bias, evaluate evidence rigorously, and ensure that beliefs and judgments align with logic and empirical reality
+Social Cognition: set of cognitive and neural processes that enable individuals to perceive, interpret, and respond appropriately to social information — such as the intentions, emotions, beliefs, and behaviors of others. It encompasses how people understand themselves and others within social contexts, guiding interaction, communication, and social decision-making.
+Cognitive Empathy: ability to intellectually understand and infer another person’s internal states and perspectives.
+Strategy: the ability to select, monitor, and adapt the most effective cognitive or behavioral modalities to achieve a goal within a changing context, evaluating alternatives and cognitive costs.
+Planning: It is the ability to anticipate, organize, and sequence actions or mental operations required to achieve a goal, predicting outcomes, obstacles, and cognitive resources needed. It involves the formulation and regulation of an action plan consistent with environmental conditions and the ongoing evaluation of its effectiveness.-
+Context explanation
+Real world standards will count as context in every situation. The only case in which this standard can be contradicted, is when the author deliberately creates “new variables” within the story. In such a case, the created variables override the ones of the real world standards, and the evaluation will be based on them.
+
+The 3 cases in which this happens are: characters with abilities (Nagito’s luck), unrealistic capabilities (Shiro’s calculator prowess) and behaviours (Junko’s personality).
+
+These “new variables” will be approximated as context due to 2 reasons:
+1- reasoning based upon them, would actually require pattern recognition: recognizing that creating a certain trait in a specific environment, would then lead to certain patterns being created that could be then exploited.
+2- accusing this “pattern recognition” to be “artificial” and so less valid/invalid, doesn’t make sense, given this is the authorial perspective. Meaning everything else, including all the realistic variables, are *also* “artificial”.
+-
+
+(A Area) Fixing Narrative Issues
+1- Unrealism / Plot Armor
+Unrealism is defined as the exclusion of variables that should be taken into account, according to the previously established context, in order for the feat to *not* have low chances of success.
+This is something that we take negatively into account due to simulating false complexity in environments, which would then result in falsely simulated intellectual capabilities (one of the most important ones being creativity).
+For example, the less an environment is restricted, the easier it is to create new strategies in it. The convergence process of creativity is (at least partially) falsely simulated.
+More will be explored in the subcategories concerning this aspect.
+
+-
+-2 Direct Narrative Intelligence. Everything in the story that depends only on the author’s narrative semi-omnipotence (that is, anything the author can assert without engaging in non-trivial cognitive work) is irrelevant (e.g., direct or indirect statements).
+-
+-3 Advantages. Advantages (whether from powers, influence etc.) ARE COUNTED AS CONTEXT not as feats, they do not diminish nor increase the worth of a feat. It would be a category error to count them as intelligence.
+-
+-4 The knowledge case. Knowledge case refers to instances where a type of feat is already well known within the human domain. Essentially: the more a feat is clichè, the less it’s valued.
+-
+
+-5 Off-screen: given multiple explanations with equal plausibility (proofs-wise), we will take into account the explanation that makes the feat less valuable. Mind you: given the authorial's limitations (in intelligence) and given the divergence in scope (entertainment and not logical coherence), it would follow that explanations can potentially also be “nothing happened”.
+-
+
+(A Area) Fixing Narrative Issues
+1- Unrealism / Plot Armor
+Unrealism is defined as the exclusion of variables that should be taken into account, according to the previously established context, in order for the feat to *not* have low chances of success.
+This is something that we take negatively into account due to simulating false complexity in environments, which would then result in falsely simulated intellectual capabilities (one of the most important ones being creativity).
+For example, the less an environment is restricted, the easier it is to create new strategies in it. The convergence process of creativity is (at least partially) falsely simulated.
+More will be explored in the subcategories concerning this aspect.
+
+“Why is unrealism targeted in general?”
+Feats would otherwise falsely simulate:
+-complexity: due to not taking into account variables
+-creativity: due to having unlimited bullshit you can virtually make up
+-human insight: due to being able to change (whether consciously or not) the behavioural standards of the characters
+-lack of critical thinking + metacognition from the author’s part (self-explanatory)
+
+-1 Plot armor and unrealism.
+A feat is unrealistic if, in order to work as presented, it must rely on not taking into account variables that should be accounted for using real-world probability accounting which would then result in the feat having low probability.
+Context explanation: any explicit or, very strong, but implicit claims/structures within the story will count as context, and for anything else, real world context standards will be applied.
+Example of the first: Nagito’s luck. Nagito’s luck is a known variable within the verse.
+Example of the second: human bodies in Danganronpa are and work the same as with real human bodies (unless specifically stated otherwise).
+-
+A really important and recurring “theme” of context to look out for would be “strong contextual motives”.
+
+Let’s start with the definition here:
+“a feat is the more unrealistic the more the cause and effect relationship established by such a feat are related to ignoring variables that should be taken into account judging it by real-world probability using the in-universe context”.
+
+“a feat is unrealistic if it establishes a clear cause-and-effect relationship and the likelihood of that relationship occurring is not sufficiently high (for the feat to make sense within that context) when judging it by real-world probability (using logic, science, empirical data and our intuition)”.
+-
+A- COHERENCY “within that context”. This means that the context we have to evaluate the feat in IS the very basis of deciding the success chances. How it works: any explicit or, very strong, but implicit claims/structures within the story will count as context, and for anything else, real world context standards will be applied.
+Example of the first: Nagito’s luck. Nagito’s luck is a known variable within the verse. So it can’t be addressed as unrealistic.
+Example of the second: human bodies in Danganronpa are and work the same as with real human bodies (unless stated otherwise).
+This is important, as the probability is entirely based on the context.
+-
+Another relevant “theme” of context, would be “strong contextual motives”.
+example: Light not threatening world leaders or important figures would have made lots of L’s efforts meaningless (with way higher chances than trying with the strategy he did in the story), but on the other hand he would have made his public image to be worsened (which is the strong contextual motive on why he didn’t act that way).
+-
+B- EFFICIENCY. Technically speaking, LOW chances BY THEMSELVES would not be enough to determine whether a feat suffers from the point of being unrealistic or not (lack of critical thinking etc.), if other ideas with way higher success chances weren’t possible.
+The thing is that *this* would be how it would work in real life, where people have to *adapt* in the purest form to unknown/semi-unknown environments.
+In fiction, though, this is not a real thing since the Causality Environment is entirely decided by the author himself.
+Meaning in the end, everything with *low* chances of happening must be inherently reduced in value (nerfed).
+-
+C- REPLICABILITY. Replicability applies only when the cognitive mechanism behind a feat is sufficiently abstract, general, and independent from the specific narrative conditions in which the author placed it. In such a case, the unrealism rule doesn’t apply.
+If the feat works because of a method, not because of the scene, then the method is replicable.
+Replicability does not apply when the feat relies on highly specific, ad-hoc.
+The more a feat depends on its particular setup, the more the unrealism rule applies.
+In short:
+abstract cognitive patterns → replicable
+situation-dependent outcomes → non-replicable
+-
+D- Probability and Quantitative Nerfing part.
+Nerf is composed by:
+1- the more the proofs brought would result in low probability
+2- the more the proofs brought rely on supported empirical proofs.
+
+T1- Illogicality or Impossibility (due to physics, biological boundaries violations etc.).
+This will result in a great nerf.
+T2- Contradicting Intentions of Characters in order to make the feat work.
+This will result in a strong nerf.
+T3- False Probability Accounting. Instances in which the feat would make sense if other variables were to be ignored. This tier is the most
+This will result in a
+
+1- illogicality or impossibility. This can be when a feat is impossible due to logical boundaries, physical boundaries, biological boundaries etc. Feats within this tier get a strong nerf.
+
+2- intentions. When a feat only works when contradicting strong shown intentions. Example: feat only works if character A wants bread, but he was shown (or strongly implied) to want tomatoes. Feats within this tier get a strong nerf too (30-50%) depending again on how obvious it was to spot it
+
+3- empirical data. If in our world a certain thing MOST PROBABLY (80-90% of the times) works in a certain way, and in order to make the feat work, it must be ignored, then the feat gets decently nerfed. Feats within this range get a decent nerf (10-30%) depending on how high said probability is in real life.
+
+4- implausibility by intuition. Considering not everything has empirical data, I left out a possibility to nerf by intuition. Though the nerf (due to poor falsifiability) has to be
+
+-
+Cognitive Areas
+Now: (11) Cognitive Empathy and (12) Social Cognition are usually more crystallized intelligence based compared to the others (considering the authors have virtually any tool they need to study and replicate certain concepts), meaning that they will be automatically valued less than they would if they did not have this problem.
+
+Now:
+1- lots of the remaining capabilities are way too rare to be seen all within characters individually and sometimes (e.g. metacognition) even at all. The problem with capabilities not being seen individually, is that it makes it virtually impossible to extrapolate a sort of “category bound” value.
+2- also we are surely basing this all off of cognition, but there is also the confrontational aspect that must be taken into account. Afterall we are seeing who would outsmart who
+
+So in conclusion, I thought that we could just bundle some of these categories together in a way that makes practical sense.
+
+These are the main categories that I would suggest:
+A- STRATEGY (first category by far in importance): single practical implementation aimed at manipulating, exploiting, or adapting to a system, where “system” is understood in a broad sense as an interconnected set of elements governed by specific rules or principles, in order to achieve an objective.
+
+Given this definition, the main element about every strategy (regardless of the specific types, which we will see later on), is pattern recognition (in order to exploit etc. a system you need to find out the exploitable parts).
+Subcategories for “STRATEGY”:
+1- Strategy Complexity: how high the WMI of a subject must be to come up with a strategy. Primary focus: WMI. Secondary focus: Metacognition and Abstract Thinking. Tertiary focus: everything else.
+
+2- Strategy Creativity: self-explanatory. Primary focus: Creativity. Secondary focus: everything else.
+3- Strategy Solidity: how much plot armor is needed to make it work (the less the better). Main focus: Critical Thinking. Secondary focus: Metacognition and Abstract Thinking. Tertiary focus: everything else.
+
+B)- REASONING: evaluates the WMI to come up with anything (strategy, analysis, plan etc.)
+
+C)- PLANNING: simulation of a step to step scheme formed of strategies and/or predictions that can be schemed only from a specific point in time within the story.
+Important to notice: “PLANNING” refers to the whole scheme while “STRATEGY” only refers to a single step.
+Subcategories for “PLANNING”:
+1- Planning Creativity: evaluates the overall amount of creativity contained within a plan. This means that its value depends on both the quality and quantity of creative strategies and nuanced predictions it has within. So we will essentially individuate each of their creative values and add them together.
+
+2- Planning Alignment: evaluates how creative, complex or elegant the connections within strategies and/or predictions within a plan are. This subcat is a repetition, as these traits are already taken into account, but this repetition makes sense to underline the practical advantage plans which plans that are well connected have (while at the same time still evaluating cognition still, just doubling down certain feats more than others).
+
+3- Planning Length: evaluates the overall amount of complexity contained within a plan. Again, we will count each prediction and strategy’s complexity value and add their value together to form the overall value of “Planning Length”.
+
+4- Planning Solidity: same as with Strategy Solidity just applied to the whole plan
+
+Now, for the “Cognitive Empathy” and “Social Cognition” stuff we have this
+EQ definition: simulations of realistic human behavior, emotional causality and group dynamics that require at least a slight amount of creativity to be made.
+Subcategories:
+EU (emotional understanding): understanding intentions/contradictions, decision making process and predicting behaviours BOTH OF OTHER CHARACTERS AND THE VERY OWN CHARACTER (as always directly through reasonings or indirectly through actions).
+Emotional manipulation: manipulating characters’ emotions (regardless of the number of characters being affected) in a way that indirectly or directly requires depth in emotional understanding.
+Social Dynamics: understanding group/social dynamics through direct (explained on screen) or implied means (usually plans/strategies) in a way that requires depth.
+This DOES NOT mean that (for example) everytime you manipulate a group of people then it is automatically considered Social Dynamics. It has to have social cognition as a trait for the feat. So ironically enough you can even have SD feats manipulating one character alone.
+
+In order of importance:
+1- Strategy Complexity >=
+2- Strategy Creativity>>
+3- Reasoning>>
+4- Planning Creativity =
+5- Emotional Understanding =
+6- Emotional Manipulation >
+7- Planning Alignment>=
+8- Social Dynamics>=
+9- Planning Length
+
+Mind you:
+1- strategy solidity isn’t there because it’s a nerfing category. Meaning that if a character didn’t need plot at all, he just won’t be subtracted points. So that’s , why it’s not here since it’s proportional to the value of the feat multiplied by how unrealistic it is
+2- Planning Length is last because the overlap is usually massive with Strategy Complexity and because it usually ends up in lots of slop things being used to increase the numbers of feats contained. Planning Creativity has the last problem too, but it doesn’t as nearly as much have the first overlapping problem, as many creative stuff is usually left out in Strategy Creativity since the few spots it can contain for feats
+
+Working Memory Index (WMI)
+To evaluate WMI, three things must be determined:
+How much each piece of data “weights” on WMI
+
+Which reasoning configuration we are talking about
+
+Dependency
+
+1)- Each single piece of data will be evaluated based on its relative "weight" — essentially, how hard it is to retain that data in working memory.
+The weight will depend on how much Abstract Thinking and Metacognition that information requires to be thought.
+2)- Reasoning Configurations:
+Type A: Puzzles that require multiple data points to be combined in a single cognitive effort. The working memory must condense everything into a single move. The best case in this, would be if each piece alone would be meaningless and only connected together they start making sense as it would obviously require more Abstract Thinking and/or Metacognition.
+Type B: Puzzles that depend on a sequence of steps to reach a conclusion, where each step is dependent on the previous one. Working memory only needs to account for coherence with prior steps, so the effort is much lower.
+Type C: Puzzles that use as a basis Type B (basically as premises) onto which it builds upon a Puzzle Type A.
+
+Evidently, model A is superior — but by how much?
+To answer this and other questions, the final concept comes in: dependency.
+Model B becomes more valuable the more deeply dependent the connections between steps are. Not every connection has the same weight, and this happens because some connections only increase the likelihood that something happened/will happen, and are only meant to enhance the intuitive perception of realism in the reasoning. They are certainly valid, but don’t carry as nearly as much weight on working memory as Type A puzzle pieces.
+
+In both models A and B, active manipulation to reach a conclusion can occur. In that case, the feat enhances in terms of value within the Abstract Thinking and/or Metacognition, adding to the “weight” and making the feat more valuable.
+In summary:
+For evaluation of Type A:
+ number of data points * average weight of each data point
+
+For evaluation of Type B:
+ number of data points * average weight of each data point * Average Dependency Coefficient
+For evaluation of Type C:
+[ number of data points * average weight of each data point ] (for the Type A part) * coefficient of difficulty since Type B baseline
+-
+
+(B Area) Common Grounds For Evaluation
+
+-1 Relative values. We don't know the absolute maximum for each area of intelligence. Instead, we use the *best observed feat* in each area as the current maximum. *Analogy:* We don’t know how many bananas monkeys *could* get in theory—so we look at the one who got the most and use that as our benchmark.
+
+-2 Proportionality principle. Every character’s score is calculated as a proportion of the current maximum. *Example:* If Monkey A gets 5 bananas and the max is 10, he scores 50%. But if later Monkey B gets 15, A’s score drops to 33%.
+Why?
+1- this ensures coherency and reduces bias
+2- since measuring cognition is vague, the more relative distances you have to respect, the preciser you become in your judgement
+
+-3 Points. To enact rules 1 and 2, we assign points to quantify the value of a character's feats.
+
+-3 Quantity is a relevant factor (with limitations of course) in “EQ” and “Strategy” subcats. Reasoning for EQ being: 1- human emotions are displayed in plenty of ways, and in order to safely say you “mastered” them, only one proof will never be enough and 2- it’s a really crystal intel based category already and creativity lacks, so more displays necessarily mean better skill as long as they are original. Reasoning for Strategy being: everything that is not related to computational skills (Reasoning is the only computational based category so far) is incredibly fluid and necessarily requires environmental adaptability, which the more you show the more credible you are. Planning would technically need more feats too but for practical reasons (99% of characters have 1 feat at most in it that was seriously worked on) we will only take into account one feat.
+
+-4 Irrelevance of diversity by itself. This is already implied if you fully understood the previous things, but I will explicit this: if you "no diff" someone in EVERY cat but one, that character can still win as long as in absolute values he is better. For example: char.1 is better in X,Z,Q things with a total of 3 points of margin, but char.2 is better in P by a margin of 4 points, and so he wins.
+
+-5 Relevance. Avoiding the use of categories-subcategories rarely shown by characters (like Emotional Realization) unless it’s a REALLY core aspect of outsmarting (such as emotional manipulation). Also avoid redundancies when deciding which categories-subcategories to use unless there is evident need to highlight a certain aspect of that intellectual ability.
+
+-6 Usage of nerfing categories. Nerfing categories are tools to implement rules when they are not to be applied in "dark" or "white" cases, which is the most usual case. Eg. Solidity.
+
+(C area) Intuition Related Implementations (that CAN and CANNOT be applied accordingly to personal feelings):
+-To simplify a rare issue: characters that are stated to have contributed to a feat in a vague sense and are implied narratively to have worked on a good part of the work, are attributed the whole feat.
+-Creation of a category called "CONSISTENCY", the cat explanation will be in the cat explanation part as it’s quite long.
+
+Fields where some objectivity arises:
+-In SOME cases deciding what is “plot armor” or “not original work” can be argued for in purely deductive or strong empirical ways.
+-Challenging wrong definitions. Finding out misuse of definitions and their application (especially with WMI which is kinda hard to measure).
+
+This was the SYSTEM part of the scaling.
+Now let's switch to the "METHOD" (put in practise) part of this scaling.
+
+DISCLAIMER:
+Even though I think this point system would be a useful tool in the process of scaling I can get why people would be annoyed by it. This is mostly meant for debaters who would want to stay as objective as possible, not for people who want to scale without worrying too much about it (which is totally fair).
+This said, let's start.
+
+POINT SYSTEM EXPLANATION
+Difficulties are represented as percentages, calculated based on proportional calculations within singular feats.
+Difficulties per percentages:
+(0–30% No concept of difficulty) > (30–40% Negative difficulty) > (40–45% No difficulty)
+(45–50% No–Low difficulty) > (50–55% Low difficulty) > (55–65% Low–Mid difficulty)
+(65–78% Mid difficulty) > (78–83% Mid–High difficulty) > (83–92% High difficulty)
+(92–96%Very High difficulty) > (96–100% Extreme difficulty)
+We will use the “+” sign when we are close to the upper tiers by 33% and the “-” sign when we are close to the bottom tiers by 33%.
+How this all practically works:
+Light has 9 points in reasoning, 9 points are the maximum for reasoning as a category let's say, and Near has 6 points in it. Since 6:9=⅔=66%, this means that Light mid diffs (-) Near, since it's in the “mid diff tier” and is also in the bottom 33% of such tier.
+Now let's say that Kouji is presented and he high diffs + Light in it. Let's say that Light is now 90% (within the “high diff +” range) of Kouji’s reasoning. This means that now Near's reasoning evaluation will be changed from 6 points, to 6*90%=5.4 points, since the relative maximum changed.
+
+Advanced RFES: The Slot System
+The Slot System puts in practice the rules from Area B, in particular the quantity-quality balance. It divides subcategories into slots, each representing a separate “feat space”. The slots will have the total amount of value of the subcategory split between them in ways that would ensure quantity-quality balance.
+This means that the more slots there are, and the more the percentage is similar between the slots, the more quantity is needed. The fewer slots there are, and the more disproportionate the percentages of distributions are, the less quantity is needed.
+This is how it works:
+Slot System Example
+Subcat: Strategy Complexity (let’s say Strategy Complexity is being valued at 10 points)
+Number of feats required (which is the same as to ask “how many slots are there”): 4 slots
+Distribution of percentages: medium-high quantity needed(30-30-30-10)%
+Characters: PJ, RJ
+PJ’s feats = 10/10 feat + 10/10 feat
+> 10/10 * 30% * 10 (points of the subcat) + 10/10 * 30% * 10 = 6/10 total points obtained
+RJ’s feats = 9/10 feat + 9/10 feat + 8/10
+> 9/10 * 30% * 10 + 9/10 * 30% * 10 + 8/10 * 30% * 10 = 8.1/10
+So this would mean that RJ mid diffs (+) PJ in Strategy complexity (6 / 8.1 = 74%)
+-
+
+Droplet System
+In order to minimize the problem of the Slot System favouring quantity too much, while also taking into account quantity at the same time, I invented this auxiliary system.
+The way it works is that each feat will have a percentage of “decay” of value onto the other slots. It will still count as a feat in the other slots though, so no accumulations are possible.
+If the feat pertains to the first slot, it will have say 40% decay onto the second slot, 30% to the third, and 20% to the fourth.
+So the way it would work is this:
+Slot 1 = 30%, Slot 2 = 30%, Slot 3 = 30%, Slot 4 = 10%
+Subcategory: Strategy Complexity (10 points)
+Decay value (based from the starting position): S1 100% > S2 40% > S3 30% > S4 20%
+We have a 10/10 feat which translates into this:
+10/10 * 30% * 10 * 10/10 * 100% + 10/10 * 30% * 10 * 40% + 10/10 * 30% *10  * 30% + 10/10 * 10% * 10 * 20% = 5.3/10 in Strategy Complexity
+I want to underline this: this mechanism makes it so that quantity is still relevant (we are not subtracting percentages from the other slots) while at the same time giving quality the value it needs.
+Also another thing is that the decay value starts where the last feat is based. So for example if you have 2 feats, and both are 10/10, the second one will have a decay of 40% in the third slot and 30% in the fourth slot. Because if you had the decay starting from the first spot, the decay value would be less. This way you prevent things like “I had 3 out of 4 perfect feats, but I could still get a disadvantage if an opponent had 4 strong but not perfect feats”.
+Let me show how it would workout:
+Slot 1 = 10/10 (first feat) * 30% * 10 * 100% = 3 points
+Slot 2 = 10/10 (second feat) * 30% * 10 * 100% = 3 points
+Slot 3 = 10/10 (second feat decay) * 30% * 10 * 40% = 1.2 points
+Slot 4 = 10/10 (second feat decay) * 10% * 10 * 30% = 0.3 points
+Total points = 7.5 points
+
+If this wasn’t a thing and the decay could only be from the first slot this is how it would look:
+Slot 3 = 10/10 (first feat decay at third place) * 30% * 10 * 30% = 1 point
+Slot 4 = 10/10 * 10% * 10 * 20% = 0.2 points
+Total points = 7.2 points
+-
+Just last thing this is my personal distribution for points within cats:
+Strat Complexity = 18 points
+Strat Creativity = 18 points
+Reasoning = 16 points
+Planning Creativity = 8 points
+Emotional Understanding = 8 points
+Emotional Manipulation = 8 points
+Planning Alignment = 8 points
+Social Dynamics = 6 points
+Planning Length = 6 points
+Feats/screen-time ratio = 4 points
+
+FS = 10% EQ, 50% Strat, 30% Rsn, 10% Planning
+NFS = 30 EQ, 30% Strat, 10% Rsn, 30% Planning
+
+Creativity and Solidity Evaluation
+Underlying Principle (UP) is the functional mechanisms that enable a feat to work. This means it’s not tied to a specific situation.
+Contextual Application (CA) is the use of functional mechanisms adapted to a specific situation.
+Obviously UP is much more important for both originality and solidity evaluation compared to CA.
+Talking about Creativity: this gap in importance is really high. So justifying one feat being above another, by using the fact that one has an UP that is original and the other doesn’t, is a strong form of argument.
+Talking about Solidity: if your plan/strategy relies on an unrealistic UP, the chances of having the “Replicability” case are almost zero, meaning you won’t get “excused” even slightly if your feat is unrealistic. Unrealistic AI would obviously mean that the situations under which that abstract idea would work all need luck in order to work out, or are straight out impossible etc… the unrealistic list stuff I already made the list of.Consistency explanation (up to feelings to decide whether to applicate or not):
+
+Feats/screen time (f/st) - This cat counts the ratio (not literally, for obvious reasons) of the feats we take into consideration when scaling a character, or the ones that are as near as good, divided by the screen time they had.
+
+After doing this, to avoid nerfing characters that even though have lots of screen time, have good feats, and to avoid boosting (unnecessarily) dumb characters just for having a good ratio, we multiply the result we had to the total points of the other cats divided by the number of total points (apart from consistency points).
+
+To sum up: feats/screen time * total points the character has/total max points (apart from consistency)= feats/screen time (f/st)
+
+Off screen feats in f/st: Since lots of plans are off screen and there is the "feats/screen time" subcat, characters with off screen feats have to be accounted for because they indirectly had screen time for their feats to happen.
+As long as you read the doc carefully, those are extremely obvious but still just in case….
+
+“This scaling just scales the authors and not the characters”
+
+1- if I wanted to scale the authors I would use their personal life achievements and such as feats, which I don’t care one bit about. One author could have 180 iq irl, another 100 but if the second one has written better intelligence in his characters, they are going to win. Or another example is that the speed an author comes up with feats is irrelevant
+
+2- if that was the case I wouldn’t consider each character, but I would use all the feats contained in every work the author made. Which I obviously don’t do
+
+3- I don’t care if there were other people helping the author build the feats. Potentially a whole character’s feats could have been written by totally another person than the author, and this wouldn’t change anything at all
+
+4- I don’t take into account the logical/creative connections within the story. Basically every story has some intelligent design, which is completely irrelevant to me, as I scale the characters again
+
+In short: I’m denying the narrative’s perspective for the EVALUATION of the intelligence of the characters, not as a denial of character’s identity or story’s existence.
+
+definitely work in progress
+
+Work in progress
+How to scale Strategy Creativity:
+
+Inventing a new abstract idea is much more important than inventing a new practical application.
+
+This is because abstract ideas require more meta-cognition and abstract thinking. The quality of a lateral thinking is deeply connected with those two characteristics (it does NOT mean they are directly proportional, it just means those 2 showcase a better lateral thinking
+
+strategy creativity: quanto difficile sarebbe per una persona arrivare a una SINGOLA conclusione SENZA contare il carico sulla working memory
+
+strategy complexity: quanto difficile sarebbe per una persona arrivare a una SINGOLA conclusione SOLO contando il carico sulla working memory
+
+carico working memory conta:
+quanto pesa ogni informazione (tipo 5+5 pesa meno di 55*19)
+quante informazioni ci sono
+quanto strettamente connesse sono quelle informazioni nella testa. Quanto ognuna dipende dall’altra per esistere. Più ogni informazione è indipendente, meno conta la connessione e di conseguenza meno conta il numero di informazioni
+alla fine si fa una cosa simile: peso info numero 1 (8) + peso info numero 2 (10) che però viene diminuita del 30% perchè la prima non è completamente dipendente dalla seconda, e allora è 8 + 7 = 15 valore WMI richiesto
+
+planning complexity: si valuta ogni passaggio (predizioni, manipolazioni e strategie contano come passaggi) e si sommano i loro valori in base a quanto sono complessi. Qui il presupposto dell’essere strettamente collegati è necessario diciamo a un livello “surface” cioè basta che il tutto sia un minimo dipendente per essere contato parte del piano. Tuttavia viene un bonus per chi ha piani con info tra di loro sempre più strettamente connesse
+
+planning creativity: si valuta ogni passaggio quanto difficile sarebbe per una persona arrivarci SENZA contare il carico sulla working memory e poi si somma tutto
+
+Parco fluviale novella
+Parco di TovelI welcome you to the RFES scaling document.
+What RFES measures
+RFES scales a character’s intelligence by asking: How cognitively demanding would it be for a human author to conceive the feats that the character performs?
+
+In other words, how much intelligence has been transmitted from the author into the character. Only the output matters (and this is a matter of logical consequence, not an imperative order).
+
+Perspective (Rule 0)
+Because the metric is “difficulty for a human author,” RFES uses the authorial perspective rather than the narrative one.
+-
+Authorial vantage and degrees of freedom
+From the author’s perspective:
+1- The author has semi-omnipotence (they can make nearly everything happen in the story).
+2- The author has access to real-world knowledge (logic, science, strategy, prior art, empirical data).
+-
+The binding constraint (reason I said “nearly”)
+Despite these freedoms, one key restriction remains: the author’s cognitive / intelligence prowess are finite. This finitude is what makes comparisons meaningful.
+-
+About Effort
+RFES acknowledges that effort (time/energy spent crafting a feat) can *aid* cognitive transmission, but it is merely taken into account indirectly: production time or resources are not scored themselves; they “matter” only insofar as they increase the cognitive density and coherence embedded in the feat.
+This is because what matters *is* merely the output.
+
+Many people claim they debunked RFES but all the time I've heard of this, it's always the same illogical inference “Since RFES isn't using the narrative's POV, it's invalid”.
+
+For example they say: “you are not scaling the characters”.
+But it already assumes that “scaling characters” can ONLY be done through the narrative's POV.
+
+And also RFES doesn’t make ANY claim about “being the only right scaling perspective”.
+
+One could then ask “Well but why would i
+
+What someone would actually need in order to invalidate RFES would be:
+
+Root 1- prove that there cannot be any transmission of intelligence from the author onto the characters.
+
+Root 2- there cannot even be intelligence from the authorial part to begin with
+
+That's literally the ONLY way.

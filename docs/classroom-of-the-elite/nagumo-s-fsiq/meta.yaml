@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagumo-s-fsiq
+category: doc
+title: Nagumo's FSIQ
+alt_titles:
+- Arisu vs Nagumo | FSIQ
+authors: []
+series:
+- classroom-of-the-elite
+characters:
+- nagumo-miyabi
+tags:
+- fsiq
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17CddceC4QTXwA5bR8iHoxR-KmwExO-AziJdGCskbvIM
+    google_id: 17CddceC4QTXwA5bR8iHoxR-KmwExO-AziJdGCskbvIM
+  capture:
+    status: partial
+    date: '2025-12-05'
+    words: 1265
+    files: []
+    text:
+      file: text.txt
+      method: html-extract
+found_in:
+- library: old
+  section: 'COTE:'
+  link_text: Nagumo's FSIQ
+- library: remastered
+  section: Classroom of the Elite
+  character: Nagumo Miyabi
+  link_text: Arisu vs Nagumo | FSIQ
+links:
+- type: wayback
+  url: https://web.archive.org/web/20251205010517/https://docs.google.com/document/d/17CddceC4QTXwA5bR8iHoxR-KmwExO-AziJdGCskbvIM/edit
+  note: Snapshot from 2025-12-05
+added: '2026-11-15'
+notes: 'The owner made the original private, so this text was recovered from a Wayback Machine snapshot taken 2025-12-05. Text only: images and formatting are missing, and parts of the doc may be missing too.'
+review:
+  status: auto
+  check:
+  - authors
