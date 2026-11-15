@@ -1,0 +1,40 @@
+# Large/binary archive files live in R2 + the local master copy, never in git
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.xlsx
+*.zip
+*.7z
+*.rar
+*.bin
+*.part
+
+# Executables and scripts that should never arrive via submissions
+*.exe
+*.dll
+*.msi
+*.bat
+*.cmd
+*.ps1
+*.scr
+*.jar
+
+# Secrets and local config
+.env
+.env.*
+*.key
+*.pem
+.claude/settings.local.json
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
