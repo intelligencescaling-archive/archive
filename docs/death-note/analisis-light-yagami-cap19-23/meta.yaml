@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analisis-light-yagami-cap19-23
+category: doc
+title: Analisis_Light_Yagami_Cap19-23
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  source: reddit-post
+series:
+- death-note
+characters: []
+tags:
+- guide
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=12UsFVzIRKXYiewFChQzCHp6nSOEFgBlYfeuFg6euUAg
+    google_id: 12UsFVzIRKXYiewFChQzCHp6nSOEFgBlYfeuFg6euUAg
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 246
+    words: 34351
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1603211
+      sha256: f78939cb8ff440043b7d6dec609c184c4c4c9f442d7f51ee23c89c4550500412
+    - format: docx
+      name: document.docx
+      bytes: 111312
+      sha256: f840bbd09e043c33f14fb29f6e6df2065ed77436065ef6afef616bcd97073632
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vk7i39/_/p2tcw96/
+  note: 'Shared by u/Last-Trainer-3323 in a comment on 2026-08-10: 19-23(in spanish): https://docs.google.com/document/d/12UsFVzIRKXYiewFChQzCHp6nS'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

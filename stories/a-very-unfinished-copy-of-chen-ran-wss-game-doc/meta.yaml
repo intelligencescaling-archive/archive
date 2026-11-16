@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-very-unfinished-copy-of-chen-ran-wss-game-doc
+category: story
+title: A Very Unfinished copy of Chen Ran WSS Game Doc
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1DE_WlLtqaSLbqZRVrjXKmTZWm8NMB2-9_aQ-VhOV-BA
+    google_id: 1DE_WlLtqaSLbqZRVrjXKmTZWm8NMB2-9_aQ-VhOV-BA
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 31
+    words: 8257
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 316355
+      sha256: 33abf3e25bc1b3593678716a2f7a36c7aab8b23efe24da3a3e2de570c113edbe
+    - format: docx
+      name: document.docx
+      bytes: 682185
+      sha256: a0bcd539f268036ed2b639d01f71498001a8d6f833e80064c864bd2bd0422145
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1u1atwz/_/or7i7h9/
+  note: 'Shared by u/Ancient-End2474 in a comment on 2026-06-12: No. Chen Ran at ch75 takes IQ(FRI, VCI, CPi, ) Foresight, planning and Strateg'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

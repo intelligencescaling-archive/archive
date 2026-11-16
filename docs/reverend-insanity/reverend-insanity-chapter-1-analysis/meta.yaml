@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: reverend-insanity-chapter-1-analysis
+category: doc
+title: Reverend Insanity, Chapter 1 Analysis
+authors:
+- name: Rain
+  source: doc-text
+series:
+- reverend-insanity
+characters: []
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1oDeMTmUr1BWdPE-5Jj7hgTeSVdgOtd_jW-Pjul4Fnek
+    google_id: 1oDeMTmUr1BWdPE-5Jj7hgTeSVdgOtd_jW-Pjul4Fnek
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 40
+    words: 9303
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 531916
+      sha256: bad483de2ef59da853ab07967b58e40da2501e3c2c44ed7fc38371413a5dfbee
+    - format: docx
+      name: document.docx
+      bytes: 611330
+      sha256: 5b6ba04aabf00e9e39c5971053e73bdf20ed67b4e4b0790cd3049b87a4741abc
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1m8t8w7/_/n52a513/
+  note: 'Shared by u/Secure-Camp1433 in a comment on 2025-07-25: I completed C1 and I do think even this is not the right description or symbolis'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-madarame-introduction-analysis
+category: doc
+title: Baku Madarame introduction analysis
+authors:
+- name: GalaxPro
+  source: doc-text
+series:
+- usogui
+characters: []
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-S1yzdubwjI0lgp09rC3YKFleii9o-DEym-1UfVtIv0
+    google_id: 1-S1yzdubwjI0lgp09rC3YKFleii9o-DEym-1UfVtIv0
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 13
+    words: 1433
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1784088
+      sha256: 0dcba105ec083d80f054a201b7cd6397a458d30ec9bde4ad78e137c725610627
+    - format: docx
+      name: document.docx
+      bytes: 1639859
+      sha256: 1cb7d627047c8cbacaa3e25b2862ffac08fe7e9c3c499302d0f04bdb01a93246
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1u7aofh/_/osjvbrk/
+  note: 'Shared by u/_galaxpro_ in a comment on 2026-06-19: I don’t have the time to elaborate rn, if u want to know the why and how, I have'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

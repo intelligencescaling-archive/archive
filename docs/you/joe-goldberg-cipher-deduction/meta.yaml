@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-cipher-deduction
+category: doc
+title: Joe Goldberg Cipher Deduction
+authors:
+- name: Top-Arm-5459
+  reddit: Top-Arm-5459
+  source: reddit-post
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- reasoning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1bw56mGohkMk1w74a1C8T3M6_vzfjU9PL3iRiCmrnaBw
+    google_id: 1bw56mGohkMk1w74a1C8T3M6_vzfjU9PL3iRiCmrnaBw
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 7
+    words: 1759
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 140286
+      sha256: 930ab88d4d12d921ef24575838c1542072a87a82acd2f3a0dfed840c5db68e0e
+    - format: docx
+      name: document.docx
+      bytes: 55254
+      sha256: c5d04ccfc4488be68c2ab6bfce3f1aab8d4385f66a3db994f149e742bc4c74af
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wr7oee/_/pcevk3u/
+  note: 'Shared by u/Top-Arm-5459 in a comment on 2026-09-27: \>Will''s manipulation is absolute trash, it''s just basic Stockholm syndrome. T'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

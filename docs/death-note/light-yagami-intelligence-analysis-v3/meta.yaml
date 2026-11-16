@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-intelligence-analysis-v3
+category: doc
+title: light_yagami_intelligence_analysis_v3
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  source: reddit-post
+series:
+- death-note
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RqQRKrGw_QnalwAtirxBvA_ZhtcvXBrey5aWpdRFkow
+    google_id: 1RqQRKrGw_QnalwAtirxBvA_ZhtcvXBrey5aWpdRFkow
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 89
+    words: 1542
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10040161
+      sha256: 15a804d42739a745c85155c13dd01d232f5fc017805d5b849ed84acb035ca19e
+    - format: docx
+      name: document.docx
+      bytes: 1101856
+      sha256: 89823ca482525ab47c37eb2d82e58817fe6462e463777a1d10173ecd27a5223d
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1tkkqc1/_/oo0yiwh/
+  note: 'Shared by u/Last-Trainer-3323 in a comment on 2026-05-26: Here doc of Light GOTNW (18 Chapters): https://docs.google.com/document/d/1RqQRK'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,212 @@
+📜 Betrayal Nexus — Official Game Rules
+________________
+
+🎲 Overview:
+Betrayal Nexus is a psychological survival game about building and breaking alliances.
+Players form temporary bonds to survive each round while navigating random events designed to strain loyalty. Ultimately, only the most cunning — or lucky — will leave with the most Trust Tokens.
+________________
+
+🎮 Game Components:
+
+* 3 Trust Tokens per player (to start)
+
+* A stack of Event Cards
+
+* Voting cards or tokens (for elimination votes)
+
+________________
+
+📖 Objective:
+Accumulate the highest number of Trust Tokens after 6 rounds.
+If eliminated, you’re out of the game and lose your tokens.
+________________
+
+📊 Setup:
+   * Each player begins with 3 Trust Tokens.
+
+   * Shuffle the Event Card deck and draw one at the start of each round.
+
+   * Players declare alliances each round, then vote to eliminate someone.
+
+   * Continue for 6 rounds or until only one player remains.
+
+________________
+
+📏 Rules of Play:
+📌 1️⃣ Declaring Alliances:
+At the start of each round, each player secretly writes down one name — the person they wish to ally with.
+      * If two players choose each other, the alliance is formed.
+
+      * If a player picks someone who doesn’t pick them, no alliance is made.
+
+      * Alliances are announced publicly after declarations.
+
+Note:
+ A player can only form one alliance per round.
+________________
+
+📌 2️⃣ Reveal an Event Card:
+An Event Card is drawn and read aloud.
+These cards introduce twists that affect the round’s gameplay, alliances, and voting mechanics.
+Examples of Event Cards:
+         * “A random alliance this round will secretly betray itself.”
+
+         * “Solo players gain 2 Trust Tokens this round.”
+
+         * “One allied player must betray their partner, or lose all their tokens.”
+
+         * “Everyone must vote publicly instead of secretly.”
+
+________________
+
+📌 3️⃣ Special Solo Player Rule:
+Players who remain unallied (not picked by anyone and not picking anyone who picked them) face different outcomes based on the Event Card drawn:
+            * Gain a bonus (e.g. extra tokens)
+
+            * Become more vulnerable (e.g. double voting weight against them)
+
+________________
+
+📌 4️⃣ Voting for Elimination:
+After alliances are set and the event is revealed, all players vote to eliminate one player.
+Voting Rules:
+               * You may not vote for your current ally.
+
+               * If you have no ally, you may vote for anyone.
+
+               * The player with the most votes is eliminated from the game.
+
+               * In case of a tie, the tied players face a second vote.
+
+Important:
+ Eliminated players lose all their Trust Tokens.
+________________
+
+📌 5️⃣ Betrayal Option (Mid-Round Break):
+Any player may choose to break their alliance before the voting phase by spending 2 Trust Tokens.
+Effects of Breaking an Alliance:
+                  * The betrayer immediately gains all Trust Tokens of their former ally.
+
+                  * The betrayed player is no longer protected by the "no vote for your ally" rule.
+
+                  * The betrayer cannot form an alliance next round as punishment for betrayal.
+
+You may only break one alliance per round.
+________________
+
+📌 6️⃣ End of Round:
+                     * Players in mutual alliances who survive the round each receive +1 Trust Token.
+
+                     * Trust Tokens carry over to the next round.
+
+                     * Eliminated players are removed from the game.
+
+________________
+
+🎖️ Winning the Game:
+After 6 rounds:
+                        * The player with the highest number of Trust Tokens wins.
+
+                        * If multiple players remain tied at the top, whoever has betrayed the fewest times wins.
+
+If all other players are eliminated before the final round, the surviving player automatically wins.
+________________
+
+🌀 Why It’s Mind-Bending:
+                           * Alliances are fragile, temporary, and can be weaponized.
+
+                           * Event Cards warp the rules each round, making it impossible to rely on a fixed strategy.
+
+                           * Trust Tokens are both currency and shields — losing them weakens your power to betray.
+
+                           * Betraying might make you rich in tokens but isolates you from potential protection next round.
+
+                           * Every round is a high-stakes balance of trust, paranoia, and manipulation.
+
+📜 Tie Scenario: Multiple Players, Same Token Count, No Betrayals
+If at the end of 6 rounds:
+                              * Two or more players are tied for the highest number of Trust Tokens, and none of them have betrayed anyone throughout the entire game…
+
+________________
+
+🔥 Final Duel Protocol: The Nexus Gauntlet
+To resolve this, the surviving tied players enter a final sudden-death phase called The Nexus Gauntlet.
+📖 Rules:
+                                 1. Each tied player must secretly write down one of two choices:
+
+                                    * TRUST
+
+                                    * BETRAY
+
+                                       2. Outcomes:
+
+                                          * If all choose TRUST:
+
+                                             * They all split the final prize equally (or are declared joint winners if no prize pool is involved).
+
+                                             * The game ends peacefully, a rare and almost mythical outcome.
+
+                                                * If one player chooses BETRAY while others choose TRUST:
+
+                                                   * The betrayer instantly wins the entire game.
+
+                                                   * All others are eliminated, regardless of Trust Token count.
+
+                                                      * If multiple players choose BETRAY:
+
+                                                         * All betrayers are eliminated.
+
+                                                         * The remaining player(s) who chose TRUST win jointly.
+
+                                                         * If all choose BETRAY, everyone is eliminated and no one wins — a perfect betrayal apocalypse.
+
+________________
+
+💡 Why This Works:
+                                                            * It tests if players were genuinely loyal, or just waiting for an opening.
+
+                                                            * It forces the ultimate final decision: stick together for a shared win, or snatch everything at the last second.
+
+                                                            * Even without prior betrayals, a player’s greed can still betray them here.
+🔄 Alliance Dynamics in Betrayal Nexus
+Each round is a fresh start.
+ At the start of every round:
+                                                               * Every player privately chooses one person to ally with.
+
+                                                               * Alliances are declared anew every round — meaning you can:
+
+                                                                  * Stay loyal to your previous ally.
+
+                                                                  * Abandon them for a new partner.
+
+                                                                  * Pick someone who betrayed you earlier.
+
+                                                                  * Gamble on a wildcard pick.
+
+                                                                  * Or pick no one and stay solo (if allowed by event cards).
+
+📌 Key Details:
+                                                                     * Alliances only last for the current round.
+
+                                                                     * Past alliances do not carry over automatically — even if you allied in Round 1, you must mutually choose each other again in Round 2 to remain allies.
+
+                                                                     * Alliances affect:
+
+                                                                        * Who you can vote for (can’t vote for your current ally).
+
+                                                                        * Trust Token bonuses (both allies get +1 if they survive the round together).
+
+                                                                        * Possible betrayals (you can spend 2 tokens to break it mid-round).
+
+________________
+
+🔪 Why It Matters Strategically
+                                                                           * Shifting alliances mean you can forge new deals every round.
+
+                                                                           * Revenge, deception, and opportunism become central tactics.
+
+                                                                           * You never know who’ll pick whom, or whether an old ally will stay loyal.
+
+                                                                           * You can manipulate weaker players, play double agent, or isolate threats.
+
+It’s a constantly shifting web of trust and treachery — designed for paranoia.

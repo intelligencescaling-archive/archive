@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-novel-to-anime-ideas
+category: story
+title: Light Novel to Anime Ideas
+authors:
+- name: KD.Wil
+  source: doc-text
+series:
+- death-note
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1k_IqgU9H8TkhSKhsNcZcQKRm7Q0e8JH6oyweiIpLWdE
+    google_id: 1k_IqgU9H8TkhSKhsNcZcQKRm7Q0e8JH6oyweiIpLWdE
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 20
+    words: 5786
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 580395
+      sha256: 0aef1d931794022c22513ed090ecb710a17b1253145b0360d3103e87b308add5
+    - format: docx
+      name: document.docx
+      bytes: 480745
+      sha256: 47628a0b99f4bc2d794dcc625a73fe729654e371eebbab4c2388ea874988ee43
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pmmry2/_/nu9cwdb/
+  note: 'Shared by u/Over_ALie_2940 in a comment on 2025-12-16: U can use this doc for help if you want doesnt cover the whole series but it cov'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

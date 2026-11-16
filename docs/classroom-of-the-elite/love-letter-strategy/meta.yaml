@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: love-letter-strategy
+category: doc
+title: Love letter strategy
+authors:
+- name: Solo2232_21
+  reddit: Solo2232_21
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- kiyotaka-ayanokoji
+tags:
+- strategy
+language: fr
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cgWY1iPirMfxR0ebqjW_lMrgSZO9GfwwtZU56WgVNmU
+    google_id: 1cgWY1iPirMfxR0ebqjW_lMrgSZO9GfwwtZU56WgVNmU
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 7
+    words: 3915
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 157885
+      sha256: e0bcc2237f3743a1f77f436a6e0d8d14c403fbf70d1606552fcba729c0c2e11c
+    - format: docx
+      name: document.docx
+      bytes: 15499
+      sha256: 5e74b6cca029083618e72dd582fb7d6bdc0702d0c706334b9971382d91bac269
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uks4jt/_/ouyj6t9/
+  note: 'Shared by u/Solo2232_21 in a comment on 2026-07-01: https://docs.google.com/document/d/1cgWY1iPirMfxR0ebqjW_lMrgSZO9GfwwtZU56WgVNmU/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

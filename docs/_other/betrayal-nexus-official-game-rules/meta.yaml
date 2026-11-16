@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: betrayal-nexus-official-game-rules
+category: doc
+title: 📜 Betrayal Nexus — Official Game Rules
+authors:
+- name: EnvironmentNo6525
+  reddit: EnvironmentNo6525
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13WrsoFL5QF5eElGKJkhLZCKItqz24hlzXSbEPHYKc7U
+    google_id: 13WrsoFL5QF5eElGKJkhLZCKItqz24hlzXSbEPHYKc7U
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 7
+    words: 1044
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 200349
+      sha256: 4291bb2894da18330c37e1981e922d06acf68c5c4753ee564f6919291852a4e3
+    - format: docx
+      name: document.docx
+      bytes: 12675
+      sha256: 03932189e36f4b4c1cee1356a8db2c99212405b1b1c6f9465b9dffa5b89f0e57
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1k1xygz/_/mnptq50/
+  note: 'Shared by u/EnvironmentNo6525 in a comment on 2025-04-18: The doc of this event can be found [here](https://docs.google.com/document/d/13W'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

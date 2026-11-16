@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chapter-5
+category: story
+title: Chapter 5
+authors:
+- name: d0ntkn0wmyself
+  reddit: d0ntkn0wmyself
+  source: reddit-post
+series:
+- death-note
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1sar6uq9c8KP1lUb9uQfUKIhvdqrdsjDMguM0L9XrzKY
+    google_id: 1sar6uq9c8KP1lUb9uQfUKIhvdqrdsjDMguM0L9XrzKY
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 14
+    words: 5158
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 268111
+      sha256: c75d2027444171e0a2772c1d106f216226e326dd0cfb8f6fa6ff0330f74df08c
+    - format: docx
+      name: document.docx
+      bytes: 22195
+      sha256: f312901e074c19c0cac285a1ec5ca26bde221358caf3bf33c1c4e854d537e551
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mgq966/_/n6qgu50/
+  note: 'Shared by u/d0ntkn0wmyself in a comment on 2025-08-03: https://docs.google.com/document/d/1sar6uq9c8KP1lUb9uQfUKIhvdqrdsjDMguM0L9XrzKY/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

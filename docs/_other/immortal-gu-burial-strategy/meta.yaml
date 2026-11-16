@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: immortal-gu-burial-strategy
+category: doc
+title: Immortal Gu Burial Strategy
+authors:
+- name: Ok_Chef1056
+  reddit: Ok_Chef1056
+  source: reddit-post
+series: []
+characters: []
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1DZfxHGBiLceP51RvGki8P7OuxBu9d6GcJUQa8hGumcc
+    google_id: 1DZfxHGBiLceP51RvGki8P7OuxBu9d6GcJUQa8hGumcc
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 11
+    words: 3672
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 222558
+      sha256: 0bbaea556afd028eb771a1b0cc3b947efee76074e0a1e31a0c04a7b8c99b3798
+    - format: docx
+      name: document.docx
+      bytes: 18403
+      sha256: 2ae2c605a6ae96a6f8abd51f6e8c1f03c143865d89fa2d15b66f84707fd4f18f
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vlcllb/_/p30fdci/
+  note: 'Shared by u/Ok_Chef1056 in a comment on 2026-08-11: Analogical Reasoning should be self explanatory. For Inductive I use Historical'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

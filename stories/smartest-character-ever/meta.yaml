@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: smartest-character-ever
+category: story
+title: Smartest character ever
+authors:
+- name: FootlessBird17
+  reddit: FootlessBird17
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1LyNvC3UJkyLj-0-UA0Agjgdtdwh7Jgo4qgmdQuLlpQ0
+    google_id: 1LyNvC3UJkyLj-0-UA0Agjgdtdwh7Jgo4qgmdQuLlpQ0
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 1
+    words: 265
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 34040
+      sha256: 29b210a8e6af353b5c7e974a261470de9f00926e416e8d7adbbbf4c5fb3dfad4
+    - format: docx
+      name: document.docx
+      bytes: 7320
+      sha256: f961e01437af1b4bc735f5d6fa4b6a5e90e67f02334dc1f465b5683400d8fdd8
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xej72y/_/19rmhmtlb3go5/
+  note: 'Shared by u/FootlessBird17 in a comment on 2026-10-25: https://docs.google.com/document/d/1LyNvC3UJkyLj-0-UA0Agjgdtdwh7Jgo4qgmdQuLlpQ0/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

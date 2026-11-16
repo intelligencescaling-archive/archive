@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-feats-french
+category: doc
+title: Ayanokoji's Feats (French)
+authors:
+- name: Nazif2
+  reddit: Nazif2
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: fr
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Hf12IWHgvJ4jR-BZTdUel4kyLpRzKyWrw7nOuIBr3lQ
+    google_id: 1Hf12IWHgvJ4jR-BZTdUel4kyLpRzKyWrw7nOuIBr3lQ
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 68
+    words: 37073
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1262760
+      sha256: fc8a8903fa36c4fcaf3afc158c294c176edd48942976309cecd1837acca6343f
+    - format: docx
+      name: document.docx
+      bytes: 197809
+      sha256: 9f7a2d8551f7e388d7bb74357612dd3f3008d19fedb25fc36a22cc668c29a800
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kjvqff/_/mrsqiiv/
+  note: 'Shared by u/Nazif2 in a comment on 2025-05-11: Here are 2 links to a summary document of Ayanokoji''s feats, the first is not fi'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: n-ice-feats
+category: doc
+title: N-Ice Feats
+authors:
+- name: Financial-Fix2412
+  reddit: Financial-Fix2412
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1FFxmAH7iKzOD79brwNCD2ivM0Bn0pv7_heye9GM6XV4
+    google_id: 1FFxmAH7iKzOD79brwNCD2ivM0Bn0pv7_heye9GM6XV4
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 28
+    words: 13101
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 426018
+      sha256: 1a5a910b48e3300934a907ac58595762f78214f4ce145e8a139855707b61d109
+    - format: docx
+      name: document.docx
+      bytes: 38056
+      sha256: d1c389071aed853d9d089f5b0c242708a68cc361321f4560d57f599fc0ee46aa
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1q4mo0g/_/nxtully/
+  note: 'Shared by u/Financial-Fix2412 in a comment on 2026-01-05: https://docs.google.com/document/d/1FFxmAH7iKzOD79brwNCD2ivM0Bn0pv7_heye9GM6XV4/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

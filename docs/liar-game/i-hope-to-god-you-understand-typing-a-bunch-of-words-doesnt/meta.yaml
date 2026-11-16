@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: i-hope-to-god-you-understand-typing-a-bunch-of-words-doesnt
+category: doc
+title: I hope to god you understand typing a bunch of words doesnt help your case lmfao
+authors:
+- name: FateDaA
+  reddit: FateDaA
+  source: reddit-post
+series:
+- liar-game
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1whcVFsCPEH3tTs8C801fD3ktCaIK4t7swNCnTlxcKRA
+    google_id: 1whcVFsCPEH3tTs8C801fD3ktCaIK4t7swNCnTlxcKRA
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 6
+    words: 1574
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 103796
+      sha256: f428fa549ad8981930fb3f1374f3e05bf3c81aa6e1c750ddb173295fad1a07f1
+    - format: docx
+      name: document.docx
+      bytes: 1607837
+      sha256: 0cdac5da42748a9120c6f53cb6b0a727eb84760544b3652649612ae367c09104
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l9jf3h/_/mxdes6k/
+  note: 'Shared by u/FateDaA in a comment on 2025-06-12: I hope to god you understand typing a bunch of words doesnt help your case lmfao'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

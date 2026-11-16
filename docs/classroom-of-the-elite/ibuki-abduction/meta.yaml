@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ibuki-abduction
+category: doc
+title: Ibuki Abduction
+authors:
+- name: Gold_Leadership1844
+  reddit: Gold_Leadership1844
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cRkLfqxo0RMSj6h4wn10ByaPl81HqLkzRTKaLo0fgDc
+    google_id: 1cRkLfqxo0RMSj6h4wn10ByaPl81HqLkzRTKaLo0fgDc
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 3
+    words: 618
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 195308
+      sha256: 10312fbfa488da558ecc3cc1a2540d4e6a9a55c6b7aa89fcd2673f7abdc26ffd
+    - format: docx
+      name: document.docx
+      bytes: 157907
+      sha256: 6304263d970759270ab66d02cf3580e8428b1589364912141ef72451e3226bcd
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qpww68/_/o2k2ncd/
+  note: 'Shared by u/Gold_Leadership1844 in a comment on 2026-01-30: You have some really nice analysis of Ayanokouji’s reasoning from V3. I’d defini'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

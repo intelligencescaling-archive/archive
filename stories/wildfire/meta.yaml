@@ -5,6 +5,7 @@ category: story
 title: Wildfire
 alt_titles:
 - Wildfire - RoyalRoad
+- Original story
 authors:
 - name: qwerty_8732
   source: manual
@@ -14,12 +15,35 @@ tags: []
 language: en
 completion: unknown
 parts:
-- source:
+- title: Royal Road (online novel)
+  source:
     type: web-page
     url: https://www.royalroad.com/fiction/161988/wildfire-the-flame-that-ate-the-world
   capture:
     status: not-captured
     files: []
+- title: Google Doc (full text)
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1uSkCedwzsDy2iG8p4GLnowWzgFEoLNVfmHbYtoGHXgg
+    google_id: 1uSkCedwzsDy2iG8p4GLnowWzgFEoLNVfmHbYtoGHXgg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 213
+    words: 51669
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2047801
+      sha256: fab8a7ae3475c204dbb875a2feb852d29972d390e816103be003a0e3e12b9fb2
+    - format: docx
+      name: document.docx
+      bytes: 1446691
+      sha256: a0c98af69ce2cac6b507617306e247152586eef2178545b8a376f3f9fe7e13a2
+    text:
+      file: text-2.txt
+      method: google-export
 found_in:
 - library: stories
   section: W
@@ -28,9 +52,13 @@ links:
 - type: wayback
   url: https://web.archive.org/web/20260717025038/https://www.royalroad.com/fiction/161988/wildfire-the-flame-that-ate-the-world/chapter/3254148/1-the-incident-at-wensworth-factory
   note: Snapshot from 2026-07-17
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qqobb9/
+  note: 'Shared by u/ConversationSea1684 in a post on 2026-01-29: Original story'
 added: '2026-11-15'
 notes: This site blocks automated saving, so the archive links to it instead of keeping a copy. A Wayback Machine snapshot is linked as a backup.
 review:
   status: auto
   check:
   - characters
+  - series

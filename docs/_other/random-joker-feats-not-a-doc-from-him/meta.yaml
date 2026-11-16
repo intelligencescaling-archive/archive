@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: random-joker-feats-not-a-doc-from-him
+category: doc
+title: RANDOM JOKER FEATS, NOT A DOC FROM HIM
+authors:
+- name: Nearby-Row4308
+  reddit: Nearby-Row4308
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1zRSTkl63iBCfuz-hyv__1A4D-PS_nPNHDLRojWOO6w4
+    google_id: 1zRSTkl63iBCfuz-hyv__1A4D-PS_nPNHDLRojWOO6w4
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 6
+    words: 2499
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 127617
+      sha256: 8d58b8459c5a82a0f750075bcca03715b39f947b1c34d0144e64ea4957492f9b
+    - format: docx
+      name: document.docx
+      bytes: 13924
+      sha256: 9b3958975f4fa7d0f1bbed5d3a23c466ad584f437338bea5a73245001596f52a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1tc9bfr/_/olq0xcz/
+  note: 'Shared by u/Nearby-Row4308 in a comment on 2026-05-14: Here bro: Joker/Ren Amamiya FSIQ Doc: https://docs.google.com/document/u/0/d/1'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

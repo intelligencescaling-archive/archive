@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: totally-not-chat-gtp
+category: doc
+title: Totally not Chat GTP
+authors:
+- name: FateDaA
+  reddit: FateDaA
+  source: reddit-post
+series:
+- liar-game
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IflGKuPQvHQeDM7ojvqgFcApkZB8hT3YF898YUBrju4
+    google_id: 1IflGKuPQvHQeDM7ojvqgFcApkZB8hT3YF898YUBrju4
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 4
+    words: 1283
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 108522
+      sha256: 2f9b260faa39ae2be21b84091415171019d187681833fe1bebc17efb04310658
+    - format: docx
+      name: document.docx
+      bytes: 11208
+      sha256: b838bbafc2e7b94c051103742d0ffddafaf559863892bc340c009a0b5f69b43e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l9jf3h/_/mxduuee/
+  note: 'Shared by u/FateDaA in a comment on 2025-06-12: Exhibit A: [https://docs.google.com/document/d/1IflGKuPQvHQeDM7ojvqgFcApkZB8hT'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

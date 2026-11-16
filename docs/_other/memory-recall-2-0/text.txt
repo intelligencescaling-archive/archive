@@ -1,0 +1,93 @@
+Memory Recall: Reanalysis
+
+Intro:
+
+As the title implies, this is a re-analysis of the Memory Recall feat that I’ve felt inclined to make after vigorous discussions with other members of the scd community. In my initial analysis found here, I had concluded that it was a PSI feat and potentially WMI + VSI as well, but new information has made it more complex than the relatively simple analysis I provided there. In this analysis, I will attempt to argue that this feat, while not strictly FSIQ as commonly used by the community, is still a massive buff to his cognition in light of new information. Note: I don’t believe this new interpretation will affect the EQ analysis found in the old doc.
+
+The Analysis:
+
+To begin with, let’s set the scene. Kira #3, Higuchi, has just been captured and the notebook transported to the helicopter where Light and L sit. L touches the notebook and sees Rem, and his mind going into overdrive with his deductions leaves him slow to react as Light grabs the notebook from his grasp. A few more seconds pass as L continues thinking in his mind before he’s interrupted by a scream. Light’s mouth is agape with terror as we see memories of his misdeeds flash before his eyes - his murder of Raye Penber, his murder of Naomi Misora, his first encounter with L, and the planning process behind his memory gambit among other things.
+
+This scene is built on rule 37 of the Death Note. As shown below: “When regaining ownership of the DEATH NOTE, the memories associated with the DEATH NOTE will also return.”
+
+Let’s first go over how much those memories were worth since that is still relevant to the reinterpretation. Light first picked up the Death Note on November 23, 2003 and lost his memories with it on June 9th, 2004. That’s 199 days worth of memories to process in a few seconds.  According to scientists, the average person processes 74+ GB a day. We can round up to 80 for Light since he’s obviously above average, and lives a very active lifestyle constantly deliberating on how to outmaneuver his enemies and continuing his education. The number I gave in my last analysis was 15,920 GB of information, but I didn’t adjust for sleep there. Assuming Light gets 8 hours of sleep, Light would actually only have received 3,184 hours worth of information instead of 4,776 - 132.667 days. That gives us 10,613.336 GB that Light’s mind received. The time span is trickier, but I will be using the anime scene for reference. Light grabs the notebook around 1:37, but we hear Light scream at 1:53 as the memories flash before his eyes - 16 seconds. 8.4906688e+13 bits / 16 = 5.306668e+12 bits per second.
+
+An error I made in the first interpretation was assuming it was essentially an infodump to his conscious mind, but that’s not the case. As can clearly be seen in the scan provided, Light wasn’t instantly responding to information as would be the case if he was. There’s clearly some time between him clearly touching the book and the scream, enough at least that he was able go from leaning over to grab the book to staring straight ahead. More reasonably, it first went into his unconscious mind  (temporary storage in the cerebral cortex) for unconscious processing. Here is where the distinction between semantic and episodic memory becomes relevant. Semantic memories are those of general knowledge - the names of colors, the faces of close family members, basic math, etc. Episodic memory comprises experiences specifically, including emotional ones. The relevance of this is that I had initially assumed equality across all memories Kira-related and non-Kira related such that Light would have to consciously process each one, disregarding irrelevant ones and deliberating over relevant ones. Now that we know his memories were all episodic, it’s reasonable that his memories weren’t all equal, his mind would prioritize emotionally relevant episodic memories (such as his first kill and his reasoning to become Kira) in sending them to his conscious mind for conscious processing. This is why, as shown in the first scan, all of the memories visualized are important plot-related memories. Of course, that doesn’t necessarily mean that all relevant Kira memories were sent to the conscious mind, some could’ve been unconsciously encoded into his psyche as well.
+
+But the thing is, that this still entails superhuman processing (by irl standards). His unconscious mind would still have to sift through unimportant memories vs relevant memories, or it wouldn’t know which is which. An analogy helps:
+
+My previous interpretation:
+
+        Imagine 20 doors, behind 19 are stacks of garbage  and 1 has a pile of cash. You would have to open each door to find out which is which if you don’t get lucky on the first few tries.
+
+The new interpretation:
+
+        Imagine 20 colored doors, behind 19 red ones are garbage and 1 green door with a money sign has a pile of cash. The green door obviously gives you a strong inclination to open it.
+
+Relating that to Memory Recall, I had assumed each memory (door) had to be “opened” or consciously processed, but now we can say that only the relevant ones had to be since his mind unconsciously prioritized the Kira-related memories for “opening.” Now does that preclude processing altogether? Absolutely not. Logically, some part of his mind would have to discern emotionally volatile memories from the mundane ones, and we have merely shifted the burden from his conscious to his unconscious. Even within the analogy, while the colors (emotions) provide some prioritization, you still have to apprehend the doors’ colors, locations, and the sign on the safe door to begin with.
+
+Is that superhuman? Yes. Numbers online put the speed of average human unconscious processing from 11 to 40 million bits per second. This is absurdly faster than conscious processing because of the way our brains are wired. Conscious processing is a product of serial processing, so we can work out and logically reason a math equation linearly, but unconscious processing is a product of parallel processing, where information splits into many pathways and into different neural circuits simultaneously.
+
+Using the anime, we calculated that his processing speed was 5.306668e+12 bits / second. With simple division using 11M as a high-end and 40M as a low-end
+
+High-end: 482,424.363636
+Low-end: 132,666.7
+
+Light’s unconscious mind is 100-400,000 more efficient than real life people.
+
+The Argument:
+
+Now to reintroduce a logical process:
+1. The Death Note returned to Light 132+ days worth of information
+2. The Death Note did not assist beyond “returning” his memories
+3. The information was first returned to Light’s unconscious mind
+        3b. If it wasn’t returned to his conscious mind, then it would have been sent to his conscious mind
+4. Emotionally relevant memories were sent to Light’s conscious
+5. Light’s unconscious mind had to process and discern the received information in order to do this
+6. To process this much information, consciously or unconsciously, is far beyond the cognitive capabilities of any real human
+7. To become Kira again would require those memories to be processed
+8. Light became Kira again
+Conclusion: Light’s cognition is far beyond any real human
+
+Note that I have carefully structured the argument such that it will either massively buff his conscious or unconscious processing whichever route you take.
+
+What does this mean?
+
+My first interpretation concerned PSI, but unconscious processing isn’t quite the same thing, but it is still just as, if not more, powerful. In fact, most information is processed via System 1 (the unconscious) which contributes to our intuitive decisions throughout the day. It contributes to our implicit memory. This is a form of long term memory which isn’t tied to recollecting past events but acquiring new skills, including language learning through the unconscious acquisition of grammar and syntax . Obviously, it also means that Light’s unconscious mind is able to apprehend far more information than any real person, so it also buffs his perception. And it also contributes to pattern recognition.
+
+To analyze the memory aspect of this, let’s look at what memory is. The steps involved in memory are encoding, storage, and retrieval. Encoding is the initial acquisition of information, storage is keeping it over time, and retrieval is the ability to recall it when needed. If someone has great encoding but mediocre storage and retrieval, then that person captures experiences with great fidelity, writing in his mind all the context clues, emotions, details, etc, of a given memory, though the mediocre storage and retrieval means that it is liable to degrade over time and that it would be difficult to consciously recall.
+
+Of primary interest is encoding. Neither conscious nor unconscious recall could be done without a memory being encoded. For Light’s conscious mind to be confronted with all those relevant memories so fast means that his brain must have encoded the given information extremely fast, and, given that we don’t see Light suffer from any sort of gaps in his memory and even relatively irrelevant memories are present in the manga during his final speech, we can infer that Light likewise also has superhuman memory encoding, which by extension would also buff his short term memory, and likely storage and retrieval as well. That’s because there’s great overlap in the parts of the brain that manage those tasks. The key regions of each are: Encoding (Hippocampus, Entorhinal Cortex, Amygdala, Prefrontal Cortex), Storage (Hippocampus, Neocortex (Temporal, Parietal)), Retrieval (Hippocampus, Prefrontal Cortex, Parietal Cortex). Strong encoding means highly detailed, emotionally rich, and contextually tagged memory traces. The more robust the encoding (the richer the initial trace and its interconnections), the easier and more stable consolidation becomes. Effective retrieval depends on the quality and distinctiveness of encoding and the connectivity established during storage. Retrieval relies on cue overlap, which is the degree to which present stimuli match stored representations. If Light’s encoding captures every sensory, emotional, and conceptual dimension of a moment, then almost any related cue will successfully trigger recall.
+
+Speaking of which, while it would be presumptuous to assume that Light literally encoded every single bit of information returned by the Death Note, it is reasonable to assume he most or at least a solid portion of it. That is still several days worth of memories that he could encode in seconds and recall. So it wouldn’t actually have to be perfect, but for the purposes of normal life outside of huge dumps of information, where he merely has to process a seconds worth of received data over the seconds or a day’s worth over a day, then his memory would be more than enough to be effectively “perfect.”
+
+What about PSI? When we receive sensory input, it is sent to our cerebral cortex for processing. Only 5% of this is usually selected for short-term memory (WMI), but information from short-term memory makes long-term memory. That % is actually very convenient as it makes sense that only a small amount of memories would be needed to recreate Kira. Applying that to the 10,613.336 GB above, then that gives us 530.67 GB that Light had to keep in his conscious mind in short-term memory. We can use the same lowball time frame (using the anime scene)  from the last interpretation and put the denominator at 20 seconds, putting his conscious mind’s PSI at 26.5285 GB/s, or nearly 7 days worth of information in a couple seconds,  a far cry from the original but still very superhuman.
+
+(CPI, FRI, VCI, PSI, WMI, Intuition, Perception, Memory, Learning Ability, Pattern Recognition, Overall Thinking)
+
+Counters:
+
+The most popular counter to the previous interpretation, and one I predict might be brought up against this one as well, is that the Death Note helped him, hence me now including premise #2. I base this premise on lack of evidence. My argument synthesizes the context of the scene - the rules, the time frame, the involvement of a brain - and the unstated conclusion that entails. It’s analogous to this situation: If the story goes “Bob the human walked to Stacy’s house,” then it follows that there was ground to walk on, that Bob has legs, that Bob’s skeletal muscles contracted to produce movement, etc, despite that not being explicitly stated. It is what follows from the given information.
+
+How does that relate to Death Note? Because nothing in this scene entails that the Death Note assisted Light beyond returning his memories. Let’s look at the word “return” used in Rule 37 since it is important. The Oxford Dictionary’s transitive definition of return is simple: “to give back somebody/something to somebody/something.” The simplest interpretation would be that the Death Note simply gave back Light his memories, not that they restored the memories. The distinction is important since one is a simple return and the other is reintegration. As used in this debunk, the Merriam-Webster’s definition fits well: “to integrate again into an entity : restore to unity.” Given the two, we can see that all reintegrations by definition are returns, but not all returns are necessarily reintegrations. For example, if I return home from war, then I have simply set foot within my household or community, however alienated I might be; if I have reintegrated into my home, then I am in unity as I was before, in harmony with my friends and neighbors and the social norms.
+
+So, since reintegration is a more specific form of return, it’s presumptuous to assume his memories were reintegrated by the notebook. Occam’s Razor favors that we simply assume a transfer and nothing more.  If we wish to look at the scene in isolation, then it follows from nothing in the scene that supernaturally assisted reintegration happened. You would need to assume the conclusion that Light’s superhuman cognition is false to abductively assume that the DN assisted him in order to prove that he has no superhuman cognitive feats, which is obviously circular reasoning.
+
+And that brings us to the next debunk argument, the one from holistic consistency. The argument goes that Light’s PSI feat doesn’t match any other feat from him (or anyone in Death Note, really), so the conclusion is absurd and something else likely is at play. This method of feat analysis I don’t really agree with, but it’s a reasonable enough one that this is a valid debunk for the old interpretation under a certain scaling philosophy. But this new interpretation, since it’s not focused on conscious processing speed specifically, is better guarded against that. The abilities strengthened by the unconscious mind, we have seen, are clearly demonstrated by Death Note characters to a superhuman or nearly superhuman extent multiple times outside of just this scene, providing consistency:
+
+1. L flies a helicopter by intuition
+2. L states Light could do it too
+3. Near is stated to be able to process huge amounts of information at once, and this is something apparently even nameless background students from his school can do
+4. Light learning how to analyze causation within the stock market in an extremely short time frame
+5. L at 6 years old playing the stock market
+6. Light learning how to create a voice modulator in an extremely short time frame
+7. Light learning how to work as a detective, taking L’s place as the greatest, in an extremely short time frame
+
+Sources:
+Subconscious Processes 27,500 Times More Data than the Conscious Mind – Think by Numbers
+Light Regains His Memory | Death Note
+Unconscious Mind - an overview | ScienceDirect Topics
+        Implicit Memory - an overview | ScienceDirect Topics
+return verb - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner's Dictionary at OxfordLearnersDictionaries.com
+REINTEGRATE Definition & Meaning - Merriam-Webster
+Marieb, E. N., & Hoehn, K. (2022). Human anatomy & physiology (12th ed.). Pearson.

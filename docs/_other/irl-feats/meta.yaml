@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: irl-feats
+category: doc
+title: irl feats
+authors:
+- name: Right-Scene5629
+  reddit: Right-Scene5629
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1fV0MMTSs-FGE8cMVFVgI64QFUAdCqRBQW6_nAblEt5Y
+    google_id: 1fV0MMTSs-FGE8cMVFVgI64QFUAdCqRBQW6_nAblEt5Y
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 3
+    words: 1586
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 74557
+      sha256: 3c4fde3fb4d7a475ea0ba8592aa9c5e167874775ef687d92722b1c556d844de0
+    - format: docx
+      name: document.docx
+      bytes: 10202
+      sha256: 7bbf2005d9ae127069094a3c33731621d99a2837495b411002aa000defe36a9a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1k4wrfc/_/momoh5p/
+  note: 'Shared by u/Right-Scene5629 in a comment on 2025-04-23: idk I can''t post a comment for some reason, if you''re interested, read the goog'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

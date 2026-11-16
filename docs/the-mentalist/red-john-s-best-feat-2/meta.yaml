@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-john-s-best-feat-2
+category: doc
+title: Red John's Best Feat
+authors:
+- name: brunchbois
+  reddit: brunchbois
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- scd-categories
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Vn4En5chz8BmEyUGevrX0x1nZqHuV40YOxS80t1Bf4o
+    google_id: 1Vn4En5chz8BmEyUGevrX0x1nZqHuV40YOxS80t1Bf4o
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 15
+    words: 5391
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 284772
+      sha256: 6fd0a9cf21543b691f8c73db75076ae3ed13d4857b707e3f5836698d0421bea1
+    - format: docx
+      name: document.docx
+      bytes: 740982
+      sha256: 81b5cebc7f46f704178193130500bdc168e0c1bf3b1129ff2f1a607f46cc848e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1rcvjxz/_/o75fpm4/
+  note: 'Shared by u/brunchbois in a comment on 2026-02-24: https://docs.google.com/document/d/1Vn4En5chz8BmEyUGevrX0x1nZqHuV40YOxS80t1Bf4o/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

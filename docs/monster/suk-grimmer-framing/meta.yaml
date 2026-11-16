@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suk-grimmer-framing
+category: doc
+title: Suk & Grimmer Framing
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  source: reddit-post
+series:
+- monster
+characters:
+- johan-liebert
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Z6qXPne2B68dxvxYAA_bI3Pzg8_2MwvnUpi_wOd0MvM
+    google_id: 1Z6qXPne2B68dxvxYAA_bI3Pzg8_2MwvnUpi_wOd0MvM
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 5
+    words: 2139
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 147077
+      sha256: 98ff8c7b77bfc04221bc56cd0a1ad80b1742c8dec75aeea6d66632290c9055c7
+    - format: docx
+      name: document.docx
+      bytes: 284221
+      sha256: 4f8375f7f4f0b2c142aec8a7e1d0abf376921a4aa5f2ea8d2ed1836f8153c017
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x3i8xl/_/pfedmre/
+  note: 'Shared by u/lzyaboiConnor in a comment on 2026-10-12: I''d say Tape Strategy is enough, but overall he takes strategy via operating in'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

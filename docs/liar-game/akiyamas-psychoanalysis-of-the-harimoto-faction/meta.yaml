@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyamas-psychoanalysis-of-the-harimoto-faction
+category: doc
+title: Akiyama’s psychoanalysis of the Harimoto Faction
+authors:
+- name: Murky_Possibility655
+  reddit: Murky_Possibility655
+  source: reddit-post
+series:
+- liar-game
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ISZSCc80rhsmhAqHsot54aPomSsk4rJCAVoWXX2WcnM
+    google_id: 1ISZSCc80rhsmhAqHsot54aPomSsk4rJCAVoWXX2WcnM
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 9
+    words: 1535
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4675322
+      sha256: 38c0898fddfc26256618fbe32fa9bcfb219cfbc6180d5637530aea20b2ef3069
+    - format: docx
+      name: document.docx
+      bytes: 5181010
+      sha256: 50721da0bb5cf5b721add08bbce8d3836d015dd6f5afc44d51721510e064e7fc
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xi3lp0/_/19rtbk1khma6c/
+  note: 'Shared by u/Murky_Possibility655 in a comment on 2026-10-29: I just realized this cuz I went to sleep after posting this but I had actually a'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

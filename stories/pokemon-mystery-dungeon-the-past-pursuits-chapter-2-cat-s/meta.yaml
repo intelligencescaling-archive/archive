@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pokemon-mystery-dungeon-the-past-pursuits-chapter-2-cat-s
+category: story
+title: 'Pokemon Mystery Dungeon: The Past Pursuits - CHAPTER 2: Cat''s Paw'
+authors:
+- name: upperlvl898
+  reddit: upperlvl898
+  source: reddit-post
+series:
+- pokemon-mystery-dungeon
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1OZxn4zW7knYJw5og0R78Aqx66PEYScQe5IELJYwiMTo
+    google_id: 1OZxn4zW7knYJw5og0R78Aqx66PEYScQe5IELJYwiMTo
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 47
+    words: 10782
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 810930
+      sha256: 38ea2c8217cff6c21ec1eeaef727af2f2e80a6f62ea7a03f8a1f004926e67a74
+    - format: docx
+      name: document.docx
+      bytes: 615124
+      sha256: e9901877a0e948cf9310b47ff69504a58e614d9dff30ae3e732793d31e2291f5
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uspsrv/_/owpx25t/
+  note: 'Shared by u/upperlvl898 in a comment on 2026-07-10: [Pokemon Mystery Dungeon: The Past Pursuits - CHAPTER 2: Cat''s Paw - Google Docs'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

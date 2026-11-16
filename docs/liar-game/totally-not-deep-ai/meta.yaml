@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: totally-not-deep-ai
+category: doc
+title: Totally not Deep AI
+authors:
+- name: FateDaA
+  reddit: FateDaA
+  source: reddit-post
+series:
+- liar-game
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ejAOoCVthv98vaKUDzoVlYw41E3wFycJpPMq7ZtVvdQ
+    google_id: 1ejAOoCVthv98vaKUDzoVlYw41E3wFycJpPMq7ZtVvdQ
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 3
+    words: 846
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 62229
+      sha256: 64b25b42ffbe1924f0527bb1ba8beb6decae135d536bb90f220a964dc4a73881
+    - format: docx
+      name: document.docx
+      bytes: 9662
+      sha256: dd3e571eb3d8444b152b7e0a4981ac238331a0b74c314c0f414c5adf3ec42851
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1l9jf3h/_/mxduuee/
+  note: 'Shared by u/FateDaA in a comment on 2025-06-12: Exhibit A: [https://docs.google.com/document/d/1IflGKuPQvHQeDM7ojvqgFcApkZB8hT'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

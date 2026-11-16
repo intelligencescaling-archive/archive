@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dexter-morgan-doc
+category: doc
+title: Dexter Morgan Doc
+authors:
+- name: Quick-Jaguar-9572
+  reddit: Quick-Jaguar-9572
+  source: reddit-post
+series:
+- dexter
+characters:
+- dexter-morgan
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EvLiKzn4gC03-FvYmL88ee6rX1MFoncIAdYOoRGBDcs
+    google_id: 1EvLiKzn4gC03-FvYmL88ee6rX1MFoncIAdYOoRGBDcs
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 14
+    words: 4947
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 622414
+      sha256: a01a310225b157cabf01f3c6d3e9100b1150c47f0500c34a2a1ac7d1f86b6e9d
+    - format: docx
+      name: document.docx
+      bytes: 714609
+      sha256: ea8a681c8114df1e2ac6a053ff4f637e18922652d76f8197dedc5babee7a096a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1n907do/_/ncmd7ng/
+  note: 'Shared by u/Quick-Jaguar-9572 in a comment on 2025-09-05: I started one awhile ago this is what I had before I stopped: https://docs.goog'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-horikita-feats-y2
+category: doc
+title: SUZUNE HORIKITA FEATS Y2
+authors:
+- name: MembershipNo9359
+  reddit: MembershipNo9359
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aAhUBWLCkj23HnL5vpbEMshghDq2Alro2NPXj1BDOtU
+    google_id: 1aAhUBWLCkj23HnL5vpbEMshghDq2Alro2NPXj1BDOtU
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 30
+    words: 12936
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1643627
+      sha256: f53f30c96edb1c833ee67bc504fc3adfb55dac46d73b8bdecf58244c8fc8c39a
+    - format: docx
+      name: document.docx
+      bytes: 1428690
+      sha256: 51525e57fb566ae852d127406722163008b20e7e0b7c578e0be3eab3d477ebee
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1iq6yzs/_/mcya4s4/
+  note: 'Shared by u/MembershipNo9359 in a comment on 2025-02-15: [year 1 feats ](https://docs.google.com/document/d/1Uqm84tY84krDGz638ojmIkVCs7qK'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

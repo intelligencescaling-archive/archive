@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-criticism-burial
+category: doc
+title: Light Criticism (Burial)
+authors:
+- name: N-Ice
+  source: doc-text
+series:
+- death-note
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=17XzcPzZEeHOjlq2yPPm7P5wLwXlPXegoKgp7YCoVNGw
+    google_id: 17XzcPzZEeHOjlq2yPPm7P5wLwXlPXegoKgp7YCoVNGw
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 31
+    words: 7454
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2983012
+      sha256: 7ba3551c05545783c5224297d466f9a71b69eb8308b62efc59889bb30e84f31d
+    - format: docx
+      name: document.docx
+      bytes: 2429568
+      sha256: 1b2ae876b6c2eda7b4283c9803c4ef4e661f2a6af9e646190bdf63971eb700c8
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1s40x0a/_/ock5oqa/
+  note: 'Shared by u/N-Ice-the-one in a comment on 2026-03-26: https://docs.google.com/document/d/17XzcPzZEeHOjlq2yPPm7P5wLwXlPXegoKgp7YCoVNGw/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

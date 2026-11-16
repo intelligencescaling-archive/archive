@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: robert-mann-plan
+category: doc
+title: Robert Mann Plan
+authors:
+- name: LosuthusWasTaken
+  reddit: LosuthusWasTaken
+  source: reddit-post
+series: []
+characters: []
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vlQNS1fIPflw87qq-J_zeKr2ZBNf24HT_Py95y-pSao
+    google_id: 1vlQNS1fIPflw87qq-J_zeKr2ZBNf24HT_Py95y-pSao
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 4
+    words: 1695
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 539687
+      sha256: 46a59ad64ece66634f491bfb1370be46cb420d048de7c1d9768602241f57d159
+    - format: docx
+      name: document.docx
+      bytes: 498878
+      sha256: 67124e6882bafdd58f784595b4f74d74c5c452515491c24dabc64d6641dc7adb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x9yjpu/_/phqoljw/
+  note: 'Shared by u/LosuthusWasTaken in a comment on 2026-10-19: [Here we go.](https://docs.google.com/document/d/1vlQNS1fIPflw87qq-J_zeKr2ZBNf24'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yoojin-doc
+category: doc
+title: Yoojin Doc
+authors:
+- name: Puzzleheaded-One2548
+  reddit: Puzzleheaded-One2548
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nBFjfS_CftY6_iElEDArgM3_Yhie1K9exmlYbeHWFJk
+    google_id: 1nBFjfS_CftY6_iElEDArgM3_Yhie1K9exmlYbeHWFJk
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 5
+    words: 2696
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 100004
+      sha256: 2ee3495b9f077f60e68ecb9f835edeb20f3d06980048485b6165f851cfc96a90
+    - format: docx
+      name: document.docx
+      bytes: 12631
+      sha256: c520e336857559797e3378ba5cb53209ddd573b53a9a5c027e0393ce68648599
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1t60v4d/_/okgr7hm/
+  note: 'Shared by u/Puzzleheaded-One2548 in a comment on 2026-05-07: If anyone is interested in an irl feat with good methodology https://docs.googl'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

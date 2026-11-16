@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fazbear-entertainment-smearing-campaign-document-revamp
+category: doc
+title: Fazbear Entertainment Smearing campaign document (Revamp version)
+authors:
+- name: Veneno on
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1FBB9h7G93ba5W7RfNdTkgczQUhOkCEZ-KDU7G0RXHrQ
+    google_id: 1FBB9h7G93ba5W7RfNdTkgczQUhOkCEZ-KDU7G0RXHrQ
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 16
+    words: 6682
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1569311
+      sha256: e0d1405d3d0248a60fe8b9f3c71ceed380077b8776f1ede8f07e72d1f5e92b3c
+    - format: docx
+      name: document.docx
+      bytes: 3500631
+      sha256: 0a80b3f2d144ef61fc22787ba549b7ace7deaeeb47bf64b61348df2a075293ff
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pkuqsu/_/ntxz9xq/
+  note: 'Shared by u/Mediocre-Neat-1207 in a comment on 2025-12-14: This’ll likely be a more better read on the app. Also you’ll be like the first p'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

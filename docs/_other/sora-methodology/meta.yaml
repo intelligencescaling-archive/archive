@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sora-methodology
+category: doc
+title: Sora Methodology
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1z1PXlLFCfTbvaFWaRyuMG-GffdejpH3yDw8UTofiNDs
+    google_id: 1z1PXlLFCfTbvaFWaRyuMG-GffdejpH3yDw8UTofiNDs
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 18
+    words: 10228
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 321071
+      sha256: 2a8d216490eafeead0cf273bd418cf0d1924560075dfeaef334f62553a05afb0
+    - format: docx
+      name: document.docx
+      bytes: 29631
+      sha256: 72460141097ab0564427f184cd7271b5b006e99b82248d17f9aae86e33801dbd
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qnaprp/_/o1y2zdt/
+  note: 'Shared by u/lzyaboiConnor in a comment on 2026-01-27: [https://docs.google.com/document/d/1z1PXlLFCfTbvaFWaRyuMG-GffdejpH3yDw8UTofiNDs'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

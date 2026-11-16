@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jake-peralta-doc
+category: doc
+title: Jake Peralta Doc
+authors:
+- name: Quick-Jaguar-9572
+  reddit: Quick-Jaguar-9572
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cz9pOiE1YDOe4ibRoSdibtfk-tTJ9a8NAcQ6J9HcJkc
+    google_id: 1cz9pOiE1YDOe4ibRoSdibtfk-tTJ9a8NAcQ6J9HcJkc
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 10
+    words: 3517
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 281411
+      sha256: d1f7c17598ad219f89d3c6d72de7ded716eab4b92307dadd214006dbedb0420d
+    - format: docx
+      name: document.docx
+      bytes: 420986
+      sha256: 16abe3073807a0e094ef4362a1a47764cf45289cb1211b269897f7dd85be6ff0
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1jgk5rs/_/nij6yhd/
+  note: 'Shared by u/Quick-Jaguar-9572 in a comment on 2025-10-09: Sure 👍🏻 I made this when I was just getting into SCD so don’t expect it to be mi'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

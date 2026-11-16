@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dkz-feats-outsmarting
+category: doc
+title: DKZ Feats (Outsmarting)
+authors:
+- name: BakuMadarama
+  reddit: BakuMadarama
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-lsQo6NSvpZSm0GoZxW-B9iw-56KfnpVqekZObsAVtE
+    google_id: 1-lsQo6NSvpZSm0GoZxW-B9iw-56KfnpVqekZObsAVtE
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 62
+    words: 61297
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 7894443
+      sha256: 88c39533fe8b11035827d1adca4d083c1a6b85d1d6e326f8f0258065da99bdb8
+    - format: docx
+      name: document.docx
+      bytes: 7117982
+      sha256: ce9f28cd14d86863ff39c3c0700850ea79d5929670be29ddc2eecb67d3887034
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1j083o8/_/mfde0vj/
+  note: 'Shared by u/BakuMadarama in a comment on 2025-03-01: https://docs.google.com/document/d/1-lsQo6NSvpZSm0GoZxW-B9iw-56KfnpVqekZObsAVtE/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

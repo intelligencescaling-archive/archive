@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shiki-fsiq-and-pmh
+category: doc
+title: Shiki FSIQ and PMH
+authors:
+- name: Aquitosias
+  reddit: Aquitosias
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1HtQyteyOPr21l9zyMaqU14y_6VBXSz4E7tDztCyWaQA
+    google_id: 1HtQyteyOPr21l9zyMaqU14y_6VBXSz4E7tDztCyWaQA
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 7
+    words: 2589
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 396401
+      sha256: 539d606a54d0ff147a0a3883da2afde3808ba4d3120be1928661b24b3ca15ad5
+    - format: docx
+      name: document.docx
+      bytes: 371691
+      sha256: d92cf03bad74ee9d4569f1bd115a14c2358e34c90da369a45778eb19b57fe02e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x9n6s4/_/phn3rep/
+  note: 'Shared by u/Aquitosias in a comment on 2026-10-19: She has quite a lot of feats, mostly related to her PMH. She doesn''t just memori'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

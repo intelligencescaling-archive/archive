@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ban-sao-cua-he-thong-scd-viet-nam
+category: doc
+title: Bản sao của Hệ Thống SCD Việt Nam
+authors:
+- name: InHellExtreamPlayer
+  reddit: InHellExtreamPlayer
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: pt
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ES-VOncEVzGKmEYT0GDSTUd3HXOl-lplwFJuoU-Jt18
+    google_id: 1ES-VOncEVzGKmEYT0GDSTUd3HXOl-lplwFJuoU-Jt18
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 95
+    words: 16763
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 33550778
+      sha256: c8c7dff05e4f4e3d731d3f78da67299ae25aef9e0fd9bff861230862dc19efbf
+    - format: docx
+      name: document.docx
+      bytes: 29912933
+      sha256: f305f71efb27610087adb9a6badb16b0e75c38d6634c723bb085b97b49fd5539
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wedhxv/_/p9csa3a/
+  note: 'Shared by u/InHellExtreamPlayer in a comment on 2026-09-12: Please translate it into English. [https://docs.google.com/document/d/1ES-VOncEV'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

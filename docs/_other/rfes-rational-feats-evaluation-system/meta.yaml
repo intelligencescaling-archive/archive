@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rfes-rational-feats-evaluation-system
+category: doc
+title: RFES (Rational Feats Evaluation System)
+authors:
+- name: AsideOk1035
+  reddit: AsideOk1035
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1YvV90L9hk0PfTpSRqfLkvVtguVuWg0-PV4WBpJJRuUo
+    google_id: 1YvV90L9hk0PfTpSRqfLkvVtguVuWg0-PV4WBpJJRuUo
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 21
+    words: 4716
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 243778
+      sha256: b12e85ec59e43cbb4a81f119d0b458534c4e391d338f8905463f11d5ede0e3f0
+    - format: docx
+      name: document.docx
+      bytes: 578701
+      sha256: 611fc225d6767a63bb9df613ece439a8835fbf3bc342799cd7abd4f9419b6d63
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1kl00nb/_/ms2h319/
+  note: 'Shared by u/AsideOk1035 in a comment on 2025-05-13: well actually I will just give you the document straight away: [https://docs.goo'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

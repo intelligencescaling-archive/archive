@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: upperlvl898-s-short-story-operation-eyes-only-d
+category: story
+title: UpperLvL898's SHORT STORY Operation Eyes Only ;D
+authors:
+- name: upperlvl898
+  reddit: upperlvl898
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Ig3W8Zbw_KqCdljDFrBBmCv6543xeL0aFbLc1n8Q4gI
+    google_id: 1Ig3W8Zbw_KqCdljDFrBBmCv6543xeL0aFbLc1n8Q4gI
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 12
+    words: 5648
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 190702
+      sha256: 76d7f53138f100e49f3e0015e434bfe24621653d330167d8af247dd46137895b
+    - format: docx
+      name: document.docx
+      bytes: 22029
+      sha256: aeddba8a23c48bac0f4e817bb3b24dc299e731be6eff02e1f5a1c5628456383e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1uf89x6/_/oun1g8b/
+  note: 'Shared by u/upperlvl898 in a comment on 2026-06-30: Sory for late 😭 I forgot to send https://docs.google.com/document/u/0/d/1Ig3W8Zb'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,271 @@
+RFES (Rational Feats Evaluation System)  - Author: berl1863 on discord, icnav on Tik Tok +CHATGPT assistance for clearer text
+
+🟥= Core values and logics ; 🟫= Examples ; 🟧= Inner monologue ;
+🟪= Concrete/Practical application+abstract idea mentions ; 🟩= Pay attention
+________________
+
+I welcome you to the RFES scaling document.
+This is a scaling system born with the foundational idea of scaling fictional character's intelligence based on how hard their intelligence is to write, coming from a generic author's point of view (this is RULE 0). Essentially, there is a shift of perspective: from the narrative's perspective, to a human perspective.
+If you want to explore more of scaling systems and why I find narrative-scaling to be wrong here are the docs I made: Intelligence≠Narrative Scaling Systems
+
+________________
+
+Now, let's begin.
+
+What are "Feats" and which principles/rules are there in RFES?
+Feats are composed of "Abstract ideas" and "Concrete application", and they are manifestations of authors' creativity, depth of human understanding and use of logic.
+
+Abstract Idea
+The functional mechanism—the underlying principle, pattern, or logic structure—that enables a feat to work. It is not tied to the setting or specific context, but instead describes how the result could be achieved in general terms.
+
+Note: If the feat depends on advantages such as superpowers, those elements are treated as contextual constants—they shape the environment in which the mechanism operates.
+Advantages are not targeted because they are meaningless by themselves, they just can help create creative feats which actually require intellectual skill from the writer, meaning it would be against Rule 0 to not allow for advantages to count as context.
+For example about Nagito even though luck powers don’t exist in our world, the mechanism of manipulating probability is translatable, as long as the power is a known constant in the fictional context.
+
+Concrete/practical Application
+The specific use of a functional mechanism within a defined situation. It is how the abstract idea is implemented given the narrative context.
+
+________________
+
+Considerations
+Considering the core of this scaling system, coming up with a new abstract idea is much more valued rather than coming up with a concrete application.
+________________
+
+Important
+Even though feats are composed of both abstract ideas and concrete/practical applications, we individuate feats based solely on the concrete application. This is because it offers a more practical and cognitively realistic method for measuring intelligence. If we separated each abstract idea as its own feat, we would falsely simulate a "mechanical" mode of thought, as if the mind processed actions like a computer running through sub-functions.
+Human cognition is intuitive and synthetic—when writers create a feat, they often bundle multiple logical mechanisms together in a single moment of execution, they do not think "I will now have "x,y,z" factors be resolved to "p" level by finding the mechanism that will work for that objective". Instead humans think "I have x and y problems and I need to find a way that fixes them. Oh I accidently also found a way that connects to other things as well, cool".
+________________
+
+Now, let’s begin with the “rules” area.
+
+(A Area) Fixing Narrative Issues
+
+-1 Plot armor and unrealism. Definition of realistic feat: a feat is realistic if it establishes a clear cause-and-effect relationship and the likelihood of that relationship occurring is high when judging it by real-world probability (using our intuition). Don’t confuse this with the use of  superpowers etc.
+
+Brainrot example:
+(fictional universe) monkey wants banana> shakes the tree to get sum> has 100% chances of getting 10 bananas (expectable bananas = 10)
+(our universe) monkey wants banana> shakes the tree to get sum> has 15% chances of getting 5 bananas (expectable bananas = 0.75)
+
+How does this rule apply?
+Case 1
+the expected bananas in the fictional world (10) are way more compared to the ones of our universe (only 0.75)> feat is completely unrealistic> completely worthless
+Case 2
+the expected bananas in the fictional world change to 1 and the ones of our universe remain the same> feat is only slightly unrealistic> either no devaluation or slight one
+More will be explored later on in the “strategy section” but here you can grasp most of what this is about.
+
+Why is unrealism targeted?
+Core principle ("credibility") being completely negated. But why would that be bad?Because you can make characters do anything, but in a way that is only related to plot convenience and not intelligence.
+
+-2 Direct and indirect statements. Indirect statements refer to instances where a character's intelligence is implied through an extremely obvious and immediate thought or action, rather than explicitly stated and a direct statement follows this same line but it’s instead explicified. For example, it is as simple for an author to state that a character has a 400 IQ (direct statement) as it is to write a character maintaining perfect emotional control in a dire situation just by drawing him not anxious (indirect statement). Both rely on surface-level implications of intelligence without requiring meaningful intellectual feats.
+
+-3 Advantages. Advantages (whether from powers, influence etc.), as I said before, ARE COUNTED AS CONTEXT not as feats. Having more influence, powers etc. doesn't neither diminuish nor increase the worth of a feat, they are inherently meaningless and it would be a category error to count them as intelligence.
+
+-4 The knowledge case. Knowledge case refers to instances where a type of feat is already well known. Now there are 4 cases:
+-both abstract idea + concrete application are nuanced = slight increase in value
+-nuanced abstract idea + non-nuanced concrete application = value stands still
+-non-nuanced abstract idea + nuanced concrete application =  varies from slight to strong decrease in value depending on how creative the nuanced application is
+-both abstract idea + concrete application are non-nuanced = near worthless or worthless
+
+-6 Forced feats. Unrealistic feats do not account for context. This is where such context is accounted for. Forced feats account for when those two things happen (at the same time):
+-"hidden context" = context that isn't explicit and that fixates things in favour of the characters
+-unrealistic context = context favours the character that has low chances of being real in our world.
+This isn't something that goes against intellectual ability as much as the previously said things, but it is still something the logical coherence of the feat which should lower its value slightly.
+
+-7 Off-screen: the main problem is that the author takes away the responsibility for the explanation in these cases (both “visual explanation” to better see the context and CERTAINLY “written explanation” as it lacks text explaining actions explicitly). So how does one evaluate this aspect?
+
+Case A -If the feat is made explicit clearly in retrospect, there is no problem.
+
+(General warning: if only a PART of the feat is Case A or B or whatever, the Case applies ONLY to that part.)
+
+Case B-If the feat has overwhelming evidence to the point there is almost no room for personal interpretations and assumptions, then there is no problem.
+
+Case C -If the feat has evidence, but not enough to make it the only possible AND also the most probable (and by a long-shot) thing that happened, then a slight to decent nerf is applied (-10-20% depending on lack of probability and evidence).
+
+Case D -If the feat has evidence, but other interpretations and assumptions have contrary evidence too, then there is a heavy nerf, to the point of the feat being meaningless (can go from -40 to -100%).
+
+(B Area) Common Grounds For Evaluation
+
+-1 Relative values. We don't know the absolute maximum for each area of intelligence. Instead, we use the *best observed feat* in each area as the current maximum. *Analogy:* We don’t know how many bananas monkeys *could* get in theory—so we look at the one who got the most and use that as our benchmark.
+
+-2 Proportionality principle. Every character’s score is calculated as a proportion of the current maximum. This ensures internal consistency and intuitive fairness. *Example:* If Monkey A gets 5 bananas and the max is 10, he scores 50%. But if later Monkey B gets 15, A’s score drops to 33%. This applies to individual feats within categories, so the categories wil be indirectly affected.
+
+-3 Points. To enact rules 1 and 2, we assign points to quantify the value of a character's feats. Point differences will allow for consistent scaling's comparisons and difficulties calculations.
+
+-3 Quantity is a relevant factor (with limitations of course) in most categories. Reasoning being that it's objectively cognitively more demanding making a character prove to be good in something multiple times. Slot system resolves how to proportionate the quantity-quality aspect.
+
+-4 Irrelevance of diversity by itself. This is already implied if you fully understood the previous things, but I will explicit this: if you "no diff" someone in EVERY cat but one, that character can still win as long as in absolute values he is better. For example: char.1 is better in X,Z,Q things with a total of 3 points of margin, but char.2 is better in P by a margin of 4 points, and so he wins.
+
+-5 Relevance. Avoiding the use of categories-subcategories rarely shown by characters (like Emotional Realization) unless it’s a REALLY core aspect of outsmarting (such as emotional manipulation) AND has unique structural mechanism. Also avoid redundancies when deciding which categories-subcategories to use. This is unless there is evident need to highlight a certain aspect of that intellectual ability.
+
+-6 Usage of nerfing categories. Nerfing categories are means to implement rules when they are not to be applied in "dark" or "white" cases, which is the most usual case.
+
+-7 Different quantities. Some categories of intelligence require more demonstrations than others given their own nature. Indirect reasoning being that some of them have their core value being in adapting to situations more than others (strategy requires it more than reasoning abilities as they are understood in this system). Direct reasoning is that some of them, for their nature, require multiple aspects (understanding emotions).
+
+(C area) Intuition Related Implementations (that CAN and CANNOT be applied accordingly to personal feelings):
+-To simplify a rare issue: characters that are stated to have contributed to a feat in a vague sense and are implied narratively to have worked on a good part of the work, are attributed the whole feat.
+-Creation of a category called "CONSISTENCY", the cat explanation will be in the cat explanation part as it’s quite long. This cat was created due to the unfairness of comparing characters with massively different opportunities. Still the value of this feat is almost irrelevant, it was mostly just to make characters with better screen/time ratios, slightly better than the ones who were on their same level but only quality feats wise.
+
+(Z area) Subjectivity in opinions. Subjectivity within this scaling arises with:
+-intelligence being a subject that is nowhere nearly "solved" in real life to begin with
+-we don't even know if there is a way of such subjectivity to be solved even WITHIN systems of evaluation
+-intuition/feelings related to "how much does this thing respect the rules" or "how much creativity, complexity etc. does this X thing require"
+
+Fields where some objectivity arises:
+-In SOME cases deciding what is against/according to the values can be argued for in purely deductive or strong empirical ways, ESPECIALLY about the knowledge case and reasoning feats and partially with other things like realism.
+-Challenging wrong definitions. Finding out misuse of definitions and their application. This could be the case for anything basically, but what I'm mainly thinking about would be the definition of feats.
+
+This was the SYSTEM part of the scaling.
+Now let's switch to the "METHOD" (put in practise) part of this scaling.
+
+DISCLAIMER:
+Even though I think this point system would be a useful tool in the process of scaling I can get why people would be annoyed by it. This is mostly meant for debaters who would want to stay as objective as possible, not for people who want to scale without worrying too much about it (which is totally fair).
+This said, let's start.
+
+POINT SYSTEM EXPLANATION
+Difficulties are represented as percentages, calculated based on proportional calculations within singular feats.
+Difficulties per percentages:
+(0–30% No concept of difficulty) > (30–40% Negative difficulty) > (40–45% No difficulty)
+(45–50% No–Low difficulty) > (50–55% Low difficulty) > (55–65% Low–Mid difficulty)
+(65–78% Mid difficulty) > (78–83% Mid–High difficulty) > (83–92% High difficulty)
+(92–96%Very High difficulty) > (96–100% Extreme difficulty)
+We will use the “+” sign when we are close to the upper tiers by 33% and the “-” sign when we are close to the bottom tiers by 33%.
+How this all practically works:
+Light has 9 points in reasoning, 9 points are the maximum for reasoning as a category let's say, and Near has 6 points in it. Since 6:9=⅔=66%, this means that Light mid diffs (-) Near, since it's in the “mid diff tier” and is also in the bottom 33% of such tier.
+Now let's say that Kouji is presented and he high diffs + Light in it. Let's say that Light is now 90% (within the “high diff +” range) of Kouji’s reasoning. This means that now Near's reasoning evaluation will be changed from 6 points, to 6*90%=5.7 points, since the relative maximum changed.
+
+Advanced RFES: The Slot System
+The Slot System puts in practice the rules from Area B, in particular the quantity-quality balance. It divides each subcategory into slots, each representing a separate feat/practical implementation each of which slots will hold different weight to proportionate the right quality-quantity balance for that type of feat. Number of slots will determine the quantity necessitated also.
+This is how it works:
+Slot System Example
+Subcat: deception
+Number of feats required (which is the same as to ask “how many slots are there”): 4 slots
+Distribution of percentages: high (30-30-30-10)%
+Characters: PJ, RJ
+PJ’s feats=8/10, 8.5/10, 9/10, 10/10
+>10/10*30%+9/10*30%+8.5/10*30%+8/10*10=0.905>90,5% of deception
+RJ’s feats=9/10, 9/10, 9/10, 9/10
+>9/10*30%*3+9/10*10%=0,9>90% of deception
+So this would mean that pj extreme diffs + rj in deception  (99.45%)
+
+Now, for the categories explanation and evaluation watch and click on the right of this document.
+
+Now we will go over the usual SCD categories and whether they apply in this scaling or not and if they apply do they fully or partially apply?
+Not applying means = applying them would be a category error (they wouldn’t be considered intelligence to begin with within this scaling)
+Partially applying (-) = would mean that with most feats in this type of category (like 85-95%) would belong to a category error
+Partially applying (+) = an “ok” amount of feats that usually belongs to this category (like 50-70%) would belong in a category error
+Mostly applying = good amount of feats that usually belongs to this category (like 10-30%) would belong to a category error
+Fully applying = except for rare cases all feats that belong to this category are not in category errors
+With “usually belong” I refer to how those categories are USUALLY evaluated by people in usual scaling systems. This will just be a general indication. No reasonings will be made because it would take too long
+Here go the cases:
+Not applying = everything “Speed” (PSI/Planning formulation speed) or “Result” (like “Success rate”) oriented, Memory, Observation (when in non-reasoning sense), Intelligence (Musical, Kinesthetic), ALL AC (mental fortitude etc.)
+Partially applying (-) = EQ (Emotional Management), Influence (Charisma), FSIQ (WMI-VSI-VCI), Adaptability, Deception (Acting Skills), Intuition, Foresight, EQ (EP), Cold Reading, Empathy
+Partially applying (+) = ALL SQ, Crystallized Intelligence, Leadership, Reasoning (Inductive), Manipulation (Mass)
+Mostly applying = Basically everything else but I’m not writing allat [Most of planning subcats, Reasoning (Abductive), Deception (misdirection, info control, concealment), Manipulation (direct, indirect, emotional, logical).......]
+Fully applying = Reasoning (deductive)
+
+Usable cats/subcats: this is something that should be debated and agreed upon by a hypothetical community of RFES users. As of now they are the ones I put the explanations on.
+
+Reasoning explanation:
+Reasoning is being defined as the ability to solve problems using deductive and probabilistic logic.
+Here in RFES we do not evaluate differences within deductive, abductive and inductive reasoning, because we think that rather than the different process they go through the main thing that distinguishes a reasoning feat from another is the quality, which is given by the following types of reasonings:
+1-Handling complicated information. This refers to understanding data that ONLY gains meaning when multiple pieces are connected together. Think of it like a puzzle where having 3 out of 4 pieces gives you no image, but getting that final piece suddenly reveals the full picture. In this type of reasoning the causality correlated characteristics are having both high WMI and high observation skills. There is also a strong correlation with strategic thinking and lateral thinking. Main examples I can think of are lots of strategies within Liar Game, main example being Minority Rule’s idea of the split group.
+This subcategory will be named: Complex Integrative Reasoning or CIR
+(4.5 points with 50-50% slots)
+2-Handling connected pieces. This refers to understanding data that gains SOME forms of meaning, but that fully takes meaning when multiple things are connected. This again requires high WMI and high observation skills, but not to the same level as “complicated information”.  This type of reasoning is usually the most preeminent in “detective-like” stories like Case Closed (Detective Conan).
+This subcategory will be named: Layered Associative Reasoning or LAR
+(4 points with 60-40% slots)
+3-Handling counter-intuitive details. This refers to understanding data that requires particular lateral thinking in order to be understood. This type of reasoning mainly requires observation skills, and is usually the most preeminent in “detective-like” stories like The Mentalist.
+This subcategory will be named: Lateral Insight Reasoning or LIR
+(2 points with 50-30-20% slots)
+4-Handling limited details and vague details. This refers to understanding data that is directly (e.g. visually) or indirectly (e.g. through story-telling means) hidden. This type of reasoning mainly requires observation skills. Main example I can think of would be Death Note L’s reasoning.
+This subcategory will be named: Obscured Data Reasoning or ODR
+(2 points with 50-30-20% slots)
+
+What is the order of importance?
+“CIR” is the best, “LAR” is the second best and “LIR” and “ODR” are together the third best type. 3 and 4 are tied up at the same importance because they are really similar to one another.
+CIR should have around 40% of value, LAR around 30%, LIR 15% and ODR 15%.
+How do we evaluate reasoning?
+We evaluate reasoning with conversions since many things strongly/decently overlap. The stronger the form of reasoning is, the more evaluated the conversations will be. Conversions take place only if the feat doesn’t already take into account the subcats it would be converted in.
+CIR CONVERSIONS:
+One CIR feat's value converts into 75% LAR, and 80% into LIR and ODR.
+This means that for example if a feat is a 10/10 in CIR, it's also a 7.5/10 in LAR and 8/10 in LIR and ODR automatically
+LIR/ODR CONVERSIONS (they hold the same power):
+LIR>80% ODR
+ODR>80% LIR
+Now, with CIR, LIR and ODR we will just have to evaluate how complex the feat was based on their parameters, BUT with LAR we will have to decide that based on some calculations, as it is composed of LIR and ODR feats, and we do it like this:
+(Number of steps taken)x(Average quality of each feat based on LIR and ODR parameters)=value of LAR feat
+OBVIOUSLY, only feats can be converted not the conversions themselves.
+
+REALISM
+The “realism” correcting subcategory will be “Credibility”. Even though realism is a prerequisite for the feat to be worth something to begin with, there are shades of grey that must be accepted, and this where this subcategory takes place. The darker the shade of grey is, the more the feat is nerfed. The percentage should be to a maximum of 20% value, after which the feat becomes worthless (if it exceeds that point).
+
+Why is reasoning so important?
+Practical outsmarting reasons:
+-best tool to predict/anticipate future situations, even opponents strategies and adapt to them
+-best, and nearly the ONLY, tool in trials-like cases
+-best gathering tool to gather enough and useful informations in order to have a better understanding of the current situation, and help the intuition find ideas for strategies
+-best tool against any forms of manipulation
+
+Strategy explanation
+Strategy being defined as: “any single practical implementation aimed at manipulating, exploiting, or adapting to a system (where system is understood in a broad sense, as an interconnected set of elements governed by specific rules or principles) in order to achieve an objective (oftentimes being an advantage)”.
+Subcategories: complexity, creativity, foresight, alignment, deception, solidity, rarity
+
+Complexity: evaluates 1-how high your logical skills must be in order to intuite A SINGLE abstract idea behind a practical implementation AND 2-evaluates practical implementations that serve multiple abstract purposes. The first type is more valued than the second one by a decent margin. This is because the first one requires a much deeper abstract thinking and because you could find connections (within the second type) that were accidentally made. The second type alone can lead you to a maximum of 60% of this category's worth.(4.5 points) (33-33-33% slots)
+
+Creativity: evaluates how high your lateral thinking skills must be in order to intuite A SINGLE abstract idea behind a practical implementation . (4.5 points) (20-20-20-20-20% slots)
+
+Alignment: values how creative or complex the synergetic connection within two practical implementations is. So each connection counts as a feat. (1 point) (33-33-33% slots)
+
+Deception: underlines value when deceptive characteristics are tied within creative feats. (1 point) (33-33-33% slots)
+
+Solidity and Rarity = Nerfing subcats
+The Existence of Nerfing Categories
+Nerfing categories exist because simply following the rules and avoiding flaws would lead to an unjustified increase in points—not due to an actual increase in value but rather a "non-decrease" of value. Exceptional cases are made when instead of "nerfing" those cats actually "boost" somethings' values.
+
+Solidity = Application of anti-plot armor/unrealistic+forced feats rules.
+-both abstract idea + concrete application are realistic = no decrease in value
+-realistic abstract idea + unrealistic concrete application = slight decrease (10-15% down)
+-partially unrealistic abstract idea + realistic concrete application = decrease varies depending on how unrealistic the abstract idea is (15-50% down). If the abstract idea is totally unrealistic, it is not taken into account in the first place.
+-both abstract idea + concrete application are unrealistic = worthless (100% down)
+
+Rarity = Application of the Knowledge Case.
+-both abstract idea + concrete application are nuanced = slight increase in value (0-10% up)
+-nuanced abstract idea + non-nuanced concrete application = value stands still (0% change)
+-non-nuanced abstract idea + nuanced concrete application =  varies from slight to strong decrease in value depending on how creative the nuanced application is (10-40% down)
+-both abstract idea + concrete application are non-nuanced = near worthless or worthless (40-100% down)
+
+ALL of those percentages are calculated on each feat within the slots INDIVIDUALLY.
+
+Why is strategy important?
+Strategy is the key element in most outsmarting situations, and puts the basis for attack and defense mechanisms. It’s arguably also the most difficult thing to write along with reasoning, given the high level of intuition required to give birth to a strategy.
+
+Quantity of feats required in strategy?
+In strategy it’s essential to prove you can find new and hard to spot ideas in different situations. Not to mention that creativity (which is the basis of EVERY strategy) isn't something that has only "one way" of being shown, making quantity needed.
+
+EQ Explanation:
+This cat was created with the purpose of underlying the set of skills I will explain in those subcats. Even though those sets of skills are partially taken into account (and sometimes MOSTLY taken into account especially with reasoning-eu correlation), we have to underlie the importance this set of skills creates, both from authorial difficulty and from practical outsmarting importance. Btw I named it EQ because it sounds cooler than EI or anything else, so this is where the choice came from.
+
+EU (emotional understanding): understanding intentions, decision making process and predicting behaviours BOTH OF OTHER CHARACTERS AND THE VERY OWN CHARACTER (as always directly through reasonings or indirectly through actions).
+
+Emotional manipulation: manipulating characters’ emotions (regardless of the number of characters being affected) in a way that indirectly or directly requires depth in emotional understanding.
+
+Social dynamics: manipulating two or more people by an understanding of how social/group dynamics work AND understanding how social/group dynamics work. I didn’t divide those two as this subcat’s value is already low and dividing those two characteristics seemed too granular.
+
+Quantity of feats required in EQ?
+Evaluating EQ would ideally require a large number of feats, as human nature encompasses a wide range of emotional and social aspects. This said quality is still a major factor.
+Implementing a slot system for EQ would be overly time-consuming and impractical so instead, I think we should mainly rely on intuition to assess a character's overall emotional intelligence.
+
+As of each subcats worth:
+-EU>highest: because it’s useful in anticipating opponents moves or analyzing the situation to create strategies and characters usually have way more possibilities of showing this type of feat
+-Emotional manipulation>second highest: because it shows depth of human understanding and weaknesses creating good room for attacks.
+-Group Dynamics>third highest: technically this would be the strongest of them all, as it leads to having lots of influence, but due to being easier to build and due to not having lots of characters having this type of feat, its value is reduced. Group dynamics are distinguished from "emotional manipulation" for practical reasons, because the structural mechanisms are often similar.
+
+Consistency explanation (up to feelings to decide whether to applicate or not):
+
+Feats/screen time (f/st) - This cat counts the ratio (not literally, for obvious reasons) of the feats we take into consideration when scaling a character, or the ones that are as near as good, divided by the screen time they had. This is kinda tricky so I’ll put an example: take Conan for example, he has tons of screen time so in this cat his points must be low as hell right? The answer would be no. He indeed has a ton of screen time compared to the best feats we take into account when scaling him, but remember that we would also have to be picking also the ones that are as near good, and he has lots of those, so in conclusion his score would be something in the low-middle .
+
+After doing this, to avoid nerfing characters that even though have lots of screen time, have good feats, and to avoid boosting (unnecessarily) dumb characters just for having a good ratio, we multiply the result we had to the total points of the other cats divided by the number of total points (apart from consistency points).
+
+To sum up: feats/screen time * total points the character has/total max points (apart from consistency)= feats/screen time (f/st)
+
+Off screen feats in f/st: Since lots of plannings are off screen and there is the "feats/screen time" subcat, characters with off screen feats have to be accounted for because they indirectly had screen time for their feats to happen.

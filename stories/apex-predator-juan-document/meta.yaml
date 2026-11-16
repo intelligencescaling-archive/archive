@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: apex-predator-juan-document
+category: story
+title: Apex Predator Juan Document
+authors:
+- name: Virtue_Oppsosto
+  reddit: Virtue_Oppsosto
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1y8HiWZURpdPGh7_NuybkgmOY7wR5-nE1dn1FqsJeToM
+    google_id: 1y8HiWZURpdPGh7_NuybkgmOY7wR5-nE1dn1FqsJeToM
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 4
+    words: 1131
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 267431
+      sha256: 045ce19a87a52a0563a3d2726e2aeeaafd5f4251315ff44c4323ad62a405105c
+    - format: docx
+      name: document.docx
+      bytes: 206769
+      sha256: 672e01d39290cd1db95cc8dbe4ca774701cdb8663eb7d28118ea49313976309c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1tppyxn/_/oofr5tm/
+  note: 'Shared by u/Virtue_Oppsosto in a comment on 2026-05-28: Im Comopsiting all those in mine Doc on a character from my novel the apex para'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

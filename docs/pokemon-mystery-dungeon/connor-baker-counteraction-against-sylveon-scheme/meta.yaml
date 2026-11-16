@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: connor-baker-counteraction-against-sylveon-scheme
+category: doc
+title: Connor Baker - Counteraction Against Sylveon Scheme
+authors:
+- name: Equal_Custard0
+  reddit: Equal_Custard0
+  source: reddit-post
+series:
+- pokemon-mystery-dungeon
+characters: []
+tags:
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vW5_bvMqwBvEmlbwAjHJslmHa_dAD9nS1VWapmsXB7o
+    google_id: 1vW5_bvMqwBvEmlbwAjHJslmHa_dAD9nS1VWapmsXB7o
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 11
+    words: 3607
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 211905
+      sha256: 92dc7ab3048bdb81bc90a285b074e435661f57005f0ab49b0b2983e300c71379
+    - format: docx
+      name: document.docx
+      bytes: 604787
+      sha256: fc7880393f0f41e482d7931438e8ddb9974b7f0066a0883ea818846761dd04df
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wizx23/_/patbngz/
+  note: 'Shared by u/Equal_Custard0 in a comment on 2026-09-19: https://docs.google.com/document/d/1vW5_bvMqwBvEmlbwAjHJslmHa_dAD9nS1VWapmsXB7o/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

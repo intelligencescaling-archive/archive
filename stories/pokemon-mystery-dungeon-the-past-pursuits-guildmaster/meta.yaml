@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pokemon-mystery-dungeon-the-past-pursuits-guildmaster
+category: story
+title: 'Pokemon Mystery Dungeon: The Past Pursuits - Guildmaster Sylveons Scheme'
+authors:
+- name: Equal_qustard0
+  source: doc-text
+- name: Db_Puddingdrawer
+  source: doc-text
+series:
+- pokemon-mystery-dungeon
+characters: []
+tags:
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1uaAJt78u_sH-W--GCQ5GExdEIAixooQ_se91C1uuI-4
+    google_id: 1uaAJt78u_sH-W--GCQ5GExdEIAixooQ_se91C1uuI-4
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 9
+    words: 3071
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 185115
+      sha256: de9b28a6322debedead8e9da49948ba0a40be13d0ae78364d471cfbd5e7b77a3
+    - format: docx
+      name: document.docx
+      bytes: 117634
+      sha256: 04ab3d3713ed0468bc2d1d4480cdb0292c225f28b8aa64e035a158f72627a1f4
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wizx23/_/pafeib8/
+  note: 'Shared by u/Equal_Custard0 in a comment on 2026-09-17: https://docs.google.com/document/d/1uaAJt78u_sH-W--GCQ5GExdEIAixooQ_se91C1uuI-4/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

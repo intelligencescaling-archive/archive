@@ -1,0 +1,103 @@
+Shiki Magata FSIQ / PMH Analysis
+
+Analysis of Shiki Magata from The Perfect Insider, feats from The Four Seasons, Volumes 1 and 2, covering ages 3–13. FSIQ abilities, along with PMH feats worth scaling.
+VSI
+At five, Shiki tells her uncle that she's already managed to "step outside" space and time. Her explanation: space operates through space and time through time, and once both are verified, they can be represented as the same kind of array with the same properties. Inside her head, they're essentially just coordinates, or numbers.
+She can't put herself inside the system because the observer can't also be the thing being observed. She calls this the first stage, "recognition," implying there are later stages she isn't explaining.
+Her uncle asks about the notes she keeps in her head. She describes the capacity as very large. The memory is read-only, so nothing gets overwritten. She can move to any point in it immediately, and can cut something out of one region and paste it into another. Asked how many "volumes" it contains, she says the concept doesn't apply. Asked how she finds things, her answer is that she searches by image.
+She does abstract thinking while simultaneously handling ordinary calculations. She doesn't write anything down, either on paper or with a keyboard, because the written result isn't useful to her. The same applies to drawing: the images and solid objects in her head are more detailed and more flexible than physical ones. She can retrieve them whenever she wants, change their colour or size, deform them. There's no reason for her to reproduce them on paper.
+When she can't sleep, she works with the coordinates of forty-nine flowers in her head, calculates their centre of gravity, then calculates the pairwise vector inner products of the resulting set, purely to pass the time. It doesn't help her sleep.
+She's manipulating the information stored in her head and performing mathematical operations on it.
+VCI
+At three, Shiki reads through an English dictionary and a German dictionary exactly once. She retains the entries along with the pages they appeared on. English and German take a few months for her to become fluent in.
+Languages aren't her main goal; she learns them because they give her access to physics and mathematics in the original languages. She considers the Japanese explanations too imprecise in some cases and prefers to read the English or German source directly.
+She notices that dictionaries and encyclopedias tell her what words mean, but don't explain the full range of how those words are used. Words like "beautiful," "cheerful," or "good morning" have meaning that depends on situation, person, relationship, and context. She wants a book explaining this, can't find one, and notes that this makes meeting strangers inconvenient.
+At three years old, she has already separated vocabulary from register/context. She then goes looking for a manual that can teach her the missing part.
+She also starts running into concepts that her available vocabulary can't properly represent, because her consciousness has subdivided things further than language can. Her example is colour: colours are effectively infinite, so assigning names to them works somewhat like extracting integers from the real numbers. Shared colours can be given names, while individual ones don't necessarily have names. A phrase such as "the colour of the bedsheets" functions as a reference to a stored colour rather than the actual colour itself.
+CPI
+Shiki reads foreign journals across the table while people are talking to her. She turns pages at the speed of a photocopier while taking in everything being said, and even corrects people without looking up.
+Ten years of a journal are stacked on her desk. She goes through the entire decade in about half a day. During that time she's reading, answering unrelated problems, and holding a conversation at the same time. She also watches videos at increased speed.
+The limitation isn't her ability to process information; it's her eyes. A human can only physically look at one place at a time, so her body becomes the bottleneck. Her brain is apparently capable of processing more than her eyes can physically provide.
+She doesn't keep physical writing tools because she considers the notebook in her head more useful. It's read-only, searchable by image, and information can be moved around internally. She stopped putting everything into ordinary language early on because explaining her thoughts to normal people takes too much effort, so she generally only speaks when she has to.
+The narrator gives an estimate of how much of her actual mental activity is visible to the outside world: roughly one part in ten million.
+While tea is being brought into Saori's reception room, she notices:
+* the titles of every book on the shelves
+
+* the carpet pattern, including an inference about the concealed section
+
+* the number of holes in the ceiling's acoustic panels
+
+* how the glass on the table is fixed
+
+* the positions of the door hinges
+
+* fingerprints on the desk lighter
+
+* Saori's recent movements inferred from the creases in his suit
+
+* the shoe brand of the young man carrying the tea
+
+* the state of the corridor while the door is open
+
+* Sunayama apparently talking to another man
+
+* the weight of the ceiling chandelier
+
+* the estimated strength of the fittings holding its chain
+
+* the positions of the sprinklers
+
+* the number of letters on the desk
+
+* the colour pattern of Saori's painting
+
+* something near the ceiling that may be a speaker or camera
+
+The majority of her mind isn't even interested in these observations; it's already busy predicting where she's going next and what might happen when she gets there. Roughly sixteen different observation targets run in the background while another part of her mind works on something completely different.
+Later, walking back against the outgoing crowd, she listens to fragments of people's conversations, building hypotheses and imagined environments from those fragments, reconstructing situations from incomplete information. Eventually she gets bored with it. She notices that humans spend a lot of time doing things they'll lose interest in shortly afterward, considers this a good thing, and starts thinking about whether being bored might actually be a useful state.
+She divides her attention into three parts:
+   * Around 50% is working on the design of the backbone of the program she's building, specifically what form the program should take, running repeated case studies. She describes this as something she can work on casually.
+
+   * Around 20% is thinking about how Schwaney's specialty could be applied. She considers evolutionary-algorithm data methods and concludes that, with enough computational speed and capacity, they could become an effective method in the future. She also thinks about how humans tend to treat their own evolutionary history almost like a god, and whether that might be what a god fundamentally is.
+
+   * Around 30% is simply looking at the night sky and enjoying the summer air while her eyes search for Shindo. Eventually she finds him standing on the steps in front of the shop.
+
+FRI
+Age at graduation
+One year after her brother's death, Shiki earns a Master's degree from Princeton. Two years later, she earns a doctorate from MIT. Immediately afterward, she becomes chief engineer at a company called MF. By March 16 of her thirteenth year, she's already attending a CAD technology conference surrounded by scholars and engineers as an established name in the field.
+At six, several private universities try to recruit her as an enrolled student. Her father ignores them, and she isn't particularly interested either. Her response is that the only real advantage of university is access to laboratory equipment, and even that hasn't become urgent for her yet. She tells them: "Please wait four months before you judge me." This is her actual recorded response to the universities, not the narrator's paraphrase.
+How fast she learns
+At three years old, she reads through an English dictionary and a German dictionary exactly once. She becomes fluent in both within a few months. Languages aren't even the main thing she's trying to learn; she wants access to physics and mathematics in English and German because she finds some Japanese explanations too imprecise.
+She never uses school as the main way of accelerating her education. She doesn't enroll anywhere. Instead, books are delivered to her by the truckload every week, arranged through her assistant and a university library. She explicitly says she knows what she needs and knows who to ask when she doesn't have something.
+At three, she's learning languages. She moves on to physics and mathematics. She then progresses through enough material to eventually obtain a Master's from Princeton and a doctorate from MIT, all without conventional schooling.
+Logical Reasoning
+A nurse is found strangled inside a windowless storeroom. There's only one door, and the way it was locked doesn't make sense for either the victim or a fleeing killer. The police can't solve it.
+Shiki works backward from the lock. The room has only one exit, so whoever locked the door would have had to remain inside afterward. Locking the door doesn't hide the body; it only delays discovery until somebody gets a spare key, and access to those keys is restricted. The victim couldn't have locked the door herself because of the position in which she was found and the circumstances of her death. The killer has no real reason to lock it; the spring bolt makes a loud, distinctive sound at night, so locking the door only creates unnecessary risk without giving the killer any advantage.
+That leaves a third possibility: the person who locked the door wasn't the victim and wasn't the killer. It was someone else who was already inside the room and locked the door specifically to prevent the killer from coming back. The only person in the hospital who could have been in the room without anyone noticing was the boy everyone believed didn't exist. From there, Shiki uses that hidden witness to reconstruct what happened and identify the actual killer.
+Perfect Memory Hax
+Human eyes capture an enormous quantity of information, but the brain does not have the capacity to process all of it, so a person ordinarily retains an impression of only part of the visual field. The higher the brain's processing capacity, the more visual information can be handled in a short time, and the higher the resulting resolution.
+She finds things faster than ordinary people. One page of a book, text and images together, is scanned precisely and memorised as a complete image in one or two seconds. The same applies to moving images: she standardises the properties and states of a moving object, adds analysis, and can memorise and process it almost exactly.
+She's only thirteen, but by that point she has absorbed everything she could absorb and hasn't forgotten any of it. At one point she's carried on someone's back, which she says is the first time that's ever happened to her. Asked whether she was carried as an infant and simply doesn't remember it, her answer is that she remembers everything.
+A phone-impersonation operation relies on a single piece of information Shiki retained five years earlier: as a child, she picked up a postcard from a hospital floor and read the notification number for a reunion she wasn't even invited to. Five years later, she still remembers the number perfectly and dials it without checking the postcard again.
+Analysis
+Total Visual Input Calculation
+This part will be a calculation of everything Shiki can see, and it has a clear context regarding what is captured in her field of vision. Humans can only remember a few things, but Shiki can process everything she sees, and to use the word process, this calculation takes place. (I'm not sure if regular PMH characters can do things like Shiki, though.)
+      * The population of 6 million cones in one eye has a capacity of about 1.6 gigabits/s.
+      * The information throughput of a human being is about 10 bits/s
+Math
+      * 6,000,000 cones × 270 bits/s = 1,620,000,000 bits/s per eye
+      * Two eyes: 1,620,000,000 × 2 = 3,240,000,000 bits/s
+      * Human throughput: ~10 bits/s
+      * 3,240,000,000 ÷ 10  = 324,000,000× human
+Results
+Shiki Magata has 324,000,000× human visual information throughput.
+Look, just to reiterate, actually visualizing something doesn't mean you have to calculate it precisely like Shiki. Shiki explicitly laid out the exact difference in visual data capacity versus what's actually retained, which is why that calculation worked. Without that kind of specific context, trying to calculate it is a bad idea.
+Theory
+“Through this surplus brain capacity, humans can construct another world within their imagination and project other lives into it. It is no exaggeration to say that all human inventions were born through this process, including technological progress. As a byproduct, or perhaps a shed husk, those glistening trails—much like the wet tracks left behind by a passing snail—are what constitute human history.”
+The world from the perspective of Shiki’s second personality. Everything this personality experiences is filtered through Shiki, and it can’t directly interact with the outside world on its own. It even questions whether the world it sees is actually real, or if Shiki created the entire thing inside her own mind. From its perspective, the people, the environment, and even its own existence could all be part of a world constructed by Shiki. The interesting part is that the second personality is aware of this possibility and starts questioning what it actually is, why it exists, and whether it has a real identity separate from Shiki
+In Volume 1, this shows that Shiki’s second personality can perceive and move through an inner space that has no normal spatial boundaries or directions. Its perception is directly connected to Shiki, even while she is asleep. It sees this space as limitless, able to be imagined as anything from an endless grassland to a vast universe, while moving through it freely without resistance or restriction. It also experiences time moving backward and can move freely regardless of when or where it is, emphasizing the nature of this inner world, its non-physical perception, and its freedom from ordinary spatial and temporal limitations.
+      * If I imagined this place as a grassland, it would stretch as far as the eye could see. If I imagined it as the universe, it would be vast and boundless. In this limitless space, there were only two people: Shiki and me.
+Results
+That really shows how far her imagination goes, from worldwide to universal, but honestly, that's just Kishio, her second personality, talking
+Casual Chat
+There’s so much more stuff we could sit down and analyze, but I think this doc just gives a rough look into her thought process, or maybe shows that she was only a genius between the ages of 3 and 13. There’s still a ton of unanalyzed info about her in the novels that I haven’t read yet. Also, she's legitimately top 1 FSIQ, lol. Yeah, I'm totally hyping her up.
