@@ -13,7 +13,7 @@ characters:
 - hannibal-lecter
 tags:
 - debunk
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -21,9 +21,13 @@ parts:
     url: https://drive.google.com/open?id=18s3toMxuaIP1A5SozSCV8awB8XKUd7r5SjLDSr2Q2h0
     google_id: 18s3toMxuaIP1A5SozSCV8awB8XKUd7r5SjLDSr2Q2h0
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 11273
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -34,10 +38,10 @@ links:
   url: https://www.reddit.com/comments/1xwvvig/
   note: 'Shared by u/Mister_MxyzptIk_ in a post on 2026-11-15: Debunking Apóstolos'' Hannibal analysis'
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
   - characters
-  - language
   - series

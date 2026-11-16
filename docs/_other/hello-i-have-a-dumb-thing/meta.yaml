@@ -6,11 +6,11 @@ title: Hello. I have a dumb thing
 authors:
 - name: sscoopers
   reddit: sscoopers
-  source: reddit-post
+  source: doc-text
 series: []
 characters: []
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -18,9 +18,13 @@ parts:
     url: https://drive.google.com/open?id=1OmiLRk-g1nN_JR6PhtFyDPC46NdON8_KVqviuK79qhs
     google_id: 1OmiLRk-g1nN_JR6PhtFyDPC46NdON8_KVqviuK79qhs
   capture:
-    status: export-blocked
+    status: partial
     date: '2026-11-15'
+    words: 2848
     files: []
+    text:
+      file: text.txt
+      method: html-extract
     missing:
       pdf: HTTP 401
       docx: HTTP 401
@@ -31,10 +35,10 @@ links:
   url: https://www.reddit.com/comments/1r4pjpw/
   note: 'Shared by u/sscoopers in a post on 2026-02-14: Hello. I have a dumb thing'
 added: '2026-11-15'
+notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
   check:
   - authors
   - characters
-  - language
   - series
