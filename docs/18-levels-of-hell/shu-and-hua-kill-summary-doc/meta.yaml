@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shu-and-hua-kill-summary-doc
+category: doc
+title: Shu and Hua kill Summary doc
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1w78tMTS95ooTRw2u2DU25nLQszvsAdn_HthBJgetNmU
+    google_id: 1w78tMTS95ooTRw2u2DU25nLQszvsAdn_HthBJgetNmU
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 4
+    words: 1581
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 79402
+      sha256: e699af34ef310e8ac757ad3046d43c5c28e884f55385291e24ffdca796701510
+    - format: docx
+      name: document.docx
+      bytes: 10832
+      sha256: 71767df3e7e3101f22f5f8c9b4cba56dfff86c44fd6751b3a0861a7cb2592d35
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x9qnon/
+  note: 'Shared by u/Simply_Amazing_1610 in a post on 2026-10-19: All the analysis done on Chen Ran and Eighteen Levels of Hell linked'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

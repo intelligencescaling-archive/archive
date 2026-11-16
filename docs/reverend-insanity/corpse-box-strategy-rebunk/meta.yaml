@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: corpse-box-strategy-rebunk
+category: doc
+title: Corpse Box Strategy Rebunk
+authors:
+- name: Rain
+  source: doc-text
+series:
+- reverend-insanity
+characters: []
+tags:
+- debunk
+- strategy
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1IKrCjJYlpNr8b2Ef_767Jvh2An-SuoGWfHfxsN80gBQ
+    google_id: 1IKrCjJYlpNr8b2Ef_767Jvh2An-SuoGWfHfxsN80gBQ
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 22
+    words: 6973
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 290905
+      sha256: 874bc12cacb4ae0de363d60a7063181a8769272bf6400e7e322a81e108adfa46
+    - format: docx
+      name: document.docx
+      bytes: 589874
+      sha256: 50eb3618ed08407b9d67904be13c5e4269202119af1ab502b5b3bb48122aa8bb
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1u5pddl/_/orms69j/
+  note: 'Shared by u/Ok_Chef1056 in a comment on 2026-06-14: I’ll probably go to sleep for a while/handle YT comments as well, so I won’t be'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

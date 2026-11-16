@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: el-juego-del-mejor-arco-detective-mentalist
+category: doc
+title: El juego del mejor (Arco Detective Mentalist)
+alt_titles:
+- (anonymous)
+- ADM Cases
+authors:
+- name: Ninecrom_Arcade
+  reddit: Ninecrom_Arcade
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: es
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1in21WWu7vivi4vzX-UM1u_cIAUygXmuF
+    google_id: 1in21WWu7vivi4vzX-UM1u_cIAUygXmuF
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 4
+    words: 762
+    files:
+    - format: pdf
+      name: Juego_del_Mejor_ADM.pdf
+      bytes: 7714
+      sha256: 1af9c9f6b1741d8dea36e2a2ceb6905016463901a7666ed4c97f838e6e63530b
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1thbni8/
+  note: 'Shared by u/Ninecrom_Arcade in a post on 2026-05-19: ADM Cases'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

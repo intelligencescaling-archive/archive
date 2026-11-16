@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: klein-moretti-volume-8
+category: doc
+title: Klein Moretti Volume 8
+authors:
+- name: marco.123
+  source: doc-text
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1v6yb4GuU_S5NgMbcuZflP5njuBmvcDKX
+    google_id: 1v6yb4GuU_S5NgMbcuZflP5njuBmvcDKX
+  capture:
+    status: complete
+    date: '2026-11-16'
+    words: 9589
+    files:
+    - format: docx
+      name: Klein Moretti Volume 8.docx
+      bytes: 3196725
+      sha256: c02809f2edad2d32108867c8d1b9227c4565a5dac07c62374e02b9fd0c4a5d07
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wdjmcy/_/p96inwp/
+  note: 'Shared by u/Jazzlike_Peanut_2792 in a comment on 2026-09-11: Extremely high, I had to reread it thrice to understand like 50% of the shi they'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

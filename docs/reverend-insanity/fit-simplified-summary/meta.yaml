@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fit-simplified-summary
+category: doc
+title: FIT simplified summary
+authors:
+- name: Ok_Chef1056
+  reddit: Ok_Chef1056
+  source: reddit-post
+series:
+- reverend-insanity
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jf-VclNpyi7hDA93IbtQ-Nj3x9PKB0koVURW-W_iaY8
+    google_id: 1jf-VclNpyi7hDA93IbtQ-Nj3x9PKB0koVURW-W_iaY8
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 18
+    words: 3278
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 205734
+      sha256: 78b1c8f69d7f083a5a3303da8edaeff3d36c11be4e36b9ceda859d92cb9eb1a6
+    - format: docx
+      name: document.docx
+      bytes: 18461
+      sha256: 087e8810cfb257020eb1fed9f9c0670ab45760662dc3e7717d51bc25de826be8
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1u5ezhe/_/orka7xg/
+  note: 'Shared by u/Ok_Chef1056 in a comment on 2026-06-14: https://docs.google.com/document/d/1jf-VclNpyi7hDA93IbtQ-Nj3x9PKB0koVURW-W\_iaY8'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

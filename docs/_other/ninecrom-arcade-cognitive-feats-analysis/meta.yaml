@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ninecrom-arcade-cognitive-feats-analysis
+category: doc
+title: 'Ninecrom Arcade: Cognitive Feats Analysis'
+alt_titles:
+- (anonymous)
+- Ninecrom Arcade
+authors:
+- name: Ninecrom_Arcade
+  reddit: Ninecrom_Arcade
+  source: reddit-post
+series: []
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=11YE7c7CjOxElSpKhZzg0yP7OSUXQ_VBg
+    google_id: 11YE7c7CjOxElSpKhZzg0yP7OSUXQ_VBg
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 4
+    words: 1427
+    files:
+    - format: pdf
+      name: Ninecrom_Arcade_Feats.pdf
+      bytes: 11449
+      sha256: 71cd2b89a6ab82a041f53bac1004c9a0eb4ca7e79757aead3680051dee0657e5
+    text:
+      file: text.txt
+      method: pdf-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vftgh3/
+  note: 'Shared by u/Ninecrom_Arcade in a post on 2026-08-05: Ninecrom Arcade'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series
