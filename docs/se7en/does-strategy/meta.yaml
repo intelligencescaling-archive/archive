@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: does-strategy
+category: doc
+title: Doe’s Strategy
+authors:
+- name: FluffyTaste4061
+  reddit: FluffyTaste4061
+  source: reddit-post
+series:
+- se7en
+characters: []
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1C3JOm5LrZaiKtKg9VKh3kCtZNPsDs28mielZl9E1hjA
+    google_id: 1C3JOm5LrZaiKtKg9VKh3kCtZNPsDs28mielZl9E1hjA
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 7
+    words: 1686
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 81241
+      sha256: faaea7b7cf18129d93fa5c92a64af8e14f285b8141dd183bd66a67f834835bf6
+    - format: docx
+      name: document.docx
+      bytes: 11201
+      sha256: 8a5883ba72e6cc86afeaab6a490665fe3dea9615a907f2fed4769909210ca1d1
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1qgs8wc/_/o0f135p/
+  note: 'Shared by u/FluffyTaste4061 in a comment on 2026-01-19: Reddit is being a pain, so I had to get creative. https://docs.google.com/docum'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

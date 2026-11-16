@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dazai-osamu-logical-feat-document-2
+category: doc
+title: Dazai Osamu Logical Feat Document
+authors:
+- name: RolloNotOver
+  source: doc-text
+series:
+- bungo-stray-dogs
+characters:
+- osamu-dazai
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-iDPMNx_BN3qJreAA0Xt-vfRYPRwIWzybABzfftKAD8
+    google_id: 1-iDPMNx_BN3qJreAA0Xt-vfRYPRwIWzybABzfftKAD8
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 3
+    words: 295
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 648845
+      sha256: 1f7dce4fac15227e180369f69457187a56694e19e461b24d2a20ea771ca698d3
+    - format: docx
+      name: document.docx
+      bytes: 1102142
+      sha256: 4dc3b090537b258cabf3e2c8eae4890529093e973b20fb419c2d18d8d5599ed4
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1lulh59/_/n1yr0zw/
+  note: 'Shared by u/Far_Transition_1599 in a comment on 2025-07-08: https://docs.google.com/document/d/1-iDPMNx_BN3qJreAA0Xt-vfRYPRwIWzybABzfftKAD8/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

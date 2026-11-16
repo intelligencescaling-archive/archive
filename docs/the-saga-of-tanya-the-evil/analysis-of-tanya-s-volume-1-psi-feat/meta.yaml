@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-tanya-s-volume-1-psi-feat
+category: doc
+title: Analysis of Tanya's Volume 1 PSI feat
+authors:
+- name: BudgetPosition6080
+  reddit: BudgetPosition6080
+  source: reddit-post
+series:
+- the-saga-of-tanya-the-evil
+characters: []
+tags:
+- feats
+- analysis
+- psi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NN2vpQpOmkngoZ9CJHxU6ezPm7_6h3tc-y3x-ELbEDA
+    google_id: 1NN2vpQpOmkngoZ9CJHxU6ezPm7_6h3tc-y3x-ELbEDA
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 4
+    words: 578
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 382665
+      sha256: 022cd4016f0c96affe9ee594ab9564849b185137e89aa30ab2fb29ba9733bad3
+    - format: docx
+      name: document.docx
+      bytes: 404496
+      sha256: 646709dc9a9eaae91b31603d62f173597bcf5b71e801c78811cf01fee7a8a3b5
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1nxd5zb/_/nsv8pt8/
+  note: 'Shared by u/BudgetPosition6080 in a comment on 2025-12-08: Bruh, just read this already: https://docs.google.com/document/d/1NN2vpQpOmkngoZ'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

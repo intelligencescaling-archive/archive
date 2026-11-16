@@ -1,0 +1,79 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: re-zero-x-usogui-fanfic
+category: story
+title: Re:Zero x Usogui fanfic
+alt_titles:
+- Chapter 5
+- Chapter 6
+authors:
+- name: d0ntkn0wmyself
+  reddit: d0ntkn0wmyself
+  source: reddit-post
+series:
+- re-zero
+- usogui
+characters: []
+tags: []
+language: en
+completion: unknown
+parts:
+- title: Chapter 5 (Subaru POV)
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1sar6uq9c8KP1lUb9uQfUKIhvdqrdsjDMguM0L9XrzKY
+    google_id: 1sar6uq9c8KP1lUb9uQfUKIhvdqrdsjDMguM0L9XrzKY
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 14
+    words: 5158
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 268111
+      sha256: c75d2027444171e0a2772c1d106f216226e326dd0cfb8f6fa6ff0330f74df08c
+    - format: docx
+      name: document.docx
+      bytes: 22195
+      sha256: f312901e074c19c0cac285a1ec5ca26bde221358caf3bf33c1c4e854d537e551
+    text:
+      file: text-1.txt
+      method: google-export
+- title: Chapter 6 (Baku POV)
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1m-jZSWbIxZfC4FVCQ6Qm-juD2TCunMH937_yTsCklvs
+    google_id: 1m-jZSWbIxZfC4FVCQ6Qm-juD2TCunMH937_yTsCklvs
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 5
+    words: 2213
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 131340
+      sha256: 3dc82b850045bccfa7d0989910b6529377253ebd59332f0f10d8d5da3090abfe
+    - format: docx
+      name: document.docx
+      bytes: 15873
+      sha256: 001badffea03cc15f8af2d0d62f4d4640df83fa6e5948ac4fdb9b70bc2fc5cd9
+    text:
+      file: text-2.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mgq966/_/n6qgu50/
+  note: 'Shared by u/d0ntkn0wmyself in a comment on 2025-08-03: https://docs.google.com/document/d/1sar6uq9c8KP1lUb9uQfUKIhvdqrdsjDMguM0L9XrzKY/'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mn0hzc/_/n81ud38/
+  note: 'Shared by u/d0ntkn0wmyself in a comment on 2025-08-11: https://docs.google.com/document/d/1m-jZSWbIxZfC4FVCQ6Qm-juD2TCunMH937_yTsCklvs/'
+added: '2026-11-15'
+notes: Fanfic (Re:Zero x Usogui crossover) by u/d0ntkn0wmyself. Only chapters 5 and 6 are archived here. The author posted chapters 1 to 4 on Archive of Our Own (https://archiveofourown.org/works/63906724) and chapter 1 and 2 of a later fic separately on the subreddit.
+review:
+  status: auto
+  check:
+  - characters
+  - series

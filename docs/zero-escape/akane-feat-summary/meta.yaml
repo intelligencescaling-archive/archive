@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akane-feat-summary
+category: doc
+title: Akane Feat summary
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  source: reddit-post
+series:
+- zero-escape
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1i4bdp4ijnXUiSC4WE_DaNQbh4TZdEUqh_YJGqMeWJVU
+    google_id: 1i4bdp4ijnXUiSC4WE_DaNQbh4TZdEUqh_YJGqMeWJVU
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 3
+    words: 1027
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 140141
+      sha256: ca1aadf02e52a298e6e3381fae1d325439c269dbb6f3091b1d11b8104e821225
+    - format: docx
+      name: document.docx
+      bytes: 124596
+      sha256: bbc645799f7aa5c25d5bafa1e7f8c751b6461b60b0a56e6d11619ea7405d6f1c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1mivbdd/_/n7kku9w/
+  note: 'Shared by u/lzyaboiConnor in a comment on 2025-08-08: I have SOME idea on where Ozymandias scales due to reading Watchmen (but not Doo'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

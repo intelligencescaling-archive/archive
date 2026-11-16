@@ -2,7 +2,9 @@
 schema_version: 1
 id: jinhyeok-kang-s-covenant-arc-strategy
 category: doc
-title: 'Jinhyeok Kang''s Covenant arc strategy :'
+title: Jinhyeok Kang's Covenant arc strategy
+alt_titles:
+- 'Jinhyeok Kang''s Covenant arc strategy :'
 authors:
 - name: Tanvir
   source: doc-text

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: echidna-doc
+category: doc
+title: Echidna Doc
+authors:
+- name: Seiro_IQ
+  reddit: Seiro_IQ
+  source: reddit-post
+series:
+- re-zero
+characters: []
+tags:
+- feats
+language: pt
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1J6X_xcoVscV-6VfrfpUgOiATg2B51ZihOYkCsQRb-DM
+    google_id: 1J6X_xcoVscV-6VfrfpUgOiATg2B51ZihOYkCsQRb-DM
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 15
+    words: 5402
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 22256726
+      sha256: 22dd5d51c33ccb0dcae6b0c6ac939899c2fb1e296d51ffd9462a0829b7799b5a
+    - format: docx
+      name: document.docx
+      bytes: 20777768
+      sha256: b0459ace18d94737c1de12e9aaf95c4d3de8b69198867c58fdc6c97c56fe3f6f
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1oz2esb/_/oheoolj/
+  note: 'Shared by u/Seiro_IQ in a comment on 2026-04-21: k sure, i wrote in my native language ( vietnamese ) so u can use translate tool'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: subaru-doc-scd
+category: doc
+title: Subaru Doc ( SCD )
+authors:
+- name: Seiro_IQ
+  reddit: Seiro_IQ
+  source: reddit-post
+series:
+- re-zero
+characters:
+- subaru-natsuki
+tags:
+- feats
+language: pt
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1MmY0mu13Jg__-khGd-ysok9GTVgI2VAHAOBEWY3iS7w
+    google_id: 1MmY0mu13Jg__-khGd-ysok9GTVgI2VAHAOBEWY3iS7w
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 35
+    words: 14827
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 20403898
+      sha256: 69e5a7898219670ac01c409e8b5ebab95f38efac4bf9dcfe0973964da54d54d1
+    - format: docx
+      name: document.docx
+      bytes: 16292501
+      sha256: 5477fba2f3992244de0b6a373d33c158f98a08bb8b699495ad5258e59ff83040
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1oz2esb/_/oheoolj/
+  note: 'Shared by u/Seiro_IQ in a comment on 2026-04-21: k sure, i wrote in my native language ( vietnamese ) so u can use translate tool'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

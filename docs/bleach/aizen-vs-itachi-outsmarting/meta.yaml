@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aizen-vs-itachi-outsmarting
+category: doc
+title: Aizen vs Itachi (outsmarting)
+authors:
+- name: Scary_Examination887
+  reddit: Scary_Examination887
+  source: reddit-post
+series:
+- bleach
+characters: []
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=163QeD9ds5tjfOK-455GtrcJbrFQqYXV8nOtq33DKQyk
+    google_id: 163QeD9ds5tjfOK-455GtrcJbrFQqYXV8nOtq33DKQyk
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 3
+    words: 1333
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 67100
+      sha256: 9ceac59ae617ccbd5b4fc0e0f58f7a8095bbb99021450bc95f24755f5cf2d77f
+    - format: docx
+      name: document.docx
+      bytes: 10164
+      sha256: 7a4a57faab3b6e4cd127f1259f3b935d326b38d173430bdef8d4e5903627d74c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1jznqqz/_/mn7qwro/
+  note: 'Shared by u/Scary_Examination887 in a comment on 2025-04-15: https://docs.google.com/document/d/163QeD9ds5tjfOK-455GtrcJbrFQqYXV8nOtq33DKQyk/'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

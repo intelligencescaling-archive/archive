@@ -2,7 +2,10 @@
 schema_version: 1
 id: joker-fsiq-doc
 category: doc
-title: 'JOKER FSIQ DOC:'
+title: Joker FSIQ Doc
+alt_titles:
+- 'JOKER FSIQ DOC:'
+- 'Here bro: Joker/Ren Amamiya FSIQ Doc: https://docs.google.com/document/u/0/d/1'
 authors:
 - name: Nearby-Row4308
   reddit: Nearby-Row4308
