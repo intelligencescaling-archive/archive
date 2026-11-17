@@ -45,7 +45,7 @@ them from the original source.
 ## Removal requests
 
 Are you the author of something archived here and want it removed or credited differently?
-Open an issue or email **intelligencescaling.archive@gmail.com**. Requests are honored.
+Open an issue or email **removals@intelscaling.com**. Requests are honored.
 
 ## Acknowledgments
 
