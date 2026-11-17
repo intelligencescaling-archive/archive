@@ -1,7 +1,7 @@
 # Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
 schema_version: 1
 id: chen-ran-ch5-vs-xue-yin
-category: story
+category: doc
 title: Chen Ran (CH5) vs Xue Yin
 authors:
 - name: ConversationSea1684
@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- matchup
 language: en
 completion: unknown
 parts:
@@ -38,5 +39,5 @@ found_in:
   link_text: https://www.reddit.com/r/IntelligenceScaling/comments/1tp2ecp/chen_ran_ch5_vs_xue_yin/
 added: '2026-11-15'
 review:
-  status: auto
+  status: reviewed
   check: []

@@ -3,7 +3,10 @@ schema_version: 1
 id: the-blind-observer
 category: story
 title: The Blind Observer
-authors: []
+authors:
+- name: Magmax1b
+  reddit: Magmax1b
+  source: manual
 series: []
 characters: []
 tags: []
@@ -37,7 +40,6 @@ found_in:
   link_text: The Blind Observer
 added: '2026-11-15'
 review:
-  status: auto
+  status: reviewed
   check:
-  - authors
   - characters

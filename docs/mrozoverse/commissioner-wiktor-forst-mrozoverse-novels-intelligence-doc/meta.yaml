@@ -5,7 +5,10 @@ category: doc
 title: Commissioner Wiktor Forst (Mrozoverse Novels) Intelligence DOC
 alt_titles:
 - Commissioner Wiktor Forst Document
-authors: []
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  source: manual
 series:
 - mrozoverse
 characters:
@@ -41,7 +44,6 @@ found_in:
   link_text: Commissioner Wiktor Forst Document
 added: '2026-11-15'
 review:
-  status: auto
+  status: reviewed
   check:
-  - authors
   - characters
