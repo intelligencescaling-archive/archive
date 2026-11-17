@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: daniel-danny-johnson-doc
+category: doc
+title: DANIEL "DANNY" JOHNSON DOC
+alt_titles:
+- Danny Johnson Feats doc
+authors:
+- name: TheNoo
+  reddit: Due_Ad8334
+  source: doc-text
+series:
+- dead-by-daylight
+characters:
+- danny-johnson
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1RGm2Z6dZQxuokSirUb936cTyeFmdON0QubJ3WYVCkaM/edit?tab=t.0
+    google_id: 1RGm2Z6dZQxuokSirUb936cTyeFmdON0QubJ3WYVCkaM
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 27
+    words: 6261
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2400280
+      sha256: 2677cd3ecb4d7af043d80030f535bba5b1055c97f02a6bfe5fcabdf37dd0d4c3
+    - format: docx
+      name: document.docx
+      bytes: 2262320
+      sha256: b532b2e39beecb8e372477c0dddcf291d28f938aafbf4112694a8222d40eb3c0
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Danny Johnson Feats doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - characters

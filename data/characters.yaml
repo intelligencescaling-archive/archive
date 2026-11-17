@@ -58,7 +58,7 @@
   series: danganronpa
 - id: aoi-tsukiyo
   name: Aoi Tsukiyo
-  series: null
+  series: the-glass-tower-murders
 - id: aozaki-touko
   name: Aozaki Touko
   series: fate
@@ -195,7 +195,7 @@
   series: ace-attorney
 - id: danny-johnson
   name: Danny Johnson
-  series: null
+  series: dead-by-daylight
 - id: darth-plagueis
   name: Darth Plagueis
   series: star-wars
@@ -207,7 +207,7 @@
   series: bungo-stray-dogs
 - id: desir-arman
   name: Desir Arman
-  series: null
+  series: a-returner-s-magic-should-be-special
 - id: dexter-morgan
   name: Dexter Morgan
   series: dexter
@@ -327,6 +327,9 @@
 - id: gonen
   name: Gonen
   series: usogui
+- id: gregory-house
+  name: Gregory House
+  series: house
 - id: guo-jia
   name: Guo Jia
   series: ravages-of-time
@@ -380,7 +383,7 @@
   series: classroom-of-the-elite
 - id: ijin-yu
   name: Ijin Yu
-  series: null
+  series: mercenary-enrollment
 - id: ike-yoshigoro
   name: Ike Yoshigoro
   series: null
@@ -426,6 +429,9 @@
 - id: jake
   name: Jake
   series: five-nights-at-freddy-s
+- id: jake-peralta
+  name: Jake Peralta
+  series: brooklyn-nine-nine
 - id: james-moriarty
   name: James Moriarty
   series: fate
@@ -539,6 +545,9 @@
 - id: kimura-kei
   name: Kimura Kei
   series: liar-game
+- id: kira-yamato
+  name: Kira Yamato
+  series: mobile-suit-gundam-seed
 - id: kirari-momobami
   name: Kirari Momobami
   series: kakegurui
@@ -730,13 +739,13 @@
   series: dr-frost
 - id: multi-nanairo
   name: Multi Nanairo
-  series: null
+  series: beyblade-burst
 - id: murphy-lawden
   name: Murphy Lawden
   series: scp-foundation
 - id: na-yubin
   name: Na Yubin
-  series: null
+  series: counter-side
 - id: nagisa-natsunagi
   name: Nagisa Natsunagi
   series: the-detective-is-already-dead
@@ -871,7 +880,7 @@
   series: null
 - id: raul-evans
   name: Raul Evans
-  series: null
+  series: the-hero-who-seeks-revenge-shall-exterminate-with-darkness
 - id: raye-penber
   name: Raye Penber
   series: death-note
@@ -976,7 +985,7 @@
   series: your-turn-to-die
 - id: shingo-aoi
   name: Shingo Aoi
-  series: null
+  series: tough
 - id: shiro
   name: Shiro
   series: no-game-no-life
@@ -1104,7 +1113,7 @@
   series: liar-game
 - id: tom-taylor
   name: Tom Taylor
-  series: null
+  series: the-unwritten
 - id: tomohiro-machiya
   name: Tomohiro Machiya
   series: null
@@ -1125,7 +1134,7 @@
   series: fight-club
 - id: ukai-zero
   name: Ukai Zero
-  series: null
+  series: gambling-emperor-legend-zero
 - id: utomiya-riku
   name: Utomiya Riku
   series: classroom-of-the-elite

@@ -11,7 +11,8 @@ authors:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- composite
 language: null
 completion: unknown
 parts:

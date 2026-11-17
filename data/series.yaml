@@ -15,6 +15,10 @@
   name: A Nightmare on Elm Street
   origin_language: en
   origin_medium: film
+- id: a-returner-s-magic-should-be-special
+  name: A Returner's Magic Should Be Special
+  origin_language: ko
+  origin_medium: web-novel
 - id: a-song-of-ice-and-fire
   name: A Song of Ice and Fire
   origin_language: en
@@ -90,6 +94,10 @@
   - Better Call Saul
   origin_language: en
   origin_medium: tv
+- id: brooklyn-nine-nine
+  name: Brooklyn Nine-Nine
+  origin_language: en
+  origin_medium: tv
 - id: bungo-stray-dogs
   name: Bungo Stray Dogs
   aliases:
@@ -151,6 +159,10 @@
   - DCEU
   origin_language: en
   origin_medium: comic
+- id: dead-by-daylight
+  name: Dead by Daylight
+  origin_language: en
+  origin_medium: game
 - id: death-note
   name: Death Note
   aliases:
@@ -245,6 +257,10 @@
   name: Frieren
   origin_language: ja
   origin_medium: manga
+- id: gambling-emperor-legend-zero
+  name: Gambling Emperor Legend Zero
+  origin_language: ja
+  origin_medium: manga
 - id: ghost-of-tsushima
   name: Ghost of Tsushima
   origin_language: en
@@ -277,6 +293,10 @@
   - HSR
   origin_language: zh
   origin_medium: game
+- id: house
+  name: House
+  origin_language: en
+  origin_medium: tv
 - id: hoyoverse
   name: HoYoverse
   origin_language: zh
@@ -379,6 +399,10 @@
   name: Medium
   origin_language: ja
   origin_medium: novel
+- id: mercenary-enrollment
+  name: Mercenary Enrollment
+  origin_language: ko
+  origin_medium: webtoon
 - id: minecraft
   name: Minecraft
   aliases:
@@ -397,6 +421,10 @@
   name: Miss Marple
   origin_language: en
   origin_medium: novel
+- id: mobile-suit-gundam-seed
+  name: Mobile Suit Gundam SEED
+  origin_language: ja
+  origin_medium: anime
 - id: money-heist
   name: Money Heist
   origin_language: es
@@ -615,10 +643,18 @@
   name: The Eminence in Shadow
   origin_language: ja
   origin_medium: light-novel
+- id: the-glass-tower-murders
+  name: The Glass Tower Murders
+  origin_language: ja
+  origin_medium: novel
 - id: the-grimm-variations
   name: The Grimm Variations
   origin_language: ja
   origin_medium: anime
+- id: the-hero-who-seeks-revenge-shall-exterminate-with-darkness
+  name: The Hero Who Seeks Revenge Shall Exterminate With Darkness
+  origin_language: ja
+  origin_medium: light-novel
 - id: the-idiot
   name: The Idiot
   origin_language: ru
@@ -655,6 +691,10 @@
   - Youjo Senki
   origin_language: ja
   origin_medium: light-novel
+- id: the-unwritten
+  name: The Unwritten
+  origin_language: en
+  origin_medium: comic
 - id: tokyo-ghoul
   name: Tokyo Ghoul
   origin_language: ja
@@ -663,6 +703,10 @@
   name: Tomodachi Game
   aliases:
   - 'TOMODACHI GAME:'
+  origin_language: ja
+  origin_medium: manga
+- id: tough
+  name: Tough
   origin_language: ja
   origin_medium: manga
 - id: toy-story

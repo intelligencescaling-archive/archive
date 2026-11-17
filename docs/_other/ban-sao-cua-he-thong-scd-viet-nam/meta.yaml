@@ -9,7 +9,8 @@ authors:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- scaling-system
 language: pt
 completion: unknown
 parts:

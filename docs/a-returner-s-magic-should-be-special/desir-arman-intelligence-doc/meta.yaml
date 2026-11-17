@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: desir-arman-intelligence-doc
+category: doc
+title: Desir Arman Intelligence Doc
+alt_titles:
+- Desir arman 1
+authors: []
+series:
+- a-returner-s-magic-should-be-special
+characters:
+- desir-arman
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14cDhNdEYLtueG9yZzbluizkGTWTFDqAr7yF7w9_WUGE
+    google_id: 14cDhNdEYLtueG9yZzbluizkGTWTFDqAr7yF7w9_WUGE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 8
+    words: 2464
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 501196
+      sha256: 3115f5bc72eb13be5e2e1c4fd982e6e538189f4206de1388f7b8e95b22e76332
+    - format: docx
+      name: document.docx
+      bytes: 319832
+      sha256: 3af9cc0095043bab287b6d4cf41fa5f21db09f78f3733a5ec5b0ebd8b3e9adbb
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Desir arman 1
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
