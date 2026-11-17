@@ -7,14 +7,13 @@ alt_titles:
 - jEe62XR (1)
 - I thought you meant this person https://drive.google.com/file/d/1vq-eMIZbIVKQL
 authors:
-- name: BornPass8985
-  reddit: BornPass8985
-  source: reddit-post
+- name: Anition
+  source: doc-text
 series:
 - tomodachi-game
 characters: []
 tags: []
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -24,11 +23,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-16'
+    words: 3226
     files:
     - format: txt
       name: jEe62XR (1).txt
       bytes: 19498
       sha256: 19b2a8223744e42dced0047900154dd18466ef2a1d85d16a6bb5a415cdd94171
+    text:
+      file: text.txt
+      method: txt-file
 found_in: []
 links:
 - type: reddit-post
@@ -40,5 +43,4 @@ review:
   check:
   - authors
   - characters
-  - language
   - series

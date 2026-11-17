@@ -28,6 +28,10 @@ parts:
       name: Ichika Amasawa - Outsmarting_Intellectual Feats (Work in progress).docx
       bytes: 1075578
       sha256: b97e2efafb17c2393f6345ec7b90f658b14c4decdeefd930b2410e9a04940a7d
+    text:
+      file: text.txt
+      method: docx-extract
+    words: 1132
 found_in:
 - library: old
   section: 'COTE:'

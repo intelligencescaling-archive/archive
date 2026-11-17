@@ -27,6 +27,10 @@ parts:
       name: Walter White Doc (Feats) - OverLordThresh.docx
       bytes: 546648
       sha256: 4f0e83f5929e5987f11273f8d4bd34fa6ae97730db79c0e5259d3806ab8d01d2
+    text:
+      file: text.txt
+      method: docx-extract
+    words: 3147
 found_in:
 - library: remastered
   section: Breaking Bad | Better Call Saul

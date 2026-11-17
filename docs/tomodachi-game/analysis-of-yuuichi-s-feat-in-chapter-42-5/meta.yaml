@@ -5,7 +5,9 @@ category: doc
 title: analysis of Yuuichi's feat in chapter 42.5
 alt_titles:
 - Yuuichi Katagiri-Chapter 42.5 Analysis
-authors: []
+authors:
+- name: monochrometrav-Discord
+  source: doc-text
 series:
 - tomodachi-game
 characters:
@@ -13,7 +15,7 @@ characters:
 tags:
 - feats
 - analysis
-language: null
+language: en
 completion: unknown
 parts:
 - source:
@@ -23,11 +25,15 @@ parts:
   capture:
     status: complete
     date: '2026-11-15'
+    words: 1164
     files:
     - format: docx
       name: Yuuichi Katagiri-Chapter 42.5 Analysis
       bytes: 3490849
       sha256: 69bad3f2dabd5682fbd4c558903841cbcba59019ce3ae245bfedfba2a66c5837
+    text:
+      file: text.txt
+      method: docx-extract
 found_in:
 - library: old
   section: 'TOMODACHI GAME:'
@@ -41,4 +47,3 @@ review:
   status: auto
   check:
   - authors
-  - language
