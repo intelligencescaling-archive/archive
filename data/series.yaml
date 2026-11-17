@@ -5,44 +5,82 @@
   - '18 LEVELS OF HELL:'
   - 18LOH
   - 'The 18 Levels of Hell: Lying is Forbidden Here'
+  origin_language: zh
+  origin_medium: web-novel
 - id: 20th-century-boys
   name: 20th Century Boys
+  origin_language: ja
+  origin_medium: manga
 - id: a-nightmare-on-elm-street
   name: A Nightmare on Elm Street
+  origin_language: en
+  origin_medium: film
 - id: a-song-of-ice-and-fire
   name: A Song of Ice and Fire
+  origin_language: en
+  origin_medium: novel
 - id: ace-attorney
   name: Ace Attorney
+  origin_language: ja
+  origin_medium: game
 - id: akagi
   name: Akagi
+  origin_language: ja
+  origin_medium: manga
 - id: alice-in-borderland
   name: Alice in Borderland
+  origin_language: ja
+  origin_medium: manga
 - id: alice-mirror-castle-murders
   name: Alice Mirror Castle Murders
+  origin_language: ja
+  origin_medium: novel
 - id: altered-beast
   name: Altered Beast
+  origin_language: ja
+  origin_medium: game
 - id: alya-sometimes-hides-her-feelings-in-russian
   name: Alya Sometimes Hides Her Feelings in Russian
   aliases:
   - Roshidere
+  origin_language: ja
+  origin_medium: light-novel
 - id: as-the-gods-will
   name: As the Gods Will
+  origin_language: ja
+  origin_medium: manga
 - id: assassination-classroom
   name: Assassination Classroom
+  origin_language: ja
+  origin_medium: manga
 - id: bakudan
   name: Bakudan
+  origin_language: ja
+  origin_medium: novel
 - id: bendy-and-the-ink-machine
   name: Bendy and the Ink Machine
+  origin_language: en
+  origin_medium: game
 - id: berserk
   name: Berserk
+  origin_language: ja
+  origin_medium: manga
 - id: beyblade-burst
   name: Beyblade Burst
+  origin_language: ja
+  origin_medium: anime
 - id: bleach
   name: Bleach
+  origin_language: ja
+  origin_medium: manga
 - id: blue-lock
   name: Blue Lock
+  origin_language: ja
+  origin_medium: manga
 - id: bones
   name: Bones
+  origin_language: en
+  origin_medium: tv
 - id: breaking-bad-better-call-saul
   name: Breaking Bad / Better Call Saul
   aliases:
@@ -50,361 +88,651 @@
   - 'BCS + BB:'
   - Breaking Bad
   - Better Call Saul
+  origin_language: en
+  origin_medium: tv
 - id: bungo-stray-dogs
   name: Bungo Stray Dogs
   aliases:
   - BUNGOU STRAY DOGS
+  origin_language: ja
+  origin_medium: manga
 - id: c-auguste-dupin
   name: C. Auguste Dupin
+  origin_language: en
+  origin_medium: novel
 - id: call-of-duty
   name: Call of Duty
+  origin_language: en
+  origin_medium: game
 - id: call-of-duty-zombies
   name: Call of Duty Zombies
+  origin_language: en
+  origin_medium: game
 - id: case-closed
   name: Case Closed
   aliases:
   - Detective Conan
+  origin_language: ja
+  origin_medium: manga
 - id: cat-country
   name: Cat Country
+  origin_language: zh
+  origin_medium: novel
 - id: classroom-of-the-elite
   name: Classroom of the Elite
   aliases:
   - 'COTE:'
   - COTE
+  origin_language: ja
+  origin_medium: light-novel
 - id: code-geass
   name: Code Geass
+  origin_language: ja
+  origin_medium: anime
 - id: counter-side
   name: Counter:Side
+  origin_language: ko
+  origin_medium: game
 - id: creepypasta
   name: Creepypasta
+  origin_language: en
+  origin_medium: web
 - id: danganronpa
   name: Danganronpa
   aliases:
   - 'DANGANRONPA:'
+  origin_language: ja
+  origin_medium: game
 - id: dc-comics
   name: DC Comics
   aliases:
   - DC Comics | DC Expanded Universe
   - 'DC COMICS/MOVIES:'
   - DCEU
+  origin_language: en
+  origin_medium: comic
 - id: death-note
   name: Death Note
   aliases:
   - 'DEATH NOTE:'
   - DN
+  origin_language: ja
+  origin_medium: manga
 - id: deltarune
   name: Deltarune
+  origin_language: en
+  origin_medium: game
 - id: detective-mitarai
   name: Detective Mitarai
+  origin_language: ja
+  origin_medium: novel
 - id: detroit-become-human
   name: 'Detroit: Become Human'
+  origin_language: en
+  origin_medium: game
 - id: dexter
   name: Dexter
   aliases:
   - DEXTER
+  origin_language: en
+  origin_medium: tv
 - id: dies-irae
   name: Dies Irae
+  origin_language: ja
+  origin_medium: visual-novel
 - id: doki-doki-literature-club
   name: Doki Doki Literature Club!
+  origin_language: en
+  origin_medium: visual-novel
 - id: dr-frost
   name: Dr. Frost
   aliases:
   - 'DR.FROST:'
+  origin_language: ko
+  origin_medium: webtoon
 - id: dr-stone
   name: Dr. Stone
+  origin_language: ja
+  origin_medium: manga
 - id: dragon-ball
   name: Dragon Ball
+  origin_language: ja
+  origin_medium: manga
 - id: dune
   name: Dune
+  origin_language: en
+  origin_medium: novel
 - id: durarara
   name: Durarara!!
+  origin_language: ja
+  origin_medium: light-novel
 - id: fate
   name: Fate
   aliases:
   - 'FATE:'
   - Type-Moon
+  origin_language: ja
+  origin_medium: visual-novel
 - id: fathers-and-sons
   name: Fathers and Sons
+  origin_language: ru
+  origin_medium: novel
 - id: fear-and-hunger
   name: Fear and Hunger
+  origin_language: en
+  origin_medium: game
 - id: fight-club
   name: Fight Club
+  origin_language: en
+  origin_medium: novel
 - id: five-nights-at-freddy-s
   name: Five Nights at Freddy's
   aliases:
   - Five Nights at Freddy’s
   - FNAF
   - 'FNAF | MISCELLANEOUS:'
+  origin_language: en
+  origin_medium: game
 - id: food-wars
   name: Food Wars!
+  origin_language: ja
+  origin_medium: manga
 - id: for-honor
   name: For Honor
+  origin_language: en
+  origin_medium: game
 - id: frieren
   name: Frieren
+  origin_language: ja
+  origin_medium: manga
 - id: ghost-of-tsushima
   name: Ghost of Tsushima
+  origin_language: en
+  origin_medium: game
 - id: god-of-war
   name: God of War
+  origin_language: en
+  origin_medium: game
 - id: halloween
   name: Halloween
+  origin_language: en
+  origin_medium: film
 - id: hannibal
   name: Hannibal
   aliases:
   - Hannibal Lecter series
+  origin_language: en
+  origin_medium: novel
 - id: happy-hills-homicide
   name: Happy Hills Homicide
+  origin_language: en
+  origin_medium: game
 - id: honkai-impact-3rd
   name: Honkai Impact 3rd
+  origin_language: zh
+  origin_medium: game
 - id: honkai-star-rail
   name: 'Honkai: Star Rail'
   aliases:
   - HSR
+  origin_language: zh
+  origin_medium: game
 - id: hoyoverse
   name: HoYoverse
+  origin_language: zh
+  origin_medium: game
 - id: hyouka
   name: Hyouka
+  origin_language: ja
+  origin_medium: novel
 - id: i-care-a-lot
   name: I Care a Lot
+  origin_language: en
+  origin_medium: film
 - id: i-have-no-mouth-and-i-must-scream
   name: I Have No Mouth, and I Must Scream
+  origin_language: en
+  origin_medium: novel
 - id: ichiban-ushiro-no-daimaou
   name: Ichiban Ushiro no Daimaou
+  origin_language: ja
+  origin_medium: light-novel
 - id: invincible
   name: Invincible
+  origin_language: en
+  origin_medium: comic
 - id: jack-reacher
   name: Jack Reacher
+  origin_language: en
+  origin_medium: novel
 - id: jujutsu-kaisen
   name: Jujutsu Kaisen
+  origin_language: ja
+  origin_medium: manga
 - id: jurassic-world
   name: Jurassic World
+  origin_language: en
+  origin_medium: film
 - id: kaguya-sama-love-is-war
   name: 'Kaguya-sama: Love Is War'
+  origin_language: ja
+  origin_medium: manga
 - id: kaiji
   name: Kaiji
+  origin_language: ja
+  origin_medium: manga
 - id: kakegurui
   name: Kakegurui
   aliases:
   - KAKEGURUI
+  origin_language: ja
+  origin_medium: manga
 - id: kingdom-hearts
   name: Kingdom Hearts
+  origin_language: ja
+  origin_medium: game
 - id: konosuba
   name: KonoSuba
+  origin_language: ja
+  origin_medium: light-novel
 - id: land-of-the-lustrous
   name: Land of the Lustrous
+  origin_language: ja
+  origin_medium: manga
 - id: liar-game
   name: Liar Game
   aliases:
   - 'LIAR GAME:'
+  origin_language: ja
+  origin_medium: manga
 - id: lies-fraud-and-psychic-ability-school
   name: Lies, Fraud, and Psychic Ability School
+  origin_language: ja
+  origin_medium: light-novel
 - id: lincoln-rhyme
   name: Lincoln Rhyme
+  origin_language: en
+  origin_medium: novel
 - id: lord-of-the-mysteries
   name: Lord of the Mysteries
   aliases:
   - LOTM
+  origin_language: zh
+  origin_medium: web-novel
 - id: lupin
   name: Lupin
+  origin_language: fr
+  origin_medium: novel
 - id: magic-emperor
   name: Magic Emperor
+  origin_language: zh
+  origin_medium: web-novel
 - id: mario-luigi
   name: Mario & Luigi
+  origin_language: ja
+  origin_medium: game
 - id: marvel
   name: Marvel
+  origin_language: en
+  origin_medium: comic
 - id: medium
   name: Medium
+  origin_language: ja
+  origin_medium: novel
 - id: minecraft
   name: Minecraft
   aliases:
   - MINECRAFT
+  origin_language: en
+  origin_medium: game
 - id: miraculous
   name: Miraculous
+  origin_language: fr
+  origin_medium: tv
 - id: miside
   name: MiSide
+  origin_language: ru
+  origin_medium: game
 - id: miss-marple
   name: Miss Marple
+  origin_language: en
+  origin_medium: novel
 - id: money-heist
   name: Money Heist
+  origin_language: es
+  origin_medium: tv
 - id: monster
   name: Monster
+  origin_language: ja
+  origin_medium: manga
 - id: moriarty-the-patriot
   name: Moriarty the Patriot
+  origin_language: ja
+  origin_medium: manga
 - id: mrozoverse
   name: Mrozoverse
+  origin_language: pl
+  origin_medium: novel
 - id: my-teen-romantic-comedy-snafu
   name: My Teen Romantic Comedy SNAFU
   aliases:
   - Oregairu
+  origin_language: ja
+  origin_medium: light-novel
 - id: neuro-supernatural-detective
   name: 'Neuro: Supernatural Detective'
+  origin_language: ja
+  origin_medium: manga
 - id: no-game-no-life
   name: No Game No Life
   aliases:
   - 'NGNL:'
   - NGNL
+  origin_language: ja
+  origin_medium: light-novel
 - id: omniscient-reader-s-viewpoint
   name: Omniscient Reader's Viewpoint
+  origin_language: ko
+  origin_medium: web-novel
 - id: oshi-no-ko
   name: Oshi no Ko
+  origin_language: ja
+  origin_medium: manga
 - id: paradise-lost
   name: Paradise Lost
+  origin_language: en
+  origin_medium: poem
 - id: playing-death-games-to-put-food-on-the-table
   name: Playing Death Games to Put Food on the Table
+  origin_language: ja
+  origin_medium: light-novel
 - id: pokemon
   name: Pokemon
+  origin_language: ja
+  origin_medium: game
 - id: pokemon-mystery-dungeon
   name: Pokemon Mystery Dungeon
+  origin_language: ja
+  origin_medium: game
 - id: prison-break
   name: Prison Break
+  origin_language: en
+  origin_medium: tv
 - id: psych
   name: Psych
+  origin_language: en
+  origin_medium: tv
 - id: psycho-pass
   name: Psycho-Pass
+  origin_language: ja
+  origin_medium: anime
 - id: raging-loop
   name: Raging Loop
+  origin_language: ja
+  origin_medium: visual-novel
 - id: ravages-of-time
   name: Ravages of Time
+  origin_language: zh
+  origin_medium: manhua
 - id: re-zero
   name: Re:Zero
   aliases:
   - 'RE: Zero'
+  origin_language: ja
+  origin_medium: light-novel
 - id: real-life
   name: Real Life
   aliases:
   - Real Life Historical Figures
   - 'Real Life Historical Humans:'
+  origin_language: real
+  origin_medium: real
 - id: record-of-ragnarok
   name: Record of Ragnarok
+  origin_language: ja
+  origin_medium: manga
 - id: red-vs-blue
   name: Red vs. Blue
+  origin_language: en
+  origin_medium: web
 - id: regular-show
   name: Regular Show
+  origin_language: en
+  origin_medium: tv
 - id: reverend-insanity
   name: Reverend Insanity
   aliases:
   - RI
+  origin_language: zh
+  origin_medium: web-novel
 - id: rick-and-morty
   name: Rick and Morty
+  origin_language: en
+  origin_medium: tv
 - id: ron-kamonohashi-s-forbidden-deductions
   name: Ron Kamonohashi's Forbidden Deductions
+  origin_language: ja
+  origin_medium: manga
 - id: rwby
   name: RWBY
+  origin_language: en
+  origin_medium: web
 - id: saw
   name: Saw
+  origin_language: en
+  origin_medium: film
 - id: scp-foundation
   name: SCP Foundation
   aliases:
   - SCP
   - 'SCP | MISCELLANEOUS:'
+  origin_language: en
+  origin_medium: web
 - id: scream
   name: Scream
+  origin_language: en
+  origin_medium: film
 - id: se7en
   name: Se7en
+  origin_language: en
+  origin_medium: film
 - id: sherlock-holmes
   name: Sherlock Holmes
+  origin_language: en
+  origin_medium: novel
 - id: sonic-the-hedgehog
   name: Sonic the Hedgehog
+  origin_language: ja
+  origin_medium: game
 - id: soulsborne
   name: Soulsborne
+  origin_language: ja
+  origin_medium: game
 - id: south-park
   name: South Park
+  origin_language: en
+  origin_medium: tv
 - id: spiral-the-bonds-of-reasoning
   name: 'Spiral: The Bonds of Reasoning'
+  origin_language: ja
+  origin_medium: manga
 - id: squid-game
   name: Squid Game
+  origin_language: ko
+  origin_medium: tv
 - id: star-vs-the-forces-of-evil
   name: Star vs. the Forces of Evil
+  origin_language: en
+  origin_medium: tv
 - id: star-wars
   name: Star Wars
+  origin_language: en
+  origin_medium: film
 - id: tenet
   name: Tenet
+  origin_language: en
+  origin_medium: film
 - id: the-blacklist
   name: The Blacklist
+  origin_language: en
+  origin_medium: tv
 - id: the-boiled-one-phenomenon
   name: The Boiled One Phenomenon
+  origin_language: en
+  origin_medium: web
 - id: the-count-of-monte-cristo
   name: The Count of Monte Cristo
+  origin_language: fr
+  origin_medium: novel
 - id: the-dark-tower
   name: The Dark Tower
+  origin_language: en
+  origin_medium: novel
 - id: the-death-notice
   name: The Death Notice
+  origin_language: zh
+  origin_medium: novel
 - id: the-detective-is-already-dead
   name: The Detective Is Already Dead
   aliases:
   - 'The Detective Is Already Dead:'
   - TDIAD
+  origin_language: ja
+  origin_medium: light-novel
 - id: the-devotion-of-suspect-x
   name: The Devotion of Suspect X
+  origin_language: ja
+  origin_medium: novel
 - id: the-divine-comedy
   name: The Divine Comedy
+  origin_language: it
+  origin_medium: poem
 - id: the-elder-scrolls
   name: The Elder Scrolls
+  origin_language: en
+  origin_medium: game
 - id: the-eminence-in-shadow
   name: The Eminence in Shadow
+  origin_language: ja
+  origin_medium: light-novel
 - id: the-grimm-variations
   name: The Grimm Variations
+  origin_language: ja
+  origin_medium: anime
 - id: the-idiot
   name: The Idiot
+  origin_language: ru
+  origin_medium: novel
 - id: the-incredibles
   name: The Incredibles
+  origin_language: en
+  origin_medium: film
 - id: the-irregular-at-magic-high-school
   name: The Irregular at Magic High School
+  origin_language: ja
+  origin_medium: light-novel
 - id: the-mandela-catalogue
   name: The Mandela Catalogue
+  origin_language: en
+  origin_medium: web
 - id: the-mentalist
   name: The Mentalist
   aliases:
   - 'THE MENTALIST:'
+  origin_language: en
+  origin_medium: tv
 - id: the-owl-house
   name: The Owl House
+  origin_language: en
+  origin_medium: tv
 - id: the-promised-neverland
   name: The Promised Neverland
+  origin_language: ja
+  origin_medium: manga
 - id: the-saga-of-tanya-the-evil
   name: The Saga of Tanya the Evil
   aliases:
   - Youjo Senki
+  origin_language: ja
+  origin_medium: light-novel
 - id: tokyo-ghoul
   name: Tokyo Ghoul
+  origin_language: ja
+  origin_medium: manga
 - id: tomodachi-game
   name: Tomodachi Game
   aliases:
   - 'TOMODACHI GAME:'
+  origin_language: ja
+  origin_medium: manga
 - id: toy-story
   name: Toy Story
+  origin_language: en
+  origin_medium: film
 - id: transformers
   name: Transformers
+  origin_language: en
+  origin_medium: tv
 - id: umineko
   name: Umineko
   aliases:
   - Umineko no Naku Koro ni
+  origin_language: ja
+  origin_medium: visual-novel
 - id: undertale-aus
   name: Undertale AUs
+  origin_language: en
+  origin_medium: game
 - id: usogui
   name: Usogui
   aliases:
   - 'USOGUI:'
+  origin_language: ja
+  origin_medium: manga
 - id: v-for-vendetta
   name: V for Vendetta
+  origin_language: en
+  origin_medium: comic
 - id: watership-down
   name: Watership Down
+  origin_language: en
+  origin_medium: novel
 - id: whiplash
   name: Whiplash
+  origin_language: en
+  origin_medium: film
 - id: wifies
   name: Wifies
+  origin_language: en
+  origin_medium: web
 - id: wuthering-waves
   name: Wuthering Waves
+  origin_language: zh
+  origin_medium: game
 - id: you
   name: You
+  origin_language: en
+  origin_medium: novel
 - id: your-turn-to-die
   name: Your Turn to Die
   aliases:
   - 'YTTD:'
   - YTTD
+  origin_language: ja
+  origin_medium: game
 - id: yu-gi-oh
   name: Yu-Gi-Oh!
+  origin_language: ja
+  origin_medium: manga
 - id: yu-yu-hakusho
   name: Yu Yu Hakusho
+  origin_language: ja
+  origin_medium: manga
 - id: zenless-zone-zero
   name: Zenless Zone Zero
+  origin_language: zh
+  origin_medium: game
 - id: zero-escape
   name: Zero Escape
+  origin_language: ja
+  origin_medium: game

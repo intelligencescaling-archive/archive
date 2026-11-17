@@ -4,6 +4,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
   - id matches the folder name, and ids and Google ids are unique
   - docs live in docs/<first series>/<id>/ (or docs/_other/<id>/ with no series); stories in stories/<id>/
   - every series and character id exists in data/series.yaml / data/characters.yaml
+  - each series' origin_language is a 2-letter code or `real` (a missing one is only a warning)
   - every text file named in the entry exists, and no stray files sit in entry folders
 
 Usage: python scripts/validate.py [repo-root]     (exit code 1 if anything is wrong)
@@ -21,9 +22,17 @@ ALLOWED_FILES = {"meta.yaml"}
 def main():
     root = Path(sys.argv[1] if len(sys.argv) > 1 else Path(__file__).resolve().parent.parent)
     validator = Draft202012Validator(json.loads((root / "schema" / "meta.schema.json").read_text(encoding="utf-8")))
-    series = {s["id"] for s in yaml.safe_load((root / "data" / "series.yaml").read_text(encoding="utf-8")) or []}
+    series_rows = yaml.safe_load((root / "data" / "series.yaml").read_text(encoding="utf-8")) or []
+    series = {s["id"] for s in series_rows}
     chars = {c["id"]: c for c in yaml.safe_load((root / "data" / "characters.yaml").read_text(encoding="utf-8")) or []}
-    errors, ids, gids, n = [], {}, {}, 0
+    errors, warnings, ids, gids, n = [], [], {}, {}, 0
+
+    for s in series_rows:
+        lang = s.get("origin_language")
+        if lang is None:
+            warnings.append(f"data/series.yaml: {s['id']}: no origin_language yet")
+        elif not (lang == "real" or (isinstance(lang, str) and len(lang) == 2 and lang.isascii() and lang.islower())):
+            errors.append(f"data/series.yaml: {s['id']}: origin_language '{lang}' should be a 2-letter ISO 639-1 code or 'real'")
 
     for c in chars.values():
         if c.get("series") and c["series"] not in series:
@@ -76,9 +85,11 @@ def main():
             if f.name not in named:
                 err(f"unexpected file {f.name}")
 
+    for w in warnings:
+        print(f"warning: {w}")
     for e in errors:
         print(e)
-    print(f"{n} entries checked, {len(errors)} problem(s)")
+    print(f"{n} entries checked, {len(errors)} problem(s), {len(warnings)} warning(s)")
     sys.exit(1 if errors else 0)
 
 

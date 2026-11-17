@@ -66,6 +66,16 @@ notes: ''                          # optional free text
 - **`id` never changes** once published (links and downloads depend on it). Titles can.
 - **Series and characters** must exist in the registries. Add new ones there first. A character
   with no known series has `series: null`.
+- **Source language** of a series goes in `data/series.yaml`, not in entries:
+  ```yaml
+  - id: omniscient-reader-s-viewpoint
+    name: Omniscient Reader's Viewpoint
+    origin_language: ko        # ISO 639-1 code of the first published version, or `real` for real life
+    origin_medium: web-novel   # optional: manga, light-novel, web-novel, novel, anime, tv, film, game, ...
+  ```
+  Use the language of the **first published version**, not the adaptation a doc is about (an anime made
+  from a Korean webtoon is `ko`). This is different from an entry's `language`, which is the language
+  the doc itself is written in. A series with no `origin_language` yet only gives a warning.
 - **Docs always go under `docs/`**, even if they're also a tier list or similar.
 - **Multi-part items** (a story in chapters, a doc split across files) are one entry with several `parts`.
 - **Authors:** record whatever is known. Use the name shown on the doc, plus the Reddit username if known.
