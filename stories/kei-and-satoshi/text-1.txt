@@ -345,9 +345,9 @@ Using their remaining coins (those in the active wallet), players can choose to 
 The Payout Mechanics
 This is how the digital coins are redistributed at the end of the round:
 
-● The owner of a vault receives all coins bid on it, regardless of whether the bids were winning or losing. (If three people bid 10 coins each for your vault, you gain 30 coins).
+● The owner of a vault receives all coins bid on it , regardless of whether the bids were winning or losing. (If three people bid 10 coins each for your vault, you gain 30 coins).
 ● The Winner’s Reward: The highest bidder receives the total amount of coins that were inside the vault they won.
-● The "Solitary" Bonus: If a vault receives zero bids, the coins inside are multiplied by 2 times and returned to the owner.
+● The "Solitary" Bonus: If a vault receives zero bids , the coins inside are multiplied by 2 times and returned to the owner.
 
 Elimination Rules
 At the end of each round, a leaderboard displays the total coin counts of all players.
@@ -1746,7 +1746,7 @@ He then called out to Kuromine “Don’t you think this is a bit too crude, let
 
 Kuromine then responded “I’m not stupid enough to fall for that, the referees will always collect, that’s what they do. I’ll be sent back to that cell for the rest of my life, I can’t let that happen, this is going to be my way out of here.”
 
-He then added “But more important than that, more important than anything to me in this very moment is killing you. You were a fool for coming here. Rise.”
+He then added “But more important than that, more important than anything to me in this very moment is killing you. You were a fool for coming here. Rise .”
 
 As he said that, about half of the guards that were meant to be knocked out on the ground, got up and aimed their guns at Satoshi. Less than a second later, a loud synchronized bang echoed through the fourth deck as 13 guns were fired at the same time.
 
@@ -1867,9 +1867,9 @@ I. The Objective
 The winner is the player who possesses the highest Point Total after 18 hours.
 
 II. Initial Setup
-● Starting Capital: Both players begin with 20 Points.
+● Starting Capital: Both players begin with 20 Points .
 ● NPC Objective: Each NPC is a current prisoner of the Third Kingdom and each one of them seeks "Freedom." Freedom is granted if an NPC reaches 5 Points and survives for 10 continuous minutes without being hit by a Red Bullet.
-● Passive Generation: Every hour, players receive +10 Points.
+● Passive Generation: Every hour, players receive +10 Points .
 
 III. The Armory & Payouts
 Each player is equipped with a high-accuracy AR Paintball Gun whereas NPCs are equipped with a low accuracy pistol paintball gun. Points are gained or lost through specific "Marksman Protocols":
@@ -2283,7 +2283,7 @@ He hasn’t gotten up yet, he was waiting for me to speak to him but words weren
 
 This was my last chance to say something to him. I abruptly screamed out “Wait!” Satoshi then responded coldly “Is there something you want to say to me?”
 
-There was only one question I had, the same question that’s been circulating my mind since that day, but I couldn’t bring myself to say it.
+There was only one question I had, the same question that’s been circulating my mind since that day , but I couldn’t bring myself to say it.
 
 He began walking towards the exit, I had to say it. “Why? Why Satoshi? We had a dream of joining together, taking over the three Kingdoms and uniting them? Why did you abandon our dream? Why did you abandon me?”
 
@@ -2729,7 +2729,7 @@ But I noticed something, everyday I’d get better but he remained stagnant.
 
 He was a far away ideal that I wanted to reach, but no matter how much I walked, it seemed like the distance between us kept increasing.
 
-Then suddenly, after that day, the bonds between us were completely severed and he remained an ideal that I couldn’t reach to this day.
+Then suddenly, after that day , the bonds between us were completely severed and he remained an ideal that I couldn’t reach to this day.
 
 But I think I realize it now, I realize why we began to drift.
 
