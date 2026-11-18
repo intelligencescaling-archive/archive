@@ -6,7 +6,10 @@ title: The Man Who Masterminds The Game doc
 alt_titles:
 - AAI2 Mastermind SCD doc
 - AAI2 Mastermind
-authors: []
+authors:
+- name: Subjectively_Normal
+  reddit: Subjectively_Normal
+  source: reddit-post
 series:
 - ace-attorney
 characters:
@@ -47,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []
