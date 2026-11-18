@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pokemon-mystery-dungeon-the-past-pursuits-showdown-against
+category: doc
+title: 'Pokemon Mystery Dungeon: The Past Pursuits - Showdown against Alaric DOC'
+alt_titles:
+- Showdown against Alaric DOC
+authors:
+- name: Equal_Custard0
+  reddit: Equal_Custard0
+  source: submission
+series:
+- pokemon-mystery-dungeon
+characters:
+- connor-baker
+- alaric-guildmaster-sylveon
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1TiBa7wETjG4oVMJARjaInJwk45owzuS97ZnqULX8LOY
+    google_id: 1TiBa7wETjG4oVMJARjaInJwk45owzuS97ZnqULX8LOY
+  capture:
+    status: complete
+    date: '2026-11-18'
+    pages: 6
+    words: 2348
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 145765
+      sha256: f014b2df2fe1ad0470891e6f07928180b3b2976c388370a4d7e35e417cf269cb
+    - format: docx
+      name: document.docx
+      bytes: 372141
+      sha256: e456f3357245c4f6443386282e210be2cd3ca5873c5529dfeca25aef3deee85a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-17'
+review:
+  status: auto
+  check:
+  - characters

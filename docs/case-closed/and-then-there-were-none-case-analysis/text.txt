@@ -1,0 +1,201 @@
+And Then There Were No Mermaids Case analysis (one of Conan's top 5 feats)
+
+This is one of Conan/Kudo's best reasoning feats. If I included every clue in the context, it would be way to long to read, so I'll put them into the actual reasoning chain and you can all read it that way.
+
+CONTEXT: Conan and Heiji go to Bikuni Island, also called 'The Island Where the Mermaid Lives'. They go there because of a letter sent by a person called Saori but when they arrive, they discover Saori missing from the island. There, they encounter a few murders and then have to solve the murders. The three murders:
+
+1. Toshimi by strangulation and hanging from a waterfall
+
+2. Naoko by strangulation found tangled in a net with fish scales on the beach next to the wake (a sort of funeral event)
+
+3. Kimie by burning, body found in a burned down warehouse
+
+Other than this, the only thing you need to know is that there are 7 main people in this case: Toshimi, Naoko, Kimie, Saori (who's gone missing), Rokuro, Lady Mikoto (the dugong arrow giver) and Mr Benzo (Saori's father).
+
+REASONING:
+
+PART 1: THE SECOND MURDER
+
+P1: There is a murder victim tangled in a net
+
+P2: This murder was done on a beach
+
+P3: This beach is right next to a wake
+
+P4: There are bootprints but the victim was not wearing bootprints and no one else was at the scene except the murderer and the victim so the bootprints belong to the murderer
+
+P5: The bootprints leading to the murder scene and into the ocean but not back to the wake
+
+P6: There should be bootprints leading back to wake since the bootprints indicate that the murder went from the wake to the murder scene then to the ocean and it is impossible to fly back there without leaving footprints
+
+P7: The tide was lower during the time of murder
+
+P8: If the tide was to rise, it would erase footprints
+
+P9: There were fish (?) scales scattered in the same direction as the footprints
+
+P10: There is a mermaid legend on the island
+
+**C1**: The murderer went from the wake, killed the victim, then walked along the shore, erasing their footprints using the tide and making everyone think a mermaid was the cause of the death by scattering scales
+
+P11: There is a dugong arrow on the ground, trampled into the sand
+
+P12: The dugong arrow is known to be valuable
+
+P13: The victim's jacket was searched
+
+P14: The area was dark, meaning the arrow would be hard to see on the ground so it makes sense that the murderer didn't take it after searching through the jacket
+
+**C2**: The arrow was the motive for this kill (Naoko's death or murder 2) and the murderer didn't take the arrow because it was too dark to see
+
+PART 2: THE FIRST MURDER
+
+P15: The victim (Toshimi) was strangled to death by a rope that was hanging by a fence, effectively turning into a noose that hung her from the waterfall
+
+P16: There's a 'mermaid's grave' that Toshimi was obsessed about so it'd make sense for her to be lurking around in the dark to try and find the grave
+
+**C3**: It could be an accident
+
+P17: There is a pool tube found in the vicinity of the murder
+
+P18: The pool tube could definitely support Toshimi's weight if she were to be dropped into the river next to the waterfall
+
+P19: Toshimi was gone for 2 hours
+
+P20: It only takes 1 hour to get to the top of the waterfall where she was hanged
+
+P21: The pool tube was placed there quite recently so it wasn't there by accident
+
+**C4**: **C3** was a red herring and it was not an accident but a murder. P was just an excuse to cover up the murder
+
+PART 3: THE THIRD MURDER
+
+P22: There is a body in the burnt warehouse
+
+P23: The body has brown hair and a blue sweater, which was identical to Saori's appearance
+
+P24: Saori is the only person on the island with that appearance
+
+**C5**: Saori is the one who was killed in the burned warehouse
+
+P25: The dental records, however, match Kimie's dental records
+
+**C6**: The victim is not Saori like it says in **C** but actually Kimie. The appearance was just another red herring
+
+PART 4: NARROWING DOWN THE SUSPECTS
+
+P26: Kimie, Mr Benzo, and Rokuro's names were entered into the wake's guest list before Naoko's
+
+P27: If they're listed after Naoko, it means they arrived after her, because even if they wrote their names in a row before, it'd be suspicious
+
+P28: If they arrived after her, they could sneak out and not be detected by anyone else there
+
+**C7**: During the wake, the only ones that could've snuck out of the wake and killed Naoko were Kimie, Rokuro and Mr Benzo
+
+PART 5: THE MOTIVES BEHIND THE FIRST TWO MURDERS
+
+P29: Toshimi won an arrow, which could've been the target of the murderer
+
+P30: Naoko also won an arrow, which the murderer tried to find
+
+**C8**: The dugong arrows was the motive of the first two murders
+
+PART 6: THE THIRD MURDER MOTIVE AND SUSPECTING MR BENZO
+
+P31: Mr Benzo sold a dugong arrow for a hefty price after his daughter won it a year ago
+
+P32: He is known to be greedy and spends a lotta money on alcohol
+
+P33: Dugong arrows are all worth a lot of money no matter whose it is
+
+**C9**: Combined with **C8**, we can see that Mr Benzo had a very good motive to kill the first two victims for their arrows
+
+P34: The winners of the arrows are written down in a notebook
+
+P35: Benzo had tried to steal the notebook. His fingerprints were on the notebook, which means he definitely did try (solid evidence)
+
+P36: Kimie was at the scene when Mr Benzo was stealing the book
+
+P37: If Kimie exposed him, Mr Benzo would definitely be punished
+
+**C10**: Kimie was killed by Benzo in order to hide his theft
+
+PART 7: SEEING THROUGH THE RED HERRINGS
+
+P38: The murders were carried out very carefully with little evidence left behind
+
+P39: Benzo left his fingerprints in a very clumsy manner, contradicting P38
+
+P40: All the locals knew where to find the notebook which means he could've done it on a better day without these detectives snooping around
+
+P41: Naoko was suspicious of Benzo which reduces the possibility of the 2nd murder
+
+P42: Benzo's fingerprints were on the float tube at the 1st murder but a dugong arrow ticket (to win the dugong arrow) was also on it, which meant he wanted to steal the ticket but got his fingerprints on the tube by accident
+
+P43: Benzo stole the notebook because he was afraid everyone would think he was the murderer if they found out he had Toshimi's ticket, which meant he wanted to destroy it in order to hide the fact he had a dead person's ticket
+
+P44: Benzo could've just burnt the notebook if he was the murderer during the 3rd murder with the warehouse fire
+
+**C11**: Benzo couldn't be the murderer
+
+P45: The murders were done by someone who could easily lure the three victims out
+
+P46: Rokuro is close to all three victims
+
+**C12**: Rokuro is the only one left of the three in **C7** (Kimie couldn't have because she's dead)
+
+P47: Rokuro showed genuine grief at Kimie's death
+
+P48: The murders were all pre-mediated since the tricks were prepared beforehand (the first murder was prepared with a tube and the second needed to lay out the footprints beforehand)
+
+P49: To prepare for these murders, the murderer must be someone who knew who would win the arrows, otherwise they wouldn't know who to kill for the arrows
+
+**C13**: Rokuro does not know any of this stuff so he is cleared
+
+P50: Only the old lady Mikoto knew who would receive the arrows
+
+**C14**: Old lady Mikoto is the murderer
+
+P51: Mikoto is 130 years old, making it physically impossible for her to kill them
+
+P52: The 3rd victim is her own great granddaughter
+
+**C15**: Although contradicting, Mikoto is the only one left who could be the murderer, yet cannot be the murderer due to her physical weakness
+
+PART 8: "WHAT IF THE VICTIM IN THE WAREHOUSE WASN'T KIMIE?"
+
+P53: Kimie said she'd gone to the dentist with Saori
+
+P54: The dental records matched Kimie's
+
+P55: If Saori lost her national health insurance certificate and borrowed Kimie's, Saori would be listed as Kimie
+
+P56: Kimie could easily disguise herself as Saori due to her make up skills
+
+**C16**: Saori could be the one that took the appointment (but there is no evidence yet)
+
+P57: There were painkillers in Saori's bag for toothaches
+
+P58: The dentist claimed the patient had bleached hair and glasses (Saori's description)
+
+**C17**: Saori is the one with the appointment and not Kimie
+
+**C18**: The body then at the 3rd murder scene is not Kimie but Saori
+
+**C19**: Kimie and Lady Mikoto were the ones who conspired and killed the three (Lady Mikoto as well because of P49 and P50)
+
+P59: Lady Mikoto only appeared outside during the festivals, meaning she appeared to a few people a few times in her life
+
+P60: It wouldn't be hard for Kimie to imitate Mikoto (see P56)
+
+P61: Because of P59, even if her disguise isn't perfect, the chances of people seeing through her disguise is low
+
+P62: In a previous fire incident, the burnt corpse had its legs destroyed by crushing, meaning its legs were tied up and crushed and this is known to Kimie
+
+**C20**: Kimie is Mikoto and disguised herself by tying up her feet
+
+So yeah this is pretty much it. In this case there are several layers of misdirection: the identity of the burnt body, Mr Benzo being the killer, the footsteps leading to the ocean, and so on.
+
+Tell me what you think (this feat is very high tier in thinking/reasoning for me).
+
+If you got any questions, I'll answer them but just warning everyone: I simplified some parts of this case and cut off any interpretations I had so this is the onscreen results.

@@ -26,6 +26,9 @@
 - id: akuto-sai
   name: Akuto Sai
   series: ichiban-ushiro-no-daimaou
+- id: alaric-guildmaster-sylveon
+  name: Alaric (Guildmaster Sylveon)
+  series: pokemon-mystery-dungeon
 - id: alexander-suvorov
   name: Alexander Suvorov
   series: real-life
@@ -178,9 +181,15 @@
   series: case-closed
   aliases:
   - Kudo Shinichi
+- id: conan-edogawa-shinichi-kudo
+  name: Conan Edogawa/Shinichi Kudo
+  series: case-closed
 - id: connor
   name: Connor
   series: detroit-become-human
+- id: connor-baker
+  name: Connor Baker
+  series: pokemon-mystery-dungeon
 - id: crazy-mita
   name: Crazy Mita
   series: miside

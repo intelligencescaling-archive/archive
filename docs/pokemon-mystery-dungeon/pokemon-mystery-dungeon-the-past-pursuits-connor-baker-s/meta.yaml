@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pokemon-mystery-dungeon-the-past-pursuits-connor-baker-s
+category: doc
+title: 'Pokemon Mystery Dungeon: The Past Pursuits - Connor Baker''s dimensional swap (remade)'
+alt_titles:
+- Dimensional swap remade
+authors:
+- name: Equal_Custard0
+  reddit: Equal_Custard0
+  source: submission
+series:
+- pokemon-mystery-dungeon
+characters:
+- connor-baker
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1sPDoVgl7qqkPNe_WBH9QA9ETetZhOSoAHTu744BTyeU
+    google_id: 1sPDoVgl7qqkPNe_WBH9QA9ETetZhOSoAHTu744BTyeU
+  capture:
+    status: complete
+    date: '2026-11-18'
+    pages: 8
+    words: 2439
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2718006
+      sha256: a085ed47f31f258da45c2b1bea24611d245bd404296622e1513aebba38090775
+    - format: docx
+      name: document.docx
+      bytes: 1673557
+      sha256: 2657c1580db050c07320a69f69f471519c475ecd30b2917ffedd93679b58bd74
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-17'
+review:
+  status: auto
+  check:
+  - characters

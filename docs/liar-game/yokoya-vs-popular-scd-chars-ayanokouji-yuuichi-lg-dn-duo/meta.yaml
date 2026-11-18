@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-vs-popular-scd-chars-ayanokouji-yuuichi-lg-dn-duo
+category: doc
+title: Yokoya vs popular scd chars (Ayanokouji Yuuichi LG & DN Duo)
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  source: submission
+series:
+- liar-game
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- yokoya-norihiko
+- kiyotaka-ayanokoji
+- yuuichi-katagiri
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1mV6TlxCYiNKXmqez1jFZQpUkRjrHUAgQRh006teTrEk
+    google_id: 1mV6TlxCYiNKXmqez1jFZQpUkRjrHUAgQRh006teTrEk
+  capture:
+    status: complete
+    date: '2026-11-18'
+    pages: 3
+    words: 338
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 790283
+      sha256: 3165d82a7dd5b10f5c898e614e9b68c8e19e272da2052255ddc91456636dc931
+    - format: docx
+      name: document.docx
+      bytes: 392003
+      sha256: d0fb0ae3d888e7a259453418a03719431a873af458412bb1d83aa5ef0f074eb9
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-17'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

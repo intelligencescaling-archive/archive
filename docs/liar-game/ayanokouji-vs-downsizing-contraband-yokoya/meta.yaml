@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokouji-vs-downsizing-contraband-yokoya
+category: doc
+title: Ayanokouji vs [downsizing-] contraband Yokoya
+alt_titles:
+- Ayanokouji vs [downsizing-] contraband Yokoya • u/IncidentIll7680
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  source: submission
+series:
+- liar-game
+- classroom-of-the-elite
+characters:
+- yokoya-norihiko
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1zzIsOqOXqu9jX7EyasQhA09y_2aplXZZLDiXPfcqPko
+    google_id: 1zzIsOqOXqu9jX7EyasQhA09y_2aplXZZLDiXPfcqPko
+  capture:
+    status: complete
+    date: '2026-11-18'
+    pages: 3
+    words: 782
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 87466
+      sha256: b0ebb472d13e418ab30ed4bd018f1cabce4c029dfd9b8647e1263376c01d0917
+    - format: docx
+      name: document.docx
+      bytes: 12464
+      sha256: 63c835ad3210a3429fea75b7fa5da60f6649af440260f68c85dddf783cf4887c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-17'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
