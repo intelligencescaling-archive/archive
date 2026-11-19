@@ -75,6 +75,13 @@
   - Deatte 5-byou de Battle
   origin_language: ja
   origin_medium: manga
+- id: being-a-talent-in-the-chusheng-demon-sect
+  name: Being a Talent in the Chusheng Demon Sect
+  aliases:
+  - BATICS
+  - Struggling to Survive with Regression Power in the Primordial Saint Sect
+  origin_language: zh
+  origin_medium: web-novel
 - id: bendy-and-the-ink-machine
   name: Bendy and the Ink Machine
   origin_language: en
