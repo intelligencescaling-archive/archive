@@ -18,7 +18,8 @@ series:
 - dc-comics
 characters:
 - batman
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: more-of-napoleon-s-deception-feats-archived
+category: doc
+title: More of Napoleon's deception feats(archived)
+authors: []
+series:
+- history
+characters:
+- napoleon-bonaparte
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Mb0IzkIEKICZ5ItMjrzu32GXjcVUw7G9J6aNelZaro4/edit?usp=drivesdk
+    google_id: 1Mb0IzkIEKICZ5ItMjrzu32GXjcVUw7G9J6aNelZaro4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 1046
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 100027
+      sha256: 620d76cd00069cee785ff3a9d50bc68fb7d0e556a4d10c5a79245515439b1577
+    - format: docx
+      name: document.docx
+      bytes: 45260
+      sha256: 8973a954a05e42f19063a77b7e3822b8947b77ee6a56cdb4bbb3afc60c8dbb28
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: More of Napoleon's deception feats(archived)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

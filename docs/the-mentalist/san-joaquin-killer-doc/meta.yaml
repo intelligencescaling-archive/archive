@@ -11,7 +11,8 @@ series:
 - the-mentalist
 characters:
 - james-panzer
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

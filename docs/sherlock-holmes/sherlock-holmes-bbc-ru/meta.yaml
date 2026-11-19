@@ -14,7 +14,9 @@ series:
 characters:
 - sherlock-holmes
 variant: BBC
-tags: []
+tags:
+- feats
+- translation
 language: en
 completion: unknown
 parts:

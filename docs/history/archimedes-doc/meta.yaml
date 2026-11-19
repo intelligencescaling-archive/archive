@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: archimedes-doc
+category: doc
+title: Archimedes Doc
+authors: []
+series:
+- history
+characters:
+- archimedes-of-syracuse
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1HXwCA5_qfQpXlykElNOZt1H1ZLiLWs6fe9LXSzB1o7M/edit?tab=t.0#heading=h.doxdtr4g1yhe
+    google_id: 1HXwCA5_qfQpXlykElNOZt1H1ZLiLWs6fe9LXSzB1o7M
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 6105
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 18542469
+      sha256: c98f62cf10b77906ccdfd9191e3027f6c6aa0d17dc78a947374162457ef627e2
+    - format: docx
+      name: document.docx
+      bytes: 17131525
+      sha256: a5d7f68c0fe95aec992944d26b70dc751ecf016ef6b9105e816139562fbdd412
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Archimedes Doc
+- library: remastered
+  section: Real Life Historical Figures
+  character: Archimedes of Syracuse
+  link_text: Archimedes Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -13,7 +13,8 @@ series:
 - case-closed
 characters:
 - gin
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

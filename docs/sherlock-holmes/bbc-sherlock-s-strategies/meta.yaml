@@ -15,7 +15,8 @@ characters:
 - sherlock-holmes
 variant: BBC
 tags:
-- strategy
+- feats
+- analysis
 language: en
 completion: unknown
 parts:

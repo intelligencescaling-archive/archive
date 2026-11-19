@@ -10,7 +10,9 @@ authors:
   source: manual
 series: []
 characters: []
-tags: []
+tags:
+- community
+- analysis
 language: en
 completion: unknown
 parts:

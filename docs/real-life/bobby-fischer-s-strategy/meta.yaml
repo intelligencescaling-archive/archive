@@ -12,7 +12,8 @@ series:
 characters:
 - bobby-fischer
 tags:
-- strategy
+- analysis
+- rebunk
 language: en
 completion: unknown
 parts:

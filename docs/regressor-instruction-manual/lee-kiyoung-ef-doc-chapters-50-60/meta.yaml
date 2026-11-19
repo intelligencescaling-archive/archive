@@ -13,7 +13,8 @@ series:
 - regressor-instruction-manual
 characters:
 - lee-kiyoung
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

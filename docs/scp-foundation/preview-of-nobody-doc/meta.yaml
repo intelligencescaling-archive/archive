@@ -13,7 +13,8 @@ series:
 - scp-foundation
 characters:
 - nobody
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

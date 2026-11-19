@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cesare-borgia-doc
+category: doc
+title: Cesare Borgia doc
+authors:
+- name: LLA
+  id: lla
+  source: doc-text
+series:
+- history
+characters:
+- cesare-borgia
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1mIRt6o4rY3-L5fnsQ81vO7qTy6nl1fVQPl2rT0tAnlg/edit?usp=sharing
+    google_id: 1mIRt6o4rY3-L5fnsQ81vO7qTy6nl1fVQPl2rT0tAnlg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 28
+    words: 13447
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1169836
+      sha256: e3d68b0bcc7aebf108f63ed92d1bce2c3c932bbc1961722d0e85adab5fcf79ac
+    - format: docx
+      name: document.docx
+      bytes: 858700
+      sha256: 2bd1a99f9887b6bdecc1d0419ff8dc980926100b3812edbd632390f4590e135d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Cesare Borgia doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

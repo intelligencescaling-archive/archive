@@ -13,7 +13,9 @@ authors:
   source: doc-text
 series: []
 characters: []
-tags: []
+tags:
+- story
+- oc
 language: en
 completion: unknown
 parts:

@@ -14,7 +14,8 @@ series:
 - fate
 characters:
 - daybit-bluebook
-tags: []
+tags:
+- feats
 language: en
 completion: in-progress
 parts:

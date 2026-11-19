@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-brokers
+category: story
+title: The Brokers
+alt_titles:
+- Elec doc
+authors:
+- name: Osbis
+  id: osbis
+  source: doc-text
+series:
+- dragon-ball
+characters:
+- elec
+tags:
+- feats
+- story
+- fanfiction
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1NYR-eP-94Xn8gJ5q8iEL6qsPQeeNphaLtVwAxVjXiJE/edit?tab=t.0#heading=h.rbjf66hoeq2h
+    google_id: 1NYR-eP-94Xn8gJ5q8iEL6qsPQeeNphaLtVwAxVjXiJE
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 14
+    words: 2758
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1244617
+      sha256: 349a719302948b616c3bf26dfdde19bb68f601b0cdf7f6acb4d276851ccb6708
+    - format: docx
+      name: document.docx
+      bytes: 2722328
+      sha256: a917b5ad1e4a8fb08c6b7905891bd150fc0f8be0f1170f15bff949bc760c2bf2
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Elec doc
+  note: (Dragon Ball Super)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

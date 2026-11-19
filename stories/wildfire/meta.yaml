@@ -17,7 +17,8 @@ shared_by:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- story
 language: en
 completion: unknown
 parts:

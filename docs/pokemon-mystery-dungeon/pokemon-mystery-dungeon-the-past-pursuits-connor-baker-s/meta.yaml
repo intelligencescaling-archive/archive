@@ -6,22 +6,17 @@ title: 'Pokemon Mystery Dungeon: The Past Pursuits - Connor Baker''s dimensional
 alt_titles:
 - Dimensional swap remade
 authors:
-- name: Equal_Custard0
-  reddit: Equal_Custard0
+- name: Less_Puddingdrawer
+  reddit: Less_Puddingdrawer
   id: less-puddingdrawer
-  source: submission
-- name: Less_puddingdrawer
-  reddit: Less_puddingdrawer
-  id: less-puddingdrawer
-  source: submission
-- name: Luigiderchad2.0
-  id: luigiderchad2-0
   source: submission
 series:
 - pokemon-mystery-dungeon
 characters:
 - connor-baker
-tags: []
+tags:
+- analysis
+- oc
 language: en
 completion: unknown
 parts:

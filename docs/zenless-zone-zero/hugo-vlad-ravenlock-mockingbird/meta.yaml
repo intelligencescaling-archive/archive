@@ -19,7 +19,8 @@ series:
 - zenless-zone-zero
 characters:
 - hugo-vlad
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

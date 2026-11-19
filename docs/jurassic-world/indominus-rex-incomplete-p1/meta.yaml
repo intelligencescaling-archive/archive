@@ -13,7 +13,8 @@ series:
 - jurassic-world
 characters:
 - indominus-rex
-tags: []
+tags:
+- analysis
 language: en
 completion: in-progress
 parts:

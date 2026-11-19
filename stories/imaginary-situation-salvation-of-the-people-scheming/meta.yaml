@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: imaginary-situation-salvation-of-the-people-scheming
+category: story
+title: Imaginary Situation - Salvation of the people - Scheming
+authors:
+- name: PurchaseNo3914
+  reddit: PurchaseNo3914
+  id: purchaseno3914
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1g5FO0aN2PFtM_37d3HiUgCPp-gykWcQo_6seVsAIq7w
+    google_id: 1g5FO0aN2PFtM_37d3HiUgCPp-gykWcQo_6seVsAIq7w
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 5
+    words: 1434
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 135336
+      sha256: 242c4539eef71b3a76b219483bdeace63de05551900a0c0bc290adcd6f287b24
+    - format: docx
+      name: document.docx
+      bytes: 12884
+      sha256: e281d44afabb1d53f515fbedbf678b63c66ea5f02fba07e583d5f744ea189cba
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1vawlji/
+  note: 'Shared by u/PurchaseNo3914 in a post on 2026-07-30: My first document, an imaginary situation I wrote when you''re bored'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - characters
+  - series

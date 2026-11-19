@@ -14,7 +14,9 @@ series:
 - tomodachi-game
 characters:
 - yuuichi-katagiri
-tags: []
+tags:
+- analysis
+- rebunk
 language: en
 completion: unknown
 parts:

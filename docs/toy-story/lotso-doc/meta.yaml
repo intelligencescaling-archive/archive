@@ -12,7 +12,8 @@ series:
 - toy-story
 characters:
 - lotso
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

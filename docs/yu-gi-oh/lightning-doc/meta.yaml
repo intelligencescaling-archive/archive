@@ -14,7 +14,8 @@ series:
 - yu-gi-oh
 characters:
 - lightning
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

@@ -14,7 +14,9 @@ series:
 - house
 characters:
 - gregory-house
-tags: []
+tags:
+- feats
+- composite
 language: en
 completion: unknown
 parts:

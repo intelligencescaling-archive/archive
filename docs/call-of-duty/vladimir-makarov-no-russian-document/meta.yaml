@@ -16,7 +16,8 @@ series:
 - call-of-duty
 characters:
 - vladimir-makarov
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: napoleons-crossing-the-alps-strategy
+category: doc
+title: NAPOLEON’S CROSSING THE ALPS STRATEGY
+alt_titles:
+- Napoleon crossing the Alps strategy
+- NAPOLEON'S CROSSING THE ALPS STRATEGY
+authors: []
+series:
+- history
+characters:
+- napoleon-bonaparte
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15Xa5avx-zMeamMpL2rhF4EsBGOZE898SEDfGkUd00tA
+    google_id: 15Xa5avx-zMeamMpL2rhF4EsBGOZE898SEDfGkUd00tA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1155
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 9470767
+      sha256: b71bf6bc94ed0811b5df74981bd58b08b3114c4e0968c228e222f2e7b9e43b0e
+    - format: docx
+      name: document.docx
+      bytes: 6764844
+      sha256: 479ef56edfc037aae824472e76f4ddb666dfed1bd3f15bc903d0dd4e6b7620b7
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Napoleon crossing the Alps strategy
+- library: remastered
+  section: Real Life Historical Figures
+  character: Napoleon Bonaparte
+  link_text: NAPOLEON'S CROSSING THE ALPS STRATEGY
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

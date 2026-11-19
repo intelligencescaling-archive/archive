@@ -116,12 +116,52 @@ record's handles (two people with the same display name). Co-authors stay separa
 joins them with "/" ("A/B" is often two people). To merge two records, move one's names and handles into the
 other and delete it; the next build re-links every entry.
 
-## Tags
+## Tags (`data/tags.yaml`)
 
-Content type: `feats`, `analysis`, `strategy`, `planning`, `scheming`, `manipulation`, `reasoning`,
-`debunk`, `rebunk`, `matchup`, `composite`, `writing-analysis`, `tier-list`, `transcript`, `collection`.
-Intelligence categories: `fsiq`, `eq`, `cpi`, `psi`, `vsi`, `vci`.
-About SCD itself: `scd-categories`, `scaling-system`, `scd-theory`, `writing-categories`, `guide`,
-`history`, `library`, `list`.
-Other: `wis` (powerscaling / "who would win"), `cosmology`, `oc` (original character),
-`fanfiction`, `humor`, `q-and-a`, `hall-of-shame`.
+The tag list is fixed (approved 2026-11-18) and lives in `data/tags.yaml`: one record per tag with `id`, `name`,
+`group`, a one-line `definition`, `examples`, `aliases` (old tag names that now mean this tag) and `implies`.
+`validate.py` rejects any tag that is not in the registry. Each entry has **1 to 3 tags**, most important first,
+plus the meta tag `translation` when it applies.
+
+| tag | group | when |
+|---|---|---|
+| `feats` | type | a character's intelligent feats, scene by scene; also a write-up of one feat ("Siesta's Scheming Feats") |
+| `analysis` | type | one scene, plan, arc or trait analysed in depth ("how the Kira plan works") |
+| `matchup` | type | X vs Y: who outsmarts whom ("Johan vs Moriarty") |
+| `debunk` | type | argues a feat, doc or claim is wrong ("Debunking Ayanokoji's feats") |
+| `rebunk` | type | answers a debunk ("Rebunk of the Light debunk") |
+| `composite` | type | one character built from several versions ("Composite Sherlock Holmes") |
+| `writing` | type | a character or story as writing: themes, psychology, how well written ("Femto Descent Analysis") |
+| `ranking` | type | tier list, top N ("Top 10 smartest characters") |
+| `guide` | type | explains SCD, its categories or a scaling system ("All categories for SCD") |
+| `template` | type | a blank format to fill in ("Feats doc template") |
+| `discussion` | type | opinion, essay, Q&A, debate ("What counts as intelligence?") |
+| `game` | type | a community game, tournament or event ("SCD tournament") |
+| `community` | type | libraries, link lists, archive or subreddit history ("The Ultimate SCD Library") |
+| `story` | fiction | fiction; same as category `story` |
+| `fanfiction` | fiction | fiction with existing characters; implies `story` |
+| `oc` | subject | about an original character |
+| `translation` | meta | a translation of another doc or of source material (doesn't count toward the 3) |
+
+Rules: the `story` tag and category `story` always go together (a story lives in `stories/<id>/`). Implied tags
+are stored (`fanfiction` → `story`). The website derives the other meta labels from existing fields, so they are
+not stored as tags: in progress (`completion`), text only (no PDF in `parts[].capture.files`), original gone
+(`capture.status` dead/private), multi-part (several `parts`). Real people are not a tag: their characters have
+`real: true` in `data/characters.yaml`, and their series is under Real life (`origin_language: real`).
+
+Retired tags (2026-11-18, no longer stored): the skill tags `strategy`, `planning`, `scheming`, `manipulation`,
+`reasoning` (now `analysis`), `fsiq`, `eq`, `cpi`, `psi`, `vsi`, `vci`, and `wis`, `cosmology`, `humor`. Other
+old names are aliases of the new tags (see `data/tags.yaml`).
+
+## Characters (`data/characters.yaml`)
+
+```yaml
+- id: light-yagami
+  name: Light Yagami
+  series: death-note             # or null when unknown / an original character
+  aliases: [Kira]
+- id: napoleon-bonaparte
+  name: Napoleon Bonaparte
+  series: history
+  real: true                     # optional: a real person (historical figure, internet personality, community member...)
+```

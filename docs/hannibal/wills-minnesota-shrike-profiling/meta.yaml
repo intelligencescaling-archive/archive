@@ -13,7 +13,8 @@ series:
 - hannibal
 characters:
 - will-graham
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

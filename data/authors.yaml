@@ -685,10 +685,12 @@
   aliases:
   - Equal_qustard0
   - Db_Puddingdrawer
+  - Luigiderchad2.0
   reddit:
   - Less_Puddingdrawer
   - Equal_Custard0
-  note: 'doc: ''The reddit account''s name is Equal_custard0''; ''Made by Equal_qustard0 on reddit and Db_Puddingdrawer on discord'''
+  - greaterthanhelafnrjs
+  note: 'doc: ''The reddit account''s name is Equal_custard0''; ''Made by Equal_qustard0 on reddit and Db_Puddingdrawer on discord''; maintainer 2026-11-18: also Luigiderchad2.0 and u/greaterthanhelafnrjs (one person)'
 - id: lesti-chan
   name: Lesti-Chan
 - id: lexyo
@@ -713,8 +715,6 @@
   - LosuthusWasTaken
 - id: luga
   name: Luga
-- id: luigiderchad2-0
-  name: Luigiderchad2.0
 - id: lyrl1998
   name: Lyrl1998
 - id: lzyaboiconnor

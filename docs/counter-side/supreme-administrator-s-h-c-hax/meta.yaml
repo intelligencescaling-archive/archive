@@ -10,7 +10,8 @@ series:
 - counter-side
 characters:
 - administrator
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

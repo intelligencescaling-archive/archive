@@ -17,7 +17,8 @@ series:
 - minecraft
 characters:
 - roscow
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

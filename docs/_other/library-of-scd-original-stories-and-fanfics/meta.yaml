@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: library-of-scd-original-stories-and-fanfics
+category: doc
+title: Library of SCD original stories and fanfics
+authors: []
+shared_by:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- community
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aVjRKfk2f5t7N0WNj4-jJA54enu4nOzyzOtxVgYQXwY
+    google_id: 1aVjRKfk2f5t7N0WNj4-jJA54enu4nOzyzOtxVgYQXwY
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 263
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 392162
+      sha256: e4f51c3a0d87d6abd6d80f4feecca6d1cad97e6eedc5d693bd4c1fc851aeeea5
+    - format: docx
+      name: document.docx
+      bytes: 1480654
+      sha256: ea0440720e69f4601e67362dd8394622c1d5e9cf1883a14b73047d0dfaea334c
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1snxou8/
+  note: 'Shared by u/ConversationSea1684 in a post on 2026-04-17: Here is the library of original stories + fanfics'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -13,7 +13,9 @@ series:
 - scp-foundation
 characters:
 - the-administrator
-tags: []
+tags:
+- feats
+- composite
 language: en
 completion: unknown
 parts:

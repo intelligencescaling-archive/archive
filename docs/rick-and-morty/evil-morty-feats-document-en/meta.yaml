@@ -16,7 +16,8 @@ series:
 - rick-and-morty
 characters:
 - evil-morty
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

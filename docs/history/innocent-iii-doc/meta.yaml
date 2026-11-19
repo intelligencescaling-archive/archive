@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: innocent-iii-doc
+category: doc
+title: Innocent III Doc
+authors:
+- name: LLA
+  id: lla
+  source: doc-text
+series:
+- history
+characters:
+- innocent-iii
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1UrCXfQwj9hVhibqEleoRv_vkjc9r1-0n-q0sAVfpj4U/edit?usp=sharing
+    google_id: 1UrCXfQwj9hVhibqEleoRv_vkjc9r1-0n-q0sAVfpj4U
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 16
+    words: 6716
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1943800
+      sha256: ab9404a078b51f7092a6c32105e8081e58d35f773e6f999a46937b0a8e4e89ae
+    - format: docx
+      name: document.docx
+      bytes: 1407977
+      sha256: a00613aa0b68c5edf8c4450db5c10a09a23ab5e0927618c8e183708e8925ef84
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Innocent III Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

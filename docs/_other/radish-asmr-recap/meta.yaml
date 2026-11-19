@@ -14,7 +14,8 @@ shared_by:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- game
 language: en
 completion: unknown
 parts:

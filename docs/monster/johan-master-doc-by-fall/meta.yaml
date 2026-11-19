@@ -14,7 +14,8 @@ series:
 - monster
 characters:
 - johan-liebert
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

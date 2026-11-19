@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scipio-africanus-doc-100
+category: doc
+title: Scipio Africanus Doc 100%
+alt_titles:
+- Scipio Africanus
+- Scipio Africanus Doc (Update Soon)
+authors: []
+series:
+- history
+characters:
+- scipio-africanus
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ewTpVVBTtbyjmqh3_OyQWSi2chxbRS234J9oBKui36g
+    google_id: 1ewTpVVBTtbyjmqh3_OyQWSi2chxbRS234J9oBKui36g
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 4810
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4694944
+      sha256: bc349e4afcc740c01361aa24624ae195dfd27c8f57fb1b56e4c4bd65843efbe7
+    - format: docx
+      name: document.docx
+      bytes: 4915478
+      sha256: 1a5d0ca2236016b27610529aedb7d0beca3fddad5bcc2e4ebfed5fb9e664536c
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Scipio Africanus
+- library: remastered
+  section: Real Life Historical Figures
+  character: Scipio Africanus
+  link_text: Scipio Africanus Doc (Update Soon)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

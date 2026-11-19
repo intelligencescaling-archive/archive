@@ -11,7 +11,8 @@ shared_by:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- analysis
 language: null
 completion: unknown
 parts:

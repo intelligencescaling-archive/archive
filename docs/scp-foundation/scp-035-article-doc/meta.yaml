@@ -13,7 +13,9 @@ series:
 - scp-foundation
 characters:
 - scp-035
-tags: []
+tags:
+- feats
+- analysis
 language: en
 completion: unknown
 parts:

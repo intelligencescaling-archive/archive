@@ -17,7 +17,8 @@ series:
 characters:
 - sherlock-holmes
 variant: Novels
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

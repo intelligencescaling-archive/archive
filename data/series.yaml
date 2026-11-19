@@ -347,6 +347,13 @@
   - HERO -Gyakkyou no Toupai-
   origin_language: ja
   origin_medium: manga
+- id: history
+  name: History
+  aliases:
+  - Historical figures
+  - Real Life Historical Figures
+  origin_language: real
+  origin_medium: real
 - id: honkai-impact-3rd
   name: Honkai Impact 3rd
   origin_language: zh

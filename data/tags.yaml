@@ -1,0 +1,113 @@
+# Tag registry. ids are used in meta.yaml `tags` (tag list approved by the maintainer 2026-11-18).
+# Each entry has 1 to 3 tags of group type/fiction/subject; meta tags (`translation`) come on top.
+# Fields:
+#   id          the tag as stored in meta.yaml (never renamed without an alias)
+#   name        display name
+#   group       type (what the doc is) | fiction | subject (who it is about) | meta (about the file itself)
+#   definition  one line: when to use it
+#   examples    titles of archive entries that have it
+#   aliases     old tag names that now mean this tag (old /tags/<alias>/ pages redirect here)
+#   implies     tags an entry with this tag always also has
+- id: feats
+  name: Feats
+  group: type
+  definition: A character's intelligent feats, scene by scene through the work; also a write-up of one feat (then often with analysis).
+  examples: ["Siesta's Scheming Feats", "LN Shiba Tatsuya feats list"]
+  aliases: []
+- id: analysis
+  name: Analysis
+  group: type
+  definition: One scene, plan, gamble, arc or trait analysed in depth (how a plan works, a breakdown of one game).
+  examples: ["Baku's decade-long plan", "Niu Youdao Interlocking Stratagem"]
+  aliases: [strategy, planning, scheming, manipulation, reasoning]
+- id: matchup
+  name: Matchup
+  group: type
+  definition: X vs Y, who outsmarts whom (a match-up, a full-scale comparison, a hypothetical battle of wits).
+  examples: ["Tokuchi vs Redjohn", "Honami vs BB - Planning Comparison"]
+  aliases: []
+- id: debunk
+  name: Debunk
+  group: type
+  definition: Argues that a feat, a doc or a common claim about a character is wrong or overrated.
+  examples: ["2SD Strategy Debunk", "Yokoya Norihiko’s Speed Reading Feat Debunk"]
+  aliases: []
+- id: rebunk
+  name: Rebunk
+  group: type
+  definition: Answers a debunk and defends the original feat or doc.
+  examples: ["Tablet Feat Rebunk", "Rebunking Yumeko Dice Control"]
+  aliases: []
+- id: composite
+  name: Composite
+  group: type
+  definition: One character built from several versions (manga + anime + novels, several continuities, "Comp").
+  examples: ["Gilgamesh (Comp)", "Amakusa Shirou (Comp)"]
+  aliases: []
+- id: writing
+  name: Writing
+  group: type
+  definition: About a character or story as writing (themes, psychology, symbolism, how well it is written), not how smart the character is.
+  examples: ["Analysis of Light Yagami's introduction", "Femto Descent Analysis"]
+  aliases: [writing-analysis]
+- id: ranking
+  name: Ranking
+  group: type
+  definition: A tier list, top N or ranked list of characters.
+  examples: ["Type-Moon SCD Characters", "18LoHLiFH characters and scaling updated"]
+  aliases: [tier-list, hall-of-shame]
+- id: guide
+  name: Guide
+  group: type
+  definition: Explains SCD itself (its categories, a scaling system, how to write or judge docs).
+  examples: ["III. How to scale SCD", "Realistic feats evaluation system"]
+  aliases: [scd-categories, scd-theory, scaling-system, writing-categories]
+- id: template
+  name: Template
+  group: type
+  definition: A blank format or form to fill in (a doc template, a comparison or scoring sheet).
+  examples: ["FULL SCALE Basic", "Character comparison doc"]
+  aliases: []
+- id: discussion
+  name: Discussion
+  group: type
+  definition: Opinion, essay, Q&A or a debate; argues a general point rather than listing one character's feats.
+  examples: ["CPI is way important than you think", "Validity of LE interpretation (Umineko)"]
+  aliases: [q-and-a, debate]
+- id: game
+  name: Game
+  group: type
+  definition: A community game, tournament, event or roleplay with rules and players.
+  examples: ["RED EYED LIARS", "SCD Short Story Tournament Entries"]
+  aliases: []
+- id: community
+  name: Community
+  group: type
+  definition: About the SCD community itself (libraries, link lists, archive or subreddit history, records of community events).
+  examples: ["History of Smart Character Debates", "The ultimate library of docs"]
+  aliases: [library, collection, list, history, transcript]
+- id: story
+  name: Story
+  group: fiction
+  definition: Fiction (a story, chapters, a scenario written as narrative). Same as category `story`.
+  examples: ["No Man's Land – Chapter 2 – The Nightmare", "The Massive Demon Lord's Tale"]
+  aliases: []
+- id: fanfiction
+  name: Fanfiction
+  group: fiction
+  definition: Fiction with characters from an existing work.
+  examples: ["Re:Zero x Usogui fanfic", "Hello. I have a dumb thing"]
+  aliases: []
+  implies: [story]
+- id: oc
+  name: OC
+  group: subject
+  definition: About an original character (made by a community member, not from a published work).
+  examples: ["Peter the Viennese", "Ninecrom Arcade: Cognitive Feats Analysis"]
+  aliases: []
+- id: translation
+  name: Translation
+  group: meta
+  definition: The doc is a translation of another doc, or of source material (a novel chapter, raws), into another language.
+  examples: ["Issei Okabe’s Feats", "SCD_System_Vietnam_English"]
+  aliases: []

@@ -15,9 +15,7 @@ shared_by:
 series: []
 characters: []
 tags:
-- matchup
-- scd-categories
-- fsiq
+- template
 language: en
 completion: unknown
 parts:

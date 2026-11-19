@@ -16,6 +16,7 @@ characters:
 variant: Composite
 tags:
 - composite
+- feats
 language: en
 completion: in-progress
 parts:

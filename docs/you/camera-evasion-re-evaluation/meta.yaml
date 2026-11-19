@@ -8,7 +8,8 @@ series:
 - you
 characters:
 - joe-goldberg
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

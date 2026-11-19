@@ -11,7 +11,10 @@ shared_by:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- story
+- oc
+- fanfiction
 language: en
 completion: unknown
 parts:

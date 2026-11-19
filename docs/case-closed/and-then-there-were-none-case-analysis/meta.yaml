@@ -14,7 +14,8 @@ series:
 - case-closed
 characters:
 - conan-edogawa
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

@@ -6,6 +6,8 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
   - every series and character id exists in data/series.yaml / data/characters.yaml
   - every author/shared_by `id` exists in data/authors.yaml, and no Reddit handle belongs to two people
   - each series' origin_language is a 2-letter code or `real` (a missing one is only a warning)
+  - every tag exists in data/tags.yaml; 1 to 3 tags besides meta tags; implied tags are present;
+    the `story` tag and category `story` go together; characters' `real` is true/false
   - every text file named in the entry exists, and no stray files sit in entry folders
 
 Usage: python scripts/validate.py [repo-root]     (exit code 1 if anything is wrong)
@@ -28,7 +30,28 @@ def main():
     chars = {c["id"]: c for c in yaml.safe_load((root / "data" / "characters.yaml").read_text(encoding="utf-8")) or []}
     ap = root / "data" / "authors.yaml"
     people = {a["id"]: a for a in (yaml.safe_load(ap.read_text(encoding="utf-8")) or [])} if ap.exists() else {}
+    tp = root / "data" / "tags.yaml"
+    tag_rows = (yaml.safe_load(tp.read_text(encoding="utf-8")) or []) if tp.exists() else []
+    tags = {t["id"]: t for t in tag_rows}
     errors, warnings, ids, gids, n = [], [], {}, {}, 0
+
+    if not tp.exists():
+        errors.append("data/tags.yaml is missing")
+    seen_names = {}
+    for t in tag_rows:
+        for k in ("id", "name", "group", "definition"):
+            if not t.get(k):
+                errors.append(f"data/tags.yaml: {t.get('id')}: missing {k}")
+        if t.get("group") not in ("type", "fiction", "subject", "meta"):
+            errors.append(f"data/tags.yaml: {t.get('id')}: group should be type, fiction, subject or meta")
+        for a in [t.get("id"), *(t.get("aliases") or [])]:
+            if a in seen_names:
+                errors.append(f"data/tags.yaml: '{a}' is used by both {seen_names[a]} and {t.get('id')}")
+            seen_names[a] = t.get("id")
+        for i in t.get("implies") or []:
+            if i not in {r.get("id") for r in tag_rows}:
+                errors.append(f"data/tags.yaml: {t.get('id')}: implies unknown tag {i}")
+    old_names = {a: t["id"] for t in tag_rows for a in t.get("aliases") or []}
 
     for s in series_rows:
         lang = s.get("origin_language")
@@ -38,6 +61,8 @@ def main():
             errors.append(f"data/series.yaml: {s['id']}: origin_language '{lang}' should be a 2-letter ISO 639-1 code or 'real'")
 
     for c in chars.values():
+        if "real" in c and not isinstance(c["real"], bool):
+            errors.append(f"data/characters.yaml: {c['id']}: real should be true or false")
         if c.get("series") and c["series"] not in series:
             errors.append(f"data/characters.yaml: {c['id']}: unknown series {c['series']}")
     handles = {}
@@ -78,6 +103,20 @@ def main():
         for c in m.get("characters", []):
             if c not in chars:
                 err(f"unknown character '{c}' (add it to data/characters.yaml)")
+        mt = m.get("tags") or []
+        for tg in mt:
+            if tg not in tags:
+                hint = f" (old name: use '{old_names[tg]}')" if tg in old_names else ""
+                err(f"unknown tag '{tg}'{hint} (tags must be in data/tags.yaml)")
+        main_tags = [tg for tg in mt if tags.get(tg, {}).get("group") != "meta"]
+        if not 1 <= len(main_tags) <= 3:
+            err(f"has {len(main_tags)} tags besides meta tags (should be 1 to 3)")
+        for tg in mt:
+            for i in tags.get(tg, {}).get("implies") or []:
+                if i not in mt:
+                    err(f"tag '{tg}' implies '{i}', which is missing")
+        if ("story" in mt) != (m.get("category") == "story"):
+            err("the 'story' tag and category 'story' should go together")
         for a in [*(m.get("authors") or []), *(m.get("shared_by") or [])]:
             if isinstance(a, dict) and a.get("id") and a["id"] not in people:
                 err(f"unknown author id '{a['id']}' (add it to data/authors.yaml)")

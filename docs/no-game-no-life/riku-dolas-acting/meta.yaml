@@ -11,7 +11,8 @@ series:
 - no-game-no-life
 characters:
 - riku-dola
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

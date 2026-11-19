@@ -10,7 +10,8 @@ series:
 - record-of-ragnarok
 characters:
 - jack-the-ripper
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

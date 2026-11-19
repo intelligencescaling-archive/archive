@@ -10,7 +10,8 @@ authors:
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- discussion
 language: en
 completion: unknown
 parts:

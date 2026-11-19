@@ -15,6 +15,7 @@ characters:
 - gabriel
 variant: Composite
 tags:
+- feats
 - composite
 language: en
 completion: unknown

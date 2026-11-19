@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: victor-lustig-document-part-1
+category: doc
+title: Victor Lustig Document (Part 1)
+alt_titles:
+- Victor Lustig Doc
+authors: []
+series:
+- history
+characters:
+- victor-lustig
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10Lir7Z445HDrwHDXjGYVA3tfGSudlLu_Dhk8M8I9Oiw
+    google_id: 10Lir7Z445HDrwHDXjGYVA3tfGSudlLu_Dhk8M8I9Oiw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 41
+    words: 24756
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 781003
+      sha256: fb9fa044487335b58dbffb3e88b9e76107bd833817da472dd33c36b252424317
+    - format: docx
+      name: document.docx
+      bytes: 831964
+      sha256: 1d3b40fd1837691b1a46d40a16258a0d360fcd58be74aec07e0880b59ac83e83
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Victor Lustig Doc
+  note: (part 1)
+- library: remastered
+  section: Real Life Historical Figures
+  character: Victor Lustig
+  link_text: Victor Lustig Document (Part 1)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

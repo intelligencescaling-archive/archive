@@ -12,7 +12,8 @@ series:
 - ace-attorney
 characters:
 - tristan-turnbull
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

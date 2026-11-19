@@ -10,7 +10,8 @@ series:
 - liar-game
 characters:
 - akiyama-shinichi
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

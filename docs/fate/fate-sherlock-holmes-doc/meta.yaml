@@ -12,7 +12,9 @@ series:
 - fate
 characters:
 - sherlock-holmes-fate
-tags: []
+tags:
+- feats
+- matchup
 language: en
 completion: in-progress
 parts:

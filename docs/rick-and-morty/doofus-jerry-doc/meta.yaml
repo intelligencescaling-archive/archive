@@ -11,7 +11,8 @@ series:
 - rick-and-morty
 characters:
 - doofus-jerry
-tags: []
+tags:
+- feats
 language: en
 completion: unknown
 parts:

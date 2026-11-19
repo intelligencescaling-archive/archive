@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fake-reporter-framing
+category: doc
+title: Fake Reporter Framing
+alt_titles:
+- New Oc scaling! Shopping mall escape feat(also can be named as "Fake reporter framing" feat)
+authors:
+- name: Vincent_Lalo1
+  reddit: Vincent_Lalo1
+  id: vincent-lalo1
+  source: reddit-post
+series: []
+characters: []
+tags:
+- analysis
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mrbfjm/new_oc_scaling_shopping_mall_escape_featalso_can/
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1360
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 91062
+      sha256: f9483604ef6647e1bec1b675d0a6bc7a869c7b0da1c14a5c0e6fab012720275b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 272640
+      sha256: 1b5cb5c9f790c00cd85c23e49566aa7959a72a972a9cccdc196da129a3447301
+    - format: jpg
+      name: image-3.jpg
+      bytes: 160689
+      sha256: 96a2d7680129ddeba47a9a6bdeb6674894c453159d085688c81f1c3e21253bcc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in:
+- library: stories
+  section: F
+  link_text: Fake Reporter Framing
+added: '2026-11-15'
+review:
+  status: auto
+  check: []

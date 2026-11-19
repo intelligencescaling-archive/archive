@@ -10,7 +10,8 @@ series:
 - the-mentalist
 characters:
 - patrick-jane
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wrote-at-work
+category: story
+title: Wrote at work
+authors:
+- name: Subject-Log7025
+  reddit: Subject-Log7025
+  id: subject-log7025
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1XOvhSrbcDW-2iKetwsdbptsOY2S0CRQw
+    google_id: 1XOvhSrbcDW-2iKetwsdbptsOY2S0CRQw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    words: 1415
+    files:
+    - format: docx
+      name: Wrote at work.docx
+      bytes: 11371
+      sha256: 495dc080a283085d652e469444972cf445339e683ce232391b67993acccab3d0
+    text:
+      file: text.txt
+      method: docx-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1shlqmd/
+  note: 'Shared by u/Subject-Log7025 in a post on 2026-04-10: Wrote a Low Tier game at work'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - characters
+  - series

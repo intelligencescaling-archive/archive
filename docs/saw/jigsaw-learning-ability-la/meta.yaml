@@ -13,7 +13,8 @@ series:
 - saw
 characters:
 - john-kramer
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

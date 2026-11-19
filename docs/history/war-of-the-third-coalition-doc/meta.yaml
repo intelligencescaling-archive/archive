@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: war-of-the-third-coalition-doc
+category: doc
+title: WAR OF THE THIRD COALITION DOC
+alt_titles:
+- Napoleon's feats in the Third Coalition
+authors:
+- name: Azraelyc
+  id: azraelyc
+  source: doc-text
+series:
+- history
+characters:
+- napoleon-bonaparte
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1rH7gKPNNf6DHs1fzpTje_1ly4HAF8QLvPZAY7SplfuU/edit?usp=drivesdk
+    google_id: 1rH7gKPNNf6DHs1fzpTje_1ly4HAF8QLvPZAY7SplfuU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 26
+    words: 7238
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 10806570
+      sha256: 33da607c6cb75549e6a51463c8cb14a9666d30579d8cf14049dee3825919f54f
+    - format: docx
+      name: document.docx
+      bytes: 10198724
+      sha256: 3ae1f7230f5dd09e5fd621c8a880ce97b0346d9d3898c33538e3050de66260d4
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'Real Life Historical Humans:'
+  link_text: Napoleon's feats in the Third Coalition
+- library: remastered
+  section: Real Life Historical Figures
+  character: Napoleon Bonaparte
+  link_text: WAR OF THE THIRD COALITION DOC
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: web-novel-de-youjo-senki
+category: story
+title: Web Novel de Youjo Senki
+alt_titles:
+- Youjo Senki Web Novel
+authors: []
+series:
+- the-saga-of-tanya-the-evil
+characters:
+- tanya-von-degurechaff
+variant: Web Novel
+tags:
+- story
+language: pt
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1wXUl7mQwaaBxz6u0WOn1tp5PbbZ58rkVAnYzdQEYmwg/edit?usp=drivesdk
+    google_id: 1wXUl7mQwaaBxz6u0WOn1tp5PbbZ58rkVAnYzdQEYmwg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 5
+    words: 1423
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 291948
+      sha256: 6f16cf5edc8c6d4273ed59f873a48cb8ede291924902d65ae1ac31667c3c0271
+    - format: docx
+      name: document.docx
+      bytes: 15909
+      sha256: e4c3c2e3226a1513bc3c47af6fdc15c61d53453ae626dc14b90a25a804d33cfa
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Youjo Senki Web Novel
+  note: (It is completely written in Japanese, so good luck reading everything with translator Lol)
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

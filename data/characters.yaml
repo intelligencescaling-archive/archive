@@ -9,7 +9,8 @@
   - Supreme Administrator
 - id: adolf-hitler
   name: Adolf Hitler
-  series: real-life
+  series: history
+  real: true
 - id: ai-magase
   name: Ai Magase
   series: babylon
@@ -33,7 +34,8 @@
   series: pokemon-mystery-dungeon
 - id: alexander-suvorov
   name: Alexander Suvorov
-  series: real-life
+  series: history
+  real: true
 - id: alice-alice-mirror-castle-murders
   name: Alice
   series: alice-mirror-castle-murders
@@ -57,7 +59,8 @@
   series: altered-beast
 - id: andre-massena
   name: André Masséna
-  series: real-life
+  series: history
+  real: true
 - id: andrew-avalon
   name: Losherk Andrew Avalon
   series: the-lying-detective
@@ -83,7 +86,8 @@
   series: oshi-no-ko
 - id: archimedes-of-syracuse
   name: Archimedes of Syracuse
-  series: real-life
+  series: history
+  real: true
 - id: aristotle-means
   name: Aristotle Means
   series: ace-attorney
@@ -104,7 +108,8 @@
   series: classroom-of-the-elite
 - id: augustus-caesar
   name: Augustus Caesar
-  series: real-life
+  series: history
+  real: true
 - id: ayumu-narumi
   name: Ayumu Narumi
   series: spiral-the-bonds-of-reasoning
@@ -141,6 +146,7 @@
 - id: bobby-fischer
   name: Bobby Fischer
   series: real-life
+  real: true
 - id: brian-moser
   name: Brian Moser
   series: dexter
@@ -152,16 +158,20 @@
   series: c-auguste-dupin
 - id: camilo-benso
   name: Camilo Benso
-  series: real-life
+  series: history
+  real: true
 - id: cao-cao
   name: Cao Cao
-  series: real-life
+  series: history
+  real: true
 - id: cardinal-richelieu
   name: Cardinal Richelieu
-  series: real-life
+  series: history
+  real: true
 - id: cesare-borgia
   name: Cesare Borgia
-  series: real-life
+  series: history
+  real: true
 - id: charles-choi
   name: Charles Choi
   series: lookism
@@ -313,7 +323,8 @@
   series: a-nightmare-on-elm-street
 - id: frederick-ii
   name: Frederick II
-  series: real-life
+  series: history
+  real: true
 - id: friend
   name: Friend
   series: 20th-century-boys
@@ -343,7 +354,8 @@
   series: watership-down
 - id: george-washington
   name: George Washington
-  series: real-life
+  series: history
+  real: true
 - id: ghostface
   name: Ghostface
   series: scream
@@ -384,7 +396,8 @@
   series: 18-levels-of-hell
 - id: hannibal
   name: Hannibal
-  series: real-life
+  series: history
+  real: true
 - id: hannibal-lecter
   name: Hannibal Lecter
   series: hannibal
@@ -408,7 +421,8 @@
   series: five-nights-at-freddy-s
 - id: hernan-cortes
   name: Hernán Cortés
-  series: real-life
+  series: history
+  real: true
 - id: hiroyuki-igawa
   name: Hiroyuki Igawa
   series: hero-akagi-no-ishi-o-tsugu-otoko
@@ -442,7 +456,8 @@
   series: jurassic-world
 - id: innocent-iii
   name: Innocent III
-  series: real-life
+  series: history
+  real: true
 - id: inspector-tsukumo
   name: Inspector Tsukumo
   series: massacre-happy-end
@@ -459,6 +474,7 @@
 - id: issei-okabe
   name: Issei Okabe
   series: real-life
+  real: true
 - id: itachi-uchiha
   name: Itachi Uchiha
   series: naruto
@@ -551,7 +567,8 @@
   series: apex-predator
 - id: juan-pujol
   name: Juan Pujol
-  series: real-life
+  series: history
+  real: true
 - id: junko-enoshima
   name: Junko Enoshima
   series: danganronpa
@@ -598,7 +615,8 @@
   series: jujutsu-kaisen
 - id: khalid-ibn-al-walid
   name: Khalid ibn al-Walid
-  series: real-life
+  series: history
+  real: true
 - id: kiara-sessyoin
   name: Kiara Sessyoin
   series: fate
@@ -645,7 +663,8 @@
   series: lord-of-the-mysteries
 - id: klemens-von-metternich
   name: Klemens von Metternich
-  series: real-life
+  series: history
+  real: true
 - id: kokichi-oma
   name: Kokichi Oma
   series: danganronpa
@@ -690,6 +709,7 @@
 - id: leo
   name: Leo
   series: null
+  real: true
 - id: leonard-church
   name: Leonard Church
   series: red-vs-blue
@@ -851,7 +871,8 @@
   series: death-note
 - id: napoleon-bonaparte
   name: Napoleon Bonaparte
-  series: real-life
+  series: history
+  real: true
 - id: narak
   name: Narak
   series: null
@@ -863,6 +884,7 @@
 - id: nettspend
   name: Nettspend
   series: real-life
+  real: true
 - id: neuro-nougami
   name: Neuro Nougami
   series: neuro-supernatural-detective
@@ -872,6 +894,7 @@
 - id: nikocado-avocado
   name: Nikocado Avocado
   series: real-life
+  real: true
 - id: nina-stingray
   name: Nina Stingray
   series: lies-fraud-and-psychic-ability-school
@@ -898,7 +921,8 @@
   series: honkai-impact-3rd
 - id: otto-von-bismarck
   name: Otto von Bismarck
-  series: real-life
+  series: history
+  real: true
 - id: ozymandias
   name: Ozymandias
   series: dc-comics
@@ -1045,7 +1069,8 @@
   series: classroom-of-the-elite
 - id: scipio-africanus
   name: Scipio Africanus
-  series: real-life
+  series: history
+  real: true
 - id: scp-035
   name: SCP-035
   series: scp-foundation
@@ -1102,7 +1127,8 @@
   series: the-detective-is-already-dead
 - id: skanderbeg
   name: Skanderbeg
-  series: real-life
+  series: history
+  real: true
 - id: slevin-kelevra
   name: Slevin Kelevra
   series: lucky-number-slevin
@@ -1135,7 +1161,8 @@
   series: re-zero
 - id: subutai
   name: Subutai
-  series: real-life
+  series: history
+  real: true
 - id: suteguma-satoru
   name: Suteguma Satoru
   series: usogui
@@ -1156,7 +1183,8 @@
   series: classroom-of-the-elite
 - id: talleyrand
   name: Talleyrand
-  series: real-life
+  series: history
+  real: true
 - id: tanya-von-degurechaff
   name: Tanya von Degurechaff
   series: the-saga-of-tanya-the-evil
@@ -1169,6 +1197,7 @@
 - id: technoblade
   name: Technoblade
   series: minecraft
+  real: true
 - id: terence-fletcher
   name: Terence Fletcher
   series: whiplash
@@ -1244,7 +1273,8 @@
   series: v-for-vendetta
 - id: victor-lustig
   name: Victor Lustig
-  series: real-life
+  series: history
+  real: true
 - id: vincent-lalo
   name: Vincent Lalo
   series: usogui
@@ -1277,7 +1307,8 @@
   series: ace-attorney
 - id: wu-zetian
   name: Wu Zetian
-  series: real-life
+  series: history
+  real: true
 - id: xing-su
   name: Xing Su
   series: reverend-insanity

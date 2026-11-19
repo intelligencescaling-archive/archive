@@ -13,7 +13,8 @@ series:
 - monster
 characters:
 - johan-liebert
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

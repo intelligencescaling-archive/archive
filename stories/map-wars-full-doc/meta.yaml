@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: map-wars-full-doc
+category: story
+title: Map Wars Full Doc
+authors: []
+shared_by:
+- name: LosuthusWasTaken
+  reddit: LosuthusWasTaken
+  id: losuthuswastaken
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- game
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Tx5RAllXpKmHAK7W6PjRl6D_BHlfWVSDHVeGUWz0GZc
+    google_id: 1Tx5RAllXpKmHAK7W6PjRl6D_BHlfWVSDHVeGUWz0GZc
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 30
+    words: 13279
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6631359
+      sha256: b63fda3188e6f150fb8da9585fa5832b2379f0d6ff78101d2221e0b58fb350ab
+    - format: docx
+      name: document.docx
+      bytes: 5695517
+      sha256: c0f4459d602ee4c2a2634320a40a18e5b0b3e825696b1067dbd9f44f47f04384
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1x9yjpu/_/phs397p/
+  note: 'Shared by u/LosuthusWasTaken in a comment on 2026-10-19: I don''t mind at all, take the [whole verse](https://docs.google.com/document/d/1'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-sisyphus-loop-plan
+category: doc
+title: The Sisyphus Loop Plan
+authors: []
+shared_by:
+- name: No_Woodpecker_1801
+  reddit: No_Woodpecker_1801
+  id: no-woodpecker-1801
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1UzCPSqmkTKZVpxvWVKO-BruO8jTO05uH7ucErjslh64
+    google_id: 1UzCPSqmkTKZVpxvWVKO-BruO8jTO05uH7ucErjslh64
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 18
+    words: 2853
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2518997
+      sha256: 887268fd877b7d7cb195c1a9ae536e95da6e39cd8947f3755e8bc698480d3d7f
+    - format: docx
+      name: document.docx
+      bytes: 4880645
+      sha256: 48d20ed00e46cc86bb9e586aa8126d12718a013832ae6650b50d202ace2e120d
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1wdkxvf/
+  note: 'Shared by u/No_Woodpecker_1801 in a post on 2026-09-11: A little teaser...'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

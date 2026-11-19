@@ -14,7 +14,8 @@ series:
 - saw
 characters:
 - john-kramer
-tags: []
+tags:
+- feats
 language: en
 completion: finished
 parts:

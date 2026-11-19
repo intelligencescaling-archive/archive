@@ -10,7 +10,8 @@ series:
 - fate
 characters:
 - sherlock-holmes-fate
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:

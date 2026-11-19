@@ -13,7 +13,8 @@ series:
 - se7en
 characters:
 - john-doe
-tags: []
+tags:
+- analysis
 language: en
 completion: unknown
 parts:
