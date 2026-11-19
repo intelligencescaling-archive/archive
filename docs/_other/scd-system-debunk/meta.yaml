@@ -3,7 +3,10 @@ schema_version: 1
 id: scd-system-debunk
 category: doc
 title: SCD SYSTEM DEBUNK
-authors: []
+authors:
+- name: trahai
+  id: trahai
+  source: doc-text
 shared_by:
 - name: TopEconomics1897
   reddit: TopEconomics1897
@@ -46,6 +49,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

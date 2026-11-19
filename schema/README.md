@@ -86,7 +86,8 @@ notes: ''                          # optional free text
 - **Docs always go under `docs/`**, even if they're also a tier list or similar.
 - **Multi-part items** (a story in chapters, a doc split across files) are one entry with several `parts`.
 - **Authors:** record whatever is known. Use the name shown on the doc, plus the Reddit username if known.
-  Contact handles (Discord, email) are not stored. Each credit's `id` points to one person in
+  A maker who names themself only by a contact handle ("my discord is X") is credited under that handle, and
+  the handle goes in their record's `contacts` (below). Emails and phone numbers are never stored. Each credit's `id` points to one person in
   `data/authors.yaml`, so one person credited under several names (a display name, a Reddit handle, an old
   username) is still one author.
 - **Shared by:** when a doc was found through a Reddit post or comment and neither the doc nor the post shows
@@ -108,7 +109,18 @@ notes: ''                          # optional free text
   aliases: [Due_Ad8834]          # other names and spellings the person is credited under
   reddit: [Due_Ad8334]           # their Reddit username(s), without u/
   note: "'Made by TheNoo (u/Due_Ad8334)'"   # optional: why these names are one person
+  contacts:                      # optional: where the person can be found, from their own docs
+  - platform: discord            # discord, telegram, reddit, twitter, youtube, tiktok or other
+    handle: thenoo_              # the username as written, without quotes or a leading "@"
+  - platform: other
+    label: Instagram             # required for platform other
+    handle: thenoo
 ```
+
+`contacts` lists only handles a person wrote in their own doc as their contact or account ("Discord: x",
+"my cord is x", "x on TikTok"). Never a helper's handle, a server invite, an email, a phone number or a
+numeric Discord ID. Reddit usernames stay in `reddit`. Each contact was taken from a quoted line in one of the
+person's entries, and `validate.py` checks the format.
 
 A credit belongs to a record when its Reddit handle is in `reddit`, or else its name is the record's name, an
 alias or a handle (any case). A name match is not used when the credit's Reddit handle differs from the

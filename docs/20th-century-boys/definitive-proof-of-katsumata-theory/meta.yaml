@@ -3,7 +3,10 @@ schema_version: 1
 id: definitive-proof-of-katsumata-theory
 category: doc
 title: Definitive Proof of Katsumata Theory
-authors: []
+authors:
+- name: .clouds__
+  id: clouds
+  source: doc-text
 shared_by:
 - name: lzyaboiConnor
   reddit: lzyaboiConnor
@@ -48,6 +51,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

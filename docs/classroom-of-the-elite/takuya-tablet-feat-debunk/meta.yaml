@@ -5,7 +5,10 @@ category: doc
 title: Takuya Tablet Feat Debunk
 alt_titles:
 - Tablet Feat Debunk (Summarized)
-authors: []
+authors:
+- name: tertywater
+  id: tertywater
+  source: doc-text
 series:
 - classroom-of-the-elite
 characters:
@@ -42,5 +45,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

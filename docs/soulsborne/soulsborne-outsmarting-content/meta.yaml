@@ -3,7 +3,10 @@ schema_version: 1
 id: soulsborne-outsmarting-content
 category: doc
 title: SOULSBORNE OUTSMARTING CONTENT
-authors: []
+authors:
+- name: joshisidk
+  id: joshisidk
+  source: doc-text
 series:
 - soulsborne
 characters: []
@@ -41,5 +44,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

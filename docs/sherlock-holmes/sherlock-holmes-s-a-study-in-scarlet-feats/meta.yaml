@@ -5,7 +5,10 @@ category: doc
 title: Sherlock Holmes's "A Study In Scarlet" Feats
 alt_titles:
 - Sherlock Holmes's "A study in Scarlet feat"
-authors: []
+authors:
+- name: JesutaRei
+  id: jesutarei
+  source: doc-text
 series:
 - sherlock-holmes
 characters:
@@ -49,5 +52,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

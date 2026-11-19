@@ -6,7 +6,10 @@ title: L Lawliet's scheming
 alt_titles:
 - L Lawliet Face Reveal Strategy
 - Face Reveal Strategy
-authors: []
+authors:
+- name: v1nsand
+  id: v1nsand
+  source: doc-text
 series:
 - death-note
 characters:
@@ -48,5 +51,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

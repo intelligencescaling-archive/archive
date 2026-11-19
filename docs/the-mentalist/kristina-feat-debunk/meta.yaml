@@ -5,7 +5,10 @@ category: doc
 title: Kristina feat debunk
 alt_titles:
 - RJ's Kristina feat debunk
-authors: []
+authors:
+- name: riverflowsinyou_
+  id: riverflowsinyou
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -47,5 +50,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

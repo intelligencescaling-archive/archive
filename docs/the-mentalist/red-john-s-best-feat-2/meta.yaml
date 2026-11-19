@@ -3,7 +3,10 @@ schema_version: 1
 id: red-john-s-best-feat-2
 category: doc
 title: Red John's Best Feat
-authors: []
+authors:
+- name: v1nsand
+  id: v1nsand
+  source: doc-text
 shared_by:
 - name: brunchbois
   reddit: brunchbois
@@ -50,6 +53,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -27,10 +27,23 @@
   - Admirable-Yak2806
 - id: agent-ct8kv
   name: AGENT-ct8kv
+  contacts:
+  - platform: discord
+    handle: agentct8kv
 - id: agentmcbacon
   name: AgentMcBacon
+  contacts:
+  - platform: discord
+    handle: mcbacon_
 - id: agentnemo
   name: AgentNemo
+  contacts:
+  - platform: tiktok
+    handle: ihavethebesttakeslol
+  - platform: tiktok
+    handle: agentnemo0
+  - platform: youtube
+    handle: DrJoeNH-x4z
 - id: aimrjeremy
   name: AimRJeremy
 - id: airwaymaxxer
@@ -41,6 +54,9 @@
   name: ajakaki
   reddit:
   - ajakaki
+  contacts:
+  - platform: discord
+    handle: captainphilip_
 - id: ajjsjsns
   name: Ajjsjsns
   aliases:
@@ -68,16 +84,31 @@
   note: C4
 - id: angelotbg
   name: angelotbg_
+  contacts:
+  - platform: discord
+    handle: angelotbg_
+  - platform: tiktok
+    handle: angelotbg_
 - id: angerissue
   name: AngerIssue
 - id: animangamastarmedia
   name: AniMangaMastarMedia
 - id: anition
   name: Anition
+  contacts:
+  - platform: discord
+    handle: anition.
+  - platform: youtube
+    handle: Yohan_
 - id: annualfrequent7426
   name: AnnualFrequent7426
   reddit:
   - AnnualFrequent7426
+- id: anythingperson
+  name: AnythingPerson
+  contacts:
+  - platform: discord
+    handle: anythingperson
 - id: aphelios
   name: Aphelios
 - id: aphelios-aep-on-tt
@@ -87,14 +118,25 @@
   aliases:
   - Apos
   note: '''Created by: Apóstolos (Apos)'''
+  contacts:
+  - platform: discord
+    handle: ozimandiazz
+  - platform: discord
+    handle: theessences
 - id: appropriaterub6185
   name: AppropriateRub6185
   reddit:
   - AppropriateRub6185
+  contacts:
+  - platform: discord
+    handle: ninooooo4265
 - id: aquitosias
   name: Aquitosias
   reddit:
   - Aquitosias
+  contacts:
+  - platform: discord
+    handle: zevahn2
 - id: arcadia
   name: Arcadia
 - id: ardent-west
@@ -107,12 +149,20 @@
   - armagedon--
 - id: arthen
   name: Arthen
+  contacts:
+  - platform: discord
+    handle: svakeloo
+  - platform: tiktok
+    handle: arthenam
 - id: arvinsins
   name: arvinsins
   reddit:
   - arvinsins
 - id: aryan
   name: Aryan
+  contacts:
+  - platform: discord
+    handle: moniakatsu
 - id: aryanakane
   name: Aryanakane
 - id: asideok1035
@@ -123,6 +173,11 @@
   name: Asinsio
 - id: asinsiofr
   name: Asinsiofr
+- id: atrox8668
+  name: atrox8668
+  contacts:
+  - platform: discord
+    handle: atrox8668
 - id: aufseher
   name: Aufseher
 - id: awaken
@@ -145,6 +200,11 @@
   name: Banesmanifold
 - id: berl1863
   name: berl1863
+  contacts:
+  - platform: discord
+    handle: berl1863
+  - platform: tiktok
+    handle: icnav
 - id: berl8989
   name: berl8989
 - id: beyond
@@ -157,8 +217,14 @@
   name: Biggy121212
   reddit:
   - Biggy121212
+  contacts:
+  - platform: discord
+    handle: suha008
 - id: bittus
   name: Bittus
+  contacts:
+  - platform: discord
+    handle: Bittus
 - id: blank-face
   name: blank face
 - id: blazi
@@ -182,16 +248,28 @@
   reddit:
   - BudgetPosition6080
   note: 'C1: docs in BudgetPosition6080''s ''DOCS I MADE'' section say ''created by me @hypervenomxtreme'''
+  contacts:
+  - platform: discord
+    handle: hypervenomxtreme2.0
 - id: business-island-7993
   name: Business_Island_7993
   reddit:
   - Business_Island_7993
+  contacts:
+  - platform: discord
+    handle: vasileuz
 - id: c
   name: -C-
 - id: calcu
   name: Calcu
+  contacts:
+  - platform: discord
+    handle: hu_tao0743_69293
 - id: calculadora
   name: Calculadora
+  contacts:
+  - platform: discord
+    handle: hu_tao0743_69293
 - id: captain-timo
   name: Captain Timo
 - id: cardlampp
@@ -204,6 +282,9 @@
   name: Cento
 - id: cheatspeed
   name: Cheatspeed
+  contacts:
+  - platform: discord
+    handle: yildizya
 - id: checkmate
   name: Checkmate
 - id: checkmate-71
@@ -216,10 +297,20 @@
   name: chilpalendo
 - id: chronos
   name: Chronos
+  contacts:
+  - platform: discord
+    handle: Chronos.Fear
 - id: chunam
   name: ChuNam
 - id: clauver
   name: Clauver
+  contacts:
+  - platform: discord
+    handle: _Clauver
+  - platform: tiktok
+    handle: Jakeluvok
+  - platform: tiktok
+    handle: jakeluvwok
 - id: clauverctw
   name: clauverctw
 - id: cleax
@@ -230,6 +321,11 @@
   name: Cloud
 - id: cloud-s
   name: Cloud(s)
+- id: clouds
+  name: .clouds__
+  contacts:
+  - platform: discord
+    handle: .clouds__
 - id: connor
   name: Connor
 - id: conversationsea1684
@@ -238,6 +334,9 @@
   - ConversationSea1684
 - id: coolguy
   name: Coolguy
+  contacts:
+  - platform: discord
+    handle: Coolguy
 - id: cotefan456
   name: cotefan456
 - id: counterkouji
@@ -253,6 +352,13 @@
   - Creepy-Ebb-3026
 - id: ctrl
   name: ctrl
+- id: ctwlsolo
+  name: ctwlsolo
+  contacts:
+  - platform: telegram
+    handle: ctwlsolo
+  - platform: tiktok
+    handle: ctwmoonlsolokoji
 - id: cucharoth
   name: Cucharoth
 - id: d0ntkn0wmyself
@@ -278,10 +384,18 @@
   name: DDY
 - id: dedu-ly-britannia
   name: Dedu Ly Britannia
+  contacts:
+  - platform: youtube
+    handle: Dedu Ly Britannia
+  - platform: discord
+    handle: dedu_ly_britannia
 - id: deducing-analyst
   name: Deducing_Analyst
 - id: deducing-analyst-reawakened
   name: Deducing Analyst Reawakened
+  contacts:
+  - platform: discord
+    handle: Deducing_Analyst
 - id: deletinredditsoon
   name: DeletinRedditsoon
   reddit:
@@ -307,12 +421,23 @@
   name: Dilly
 - id: dimen-sensei
   name: Dimen-sensei
+- id: dita1led
+  name: dita1led
+  contacts:
+  - platform: discord
+    handle: dita1led
 - id: dl-detective-lawliet
   name: DL (Detective Lawliet)
 - id: domino
   name: Domino
+  contacts:
+  - platform: discord
+    handle: dominoo___
 - id: dominoo
   name: Dominoo
+  contacts:
+  - platform: discord
+    handle: dominoo___
 - id: drmillmatt
   name: DrMillMatt
 - id: druxzy
@@ -326,6 +451,9 @@
   note: '''Made by TheNoo (u/Due_Ad8334)''; Due_Ad8834 is a typo in one doc'
 - id: dustrustguts
   name: DustRustGuts
+  contacts:
+  - platform: youtube
+    handle: EternalEditor10
 - id: dutloto
   name: Dutloto
 - id: economy-echo-8500
@@ -369,14 +497,23 @@
   name: ExPsy-dr3
   reddit:
   - ExPsy-dr3
+  contacts:
+  - platform: discord
+    handle: _c3301n_
 - id: fall
   name: Fall
+  contacts:
+  - platform: discord
+    handle: 8Fall
 - id: far-transition-1599
   name: Far_Transition_1599
   reddit:
   - Far_Transition_1599
 - id: farhen007
   name: Farhen007
+  contacts:
+  - platform: discord
+    handle: farhen007
 - id: fatedaa
   name: FateDaA
   reddit:
@@ -410,6 +547,9 @@
   - FootlessBird17
 - id: forallposterity
   name: ForAllPosterity
+  contacts:
+  - platform: discord
+    handle: forallposterity
 - id: fran
   name: Fran
 - id: freddy-fivebear
@@ -450,6 +590,11 @@
   name: ghostdog
 - id: ghs
   name: ghs
+  contacts:
+  - platform: youtube
+    handle: ghs48
+  - platform: discord
+    handle: ghs48_
 - id: goatkami
   name: GoatKami
 - id: gold-leadership1844
@@ -468,10 +613,23 @@
   name: Grüner Drache
 - id: gustavo
   name: Gustavo
+  contacts:
+  - platform: discord
+    handle: gustavof43
+  - platform: youtube
+    handle: Gusstv48
 - id: gustavo-sborz
   name: Gustavo Sborz
+  contacts:
+  - platform: discord
+    handle: gustavof43
 - id: gxthie
   name: GXTHIE
+  contacts:
+  - platform: youtube
+    handle: GXTHIE
+  - platform: discord
+    handle: r0xxiee
 - id: hal-lallo
   name: Hal Lallo
 - id: hans
@@ -497,12 +655,24 @@
   note: C4
 - id: hellothere1089
   name: HelloThere1089
+  contacts:
+  - platform: discord
+    handle: hellothere1089
 - id: herald
   name: Herald
+  contacts:
+  - platform: discord
+    handle: solosyourfavourite
 - id: hideedit
   name: HideEdit
+  contacts:
+  - platform: discord
+    handle: hideedit
 - id: hiroishere
   name: HiroIsHere
+  contacts:
+  - platform: discord
+    handle: ishere_271
 - id: historical-fun-2618
   name: Historical-Fun-2618
   reddit:
@@ -513,12 +683,20 @@
   name: Horror
 - id: horrorhistory
   name: horrorhistory
+  contacts:
+  - platform: discord
+    handle: horrorhistory
+  - platform: tiktok
+    handle: horrorhistory_77
 - id: horrormente
   name: horrormente
 - id: hour-reach7418
   name: Hour-Reach7418
   reddit:
   - Hour-Reach7418
+  contacts:
+  - platform: youtube
+    handle: Hour Reach
 - id: hourframe9349
   name: HourFrame9349
 - id: huegexick
@@ -565,6 +743,9 @@
   name: Jagger
 - id: jaiben
   name: Jaiben
+  contacts:
+  - platform: discord
+    handle: jaiben.on
 - id: jalias
   name: Jalias
 - id: jarionn
@@ -580,6 +761,9 @@
   aliases:
   - Toke
   note: '''I''m Javier/Toke'''
+  contacts:
+  - platform: discord
+    handle: .javierdzr
 - id: jaychef
   name: JayChef
 - id: jazzlike-peanut-2792
@@ -588,6 +772,13 @@
   - Jazzlike_Peanut_2792
 - id: jdp
   name: JDP
+- id: jesutarei
+  name: JesutaRei
+  contacts:
+  - platform: telegram
+    handle: JesutaRei
+  - platform: discord
+    handle: JesutaRei
 - id: jibril
   name: Jibril
 - id: joeri
@@ -598,6 +789,11 @@
   name: JoJolon
 - id: jonas
   name: Jonas
+- id: joshisidk
+  name: joshisidk
+  contacts:
+  - platform: discord
+    handle: joshisidk
 - id: joshy-montage
   name: Joshy_Montage
   reddit:
@@ -617,6 +813,11 @@
   reddit:
   - EggApprehensive7792
   note: 'C6: u/EggApprehensive7792 posted ''My Doc on Yuki Sorimachi'', the doc credits Kakarot362'
+- id: karl-evreyskiy
+  name: karl_evreyskiy
+  contacts:
+  - platform: discord
+    handle: karl_evreyskiy
 - id: kasm-1337
   name: Kasm.1337
   aliases:
@@ -637,6 +838,11 @@
   aliases:
   - kingdod69
   note: 'C9: ''Creator Info: Discord: lilcbum, TikTok: kingdod69'''
+  contacts:
+  - platform: discord
+    handle: lilcbum
+  - platform: tiktok
+    handle: kingdod69
 - id: kingjaymes1234
   name: kingjaymes1234
   reddit:
@@ -659,6 +865,9 @@
   reddit:
   - KitchenCoyote_The2nd
   note: 'C3: ''Made by-KC Axolotal/KitchenCoyote7942'' (12 docs)'
+  contacts:
+  - platform: discord
+    handle: Axolotol404
 - id: kiyokouji
   name: Kiyokouji
 - id: kokichi
@@ -669,6 +878,9 @@
   name: Kxngkarma17
 - id: kylizz
   name: Kylizz
+  contacts:
+  - platform: discord
+    handle: alexanderwinslow
 - id: lackluster677777
   name: Lackluster677777
 - id: last-trainer-3323
@@ -679,12 +891,21 @@
   note: C4 typo
 - id: lawlietfym
   name: Lawlietfym
+  contacts:
+  - platform: discord
+    handle: Lawlietfym
 - id: lena-fox8
   name: Lena_Fox8
+  contacts:
+  - platform: discord
+    handle: Lena_fox5
 - id: lenaisapeak
   name: Lenaisapeak
 - id: leo
   name: Leo
+  contacts:
+  - platform: discord
+    handle: mightbeleo_
 - id: less-puddingdrawer
   name: Less_Puddingdrawer
   aliases:
@@ -696,6 +917,9 @@
   - Equal_Custard0
   - greaterthanhelafnrjs
   note: 'maintainer 2026-11-18: Less_Puddingdrawer = Equal_Custard0 = Luigiderchad2.0 = u/greaterthanhelafnrjs (one person)'
+  contacts:
+  - platform: discord
+    handle: Db_Puddingdrawer
 - id: lesti-chan
   name: Lesti-Chan
 - id: lexyo
@@ -724,6 +948,11 @@
   name: Luga
 - id: lyrl1998
   name: Lyrl1998
+  contacts:
+  - platform: discord
+    handle: lyrl__1998
+  - platform: youtube
+    handle: Lyrl1998
 - id: lzyaboiconnor
   name: lzyaboiConnor
   reddit:
@@ -740,8 +969,14 @@
   name: Marco
 - id: marco-123
   name: marco.123
+  contacts:
+  - platform: discord
+    handle: marco.123_
 - id: maskoftheruler
   name: maskoftheruler
+  contacts:
+  - platform: discord
+    handle: maskoftheruler
 - id: mastermind
   name: Mastermind
 - id: mathematicianone4197
@@ -778,6 +1013,9 @@
   name: mentalist
 - id: meo
   name: Meo
+  contacts:
+  - platform: discord
+    handle: Meo#6806
 - id: meo6806
   name: Meo6806
 - id: mightbeleo
@@ -807,6 +1045,9 @@
   - Mohammedamine9
 - id: monochrometrav-discord
   name: monochrometrav-Discord
+  contacts:
+  - platform: discord
+    handle: monochrometrav
 - id: morreti-amon
   name: Morreti_Amon
 - id: mrnotme
@@ -815,8 +1056,14 @@
   - Detective Notme
   - DC-Mrnotme
   note: '''created by the One & Only Mrnotme/Detective Notme''; ''By DC-Mrnotme (me :D)'''
+  contacts:
+  - platform: discord
+    handle: thatguyisprobablynotme
 - id: muaaz
   name: Muaaz
+  contacts:
+  - platform: discord
+    handle: muaaze
 - id: mugen
   name: Mugen
 - id: murky-possibility655
@@ -843,6 +1090,11 @@
   name: Nazif2
   reddit:
   - Nazif2
+- id: nd1881
+  name: nd1881
+  contacts:
+  - platform: discord
+    handle: nd1881
 - id: near-stagnation-1599
   name: Near_Stagnation_1599
   reddit:
@@ -869,6 +1121,9 @@
   name: Nino_IQ
   reddit:
   - Nino_IQ
+  contacts:
+  - platform: discord
+    handle: ninonous
 - id: no-engineering-3223
   name: No_Engineering_3223
   reddit:
@@ -885,12 +1140,20 @@
   name: Noobyeditz
 - id: northystar8
   name: Northystar8
+  contacts:
+  - platform: discord
+    handle: northyisthorallo
 - id: noscar2207
   name: NoScar2207
   reddit:
   - NoScar2207
 - id: notme
   name: Notme
+  contacts:
+  - platform: discord
+    handle: thatguyisprobablynotme
+  - platform: youtube
+    handle: DetectiveNotme
 - id: nox
   name: Nox
 - id: 'null'
@@ -936,6 +1199,11 @@
   - Ornery_List_6670
 - id: oro
   name: Oro
+  contacts:
+  - platform: youtube
+    handle: luhcalmOro
+  - platform: tiktok
+    handle: luhcalmOro
 - id: osbis
   name: Osbis
 - id: overlordthresh
@@ -954,6 +1222,11 @@
   name: PerdidoNasRealidade
   reddit:
   - PerdidoNasRealidade
+  contacts:
+  - platform: discord
+    handle: PerdidoNasRealidades
+  - platform: discord
+    handle: Lostinrealityss
 - id: phoenix-animationz
   name: Phoenix Animationz
 - id: pick-me-gal-1092
@@ -1000,10 +1273,16 @@
   name: qwerty_8732
 - id: rain
   name: Rain
+  contacts:
+  - platform: discord
+    handle: divinerain5956
 - id: raiontoku
   name: raiontoku
 - id: ranpo-editz
   name: ranpo_Editz
+  contacts:
+  - platform: discord
+    handle: ranpo_Editz
 - id: ranposano
   name: Ranposano
 - id: ratjoe
@@ -1048,6 +1327,9 @@
   reddit:
   - ReverseFlash928
   note: '''By Bruh004 (u/ReverseFlash928)'''
+  contacts:
+  - platform: discord
+    handle: enderdragom2645
 - id: rf532
   name: RF532
 - id: rian
@@ -1064,6 +1346,11 @@
   name: Rinnovo
 - id: river
   name: River
+- id: riverflowsinyou
+  name: riverflowsinyou_
+  contacts:
+  - platform: discord
+    handle: riverflowsinyou_.
 - id: robert
   name: Robert
 - id: rollonotover
@@ -1076,6 +1363,9 @@
   - RussAltianSanes
 - id: ryu
   name: Ryu
+  contacts:
+  - platform: discord
+    handle: ryushiro8
 - id: saggezman
   name: saggezman
 - id: sahejunderheaven
@@ -1108,8 +1398,16 @@
   note: C4
 - id: scroll
   name: scroll
+  contacts:
+  - platform: discord
+    handle: _.scroll._
 - id: scytherzilla
   name: ScytherZilla
+  contacts:
+  - platform: discord
+    handle: scytherzilla360
+  - platform: youtube
+    handle: scytherzilla360
 - id: secure-camp1433
   name: Secure-Camp1433
   reddit:
@@ -1132,14 +1430,25 @@
   name: Shadow_Death
 - id: shin
   name: Shin
+  contacts:
+  - platform: discord
+    handle: moniakatsu
+  - platform: discord
+    handle: holixism
 - id: shoslovelytechred
   name: Shoslovelytechred
   reddit:
   - Shoslovelytechred
+  contacts:
+  - platform: discord
+    handle: TechMeo
 - id: sido75
   name: sido75
 - id: sieben
   name: Sieben
+  contacts:
+  - platform: discord
+    handle: sieben_guts
 - id: signal-experience315
   name: Signal-Experience315
   reddit:
@@ -1168,6 +1477,9 @@
   name: Slick_editzz
 - id: slick-editzzz
   name: slick_editzzz
+  contacts:
+  - platform: discord
+    handle: slick_editzzz
 - id: smittenbychabs
   name: SmittenbyChabs
   reddit:
@@ -1197,6 +1509,9 @@
   reddit:
   - SoundStorm7
   note: C4
+  contacts:
+  - platform: discord
+    handle: soundstorm7
 - id: spinosaurus23
   name: Spinosaurus23
   reddit:
@@ -1247,6 +1562,14 @@
   name: Tearé
 - id: techmeo
   name: TechMeo
+  contacts:
+  - platform: discord
+    handle: TechMeo
+- id: tertywater
+  name: tertywater
+  contacts:
+  - platform: discord
+    handle: tertywater
 - id: teru
   name: Teru
 - id: teyfik
@@ -1279,6 +1602,9 @@
   name: TheKingStrategist13
 - id: theller
   name: Theller
+  contacts:
+  - platform: discord
+    handle: theller
 - id: thenamelessmonster
   name: TheNamelessMonster_-
   reddit:
@@ -1316,6 +1642,14 @@
   - TopEconomics1897
 - id: toxico
   name: Toxico
+  contacts:
+  - platform: discord
+    handle: harrypotter123
+- id: trahai
+  name: trahai
+  contacts:
+  - platform: discord
+    handle: trahai
 - id: travelingzebra
   name: TravelingZebra
 - id: trd
@@ -1326,10 +1660,33 @@
   name: umogrimes
 - id: umontrose
   name: umontrose
+  contacts:
+  - platform: discord
+    handle: umontrose
+  - platform: youtube
+    handle: umontrose
+  - platform: tiktok
+    handle: umontrose
 - id: universal
   name: Universal
 - id: unknownuser
   name: unknownuser
+  contacts:
+  - platform: tiktok
+    handle: unknownusereditz_
+  - platform: discord
+    handle: unknownuser016360
+  - platform: youtube
+    handle: idkiforgot999
+- id: unsophiscatedsophist
+  name: UnsophiscatedSophist
+  contacts:
+  - platform: discord
+    handle: flapjackking.
+  - platform: youtube
+    handle: UnsophiscatedSophist
+  - platform: tiktok
+    handle: UnsophiscatedSophist
 - id: upperlvl898
   name: upperlvl898
   reddit:
@@ -1338,6 +1695,11 @@
   name: Usoguitard
   reddit:
   - Usoguitard
+- id: v1nsand
+  name: v1nsand
+  contacts:
+  - platform: discord
+    handle: v1nsand
 - id: v5mk
   name: v5mk
 - id: valxn1e
@@ -1348,6 +1710,9 @@
   name: Velquinn
 - id: velvet
   name: Velvet
+  contacts:
+  - platform: discord
+    handle: reddest_velvet_
 - id: veneno
   name: Veneno
   reddit:
@@ -1382,6 +1747,11 @@
   - Voidset_
 - id: vquip
   name: VQuip
+- id: vvatzs
+  name: vvatzs
+  contacts:
+  - platform: discord
+    handle: vvatzs
 - id: wai
   name: WAI
 - id: waltwhite62
@@ -1403,6 +1773,11 @@
   name: Whitty
 - id: whynot5534
   name: Whynot5534
+  contacts:
+  - platform: youtube
+    handle: Whynot5534
+  - platform: discord
+    handle: whynot_223
 - id: wonderline
   name: wonderline
 - id: xamot113
@@ -1411,10 +1786,21 @@
   - Xamot113
 - id: xd-killa79xx
   name: xd_killa79xx
+  contacts:
+  - platform: discord
+    handle: xd_killa79xx
 - id: xdwasgone
   name: XDwasGone
+  contacts:
+  - platform: discord
+    handle: XDwasGone
 - id: xorpaw
   name: XorPaw
+  contacts:
+  - platform: discord
+    handle: XorPaw
+  - platform: youtube
+    handle: XorPaw
 - id: xxshigurimaxx
   name: XxshigurimaxX
   aliases:
@@ -1431,12 +1817,18 @@
   - YujinDoro
 - id: yunodiaryy
   name: yunodiaryy
+  contacts:
+  - platform: discord
+    handle: yunodiaryy
 - id: yusha
   name: Yusha
 - id: yuuichigiri
   name: YuuichiGiri
 - id: zandro
   name: Zandro
+  contacts:
+  - platform: discord
+    handle: zandro0232
 - id: zef
   name: Zef
 - id: zerozeroma
@@ -1451,6 +1843,9 @@
   - zolox0
 - id: zruft
   name: Zruft
+  contacts:
+  - platform: discord
+    handle: Talabat
 - id: zz-zz9he
   name: ZZ_Zz9he
   reddit:
@@ -1459,5 +1854,12 @@
   name: Zz11xr
 - id: zz9he
   name: Zz9he
+  contacts:
+  - platform: tiktok
+    handle: zz9he
+  - platform: discord
+    handle: human2574
+  - platform: youtube
+    handle: Human-Zz9he
 - id: zz9he-for-topman
   name: zz9he for topman

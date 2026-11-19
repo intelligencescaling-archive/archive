@@ -5,7 +5,10 @@ category: doc
 title: Connor exaFLOPS/exaOPS CPI feat
 alt_titles:
 - Connor Exaflop CPI Feat
-authors: []
+authors:
+- name: dita1led
+  id: dita1led
+  source: doc-text
 series:
 - detroit-become-human
 characters:
@@ -45,5 +48,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

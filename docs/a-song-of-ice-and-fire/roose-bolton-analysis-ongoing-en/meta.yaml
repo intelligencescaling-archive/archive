@@ -5,7 +5,10 @@ category: doc
 title: Roose Bolton analysis (ongoing) (en)
 alt_titles:
 - Roose Bolton
-authors: []
+authors:
+- name: karl_evreyskiy
+  id: karl-evreyskiy
+  source: doc-text
 series:
 - a-song-of-ice-and-fire
 characters:
@@ -44,5 +47,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

@@ -5,6 +5,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
   - docs live in docs/<first series>/<id>/ (or docs/_other/<id>/ with no series); stories in stories/<id>/
   - every series and character id exists in data/series.yaml / data/characters.yaml
   - every author/shared_by `id` exists in data/authors.yaml, and no Reddit handle belongs to two people
+  - people's `contacts` use a known platform and a plain username (no '@', emails, phone numbers or IDs)
   - each series' origin_language is a 2-letter code or `real` (a missing one is only a warning)
   - every tag exists in data/tags.yaml; 1 to 3 tags besides meta tags; implied tags are present;
     the `story` tag and category `story` go together; characters' `real` is true/false
@@ -13,6 +14,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
 Usage: python scripts/validate.py [repo-root]     (exit code 1 if anything is wrong)
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -20,6 +22,8 @@ import yaml
 from jsonschema import Draft202012Validator
 
 ALLOWED_FILES = {"meta.yaml"}
+CONTACT_PLATFORMS = ("discord", "telegram", "reddit", "twitter", "youtube", "tiktok", "other")
+EMAIL = re.compile(r"\S+@\S+\.\w+")
 
 
 def main():
@@ -65,6 +69,27 @@ def main():
             errors.append(f"data/characters.yaml: {c['id']}: real should be true or false")
         if c.get("series") and c["series"] not in series:
             errors.append(f"data/characters.yaml: {c['id']}: unknown series {c['series']}")
+    for a in people.values():
+        cs = a.get("contacts")
+        if cs is None:
+            continue
+        if not isinstance(cs, list) or not cs:
+            errors.append(f"data/authors.yaml: {a['id']}: contacts should be a non-empty list")
+            continue
+        for c in cs:
+            where = f"data/authors.yaml: {a['id']}: contact {c}"
+            if not isinstance(c, dict) or set(c) - {"platform", "handle", "label"}:
+                errors.append(f"{where}: only platform, handle and label are allowed")
+                continue
+            if c.get("platform") not in CONTACT_PLATFORMS:
+                errors.append(f"{where}: platform should be one of {', '.join(CONTACT_PLATFORMS)}")
+            if c.get("platform") == "other" and not c.get("label"):
+                errors.append(f"{where}: platform other needs a label (e.g. Instagram)")
+            h = c.get("handle")
+            if not isinstance(h, str) or not h.strip():
+                errors.append(f"{where}: handle should be a non-empty string")
+            elif h.startswith("@") or EMAIL.search(h) or re.fullmatch(r"[\d\s+()-]{7,}", h):
+                errors.append(f"{where}: handle should be a username without '@' (no emails, phone numbers or numeric IDs)")
     handles = {}
     for a in people.values():
         for h in a.get("reddit") or []:

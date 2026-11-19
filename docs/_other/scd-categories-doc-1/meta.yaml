@@ -3,7 +3,10 @@ schema_version: 1
 id: scd-categories-doc-1
 category: doc
 title: SCD categories doc 1
-authors: []
+authors:
+- name: vvatzs
+  id: vvatzs
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -35,5 +38,4 @@ added: '2026-11-15'
 notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-03-10. Text only: images and formatting are missing, and parts of the doc may be missing too.'
 review:
   status: auto
-  check:
-  - authors
+  check: []

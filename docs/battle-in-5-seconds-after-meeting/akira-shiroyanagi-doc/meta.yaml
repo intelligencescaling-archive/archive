@@ -3,7 +3,10 @@ schema_version: 1
 id: akira-shiroyanagi-doc
 category: doc
 title: Akira Shiroyanagi Doc
-authors: []
+authors:
+- name: UnsophiscatedSophist
+  id: unsophiscatedsophist
+  source: doc-text
 series:
 - battle-in-5-seconds-after-meeting
 characters:
@@ -42,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

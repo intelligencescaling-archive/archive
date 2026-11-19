@@ -5,7 +5,10 @@ category: doc
 title: Shuichi doc(chapter 1, 2 and 3)
 alt_titles:
 - Shuichi doc (Chapter 1 to 3)
-authors: []
+authors:
+- name: nd1881
+  id: nd1881
+  source: doc-text
 series:
 - danganronpa
 characters:
@@ -43,5 +46,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -5,7 +5,10 @@ category: doc
 title: Patrick Jane [Feats Evaluation]
 alt_titles:
 - PJ 9
-authors: []
+authors:
+- name: AnythingPerson
+  id: anythingperson
+  source: doc-text
 series:
 - the-mentalist
 characters:
@@ -43,5 +46,4 @@ added: '2026-11-15'
 notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This text was copied from the doc''s page instead: images and formatting are missing.'
 review:
   status: auto
-  check:
-  - authors
+  check: []
