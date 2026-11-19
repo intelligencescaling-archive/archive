@@ -3,12 +3,11 @@ schema_version: 1
 id: conjecture-conclusion
 category: doc
 title: Conjecture Conclusion
-authors: []
-shared_by:
-- name: KitchenCoyote_The2nd
+authors:
+- name: KitchenCoyote
   reddit: KitchenCoyote_The2nd
   id: kitchencoyote
-  source: reddit-post
+  source: manual
 series:
 - usogui
 characters:
@@ -48,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series
