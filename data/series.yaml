@@ -395,6 +395,13 @@
   - イム〜大神官イムホテプ〜
   origin_language: ja
   origin_medium: manga
+- id: internet-personalities
+  name: Internet personalities
+  aliases:
+  - YouTubers
+  - Streamers
+  origin_language: real
+  origin_medium: real
 - id: invincible
   name: Invincible
   origin_language: en
@@ -671,6 +678,13 @@
   name: Saw
   origin_language: en
   origin_medium: film
+- id: scd-community
+  name: SCD community
+  aliases:
+  - SCD members
+  - Community members
+  origin_language: real
+  origin_medium: real
 - id: scp-foundation
   name: SCP Foundation
   aliases:

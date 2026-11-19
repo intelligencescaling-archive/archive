@@ -105,6 +105,12 @@
   definition: About an original character (made by a community member, not from a published work).
   examples: ["Peter the Viennese", "Ninecrom Arcade: Cognitive Feats Analysis"]
   aliases: []
+- id: powerscaling
+  name: Power scaling
+  group: subject
+  definition: About physical power, not intelligence (strength, speed, durability, hax, cosmology, tiers).
+  examples: ["Dragon Ball Scaling", "The Elder Scrolls Cosmology"]
+  aliases: [cosmology, power-scaling]
 - id: translation
   name: Translation
   group: meta

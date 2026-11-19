@@ -12,7 +12,8 @@ shared_by:
   reddit: Financial-Fix2412
   id: financial-fix2412
   source: reddit-post
-series: []
+series:
+- scd-community
 characters: []
 tags:
 - feats

@@ -708,7 +708,7 @@
   - Zero
 - id: leo
   name: Leo
-  series: null
+  series: scd-community
   real: true
 - id: leonard-church
   name: Leonard Church
@@ -883,7 +883,7 @@
   - Near
 - id: nettspend
   name: Nettspend
-  series: real-life
+  series: internet-personalities
   real: true
 - id: neuro-nougami
   name: Neuro Nougami
@@ -893,7 +893,7 @@
   series: undertale-aus
 - id: nikocado-avocado
   name: Nikocado Avocado
-  series: real-life
+  series: internet-personalities
   real: true
 - id: nina-stingray
   name: Nina Stingray
@@ -1196,7 +1196,7 @@
   series: the-irregular-at-magic-high-school
 - id: technoblade
   name: Technoblade
-  series: minecraft
+  series: internet-personalities
   real: true
 - id: terence-fletcher
   name: Terence Fletcher

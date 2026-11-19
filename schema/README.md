@@ -141,6 +141,7 @@ plus the meta tag `translation` when it applies.
 | `story` | fiction | fiction; same as category `story` |
 | `fanfiction` | fiction | fiction with existing characters; implies `story` |
 | `oc` | subject | about an original character |
+| `powerscaling` | subject | physical power, not intelligence: strength, speed, hax, cosmology ("Dragon Ball Scaling") |
 | `translation` | meta | a translation of another doc or of source material (doesn't count toward the 3) |
 
 Rules: the `story` tag and category `story` always go together (a story lives in `stories/<id>/`). Implied tags
@@ -150,7 +151,7 @@ not stored as tags: in progress (`completion`), text only (no PDF in `parts[].ca
 `real: true` in `data/characters.yaml`, and their series is under Real life (`origin_language: real`).
 
 Retired tags (2026-11-18, no longer stored): the skill tags `strategy`, `planning`, `scheming`, `manipulation`,
-`reasoning` (now `analysis`), `fsiq`, `eq`, `cpi`, `psi`, `vsi`, `vci`, and `wis`, `cosmology`, `humor`. Other
+`reasoning` (now `analysis`), `fsiq`, `eq`, `cpi`, `psi`, `vsi`, `vci`, and `wis`, `humor` (`cosmology` is now `powerscaling`). Other
 old names are aliases of the new tags (see `data/tags.yaml`).
 
 ## Characters (`data/characters.yaml`)

@@ -3,7 +3,13 @@ schema_version: 1
 id: stock-feat-debate
 category: doc
 title: Stock Feat Debate
-authors: []
+authors:
+- name: Huntsman
+  id: thehuntsman1001
+  source: doc-text
+- name: Loy
+  id: loy
+  source: doc-text
 shared_by:
 - name: TheNamelessMonster_-
   reddit: TheNamelessMonster_-
@@ -49,6 +55,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

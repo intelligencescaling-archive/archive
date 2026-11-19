@@ -9,7 +9,8 @@ authors:
 - name: Leo
   id: leo
   source: doc-text
-series: []
+series:
+- scd-community
 characters:
 - leo
 tags:

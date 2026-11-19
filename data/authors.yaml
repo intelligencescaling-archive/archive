@@ -695,7 +695,7 @@
   - Less_Puddingdrawer
   - Equal_Custard0
   - greaterthanhelafnrjs
-  note: 'doc: ''The reddit account''s name is Equal_custard0''; ''Made by Equal_qustard0 on reddit and Db_Puddingdrawer on discord''; maintainer 2026-11-18: also Luigiderchad2.0 and u/greaterthanhelafnrjs (one person)'
+  note: 'maintainer 2026-11-18: Less_Puddingdrawer = Equal_Custard0 = Luigiderchad2.0 = u/greaterthanhelafnrjs (one person)'
 - id: lesti-chan
   name: Lesti-Chan
 - id: lexyo
@@ -718,6 +718,8 @@
   name: LosuthusWasTaken
   reddit:
   - LosuthusWasTaken
+- id: loy
+  name: Loy
 - id: luga
   name: Luga
 - id: lyrl1998
@@ -1270,6 +1272,9 @@
   - TheCheerGoose
 - id: thehuntsman1001
   name: TheHuntsman1001
+  aliases:
+  - Huntsman
+  note: 'best guess 2026-11-19 (tag pass Q16): the Huntsman of the L stock-feat and Ayanokoji chess-feat debates; TheHuntsman1001 writes the CotE chess-feat docs'
 - id: thekingstrategist13
   name: TheKingStrategist13
 - id: theller

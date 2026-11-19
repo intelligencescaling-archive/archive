@@ -9,7 +9,8 @@ shared_by:
   reddit: BakuMadarama
   id: bakumadarama
   source: reddit-post
-series: []
+series:
+- scd-community
 characters: []
 tags:
 - feats
