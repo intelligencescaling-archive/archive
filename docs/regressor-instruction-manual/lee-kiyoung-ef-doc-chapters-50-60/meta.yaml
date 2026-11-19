@@ -9,7 +9,8 @@ authors:
 - name: JDP
   id: jdp
   source: doc-text
-series: []
+series:
+- regressor-instruction-manual
 characters:
 - lee-kiyoung
 tags: []

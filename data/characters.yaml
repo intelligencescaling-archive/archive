@@ -675,7 +675,9 @@
   series: breaking-bad-better-call-saul
 - id: lee-kiyoung
   name: Lee Kiyoung
-  series: null
+  series: regressor-instruction-manual
+  aliases:
+  - Lee Ki-young
 - id: leif
   name: Leif
   series: leif-and-billy
@@ -1217,7 +1219,11 @@
   - Tokuchi Toua
 - id: tran-tien
   name: Tran Tien
-  series: null
+  series: the-chemical-queen-s-counterattack
+  aliases:
+  - Chen Jin
+  - 陈进
+  - Trần Tiến
 - id: tristan-turnbull
   name: Tristan Turnbull
   series: ace-attorney

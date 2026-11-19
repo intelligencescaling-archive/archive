@@ -613,6 +613,13 @@
   name: Red vs. Blue
   origin_language: en
   origin_medium: web
+- id: regressor-instruction-manual
+  name: Regressor Instruction Manual
+  aliases:
+  - 회귀자 사용설명서
+  - Regressor's Instruction Manual
+  origin_language: ko
+  origin_medium: web-novel
 - id: regular-show
   name: Regular Show
   origin_language: en
@@ -702,6 +709,15 @@
   name: The Boiled One Phenomenon
   origin_language: en
   origin_medium: web
+- id: the-chemical-queen-s-counterattack
+  name: The Chemical Queen's Counterattack
+  aliases:
+  - 化工女王的逆袭
+  - Huàgōng Nǚwáng de Nìxí
+  - Sự Trả Thù Hoàn Hảo
+  - The Perfect Revenge
+  origin_language: zh
+  origin_medium: novel
 - id: the-count-of-monte-cristo
   name: The Count of Monte Cristo
   origin_language: fr
