@@ -12,6 +12,7 @@ characters:
 - hark
 tags:
 - planning
+- oc
 language: en
 completion: unknown
 parts:
@@ -45,3 +46,4 @@ review:
   status: reviewed
   by: scd-archivist
   date: '2026-11-15'
+notes: 'Label fix 2026-11-18: tagged oc (Hark is an original character).'

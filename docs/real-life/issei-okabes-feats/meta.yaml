@@ -9,7 +9,8 @@ authors:
 - name: HideEdit
   id: hideedit
   source: doc-text
-series: []
+series:
+- real-life
 characters:
 - issei-okabe
 tags:

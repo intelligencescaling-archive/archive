@@ -57,6 +57,13 @@
   name: As the Gods Will
   origin_language: ja
   origin_medium: manga
+- id: asked-you-to-simulate-a-crime
+  name: Asked You to Simulate a Crime, and You Staged a Perfect Crime?
+  aliases:
+  - 让你模拟作案，你上演完美犯罪？
+  - 综艺犯罪天王
+  origin_language: zh
+  origin_medium: web-novel
 - id: assassination-classroom
   name: Assassination Classroom
   origin_language: ja
@@ -192,6 +199,10 @@
   name: Dead by Daylight
   origin_language: en
   origin_medium: game
+- id: dead-leg
+  name: Dead Leg
+  origin_language: en
+  origin_medium: web-novel
 - id: dead-tube
   name: Dead Tube
   origin_language: ja
@@ -370,6 +381,13 @@
   name: Ichiban Ushiro no Daimaou
   origin_language: ja
   origin_medium: light-novel
+- id: im-great-priest-imhotep
+  name: 'Im: Great Priest Imhotep'
+  aliases:
+  - Im
+  - イム〜大神官イムホテプ〜
+  origin_language: ja
+  origin_medium: manga
 - id: invincible
   name: Invincible
   origin_language: en

@@ -1,44 +1,43 @@
 # Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
 schema_version: 1
-id: imhotep-fsiq-doc
+id: ike-yoshigoro-doc
 category: doc
-title: Imhotep FSIQ doc
-alt_titles:
-- Imhotep
+title: Ike Yoshigoro Doc
 authors: []
-series: []
+series:
+- dead-leg
 characters:
-- imhotep
+- ike-yoshigoro
 tags:
-- fsiq
+- oc
 language: en
 completion: unknown
 parts:
 - source:
     type: google-doc
-    url: https://drive.google.com/open?id=11gOUQt3sY_juGsUDQW27AENUjL-08DfGzqaDeBuHo-A
-    google_id: 11gOUQt3sY_juGsUDQW27AENUjL-08DfGzqaDeBuHo-A
+    url: https://docs.google.com/document/d/1xTo2RRBNY3KVUWVWYIHPo7KpjdVkrIbup0zA0Aukw8o/edit?usp=drivesdk
+    google_id: 1xTo2RRBNY3KVUWVWYIHPo7KpjdVkrIbup0zA0Aukw8o
   capture:
     status: complete
     date: '2026-11-15'
-    pages: 8
-    words: 236
+    pages: 18
+    words: 7217
     files:
     - format: pdf
       name: document.pdf
-      bytes: 1396059
-      sha256: 221fd1ab4a8d582a590fd9893c65e5b53056608ccc27335bc0c98ee3a35e76f5
+      bytes: 337651
+      sha256: d080b287405e70a56ba22749c23e4b0acaccf5ba23720ae652abb590e058f699
     - format: docx
       name: document.docx
-      bytes: 1304216
-      sha256: 99a091d6d88dd245e0a990c4ab61d128f998c84f9e021525b5a8dbe37898d81a
+      bytes: 31082
+      sha256: 10d4be98b8ce59da2537a39500947f4b2d4ac08a34bfba70fe3b166b3d91138c
     text:
       file: text.txt
       method: google-export
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
-  link_text: Imhotep
+  link_text: Ike Yoshigoro Doc
 added: '2026-11-15'
 review:
   status: auto
