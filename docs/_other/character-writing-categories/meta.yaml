@@ -3,7 +3,10 @@ schema_version: 1
 id: character-writing-categories
 category: doc
 title: Character writing categories
-authors: []
+authors:
+- name: wonderline
+  id: wonderline
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -36,5 +39,4 @@ notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This t
 review:
   status: auto
   check:
-  - authors
   - characters

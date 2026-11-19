@@ -3,7 +3,10 @@ schema_version: 1
 id: n-ice-feats
 category: doc
 title: N-Ice Feats
-authors: []
+authors:
+- name: N-Ice
+  id: n-ice
+  source: doc-text
 shared_by:
 - name: Financial-Fix2412
   reddit: Financial-Fix2412
@@ -46,6 +49,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

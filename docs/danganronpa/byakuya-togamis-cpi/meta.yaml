@@ -5,7 +5,10 @@ category: doc
 title: Byakuya Togami’s CPI
 alt_titles:
 - Byakuya Togami's CPI
-authors: []
+authors:
+- name: Ranposano
+  id: ranposano
+  source: doc-text
 series:
 - danganronpa
 characters:

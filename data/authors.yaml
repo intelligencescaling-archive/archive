@@ -178,6 +178,7 @@
   aliases:
   - Hypervenomxtreme2.0
   - Hypervenomextreme
+  - Hypervenomxtreme 2.0
   reddit:
   - BudgetPosition6080
   note: 'C1: docs in BudgetPosition6080''s ''DOCS I MADE'' section say ''created by me @hypervenomxtreme'''
@@ -364,6 +365,10 @@
   name: Express-Finger-2648
   reddit:
   - Express-Finger-2648
+- id: expsy-dr3
+  name: ExPsy-dr3
+  reddit:
+  - ExPsy-dr3
 - id: fall
   name: Fall
 - id: far-transition-1599
@@ -1393,6 +1398,8 @@
   name: Whitty
 - id: whynot5534
   name: Whynot5534
+- id: wonderline
+  name: wonderline
 - id: xamot113
   name: Xamot113
   reddit:

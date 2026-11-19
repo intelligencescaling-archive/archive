@@ -5,7 +5,10 @@ category: doc
 title: Byakuya Togami VSI
 alt_titles:
 - Byakuya Togami's VSI
-authors: []
+authors:
+- name: Ranposano
+  id: ranposano
+  source: doc-text
 series:
 - danganronpa
 characters:

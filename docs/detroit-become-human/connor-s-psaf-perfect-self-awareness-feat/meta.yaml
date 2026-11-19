@@ -5,7 +5,11 @@ category: doc
 title: Connor's PSAF (Perfect Self Awareness Feat)
 alt_titles:
 - Connor PSAF Doc
-authors: []
+authors:
+- name: ExPsy-dr3
+  reddit: ExPsy-dr3
+  id: expsy-dr3
+  source: doc-text
 series:
 - detroit-become-human
 characters:
@@ -45,5 +49,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

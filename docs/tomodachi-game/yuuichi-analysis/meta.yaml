@@ -5,7 +5,10 @@ category: doc
 title: Yuuichi analysis
 alt_titles:
 - (Klein Yuuichi Analysis)
-authors: []
+authors:
+- name: Dilly
+  id: dilly
+  source: doc-text
 series:
 - tomodachi-game
 characters:
@@ -43,5 +46,4 @@ added: '2026-11-15'
 notes: 'The original was deleted, so this text was recovered from a Wayback Machine snapshot taken 2025-01-19. Text only: images and formatting are missing, and parts of the doc may be missing too.'
 review:
   status: auto
-  check:
-  - authors
+  check: []

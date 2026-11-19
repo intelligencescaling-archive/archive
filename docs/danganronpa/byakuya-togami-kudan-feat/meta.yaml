@@ -5,7 +5,10 @@ category: doc
 title: Byakuya Togami - Kudan feat
 alt_titles:
 - Byakuya Togami Kudan feat
-authors: []
+authors:
+- name: Ranposano
+  id: ranposano
+  source: doc-text
 series:
 - danganronpa
 characters:

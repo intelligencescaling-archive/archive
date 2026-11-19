@@ -3,7 +3,10 @@ schema_version: 1
 id: the-idiot-writing-analysis
 category: doc
 title: The Idiot writing analysis
-authors: []
+authors:
+- name: wonderline
+  id: wonderline
+  source: doc-text
 series:
 - the-idiot
 characters: []
@@ -37,5 +40,4 @@ notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This t
 review:
   status: auto
   check:
-  - authors
   - characters

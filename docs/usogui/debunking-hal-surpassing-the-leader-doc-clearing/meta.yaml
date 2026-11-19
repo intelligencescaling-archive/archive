@@ -6,7 +6,10 @@ title: debunking Hal surpassing the leader doc + clearing misconception
 alt_titles:
 - Hal Debunk 1
 - Hal debunk 4
-authors: []
+authors:
+- name: Domino
+  id: domino
+  source: doc-text
 series:
 - usogui
 characters:
@@ -52,5 +55,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []
