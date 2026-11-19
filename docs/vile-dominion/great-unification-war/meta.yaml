@@ -9,7 +9,8 @@ shared_by:
   reddit: Im_Futuree
   id: im-futuree
   source: reddit-post
-series: []
+series:
+- vile-dominion
 characters:
 - li-gang
 tags:

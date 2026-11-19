@@ -696,10 +696,12 @@
   series: dc-comics
 - id: li-gang
   name: Li Gang
-  series: null
+  series: vile-dominion
 - id: li-qing
   name: Li Qing
-  series: null
+  series: the-terrifying-path-of-immortal-cultivation
+  aliases:
+  - 李青
 - id: li-xingke
   name: Li Xingke
   series: code-geass

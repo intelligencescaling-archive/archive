@@ -795,6 +795,12 @@
   - Youjo Senki
   origin_language: ja
   origin_medium: light-novel
+- id: the-terrifying-path-of-immortal-cultivation
+  name: The Terrifying Path of Immortal Cultivation
+  aliases:
+  - 恐怖修仙路
+  origin_language: zh
+  origin_medium: web-novel
 - id: the-unwritten
   name: The Unwritten
   origin_language: en
@@ -849,6 +855,10 @@
   name: V for Vendetta
   origin_language: en
   origin_medium: comic
+- id: vile-dominion
+  name: Vile Dominion
+  origin_language: en
+  origin_medium: web-novel
 - id: watership-down
   name: Watership Down
   origin_language: en
