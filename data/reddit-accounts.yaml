@@ -1,0 +1,4 @@
+# Reddit accounts named in the archive and whether they still exist. Written by the maintainer's
+# check script (one GET of reddit.com/user/<handle>/about.json per handle), never by the entry builder.
+# status: active | suspended | gone (404: deleted or never existed) | unknown (could not tell).
+[]

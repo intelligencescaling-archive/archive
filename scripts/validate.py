@@ -6,6 +6,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
   - every series and character id exists in data/series.yaml / data/characters.yaml
   - every author/shared_by `id` exists in data/authors.yaml, and no Reddit handle belongs to two people
   - people's `contacts` use a known platform and a plain username (no '@', emails, phone numbers or IDs)
+  - data/reddit-accounts.yaml (if present): {handle, status, checked} rows, sorted, no duplicates
   - each series' origin_language is a 2-letter code or `real` (a missing one is only a warning)
   - every tag exists in data/tags.yaml; 1 to 3 tags besides meta tags; implied tags are present;
     the `story` tag and category `story` go together; characters' `real` is true/false
@@ -13,6 +14,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
 
 Usage: python scripts/validate.py [repo-root]     (exit code 1 if anything is wrong)
 """
+import datetime as dt
 import json
 import re
 import sys
@@ -23,6 +25,7 @@ from jsonschema import Draft202012Validator
 
 ALLOWED_FILES = {"meta.yaml"}
 CONTACT_PLATFORMS = ("discord", "telegram", "reddit", "twitter", "youtube", "tiktok", "other")
+REDDIT_STATUSES = ("active", "suspended", "gone", "unknown")
 EMAIL = re.compile(r"\S+@\S+\.\w+")
 
 
@@ -96,6 +99,32 @@ def main():
             if h.lower() in handles and handles[h.lower()] != a["id"]:
                 errors.append(f"data/authors.yaml: Reddit handle {h} is in both {handles[h.lower()]} and {a['id']}")
             handles[h.lower()] = a["id"]
+
+    rp = root / "data" / "reddit-accounts.yaml"
+    if rp.exists():
+        rows = yaml.safe_load(rp.read_text(encoding="utf-8"))
+        if not isinstance(rows, list):
+            errors.append("data/reddit-accounts.yaml: should be a list (can be empty)")
+            rows = []
+        seen_h, prev = set(), ""
+        for r in rows:
+            if not isinstance(r, dict) or set(r) != {"handle", "status", "checked"}:
+                errors.append(f"data/reddit-accounts.yaml: {r}: needs exactly handle, status and checked")
+                continue
+            h = r["handle"]
+            if not isinstance(h, str) or not re.fullmatch(r"[A-Za-z0-9_-]{3,20}", h):
+                errors.append(f"data/reddit-accounts.yaml: {h}: not a Reddit username (3-20 letters, digits, _ or -, no u/)")
+                continue
+            if h.lower() in seen_h:
+                errors.append(f"data/reddit-accounts.yaml: {h}: listed twice (any case)")
+            if h.lower() < prev:
+                errors.append(f"data/reddit-accounts.yaml: {h}: not sorted by handle (case-insensitive)")
+            seen_h.add(h.lower())
+            prev = h.lower()
+            if r["status"] not in REDDIT_STATUSES:
+                errors.append(f"data/reddit-accounts.yaml: {h}: status should be one of {', '.join(REDDIT_STATUSES)}")
+            if not isinstance(r["checked"], dt.date):
+                errors.append(f"data/reddit-accounts.yaml: {h}: checked should be a date (YYYY-MM-DD)")
 
     for mp in sorted(list(root.glob("docs/*/*/meta.yaml")) + list(root.glob("stories/*/meta.yaml"))):
         n += 1

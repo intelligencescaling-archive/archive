@@ -10,6 +10,7 @@ stories/<item-id>/meta.yaml              # original stories and fan fiction
 data/series.yaml                         # series registry
 data/characters.yaml                     # character registry
 data/authors.yaml                        # author registry: one record per person, with all their names
+data/reddit-accounts.yaml                # which Reddit accounts named in the archive still exist
 ```
 
 PDF/DOCX files are not in git. They're hosted separately, and each one is identified by its `sha256`.
@@ -127,6 +128,21 @@ alias or a handle (any case). A name match is not used when the credit's Reddit 
 record's handles (two people with the same display name). Co-authors stay separate records even when a byline
 joins them with "/" ("A/B" is often two people). To merge two records, move one's names and handles into the
 other and delete it; the next build re-links every entry.
+
+## Reddit accounts (`data/reddit-accounts.yaml`)
+
+```yaml
+- handle: Due_Ad8334             # as spelled in the data, without u/; one row per handle (any case)
+  status: active                 # active | suspended | gone | unknown
+  checked: 2026-11-19            # date of the check
+```
+
+One row for every Reddit username in `data/authors.yaml` (`reddit`, reddit `contacts`) and in entries'
+`authors` / `shared_by`, sorted by handle (case-insensitive). The maintainer's check script makes one request
+to Reddit per handle: `active` = the account exists, `suspended` = Reddit suspended it, `gone` = Reddit says it
+doesn't exist (deleted, or never existed: Reddit can't tell these apart), `unknown` = the check gave no
+answer. An `unknown` result never replaces an older known one. Handles not checked yet are missing (the file
+can be an empty list). The entry builder never writes this file; `validate.py` checks its format.
 
 ## Tags (`data/tags.yaml`)
 
