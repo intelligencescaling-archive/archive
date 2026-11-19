@@ -8,6 +8,7 @@ alt_titles:
 - The Mastermind's Great Plan
 authors:
 - name: Osbis
+  id: osbis
   source: doc-text
 series:
 - ace-attorney

@@ -7,6 +7,7 @@ alt_titles:
 - How to debate
 authors:
 - name: Arcadia
+  id: arcadia
   source: doc-text
 series: []
 characters: []

@@ -5,6 +5,7 @@ category: doc
 title: Vincent Lalo 1
 authors:
 - name: Acce
+  id: acce
   source: doc-text
 series:
 - usogui

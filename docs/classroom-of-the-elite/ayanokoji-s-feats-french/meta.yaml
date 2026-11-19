@@ -4,8 +4,19 @@ id: ayanokoji-s-feats-french
 category: doc
 title: Ayanokoji's Feats (French)
 authors:
+- name: Jalias
+  id: jalias
+  source: doc-text
+- name: Wanoxx
+  id: wanoxx
+  source: doc-text
+- name: TRD
+  id: trd
+  source: doc-text
+shared_by:
 - name: Nazif2
   reddit: Nazif2
+  id: nazif2
   source: reddit-post
 series:
 - classroom-of-the-elite
@@ -46,6 +57,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

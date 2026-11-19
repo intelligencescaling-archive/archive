@@ -8,6 +8,7 @@ alt_titles:
 - Old Maid Re-Analysis (Kiyotaka Ayanokouji’s EP)
 authors:
 - name: Plasma
+  id: plasma
   source: doc-text
 series:
 - classroom-of-the-elite

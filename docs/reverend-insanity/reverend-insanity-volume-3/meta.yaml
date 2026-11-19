@@ -7,6 +7,7 @@ alt_titles:
 - Reverend Insanity volume 3 analysis
 authors:
 - name: Kiryu Moretti
+  id: kiryu-moretti
   source: doc-text
 series:
 - reverend-insanity

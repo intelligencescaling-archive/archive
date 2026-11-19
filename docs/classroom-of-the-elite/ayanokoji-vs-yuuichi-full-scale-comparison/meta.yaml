@@ -3,9 +3,11 @@ schema_version: 1
 id: ayanokoji-vs-yuuichi-full-scale-comparison
 category: doc
 title: Ayanokoji vs Yuuichi full scale comparison
-authors:
+authors: []
+shared_by:
 - name: darkness_death_empty
   reddit: darkness_death_empty
+  id: darkness-death-empty
   source: reddit-post
 series:
 - classroom-of-the-elite

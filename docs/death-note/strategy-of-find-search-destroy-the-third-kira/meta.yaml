@@ -7,6 +7,7 @@ alt_titles:
 - CTW L search - find and destroy the third Kira strategy
 authors:
 - name: Veris
+  id: veris
   source: doc-text
 series:
 - death-note

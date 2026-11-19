@@ -7,8 +7,10 @@ alt_titles:
 - Comp Fujimaru Ritsuka
 authors:
 - name: Nino_IQ
+  id: nino-iq
   source: doc-text
 - name: Yusha
+  id: yusha
   source: doc-text
 series:
 - fate

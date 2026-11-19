@@ -5,6 +5,7 @@ category: doc
 title: Joes plan with Nadia and Edward fully explained
 authors:
 - name: Jagger
+  id: jagger
   source: doc-text
 series:
 - you

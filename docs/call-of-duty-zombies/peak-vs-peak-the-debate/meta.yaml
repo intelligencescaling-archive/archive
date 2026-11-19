@@ -6,11 +6,14 @@ title: Peak vs Peak the debate
 authors:
 - name: FateDaA
   reddit: FateDaA
+  id: fatedaa
   source: reddit-post
 series:
 - call-of-duty-zombies
+- star-wars
 characters:
 - edward-richtofen
+- emperor-palpatine
 tags:
 - matchup
 language: en
@@ -46,6 +49,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

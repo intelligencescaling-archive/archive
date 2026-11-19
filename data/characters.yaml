@@ -10,7 +10,7 @@
   series: real-life
 - id: ai-magase
   name: Ai Magase
-  series: null
+  series: babylon
 - id: aiga-kenji
   name: Aiga Kenji
   series: 18-levels-of-hell
@@ -19,7 +19,7 @@
   series: zero-escape
 - id: akira-shiroyanagi
   name: Akira Shiroyanagi
-  series: null
+  series: battle-in-5-seconds-after-meeting
 - id: akiyama-shinichi
   name: Akiyama Shinichi
   series: liar-game
@@ -32,6 +32,9 @@
 - id: alexander-suvorov
   name: Alexander Suvorov
   series: real-life
+- id: alice-alice-mirror-castle-murders
+  name: Alice
+  series: alice-mirror-castle-murders
 - id: alto-clef
   name: Alto Clef
   series: scp-foundation
@@ -53,6 +56,11 @@
 - id: andre-massena
   name: André Masséna
   series: real-life
+- id: andrew-avalon
+  name: Losherk Andrew Avalon
+  series: the-lying-detective
+  aliases:
+  - Andrew
 - id: ang-xiao
   name: Ang Xiao
   series: null
@@ -85,7 +93,7 @@
   series: lupin
 - id: ashe-bradley
   name: Ashe Bradley
-  series: null
+  series: witch-s-heart
 - id: assane-diop
   name: Assane Diop
   series: lupin
@@ -121,7 +129,7 @@
   series: death-note
 - id: billy
   name: Billy
-  series: null
+  series: leif-and-billy
 - id: billy-craig
   name: Billy Craig
   series: usogui
@@ -152,6 +160,11 @@
 - id: cesare-borgia
   name: Cesare Borgia
   series: real-life
+- id: charles-choi
+  name: Charles Choi
+  series: lookism
+  aliases:
+  - Elite
 - id: charles-vespasian-hale
   name: Charles Vespasian Hale
   series: lincoln-rhyme
@@ -181,9 +194,8 @@
   series: case-closed
   aliases:
   - Kudo Shinichi
-- id: conan-edogawa-shinichi-kudo
-  name: Conan Edogawa/Shinichi Kudo
-  series: case-closed
+  - Shinichi Kudo
+  - Conan Edogawa/Shinichi Kudo
 - id: connor
   name: Connor
   series: detroit-become-human
@@ -214,6 +226,8 @@
 - id: dazai-osamu
   name: Dazai Osamu
   series: bungo-stray-dogs
+  aliases:
+  - Osamu Dazai
 - id: desir-arman
   name: Desir Arman
   series: a-returner-s-magic-should-be-special
@@ -223,6 +237,9 @@
 - id: di-wu-zhi-yi
   name: Di Wu Zhi Yi
   series: 18-levels-of-hell
+- id: don
+  name: Don
+  series: don
 - id: doofus-jerry
   name: Doofus Jerry
   series: rick-and-morty
@@ -232,6 +249,9 @@
 - id: dream
   name: Dream
   series: minecraft
+- id: echidna
+  name: Echidna
+  series: re-zero
 - id: edmond-dantes
   name: Edmond Dantès
   series: the-count-of-monte-cristo
@@ -250,6 +270,12 @@
 - id: emma-elliot-wilson
   name: Emma Elliot Wilson
   series: null
+- id: emperor-palpatine
+  name: Emperor Palpatine
+  series: star-wars
+  aliases:
+  - Darth Sidious
+  - Sheev Palpatine
 - id: eric-cartman
   name: Eric Cartman
   series: south-park
@@ -384,6 +410,11 @@
 - id: hisui-jozuka
   name: Hisui Jozuka
   series: medium
+- id: hugo-vlad
+  name: Hugo Vlad
+  series: zenless-zone-zero
+  aliases:
+  - Mockingbird
 - id: ichika-amasawa
   name: Ichika Amasawa
   series: classroom-of-the-elite
@@ -407,16 +438,25 @@
   series: real-life
 - id: inspector-tsukumo
   name: Inspector Tsukumo
-  series: null
+  series: massacre-happy-end
+  aliases:
+  - Tsukumo
 - id: irene-adler
   name: Irene Adler
   series: sherlock-holmes
 - id: isaac-mahoka
   name: Isaac Mahoka
-  series: null
+  series: orakamaono
+  aliases:
+  - Isaac Mahōka
 - id: issei-okabe
   name: Issei Okabe
   series: null
+- id: itachi-uchiha
+  name: Itachi Uchiha
+  series: naruto
+  aliases:
+  - Itachi
 - id: iwao-washizu
   name: Iwao Washizu
   series: akagi
@@ -461,6 +501,11 @@
 - id: jibril
   name: Jibril
   series: no-game-no-life
+- id: jimmy-mcgill
+  name: Jimmy McGill
+  series: breaking-bad-better-call-saul
+  aliases:
+  - Saul Goodman
 - id: jin-kirihara
   name: Jin Kirihara
   series: lies-fraud-and-psychic-ability-school
@@ -491,6 +536,9 @@
 - id: joseph-harrison
   name: Joseph Harrison
   series: null
+- id: joseph-joestar
+  name: Joseph Joestar
+  series: jojo-s-bizarre-adventure
 - id: juan-pujol
   name: Juan Pujol
   series: real-life
@@ -517,7 +565,9 @@
   series: danganronpa
 - id: kang-jinhyeok
   name: Kang Jinhyeok
-  series: null
+  series: solo-max-level-newbie
+  aliases:
+  - Jinhyeok Kang
 - id: karma-akabane
   name: Karma Akabane
   series: assassination-classroom
@@ -554,9 +604,6 @@
 - id: kimura-kei
   name: Kimura Kei
   series: liar-game
-- id: kira-yamato
-  name: Kira Yamato
-  series: mobile-suit-gundam-seed
 - id: kirari-momobami
   name: Kirari Momobami
   series: kakegurui
@@ -566,6 +613,9 @@
 - id: kiruma-souichi
   name: Kiruma Souichi
   series: usogui
+  aliases:
+  - Hal
+  - The Leader
 - id: kiyoko-otawara
   name: Kiyoko Otawara
   series: the-grimm-variations
@@ -618,7 +668,7 @@
   series: null
 - id: leif
   name: Leif
-  series: null
+  series: leif-and-billy
 - id: lelouch-vi-britannia
   name: Lelouch vi Britannia
   series: code-geass
@@ -650,10 +700,15 @@
   - Kira
 - id: lightning
   name: Lightning
-  series: null
+  series: yu-gi-oh
 - id: lila-rossi
   name: Lila Rossi
   series: miraculous
+- id: lin-qi
+  name: Lin Qi
+  series: blackstone-code
+  aliases:
+  - Lynch
 - id: lotso
   name: Lotso
   series: toy-story
@@ -671,7 +726,9 @@
   series: the-owl-house
 - id: mal
   name: Mal
-  series: null
+  series: total-drama
+  aliases:
+  - The Malevolent One
 - id: manabu-horikita
   name: Manabu Horikita
   series: classroom-of-the-elite
@@ -697,14 +754,16 @@
   name: Matt Engarde
   series: ace-attorney
 - id: medea
-  name: Medea
-  series: null
+  name: Medea Sollon
+  series: your-throne
+  aliases:
+  - Medea
 - id: megumin
   name: Megumin
   series: konosuba
 - id: melvina
   name: Melvina
-  series: null
+  series: melvina-s-therapy
 - id: mercurius
   name: Mercurius
   series: dies-irae
@@ -746,6 +805,9 @@
 - id: moon-seonghyun
   name: Moon Seonghyun
   series: dr-frost
+- id: morty-prime
+  name: Morty Prime
+  series: rick-and-morty
 - id: multi-nanairo
   name: Multi Nanairo
   series: beyblade-burst
@@ -770,6 +832,9 @@
 - id: nambong-baek
   name: Nambong Baek
   series: dr-frost
+- id: naomi-misora
+  name: Naomi Misora
+  series: death-note
 - id: napoleon-bonaparte
   name: Napoleon Bonaparte
   series: real-life
@@ -799,9 +864,6 @@
 - id: niu-youdao
   name: Niu Youdao
   series: null
-- id: noahtic
-  name: Noahtic
-  series: null
 - id: nobody
   name: Nobody
   series: scp-foundation
@@ -817,9 +879,6 @@
 - id: oreki-houtarou
   name: Oreki Houtarou
   series: hyouka
-- id: osamu-dazai
-  name: Osamu Dazai
-  series: bungo-stray-dogs
 - id: otto-apocalypse
   name: Otto Apocalypse
   series: honkai-impact-3rd
@@ -884,12 +943,11 @@
 - id: ranpo-edogawa
   name: Ranpo Edogawa
   series: bungo-stray-dogs
-- id: raul
-  name: Raul
-  series: null
 - id: raul-evans
   name: Raul Evans
   series: the-hero-who-seeks-revenge-shall-exterminate-with-darkness
+  aliases:
+  - Raul
 - id: raye-penber
   name: Raye Penber
   series: death-note
@@ -908,6 +966,13 @@
 - id: redd-white
   name: Redd White
   series: ace-attorney
+- id: ren-amamiya
+  name: Ren Amamiya
+  series: persona-5
+  aliases:
+  - Joker
+  - Joker (Persona 5)
+  - Akira Kurusu
 - id: rhys-montrose
   name: Rhys Montrose
   series: you
@@ -944,6 +1009,11 @@
 - id: ryan-heinrich
   name: Ryan Heinrich
   series: null
+- id: ryomen-sukuna
+  name: Ryomen Sukuna
+  series: jujutsu-kaisen
+  aliases:
+  - Sukuna
 - id: ryuen-kakeru
   name: Ryuen Kakeru
   series: classroom-of-the-elite
@@ -989,6 +1059,9 @@
 - id: shigeru-akagi
   name: Shigeru Akagi
   series: akagi
+- id: shiki-magata
+  name: Shiki Magata
+  series: the-perfect-insider
 - id: shin-tsukimi
   name: Shin Tsukimi
   series: your-turn-to-die
@@ -1016,6 +1089,9 @@
 - id: skanderbeg
   name: Skanderbeg
   series: real-life
+- id: slevin-kelevra
+  name: Slevin Kelevra
+  series: lucky-number-slevin
 - id: soma-yukihira
   name: Soma Yukihira
   series: food-wars
@@ -1117,18 +1193,19 @@
 - id: todd-fang
   name: Todd Fang
   series: re-zero
-- id: tokuchi-toua
-  name: Tokuchi Toua
-  series: liar-game
 - id: tom-taylor
   name: Tom Taylor
   series: the-unwritten
 - id: tomohiro-machiya
   name: Tomohiro Machiya
-  series: null
+  series: dead-tube
+  aliases:
+  - Machiya Tomohiro
 - id: toua-tokuchi
   name: Toua Tokuchi
-  series: null
+  series: one-outs
+  aliases:
+  - Tokuchi Toua
 - id: tran-tien
   name: Tran Tien
   series: null

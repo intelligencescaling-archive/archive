@@ -6,6 +6,7 @@ title: how smart is my character?
 authors:
 - name: Free-Huckleberry3503
   reddit: Free-Huckleberry3503
+  id: free-huckleberry3503
   source: reddit-post
 series: []
 characters: []
@@ -39,7 +40,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

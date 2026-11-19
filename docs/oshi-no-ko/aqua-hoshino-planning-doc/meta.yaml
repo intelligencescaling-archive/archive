@@ -5,6 +5,7 @@ category: doc
 title: Aqua Hoshino Planning Doc
 authors:
 - name: AgentNemo
+  id: agentnemo
   source: doc-text
 series:
 - oshi-no-ko

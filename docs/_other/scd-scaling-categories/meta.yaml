@@ -3,9 +3,11 @@ schema_version: 1
 id: scd-scaling-categories
 category: doc
 title: SCD Scaling Categories
-authors:
+authors: []
+shared_by:
 - name: Similar_Incident8433
   reddit: Similar_Incident8433
+  id: similar-incident8433
   source: reddit-post
 series: []
 characters: []

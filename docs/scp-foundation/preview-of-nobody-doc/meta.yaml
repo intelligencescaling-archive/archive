@@ -7,6 +7,7 @@ alt_titles:
 - Nobody
 authors:
 - name: XDwasGone
+  id: xdwasgone
   source: doc-text
 series:
 - scp-foundation

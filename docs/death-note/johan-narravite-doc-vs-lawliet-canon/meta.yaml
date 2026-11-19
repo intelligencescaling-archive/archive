@@ -5,12 +5,14 @@ category: doc
 title: Johan(Narravite+Doc) vs Lawliet(Canon)
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
 series:
 - death-note
 - monster
 characters:
 - johan-liebert
+- l-lawliet
 tags:
 - matchup
 language: en

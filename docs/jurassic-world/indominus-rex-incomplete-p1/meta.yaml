@@ -7,6 +7,7 @@ alt_titles:
 - Indominus Rex Doc
 authors:
 - name: Bittus
+  id: bittus
   source: doc-text
 series:
 - jurassic-world

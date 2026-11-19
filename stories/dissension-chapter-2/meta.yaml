@@ -3,9 +3,11 @@ schema_version: 1
 id: dissension-chapter-2
 category: story
 title: Dissension Chapter 2
-authors:
+authors: []
+shared_by:
 - name: Magmax1b
   reddit: Magmax1b
+  id: magmax1b
   source: reddit-post
 series: []
 characters: []

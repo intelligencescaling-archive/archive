@@ -5,7 +5,13 @@ category: doc
 title: The Professor FSIQ Feat
 authors:
 - name: horrorhistory
+  id: horrorhistory
   source: doc-text
+shared_by:
+- name: Joshy_Montage
+  reddit: Joshy_Montage
+  id: joshy-montage
+  source: reddit-post
 series:
 - money-heist
 characters:

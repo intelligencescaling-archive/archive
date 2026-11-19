@@ -6,10 +6,12 @@ title: Apex Predator Juan Document
 authors:
 - name: Virtue_Oppsosto
   reddit: Virtue_Oppsosto
+  id: virtue-oppsosto
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- oc
 language: en
 completion: unknown
 parts:
@@ -43,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

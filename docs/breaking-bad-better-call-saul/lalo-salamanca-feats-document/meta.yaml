@@ -7,6 +7,7 @@ alt_titles:
 - Lalo Salamanca SCD document
 authors:
 - name: Saul Badman
+  id: saul-badman
   source: doc-text
 series:
 - breaking-bad-better-call-saul

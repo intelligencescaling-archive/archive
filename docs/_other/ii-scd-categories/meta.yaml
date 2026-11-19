@@ -5,7 +5,13 @@ category: doc
 title: II. SCD Categories
 authors:
 - name: CheatSpeed
+  id: cheatspeed
   source: doc-text
+shared_by:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
 series: []
 characters: []
 tags:

@@ -7,6 +7,7 @@ alt_titles:
 - Akagi doc
 authors:
 - name: Adam
+  id: adam
   source: doc-text
 series:
 - akagi

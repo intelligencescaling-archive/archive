@@ -6,6 +6,7 @@ title: Yamato Kira
 authors:
 - name: SprinklesWarm5035
   reddit: SprinklesWarm5035
+  id: sprinkleswarm5035
   source: reddit-post
 series: []
 characters: []
@@ -44,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

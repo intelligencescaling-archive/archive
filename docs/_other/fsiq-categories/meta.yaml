@@ -6,9 +6,11 @@ title: FSIQ Categories
 alt_titles:
 - Category
 - This is a copy of the deleted category doc.
-authors:
+authors: []
+shared_by:
 - name: Connect-Fudge8942
   reddit: Connect-Fudge8942
+  id: connect-fudge8942
   source: reddit-post
 series: []
 characters: []

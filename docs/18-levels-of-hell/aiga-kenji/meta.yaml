@@ -5,7 +5,13 @@ category: doc
 title: Aiga Kenji
 authors:
 - name: Osbis
+  id: osbis
   source: doc-text
+shared_by:
+- name: Ornery_List_6670
+  reddit: Ornery_List_6670
+  id: ornery-list-6670
+  source: reddit-post
 series:
 - 18-levels-of-hell
 characters:

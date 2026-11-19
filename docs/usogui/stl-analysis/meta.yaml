@@ -5,6 +5,7 @@ category: doc
 title: STL Analysis
 authors:
 - name: Muaaz
+  id: muaaz
   source: doc-text
 series:
 - usogui

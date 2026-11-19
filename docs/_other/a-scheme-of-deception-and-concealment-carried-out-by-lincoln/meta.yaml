@@ -3,9 +3,11 @@ schema_version: 1
 id: a-scheme-of-deception-and-concealment-carried-out-by-lincoln
 category: doc
 title: A scheme of deception and concealment, carried out by Lincoln
-authors:
+authors: []
+shared_by:
 - name: IllRegister5884
   reddit: IllRegister5884
+  id: illregister5884
   source: reddit-post
 series: []
 characters: []

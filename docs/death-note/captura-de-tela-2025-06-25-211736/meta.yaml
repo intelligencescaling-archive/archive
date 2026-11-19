@@ -6,12 +6,14 @@ title: Captura de tela 2025 06 25 211736
 authors:
 - name: Striking-Dot-9947
   reddit: Striking-Dot-9947
+  id: striking-dot-9947
   source: reddit-post
 series:
 - death-note
 - kakegurui
 characters:
 - yumeko-jabami
+- light-yagami
 tags:
 - matchup
 language: null
@@ -38,7 +40,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

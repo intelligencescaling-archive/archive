@@ -7,6 +7,7 @@ alt_titles:
 - Brian Moser doc
 authors:
 - name: N-Ice
+  id: n-ice
   source: doc-text
 series:
 - dexter

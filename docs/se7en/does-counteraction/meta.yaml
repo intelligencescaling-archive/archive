@@ -3,13 +3,16 @@ schema_version: 1
 id: does-counteraction
 category: doc
 title: Doe’s counteraction
-authors:
+authors: []
+shared_by:
 - name: FluffyTaste4061
   reddit: FluffyTaste4061
+  id: fluffytaste4061
   source: reddit-post
 series:
 - se7en
-characters: []
+characters:
+- john-doe
 tags: []
 language: en
 completion: unknown

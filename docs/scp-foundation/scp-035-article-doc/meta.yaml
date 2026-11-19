@@ -7,6 +7,7 @@ alt_titles:
 - SCP 035 Article Doc
 authors:
 - name: KitchenCoyote
+  id: kitchencoyote
   source: doc-text
 series:
 - scp-foundation

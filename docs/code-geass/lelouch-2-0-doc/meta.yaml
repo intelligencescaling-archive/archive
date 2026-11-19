@@ -7,6 +7,7 @@ alt_titles:
 - Lelouch 1
 authors:
 - name: AniMangaMastarMedia
+  id: animangamastarmedia
   source: doc-text
 series:
 - code-geass

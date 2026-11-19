@@ -5,8 +5,10 @@ category: doc
 title: L Lawliet Wammy's House LA feat V2
 authors:
 - name: TravelingZebra
+  id: travelingzebra
   source: doc-text
 - name: bakusfather1029
+  id: bakusfather1029
   source: doc-text
 series:
 - death-note

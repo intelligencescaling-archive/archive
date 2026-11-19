@@ -7,14 +7,19 @@ alt_titles:
 - Moriarty 1
 authors:
 - name: Indra
+  id: indra
   source: doc-text
 - name: AwaKen
+  id: awaken
   source: doc-text
 - name: Druxzy
+  id: druxzy
   source: doc-text
 - name: Dominoo
+  id: dominoo
   source: doc-text
 - name: Lexyo
+  id: lexyo
   source: doc-text
 series:
 - moriarty-the-patriot

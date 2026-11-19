@@ -3,9 +3,11 @@ schema_version: 1
 id: chen-ran-doc
 category: doc
 title: CHEN RAN DOC
-authors:
+authors: []
+shared_by:
 - name: AnnualFrequent7426
   reddit: AnnualFrequent7426
+  id: annualfrequent7426
   source: reddit-post
 series:
 - 18-levels-of-hell

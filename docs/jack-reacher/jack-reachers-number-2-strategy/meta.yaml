@@ -5,7 +5,13 @@ category: doc
 title: Jack Reacher’s “Number 2” Strategy
 authors:
 - name: horrorhistory
+  id: horrorhistory
   source: doc-text
+shared_by:
+- name: Joshy_Montage
+  reddit: Joshy_Montage
+  id: joshy-montage
+  source: reddit-post
 series:
 - jack-reacher
 characters:

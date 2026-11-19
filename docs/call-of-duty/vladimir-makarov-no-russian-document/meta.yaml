@@ -5,7 +5,13 @@ category: doc
 title: Vladimir Makarov “No Russian” document
 authors:
 - name: Veneno
+  id: veneno
   source: doc-text
+shared_by:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: mediocre-neat-1207
+  source: reddit-post
 series:
 - call-of-duty
 characters:

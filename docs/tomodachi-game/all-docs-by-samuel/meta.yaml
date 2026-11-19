@@ -7,6 +7,7 @@ alt_titles:
 - All Yuuichi docs made by Samuel
 authors:
 - name: Samuel
+  id: samuel
   source: doc-text
 series:
 - tomodachi-game

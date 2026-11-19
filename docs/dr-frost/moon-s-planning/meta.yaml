@@ -3,9 +3,11 @@ schema_version: 1
 id: moon-s-planning
 category: doc
 title: MOON'S PLANNING
-authors:
+authors: []
+shared_by:
 - name: FRIShinichi
   reddit: FRIShinichi
+  id: frishinichi
   source: reddit-post
 series:
 - dr-frost

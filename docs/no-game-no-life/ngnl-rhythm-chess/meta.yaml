@@ -9,8 +9,10 @@ alt_titles:
 - Sora's Rhythm Chess Feats
 authors:
 - name: JayChef
+  id: jaychef
   source: doc-text
 - name: -PJ-
+  id: pj
   source: doc-text
 series:
 - no-game-no-life

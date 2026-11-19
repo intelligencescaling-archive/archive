@@ -6,12 +6,18 @@ title: Comic Batman Feats
 alt_titles:
 - It’s really not that hard to scale Bats Kirav😭✌️it just takes a LOT of time, but
 authors:
+- name: Toji
+  id: toji
+  source: doc-text
+shared_by:
 - name: EngineDrive
   reddit: EngineDrive
+  id: enginedrive
   source: reddit-post
 series:
 - dc-comics
-characters: []
+characters:
+- batman
 tags: []
 language: en
 completion: unknown
@@ -42,6 +48,5 @@ notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This t
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -6,6 +6,7 @@ title: Dexter Morgan Doc
 authors:
 - name: Quick-Jaguar-9572
   reddit: Quick-Jaguar-9572
+  id: quick-jaguar-9572
   source: reddit-post
 series:
 - dexter
@@ -46,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

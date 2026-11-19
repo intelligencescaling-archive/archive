@@ -7,6 +7,7 @@ alt_titles:
 - Dr. Frost 1(PT-BR)
 authors:
 - name: Gustavo Sborz
+  id: gustavo-sborz
   source: doc-text
 series:
 - dr-frost

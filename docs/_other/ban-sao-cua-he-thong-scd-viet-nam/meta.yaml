@@ -3,9 +3,11 @@ schema_version: 1
 id: ban-sao-cua-he-thong-scd-viet-nam
 category: doc
 title: Bản sao của Hệ Thống SCD Việt Nam
-authors:
+authors: []
+shared_by:
 - name: InHellExtreamPlayer
   reddit: InHellExtreamPlayer
+  id: inhellextreamplayer
   source: reddit-post
 series: []
 characters: []

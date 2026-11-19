@@ -5,7 +5,13 @@ category: doc
 title: Kiyoko Otawara doc
 authors:
 - name: Dedu Ly Britannia
+  id: dedu-ly-britannia
   source: doc-text
+shared_by:
+- name: EvenCountry7933
+  reddit: EvenCountry7933
+  id: evencountry7933
+  source: reddit-post
 series:
 - the-grimm-variations
 characters:

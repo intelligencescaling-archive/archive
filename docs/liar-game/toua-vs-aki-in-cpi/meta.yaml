@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: toua-vs-aki-in-cpi
+category: doc
+title: toua vs aki in cpi
+authors: []
+shared_by:
+- name: Admirable-Yak2806
+  reddit: Admirable-Yak2806
+  id: admirable-yak2806
+  source: reddit-post
+series:
+- liar-game
+- one-outs
+characters:
+- akiyama-shinichi
+- toua-tokuchi
+tags:
+- matchup
+- cpi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1BLbgXEeFg0wXs62P8Zj6jSGxRqZKaH8pip-UBl7d-6I
+    google_id: 1BLbgXEeFg0wXs62P8Zj6jSGxRqZKaH8pip-UBl7d-6I
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 40
+    words: 9481
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 8993775
+      sha256: 11eed4888f5d8992a9a966f3657ebb655ecdff7bccd2b3150f49529d68672913
+    - format: docx
+      name: document.docx
+      bytes: 9070351
+      sha256: 6f20421b4cf826c9211492d74645930c826097798f472f71f89a50c71dfd3364
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1pgw4d3/_/nt7805s/
+  note: 'Shared by u/Admirable-Yak2806 in a comment on 2025-12-09: [https://docs.google.com/document/d/1BLbgXEeFg0wXs62P8Zj6jSGxRqZKaH8pip-UBl7d-6I'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

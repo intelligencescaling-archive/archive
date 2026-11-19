@@ -5,9 +5,16 @@ category: story
 title: No Man's Land – Chapter 1 – 3D Chess
 authors:
 - name: Whanks
+  id: whanks
   source: doc-text
 - name: RCN
+  id: rcn
   source: doc-text
+shared_by:
+- name: IAmNotBatman132
+  reddit: IAmNotBatman132
+  id: iamnotbatman132
+  source: reddit-post
 series: []
 characters: []
 tags: []

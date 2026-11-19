@@ -7,8 +7,9 @@ alt_titles:
 - Fazbear entertainment smearing doc
 authors:
 - name: Veneno
-  source: doc-text
   reddit: Veneno
+  id: veneno
+  source: doc-text
 series:
 - five-nights-at-freddy-s
 characters:

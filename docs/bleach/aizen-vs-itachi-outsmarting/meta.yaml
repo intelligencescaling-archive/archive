@@ -3,13 +3,18 @@ schema_version: 1
 id: aizen-vs-itachi-outsmarting
 category: doc
 title: Aizen vs Itachi (outsmarting)
-authors:
+authors: []
+shared_by:
 - name: Scary_Examination887
   reddit: Scary_Examination887
+  id: scary-examination887
   source: reddit-post
 series:
 - bleach
-characters: []
+- naruto
+characters:
+- sosuke-aizen
+- itachi-uchiha
 tags:
 - matchup
 language: en

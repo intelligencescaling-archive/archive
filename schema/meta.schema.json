@@ -14,18 +14,14 @@
     "title": {"type": "string", "minLength": 1, "maxLength": 300},
     "alt_titles": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true},
     "authors": {
-      "description": "Empty list = unknown author.",
+      "description": "Who made it. Empty list = unknown author.",
       "type": "array",
-      "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": ["name", "source"],
-        "properties": {
-          "name": {"type": "string", "minLength": 1, "maxLength": 100},
-          "reddit": {"type": "string", "pattern": "^[A-Za-z0-9_-]{3,20}$"},
-          "source": {"enum": ["doc-text", "library", "reddit-post", "submission", "manual"]}
-        }
-      }
+      "items": {"$ref": "#/$defs/credit"}
+    },
+    "shared_by": {
+      "description": "Who shared it (e.g. the Reddit poster) when the doc does not show them as its maker.",
+      "type": "array",
+      "items": {"$ref": "#/$defs/credit"}
     },
     "series": {"type": "array", "items": {"$ref": "#/$defs/slug"}, "uniqueItems": true},
     "characters": {"type": "array", "items": {"$ref": "#/$defs/slug"}, "uniqueItems": true},
@@ -78,6 +74,17 @@
   },
   "$defs": {
     "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 80},
+    "credit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "source"],
+      "properties": {
+        "name": {"type": "string", "minLength": 1, "maxLength": 100, "description": "The name as shown on the doc."},
+        "reddit": {"type": "string", "pattern": "^[A-Za-z0-9_-]{3,20}$"},
+        "id": {"$ref": "#/$defs/slug", "description": "The person in data/authors.yaml."},
+        "source": {"enum": ["doc-text", "library", "reddit-post", "submission", "manual"]}
+      }
+    },
     "date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
     "url": {"type": "string", "pattern": "^https?://"},
     "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},

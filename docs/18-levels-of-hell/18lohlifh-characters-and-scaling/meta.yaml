@@ -3,9 +3,11 @@ schema_version: 1
 id: 18lohlifh-characters-and-scaling
 category: doc
 title: 18LoHLiFH characters and scaling
-authors:
+authors: []
+shared_by:
 - name: Ok-Swan-1590
   reddit: Ok-Swan-1590
+  id: ok-swan-1590
   source: reddit-post
 series:
 - 18-levels-of-hell

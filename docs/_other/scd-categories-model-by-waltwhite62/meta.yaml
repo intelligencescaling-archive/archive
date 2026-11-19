@@ -6,7 +6,8 @@ title: SCD Categories Model by WaltWhite62
 authors:
 - name: WaltWhite62
   reddit: WaltWhite62
-  source: reddit-post
+  id: waltwhite62
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -45,7 +46,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

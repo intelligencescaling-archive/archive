@@ -3,9 +3,11 @@ schema_version: 1
 id: d3rlord3-act-2-cpi-boost
 category: doc
 title: D3rlord3 Act 2 CPI boost.
-authors:
+authors: []
+shared_by:
 - name: Alternative_Fox_4534
   reddit: Alternative_Fox_4534
+  id: alternative-fox-4534
   source: reddit-post
 series:
 - wifies

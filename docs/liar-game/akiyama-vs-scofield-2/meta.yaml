@@ -5,12 +5,14 @@ category: doc
 title: Akiyama vs Scofield
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
 series:
 - liar-game
 - prison-break
 characters:
 - michael-scofield
+- akiyama-shinichi
 tags:
 - matchup
 language: en

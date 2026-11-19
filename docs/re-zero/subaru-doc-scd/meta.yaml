@@ -6,6 +6,7 @@ title: Subaru Doc ( SCD )
 authors:
 - name: Seiro_IQ
   reddit: Seiro_IQ
+  id: seiro-iq
   source: reddit-post
 series:
 - re-zero
@@ -46,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

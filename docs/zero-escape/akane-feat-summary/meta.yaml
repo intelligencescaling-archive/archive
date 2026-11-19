@@ -3,13 +3,16 @@ schema_version: 1
 id: akane-feat-summary
 category: doc
 title: Akane Feat summary
-authors:
+authors: []
+shared_by:
 - name: lzyaboiConnor
   reddit: lzyaboiConnor
+  id: lzyaboiconnor
   source: reddit-post
 series:
 - zero-escape
-characters: []
+characters:
+- akane-kurashiki
 tags:
 - feats
 language: en

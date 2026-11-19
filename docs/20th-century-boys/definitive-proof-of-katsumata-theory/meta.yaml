@@ -3,13 +3,16 @@ schema_version: 1
 id: definitive-proof-of-katsumata-theory
 category: doc
 title: Definitive Proof of Katsumata Theory
-authors:
+authors: []
+shared_by:
 - name: lzyaboiConnor
   reddit: lzyaboiConnor
+  id: lzyaboiconnor
   source: reddit-post
 series:
 - 20th-century-boys
-characters: []
+characters:
+- friend
 tags:
 - debunk
 language: en

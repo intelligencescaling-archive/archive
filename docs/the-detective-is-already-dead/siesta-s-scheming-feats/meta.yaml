@@ -7,6 +7,7 @@ alt_titles:
 - Siesta's Scheming Feats Doc
 authors:
 - name: Reverie
+  id: reverie
   source: doc-text
 series:
 - the-detective-is-already-dead

@@ -7,8 +7,10 @@ alt_titles:
 - Edmond Dantes DOC
 authors:
 - name: plank_krabs66
+  id: plank-krabs66
   source: doc-text
 - name: suspicious-cut3802
+  id: suspicious-cut3802
   source: doc-text
 series:
 - the-count-of-monte-cristo

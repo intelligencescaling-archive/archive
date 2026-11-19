@@ -8,6 +8,7 @@ alt_titles:
 - PJ’s 1x6 plan & strategy
 authors:
 - name: Arthen
+  id: arthen
   source: doc-text
 series:
 - the-mentalist

@@ -7,8 +7,10 @@ alt_titles:
 - Riku utomiya
 authors:
 - name: JayChef
+  id: jaychef
   source: doc-text
 - name: Cento
+  id: cento
   source: doc-text
 series:
 - classroom-of-the-elite

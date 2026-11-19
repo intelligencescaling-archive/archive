@@ -5,6 +5,7 @@ category: doc
 title: Frederick II document
 authors:
 - name: LLA
+  id: lla
   source: doc-text
 series:
 - real-life

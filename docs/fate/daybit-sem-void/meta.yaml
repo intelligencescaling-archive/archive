@@ -5,8 +5,10 @@ category: doc
 title: Daybit Sem Void
 authors:
 - name: Nino_IQ
+  id: nino-iq
   source: doc-text
 - name: Yusha
+  id: yusha
   source: doc-text
 series:
 - fate

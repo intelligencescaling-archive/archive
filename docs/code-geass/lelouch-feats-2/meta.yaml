@@ -3,9 +3,11 @@ schema_version: 1
 id: lelouch-feats-2
 category: doc
 title: Lelouch feats
-authors:
+authors: []
+shared_by:
 - name: heckthiscrapimout
   reddit: heckthiscrapimout
+  id: heckthiscrapimout
   source: reddit-post
 series:
 - code-geass

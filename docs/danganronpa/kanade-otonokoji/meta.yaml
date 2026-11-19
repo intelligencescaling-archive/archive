@@ -5,10 +5,13 @@ category: doc
 title: Kanade Otonokoji
 authors:
 - name: Neffy
+  id: neffy
   source: doc-text
 - name: Riiruu
+  id: riiruu
   source: doc-text
 - name: Druxzy
+  id: druxzy
   source: doc-text
 series:
 - danganronpa

@@ -7,6 +7,7 @@ alt_titles:
 - Raul Evans Document
 authors:
 - name: Shin
+  id: shin
   source: doc-text
 series:
 - the-hero-who-seeks-revenge-shall-exterminate-with-darkness

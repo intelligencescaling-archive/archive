@@ -3,9 +3,11 @@ schema_version: 1
 id: bb-strategy-plan
 category: doc
 title: BB strategy + plan
-authors:
+authors: []
+shared_by:
 - name: ZZ_Zz9he
   reddit: ZZ_Zz9he
+  id: zz-zz9he
   source: reddit-post
 series:
 - death-note

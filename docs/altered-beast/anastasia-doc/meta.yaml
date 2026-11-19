@@ -7,6 +7,7 @@ alt_titles:
 - Anastasia SCD Analysis document
 authors:
 - name: Calcu
+  id: calcu
   source: doc-text
 series:
 - altered-beast

@@ -6,6 +6,7 @@ title: The Blind Spot Intelligence Scaling Doc
 authors:
 - name: Geolib1453
   reddit: Geolib1453
+  id: geolib1453
   source: reddit-post
 series: []
 characters: []
@@ -45,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

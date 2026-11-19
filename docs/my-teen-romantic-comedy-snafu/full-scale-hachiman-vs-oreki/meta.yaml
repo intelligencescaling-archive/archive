@@ -5,12 +5,19 @@ category: doc
 title: FULL SCALE HACHIMAN VS OREKI
 authors:
 - name: xd_killa79xx
+  id: xd-killa79xx
   source: doc-text
+shared_by:
+- name: jas2hard
+  reddit: jas2hard
+  id: jas2hard
+  source: reddit-post
 series:
 - my-teen-romantic-comedy-snafu
 - hyouka
 characters:
 - hachiman-hikigaya
+- oreki-houtarou
 tags:
 - matchup
 - fsiq

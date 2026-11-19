@@ -5,8 +5,10 @@ category: doc
 title: Red John Timothy Carter strategy
 authors:
 - name: Namy
+  id: namy
   source: doc-text
 - name: Zz9he
+  id: zz9he
   source: doc-text
 series:
 - the-mentalist

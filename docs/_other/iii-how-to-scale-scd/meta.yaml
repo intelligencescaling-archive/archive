@@ -7,8 +7,10 @@ alt_titles:
 - How to Scale SCD
 authors:
 - name: Cheatspeed
+  id: cheatspeed
   source: doc-text
 - name: RolloNotOver
+  id: rollonotover
   source: doc-text
 series: []
 characters: []

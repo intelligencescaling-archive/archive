@@ -4,9 +4,10 @@ id: a-short-story
 category: story
 title: a short story
 authors:
-- name: CardLampp
+- name: Cardlamp
   reddit: CardLampp
-  source: reddit-post
+  id: cardlampp
+  source: doc-text
 series: []
 characters: []
 tags: []
@@ -43,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

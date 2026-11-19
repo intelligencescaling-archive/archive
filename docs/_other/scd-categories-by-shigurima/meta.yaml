@@ -4,9 +4,10 @@ id: scd-categories-by-shigurima
 category: doc
 title: SCD categories (by shigurima)
 authors:
-- name: XxshigurimaxX
+- name: shigurima
   reddit: XxshigurimaxX
-  source: reddit-post
+  id: xxshigurimaxx
+  source: doc-text
 series: []
 characters: []
 tags:
@@ -44,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

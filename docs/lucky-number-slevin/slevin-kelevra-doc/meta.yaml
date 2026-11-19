@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: slevin-kelevra-doc
+category: doc
+title: Slevin Kelevra Doc
+authors:
+- name: matthyas-Job
+  reddit: matthyas-Job5739
+  id: matthyas-job5739
+  source: doc-text
+series:
+- lucky-number-slevin
+characters:
+- slevin-kelevra
+tags:
+- scd-categories
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JFyBIdciquTOH-jhDBZaDuVd1_rfQJ73hwZMJJEM87I
+    google_id: 1JFyBIdciquTOH-jhDBZaDuVd1_rfQJ73hwZMJJEM87I
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 7
+    words: 2180
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 866495
+      sha256: 7363542b4456e71433b18401cc566b44cef5a2661d06f2e63cefc9bd9352db45
+    - format: docx
+      name: document.docx
+      bytes: 8621125
+      sha256: f4774c18100cb4fabc6f81cfdc9a42ce6e8f3ec0fab3ffa20608cdb07f4c9dc9
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1rzd1b4/_/obou1em/
+  note: 'Shared by u/matthyas-Job5739 in a comment on 2026-03-21: I made a doc about him a while ago, but I never posted it. Well, I still need to'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - characters
+  - series

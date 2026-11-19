@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: machiya-feats
+category: doc
+title: Machiya Feats
+alt_titles:
+- machiya
+authors: []
+series:
+- dead-tube
+characters:
+- tomohiro-machiya
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=15Rk0TLLqge0Pp2OgmVuC5g0T6yZz5fDTvibBwbBxFA8
+    google_id: 15Rk0TLLqge0Pp2OgmVuC5g0T6yZz5fDTvibBwbBxFA8
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 37
+    words: 16311
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 601643
+      sha256: 37d976eadb4421c9a047a320b5a4f4e6ea87363e6d07dd08a2ef0ef5bf68165a
+    - format: docx
+      name: document.docx
+      bytes: 54589
+      sha256: 2efda855baa5c7d75c67c6e8a742b53e48ba122a29126bc091ed038c8df8b425
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: machiya
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

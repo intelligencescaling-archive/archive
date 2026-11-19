@@ -4,6 +4,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
   - id matches the folder name, and ids and Google ids are unique
   - docs live in docs/<first series>/<id>/ (or docs/_other/<id>/ with no series); stories in stories/<id>/
   - every series and character id exists in data/series.yaml / data/characters.yaml
+  - every author/shared_by `id` exists in data/authors.yaml, and no Reddit handle belongs to two people
   - each series' origin_language is a 2-letter code or `real` (a missing one is only a warning)
   - every text file named in the entry exists, and no stray files sit in entry folders
 
@@ -25,6 +26,8 @@ def main():
     series_rows = yaml.safe_load((root / "data" / "series.yaml").read_text(encoding="utf-8")) or []
     series = {s["id"] for s in series_rows}
     chars = {c["id"]: c for c in yaml.safe_load((root / "data" / "characters.yaml").read_text(encoding="utf-8")) or []}
+    ap = root / "data" / "authors.yaml"
+    people = {a["id"]: a for a in (yaml.safe_load(ap.read_text(encoding="utf-8")) or [])} if ap.exists() else {}
     errors, warnings, ids, gids, n = [], [], {}, {}, 0
 
     for s in series_rows:
@@ -37,6 +40,12 @@ def main():
     for c in chars.values():
         if c.get("series") and c["series"] not in series:
             errors.append(f"data/characters.yaml: {c['id']}: unknown series {c['series']}")
+    handles = {}
+    for a in people.values():
+        for h in a.get("reddit") or []:
+            if h.lower() in handles and handles[h.lower()] != a["id"]:
+                errors.append(f"data/authors.yaml: Reddit handle {h} is in both {handles[h.lower()]} and {a['id']}")
+            handles[h.lower()] = a["id"]
 
     for mp in sorted(list(root.glob("docs/*/*/meta.yaml")) + list(root.glob("stories/*/meta.yaml"))):
         n += 1
@@ -69,6 +78,9 @@ def main():
         for c in m.get("characters", []):
             if c not in chars:
                 err(f"unknown character '{c}' (add it to data/characters.yaml)")
+        for a in [*(m.get("authors") or []), *(m.get("shared_by") or [])]:
+            if isinstance(a, dict) and a.get("id") and a["id"] not in people:
+                err(f"unknown author id '{a['id']}' (add it to data/authors.yaml)")
         named = set(ALLOWED_FILES)
         for p in m.get("parts", []):
             g = p.get("source", {}).get("google_id")

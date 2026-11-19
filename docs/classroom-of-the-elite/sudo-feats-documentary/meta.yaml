@@ -7,14 +7,19 @@ alt_titles:
 - Sudo
 authors:
 - name: lio_h
+  id: lio-h
   source: doc-text
 - name: Kira.cifer
+  id: kira-cifer
   source: doc-text
 - name: cotefan456
+  id: cotefan456
   source: doc-text
 - name: Hans00661
+  id: hans00661
   source: doc-text
 - name: clauverctw
+  id: clauverctw
   source: doc-text
 series:
 - classroom-of-the-elite

@@ -7,6 +7,7 @@ alt_titles:
 - BB Writing Doc
 authors:
 - name: OVERSEER
+  id: overseer
   source: doc-text
 series:
 - death-note

@@ -8,6 +8,7 @@ alt_titles:
 - Copy of Johan Master Doc by Fall
 authors:
 - name: Fall
+  id: fall
   source: doc-text
 series:
 - monster

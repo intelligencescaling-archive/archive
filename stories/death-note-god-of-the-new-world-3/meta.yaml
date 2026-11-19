@@ -6,10 +6,17 @@ title: Death Note- God of The new World
 authors:
 - name: AnnualFrequent7426
   reddit: AnnualFrequent7426
+  id: annualfrequent7426
   source: doc-text
+shared_by:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  id: last-trainer-3323
+  source: reddit-post
 series:
 - death-note
-characters: []
+characters:
+- light-yagami
 tags: []
 language: en
 completion: unknown

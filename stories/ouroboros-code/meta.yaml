@@ -4,8 +4,13 @@ id: ouroboros-code
 category: story
 title: Ouroboros Code
 authors:
+- name: The.Shapeless.Theory
+  id: the-shapeless-theory
+  source: reddit-post
+shared_by:
 - name: Virtue_Oppsosto
   reddit: Virtue_Oppsosto
+  id: virtue-oppsosto
   source: reddit-post
 series: []
 characters: []
@@ -43,6 +48,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

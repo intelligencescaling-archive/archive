@@ -3,13 +3,16 @@ schema_version: 1
 id: shu-and-hua-kill-summary-doc
 category: doc
 title: Shu and Hua kill Summary doc
-authors:
+authors: []
+shared_by:
 - name: Simply_Amazing_1610
   reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
   source: reddit-post
 series:
 - 18-levels-of-hell
-characters: []
+characters:
+- chen-ran
 tags: []
 language: en
 completion: unknown

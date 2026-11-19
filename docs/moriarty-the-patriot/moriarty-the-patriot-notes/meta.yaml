@@ -4,9 +4,10 @@ id: moriarty-the-patriot-notes
 category: doc
 title: Moriarty the patriot notes
 authors:
-- name: Economy_Echo_8500
+- name: Echonomy
   reddit: Economy_Echo_8500
-  source: reddit-post
+  id: economy-echo-8500
+  source: doc-text
 series:
 - moriarty-the-patriot
 characters:
@@ -47,6 +48,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

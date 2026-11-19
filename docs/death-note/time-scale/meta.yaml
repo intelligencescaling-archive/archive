@@ -6,6 +6,7 @@ title: TIME SCALE
 authors:
 - name: Successful_Cup_3948
   reddit: Successful_Cup_3948
+  id: successful-cup-3948
   source: reddit-post
 series:
 - death-note
@@ -45,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

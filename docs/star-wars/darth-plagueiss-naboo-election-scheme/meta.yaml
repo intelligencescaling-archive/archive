@@ -6,6 +6,7 @@ title: Darth Plagueis’s Naboo Election Scheme
 authors:
 - name: Ok_Cardiologist_5925
   reddit: Ok_Cardiologist_5925
+  id: ok-cardiologist-5925
   source: reddit-post
 series:
 - star-wars
@@ -46,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

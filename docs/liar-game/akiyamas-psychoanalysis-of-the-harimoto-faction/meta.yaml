@@ -3,13 +3,17 @@ schema_version: 1
 id: akiyamas-psychoanalysis-of-the-harimoto-faction
 category: doc
 title: Akiyama’s psychoanalysis of the Harimoto Faction
-authors:
+authors: []
+shared_by:
 - name: Murky_Possibility655
   reddit: Murky_Possibility655
+  id: murky-possibility655
   source: reddit-post
 series:
 - liar-game
-characters: []
+characters:
+- akiyama-shinichi
+- harimoto-takashi
 tags: []
 language: en
 completion: unknown

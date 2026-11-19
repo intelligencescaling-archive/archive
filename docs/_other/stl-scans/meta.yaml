@@ -3,9 +3,11 @@ schema_version: 1
 id: stl-scans
 category: doc
 title: STL Scans
-authors:
+authors: []
+shared_by:
 - name: Spirited-Effort6325
   reddit: Spirited-Effort6325
+  id: spirited-effort6325
   source: reddit-post
 series: []
 characters: []

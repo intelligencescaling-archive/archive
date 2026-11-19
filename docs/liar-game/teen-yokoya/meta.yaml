@@ -3,16 +3,17 @@ schema_version: 1
 id: teen-yokoya
 category: doc
 title: Teen Yokoya
-authors:
+authors: []
+shared_by:
 - name: DBTRF
   reddit: DBTRF
+  id: dbtrf
   source: reddit-post
 series:
 - liar-game
 characters:
 - yokoya-norihiko
-tags:
-- matchup
+tags: []
 language: en
 completion: unknown
 parts:

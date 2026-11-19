@@ -6,7 +6,8 @@ title: Comic Batman Doc
 authors:
 - name: Business_Island_7993
   reddit: Business_Island_7993
-  source: reddit-post
+  id: business-island-7993
+  source: doc-text
 series:
 - dc-comics
 characters:
@@ -46,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -7,8 +7,10 @@ alt_titles:
 - Murphy 3
 authors:
 - name: Cloud(s)
+  id: cloud-s
   source: doc-text
 - name: Lesti-Chan
+  id: lesti-chan
   source: doc-text
 series:
 - scp-foundation

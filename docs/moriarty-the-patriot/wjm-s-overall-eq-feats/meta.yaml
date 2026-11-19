@@ -7,8 +7,10 @@ alt_titles:
 - WJM overall EQ feats
 authors:
 - name: AwaKen
+  id: awaken
   source: doc-text
 - name: Druxzy
+  id: druxzy
   source: doc-text
 series:
 - moriarty-the-patriot

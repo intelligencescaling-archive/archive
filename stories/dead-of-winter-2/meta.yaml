@@ -3,9 +3,11 @@ schema_version: 1
 id: dead-of-winter-2
 category: story
 title: Dead of Winter (2)
-authors:
+authors: []
+shared_by:
 - name: Federal-Manner3880
   reddit: Federal-Manner3880
+  id: federal-manner3880
   source: reddit-post
 series: []
 characters: []

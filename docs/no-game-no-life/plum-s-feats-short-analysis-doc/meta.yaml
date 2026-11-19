@@ -5,6 +5,7 @@ category: doc
 title: Plum's Feats Short Analysis Doc
 authors:
 - name: Checkmate
+  id: checkmate
   source: doc-text
 series:
 - no-game-no-life

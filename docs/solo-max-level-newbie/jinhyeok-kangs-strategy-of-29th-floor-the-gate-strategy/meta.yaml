@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jinhyeok-kangs-strategy-of-29th-floor-the-gate-strategy
+category: doc
+title: Jinhyeok Kangs strategy of 29th floor (the gate strategy) -
+alt_titles:
+- Kang Jinhyeok 29th floor strategy
+authors: []
+series:
+- solo-max-level-newbie
+characters:
+- kang-jinhyeok
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1eQtMHd20W-Y_PPNSELJG5YFTJXzhlONhW0zLhhEJAWA
+    google_id: 1eQtMHd20W-Y_PPNSELJG5YFTJXzhlONhW0zLhhEJAWA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3947
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 168444
+      sha256: 139745f6cfb69aadd9e0384a082f2cf36d7cb15ea5ea137e929d3b68e372d55f
+    - format: docx
+      name: document.docx
+      bytes: 50322
+      sha256: 82e16e705db76f75004752e9706fcb08acd38bdca31e780711750a29f45c0417
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kang Jinhyeok 29th floor strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

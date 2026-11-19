@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: melvinas-therapy-doc
+category: doc
+title: Melvina’s Therapy doc
+alt_titles:
+- Melvina Therapy
+authors:
+- name: Mrnotme
+  id: mrnotme
+  source: doc-text
+series:
+- melvina-s-therapy
+characters:
+- melvina
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19fAiAS0HW_n2tCLh6MxC45buPzF_XzTEpkG04kWrih4
+    google_id: 19fAiAS0HW_n2tCLh6MxC45buPzF_XzTEpkG04kWrih4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 82
+    words: 10774
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 52189022
+      sha256: 8e861d8dfa1fd8a02e9147c5f1653e60c6d9d25dc6cd03d83492bfd122359c4b
+    - format: docx
+      name: document.docx
+      bytes: 38232030
+      sha256: 8bee4aa26f580e7d3207810cdace863fd9facf2331b86316185fa3e7c27dfb2d
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Melvina Therapy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - characters
+  - series

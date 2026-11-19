@@ -3,9 +3,11 @@ schema_version: 1
 id: the-trust-protocol-detailed-rulebook
 category: doc
 title: 'The Trust Protocol: Detailed Rulebook'
-authors:
+authors: []
+shared_by:
 - name: EnvironmentNo6525
   reddit: EnvironmentNo6525
+  id: environmentno6525
   source: reddit-post
 series: []
 characters: []

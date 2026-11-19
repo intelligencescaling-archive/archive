@@ -3,14 +3,17 @@ schema_version: 1
 id: against-old-maid-doc
 category: doc
 title: Against Old Maid doc
-authors:
+authors: []
+shared_by:
 - name: YujinDoro
   reddit: YujinDoro
+  id: yujindoro
   source: reddit-post
 series:
 - classroom-of-the-elite
 characters:
 - kiyotaka-ayanokoji
+- nagumo-miyabi
 tags: []
 language: en
 completion: unknown

@@ -7,6 +7,7 @@ alt_titles:
 - Kaito Kid Corbeau plan analysis
 authors:
 - name: Nox
+  id: nox
   source: doc-text
 series:
 - case-closed

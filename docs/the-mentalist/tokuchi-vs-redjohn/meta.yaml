@@ -5,12 +5,14 @@ category: doc
 title: Tokuchi vs Redjohn
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
 series:
 - the-mentalist
-- liar-game
+- one-outs
 characters:
 - red-john
+- toua-tokuchi
 tags:
 - matchup
 language: en

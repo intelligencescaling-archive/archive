@@ -3,9 +3,11 @@ schema_version: 1
 id: how-to-create-the-best-child
 category: doc
 title: How To Create The “Best” Child
-authors:
+authors: []
+shared_by:
 - name: Nga-Ballz
   reddit: Nga-Ballz
+  id: nga-ballz
   source: reddit-post
 series: []
 characters: []

@@ -7,10 +7,13 @@ alt_titles:
 - Dark Tower cosmology
 authors:
 - name: Shadow_Death
+  id: shadow-death
   source: doc-text
 - name: Lackluster677777
+  id: lackluster677777
   source: doc-text
 - name: saggezman
+  id: saggezman
   source: doc-text
 series:
 - the-dark-tower

@@ -6,9 +6,11 @@ title: ADM Cases
 alt_titles:
 - (anonymous)
 - ADM Cases (Extended)
-authors:
+authors: []
+shared_by:
 - name: Ninecrom_Arcade
   reddit: Ninecrom_Arcade
+  id: ninecrom-arcade
   source: reddit-post
 series: []
 characters: []

@@ -7,6 +7,7 @@ alt_titles:
 - Koji's 100 million books CPI feat debunk
 authors:
 - name: scd_scal489
+  id: scd-scal489
   source: doc-text
 series:
 - classroom-of-the-elite

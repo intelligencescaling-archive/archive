@@ -9,6 +9,7 @@ alt_titles:
 authors:
 - name: Subjectively_Normal
   reddit: Subjectively_Normal
+  id: subjectively-normal
   source: reddit-post
 series:
 - ace-attorney

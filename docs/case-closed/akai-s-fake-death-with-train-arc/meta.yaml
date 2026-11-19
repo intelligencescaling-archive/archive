@@ -7,10 +7,13 @@ alt_titles:
 - Conan's Akai Fake Death Plan
 authors:
 - name: scroll
+  id: scroll
   source: doc-text
 - name: majd
+  id: majd
   source: doc-text
 - name: vinit
+  id: vinit
   source: doc-text
 series:
 - case-closed

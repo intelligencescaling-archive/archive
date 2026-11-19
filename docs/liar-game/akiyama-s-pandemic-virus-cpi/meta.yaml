@@ -5,8 +5,10 @@ category: doc
 title: Akiyama's Pandemic Vírus CPI
 authors:
 - name: Difuge1
+  id: difuge1
   source: doc-text
 - name: Tokho
+  id: tokho
   source: doc-text
 series:
 - liar-game

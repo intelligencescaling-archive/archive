@@ -7,8 +7,10 @@ alt_titles:
 - Moriarty CPI
 authors:
 - name: Indra
+  id: indra
   source: doc-text
 - name: Dominoo
+  id: dominoo
   source: doc-text
 series:
 - moriarty-the-patriot

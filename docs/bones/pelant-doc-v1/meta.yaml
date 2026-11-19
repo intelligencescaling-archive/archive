@@ -5,8 +5,10 @@ category: doc
 title: Pelant Doc V1
 authors:
 - name: Silver
+  id: silver
   source: doc-text
 - name: Sprite
+  id: sprite
   source: doc-text
 series:
 - bones

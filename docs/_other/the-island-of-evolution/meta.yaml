@@ -3,9 +3,11 @@ schema_version: 1
 id: the-island-of-evolution
 category: doc
 title: The island of evolution
-authors:
+authors: []
+shared_by:
 - name: Spinosaurus23
   reddit: Spinosaurus23
+  id: spinosaurus23
   source: reddit-post
 series: []
 characters: []

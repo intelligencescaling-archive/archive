@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: covenant-arc
+category: doc
+title: Covenant Arc
+alt_titles:
+- Kang Jinhyeok covenant arc strategy
+authors: []
+series:
+- solo-max-level-newbie
+characters:
+- kang-jinhyeok
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vjlLSW2d1RuIza35PtLXaH27P4SRgw1lGNrYCLGEw_4
+    google_id: 1vjlLSW2d1RuIza35PtLXaH27P4SRgw1lGNrYCLGEw_4
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 19
+    words: 11442
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 528248
+      sha256: efe4953e3bb2b195ba8e410dc8bb38d0496e12cbee224bb392f50f49e2c0b4ab
+    - format: docx
+      name: document.docx
+      bytes: 224665
+      sha256: 077502119e108f012a2752c62344781d63a1a60576990aca55e5177693d6b835
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kang Jinhyeok covenant arc strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

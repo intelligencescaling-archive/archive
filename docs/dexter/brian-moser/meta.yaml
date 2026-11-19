@@ -7,6 +7,7 @@ alt_titles:
 - Novels Brian Moser SCD document
 authors:
 - name: Osbis
+  id: osbis
   source: doc-text
 series:
 - dexter

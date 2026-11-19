@@ -5,10 +5,17 @@ category: doc
 title: Klein Moretti Volume 8
 authors:
 - name: marco.123
+  id: marco-123
   source: doc-text
+shared_by:
+- name: Jazzlike_Peanut_2792
+  reddit: Jazzlike_Peanut_2792
+  id: jazzlike-peanut-2792
+  source: reddit-post
 series:
 - lord-of-the-mysteries
-characters: []
+characters:
+- klein-moretti
 tags: []
 language: en
 completion: unknown

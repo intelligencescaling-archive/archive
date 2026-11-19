@@ -9,6 +9,7 @@ alt_titles:
 - Document1
 authors:
 - name: PointScales
+  id: pointscales
   source: doc-text
 series:
 - death-note

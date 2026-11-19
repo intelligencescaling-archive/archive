@@ -8,6 +8,7 @@ alt_titles:
 - Minotaur Labyrinth Strategy
 authors:
 - name: Whitty
+  id: whitty
   source: doc-text
 series:
 - usogui

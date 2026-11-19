@@ -7,6 +7,7 @@ alt_titles:
 - Otto Von Bismarck part 1
 authors:
 - name: Azraelyc
+  id: azraelyc
   source: doc-text
 series:
 - real-life

@@ -3,9 +3,11 @@ schema_version: 1
 id: peter-the-viennese
 category: doc
 title: Peter the Viennese
-authors:
+authors: []
+shared_by:
 - name: Geolib1453
   reddit: Geolib1453
+  id: geolib1453
   source: reddit-post
 series: []
 characters: []

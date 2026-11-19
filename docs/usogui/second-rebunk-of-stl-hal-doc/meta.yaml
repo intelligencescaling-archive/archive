@@ -7,6 +7,7 @@ alt_titles:
 - Hal rebunk 2
 authors:
 - name: JoJolon
+  id: jojolon
   source: doc-text
 series:
 - usogui

@@ -5,6 +5,7 @@ category: doc
 title: Bobby Fischer's Strategy
 authors:
 - name: umontrose
+  id: umontrose
   source: doc-text
 series:
 - real-life

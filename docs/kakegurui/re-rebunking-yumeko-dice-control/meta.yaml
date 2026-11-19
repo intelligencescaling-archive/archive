@@ -7,6 +7,7 @@ alt_titles:
 - Rebunk of the second debunk
 authors:
 - name: SoundStorm
+  id: soundstorm
   source: doc-text
 series:
 - kakegurui

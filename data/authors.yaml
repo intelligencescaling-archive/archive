@@ -1,0 +1,1449 @@
+# Author registry: one record per person. ids are used in meta.yaml `authors[].id` and `shared_by[].id`.
+# Hand-kept: merge two records by moving names/handles into one and deleting the other; the build adds new people.
+- id: a-xakimv
+  name: sar6astic
+  reddit:
+  - a_xakimv
+  note: '''Made by @sar6astic (Tiktok) / a_xakimv (Reddit)'''
+- id: abby
+  name: Abby
+- id: acce
+  name: Acce
+- id: ace
+  name: Ace
+- id: ace7116
+  name: Ace7116
+- id: acolbioreborn
+  name: AcolBioReborn
+- id: adam
+  name: Adam
+- id: admirable-visual-406
+  name: Admirable-Visual-406
+  reddit:
+  - Admirable-Visual-406
+- id: admirable-yak2806
+  name: Admirable-Yak2806
+  reddit:
+  - Admirable-Yak2806
+- id: agent-ct8kv
+  name: AGENT-ct8kv
+- id: agentmcbacon
+  name: AgentMcBacon
+- id: agentnemo
+  name: AgentNemo
+- id: aimrjeremy
+  name: AimRJeremy
+- id: airwaymaxxer
+  name: Airwaymaxxer
+  reddit:
+  - Airwaymaxxer
+- id: ajakaki
+  name: ajakaki
+  reddit:
+  - ajakaki
+- id: ajjsjsns
+  name: Ajjsjsns
+  aliases:
+  - Reblex369
+  note: '''Ajjsjsns (Reblex369, me!!!!!)'''
+- id: aki
+  name: Aki
+- id: aki-ishi
+  name: Aki_Ishi
+- id: aki-ishi-2
+  name: Aki_Ishi_2
+- id: akuma-ujjain
+  name: Akuma Ujjain
+- id: alternative-fox-4534
+  name: Alternative_Fox_4534
+  reddit:
+  - Alternative_Fox_4534
+- id: amin
+  name: Amin
+- id: ancient-end
+  name: Ancient-End
+- id: ancient-end2474
+  name: Ancient-End2474
+  reddit:
+  - Ancient-End2474
+- id: angelotbg
+  name: angelotbg_
+- id: angerissue
+  name: AngerIssue
+- id: animangamastarmedia
+  name: AniMangaMastarMedia
+- id: anition
+  name: Anition
+- id: annualfrequent7426
+  name: AnnualFrequent7426
+  reddit:
+  - AnnualFrequent7426
+- id: aphelios
+  name: Aphelios
+- id: aphelios-aep-on-tt
+  name: aphelios.aep on tt
+- id: apostolos
+  name: Apóstolos
+  aliases:
+  - Apos
+  note: '''Created by: Apóstolos (Apos)'''
+- id: appropriaterub6185
+  name: AppropriateRub6185
+  reddit:
+  - AppropriateRub6185
+- id: aquitosias
+  name: Aquitosias
+  reddit:
+  - Aquitosias
+- id: arcadia
+  name: Arcadia
+- id: ardent-west
+  name: Ardent_WEST
+  reddit:
+  - Ardent_WEST
+- id: armagedon
+  name: armagedon--
+  reddit:
+  - armagedon--
+- id: arthen
+  name: Arthen
+- id: arvinsins
+  name: arvinsins
+  reddit:
+  - arvinsins
+- id: aryan
+  name: Aryan
+- id: aryanakane
+  name: Aryanakane
+- id: asideok1035
+  name: AsideOk1035
+  reddit:
+  - AsideOk1035
+- id: asinsio
+  name: Asinsio
+- id: asinsiofr
+  name: Asinsiofr
+- id: aufseher
+  name: Aufseher
+- id: awaken
+  name: AwaKen
+- id: axcel
+  name: Axcel
+- id: axiom
+  name: Axiom
+- id: azraelyc
+  name: Azraelyc
+- id: bakumadarama
+  name: BakuMadarama
+  reddit:
+  - BakuMadarama
+- id: bakusfather1029
+  name: bakusfather1029
+- id: banesmanifold
+  name: Banesmanifold
+- id: berl1863
+  name: berl1863
+- id: berl8989
+  name: berl8989
+- id: beyond
+  name: Beyond
+- id: big-presentation-894
+  name: Big_Presentation_894
+  reddit:
+  - Big_Presentation_894
+- id: biggy121212
+  name: Biggy121212
+  reddit:
+  - Biggy121212
+- id: bittus
+  name: Bittus
+- id: blank-face
+  name: blank face
+- id: blazi
+  name: BLAZI
+- id: bobsican
+  name: Bobsican
+- id: bornpass8985
+  name: BornPass8985
+  reddit:
+  - BornPass8985
+- id: brunchbois
+  name: brunchbois
+  reddit:
+  - brunchbois
+- id: budgetposition6080
+  name: BudgetPosition6080
+  reddit:
+  - BudgetPosition6080
+- id: business-island-7993
+  name: Business_Island_7993
+  reddit:
+  - Business_Island_7993
+- id: c
+  name: -C-
+- id: calcu
+  name: Calcu
+- id: calculadora
+  name: Calculadora
+- id: cardlampp
+  name: CardLampp
+  aliases:
+  - Cardlamp
+  reddit:
+  - CardLampp
+- id: cento
+  name: Cento
+- id: cheatspeed
+  name: Cheatspeed
+- id: checkmate
+  name: Checkmate
+- id: checkmate-71
+  name: CHECKMATE_71
+- id: chenr30829
+  name: Chenr30829
+  reddit:
+  - Chenr30829
+- id: chilpalendo
+  name: chilpalendo
+- id: chronos
+  name: Chronos
+- id: chunam
+  name: ChuNam
+- id: clauver
+  name: Clauver
+- id: clauverctw
+  name: clauverctw
+- id: cleax
+  name: Cleax
+- id: clockman
+  name: Clockman
+- id: cloud
+  name: Cloud
+- id: cloud-s
+  name: Cloud(s)
+- id: communist-crusaders
+  name: Communist_Crusaders
+  reddit:
+  - Communist_Crusaders
+- id: connect-fudge8942
+  name: Connect-Fudge8942
+  reddit:
+  - Connect-Fudge8942
+- id: connor
+  name: Connor
+- id: conversationsea1684
+  name: ConversationSea1684
+  reddit:
+  - ConversationSea1684
+- id: coolguy
+  name: Coolguy
+- id: cotefan456
+  name: cotefan456
+- id: counterkouji
+  name: CounterKouji
+- id: creationcawthon2
+  name: CreationCawthon2
+  reddit:
+  - CreationCawthon2
+  note: same handle
+- id: creepy-ebb-3026
+  name: Creepy-Ebb-3026
+  reddit:
+  - Creepy-Ebb-3026
+- id: ctrl
+  name: ctrl
+- id: cucharoth
+  name: Cucharoth
+- id: d0ntkn0wmyself
+  name: d0ntkn0wmyself
+  reddit:
+  - d0ntkn0wmyself
+- id: darkness-death-empty
+  name: darkness_death_empty
+  reddit:
+  - darkness_death_empty
+- id: darthren132
+  name: Darthren132
+- id: dax-pmft
+  name: DAX PMFT
+  reddit:
+  - Permafrost-Il
+  note: name + handle on the same credit
+- id: dbtrf
+  name: DBTRF
+  reddit:
+  - DBTRF
+- id: ddy
+  name: DDY
+- id: dedu-ly-britannia
+  name: Dedu Ly Britannia
+- id: deducing-analyst
+  name: Deducing_Analyst
+- id: deducing-analyst-reawakened
+  name: Deducing Analyst Reawakened
+- id: deletinredditsoon
+  name: DeletinRedditsoon
+  reddit:
+  - DeletinRedditsoon
+- id: destruction
+  name: Destruction
+- id: detective-kana
+  name: Detective_Kana
+- id: dezarex-moon
+  name: Dezarex-Moon
+- id: different-click9753
+  name: Different-Click9753
+  reddit:
+  - Different-Click9753
+- id: difficult-culture330
+  name: Cris Mix
+  reddit:
+  - Difficult_Culture330
+  note: name + handle on the same credit
+- id: difuge1
+  name: Difuge1
+- id: dilly
+  name: Dilly
+- id: dimen-sensei
+  name: Dimen-sensei
+- id: dl-detective-lawliet
+  name: DL (Detective Lawliet)
+- id: domino
+  name: Domino
+- id: dominoo
+  name: Dominoo
+- id: drmillmatt
+  name: DrMillMatt
+- id: druxzy
+  name: Druxzy
+- id: due-ad8334
+  name: TheNoo
+  aliases:
+  - Due_Ad8834
+  reddit:
+  - Due_Ad8334
+  note: '''Made by TheNoo (u/Due_Ad8334)''; Due_Ad8834 is a typo in one doc'
+- id: dustrustguts
+  name: DustRustGuts
+- id: dutloto
+  name: Dutloto
+- id: economy-echo-8500
+  name: Echonomy
+  reddit:
+  - Economy_Echo_8500
+  note: '''u/Economy_Echo_8500/Echonomy'''
+- id: eggapprehensive7792
+  name: EggApprehensive7792
+  reddit:
+  - EggApprehensive7792
+- id: endur
+  name: endur
+- id: enginedrive
+  name: EngineDrive
+  reddit:
+  - EngineDrive
+- id: enii
+  name: Enii
+- id: environmentno6525
+  name: EnvironmentNo6525
+  reddit:
+  - EnvironmentNo6525
+- id: erika
+  name: Erika
+- id: erikagoat
+  name: Erikagoat
+- id: eru
+  name: Eru
+- id: evencountry7933
+  name: EvenCountry7933
+  reddit:
+  - EvenCountry7933
+- id: evernight
+  name: EVERNIGHT
+- id: expensive-oven5953
+  name: Expensive-Oven5953
+  reddit:
+  - Expensive-Oven5953
+- id: express-finger-2648
+  name: Express-Finger-2648
+  reddit:
+  - Express-Finger-2648
+- id: fall
+  name: Fall
+- id: far-transition-1599
+  name: Far_Transition_1599
+  reddit:
+  - Far_Transition_1599
+- id: farhen007
+  name: Farhen007
+- id: fatedaa
+  name: FateDaA
+  reddit:
+  - FateDaA
+- id: fax-novu
+  name: Fax Novu
+- id: faxsai
+  name: Faxsai
+- id: federal-manner3880
+  name: Federal-Manner3880
+  reddit:
+  - Federal-Manner3880
+  note: same handle
+- id: fezzih-007
+  name: Fezzih 007
+- id: filipkrzakthekiller
+  name: Filipkrzakthekiller
+- id: financial-fix2412
+  name: Financial-Fix2412
+  reddit:
+  - Financial-Fix2412
+- id: fit-veterinarian
+  name: Fit-Veterinarian
+- id: fluffytaste4061
+  name: FluffyTaste4061
+  reddit:
+  - FluffyTaste4061
+- id: footlessbird17
+  name: FootlessBird17
+  reddit:
+  - FootlessBird17
+- id: forallposterity
+  name: ForAllPosterity
+- id: fran
+  name: Fran
+- id: freddy-fivebear
+  name: Freddy Fivebear
+- id: free-huckleberry3503
+  name: Free-Huckleberry3503
+  reddit:
+  - Free-Huckleberry3503
+- id: frishinichi
+  name: FRIShinichi
+  reddit:
+  - FRIShinichi
+- id: fun-fold9539
+  name: Fun-Fold9539
+  reddit:
+  - Fun-Fold9539
+- id: g-i-h-f
+  name: G.I.H.F
+- id: g-z
+  name: G Z
+- id: gabybel
+  name: Gabybel
+- id: galaxpro
+  name: GalaxPro
+  reddit:
+  - _galaxpro_
+- id: ganve
+  name: Ganve
+- id: gekonen
+  name: Gekonen
+- id: gensolos
+  name: gensolos
+- id: geolib1453
+  name: Geolib1453
+  reddit:
+  - Geolib1453
+- id: ghostdog
+  name: ghostdog
+- id: ghs
+  name: ghs
+- id: goatkami
+  name: GoatKami
+- id: gold-leadership1844
+  name: Gold_Leadership1844
+  reddit:
+  - Gold_Leadership1844
+- id: green-bean
+  name: Green Bean
+- id: greentoaststone
+  name: Greentoaststone
+  reddit:
+  - Greentoaststone
+- id: grove421
+  name: Grove421
+- id: gruner-drache
+  name: Grüner Drache
+- id: gustavo
+  name: Gustavo
+- id: gustavo-sborz
+  name: Gustavo Sborz
+- id: gxthie
+  name: GXTHIE
+- id: hal-lallo
+  name: Hal Lallo
+- id: hans
+  name: Hans
+- id: hans00661
+  name: Hans00661
+- id: hassan-mustafa
+  name: Hassan Mustafa
+- id: hayateshiraishi
+  name: hayateshiraishi
+  reddit:
+  - hayateshiraishi
+- id: hayatoz
+  name: Hayatoz
+- id: heckthiscrapimout
+  name: heckthiscrapimout
+  reddit:
+  - heckthiscrapimout
+- id: hellos
+  name: Hellos
+- id: hellos-17
+  name: Hellos-17
+- id: hellothere1089
+  name: HelloThere1089
+- id: herald
+  name: Herald
+- id: hideedit
+  name: HideEdit
+- id: hiroishere
+  name: HiroIsHere
+- id: historical-fun-2618
+  name: Historical-Fun-2618
+  reddit:
+  - Historical-Fun-2618
+- id: hola89
+  name: hola89
+- id: horror
+  name: Horror
+- id: horrorhistory
+  name: horrorhistory
+- id: horrormente
+  name: horrormente
+- id: hour-reach7418
+  name: Hour-Reach7418
+  reddit:
+  - Hour-Reach7418
+- id: hourframe9349
+  name: HourFrame9349
+- id: huegexick
+  name: Huegexick
+- id: hypervenomxtreme2-0
+  name: Hypervenomxtreme2.0
+  note: same name
+- id: iamnotbatman132
+  name: IAmNotBatman132
+  reddit:
+  - IAmNotBatman132
+- id: illregister5884
+  name: IllRegister5884
+  reddit:
+  - IllRegister5884
+- id: im-futuree
+  name: Im_Futuree
+  reddit:
+  - Im_Futuree
+- id: immortal-f8k
+  name: immortal-f8k
+- id: incidentill7680
+  name: IncidentIll7680
+  reddit:
+  - IncidentIll7680
+- id: individual-gap-105
+  name: Individual-Gap-105
+  reddit:
+  - Individual-Gap-105
+- id: indra
+  name: Indra
+- id: inferno
+  name: Inferno
+- id: inhellextreamplayer
+  name: InHellExtreamPlayer
+  reddit:
+  - InHellExtreamPlayer
+- id: intelligent-dog7943
+  name: Intelligent_Dog7943
+  reddit:
+  - Intelligent_Dog7943
+- id: j3llo192
+  name: j3llo192
+- id: jackthezodiac
+  name: Jackthezodiac
+- id: jagger
+  name: Jagger
+- id: jaiben
+  name: Jaiben
+- id: jalias
+  name: Jalias
+- id: jarionn
+  name: Jarionn
+  reddit:
+  - Jarionn
+- id: jas2hard
+  name: jas2hard
+  reddit:
+  - jas2hard
+- id: javier
+  name: Javier
+  aliases:
+  - Toke
+  note: '''I''m Javier/Toke'''
+- id: jaychef
+  name: JayChef
+- id: jazzlike-peanut-2792
+  name: Jazzlike_Peanut_2792
+  reddit:
+  - Jazzlike_Peanut_2792
+- id: jdp
+  name: JDP
+- id: jibril
+  name: Jibril
+- id: joeri
+  name: Joeri
+- id: johan-jonasson
+  name: Johan Jonasson
+- id: jojolon
+  name: JoJolon
+- id: jonas
+  name: Jonas
+- id: joshy-montage
+  name: Joshy_Montage
+  reddit:
+  - Joshy_Montage
+- id: jplights
+  name: JPlights
+- id: jumpy-ad6881
+  name: Jumpy-Ad6881
+  reddit:
+  - Jumpy-Ad6881
+- id: k
+  name: K
+- id: kaizer-jester
+  name: Kaizer Jester
+- id: kakarot362
+  name: Kakarot362
+- id: kasm-1337
+  name: Kasm.1337
+  aliases:
+  - The Ultimate Subaru Glazer
+  note: '''Kasm.1337 (The Ultimate Subaru Glazer)'''
+- id: katagiricuts
+  name: KatagiriCuts
+- id: kc
+  name: KC
+- id: kenox
+  name: Kenox
+- id: khadz
+  name: khadz
+- id: kiet
+  name: Kiệt
+- id: kingdod69
+  name: kingdod69
+- id: kingjaymes1234
+  name: kingjaymes1234
+  reddit:
+  - kingjaymes1234
+- id: kingjemz
+  name: kingjemz
+- id: kira-cifer
+  name: Kira.cifer
+- id: kirbo
+  name: Kirbo
+- id: kiryu-moretti
+  name: Kiryu Moretti
+- id: kitchencoyote
+  name: KitchenCoyote
+- id: kitchencoyote-the2nd
+  name: KitchenCoyote_The2nd
+  reddit:
+  - KitchenCoyote_The2nd
+- id: kiyokouji
+  name: Kiyokouji
+- id: kokichi
+  name: Kokichi
+- id: kronensegler
+  name: Kronensegler
+- id: kxngkarma17
+  name: Kxngkarma17
+- id: kylizz
+  name: Kylizz
+- id: lackluster677777
+  name: Lackluster677777
+- id: last-trainer-3323
+  name: Last-Trainer-3323
+  reddit:
+  - Last-Trainer-3323
+- id: last-trainer-333
+  name: Last-Trainer-333
+  reddit:
+  - Last-Trainer-333
+- id: lawlietfym
+  name: Lawlietfym
+- id: lena-fox8
+  name: Lena_Fox8
+- id: lenaisapeak
+  name: Lenaisapeak
+- id: leo
+  name: Leo
+- id: less-puddingdrawer
+  name: Less_Puddingdrawer
+  aliases:
+  - Equal_qustard0
+  - Db_Puddingdrawer
+  reddit:
+  - Less_Puddingdrawer
+  - Equal_Custard0
+  note: 'doc: ''The reddit account''s name is Equal_custard0''; ''Made by Equal_qustard0 on reddit and Db_Puddingdrawer on discord'''
+- id: lesti-chan
+  name: Lesti-Chan
+- id: lexyo
+  name: Lexyo
+- id: lieeater
+  name: LieEater
+- id: limbo
+  name: Limbo
+- id: lio-h
+  name: lio_h
+- id: lla
+  name: LLA
+- id: lloyaro
+  name: Lloyaro
+- id: local-editz-from-yt
+  name: LOCAL EDITZ FROM YT
+- id: lolking-w7e
+  name: Lolking-w7e
+- id: losuthuswastaken
+  name: LosuthusWasTaken
+  reddit:
+  - LosuthusWasTaken
+- id: luga
+  name: Luga
+- id: luigiderchad2-0
+  name: Luigiderchad2.0
+- id: lyrl1998
+  name: Lyrl1998
+- id: lzyaboiconnor
+  name: lzyaboiConnor
+  reddit:
+  - lzyaboiConnor
+- id: magadanz
+  name: magadanz
+- id: magmax1b
+  name: Magmax1b
+  reddit:
+  - Magmax1b
+- id: majd
+  name: majd
+- id: marco
+  name: Marco
+- id: marco-123
+  name: marco.123
+- id: maskoftheruler
+  name: maskoftheruler
+- id: mastermind
+  name: Mastermind
+- id: mathematicianone4197
+  name: MathematicianOne4197
+  reddit:
+  - MathematicianOne4197
+- id: matthewclark148
+  name: MatthewClark148
+- id: matthyas-job5739
+  name: matthyas-Job
+  reddit:
+  - matthyas-Job5739
+  note: '''Created by:matthyas-Job'', posted by u/matthyas-Job5739'
+- id: matty-the-ace-detective
+  name: Matty the Ace Detective
+- id: mediocre-neat-1207
+  name: kissingveneno
+  reddit:
+  - Mediocre-Neat-1207
+  note: name + handle on the same credit
+- id: mehmetkabak9848
+  name: mehmetkabak9848
+- id: melodic-ad1005
+  name: Melodic_Ad1005
+  reddit:
+  - Melodic_Ad1005
+- id: membershipno9359
+  name: MembershipNo9359
+  reddit:
+  - MembershipNo9359
+- id: memiochii
+  name: Memiochii
+- id: mentalist
+  name: mentalist
+- id: meo
+  name: Meo
+- id: meo6806
+  name: Meo6806
+- id: mightbeleo
+  name: mightbeleo
+- id: milk-thirsty
+  name: milk_thirsty
+  reddit:
+  - milk_thirsty
+- id: millenium-knight
+  name: Yalvin Shoko Millennium Knight
+  aliases:
+  - Millennium Knight
+  reddit:
+  - Millenium_Knight
+  note: name + handle on the same credit; 'Made by Millennium Knight' in 2 docs
+- id: mister-mxyzptik
+  name: Mister_MxyzptIk_
+  reddit:
+  - Mister_MxyzptIk_
+- id: mizumono-2x13
+  name: Mizumono_2x13
+- id: mob5850
+  name: Mob5850
+- id: mohammedamine9
+  name: Mohammedamine9
+  reddit:
+  - Mohammedamine9
+- id: monochrometrav-discord
+  name: monochrometrav-Discord
+- id: morreti-amon
+  name: Morreti_Amon
+- id: mrnotme
+  name: Mrnotme
+  aliases:
+  - Detective Notme
+  - DC-Mrnotme
+  note: '''created by the One & Only Mrnotme/Detective Notme''; ''By DC-Mrnotme (me :D)'''
+- id: muaaz
+  name: Muaaz
+- id: mugen
+  name: Mugen
+- id: murky-possibility655
+  name: Murky_Possibility655
+  reddit:
+  - Murky_Possibility655
+- id: mymyth
+  name: Mymyth
+- id: mysterior-person
+  name: Mysterior Person
+- id: n-ice
+  name: N-Ice
+- id: n-ice-the-one
+  name: N-Ice-the-one
+  reddit:
+  - N-Ice-the-one
+- id: namelessman
+  name: Namelessman
+- id: namy
+  name: Namy
+- id: natsuva
+  name: NatsuVA
+- id: nazif2
+  name: Nazif2
+  reddit:
+  - Nazif2
+- id: near-stagnation-1599
+  name: Near_Stagnation_1599
+  reddit:
+  - Near_Stagnation_1599
+- id: nearby-row4308
+  name: Nearby-Row4308
+  reddit:
+  - Nearby-Row4308
+- id: neat-fold7693
+  name: Neat-Fold7693
+  reddit:
+  - Neat-Fold7693
+- id: neffy
+  name: Neffy
+- id: nga-ballz
+  name: Nga-Ballz
+  reddit:
+  - Nga-Ballz
+- id: ninecrom-arcade
+  name: Ninecrom_Arcade
+  reddit:
+  - Ninecrom_Arcade
+- id: nino-iq
+  name: Nino_IQ
+  reddit:
+  - Nino_IQ
+- id: no-engineering-3223
+  name: No_Engineering_3223
+  reddit:
+  - No_Engineering_3223
+- id: no-engineering9521
+  name: No-Engineering9521
+  reddit:
+  - No-Engineering9521
+- id: no-woodpecker-1801
+  name: No_Woodpecker_1801
+  reddit:
+  - No_Woodpecker_1801
+- id: noobyeditz
+  name: Noobyeditz
+- id: northystar8
+  name: Northystar8
+- id: noscar2207
+  name: NoScar2207
+  reddit:
+  - NoScar2207
+- id: notme
+  name: Notme
+- id: nox
+  name: Nox
+- id: 'null'
+  name: 'Null'
+- id: null-white
+  name: Null White
+- id: obvious-ad-6250
+  name: Obvious_Ad_6250
+  reddit:
+  - Obvious_Ad_6250
+- id: ocolius
+  name: Ocolius
+- id: ok-cardiologist-5925
+  name: Ok_Cardiologist_5925
+  reddit:
+  - Ok_Cardiologist_5925
+- id: ok-chef1056
+  name: Ok_Chef1056
+  reddit:
+  - Ok_Chef1056
+- id: ok-swan-1590
+  name: Ok-Swan-1590
+  reddit:
+  - Ok-Swan-1590
+- id: okemployment2573
+  name: OkEmployment2573
+  reddit:
+  - OkEmployment2573
+- id: omnicon
+  name: Omnicon
+- id: on-my-mama-we-lit
+  name: On My Mama We Lit
+- id: onirax
+  name: Onirax
+- id: opp199
+  name: Opp199
+  aliases:
+  - Piobenneci
+  note: '''Opp199 (Piobenneci)'''
+- id: ornery-list-6670
+  name: Ornery_List_6670
+  reddit:
+  - Ornery_List_6670
+- id: oro
+  name: Oro
+- id: osbis
+  name: Osbis
+- id: overlordthresh
+  name: OverLordThresh
+- id: overseer
+  name: OVERSEER
+- id: parladax
+  name: Parladax
+- id: patchioox
+  name: PatchiooX
+- id: patient-hospital-372
+  name: Patient-Hospital-372
+  reddit:
+  - Patient-Hospital-372
+- id: perdidonasrealidade
+  name: PerdidoNasRealidade
+  reddit:
+  - PerdidoNasRealidade
+- id: phoenix-animationz
+  name: Phoenix Animationz
+- id: pick-me-gal-1092
+  name: Pick_Me_Gal_1092
+  reddit:
+  - Pick_Me_Gal_1092
+- id: pizzus
+  name: Pizzus
+- id: pj
+  name: -PJ-
+- id: plank-krabs66
+  name: plank_krabs66
+- id: plasma
+  name: Plasma
+- id: platfleece
+  name: PlatFleece
+  reddit:
+  - PlatFleece
+- id: pleiades
+  name: Pleiades
+- id: pointscales
+  name: PointScales
+- id: professor-fiction
+  name: Professor Fiction
+- id: proud-magazine-5588
+  name: Proud_Magazine_5588
+  reddit:
+  - Proud_Magazine_5588
+- id: purchaseno3914
+  name: PurchaseNo3914
+  reddit:
+  - PurchaseNo3914
+- id: q-q
+  name: Q_Q
+- id: quick-jaguar-9572
+  name: Quick-Jaguar-9572
+  reddit:
+  - Quick-Jaguar-9572
+- id: quiet-apricot7175
+  name: Quiet_Apricot7175
+  reddit:
+  - Quiet_Apricot7175
+- id: qwerty-8732
+  name: qwerty_8732
+- id: rain
+  name: Rain
+- id: raiontoku
+  name: raiontoku
+- id: ranpo-editz
+  name: ranpo_Editz
+- id: ranposano
+  name: Ranposano
+- id: rashoumon
+  name: Rashoumon
+- id: ratjoe
+  name: RatJoe
+- id: ray
+  name: Ray
+- id: rblxpw
+  name: Rblxpw
+- id: rblxspw
+  name: Rblxspw
+- id: rcn
+  name: RCN
+- id: real1st1cfr1sk
+  name: real1st1cfr1sk
+- id: red-duck
+  name: Red Duck
+- id: reda
+  name: Reda
+- id: reddeathswayoverall
+  name: RedDeathSwayOverAll
+  reddit:
+  - RedDeathSwayOverAll
+- id: redscreen
+  name: Redscreen
+- id: reincarnateddeveloped-supremacy
+  name: ReincarnatedDeveloped Supremacy
+- id: responselower49
+  name: ResponseLower49
+  reddit:
+  - ResponseLower49
+- id: retentioner
+  name: Retentioner
+  reddit:
+  - Retentioner
+- id: reverie
+  name: Reverie
+  aliases:
+  - HORNY SENPAI
+  note: '''by HORNY SENPAI a.k.a Reverie'''
+- id: reverseflash928
+  name: Bruh004
+  reddit:
+  - ReverseFlash928
+  note: '''By Bruh004 (u/ReverseFlash928)'''
+- id: rf532
+  name: RF532
+- id: rian
+  name: Rian
+- id: right-scene5629
+  name: Right-Scene5629
+  reddit:
+  - Right-Scene5629
+- id: riiruu
+  name: Riiruu
+- id: rimurusensei7
+  name: rimurusensei7
+- id: rinnovo
+  name: Rinnovo
+- id: river
+  name: River
+- id: robert
+  name: Robert
+- id: rollonotover
+  name: RolloNotOver
+- id: rorokelly
+  name: rorokelly
+- id: russaltiansanes
+  name: RussAltianSanes
+  reddit:
+  - RussAltianSanes
+- id: ryu
+  name: Ryu
+- id: saggezman
+  name: saggezman
+- id: sahejunderheaven
+  name: SahejUnderHeaven
+- id: salty-refuse-5537
+  name: Salty Refuse
+  reddit:
+  - Salty-Refuse-5537
+  note: '''Made By Salty Refuse'', posted by u/Salty-Refuse-5537'
+- id: samuel
+  name: Samuel
+- id: samuel-alistair
+  name: Samuel Alistair
+- id: samuel-alistair-poyovoird
+  name: Samuel Alistair Poyovoird
+- id: sapientliberexpanse8
+  name: SapientLiberExpanse8
+  reddit:
+  - SapientLiberExpanse8
+- id: saul-badman
+  name: Saul Badman
+- id: scary-examination887
+  name: Scary_Examination887
+  reddit:
+  - Scary_Examination887
+- id: scd-scal1489
+  name: scd_scal1489
+- id: scd-scal489
+  name: scd_scal489
+- id: scroll
+  name: scroll
+- id: scytherzilla
+  name: ScytherZilla
+- id: secure-camp1433
+  name: Secure-Camp1433
+  reddit:
+  - Secure-Camp1433
+- id: sefiros3812
+  name: Sefiros3812
+- id: seiro-iq
+  name: Seiro_IQ
+  reddit:
+  - Seiro_IQ
+- id: sekiryuuteire
+  name: Sekiryuuteire
+- id: sensitive-secret-267
+  name: Sensitive-Secret-267
+  reddit:
+  - Sensitive-Secret-267
+- id: shadow
+  name: Shadow
+- id: shadow-death
+  name: Shadow_Death
+- id: shin
+  name: Shin
+- id: shoslovelytechred
+  name: Shoslovelytechred
+  reddit:
+  - Shoslovelytechred
+- id: sido75
+  name: sido75
+- id: sieben
+  name: Sieben
+- id: signal-experience315
+  name: Signal-Experience315
+  reddit:
+  - Signal-Experience315
+- id: silhouette9999
+  name: Silhouette9999
+- id: silver
+  name: Silver
+- id: silver-sparrow-xd
+  name: Silver-sparrow_XD
+- id: similar-incident8433
+  name: Similar_Incident8433
+  reddit:
+  - Similar_Incident8433
+- id: simply-amazing
+  name: Simply Amazing
+  aliases:
+  - Simply_Amazing
+- id: simply-amazing-1610
+  name: Simply_Amazing_1610
+  reddit:
+  - Simply_Amazing_1610
+- id: slapstick-editz
+  name: Slapstick_Editz
+- id: slick-editzz
+  name: Slick_editzz
+- id: slick-editzzz
+  name: slick_editzzz
+- id: smittenbychabs
+  name: SmittenbyChabs
+  reddit:
+  - SmittenbyChabs
+- id: snack-com
+  name: SNACK_com
+  reddit:
+  - SNACK_com
+- id: snokebrabox
+  name: Snokebrabox
+- id: sojikoji
+  name: sojikoji
+- id: solo2232-21
+  name: Solo2232_21
+  reddit:
+  - Solo2232_21
+- id: sonder
+  name: sonder
+- id: soumikdeb1
+  name: SoumikDeb1
+  aliases:
+  - Soumik Debnath
+  reddit:
+  - SoumikDeb1
+- id: soundstorm
+  name: SoundStorm
+- id: soundstorm7
+  name: SoundStorm7
+  reddit:
+  - SoundStorm7
+- id: spinosaurus23
+  name: Spinosaurus23
+  reddit:
+  - Spinosaurus23
+- id: spirited-effort6325
+  name: Spirited-Effort6325
+  reddit:
+  - Spirited-Effort6325
+- id: sprinkleswarm5035
+  name: SprinklesWarm5035
+  reddit:
+  - SprinklesWarm5035
+- id: sprite
+  name: Sprite
+- id: spritethecola
+  name: spriteThecola
+- id: sscoopers
+  name: sscoopers
+  reddit:
+  - sscoopers
+- id: striking-dot-9947
+  name: Striking-Dot-9947
+  reddit:
+  - Striking-Dot-9947
+- id: subject-log7025
+  name: Subject-Log7025
+  reddit:
+  - Subject-Log7025
+- id: subjectively-normal
+  name: Subjectively_Normal
+  reddit:
+  - Subjectively_Normal
+- id: successful-cup-3948
+  name: Successful_Cup_3948
+  reddit:
+  - Successful_Cup_3948
+- id: superbearneo
+  name: SuperBearNeo
+- id: survoyd
+  name: Survoyd
+- id: suspicious-cut3802
+  name: suspicious-cut3802
+- id: suunt
+  name: suunt
+- id: tanvir
+  name: Tanvir
+- id: teare
+  name: Tearé
+- id: techmeo
+  name: TechMeo
+- id: tensai
+  name: Tensai
+- id: teru
+  name: Teru
+- id: teyfik
+  name: Teyfik
+- id: teyfik1432
+  name: Teyfik1432
+- id: thatboirick
+  name: ThatBoiRick
+- id: the-anime-nox
+  name: the_anime_nox
+- id: the-eagle-union
+  name: The Eagle Union
+  aliases:
+  - Eagle Union
+- id: the-shapeless-theory
+  name: The.Shapeless.Theory
+- id: thecardinalking
+  name: TheCardinalKing
+- id: thecheergoose
+  name: TheCheerGoose
+  reddit:
+  - TheCheerGoose
+- id: thehuntsman1001
+  name: TheHuntsman1001
+- id: thekingstrategist13
+  name: TheKingStrategist13
+- id: theller
+  name: Theller
+- id: thenamelessmonster
+  name: TheNamelessMonster_-
+  reddit:
+  - TheNamelessMonster_-
+- id: throatspirited1493
+  name: ThroatSpirited1493
+  reddit:
+  - ThroatSpirited1493
+- id: throwaway98222122
+  name: Throwaway98222122
+  reddit:
+  - Throwaway98222122
+- id: timo
+  name: Timo
+- id: toji
+  name: Toji
+- id: tokho
+  name: Tokho
+- id: tom-taylor-productions
+  name: Tom Taylor Productions
+- id: top-arm-5459
+  name: Top-Arm-5459
+  reddit:
+  - Top-Arm-5459
+- id: top-order7475
+  name: Top-Order7475
+  reddit:
+  - Top-Order7475
+- id: topeconomics1897
+  name: TopEconomics1897
+  reddit:
+  - TopEconomics1897
+- id: toxico
+  name: Toxico
+- id: travelingzebra
+  name: TravelingZebra
+- id: trd
+  name: TRD
+- id: trixie
+  name: Trixie
+- id: umogrimes
+  name: umogrimes
+- id: umontrose
+  name: umontrose
+- id: universal
+  name: Universal
+- id: unknownuser
+  name: unknownuser
+- id: upperlvl898
+  name: upperlvl898
+  reddit:
+  - upperlvl898
+- id: usoguitard
+  name: Usoguitard
+  reddit:
+  - Usoguitard
+- id: v5mk
+  name: v5mk
+- id: valxn1e
+  name: Valxn1e
+  reddit:
+  - Valxn1e
+- id: velquinn
+  name: Velquinn
+- id: velvet
+  name: Velvet
+- id: veneno
+  name: Veneno
+  reddit:
+  - Veneno
+- id: veneno-on
+  name: Veneno on
+- id: veris
+  name: Veris
+- id: vincent-lalo1
+  name: Vincent_Lalo1
+  reddit:
+  - Vincent_Lalo1
+- id: vincet-qo
+  name: Vincet_Qo
+  reddit:
+  - Vincet_Qo
+- id: vinit
+  name: vinit
+- id: virtue-oppsosto
+  name: Virtue_Oppsosto
+  reddit:
+  - Virtue_Oppsosto
+- id: visitusual8507
+  name: VisitUsual8507
+  reddit:
+  - VisitUsual8507
+- id: void-novel
+  name: void novel
+- id: voidset
+  name: Voidset_
+  reddit:
+  - Voidset_
+- id: vquip
+  name: VQuip
+- id: wai
+  name: WAI
+- id: waltwhite62
+  name: WaltWhite62
+  reddit:
+  - WaltWhite62
+- id: wanoxx
+  name: Wanoxx
+- id: westno356
+  name: WestNo356
+  reddit:
+  - WestNo356
+- id: whanks
+  name: Whanks
+  aliases:
+  - Whanks 🇧🇷
+  note: same name with a flag emoji
+- id: whitty
+  name: Whitty
+- id: whynot5534
+  name: Whynot5534
+- id: xamot113
+  name: Xamot113
+  reddit:
+  - Xamot113
+- id: xd-killa79xx
+  name: xd_killa79xx
+- id: xdwasgone
+  name: XDwasGone
+- id: xorpaw
+  name: XorPaw
+- id: xxshigurimaxx
+  name: XxshigurimaxX
+  aliases:
+  - shigurima
+  reddit:
+  - XxshigurimaxX
+- id: yashizu
+  name: Yashizu
+- id: yazsob
+  name: Yazsob
+- id: yujindoro
+  name: YujinDoro
+  reddit:
+  - YujinDoro
+- id: yunodiaryy
+  name: yunodiaryy
+- id: yusha
+  name: Yusha
+- id: yuuichigiri
+  name: YuuichiGiri
+- id: zandro
+  name: Zandro
+- id: zef
+  name: Zef
+- id: zerozeroma
+  name: Zerozeroma
+  reddit:
+  - Zerozeroma
+- id: zladerz
+  name: Zladerz
+- id: zolox0
+  name: zolox0
+  reddit:
+  - zolox0
+- id: zruft
+  name: Zruft
+- id: zz-zz9he
+  name: ZZ_Zz9he
+  reddit:
+  - ZZ_Zz9he
+- id: zz11xr
+  name: Zz11xr
+- id: zz9he
+  name: Zz9he
+- id: zz9he-for-topman
+  name: zz9he for topman

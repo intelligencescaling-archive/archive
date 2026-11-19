@@ -6,7 +6,20 @@ title: Original Sin Brian Moser Document
 alt_titles:
 - 'Original Sin: Brian Moser Document'
 authors:
-- name: N-Ice
+- name: AgentMcBacon
+  id: agentmcbacon
+  source: doc-text
+- name: Aphelios
+  id: aphelios
+  source: doc-text
+- name: Kenox
+  id: kenox
+  source: doc-text
+- name: LieEater
+  id: lieeater
+  source: doc-text
+- name: Null White
+  id: null-white
   source: doc-text
 series:
 - dexter
@@ -54,4 +67,5 @@ added: '2026-11-15'
 review:
   status: reviewed
   by: scd-archivist
-  date: '2026-11-15'
+  date: '2026-11-18'
+notes: 'Label fix 2026-11-18: credits from the ''People that made this document possible'' list (N-Ice made a linked doc)'

@@ -3,9 +3,11 @@ schema_version: 1
 id: lincoln-feats-list
 category: doc
 title: Lincoln feats list
-authors:
+authors: []
+shared_by:
 - name: Historical-Fun-2618
   reddit: Historical-Fun-2618
+  id: historical-fun-2618
   source: reddit-post
 series: []
 characters: []

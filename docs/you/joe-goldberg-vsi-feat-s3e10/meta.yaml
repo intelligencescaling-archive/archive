@@ -5,10 +5,13 @@ category: doc
 title: Joe Goldberg VSI Feat (S3E10)
 authors:
 - name: umogrimes
+  id: umogrimes
   source: doc-text
 - name: sido75
+  id: sido75
   source: doc-text
 - name: Cheatspeed
+  id: cheatspeed
   source: doc-text
 series:
 - you

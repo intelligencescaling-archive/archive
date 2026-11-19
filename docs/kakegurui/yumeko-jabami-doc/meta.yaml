@@ -5,14 +5,19 @@ category: doc
 title: Yumeko Jabami Doc
 authors:
 - name: Hayatoz
+  id: hayatoz
   source: doc-text
 - name: SoundStorm
+  id: soundstorm
   source: doc-text
 - name: Cento
+  id: cento
   source: doc-text
 - name: Joeri
+  id: joeri
   source: doc-text
 - name: Hellos
+  id: hellos
   source: doc-text
 series:
 - kakegurui

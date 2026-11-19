@@ -5,14 +5,17 @@ category: doc
 title: 'Akiyama''s core trait: seeing through the game (annotated rebuttal)'
 alt_titles:
 - I hope to god you understand typing a bunch of words doesnt help your case lmfao
-authors:
+authors: []
+shared_by:
 - name: FateDaA
   reddit: FateDaA
+  id: fatedaa
   source: reddit-post
 series:
 - liar-game
 - danganronpa
-characters: []
+characters:
+- akiyama-shinichi
 tags: []
 language: en
 completion: unknown

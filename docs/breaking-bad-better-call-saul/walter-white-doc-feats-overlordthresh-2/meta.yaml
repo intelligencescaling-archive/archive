@@ -4,8 +4,13 @@ id: walter-white-doc-feats-overlordthresh-2
 category: doc
 title: Walter White Doc (Feats) - OverLordThresh
 authors:
+- name: OverlordThresh
+  id: overlordthresh
+  source: doc-text
+shared_by:
 - name: Communist_Crusaders
   reddit: Communist_Crusaders
+  id: communist-crusaders
   source: reddit-post
 series:
 - breaking-bad-better-call-saul
@@ -46,6 +51,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

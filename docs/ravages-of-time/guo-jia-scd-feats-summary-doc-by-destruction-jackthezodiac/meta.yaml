@@ -7,8 +7,10 @@ alt_titles:
 - Guo Jia Feats Summary document
 authors:
 - name: Destruction
+  id: destruction
   source: doc-text
 - name: Jackthezodiac
+  id: jackthezodiac
   source: doc-text
 series:
 - ravages-of-time

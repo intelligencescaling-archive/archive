@@ -7,16 +7,22 @@ alt_titles:
 - Subaru Natsuki Writing Doc
 authors:
 - name: Opp199
+  id: opp199
   source: doc-text
 - name: Kasm.1337
+  id: kasm-1337
   source: doc-text
 - name: Sekiryuuteire
+  id: sekiryuuteire
   source: doc-text
 - name: Rblxspw
+  id: rblxspw
   source: doc-text
 - name: NatsuVA
+  id: natsuva
   source: doc-text
 - name: Ajjsjsns
+  id: ajjsjsns
   source: doc-text
 series:
 - re-zero

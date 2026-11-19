@@ -8,6 +8,7 @@ alt_titles:
 authors:
 - name: RussAltianSanes
   reddit: RussAltianSanes
+  id: russaltiansanes
   source: reddit-post
 series:
 - house
@@ -43,5 +44,4 @@ notes: 'The owner turned off downloads, so no PDF or DOCX could be saved. This t
 review:
   status: auto
   check:
-  - authors
   - characters

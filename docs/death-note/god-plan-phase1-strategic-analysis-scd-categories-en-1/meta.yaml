@@ -3,9 +3,11 @@ schema_version: 1
 id: god-plan-phase1-strategic-analysis-scd-categories-en-1
 category: doc
 title: God_Plan_Phase1_Strategic_Analysis_SCD_Categories_EN (1)
-authors:
+authors: []
+shared_by:
 - name: Last-Trainer-3323
   reddit: Last-Trainer-3323
+  id: last-trainer-3323
   source: reddit-post
 series:
 - death-note

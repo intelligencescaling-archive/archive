@@ -7,6 +7,7 @@ alt_titles:
 - PMH Rebunk’s Debunk
 authors:
 - name: PointScales
+  id: pointscales
   source: doc-text
 series:
 - classroom-of-the-elite

@@ -7,6 +7,7 @@ alt_titles:
 - Fang Yuan chapter 1 doc
 authors:
 - name: Herald
+  id: herald
   source: doc-text
 series:
 - reverend-insanity

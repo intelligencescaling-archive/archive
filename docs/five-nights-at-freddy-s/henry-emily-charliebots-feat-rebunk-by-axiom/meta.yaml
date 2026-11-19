@@ -8,6 +8,7 @@ alt_titles:
 - Charliebot feat Rebunk
 authors:
 - name: Axiom
+  id: axiom
   source: doc-text
 series:
 - five-nights-at-freddy-s

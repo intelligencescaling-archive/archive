@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-a-a-intelligence-document-unfinished
+category: doc
+title: L.A.A Intelligence Document (Unfinished)
+authors:
+- name: CreationCawthon2
+  reddit: CreationCawthon2
+  id: creationcawthon2
+  source: reddit-post
+series:
+- the-lying-detective
+characters:
+- andrew-avalon
+tags:
+- oc
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1293h6aELQhz9nVNzXuRDD7wMhyoXiPiB0_z3azAwrfg
+    google_id: 1293h6aELQhz9nVNzXuRDD7wMhyoXiPiB0_z3azAwrfg
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 12
+    words: 5120
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6553805
+      sha256: a3653b07dbd456434b62813b91521b63d6c3b64b09319b3f27e19213dc511c5a
+    - format: docx
+      name: document.docx
+      bytes: 5577026
+      sha256: 972f73ee933e6a5a1cf36e57da4e9edfbf507bb63a429acdebb6ae2ea217f065
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1htgwa9/
+  note: 'Shared by u/CreationCawthon2 in a post on 2025-01-04: This is just a curious post but how high do you guys think my web novel MC scaled from this doc alon'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - characters
+  - series

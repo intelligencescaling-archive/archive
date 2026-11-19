@@ -7,8 +7,10 @@ alt_titles:
 - Sherlock novels
 authors:
 - name: Notme
+  id: notme
   source: doc-text
 - name: Mrnotme
+  id: mrnotme
   source: doc-text
 series:
 - sherlock-holmes

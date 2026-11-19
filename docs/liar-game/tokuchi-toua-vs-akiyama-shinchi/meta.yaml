@@ -5,12 +5,15 @@ category: doc
 title: Tokuchi Toua vs Akiyama Shinchi
 authors:
 - name: Salty Refuse
+  reddit: Salty-Refuse-5537
+  id: salty-refuse-5537
   source: doc-text
 series:
 - liar-game
+- one-outs
 characters:
 - akiyama-shinichi
-- tokuchi-toua
+- toua-tokuchi
 tags:
 - matchup
 language: null
@@ -46,7 +49,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

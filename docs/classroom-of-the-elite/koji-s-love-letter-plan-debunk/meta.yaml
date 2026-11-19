@@ -5,8 +5,10 @@ category: doc
 title: Koji's Love Letter Plan Debunk
 authors:
 - name: Fit-Veterinarian
+  id: fit-veterinarian
   source: doc-text
 - name: DrMillMatt
+  id: drmillmatt
   source: doc-text
 series:
 - classroom-of-the-elite

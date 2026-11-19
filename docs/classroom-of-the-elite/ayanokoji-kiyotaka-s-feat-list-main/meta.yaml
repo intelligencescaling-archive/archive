@@ -7,16 +7,22 @@ alt_titles:
 - Ayanokoji Kiyotaka’s Feat List - Main
 authors:
 - name: DAX PMFT
+  id: dax-pmft
   source: doc-text
 - name: Meo6806
+  id: meo6806
   source: doc-text
 - name: TheHuntsman1001
+  id: thehuntsman1001
   source: doc-text
 - name: Wanoxx
+  id: wanoxx
   source: doc-text
 - name: Plasma
+  id: plasma
   source: doc-text
 - name: Axcel
+  id: axcel
   source: doc-text
 series:
 - classroom-of-the-elite

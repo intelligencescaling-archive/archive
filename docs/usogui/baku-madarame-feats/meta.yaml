@@ -7,16 +7,22 @@ alt_titles:
 - Baku 1
 authors:
 - name: PatchiooX
+  id: patchioox
   source: doc-text
 - name: Meo
+  id: meo
   source: doc-text
 - name: Hal Lallo
+  id: hal-lallo
   source: doc-text
 - name: Filipkrzakthekiller
+  id: filipkrzakthekiller
   source: doc-text
 - name: Kaizer Jester
+  id: kaizer-jester
   source: doc-text
 - name: Green Bean
+  id: green-bean
   source: doc-text
 series:
 - usogui

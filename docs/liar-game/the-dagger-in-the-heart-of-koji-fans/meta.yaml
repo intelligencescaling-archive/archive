@@ -6,6 +6,7 @@ title: The dagger in the heart of Koji fans.
 authors:
 - name: FateDaA
   reddit: FateDaA
+  id: fatedaa
   source: reddit-post
 series:
 - liar-game
@@ -47,6 +48,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

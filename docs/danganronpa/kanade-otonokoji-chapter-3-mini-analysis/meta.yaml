@@ -7,8 +7,9 @@ alt_titles:
 - Kanade Chapter 3 Mini Analysis
 authors:
 - name: Echonomy
-  source: doc-text
   reddit: Economy_Echo_8500
+  id: economy-echo-8500
+  source: doc-text
 series:
 - danganronpa
 characters:

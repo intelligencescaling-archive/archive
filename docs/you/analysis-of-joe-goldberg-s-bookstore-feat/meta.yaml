@@ -5,6 +5,7 @@ category: doc
 title: Analysis of Joe Goldberg's bookstore Feat
 authors:
 - name: Cheatspeed
+  id: cheatspeed
   source: doc-text
 series:
 - you

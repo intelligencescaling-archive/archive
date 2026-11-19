@@ -3,9 +3,11 @@ schema_version: 1
 id: miss-marple-apos-method-joke
 category: doc
 title: Miss Marple Apos Method JOKE
-authors:
+authors: []
+shared_by:
 - name: Vincet_Qo
   reddit: Vincet_Qo
+  id: vincet-qo
   source: reddit-post
 series:
 - miss-marple

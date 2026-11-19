@@ -7,6 +7,7 @@ alt_titles:
 - Zhuo Fan SCD document
 authors:
 - name: Reverie
+  id: reverie
   source: doc-text
 series:
 - magic-emperor

@@ -3,9 +3,11 @@ schema_version: 1
 id: conjecture-conclusion
 category: doc
 title: Conjecture Conclusion
-authors:
+authors: []
+shared_by:
 - name: KitchenCoyote_The2nd
   reddit: KitchenCoyote_The2nd
+  id: kitchencoyote-the2nd
   source: reddit-post
 series:
 - usogui

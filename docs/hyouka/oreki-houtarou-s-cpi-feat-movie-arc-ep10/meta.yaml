@@ -7,8 +7,10 @@ alt_titles:
 - Houtaro Oreki CPI
 authors:
 - name: gensolos
+  id: gensolos
   source: doc-text
 - name: N-Ice
+  id: n-ice
   source: doc-text
 series:
 - hyouka

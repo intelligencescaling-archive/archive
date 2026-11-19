@@ -3,9 +3,11 @@ schema_version: 1
 id: betrayal-nexus-official-game-rules
 category: doc
 title: 📜 Betrayal Nexus — Official Game Rules
-authors:
+authors: []
+shared_by:
 - name: EnvironmentNo6525
   reddit: EnvironmentNo6525
+  id: environmentno6525
   source: reddit-post
 series: []
 characters: []

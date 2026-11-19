@@ -7,6 +7,7 @@ alt_titles:
 - Patrick Jane 6x16 Plan
 authors:
 - name: Arthen
+  id: arthen
   source: doc-text
 series:
 - the-mentalist

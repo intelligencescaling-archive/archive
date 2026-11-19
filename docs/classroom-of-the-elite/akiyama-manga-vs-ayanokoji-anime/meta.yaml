@@ -3,15 +3,18 @@ schema_version: 1
 id: akiyama-manga-vs-ayanokoji-anime
 category: doc
 title: Akiyama (Manga) vs Ayanokoji (Anime)
-authors:
+authors: []
+shared_by:
 - name: Airwaymaxxer
   reddit: Airwaymaxxer
+  id: airwaymaxxer
   source: reddit-post
 series:
 - classroom-of-the-elite
 - liar-game
 characters:
 - kiyotaka-ayanokoji
+- akiyama-shinichi
 tags:
 - matchup
 language: en

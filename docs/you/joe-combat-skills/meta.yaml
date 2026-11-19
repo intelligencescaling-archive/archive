@@ -7,6 +7,7 @@ alt_titles:
 - Joe Goldberg WIS Doc
 authors:
 - name: Jagger
+  id: jagger
   source: doc-text
 series:
 - you

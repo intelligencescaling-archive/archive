@@ -7,6 +7,7 @@ alt_titles:
 - The exploits of hajime hinata 2:4
 authors:
 - name: Connor
+  id: connor
   source: doc-text
 series:
 - danganronpa

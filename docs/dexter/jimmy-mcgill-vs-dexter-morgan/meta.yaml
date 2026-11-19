@@ -5,12 +5,19 @@ category: doc
 title: Jimmy McGill vs Dexter Morgan
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
+shared_by:
+- name: Salty-Refuse-5537
+  reddit: Salty-Refuse-5537
+  id: salty-refuse-5537
+  source: reddit-post
 series:
 - dexter
 - breaking-bad-better-call-saul
 characters:
 - dexter-morgan
+- jimmy-mcgill
 tags:
 - matchup
 language: en

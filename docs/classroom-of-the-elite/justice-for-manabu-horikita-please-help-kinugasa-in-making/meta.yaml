@@ -3,9 +3,11 @@ schema_version: 1
 id: justice-for-manabu-horikita-please-help-kinugasa-in-making
 category: doc
 title: Justice for Manabu Horikita! Please help Kinugasa in making a volume of his final exam against Miyab
-authors:
+authors: []
+shared_by:
 - name: SmittenbyChabs
   reddit: SmittenbyChabs
+  id: smittenbychabs
   source: reddit-post
 series:
 - classroom-of-the-elite

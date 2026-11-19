@@ -57,10 +57,20 @@
   name: Assassination Classroom
   origin_language: ja
   origin_medium: manga
+- id: babylon
+  name: Babylon
+  origin_language: ja
+  origin_medium: novel
 - id: bakudan
   name: Bakudan
   origin_language: ja
   origin_medium: novel
+- id: battle-in-5-seconds-after-meeting
+  name: Battle in 5 Seconds After Meeting
+  aliases:
+  - Deatte 5-byou de Battle
+  origin_language: ja
+  origin_medium: manga
 - id: bendy-and-the-ink-machine
   name: Bendy and the Ink Machine
   origin_language: en
@@ -73,6 +83,10 @@
   name: Beyblade Burst
   origin_language: ja
   origin_medium: anime
+- id: blackstone-code
+  name: Blackstone Code
+  origin_language: zh
+  origin_medium: web-novel
 - id: bleach
   name: Bleach
   origin_language: ja
@@ -163,6 +177,10 @@
   name: Dead by Daylight
   origin_language: en
   origin_medium: game
+- id: dead-tube
+  name: Dead Tube
+  origin_language: ja
+  origin_medium: manga
 - id: death-note
   name: Death Note
   aliases:
@@ -196,6 +214,12 @@
   name: Doki Doki Literature Club!
   origin_language: en
   origin_medium: visual-novel
+- id: don
+  name: Don
+  aliases:
+  - Don (film)
+  origin_language: hi
+  origin_medium: film
 - id: dr-frost
   name: Dr. Frost
   aliases:
@@ -325,6 +349,10 @@
   name: Jack Reacher
   origin_language: en
   origin_medium: novel
+- id: jojo-s-bizarre-adventure
+  name: JoJo's Bizarre Adventure
+  origin_language: ja
+  origin_medium: manga
 - id: jujutsu-kaisen
   name: Jujutsu Kaisen
   origin_language: ja
@@ -359,6 +387,10 @@
   name: Land of the Lustrous
   origin_language: ja
   origin_medium: manga
+- id: leif-and-billy
+  name: Leif & Billy
+  origin_language: sv
+  origin_medium: tv
 - id: liar-game
   name: Liar Game
   aliases:
@@ -373,12 +405,20 @@
   name: Lincoln Rhyme
   origin_language: en
   origin_medium: novel
+- id: lookism
+  name: Lookism
+  origin_language: ko
+  origin_medium: webtoon
 - id: lord-of-the-mysteries
   name: Lord of the Mysteries
   aliases:
   - LOTM
   origin_language: zh
   origin_medium: web-novel
+- id: lucky-number-slevin
+  name: Lucky Number Slevin
+  origin_language: en
+  origin_medium: film
 - id: lupin
   name: Lupin
   origin_language: fr
@@ -395,10 +435,18 @@
   name: Marvel
   origin_language: en
   origin_medium: comic
+- id: massacre-happy-end
+  name: Massacre Happy End
+  origin_language: ja
+  origin_medium: manga
 - id: medium
   name: Medium
   origin_language: ja
   origin_medium: novel
+- id: melvina-s-therapy
+  name: Melvina's Therapy
+  origin_language: ko
+  origin_medium: webtoon
 - id: mercenary-enrollment
   name: Mercenary Enrollment
   origin_language: ko
@@ -421,10 +469,6 @@
   name: Miss Marple
   origin_language: en
   origin_medium: novel
-- id: mobile-suit-gundam-seed
-  name: Mobile Suit Gundam SEED
-  origin_language: ja
-  origin_medium: anime
 - id: money-heist
   name: Money Heist
   origin_language: es
@@ -447,6 +491,10 @@
   - Oregairu
   origin_language: ja
   origin_medium: light-novel
+- id: naruto
+  name: Naruto
+  origin_language: ja
+  origin_medium: manga
 - id: neuro-supernatural-detective
   name: 'Neuro: Supernatural Detective'
   origin_language: ja
@@ -462,6 +510,13 @@
   name: Omniscient Reader's Viewpoint
   origin_language: ko
   origin_medium: web-novel
+- id: one-outs
+  name: One Outs
+  origin_language: ja
+  origin_medium: manga
+- id: orakamaono
+  name: Orakamaono
+  origin_medium: web-novel
 - id: oshi-no-ko
   name: Oshi no Ko
   origin_language: ja
@@ -470,6 +525,12 @@
   name: Paradise Lost
   origin_language: en
   origin_medium: poem
+- id: persona-5
+  name: Persona 5
+  aliases:
+  - Persona 5 Royal
+  origin_language: ja
+  origin_medium: game
 - id: playing-death-games-to-put-food-on-the-table
   name: Playing Death Games to Put Food on the Table
   origin_language: ja
@@ -568,6 +629,10 @@
   name: Sherlock Holmes
   origin_language: en
   origin_medium: novel
+- id: solo-max-level-newbie
+  name: Solo Max-Level Newbie
+  origin_language: ko
+  origin_medium: web-novel
 - id: sonic-the-hedgehog
   name: Sonic the Hedgehog
   origin_language: ja
@@ -667,6 +732,9 @@
   name: The Irregular at Magic High School
   origin_language: ja
   origin_medium: light-novel
+- id: the-lying-detective
+  name: The Lying Detective
+  origin_medium: web-novel
 - id: the-mandela-catalogue
   name: The Mandela Catalogue
   origin_language: en
@@ -681,6 +749,12 @@
   name: The Owl House
   origin_language: en
   origin_medium: tv
+- id: the-perfect-insider
+  name: The Perfect Insider
+  aliases:
+  - Subete ga F ni Naru
+  origin_language: ja
+  origin_medium: novel
 - id: the-promised-neverland
   name: The Promised Neverland
   origin_language: ja
@@ -705,6 +779,10 @@
   - 'TOMODACHI GAME:'
   origin_language: ja
   origin_medium: manga
+- id: total-drama
+  name: Total Drama
+  origin_language: en
+  origin_medium: tv
 - id: tough
   name: Tough
   origin_language: ja
@@ -749,6 +827,9 @@
   name: Wifies
   origin_language: en
   origin_medium: web
+- id: witch-s-heart
+  name: Witch's Heart
+  origin_medium: game
 - id: wuthering-waves
   name: Wuthering Waves
   origin_language: zh
@@ -757,6 +838,10 @@
   name: You
   origin_language: en
   origin_medium: novel
+- id: your-throne
+  name: Your Throne
+  origin_language: ko
+  origin_medium: webtoon
 - id: your-turn-to-die
   name: Your Turn to Die
   aliases:

@@ -4,8 +4,13 @@ id: radish-asmr-recap
 category: doc
 title: Radish ASMR - Recap
 authors:
+- name: Cucharoth
+  id: cucharoth
+  source: doc-text
+shared_by:
 - name: Big_Presentation_894
   reddit: Big_Presentation_894
+  id: big-presentation-894
   source: reddit-post
 series: []
 characters: []
@@ -41,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

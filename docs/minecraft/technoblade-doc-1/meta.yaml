@@ -7,18 +7,25 @@ alt_titles:
 - Technoblade Doc
 authors:
 - name: blank face
+  id: blank-face
   source: doc-text
 - name: ghostdog
+  id: ghostdog
   source: doc-text
 - name: void novel
+  id: void-novel
   source: doc-text
 - name: Mymyth
+  id: mymyth
   source: doc-text
 - name: suunt
+  id: suunt
   source: doc-text
 - name: spriteThecola
+  id: spritethecola
   source: doc-text
 - name: VQuip
+  id: vquip
   source: doc-text
 series:
 - minecraft

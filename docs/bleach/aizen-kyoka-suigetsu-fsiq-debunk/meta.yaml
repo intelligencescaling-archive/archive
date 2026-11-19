@@ -3,9 +3,11 @@ schema_version: 1
 id: aizen-kyoka-suigetsu-fsiq-debunk
 category: doc
 title: Aizen Kyoka suigetsu FSIQ Debunk
-authors:
+authors: []
+shared_by:
 - name: Ornery_List_6670
   reddit: Ornery_List_6670
+  id: ornery-list-6670
   source: reddit-post
 series:
 - bleach

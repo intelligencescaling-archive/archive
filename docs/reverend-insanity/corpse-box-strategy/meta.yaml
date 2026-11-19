@@ -7,10 +7,13 @@ alt_titles:
 - Fang Yuan corpse box strategy
 authors:
 - name: Herald
+  id: herald
   source: doc-text
 - name: Rain
+  id: rain
   source: doc-text
 - name: Kylizz
+  id: kylizz
   source: doc-text
 series:
 - reverend-insanity

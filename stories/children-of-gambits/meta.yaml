@@ -3,9 +3,11 @@ schema_version: 1
 id: children-of-gambits
 category: story
 title: Children of Gambits
-authors:
+authors: []
+shared_by:
 - name: Ardent_WEST
   reddit: Ardent_WEST
+  id: ardent-west
   source: reddit-post
 series: []
 characters: []

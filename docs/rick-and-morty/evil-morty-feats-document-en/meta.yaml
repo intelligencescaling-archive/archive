@@ -5,7 +5,13 @@ category: doc
 title: Evil Morty Feats Document EN
 authors:
 - name: Yashizu
+  id: yashizu
   source: doc-text
+shared_by:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  id: vincet-qo
+  source: reddit-post
 series:
 - rick-and-morty
 characters:

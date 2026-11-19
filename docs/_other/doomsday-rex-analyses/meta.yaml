@@ -5,7 +5,10 @@ category: doc
 title: Doomsday rex analyses
 alt_titles:
 - Doomsday Rex analysis
-authors: []
+authors:
+- name: Erikagoat
+  id: erikagoat
+  source: doc-text
 series: []
 characters:
 - doomsday-rex
@@ -43,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

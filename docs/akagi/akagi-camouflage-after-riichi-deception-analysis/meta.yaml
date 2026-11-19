@@ -5,8 +5,10 @@ category: doc
 title: Akagi Camouflage After Riichi Deception analysis
 authors:
 - name: ResponseLower49
+  id: responselower49
   source: doc-text
 - name: Mob5850
+  id: mob5850
   source: doc-text
 series:
 - akagi

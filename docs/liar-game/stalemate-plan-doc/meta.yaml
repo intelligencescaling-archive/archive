@@ -7,6 +7,7 @@ alt_titles:
 - complete explanation of Akiyama's stalemate plan
 authors:
 - name: Tokho
+  id: tokho
   source: doc-text
 series:
 - liar-game

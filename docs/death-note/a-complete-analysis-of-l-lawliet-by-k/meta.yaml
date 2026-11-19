@@ -8,6 +8,7 @@ alt_titles:
 - A Complete Analysis of L Lawliet
 authors:
 - name: K
+  id: k
   source: doc-text
 series:
 - death-note

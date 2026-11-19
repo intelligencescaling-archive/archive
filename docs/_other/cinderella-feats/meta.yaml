@@ -4,8 +4,13 @@ id: cinderella-feats
 category: doc
 title: Cinderella feats
 authors:
+- name: Jalias
+  id: jalias
+  source: doc-text
+shared_by:
 - name: Nazif2
   reddit: Nazif2
+  id: nazif2
   source: reddit-post
 series: []
 characters: []
@@ -39,6 +44,5 @@ notes: 'The original was deleted, so this text was recovered from a Wayback Mach
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

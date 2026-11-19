@@ -5,6 +5,7 @@ category: doc
 title: Hannibal Lecter [SOTL] doc
 authors:
 - name: Apóstolos
+  id: apostolos
   source: doc-text
 series:
 - hannibal

@@ -7,6 +7,7 @@ alt_titles:
 - Walter White writing analysis(by Mugen)
 authors:
 - name: Mugen
+  id: mugen
   source: doc-text
 series:
 - breaking-bad-better-call-saul

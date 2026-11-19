@@ -7,12 +7,16 @@ alt_titles:
 - 'RE: Zero SCD docs'
 authors:
 - name: Toxico
+  id: toxico
   source: doc-text
 - name: Universal
+  id: universal
   source: doc-text
 - name: Pleiades
+  id: pleiades
   source: doc-text
 - name: Luga
+  id: luga
   source: doc-text
 series:
 - re-zero

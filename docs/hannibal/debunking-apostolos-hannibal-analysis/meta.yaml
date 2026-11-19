@@ -3,9 +3,11 @@ schema_version: 1
 id: debunking-apostolos-hannibal-analysis
 category: doc
 title: Debunking Apóstolos' Hannibal analysis
-authors:
+authors: []
+shared_by:
 - name: Mister_MxyzptIk_
   reddit: Mister_MxyzptIk_
+  id: mister-mxyzptik
   source: reddit-post
 series:
 - hannibal

@@ -8,7 +8,13 @@ alt_titles:
 - Original story
 authors:
 - name: qwerty_8732
+  id: qwerty-8732
   source: manual
+shared_by:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
 series: []
 characters: []
 tags: []

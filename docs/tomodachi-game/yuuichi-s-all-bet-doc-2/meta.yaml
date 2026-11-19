@@ -7,7 +7,13 @@ alt_titles:
 - 'Junko Enoshima: https://docs.google.com/document/d/1gJTb-Jtmm3l_jLXck1l5GTL8E7kP'
 authors:
 - name: Samuel Alistair
+  id: samuel-alistair
   source: doc-text
+shared_by:
+- name: heckthiscrapimout
+  reddit: heckthiscrapimout
+  id: heckthiscrapimout
+  source: reddit-post
 series:
 - tomodachi-game
 characters:

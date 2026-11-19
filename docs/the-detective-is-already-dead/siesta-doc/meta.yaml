@@ -5,8 +5,10 @@ category: doc
 title: Siesta Doc
 authors:
 - name: AniMangaMastarMedia
+  id: animangamastarmedia
   source: doc-text
 - name: Matty the Ace Detective
+  id: matty-the-ace-detective
   source: doc-text
 series:
 - the-detective-is-already-dead

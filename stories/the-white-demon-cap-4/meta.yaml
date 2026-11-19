@@ -6,6 +6,7 @@ title: The White Demon Cap 4
 authors:
 - name: ThroatSpirited1493
   reddit: ThroatSpirited1493
+  id: throatspirited1493
   source: reddit-post
 series: []
 characters: []
@@ -39,6 +40,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -7,6 +7,7 @@ alt_titles:
 - Lelouch 1 million miracles strategy
 authors:
 - name: Deducing_Analyst
+  id: deducing-analyst
   source: doc-text
 series:
 - code-geass

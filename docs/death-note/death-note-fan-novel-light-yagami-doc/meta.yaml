@@ -7,8 +7,9 @@ alt_titles:
 - Light Yagami's Feats Buffs
 authors:
 - name: Patient-Hospital-372
-  source: doc-text
   reddit: Patient-Hospital-372
+  id: patient-hospital-372
+  source: doc-text
 series:
 - death-note
 characters:

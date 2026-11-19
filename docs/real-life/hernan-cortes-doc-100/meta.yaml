@@ -8,6 +8,7 @@ alt_titles:
 - Hernán Cortés Document
 authors:
 - name: Azraelyc
+  id: azraelyc
   source: doc-text
 series:
 - real-life

@@ -6,6 +6,7 @@ title: Camaleon
 authors:
 - name: Last-Trainer-3323
   reddit: Last-Trainer-3323
+  id: last-trainer-3323
   source: reddit-post
 series: []
 characters: []
@@ -43,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

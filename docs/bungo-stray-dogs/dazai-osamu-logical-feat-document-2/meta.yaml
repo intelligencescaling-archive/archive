@@ -5,11 +5,17 @@ category: doc
 title: Dazai Osamu Logical Feat Document
 authors:
 - name: RolloNotOver
+  id: rollonotover
   source: doc-text
+shared_by:
+- name: Far_Transition_1599
+  reddit: Far_Transition_1599
+  id: far-transition-1599
+  source: reddit-post
 series:
 - bungo-stray-dogs
 characters:
-- osamu-dazai
+- dazai-osamu
 tags:
 - feats
 language: en

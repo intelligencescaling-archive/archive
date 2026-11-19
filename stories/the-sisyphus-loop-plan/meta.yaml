@@ -3,14 +3,17 @@ schema_version: 1
 id: the-sisyphus-loop-plan
 category: story
 title: The Sisyphus Loop Plan
-authors:
+authors: []
+shared_by:
 - name: No_Woodpecker_1801
   reddit: No_Woodpecker_1801
+  id: no-woodpecker-1801
   source: reddit-post
 series: []
 characters: []
 tags:
 - planning
+- oc
 language: en
 completion: unknown
 parts:

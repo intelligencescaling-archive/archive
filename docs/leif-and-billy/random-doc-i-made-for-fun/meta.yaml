@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: random-doc-i-made-for-fun
+category: doc
+title: Random doc I made for fun
+alt_titles:
+- Leif and Billy Doc
+authors: []
+series:
+- leif-and-billy
+characters:
+- leif
+- billy
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1-EM88absTBVZVb9bD8fQgX_utKu5ZA5CcPXfXOBwczw/edit?tab=t.0
+    google_id: 1-EM88absTBVZVb9bD8fQgX_utKu5ZA5CcPXfXOBwczw
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 927
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 99191
+      sha256: 559a84e17485d18621be08f437e46ed1c1f0630a6353e76c999244a606201b8f
+    - format: docx
+      name: document.docx
+      bytes: 10110
+      sha256: aa75cd21b6c353f3286ae69563ab0d26b807394e5208f2ff39a7bc1ee2c87a9b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Leif and Billy Doc
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

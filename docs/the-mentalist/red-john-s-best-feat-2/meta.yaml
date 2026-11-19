@@ -3,14 +3,17 @@ schema_version: 1
 id: red-john-s-best-feat-2
 category: doc
 title: Red John's Best Feat
-authors:
+authors: []
+shared_by:
 - name: brunchbois
   reddit: brunchbois
+  id: brunchbois
   source: reddit-post
 series:
 - the-mentalist
 characters:
 - patrick-jane
+- red-john
 tags:
 - scd-categories
 - feats

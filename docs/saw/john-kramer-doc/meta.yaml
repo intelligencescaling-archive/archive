@@ -3,13 +3,16 @@ schema_version: 1
 id: john-kramer-doc
 category: doc
 title: John Kramer Doc
-authors:
+authors: []
+shared_by:
 - name: Intelligent_Dog7943
   reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
   source: reddit-post
 series:
 - saw
-characters: []
+characters:
+- john-kramer
 tags: []
 language: en
 completion: unknown

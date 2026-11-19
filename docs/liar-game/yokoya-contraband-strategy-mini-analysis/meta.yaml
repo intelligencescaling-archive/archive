@@ -8,8 +8,9 @@ alt_titles:
 - Yokoya Norihiko Contraband Game Strategy
 authors:
 - name: Echonomy
-  source: doc-text
   reddit: Economy_Echo_8500
+  id: economy-echo-8500
+  source: doc-text
 series:
 - liar-game
 characters:

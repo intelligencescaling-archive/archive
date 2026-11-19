@@ -7,6 +7,7 @@ alt_titles:
 - Jigsaw John Kramer doc
 authors:
 - name: Bittus
+  id: bittus
   source: doc-text
 series:
 - saw

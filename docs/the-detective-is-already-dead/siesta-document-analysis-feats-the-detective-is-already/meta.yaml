@@ -7,8 +7,9 @@ alt_titles:
 - Siesta Full-Scale document
 authors:
 - name: creationcawthon2
-  source: doc-text
   reddit: creationcawthon2
+  id: creationcawthon2
+  source: doc-text
 series:
 - the-detective-is-already-dead
 characters:

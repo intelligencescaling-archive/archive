@@ -5,12 +5,19 @@ category: doc
 title: Light vs Koji
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
+shared_by:
+- name: Salty-Refuse-5537
+  reddit: Salty-Refuse-5537
+  id: salty-refuse-5537
+  source: reddit-post
 series:
 - classroom-of-the-elite
 - death-note
 characters:
 - kiyotaka-ayanokoji
+- light-yagami
 tags:
 - matchup
 language: en

@@ -5,12 +5,14 @@ category: doc
 title: Akiyama Vs Kiyotaka(y2v7)
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
 series:
 - classroom-of-the-elite
 - liar-game
 characters:
 - kiyotaka-ayanokoji
+- akiyama-shinichi
 tags:
 - matchup
 language: en

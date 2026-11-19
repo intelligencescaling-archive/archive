@@ -5,9 +5,11 @@ category: doc
 title: Precision Scaling
 alt_titles:
 - Complexity Scaling doesn't even have a Consistent definition and it came from Ja
-authors:
+authors: []
+shared_by:
 - name: Jumpy-Ad6881
   reddit: Jumpy-Ad6881
+  id: jumpy-ad6881
   source: reddit-post
 series: []
 characters: []

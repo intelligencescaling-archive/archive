@@ -7,8 +7,10 @@ alt_titles:
 - Jeff the killer
 authors:
 - name: Axiom
+  id: axiom
   source: doc-text
 - name: Jonas
+  id: jonas
   source: doc-text
 series:
 - creepypasta

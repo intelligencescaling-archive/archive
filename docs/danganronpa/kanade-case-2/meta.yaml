@@ -3,13 +3,16 @@ schema_version: 1
 id: kanade-case-2
 category: doc
 title: KANADE CASE
-authors:
+authors: []
+shared_by:
 - name: Chenr30829
   reddit: Chenr30829
+  id: chenr30829
   source: reddit-post
 series:
 - danganronpa
-characters: []
+characters:
+- kanade-otonokoji
 tags:
 - debunk
 language: en

@@ -5,7 +5,13 @@ category: doc
 title: Patrick Jane Team Revival Strategy
 authors:
 - name: Arthen
+  id: arthen
   source: doc-text
+shared_by:
+- name: No_Engineering_3223
+  reddit: No_Engineering_3223
+  id: no-engineering-3223
+  source: reddit-post
 series:
 - the-mentalist
 characters:

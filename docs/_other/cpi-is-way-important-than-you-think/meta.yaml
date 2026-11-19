@@ -4,8 +4,13 @@ id: cpi-is-way-important-than-you-think
 category: doc
 title: CPI is way important than you think
 authors:
+- name: Cheatspeed
+  id: cheatspeed
+  source: doc-text
+shared_by:
 - name: Big_Presentation_894
   reddit: Big_Presentation_894
+  id: big-presentation-894
   source: reddit-post
 series: []
 characters: []
@@ -40,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

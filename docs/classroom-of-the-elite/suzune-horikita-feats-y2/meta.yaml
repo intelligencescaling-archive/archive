@@ -3,9 +3,11 @@ schema_version: 1
 id: suzune-horikita-feats-y2
 category: doc
 title: SUZUNE HORIKITA FEATS Y2
-authors:
+authors: []
+shared_by:
 - name: MembershipNo9359
   reddit: MembershipNo9359
+  id: membershipno9359
   source: reddit-post
 series:
 - classroom-of-the-elite

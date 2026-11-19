@@ -7,6 +7,7 @@ alt_titles:
 - Sneak Peek of Comp Baku Doc
 authors:
 - name: KitchenCoyote
+  id: kitchencoyote
   source: doc-text
 series:
 - usogui

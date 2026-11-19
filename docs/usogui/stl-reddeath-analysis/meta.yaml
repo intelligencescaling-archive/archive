@@ -3,13 +3,17 @@ schema_version: 1
 id: stl-reddeath-analysis
 category: doc
 title: STL – RedDeath Analysis
-authors:
+authors: []
+shared_by:
 - name: RedDeathSwayOverAll
   reddit: RedDeathSwayOverAll
+  id: reddeathswayoverall
   source: reddit-post
 series:
 - usogui
-characters: []
+characters:
+- baku-madarame
+- kiruma-souichi
 tags:
 - analysis
 language: en

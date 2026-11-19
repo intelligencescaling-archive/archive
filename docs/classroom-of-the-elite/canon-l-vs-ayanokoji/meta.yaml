@@ -5,12 +5,14 @@ category: doc
 title: Canon L vs Ayanokoji
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
 series:
 - classroom-of-the-elite
-- liar-game
+- death-note
 characters:
 - kiyotaka-ayanokoji
+- l-lawliet
 tags:
 - matchup
 language: en

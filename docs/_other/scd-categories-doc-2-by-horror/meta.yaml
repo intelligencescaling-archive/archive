@@ -7,6 +7,7 @@ alt_titles:
 - SCD Categories Doc 18
 authors:
 - name: Horror
+  id: horror
   source: doc-text
 series: []
 characters: []

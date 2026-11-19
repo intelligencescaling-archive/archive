@@ -5,6 +5,7 @@ category: doc
 title: Sparkle Doc
 authors:
 - name: Calculadora
+  id: calculadora
   source: doc-text
 series:
 - honkai-star-rail

@@ -5,10 +5,13 @@ category: doc
 title: Baku Madarame introduction analysis
 authors:
 - name: GalaxPro
+  reddit: _galaxpro_
+  id: galaxpro
   source: doc-text
 series:
 - usogui
-characters: []
+characters:
+- baku-madarame
 tags:
 - analysis
 language: en
@@ -44,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

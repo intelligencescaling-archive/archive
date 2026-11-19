@@ -5,6 +5,7 @@ category: doc
 title: Beatrice Full Analysis
 authors:
 - name: Pizzus
+  id: pizzus
   source: doc-text
 series:
 - umineko

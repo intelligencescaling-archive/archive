@@ -5,12 +5,14 @@ category: doc
 title: Akiyama vs Tokuchi
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
 series:
 - liar-game
+- one-outs
 characters:
 - akiyama-shinichi
-- tokuchi-toua
+- toua-tokuchi
 tags:
 - matchup
 language: en

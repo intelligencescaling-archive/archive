@@ -4,8 +4,13 @@ id: canon-l-documento
 category: doc
 title: Canon L documento
 authors:
+- name: Yashizu
+  id: yashizu
+  source: doc-text
+shared_by:
 - name: Vincet_Qo
   reddit: Vincet_Qo
+  id: vincet-qo
   source: reddit-post
 series:
 - death-note
@@ -45,6 +50,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

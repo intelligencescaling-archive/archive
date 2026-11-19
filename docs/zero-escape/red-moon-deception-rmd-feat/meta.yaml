@@ -5,9 +5,7 @@ category: doc
 title: Red Moon Deception (RMD) feat
 alt_titles:
 - Akane's Red Moon Deception Feat
-authors:
-- name: Akane Kurashiki
-  source: doc-text
+authors: []
 series:
 - zero-escape
 characters:
@@ -49,5 +47,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

@@ -7,6 +7,7 @@ alt_titles:
 - All Bet Miscalculation V1
 authors:
 - name: Inferno
+  id: inferno
   source: doc-text
 series:
 - tomodachi-game

@@ -5,6 +5,7 @@ category: doc
 title: SCP 049 Article feat list
 authors:
 - name: scd_scal489
+  id: scd-scal489
   source: doc-text
 series:
 - scp-foundation

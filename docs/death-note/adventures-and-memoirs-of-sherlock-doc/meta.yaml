@@ -3,9 +3,11 @@ schema_version: 1
 id: adventures-and-memoirs-of-sherlock-doc
 category: doc
 title: Adventures and Memoirs of Sherlock doc
-authors:
+authors: []
+shared_by:
 - name: Intelligent_Dog7943
   reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
   source: reddit-post
 series:
 - death-note

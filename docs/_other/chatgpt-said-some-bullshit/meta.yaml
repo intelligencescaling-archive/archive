@@ -6,6 +6,7 @@ title: ChatGPT said some bullshit
 authors:
 - name: FateDaA
   reddit: FateDaA
+  id: fatedaa
   source: reddit-post
 series: []
 characters: []
@@ -43,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

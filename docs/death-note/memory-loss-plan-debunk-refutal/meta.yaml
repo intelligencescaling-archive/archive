@@ -8,6 +8,7 @@ alt_titles:
 - Memory loss debunk refutal
 authors:
 - name: Hans
+  id: hans
   source: doc-text
 series:
 - death-note

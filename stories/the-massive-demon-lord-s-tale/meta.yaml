@@ -3,13 +3,16 @@ schema_version: 1
 id: the-massive-demon-lord-s-tale
 category: story
 title: The Massive Demon Lord's Tale
-authors:
+authors: []
+shared_by:
 - name: kingjaymes1234
   reddit: kingjaymes1234
+  id: kingjaymes1234
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- oc
 language: en
 completion: unknown
 parts:

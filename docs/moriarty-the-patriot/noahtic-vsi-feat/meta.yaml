@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: noahtic-vsi-feat
+category: doc
+title: Noahtic VSI feat
+alt_titles:
+- noahtic VSI
+authors:
+- name: AwaKen
+  id: awaken
+  source: doc-text
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- feats
+- vsi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13iERfrMzurFtE-4uxbG2BhLZcjeFi__79WjgCBH_c7c
+    google_id: 13iERfrMzurFtE-4uxbG2BhLZcjeFi__79WjgCBH_c7c
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 3
+    words: 428
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 4985136
+      sha256: c936fc948a3fb81b6ab395e87867c3d452027767a51e3837971cc05b42dbd30a
+    - format: docx
+      name: document.docx
+      bytes: 3124965
+      sha256: 20c5d3d8aa32ce7a6ecbb386b65c299cbdf1e65909eed9cd043352e9111bac38
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: noahtic VSI
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -6,6 +6,7 @@ title: UpperLvL898's SHORT STORY Operation Eyes Only ;D
 authors:
 - name: upperlvl898
   reddit: upperlvl898
+  id: upperlvl898
   source: reddit-post
 series: []
 characters: []
@@ -43,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

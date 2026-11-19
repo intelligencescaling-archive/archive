@@ -5,9 +5,11 @@ category: doc
 title: Adolf H Doc (English)
 alt_titles:
 - '2022 scaling: stuff like johan>koji no diff, johan>=friend, koji=yuuichi, only u'
-authors:
+authors: []
+shared_by:
 - name: heckthiscrapimout
   reddit: heckthiscrapimout
+  id: heckthiscrapimout
   source: reddit-post
 series:
 - real-life

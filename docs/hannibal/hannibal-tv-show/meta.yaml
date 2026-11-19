@@ -5,14 +5,19 @@ category: doc
 title: Hannibal TV show
 authors:
 - name: Q_Q
+  id: q-q
   source: doc-text
 - name: Dominoo
+  id: dominoo
   source: doc-text
 - name: Snokebrabox
+  id: snokebrabox
   source: doc-text
 - name: GoatKami
+  id: goatkami
   source: doc-text
 - name: Acce
+  id: acce
   source: doc-text
 series:
 - hannibal

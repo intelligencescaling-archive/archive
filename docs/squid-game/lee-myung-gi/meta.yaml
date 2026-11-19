@@ -7,6 +7,7 @@ alt_titles:
 - Lee Myung Gi Doc
 authors:
 - name: umontrose
+  id: umontrose
   source: doc-text
 series:
 - squid-game

@@ -5,6 +5,7 @@ category: doc
 title: Cesare Borgia doc
 authors:
 - name: LLA
+  id: lla
   source: doc-text
 series:
 - real-life

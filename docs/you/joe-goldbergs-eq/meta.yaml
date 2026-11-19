@@ -5,7 +5,13 @@ category: doc
 title: Joe Goldberg’s EQ
 authors:
 - name: j3llo192
+  id: j3llo192
   source: doc-text
+shared_by:
+- name: Top-Arm-5459
+  reddit: Top-Arm-5459
+  id: top-arm-5459
+  source: reddit-post
 series:
 - you
 characters:

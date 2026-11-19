@@ -7,6 +7,7 @@ alt_titles:
 - Battler's Solution of Bernkastel's Game
 authors:
 - name: Sieben
+  id: sieben
   source: doc-text
 series:
 - umineko

@@ -5,6 +5,8 @@ category: doc
 title: FULL SCALE Basic
 authors:
 - name: Salty Refuse
+  reddit: Salty-Refuse-5537
+  id: salty-refuse-5537
   source: doc-text
 series: []
 characters: []
@@ -45,7 +47,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

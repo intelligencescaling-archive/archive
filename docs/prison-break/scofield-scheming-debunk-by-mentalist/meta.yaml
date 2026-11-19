@@ -7,6 +7,7 @@ alt_titles:
 - Michael Scofield Scheming debunk
 authors:
 - name: mentalist
+  id: mentalist
   source: doc-text
 series:
 - prison-break

@@ -7,6 +7,7 @@ alt_titles:
 - Walter White's Modification of Mercurial Fulminate
 authors:
 - name: Apóstolos
+  id: apostolos
   source: doc-text
 series:
 - breaking-bad-better-call-saul

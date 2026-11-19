@@ -8,11 +8,14 @@ alt_titles:
 authors:
 - name: Equal_Custard0
   reddit: Equal_Custard0
+  id: less-puddingdrawer
   source: submission
 - name: Less_puddingdrawer
   reddit: Less_puddingdrawer
+  id: less-puddingdrawer
   source: submission
 - name: Luigiderchad2.0
+  id: luigiderchad2-0
   source: submission
 series:
 - pokemon-mystery-dungeon

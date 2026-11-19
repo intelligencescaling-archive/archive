@@ -2,10 +2,15 @@
 schema_version: 1
 id: miss-marple-bcc-hazaaas
 category: doc
-title: Miss Marple  BCC hazaÃ±as
+title: Miss Marple BCC hazañas
 authors:
+- name: Yashizu
+  id: yashizu
+  source: doc-text
+shared_by:
 - name: Vincet_Qo
   reddit: Vincet_Qo
+  id: vincet-qo
   source: reddit-post
 series:
 - miss-marple
@@ -40,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

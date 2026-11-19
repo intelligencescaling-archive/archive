@@ -3,9 +3,11 @@ schema_version: 1
 id: scd-terms
 category: doc
 title: SCD Terms
-authors:
+authors: []
+shared_by:
 - name: Throwaway98222122
   reddit: Throwaway98222122
+  id: throwaway98222122
   source: reddit-post
 series: []
 characters: []

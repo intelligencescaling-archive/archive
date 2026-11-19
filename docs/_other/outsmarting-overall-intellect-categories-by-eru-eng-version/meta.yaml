@@ -4,8 +4,13 @@ id: outsmarting-overall-intellect-categories-by-eru-eng-version
 category: doc
 title: Outsmarting & Overall Intellect Categories (By Eru) - Eng Version
 authors:
+- name: Eru
+  id: eru
+  source: doc-text
+shared_by:
 - name: heckthiscrapimout
   reddit: heckthiscrapimout
+  id: heckthiscrapimout
   source: reddit-post
 series: []
 characters: []
@@ -44,6 +49,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: isaac-mahoka-doc
+category: doc
+title: Isaac Mahōka Doc
+alt_titles:
+- Isaac Mahoka SCD doc
+authors:
+- name: CounterKouji
+  id: counterkouji
+  source: doc-text
+series:
+- orakamaono
+characters:
+- isaac-mahoka
+tags: []
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1_HWWILDMnyO9NMZlUZEQBhHZZqYwxnEknRR9GXcmtPU/edit?usp=drivesdk
+    google_id: 1_HWWILDMnyO9NMZlUZEQBhHZZqYwxnEknRR9GXcmtPU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 9
+    words: 3568
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1958502
+      sha256: f0f0258650a2fb75ff024ca4c74f4834cb82d4ccfb3e30481c4649fc81bf7456
+    - format: docx
+      name: document.docx
+      bytes: 1458415
+      sha256: 81c24161463e362bf8e99bb9207a135ced7030d0d3b78eff02646d2702d43526
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Isaac Mahoka SCD doc
+added: '2026-11-15'
+review:
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-18'
+notes: 'Label fix 2026-11-18: series added (the character''s series)'

@@ -7,6 +7,7 @@ alt_titles:
 - Shin Tsukimi analysis
 authors:
 - name: Shin
+  id: shin
   source: doc-text
 series:
 - your-turn-to-die

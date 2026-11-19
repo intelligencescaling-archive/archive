@@ -5,7 +5,13 @@ category: doc
 title: Ja-wook Doc
 authors:
 - name: Akuma Ujjain
+  id: akuma-ujjain
   source: doc-text
+shared_by:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
 series: []
 characters: []
 tags: []

@@ -6,6 +6,7 @@ title: BWCG TODOR
 authors:
 - name: Different-Click9753
   reddit: Different-Click9753
+  id: different-click9753
   source: reddit-post
 series: []
 characters: []
@@ -46,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -7,6 +7,7 @@ alt_titles:
 - Gonen
 authors:
 - name: Shin
+  id: shin
   source: doc-text
 series:
 - usogui

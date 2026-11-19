@@ -5,6 +5,7 @@ category: doc
 title: shawn doc
 authors:
 - name: maskoftheruler
+  id: maskoftheruler
   source: doc-text
 series:
 - psych

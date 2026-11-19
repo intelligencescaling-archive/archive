@@ -7,10 +7,13 @@ alt_titles:
 - Fang yuan's jia jin sheng murder case
 authors:
 - name: Rain
+  id: rain
   source: doc-text
 - name: Herald
+  id: herald
   source: doc-text
 - name: Kylizz
+  id: kylizz
   source: doc-text
 series:
 - reverend-insanity

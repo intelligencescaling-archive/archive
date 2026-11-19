@@ -3,9 +3,12 @@ schema_version: 1
 id: complete-guide-to-intelligencescaling
 category: doc
 title: Complete Guide to IntelligenceScaling
-authors:
-- name: Arcadia
-  source: doc-text
+authors: []
+shared_by:
+- name: Nino_IQ
+  reddit: Nino_IQ
+  id: nino-iq
+  source: reddit-post
 series: []
 characters: []
 tags:
@@ -43,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

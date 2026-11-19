@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kang-jinhyeok-intelligence-doc-wip
+category: doc
+title: Kang Jinhyeok Intelligence Doc (WIP)
+alt_titles:
+- Kang Jinhyeok
+authors: []
+series:
+- solo-max-level-newbie
+characters:
+- kang-jinhyeok
+tags: []
+language: en
+completion: in-progress
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=11P7H7xAwXMpHBK94mfd_e-JwCEnAZ0uwoeiUSGJXDiA
+    google_id: 11P7H7xAwXMpHBK94mfd_e-JwCEnAZ0uwoeiUSGJXDiA
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 2
+    words: 107
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 414481
+      sha256: 69c72111e89d89c625152b68949b2a9277d6e564ed3567df5b11bb17e64161bf
+    - format: docx
+      name: document.docx
+      bytes: 387892
+      sha256: 3c9e872581a41bc0261d05f7f65b22f65ec0e321f5278d564ecbffce0ac8ab2b
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kang Jinhyeok
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

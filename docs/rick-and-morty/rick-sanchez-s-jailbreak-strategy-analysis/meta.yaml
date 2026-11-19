@@ -7,6 +7,7 @@ alt_titles:
 - Rick Sanchez
 authors:
 - name: Amin
+  id: amin
   source: doc-text
 series:
 - rick-and-morty

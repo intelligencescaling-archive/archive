@@ -8,6 +8,7 @@ alt_titles:
 - Floyd Lee
 authors:
 - name: KitchenCoyote
+  id: kitchencoyote
   source: doc-text
 series:
 - usogui

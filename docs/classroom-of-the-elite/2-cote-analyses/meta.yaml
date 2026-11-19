@@ -3,9 +3,11 @@ schema_version: 1
 id: 2-cote-analyses
 category: doc
 title: 2 COTE analyses
-authors:
+authors: []
+shared_by:
 - name: Intelligent_Dog7943
   reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
   source: reddit-post
 series:
 - classroom-of-the-elite

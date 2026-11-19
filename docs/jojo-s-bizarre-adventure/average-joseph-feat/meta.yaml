@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: average-joseph-feat
+category: doc
+title: Average Joseph feat
+authors: []
+shared_by:
+- name: SapientLiberExpanse8
+  reddit: SapientLiberExpanse8
+  id: sapientliberexpanse8
+  source: reddit-post
+series:
+- jojo-s-bizarre-adventure
+characters:
+- joseph-joestar
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1vVOj2cXq53_krV3PdH_U8RntmK8b_BHAsHmoxjRm-Xc
+    google_id: 1vVOj2cXq53_krV3PdH_U8RntmK8b_BHAsHmoxjRm-Xc
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 2
+    words: 941
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 55472
+      sha256: 8d2e2f55c4109df0ba2dfb7b43448abc37ad155dbf66b19eb40c96ef99956a84
+    - format: docx
+      name: document.docx
+      bytes: 9062
+      sha256: 8eea63840d1812a450d819bb3554d4de9c0c27b005cad24f85e2239f3442d71d
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1k3y6gk/_/mo743nn/
+  note: 'Shared by u/SapientLiberExpanse8 in a comment on 2025-04-21: [Random Joseph Joestar feat?](https://docs.google.com/document/d/1vVOj2cXq53_krV'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

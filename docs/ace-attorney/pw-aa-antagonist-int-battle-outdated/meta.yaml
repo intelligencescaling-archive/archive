@@ -6,10 +6,14 @@ title: PW:AA Antagonist Int. Battle (OUTDATED)
 authors:
 - name: TheNoo
   reddit: Due_Ad8334
+  id: due-ad8334
   source: doc-text
 series:
 - ace-attorney
-characters: []
+characters:
+- manfred-von-karma
+- matt-engarde
+- dahlia-hawthorne
 tags:
 - scd-categories
 language: en

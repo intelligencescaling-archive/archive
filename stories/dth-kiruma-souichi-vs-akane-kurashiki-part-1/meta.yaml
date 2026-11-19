@@ -6,6 +6,7 @@ title: 'DTH: Kiruma Souichi vs Akane Kurashiki (Part 1)'
 authors:
 - name: lzyaboiConnor
   reddit: lzyaboiConnor
+  id: lzyaboiconnor
   source: reddit-post
 series:
 - usogui
@@ -48,6 +49,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

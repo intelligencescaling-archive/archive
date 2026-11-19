@@ -5,6 +5,7 @@ category: doc
 title: Innocent III Doc
 authors:
 - name: LLA
+  id: lla
   source: doc-text
 series:
 - real-life

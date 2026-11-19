@@ -6,9 +6,11 @@ title: El juego del mejor (Arco Detective Mentalist)
 alt_titles:
 - (anonymous)
 - ADM Cases
-authors:
+authors: []
+shared_by:
 - name: Ninecrom_Arcade
   reddit: Ninecrom_Arcade
+  id: ninecrom-arcade
   source: reddit-post
 series: []
 characters: []

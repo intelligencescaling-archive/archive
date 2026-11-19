@@ -7,6 +7,7 @@ alt_titles:
 - PJ 7x9 Plan
 authors:
 - name: Arthen
+  id: arthen
   source: doc-text
 series:
 - the-mentalist

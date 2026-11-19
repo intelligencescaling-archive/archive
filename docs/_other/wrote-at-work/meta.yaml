@@ -6,6 +6,7 @@ title: Wrote at work
 authors:
 - name: Subject-Log7025
   reddit: Subject-Log7025
+  id: subject-log7025
   source: reddit-post
 series: []
 characters: []
@@ -39,6 +40,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

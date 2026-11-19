@@ -7,6 +7,7 @@ alt_titles:
 - John Constantine DOC
 authors:
 - name: Professor Fiction
+  id: professor-fiction
   source: doc-text
 series:
 - dc-comics

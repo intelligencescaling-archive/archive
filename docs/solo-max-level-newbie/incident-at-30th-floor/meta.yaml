@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: incident-at-30th-floor
+category: doc
+title: Incident at 30th floor
+alt_titles:
+- Kang Jinhyeok 30th floor strategy
+authors: []
+series:
+- solo-max-level-newbie
+characters:
+- kang-jinhyeok
+tags:
+- strategy
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1A9Rj5_hx6Onwj44k3ul-pRUDPBQ1itYQAzjLSnC1maU
+    google_id: 1A9Rj5_hx6Onwj44k3ul-pRUDPBQ1itYQAzjLSnC1maU
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 4
+    words: 2110
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 157028
+      sha256: 388d9f478c07ea81d98092ffbd2f36b6afeaa63164f88ce0319fe71c4fb2d003
+    - format: docx
+      name: document.docx
+      bytes: 83720
+      sha256: b5d2aec806a9e04f9258876b25d251ea62aef8e6b04b4298a46b3710ebd861ee
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Kang Jinhyeok 30th floor strategy
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

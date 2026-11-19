@@ -3,9 +3,11 @@ schema_version: 1
 id: pokemon-mystery-dungeon-the-past-pursuits-chapter-2-cat-s
 category: story
 title: 'Pokemon Mystery Dungeon: The Past Pursuits - CHAPTER 2: Cat''s Paw'
-authors:
+authors: []
+shared_by:
 - name: upperlvl898
   reddit: upperlvl898
+  id: upperlvl898
   source: reddit-post
 series:
 - pokemon-mystery-dungeon

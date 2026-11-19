@@ -3,9 +3,11 @@ schema_version: 1
 id: analysis-light-yagami-unified-en
 category: doc
 title: Analysis_Light_Yagami_Unified_EN
-authors:
+authors: []
+shared_by:
 - name: Last-Trainer-3323
   reddit: Last-Trainer-3323
+  id: last-trainer-3323
   source: reddit-post
 series:
 - death-note

@@ -8,12 +8,14 @@ alt_titles:
 - L Isolation Strategy Analysis and Rebunk
 authors:
 - name: Echonomy
-  source: doc-text
   reddit: Economy_Echo_8500
+  id: economy-echo-8500
+  source: doc-text
 series:
 - death-note
 characters:
 - light-yagami
+- l-lawliet
 tags:
 - analysis
 - strategy
@@ -55,3 +57,4 @@ review:
   status: reviewed
   by: scd-archivist
   date: '2026-11-15'
+notes: 'Label fix 2026-11-18: L added (the strategy is Light vs L).'

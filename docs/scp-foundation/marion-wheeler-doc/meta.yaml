@@ -8,6 +8,7 @@ alt_titles:
 authors:
 - name: arvinsins
   reddit: arvinsins
+  id: arvinsins
   source: doc-text
 series:
 - scp-foundation

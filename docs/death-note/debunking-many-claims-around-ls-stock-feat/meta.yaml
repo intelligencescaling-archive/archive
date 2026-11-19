@@ -3,9 +3,11 @@ schema_version: 1
 id: debunking-many-claims-around-ls-stock-feat
 category: doc
 title: Debunking many claims around L’s stock feat
-authors:
+authors: []
+shared_by:
 - name: milk_thirsty
   reddit: milk_thirsty
+  id: milk-thirsty
   source: reddit-post
 series:
 - death-note

@@ -7,8 +7,10 @@ alt_titles:
 - Chen Ran's Reasoning of the 9th True Self Player and the 21 player Gui Yu
 authors:
 - name: Simply_Amazing
+  id: simply-amazing
   source: doc-text
 - name: Rashoumon
+  id: rashoumon
   source: doc-text
 series:
 - 18-levels-of-hell

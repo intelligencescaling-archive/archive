@@ -3,9 +3,11 @@ schema_version: 1
 id: alternate-timeline-liar-game-death-note
 category: doc
 title: 'Alternate Timeline Liar Game: Death Note'
-authors:
+authors: []
+shared_by:
 - name: ReverseFlash928
   reddit: ReverseFlash928
+  id: reverseflash928
   source: reddit-post
 series:
 - liar-game

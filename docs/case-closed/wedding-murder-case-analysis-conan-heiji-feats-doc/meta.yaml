@@ -7,6 +7,7 @@ alt_titles:
 - wedding murder case analysis
 authors:
 - name: Grüner Drache
+  id: gruner-drache
   source: doc-text
 series:
 - case-closed

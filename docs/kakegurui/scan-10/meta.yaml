@@ -3,9 +3,11 @@ schema_version: 1
 id: scan-10
 category: doc
 title: Scan 10
-authors:
+authors: []
+shared_by:
 - name: SoundStorm7
   reddit: SoundStorm7
+  id: soundstorm7
   source: reddit-post
 series:
 - kakegurui

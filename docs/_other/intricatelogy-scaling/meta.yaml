@@ -7,10 +7,13 @@ alt_titles:
 - Intricatelogy scaling system
 authors:
 - name: Aki
+  id: aki
   source: doc-text
 - name: Teyfik
+  id: teyfik
   source: doc-text
 - name: Tokho
+  id: tokho
   source: doc-text
 series: []
 characters: []

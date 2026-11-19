@@ -7,6 +7,7 @@ alt_titles:
 - PJ S1E6 strategy
 authors:
 - name: AgentNemo
+  id: agentnemo
   source: doc-text
 series:
 - the-mentalist

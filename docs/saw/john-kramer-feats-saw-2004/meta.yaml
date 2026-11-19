@@ -5,6 +5,7 @@ category: doc
 title: John Kramer feats (Saw 2004)
 authors:
 - name: Bittus
+  id: bittus
   source: doc-text
 series:
 - saw

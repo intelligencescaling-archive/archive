@@ -5,7 +5,13 @@ category: doc
 title: Hayate Shiraishi SCD Analysis
 authors:
 - name: mightbeleo
+  id: mightbeleo
   source: doc-text
+shared_by:
+- name: hayateshiraishi
+  reddit: hayateshiraishi
+  id: hayateshiraishi
+  source: reddit-post
 series:
 - classroom-of-the-elite
 characters:

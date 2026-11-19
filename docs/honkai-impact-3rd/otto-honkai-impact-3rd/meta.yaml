@@ -5,10 +5,13 @@ category: doc
 title: OTTO(Honkai impact 3rd)
 authors:
 - name: Trixie
+  id: trixie
   source: doc-text
 - name: Aufseher
+  id: aufseher
   source: doc-text
 - name: Zef
+  id: zef
   source: doc-text
 series:
 - honkai-impact-3rd

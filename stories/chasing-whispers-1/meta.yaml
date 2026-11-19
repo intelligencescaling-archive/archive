@@ -6,6 +6,7 @@ title: Chasing Whispers 1
 authors:
 - name: Individual-Gap-105
   reddit: Individual-Gap-105
+  id: individual-gap-105
   source: reddit-post
 series: []
 characters: []
@@ -43,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

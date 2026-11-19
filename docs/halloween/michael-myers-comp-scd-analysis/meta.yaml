@@ -7,6 +7,7 @@ alt_titles:
 - Composite Michael Myers document
 authors:
 - name: unknownuser
+  id: unknownuser
   source: doc-text
 series:
 - halloween

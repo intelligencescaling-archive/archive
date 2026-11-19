@@ -6,13 +6,16 @@ title: Análisis Light Yagami, cap. 19-23
 alt_titles:
 - Analisis_Light_Yagami_Cap19-23
 - '19-23(in spanish): https://docs.google.com/document/d/12UsFVzIRKXYiewFChQzCHp6nS'
-authors:
+authors: []
+shared_by:
 - name: Last-Trainer-3323
   reddit: Last-Trainer-3323
+  id: last-trainer-3323
   source: reddit-post
 series:
 - death-note
-characters: []
+characters:
+- light-yagami
 tags:
 - guide
 language: es

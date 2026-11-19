@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akira-shiroyagani-psi-feat
+category: doc
+title: Akira Shiroyagani PSI Feat
+alt_titles:
+- Akira Shiroyanagi PSI feat
+authors:
+- name: Bruh004
+  reddit: ReverseFlash928
+  id: reverseflash928
+  source: doc-text
+series:
+- battle-in-5-seconds-after-meeting
+characters:
+- akira-shiroyanagi
+tags:
+- feats
+- psi
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14GyJJDUIRg4Y8528dN9YGH6XibtObm7iDOM0W54XHio
+    google_id: 14GyJJDUIRg4Y8528dN9YGH6XibtObm7iDOM0W54XHio
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 11
+    words: 567
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 11506575
+      sha256: 33f74bba8d8d20a26ab43c5edb14fc8409f1581e117c7ab4f2dade05b4b9b51c
+    - format: docx
+      name: document.docx
+      bytes: 11651470
+      sha256: 40871f52c69315fd82276f94fe65a0f1b79ee718afdace3de161ab8d3d04c8ad
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Akira Shiroyanagi PSI feat
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - characters
+  - series

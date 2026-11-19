@@ -8,8 +8,10 @@ alt_titles:
 - William afton dittophobia
 authors:
 - name: Freddy Fivebear
+  id: freddy-fivebear
   source: doc-text
 - name: Namelessman
+  id: namelessman
   source: doc-text
 series:
 - five-nights-at-freddy-s

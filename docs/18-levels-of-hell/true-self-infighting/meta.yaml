@@ -5,9 +5,16 @@ category: doc
 title: True Self Infighting
 authors:
 - name: sonder
+  id: sonder
   source: doc-text
 - name: sojikoji
+  id: sojikoji
   source: doc-text
+shared_by:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
+  source: reddit-post
 series:
 - 18-levels-of-hell
 characters:

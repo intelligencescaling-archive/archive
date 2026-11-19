@@ -5,10 +5,17 @@ category: doc
 title: Reverend Insanity, Chapter 1 Analysis
 authors:
 - name: Rain
+  id: rain
   source: doc-text
+shared_by:
+- name: Secure-Camp1433
+  reddit: Secure-Camp1433
+  id: secure-camp1433
+  source: reddit-post
 series:
 - reverend-insanity
-characters: []
+characters:
+- fang-yuan
 tags:
 - analysis
 language: en

@@ -7,8 +7,10 @@ alt_titles:
 - Izaya dollar arc analysis
 authors:
 - name: Cleax
+  id: cleax
   source: doc-text
 - name: Luga
+  id: luga
   source: doc-text
 series:
 - durarara

@@ -7,8 +7,10 @@ alt_titles:
 - Harimoto DOC
 authors:
 - name: Red Duck
+  id: red-duck
   source: doc-text
 - name: Gekonen
+  id: gekonen
   source: doc-text
 series:
 - liar-game

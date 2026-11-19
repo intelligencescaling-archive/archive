@@ -8,6 +8,7 @@ alt_titles:
 - Canon L doc
 authors:
 - name: ghs
+  id: ghs
   source: doc-text
 series:
 - death-note

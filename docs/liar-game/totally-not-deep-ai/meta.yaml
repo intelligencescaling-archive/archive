@@ -3,13 +3,16 @@ schema_version: 1
 id: totally-not-deep-ai
 category: doc
 title: Totally not Deep AI
-authors:
+authors: []
+shared_by:
 - name: FateDaA
   reddit: FateDaA
+  id: fatedaa
   source: reddit-post
 series:
 - liar-game
-characters: []
+characters:
+- akiyama-shinichi
 tags: []
 language: en
 completion: unknown

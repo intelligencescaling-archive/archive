@@ -3,13 +3,16 @@ schema_version: 1
 id: sukuna-intellect-analysis
 category: doc
 title: Sukuna Intellect Analysis
-authors:
+authors: []
+shared_by:
 - name: BudgetPosition6080
   reddit: BudgetPosition6080
+  id: budgetposition6080
   source: reddit-post
 series:
 - jujutsu-kaisen
-characters: []
+characters:
+- ryomen-sukuna
 tags:
 - analysis
 language: en

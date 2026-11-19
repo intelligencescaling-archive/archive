@@ -7,6 +7,7 @@ alt_titles:
 - Another Patrick Jane SCD doc
 authors:
 - name: Arthen
+  id: arthen
   source: doc-text
 series:
 - the-mentalist

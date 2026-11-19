@@ -3,9 +3,11 @@ schema_version: 1
 id: analisis-light-yagami-cap1-18
 category: doc
 title: Analisis_Light_Yagami_Cap1-18
-authors:
+authors: []
+shared_by:
 - name: Last-Trainer-3323
   reddit: Last-Trainer-3323
+  id: last-trainer-3323
   source: reddit-post
 series:
 - death-note

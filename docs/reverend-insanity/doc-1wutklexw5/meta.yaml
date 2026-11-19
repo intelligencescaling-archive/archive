@@ -8,8 +8,10 @@ alt_titles:
 - Chapter 1 Fang Yuan FSIQ Analysis - Debunk
 authors:
 - name: WAI
+  id: wai
   source: doc-text
 - name: Limbo
+  id: limbo
   source: doc-text
 series:
 - reverend-insanity

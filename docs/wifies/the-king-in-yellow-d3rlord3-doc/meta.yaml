@@ -5,7 +5,13 @@ category: doc
 title: the king in yellow & D3rlord3 doc
 authors:
 - name: Veneno
+  id: veneno
   source: doc-text
+shared_by:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: mediocre-neat-1207
+  source: reddit-post
 series:
 - wifies
 characters:

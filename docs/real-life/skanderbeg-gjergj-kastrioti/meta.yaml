@@ -3,9 +3,11 @@ schema_version: 1
 id: skanderbeg-gjergj-kastrioti
 category: doc
 title: Skanderbeg (Gjergj Kastrioti)
-authors:
+authors: []
+shared_by:
 - name: Geolib1453
   reddit: Geolib1453
+  id: geolib1453
   source: reddit-post
 series:
 - real-life

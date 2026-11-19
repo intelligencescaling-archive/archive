@@ -7,8 +7,10 @@ alt_titles:
 - Akiyama 2
 authors:
 - name: Theller
+  id: theller
   source: doc-text
 - name: ScytherZilla
+  id: scytherzilla
   source: doc-text
 series:
 - liar-game

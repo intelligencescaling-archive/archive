@@ -7,6 +7,7 @@ alt_titles:
 - The Protagonist Tenet SCD Doc
 authors:
 - name: ForAllPosterity
+  id: forallposterity
   source: doc-text
 series:
 - tenet

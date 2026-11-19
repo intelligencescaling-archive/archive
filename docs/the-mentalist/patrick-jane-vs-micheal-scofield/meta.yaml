@@ -5,6 +5,7 @@ category: doc
 title: Patrick Jane vs Micheal Scofield
 authors:
 - name: Yalvin Shoko Millennium Knight
+  id: millenium-knight
   source: doc-text
 series:
 - the-mentalist

@@ -3,9 +3,11 @@ schema_version: 1
 id: the-pact-of-deceit
 category: doc
 title: The Pact of Deceit
-authors:
+authors: []
+shared_by:
 - name: EnvironmentNo6525
   reddit: EnvironmentNo6525
+  id: environmentno6525
   source: reddit-post
 series: []
 characters: []

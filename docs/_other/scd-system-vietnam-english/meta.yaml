@@ -3,9 +3,11 @@ schema_version: 1
 id: scd-system-vietnam-english
 category: doc
 title: SCD_System_Vietnam_English
-authors:
+authors: []
+shared_by:
 - name: Simply_Amazing_1610
   reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
   source: reddit-post
 series: []
 characters: []

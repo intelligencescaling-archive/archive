@@ -9,8 +9,10 @@ alt_titles:
 authors:
 - name: Less_Puddingdrawer
   reddit: Less_Puddingdrawer
+  id: less-puddingdrawer
   source: reddit-post
 - name: Equal_Custard0
+  id: less-puddingdrawer
   source: doc-text
 series:
 - pokemon-mystery-dungeon

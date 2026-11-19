@@ -7,8 +7,10 @@ alt_titles:
 - Subaru Natsuki (Comp) doc
 authors:
 - name: Rblxpw
+  id: rblxpw
   source: doc-text
 - name: JPlights
+  id: jplights
   source: doc-text
 series:
 - re-zero

@@ -8,9 +8,11 @@ alt_titles:
 - Manabu Horikita’s Feat List Documentary
 authors:
 - name: JayChef
+  id: jaychef
   source: doc-text
 - name: DAX PMFT
   reddit: Permafrost-Il
+  id: dax-pmft
   source: doc-text
 series:
 - classroom-of-the-elite

@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lynchs-schemes
+category: doc
+title: Lynch’s schemes
+authors: []
+shared_by:
+- name: zolox0
+  reddit: zolox0
+  id: zolox0
+  source: reddit-post
+series:
+- blackstone-code
+characters:
+- lin-qi
+tags:
+- scheming
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NV220mw1lCtUwtaJ4macvWC5MD3D9IlFNQHeA559-OI
+    google_id: 1NV220mw1lCtUwtaJ4macvWC5MD3D9IlFNQHeA559-OI
+  capture:
+    status: complete
+    date: '2026-11-16'
+    pages: 24
+    words: 10121
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 386421
+      sha256: 833752e9a2fc6ce9db89a5a3baa3a0e94be9a74f3fd1ffb23ce5697a804f88bc
+    - format: docx
+      name: document.docx
+      bytes: 38371
+      sha256: 252930182f8043a49f8047479370531a97c40dc7d0bb115702181a642bcd07e6
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1sxustx/_/oiq3xjt/
+  note: 'Shared by u/zolox0 in a comment on 2026-04-28: The 3000chs means fraud? Whats the logic. . And its chapter length is very sho'
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

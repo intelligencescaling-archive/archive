@@ -3,9 +3,11 @@ schema_version: 1
 id: episode-2-izaya
 category: story
 title: Episode 2 Izaya
-authors:
+authors: []
+shared_by:
 - name: darkness_death_empty
   reddit: darkness_death_empty
+  id: darkness-death-empty
   source: reddit-post
 series:
 - durarara

@@ -5,10 +5,17 @@ category: doc
 title: KV Friend Writing Doc
 authors:
 - name: Cloud
+  id: cloud
   source: doc-text
+shared_by:
+- name: Top-Order7475
+  reddit: Top-Order7475
+  id: top-order7475
+  source: reddit-post
 series:
 - 20th-century-boys
-characters: []
+characters:
+- friend
 tags:
 - writing-analysis
 language: en

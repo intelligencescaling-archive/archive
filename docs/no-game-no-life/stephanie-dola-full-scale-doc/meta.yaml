@@ -8,12 +8,16 @@ alt_titles:
 - Stephanie Dola SCD doc
 authors:
 - name: CounterKouji
+  id: counterkouji
   source: doc-text
 - name: EVERNIGHT
+  id: evernight
   source: doc-text
 - name: chilpalendo
+  id: chilpalendo
   source: doc-text
 - name: CHECKMATE_71
+  id: checkmate-71
   source: doc-text
 series:
 - no-game-no-life

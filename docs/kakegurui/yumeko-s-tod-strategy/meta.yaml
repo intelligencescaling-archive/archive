@@ -7,8 +7,10 @@ alt_titles:
 - yumeko ToD strategy
 authors:
 - name: Cento
+  id: cento
   source: doc-text
 - name: Hayatoz
+  id: hayatoz
   source: doc-text
 series:
 - kakegurui

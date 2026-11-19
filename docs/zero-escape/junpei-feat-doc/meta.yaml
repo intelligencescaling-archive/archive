@@ -5,8 +5,10 @@ category: doc
 title: JUNPEI FEAT DOC
 authors:
 - name: Grove421
+  id: grove421
   source: doc-text
 - name: GXTHIE
+  id: gxthie
   source: doc-text
 series:
 - zero-escape

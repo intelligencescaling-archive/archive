@@ -3,9 +3,11 @@ schema_version: 1
 id: ayanokoji-anime-vs-yuuichi-anime
 category: doc
 title: Ayanokoji (Anime) vs Yuuichi (Anime)
-authors:
+authors: []
+shared_by:
 - name: Airwaymaxxer
   reddit: Airwaymaxxer
+  id: airwaymaxxer
   source: reddit-post
 series:
 - classroom-of-the-elite

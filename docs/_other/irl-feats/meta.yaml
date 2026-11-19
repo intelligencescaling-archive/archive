@@ -3,9 +3,11 @@ schema_version: 1
 id: irl-feats
 category: doc
 title: irl feats
-authors:
+authors: []
+shared_by:
 - name: Right-Scene5629
   reddit: Right-Scene5629
+  id: right-scene5629
   source: reddit-post
 series: []
 characters: []

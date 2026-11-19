@@ -3,9 +3,11 @@ schema_version: 1
 id: yuuichi-s-feats
 category: doc
 title: Yuuichi's feats
-authors:
+authors: []
+shared_by:
 - name: Retentioner
   reddit: Retentioner
+  id: retentioner
   source: reddit-post
 series:
 - tomodachi-game

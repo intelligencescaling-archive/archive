@@ -6,10 +6,12 @@ title: Alice from Alice Mirror Castle Murders
 authors:
 - name: PlatFleece
   reddit: PlatFleece
+  id: platfleece
   source: reddit-post
 series:
 - alice-mirror-castle-murders
-characters: []
+characters:
+- alice-alice-mirror-castle-murders
 tags: []
 language: en
 completion: unknown
@@ -44,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

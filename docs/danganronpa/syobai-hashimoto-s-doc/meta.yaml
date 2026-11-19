@@ -8,10 +8,13 @@ alt_titles:
 - Syobai Hashimoto’s Doc
 authors:
 - name: Neffy
+  id: neffy
   source: doc-text
 - name: Yusha
+  id: yusha
   source: doc-text
 - name: Kokichi
+  id: kokichi
   source: doc-text
 series:
 - danganronpa

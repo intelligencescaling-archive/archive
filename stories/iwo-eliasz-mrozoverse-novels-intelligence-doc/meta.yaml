@@ -3,9 +3,11 @@ schema_version: 1
 id: iwo-eliasz-mrozoverse-novels-intelligence-doc
 category: story
 title: Iwo Eliasz (Mrozoverse Novels) Intelligence DOC
-authors:
+authors: []
+shared_by:
 - name: Signal-Experience315
   reddit: Signal-Experience315
+  id: signal-experience315
   source: reddit-post
 series:
 - mrozoverse

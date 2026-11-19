@@ -3,9 +3,11 @@ schema_version: 1
 id: fictional-murder-case
 category: doc
 title: Fictional Murder case
-authors:
+authors: []
+shared_by:
 - name: Spinosaurus23
   reddit: Spinosaurus23
+  id: spinosaurus23
   source: reddit-post
 series: []
 characters: []

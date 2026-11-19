@@ -3,9 +3,11 @@ schema_version: 1
 id: info
 category: doc
 title: INFO
-authors:
+authors: []
+shared_by:
 - name: Similar_Incident8433
   reddit: Similar_Incident8433
+  id: similar-incident8433
   source: reddit-post
 series:
 - classroom-of-the-elite

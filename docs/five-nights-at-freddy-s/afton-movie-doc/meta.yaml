@@ -7,8 +7,10 @@ alt_titles:
 - William afton movies feat doc
 authors:
 - name: ranpo_Editz
+  id: ranpo-editz
   source: doc-text
 - name: Javier
+  id: javier
   source: doc-text
 series:
 - five-nights-at-freddy-s

@@ -6,6 +6,7 @@ title: Chapter 1 Search For The Light
 authors:
 - name: MathematicianOne4197
   reddit: MathematicianOne4197
+  id: mathematicianone4197
   source: reddit-post
 series: []
 characters: []
@@ -35,7 +36,6 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - language
   - series

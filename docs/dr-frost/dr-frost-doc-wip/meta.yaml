@@ -7,8 +7,10 @@ alt_titles:
 - Dr. Frost 2
 authors:
 - name: Muaaz
+  id: muaaz
   source: doc-text
 - name: Chronos
+  id: chronos
   source: doc-text
 series:
 - dr-frost

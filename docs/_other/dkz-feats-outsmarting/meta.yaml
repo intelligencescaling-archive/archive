@@ -3,9 +3,11 @@ schema_version: 1
 id: dkz-feats-outsmarting
 category: doc
 title: DKZ Feats (Outsmarting)
-authors:
+authors: []
+shared_by:
 - name: BakuMadarama
   reddit: BakuMadarama
+  id: bakumadarama
   source: reddit-post
 series: []
 characters: []

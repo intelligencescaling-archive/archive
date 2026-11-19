@@ -8,6 +8,7 @@ alt_titles:
 - Hannibal Lecter Novels SCD analysis
 authors:
 - name: Lenaisapeak
+  id: lenaisapeak
   source: doc-text
 series:
 - hannibal

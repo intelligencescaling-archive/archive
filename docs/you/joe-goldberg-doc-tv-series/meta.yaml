@@ -7,10 +7,13 @@ alt_titles:
 - Joe Goldberg
 authors:
 - name: umontrose
+  id: umontrose
   source: doc-text
 - name: sido75
+  id: sido75
   source: doc-text
 - name: Cheatspeed
+  id: cheatspeed
   source: doc-text
 series:
 - you

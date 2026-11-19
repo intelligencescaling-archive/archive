@@ -8,6 +8,7 @@ alt_titles:
 - DAX PMFT'S SCALING GUIDE
 authors:
 - name: DAX PMFT
+  id: dax-pmft
   source: doc-text
 series: []
 characters: []

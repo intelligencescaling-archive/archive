@@ -5,6 +5,7 @@ category: doc
 title: The Fugitive Bee
 authors:
 - name: Whitty
+  id: whitty
   source: doc-text
 series:
 - usogui

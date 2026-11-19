@@ -8,6 +8,7 @@ alt_titles:
 - SSC
 authors:
 - name: scroll
+  id: scroll
   source: doc-text
 series: []
 characters: []

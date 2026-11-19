@@ -3,9 +3,11 @@ schema_version: 1
 id: stock-feat-debate
 category: doc
 title: Stock Feat Debate
-authors:
+authors: []
+shared_by:
 - name: TheNamelessMonster_-
   reddit: TheNamelessMonster_-
+  id: thenamelessmonster
   source: reddit-post
 series:
 - death-note

@@ -5,6 +5,7 @@ category: doc
 title: Michael Scofield doc
 authors:
 - name: River
+  id: river
   source: doc-text
 series:
 - prison-break

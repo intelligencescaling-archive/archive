@@ -8,10 +8,17 @@ alt_titles:
 - I thought you meant this person https://drive.google.com/file/d/1vq-eMIZbIVKQL
 authors:
 - name: Anition
+  id: anition
   source: doc-text
+shared_by:
+- name: BornPass8985
+  reddit: BornPass8985
+  id: bornpass8985
+  source: reddit-post
 series:
 - tomodachi-game
-characters: []
+characters:
+- yuuichi-katagiri
 tags: []
 language: en
 completion: unknown

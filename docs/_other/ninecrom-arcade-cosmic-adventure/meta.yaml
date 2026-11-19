@@ -9,10 +9,12 @@ alt_titles:
 authors:
 - name: Ninecrom_Arcade
   reddit: Ninecrom_Arcade
+  id: ninecrom-arcade
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- oc
 language: es
 completion: unknown
 parts:
@@ -42,6 +44,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

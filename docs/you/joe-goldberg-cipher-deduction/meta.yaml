@@ -3,9 +3,11 @@ schema_version: 1
 id: joe-goldberg-cipher-deduction
 category: doc
 title: Joe Goldberg Cipher Deduction
-authors:
+authors: []
+shared_by:
 - name: Top-Arm-5459
   reddit: Top-Arm-5459
+  id: top-arm-5459
   source: reddit-post
 series:
 - you

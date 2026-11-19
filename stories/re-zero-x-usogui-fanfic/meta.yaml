@@ -9,12 +9,17 @@ alt_titles:
 authors:
 - name: d0ntkn0wmyself
   reddit: d0ntkn0wmyself
+  id: d0ntkn0wmyself
   source: reddit-post
 series:
 - re-zero
 - usogui
-characters: []
-tags: []
+characters:
+- subaru-natsuki
+- baku-madarame
+- kaji-takaomi
+tags:
+- fanfiction
 language: en
 completion: unknown
 parts:

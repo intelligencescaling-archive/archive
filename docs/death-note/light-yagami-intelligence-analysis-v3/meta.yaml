@@ -6,13 +6,16 @@ title: Light Yagami intelligence analysis v3
 alt_titles:
 - light_yagami_intelligence_analysis_v3
 - 'Here doc of Light GOTNW (18 Chapters): https://docs.google.com/document/d/1RqQRK'
-authors:
+authors: []
+shared_by:
 - name: Last-Trainer-3323
   reddit: Last-Trainer-3323
+  id: last-trainer-3323
   source: reddit-post
 series:
 - death-note
-characters: []
+characters:
+- light-yagami
 tags:
 - feats
 language: en

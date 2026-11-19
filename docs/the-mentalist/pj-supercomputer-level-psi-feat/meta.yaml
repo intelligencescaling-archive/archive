@@ -7,8 +7,10 @@ alt_titles:
 - PJ 2
 authors:
 - name: River
+  id: river
   source: doc-text
 - name: RatJoe
+  id: ratjoe
   source: doc-text
 series:
 - the-mentalist

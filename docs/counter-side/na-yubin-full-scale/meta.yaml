@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: na-yubin-full-scale
+category: doc
+title: Na Yubin Full Scale
+alt_titles:
+- Na Yubin Full-Scale Doc
+authors:
+- name: CounterKouji
+  id: counterkouji
+  source: doc-text
+- name: Omnicon
+  id: omnicon
+  source: doc-text
+series:
+- counter-side
+characters:
+- na-yubin
+tags:
+- fsiq
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/19osMOvU8oZ1fvPPhpyuQLTJl2fvAeDFMfnRGBQ82LRs/edit?usp=drivesdk
+    google_id: 19osMOvU8oZ1fvPPhpyuQLTJl2fvAeDFMfnRGBQ82LRs
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 10
+    words: 972
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1197758
+      sha256: 0d02d1e1b4f89ecb45d89a1488239ca3b4858f747973896cfb1f762828854b80
+    - format: docx
+      name: document.docx
+      bytes: 2621853
+      sha256: 95754c24190de8abab32e1aa1a76ee553e6f85fb5047dd804b346e481bc42714
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Na Yubin Full-Scale Doc
+added: '2026-11-15'
+review:
+  status: reviewed
+  by: scd-archivist
+  date: '2026-11-18'
+notes: 'Label fix 2026-11-18: series added (the character''s series)'

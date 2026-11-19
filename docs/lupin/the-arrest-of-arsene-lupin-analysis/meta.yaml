@@ -3,9 +3,11 @@ schema_version: 1
 id: the-arrest-of-arsene-lupin-analysis
 category: doc
 title: The arrest of Arsene Lupin analysis
-authors:
+authors: []
+shared_by:
 - name: ResponseLower49
   reddit: ResponseLower49
+  id: responselower49
   source: reddit-post
 series:
 - lupin

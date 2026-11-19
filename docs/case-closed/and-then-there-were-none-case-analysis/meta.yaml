@@ -8,11 +8,12 @@ alt_titles:
 authors:
 - name: ConversationSea1684
   reddit: ConversationSea1684
+  id: conversationsea1684
   source: reddit-post
 series:
 - case-closed
 characters:
-- conan-edogawa-shinichi-kudo
+- conan-edogawa
 tags: []
 language: en
 completion: unknown

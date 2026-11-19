@@ -5,8 +5,10 @@ category: doc
 title: Johan Liebert's Induction
 authors:
 - name: mehmetkabak9848
+  id: mehmetkabak9848
   source: doc-text
 - name: Faxsai
+  id: faxsai
   source: doc-text
 series:
 - monster

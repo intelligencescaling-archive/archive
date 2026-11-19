@@ -7,6 +7,7 @@ alt_titles:
 - Raymond Redington Doc
 authors:
 - name: Mysterior Person
+  id: mysterior-person
   source: doc-text
 series:
 - the-blacklist

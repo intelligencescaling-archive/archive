@@ -6,10 +6,12 @@ title: Takuya's doc (critique)
 authors:
 - name: YujinDoro
   reddit: YujinDoro
+  id: yujindoro
   source: reddit-post
 series:
 - classroom-of-the-elite
-characters: []
+characters:
+- takuya-yagami
 tags:
 - feats
 language: en
@@ -45,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

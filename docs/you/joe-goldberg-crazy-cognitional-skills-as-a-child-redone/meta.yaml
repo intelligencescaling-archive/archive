@@ -5,7 +5,13 @@ category: doc
 title: Joe Goldberg crazy cognitional skills as a child - Redone
 authors:
 - name: slick_editzzz
+  id: slick-editzzz
   source: doc-text
+shared_by:
+- name: Top-Arm-5459
+  reddit: Top-Arm-5459
+  id: top-arm-5459
+  source: reddit-post
 series:
 - you
 characters:

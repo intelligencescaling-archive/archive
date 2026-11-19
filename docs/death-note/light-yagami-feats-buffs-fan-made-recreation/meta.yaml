@@ -5,13 +5,16 @@ category: doc
 title: Light Yagami Feats Buffs (fan-made recreation)
 alt_titles:
 - 'I use chat gpt for Buff Light yagami Feats is this the doc: https://docs.google.'
-authors:
+authors: []
+shared_by:
 - name: AnnualFrequent7426
   reddit: AnnualFrequent7426
+  id: annualfrequent7426
   source: reddit-post
 series:
 - death-note
-characters: []
+characters:
+- light-yagami
 tags:
 - feats
 language: en

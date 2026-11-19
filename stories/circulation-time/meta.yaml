@@ -6,10 +6,15 @@ title: Circulation time
 authors:
 - name: Zerozeroma
   reddit: Zerozeroma
+  id: zerozeroma
   source: reddit-post
-series: []
-characters: []
-tags: []
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+- qiu-yinong
+tags:
+- fanfiction
 language: en
 completion: unknown
 parts:
@@ -43,6 +48,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

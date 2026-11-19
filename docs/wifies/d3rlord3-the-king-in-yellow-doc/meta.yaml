@@ -5,6 +5,7 @@ category: doc
 title: D3rlord3 & the king in yellow doc
 authors:
 - name: Veneno
+  id: veneno
   source: doc-text
 series:
 - wifies

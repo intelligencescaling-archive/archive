@@ -4,8 +4,13 @@ id: estrategia-de-red-contra-blue-por-clockman
 category: doc
 title: Estrategia de Red contra Blue, por Clockman
 authors:
+- name: Clockman
+  id: clockman
+  source: doc-text
+shared_by:
 - name: NoScar2207
   reddit: NoScar2207
+  id: noscar2207
   source: reddit-post
 series:
 - pokemon
@@ -42,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

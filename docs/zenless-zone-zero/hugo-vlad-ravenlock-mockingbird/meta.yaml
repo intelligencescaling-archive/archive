@@ -8,10 +8,17 @@ alt_titles:
 - Zenless Zone Zero in SCD!?
 authors:
 - name: Detective_Kana
+  id: detective-kana
   source: doc-text
+shared_by:
+- name: Proud_Magazine_5588
+  reddit: Proud_Magazine_5588
+  id: proud-magazine-5588
+  source: reddit-post
 series:
 - zenless-zone-zero
-characters: []
+characters:
+- hugo-vlad
 tags: []
 language: en
 completion: unknown

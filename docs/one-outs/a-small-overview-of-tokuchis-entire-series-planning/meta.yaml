@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-small-overview-of-tokuchis-entire-series-planning
+category: doc
+title: A Small Overview Of Tokuchi’s Entire Series Planning
+alt_titles:
+- Tokuchi Planning
+authors: []
+series:
+- one-outs
+characters:
+- toua-tokuchi
+tags:
+- planning
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://docs.google.com/document/d/1Hf0lrll9-nAt3wNEZ4ie55qhzmqLxL5AgH-xzcKk82o/edit?tab=t.0#heading=h.3peq18fjqyrt
+    google_id: 1Hf0lrll9-nAt3wNEZ4ie55qhzmqLxL5AgH-xzcKk82o
+  capture:
+    status: complete
+    date: '2026-11-15'
+    pages: 7
+    words: 3112
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 174001
+      sha256: e009bc4c8af577862f869cbad95f719b832fbbf429732cf4cafa44152b1c20d9
+    - format: docx
+      name: document.docx
+      bytes: 304638
+      sha256: f30b8597ed1d407d7442722ffc9dbc3c7ff59c4c73e411bf7097f1c075d56e17
+    text:
+      file: text.txt
+      method: google-export
+found_in:
+- library: old
+  section: 'MISCELLANEOUS:'
+  link_text: Tokuchi Planning
+added: '2026-11-15'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - series

@@ -8,6 +8,7 @@ alt_titles:
 - SURPASSING THE LEADER - HAL DOC
 authors:
 - name: JoJolon
+  id: jojolon
   source: doc-text
 series:
 - usogui

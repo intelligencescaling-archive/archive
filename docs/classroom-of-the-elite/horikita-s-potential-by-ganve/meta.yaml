@@ -4,8 +4,13 @@ id: horikita-s-potential-by-ganve
 category: doc
 title: “Horikita's Potential” by Ganve
 authors:
+- name: Ganve
+  id: ganve
+  source: doc-text
+shared_by:
 - name: Obvious_Ad_6250
   reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
   source: reddit-post
 series:
 - classroom-of-the-elite
@@ -45,6 +50,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

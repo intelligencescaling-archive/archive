@@ -3,9 +3,11 @@ schema_version: 1
 id: fang-yuan-feats
 category: doc
 title: Fang Yuan Feats
-authors:
+authors: []
+shared_by:
 - name: WestNo356
   reddit: WestNo356
+  id: westno356
   source: reddit-post
 series:
 - reverend-insanity

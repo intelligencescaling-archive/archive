@@ -3,9 +3,11 @@ schema_version: 1
 id: n-ice-feats
 category: doc
 title: N-Ice Feats
-authors:
+authors: []
+shared_by:
 - name: Financial-Fix2412
   reddit: Financial-Fix2412
+  id: financial-fix2412
   source: reddit-post
 series: []
 characters: []

@@ -8,6 +8,7 @@ alt_titles:
 - Kiyo’s Thinking and reasoning feats (Y2V1)
 authors:
 - name: Plasma
+  id: plasma
   source: doc-text
 series:
 - classroom-of-the-elite

@@ -5,6 +5,7 @@ category: doc
 title: Doofus Jerry doc
 authors:
 - name: Zz9he
+  id: zz9he
   source: doc-text
 series:
 - rick-and-morty

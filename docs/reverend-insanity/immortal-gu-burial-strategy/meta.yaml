@@ -3,9 +3,11 @@ schema_version: 1
 id: immortal-gu-burial-strategy
 category: doc
 title: Immortal Gu Burial Strategy
-authors:
+authors: []
+shared_by:
 - name: Ok_Chef1056
   reddit: Ok_Chef1056
+  id: ok-chef1056
   source: reddit-post
 series:
 - reverend-insanity

@@ -4,8 +4,13 @@ id: rfes-rational-feats-evaluation-system
 category: doc
 title: RFES (Rational Feats Evaluation System)
 authors:
+- name: berl1863
+  id: berl1863
+  source: doc-text
+shared_by:
 - name: AsideOk1035
   reddit: AsideOk1035
+  id: asideok1035
   source: reddit-post
 series: []
 characters: []
@@ -45,6 +50,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -3,9 +3,11 @@ schema_version: 1
 id: mega-subreddit-debating-tournament-document
 category: doc
 title: Mega Subreddit Debating Tournament Document
-authors:
+authors: []
+shared_by:
 - name: ReverseFlash928
   reddit: ReverseFlash928
+  id: reverseflash928
   source: reddit-post
 series: []
 characters: []

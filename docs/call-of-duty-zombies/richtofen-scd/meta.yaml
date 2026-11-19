@@ -7,8 +7,10 @@ alt_titles:
 - Richtofen SCD Doc
 authors:
 - name: Fran
+  id: fran
   source: doc-text
 - name: Calculadora
+  id: calculadora
   source: doc-text
 series:
 - call-of-duty-zombies

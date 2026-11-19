@@ -7,6 +7,7 @@ alt_titles:
 - Kaiji Itou document
 authors:
 - name: Coolguy
+  id: coolguy
   source: doc-text
 series:
 - kaiji

@@ -6,13 +6,16 @@ title: 'Ninecrom Arcade: Cognitive Feats Analysis'
 alt_titles:
 - (anonymous)
 - Ninecrom Arcade
-authors:
+authors: []
+shared_by:
 - name: Ninecrom_Arcade
   reddit: Ninecrom_Arcade
+  id: ninecrom-arcade
   source: reddit-post
 series: []
 characters: []
-tags: []
+tags:
+- oc
 language: en
 completion: unknown
 parts:

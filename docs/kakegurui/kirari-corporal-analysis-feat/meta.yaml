@@ -5,6 +5,7 @@ category: doc
 title: Kirari Corporal Analysis Feat
 authors:
 - name: Hellos
+  id: hellos
   source: doc-text
 series:
 - kakegurui

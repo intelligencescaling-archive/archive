@@ -7,16 +7,22 @@ alt_titles:
 - High 1-A Kingdom Hear
 authors:
 - name: ThatBoiRick
+  id: thatboirick
   source: doc-text
 - name: Bobsican
+  id: bobsican
   source: doc-text
 - name: SuperBearNeo
+  id: superbearneo
   source: doc-text
 - name: TheKingStrategist13
+  id: thekingstrategist13
   source: doc-text
 - name: Kirbo
+  id: kirbo
   source: doc-text
 - name: Fezzih 007
+  id: fezzih-007
   source: doc-text
 series:
 - kingdom-hearts

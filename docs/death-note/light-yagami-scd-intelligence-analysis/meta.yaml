@@ -6,13 +6,16 @@ title: Light Yagami SCD intelligence analysis
 alt_titles:
 - Light_Yagami_SCD_Intelligence_Analysis
 - 'Here doc (First Volume) copy paste in Google: https://docs.google.com/document/u'
-authors:
+authors: []
+shared_by:
 - name: Last-Trainer-3323
   reddit: Last-Trainer-3323
+  id: last-trainer-3323
   source: reddit-post
 series:
 - death-note
-characters: []
+characters:
+- light-yagami
 tags: []
 language: en
 completion: unknown

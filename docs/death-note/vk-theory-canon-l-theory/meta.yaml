@@ -7,8 +7,10 @@ alt_titles:
 - VK Canon L Theory
 authors:
 - name: Veris
+  id: veris
   source: doc-text
 - name: Kiệt
+  id: kiet
   source: doc-text
 series:
 - death-note

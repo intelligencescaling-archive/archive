@@ -5,6 +5,7 @@ category: doc
 title: Teen Baku Doc
 authors:
 - name: KitchenCoyote
+  id: kitchencoyote
   source: doc-text
 series:
 - usogui

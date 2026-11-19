@@ -4,13 +4,14 @@ id: pokemon-mystery-dungeon-the-past-pursuits-guildmaster
 category: story
 title: 'Pokemon Mystery Dungeon: The Past Pursuits - Guildmaster Sylveons Scheme'
 authors:
-- name: Equal_qustard0
-  source: doc-text
-- name: Db_Puddingdrawer
+- name: Equal_Custard0
+  reddit: Equal_Custard0
+  id: less-puddingdrawer
   source: doc-text
 series:
 - pokemon-mystery-dungeon
-characters: []
+characters:
+- alaric-guildmaster-sylveon
 tags:
 - scheming
 language: en
@@ -46,6 +47,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

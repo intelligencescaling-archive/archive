@@ -3,9 +3,11 @@ schema_version: 1
 id: scd-short-story-tournament-entries
 category: story
 title: SCD Short Story Tournament Entries
-authors:
+authors: []
+shared_by:
 - name: Due_Ad8334
   reddit: Due_Ad8334
+  id: due-ad8334
   source: reddit-post
 series: []
 characters: []

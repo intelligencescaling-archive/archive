@@ -3,9 +3,11 @@ schema_version: 1
 id: great-tycoon-2-and-3-english
 category: doc
 title: Great_Tycoon_2_and_3_English
-authors:
+authors: []
+shared_by:
 - name: Simply_Amazing_1610
   reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
   source: reddit-post
 series:
 - 18-levels-of-hell

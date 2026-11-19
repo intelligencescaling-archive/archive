@@ -9,6 +9,7 @@ alt_titles:
 authors:
 - name: Economy_Echo_8500
   reddit: Economy_Echo_8500
+  id: economy-echo-8500
   source: doc-text
 series:
 - tomodachi-game

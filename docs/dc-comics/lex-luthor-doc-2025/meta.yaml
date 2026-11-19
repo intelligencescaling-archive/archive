@@ -3,9 +3,11 @@ schema_version: 1
 id: lex-luthor-doc-2025
 category: doc
 title: Lex Luthor Doc ( 2025)
-authors:
+authors: []
+shared_by:
 - name: OkEmployment2573
   reddit: OkEmployment2573
+  id: okemployment2573
   source: reddit-post
 series:
 - dc-comics

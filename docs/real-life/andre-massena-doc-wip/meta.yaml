@@ -8,6 +8,7 @@ alt_titles:
 - Andre Massena doc
 authors:
 - name: Ocolius
+  id: ocolius
   source: doc-text
 series:
 - real-life

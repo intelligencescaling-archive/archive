@@ -7,8 +7,10 @@ alt_titles:
 - Chess feat debunk
 authors:
 - name: Farhen007
+  id: farhen007
   source: doc-text
 - name: AGENT-ct8kv
+  id: agent-ct8kv
   source: doc-text
 series:
 - classroom-of-the-elite
