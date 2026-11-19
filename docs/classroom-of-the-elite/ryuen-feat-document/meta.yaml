@@ -3,6 +3,8 @@ schema_version: 1
 id: ryuen-feat-document
 category: doc
 title: Ryuen Feat Document
+alt_titles:
+- Ryuen
 authors:
 - name: The Eagle Union
   id: the-eagle-union

@@ -5,8 +5,7 @@ category: doc
 title: An In-Depth Debunk of the Chess Feat
 alt_titles:
 - What are you guys and gals thoughts on this?
-authors: []
-shared_by:
+authors:
 - name: Greentoaststone
   reddit: Greentoaststone
   id: greentoaststone
@@ -51,6 +50,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

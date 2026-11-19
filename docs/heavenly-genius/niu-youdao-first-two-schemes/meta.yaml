@@ -1,42 +1,43 @@
 # Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
 schema_version: 1
-id: niu-youdao-interlocking-stratagem
+id: niu-youdao-first-two-schemes
 category: doc
-title: Niu Youdao Interlocking Stratagem
+title: Niu Youdao first two schemes
 authors: []
-series: []
+series:
+- heavenly-genius
 characters:
 - niu-youdao
 tags:
-- strategy
+- scheming
 language: en
 completion: unknown
 parts:
 - source:
     type: google-doc
-    url: https://drive.google.com/open?id=13rPYg9O5VIiU7pwV5wDuMqWmR6BlHChENfwIWxJDElE
-    google_id: 13rPYg9O5VIiU7pwV5wDuMqWmR6BlHChENfwIWxJDElE
+    url: https://docs.google.com/document/d/1sL5H5Orx3nKym1ci5mJqDo7IKq1K7A1UJfHwkDaL_8A/edit?usp=drivesdk
+    google_id: 1sL5H5Orx3nKym1ci5mJqDo7IKq1K7A1UJfHwkDaL_8A
   capture:
     status: complete
     date: '2026-11-15'
-    pages: 20
-    words: 8454
+    pages: 5
+    words: 2270
     files:
     - format: pdf
       name: document.pdf
-      bytes: 298646
-      sha256: f458dd5945fc30fb2ed2dd67c4f979440d2d8969f542e333349ec6abad9911bd
+      bytes: 95717
+      sha256: aef3649892869defde32e3498b5903f953b1522c7e9d2b623e7559aef641f86e
     - format: docx
       name: document.docx
-      bytes: 27723
-      sha256: 3452f98fa69e8b8c58f9367e318b8a9146b54b98297e6de4f4fb9b2bc91bc7ac
+      bytes: 469428
+      sha256: 8ae75dae710b47e2ae7d54db7a78fe73601654991def83071fb6944283679680
     text:
       file: text.txt
       method: google-export
 found_in:
 - library: old
   section: 'MISCELLANEOUS:'
-  link_text: Niu Youdao Interlocking Stratagem
+  link_text: Niu Youdao First two Schemes
 added: '2026-11-15'
 review:
   status: auto

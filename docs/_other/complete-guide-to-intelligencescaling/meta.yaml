@@ -3,8 +3,7 @@ schema_version: 1
 id: complete-guide-to-intelligencescaling
 category: doc
 title: Complete Guide to IntelligenceScaling
-authors: []
-shared_by:
+authors:
 - name: Nino_IQ
   reddit: Nino_IQ
   id: nino-iq

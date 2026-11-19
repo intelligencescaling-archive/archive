@@ -9,8 +9,10 @@ shared_by:
   reddit: Fun-Fold9539
   id: fun-fold9539
   source: reddit-post
-series: []
-characters: []
+series:
+- hero-akagi-no-ishi-o-tsugu-otoko
+characters:
+- hiroyuki-igawa
 tags:
 - game
 language: en

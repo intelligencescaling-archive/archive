@@ -7,11 +7,6 @@ authors:
 - name: SoundStorm
   id: soundstorm
   source: doc-text
-shared_by:
-- name: SoundStorm7
-  reddit: SoundStorm7
-  id: soundstorm7
-  source: reddit-post
 series:
 - battle-in-5-seconds-after-meeting
 characters:

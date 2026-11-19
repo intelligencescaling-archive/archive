@@ -5,6 +5,8 @@
 - id: administrator
   name: Administrator
   series: counter-side
+  aliases:
+  - Supreme Administrator
 - id: adolf-hitler
   name: Adolf Hitler
   series: real-life
@@ -407,6 +409,11 @@
 - id: hernan-cortes
   name: Hernán Cortés
   series: real-life
+- id: hiroyuki-igawa
+  name: Hiroyuki Igawa
+  series: hero-akagi-no-ishi-o-tsugu-otoko
+  aliases:
+  - Hiro
 - id: hisui-jozuka
   name: Hisui Jozuka
   series: medium
@@ -539,6 +546,9 @@
 - id: joseph-joestar
   name: Joseph Joestar
   series: jojo-s-bizarre-adventure
+- id: juan-apex-predator
+  name: Juan
+  series: apex-predator
 - id: juan-pujol
   name: Juan Pujol
   series: real-life
@@ -863,7 +873,7 @@
   series: lies-fraud-and-psychic-ability-school
 - id: niu-youdao
   name: Niu Youdao
-  series: null
+  series: heavenly-genius
 - id: nobody
   name: Nobody
   series: scp-foundation
@@ -1122,9 +1132,6 @@
 - id: subutai
   name: Subutai
   series: real-life
-- id: supreme-administrator
-  name: Supreme Administrator
-  series: counter-side
 - id: suteguma-satoru
   name: Suteguma Satoru
   series: usogui

@@ -3,7 +3,13 @@ schema_version: 1
 id: comp-light-vs-ctw-l-who-outsmarts
 category: doc
 title: 'Comp Light vs CTW L: Who Outsmarts'
-authors: []
+authors:
+- name: Captain Timo
+  id: captain-timo
+  source: doc-text
+- name: Baku's Daddy
+  id: baku-s-daddy
+  source: doc-text
 shared_by:
 - name: Melodic_Ad1005
   reddit: Melodic_Ad1005
@@ -51,6 +57,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

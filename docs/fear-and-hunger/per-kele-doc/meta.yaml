@@ -3,8 +3,7 @@ schema_version: 1
 id: per-kele-doc
 category: doc
 title: Per'kele Doc
-authors: []
-shared_by:
+authors:
 - name: Expensive-Oven5953
   reddit: Expensive-Oven5953
   id: expensive-oven5953
@@ -47,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

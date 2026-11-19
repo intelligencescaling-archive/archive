@@ -49,6 +49,10 @@
   - Roshidere
   origin_language: ja
   origin_medium: light-novel
+- id: apex-predator
+  name: Apex Predator
+  origin_language: en
+  origin_medium: novel
 - id: as-the-gods-will
   name: As the Gods Will
   origin_language: ja
@@ -140,6 +144,10 @@
   name: Cat Country
   origin_language: zh
   origin_medium: novel
+- id: chasing-whispers
+  name: Chasing Whispers
+  origin_language: en
+  origin_medium: web-novel
 - id: classroom-of-the-elite
   name: Classroom of the Elite
   aliases:
@@ -307,6 +315,20 @@
   name: Happy Hills Homicide
   origin_language: en
   origin_medium: game
+- id: heavenly-genius
+  name: Heavenly Genius
+  aliases:
+  - Dao Jun
+  - 道君
+  origin_language: zh
+  origin_medium: web-novel
+- id: hero-akagi-no-ishi-o-tsugu-otoko
+  name: 'HERO: Akagi no Ishi o Tsugu Otoko'
+  aliases:
+  - HERO
+  - HERO -Gyakkyou no Toupai-
+  origin_language: ja
+  origin_medium: manga
 - id: honkai-impact-3rd
   name: Honkai Impact 3rd
   origin_language: zh
@@ -734,6 +756,7 @@
   origin_medium: light-novel
 - id: the-lying-detective
   name: The Lying Detective
+  origin_language: en
   origin_medium: web-novel
 - id: the-mandela-catalogue
   name: The Mandela Catalogue
@@ -769,6 +792,10 @@
   name: The Unwritten
   origin_language: en
   origin_medium: comic
+- id: the-white-demon
+  name: The White Demon
+  origin_language: en
+  origin_medium: web-novel
 - id: tokyo-ghoul
   name: Tokyo Ghoul
   origin_language: ja
@@ -829,6 +856,7 @@
   origin_medium: web
 - id: witch-s-heart
   name: Witch's Heart
+  origin_language: ja
   origin_medium: game
 - id: wuthering-waves
   name: Wuthering Waves

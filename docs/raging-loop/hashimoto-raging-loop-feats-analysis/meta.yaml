@@ -3,9 +3,8 @@ schema_version: 1
 id: hashimoto-raging-loop-feats-analysis
 category: doc
 title: Hashimoto (Raging Loop) Feats Analysis
-authors: []
-shared_by:
-- name: Due_Ad8334
+authors:
+- name: TheNoo
   reddit: Due_Ad8334
   id: due-ad8334
   source: reddit-post
@@ -49,6 +48,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

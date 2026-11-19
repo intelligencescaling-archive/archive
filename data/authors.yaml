@@ -50,8 +50,9 @@
   name: Aki
 - id: aki-ishi
   name: Aki_Ishi
-- id: aki-ishi-2
-  name: Aki_Ishi_2
+  aliases:
+  - Aki_Ishi_2
+  note: C4
 - id: akuma-ujjain
   name: Akuma Ujjain
 - id: alternative-fox-4534
@@ -60,12 +61,11 @@
   - Alternative_Fox_4534
 - id: amin
   name: Amin
-- id: ancient-end
-  name: Ancient-End
 - id: ancient-end2474
-  name: Ancient-End2474
+  name: Ancient-End
   reddit:
   - Ancient-End2474
+  note: C4
 - id: angelotbg
   name: angelotbg_
 - id: angerissue
@@ -133,6 +133,8 @@
   name: Axiom
 - id: azraelyc
   name: Azraelyc
+- id: baku-s-daddy
+  name: Baku's Daddy
 - id: bakumadarama
   name: BakuMadarama
   reddit:
@@ -172,9 +174,13 @@
   reddit:
   - brunchbois
 - id: budgetposition6080
-  name: BudgetPosition6080
+  name: Hypervenomxtreme
+  aliases:
+  - Hypervenomxtreme2.0
+  - Hypervenomextreme
   reddit:
   - BudgetPosition6080
+  note: 'C1: docs in BudgetPosition6080''s ''DOCS I MADE'' section say ''created by me @hypervenomxtreme'''
 - id: business-island-7993
   name: Business_Island_7993
   reddit:
@@ -185,6 +191,8 @@
   name: Calcu
 - id: calculadora
   name: Calculadora
+- id: captain-timo
+  name: Captain Timo
 - id: cardlampp
   name: CardLampp
   aliases:
@@ -221,14 +229,6 @@
   name: Cloud
 - id: cloud-s
   name: Cloud(s)
-- id: communist-crusaders
-  name: Communist_Crusaders
-  reddit:
-  - Communist_Crusaders
-- id: connect-fudge8942
-  name: Connect-Fudge8942
-  reddit:
-  - Connect-Fudge8942
 - id: connor
   name: Connor
 - id: conversationsea1684
@@ -332,10 +332,6 @@
   reddit:
   - Economy_Echo_8500
   note: '''u/Economy_Echo_8500/Echonomy'''
-- id: eggapprehensive7792
-  name: EggApprehensive7792
-  reddit:
-  - EggApprehensive7792
 - id: endur
   name: endur
 - id: enginedrive
@@ -491,8 +487,9 @@
   - heckthiscrapimout
 - id: hellos
   name: Hellos
-- id: hellos-17
-  name: Hellos-17
+  aliases:
+  - Hellos-17
+  note: C4
 - id: hellothere1089
   name: HelloThere1089
 - id: herald
@@ -521,9 +518,6 @@
   name: HourFrame9349
 - id: huegexick
   name: Huegexick
-- id: hypervenomxtreme2-0
-  name: Hypervenomxtreme2.0
-  note: same name
 - id: iamnotbatman132
   name: IAmNotBatman132
   reddit:
@@ -615,6 +609,9 @@
   name: Kaizer Jester
 - id: kakarot362
   name: Kakarot362
+  reddit:
+  - EggApprehensive7792
+  note: 'C6: u/EggApprehensive7792 posted ''My Doc on Yuki Sorimachi'', the doc credits Kakarot362'
 - id: kasm-1337
   name: Kasm.1337
   aliases:
@@ -631,7 +628,10 @@
 - id: kiet
   name: Kiệt
 - id: kingdod69
-  name: kingdod69
+  name: lilcbum
+  aliases:
+  - kingdod69
+  note: 'C9: ''Creator Info: Discord: lilcbum, TikTok: kingdod69'''
 - id: kingjaymes1234
   name: kingjaymes1234
   reddit:
@@ -646,10 +646,14 @@
   name: Kiryu Moretti
 - id: kitchencoyote
   name: KitchenCoyote
-- id: kitchencoyote-the2nd
-  name: KitchenCoyote_The2nd
+  aliases:
+  - KitchenCoyote7942
+  - Axolotal
+  - KC Axolotal
+  - Axolotol4044
   reddit:
   - KitchenCoyote_The2nd
+  note: 'C3: ''Made by-KC Axolotal/KitchenCoyote7942'' (12 docs)'
 - id: kiyokouji
   name: Kiyokouji
 - id: kokichi
@@ -666,10 +670,8 @@
   name: Last-Trainer-3323
   reddit:
   - Last-Trainer-3323
-- id: last-trainer-333
-  name: Last-Trainer-333
-  reddit:
   - Last-Trainer-333
+  note: C4 typo
 - id: lawlietfym
   name: Lawlietfym
 - id: lena-fox8
@@ -778,9 +780,9 @@
   reddit:
   - milk_thirsty
 - id: millenium-knight
-  name: Yalvin Shoko Millennium Knight
+  name: Millennium Knight
   aliases:
-  - Millennium Knight
+  - Yalvin Shoko Millennium Knight
   reddit:
   - Millenium_Knight
   note: name + handle on the same credit; 'Made by Millennium Knight' in 2 docs
@@ -997,8 +999,6 @@
   name: ranpo_Editz
 - id: ranposano
   name: Ranposano
-- id: rashoumon
-  name: Rashoumon
 - id: ratjoe
   name: RatJoe
 - id: ray
@@ -1094,10 +1094,11 @@
   name: Scary_Examination887
   reddit:
   - Scary_Examination887
-- id: scd-scal1489
-  name: scd_scal1489
 - id: scd-scal489
   name: scd_scal489
+  aliases:
+  - scd_scal1489
+  note: C4
 - id: scroll
   name: scroll
 - id: scytherzilla
@@ -1146,14 +1147,14 @@
   name: Similar_Incident8433
   reddit:
   - Similar_Incident8433
-- id: simply-amazing
+- id: simply-amazing-1610
   name: Simply Amazing
   aliases:
   - Simply_Amazing
-- id: simply-amazing-1610
-  name: Simply_Amazing_1610
+  - Rashoumon
   reddit:
   - Simply_Amazing_1610
+  note: 'C2: ''* Rashoumon/ Simply Amazing'''
 - id: slapstick-editz
   name: Slapstick_Editz
 - id: slick-editzz
@@ -1186,10 +1187,9 @@
   - SoumikDeb1
 - id: soundstorm
   name: SoundStorm
-- id: soundstorm7
-  name: SoundStorm7
   reddit:
   - SoundStorm7
+  note: C4
 - id: spinosaurus23
   name: Spinosaurus23
   reddit:
@@ -1240,14 +1240,13 @@
   name: Tearé
 - id: techmeo
   name: TechMeo
-- id: tensai
-  name: Tensai
 - id: teru
   name: Teru
 - id: teyfik
   name: Teyfik
-- id: teyfik1432
-  name: Teyfik1432
+  aliases:
+  - Teyfik1432
+  note: C4
 - id: thatboirick
   name: ThatBoiRick
 - id: the-anime-nox
@@ -1288,6 +1287,9 @@
   name: Toji
 - id: tokho
   name: Tokho
+  aliases:
+  - Cridemord
+  note: 'C5: ''Made by: Tokho/Cridemord'''
 - id: tom-taylor-productions
   name: Tom Taylor Productions
 - id: top-arm-5459
