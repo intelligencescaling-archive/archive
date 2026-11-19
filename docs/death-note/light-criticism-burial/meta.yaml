@@ -7,11 +7,6 @@ authors:
 - name: N-Ice
   id: n-ice
   source: doc-text
-shared_by:
-- name: N-Ice-the-one
-  reddit: N-Ice-the-one
-  id: n-ice-the-one
-  source: reddit-post
 series:
 - death-note
 characters:

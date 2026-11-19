@@ -4,14 +4,9 @@ id: fazbear-entertainment-smearing-campaign-document-revamp
 category: doc
 title: Fazbear Entertainment Smearing campaign document (Revamp version)
 authors:
-- name: Veneno on
-  id: veneno-on
+- name: Veneno
+  id: veneno
   source: doc-text
-shared_by:
-- name: Mediocre-Neat-1207
-  reddit: Mediocre-Neat-1207
-  id: mediocre-neat-1207
-  source: reddit-post
 series:
 - five-nights-at-freddy-s
 characters:
@@ -51,6 +46,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series

@@ -158,11 +158,6 @@
   name: arvinsins
   reddit:
   - arvinsins
-- id: aryan
-  name: Aryan
-  contacts:
-  - platform: discord
-    handle: moniakatsu
 - id: aryanakane
   name: Aryanakane
 - id: asideok1035
@@ -171,8 +166,9 @@
   - AsideOk1035
 - id: asinsio
   name: Asinsio
-- id: asinsiofr
-  name: Asinsiofr
+  aliases:
+  - Asinsiofr
+  note: both on the 20th Century Boys Friend docs with Amin ('explored by Asinsio and Amin', 'made by Zladerz & Asinsiofr & Amin')
 - id: atrox8668
   name: atrox8668
   contacts:
@@ -198,15 +194,16 @@
   name: bakusfather1029
 - id: banesmanifold
   name: Banesmanifold
-- id: berl1863
-  name: berl1863
+- id: berl8989
+  name: berl8989
+  aliases:
+  - berl1863
   contacts:
   - platform: discord
     handle: berl1863
   - platform: tiktok
     handle: icnav
-- id: berl8989
-  name: berl8989
+  note: 'both write RFES (the feats evaluation system): ''author: berl8989'' / ''Author: berl1863 on discord'''
 - id: beyond
   name: Beyond
 - id: big-presentation-894
@@ -260,16 +257,14 @@
     handle: vasileuz
 - id: c
   name: -C-
-- id: calcu
-  name: Calcu
-  contacts:
-  - platform: discord
-    handle: hu_tao0743_69293
 - id: calculadora
   name: Calculadora
+  aliases:
+  - Calcu
   contacts:
   - platform: discord
     handle: hu_tao0743_69293
+  note: same Discord hu_tao0743_69293 and TikTok lena_fox8 on the Sparkle docs
 - id: captain-timo
   name: Captain Timo
 - id: cardlampp
@@ -319,13 +314,13 @@
   name: Clockman
 - id: cloud
   name: Cloud
-- id: cloud-s
-  name: Cloud(s)
-- id: clouds
-  name: .clouds__
+  aliases:
+  - Cloud(s)
+  - .clouds__
   contacts:
   - platform: discord
     handle: .clouds__
+  note: '''Made by Cloud(S)'' and ''Written by:Cloud(s)'' (SCP Murphy docs), ''Made by Cloud'' (20th Century Boys writing doc); .clouds__ (Discord) writes the 20th Century Boys Katsumata theory doc'
 - id: connor
   name: Connor
 - id: conversationsea1684
@@ -384,18 +379,17 @@
   name: DDY
 - id: dedu-ly-britannia
   name: Dedu Ly Britannia
+  aliases:
+  - Deducing_Analyst
+  - Deducing Analyst Reawakened
   contacts:
   - platform: youtube
     handle: Dedu Ly Britannia
   - platform: discord
     handle: dedu_ly_britannia
-- id: deducing-analyst
-  name: Deducing_Analyst
-- id: deducing-analyst-reawakened
-  name: Deducing Analyst Reawakened
-  contacts:
   - platform: discord
     handle: Deducing_Analyst
+  note: 'doc title ''Ghostface ... Made by Deducing Analyst'', text ''Made by: Dedu Ly Britannia''; same Lelouch doc template; ''contact my discord @Deducing_Analyst'''
 - id: deletinredditsoon
   name: DeletinRedditsoon
   reddit:
@@ -428,16 +422,14 @@
     handle: dita1led
 - id: dl-detective-lawliet
   name: DL (Detective Lawliet)
-- id: domino
-  name: Domino
-  contacts:
-  - platform: discord
-    handle: dominoo___
 - id: dominoo
   name: Dominoo
+  aliases:
+  - Domino
   contacts:
   - platform: discord
     handle: dominoo___
+  note: same Discord dominoo___; 'Jojolon Vs Domino (me)' in the Dominoo STL doc
 - id: drmillmatt
   name: DrMillMatt
 - id: druxzy
@@ -547,9 +539,14 @@
   - FootlessBird17
 - id: forallposterity
   name: ForAllPosterity
+  aliases:
+  - IzyaboiConnor
+  reddit:
+  - lzyaboiConnor
   contacts:
   - platform: discord
     handle: forallposterity
+  note: '''Doc made by ForAllPosterity / Discord: forallposterity Reddit: u/IzyaboiConnor'' (capital I for l)'
 - id: fran
   name: Fran
 - id: freddy-fivebear
@@ -590,11 +587,19 @@
   name: ghostdog
 - id: ghs
   name: ghs
+  aliases:
+  - Gustavo
+  - Gustavo Sborz
   contacts:
   - platform: youtube
     handle: ghs48
   - platform: discord
     handle: ghs48_
+  - platform: discord
+    handle: gustavof43
+  - platform: youtube
+    handle: Gusstv48
+  note: 'same Discord gustavof43 (''disc: gustavof43 / ghsborz''); the Assane Diop doc ''made by: ghs'' gives YouTube Gusstv48 + Discord gustavof43'
 - id: goatkami
   name: GoatKami
 - id: gold-leadership1844
@@ -611,18 +616,6 @@
   name: Grove421
 - id: gruner-drache
   name: Grüner Drache
-- id: gustavo
-  name: Gustavo
-  contacts:
-  - platform: discord
-    handle: gustavof43
-  - platform: youtube
-    handle: Gusstv48
-- id: gustavo-sborz
-  name: Gustavo Sborz
-  contacts:
-  - platform: discord
-    handle: gustavof43
 - id: gxthie
   name: GXTHIE
   contacts:
@@ -901,11 +894,6 @@
     handle: Lena_fox5
 - id: lenaisapeak
   name: Lenaisapeak
-- id: leo
-  name: Leo
-  contacts:
-  - platform: discord
-    handle: mightbeleo_
 - id: less-puddingdrawer
   name: Less_Puddingdrawer
   aliases:
@@ -953,10 +941,6 @@
     handle: lyrl__1998
   - platform: youtube
     handle: Lyrl1998
-- id: lzyaboiconnor
-  name: lzyaboiConnor
-  reddit:
-  - lzyaboiConnor
 - id: magadanz
   name: magadanz
 - id: magmax1b
@@ -965,13 +949,14 @@
   - Magmax1b
 - id: majd
   name: majd
-- id: marco
-  name: Marco
 - id: marco-123
   name: marco.123
+  aliases:
+  - Marco
   contacts:
   - platform: discord
     handle: marco.123_
+  note: '''AimRJeremy and Marco (mostly Marco), our discords are aimrjeremy and marco.123_'''
 - id: maskoftheruler
   name: maskoftheruler
   contacts:
@@ -992,11 +977,6 @@
   note: '''Created by:matthyas-Job'', posted by u/matthyas-Job5739'
 - id: matty-the-ace-detective
   name: Matty the Ace Detective
-- id: mediocre-neat-1207
-  name: kissingveneno
-  reddit:
-  - Mediocre-Neat-1207
-  note: name + handle on the same credit
 - id: mehmetkabak9848
   name: mehmetkabak9848
 - id: melodic-ad1005
@@ -1013,13 +993,20 @@
   name: mentalist
 - id: meo
   name: Meo
+  aliases:
+  - Meo6806
   contacts:
   - platform: discord
     handle: Meo#6806
-- id: meo6806
-  name: Meo6806
+  note: '''Meo#6806'' (Discord) on Meo''s Ayanokoji doc; ''Meo6806 - Main Contributor'' on another Ayanokoji doc'
 - id: mightbeleo
   name: mightbeleo
+  aliases:
+  - Leo
+  contacts:
+  - platform: discord
+    handle: mightbeleo_
+  note: '''written by me, Leo. My Discord is mightbeleo_''; ''by mightbeleo_ (Discord)'''
 - id: milk-thirsty
   name: milk_thirsty
   reddit:
@@ -1055,10 +1042,13 @@
   aliases:
   - Detective Notme
   - DC-Mrnotme
-  note: '''created by the One & Only Mrnotme/Detective Notme''; ''By DC-Mrnotme (me :D)'''
+  - Notme
+  note: same Discord thatguyisprobablynotme; Notme's YouTube is DetectiveNotme (alias Detective Notme)
   contacts:
   - platform: discord
     handle: thatguyisprobablynotme
+  - platform: youtube
+    handle: DetectiveNotme
 - id: muaaz
   name: Muaaz
   contacts:
@@ -1076,10 +1066,9 @@
   name: Mysterior Person
 - id: n-ice
   name: N-Ice
-- id: n-ice-the-one
-  name: N-Ice-the-one
   reddit:
   - N-Ice-the-one
+  note: 'u/N-Ice-the-one posted ''Made by: N-Ice'' doc'
 - id: namelessman
   name: Namelessman
 - id: namy
@@ -1147,13 +1136,6 @@
   name: NoScar2207
   reddit:
   - NoScar2207
-- id: notme
-  name: Notme
-  contacts:
-  - platform: discord
-    handle: thatguyisprobablynotme
-  - platform: youtube
-    handle: DetectiveNotme
 - id: nox
   name: Nox
 - id: 'null'
@@ -1291,8 +1273,9 @@
   name: Ray
 - id: rblxpw
   name: Rblxpw
-- id: rblxspw
-  name: Rblxspw
+  aliases:
+  - Rblxspw
+  note: one letter apart, both on the Re:Zero Subaru docs
 - id: rcn
   name: RCN
 - id: real1st1cfr1sk
@@ -1375,12 +1358,12 @@
   reddit:
   - Salty-Refuse-5537
   note: '''Made By Salty Refuse'', posted by u/Salty-Refuse-5537'
-- id: samuel
-  name: Samuel
 - id: samuel-alistair
   name: Samuel Alistair
-- id: samuel-alistair-poyovoird
-  name: Samuel Alistair Poyovoird
+  aliases:
+  - Samuel Alistair Poyovoird
+  - Samuel
+  note: Yuuichi doc part 1 by Samuel Alistair, part 2 by Samuel Alistair Poyovoird; 'All docs by Samuel' lists them
 - id: sapientliberexpanse8
   name: SapientLiberExpanse8
   reddit:
@@ -1430,18 +1413,24 @@
   name: Shadow_Death
 - id: shin
   name: Shin
+  aliases:
+  - Aryan
   contacts:
   - platform: discord
     handle: moniakatsu
   - platform: discord
     handle: holixism
+  note: 'same Discord moniakatsu: ''contact me through discord moniakatsu'' (Shin), ''add my discord account under the user moniakatsu'' (Aryan)'
 - id: shoslovelytechred
   name: Shoslovelytechred
+  aliases:
+  - TechMeo
   reddit:
   - Shoslovelytechred
   contacts:
   - platform: discord
     handle: TechMeo
+  note: '''Made by: u/Shoslovelytechred on reddit, TechMeo on discord'''
 - id: sido75
   name: sido75
 - id: sieben
@@ -1473,13 +1462,14 @@
   note: 'C2: ''* Rashoumon/ Simply Amazing'''
 - id: slapstick-editz
   name: Slapstick_Editz
-- id: slick-editzz
-  name: Slick_editzz
 - id: slick-editzzz
   name: slick_editzzz
+  aliases:
+  - Slick_editzz
   contacts:
   - platform: discord
     handle: slick_editzzz
+  note: '''By Slick_editzz on yt'' / ''By slick_editzzz on discord'' (one z apart, same kind of thriller docs)'
 - id: smittenbychabs
   name: SmittenbyChabs
   reddit:
@@ -1560,11 +1550,6 @@
   name: Tanvir
 - id: teare
   name: Tearé
-- id: techmeo
-  name: TechMeo
-  contacts:
-  - platform: discord
-    handle: TechMeo
 - id: tertywater
   name: tertywater
   contacts:
@@ -1715,12 +1700,17 @@
     handle: reddest_velvet_
 - id: veneno
   name: Veneno
+  aliases:
+  - kissingveneno
   reddit:
   - Veneno
-- id: veneno-on
-  name: Veneno on
+  - Mediocre-Neat-1207
+  note: '''Credit: @Veneno (Discord & Reddit)'' and ''@kissingveneno on Reddit, Discord, and TikTok'' on the same FNAF/CoD doc set, all posted by u/Mediocre-Neat-1207'
 - id: veris
   name: Veris
+  aliases:
+  - veris3392
+  note: '''Written by Veris (veris3392)'''
 - id: vincent-lalo1
   name: Vincent_Lalo1
   reddit:
@@ -1846,14 +1836,12 @@
   contacts:
   - platform: discord
     handle: Talabat
-- id: zz-zz9he
-  name: ZZ_Zz9he
-  reddit:
-  - ZZ_Zz9he
 - id: zz11xr
   name: Zz11xr
 - id: zz9he
   name: Zz9he
+  reddit:
+  - ZZ_Zz9he
   contacts:
   - platform: tiktok
     handle: zz9he
@@ -1861,5 +1849,4 @@
     handle: human2574
   - platform: youtube
     handle: Human-Zz9he
-- id: zz9he-for-topman
-  name: zz9he for topman
+  note: rare handle; u/ZZ_Zz9he posts Zz9he's docs
