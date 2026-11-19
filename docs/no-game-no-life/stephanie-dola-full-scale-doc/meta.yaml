@@ -17,7 +17,7 @@ authors:
   id: chilpalendo
   source: doc-text
 - name: CHECKMATE_71
-  id: checkmate-71
+  id: checkmate
   source: doc-text
 series:
 - no-game-no-life

@@ -16,7 +16,7 @@ authors:
   id: mastermind
   source: doc-text
 - name: 'Null'
-  id: 'null'
+  id: null-white
   source: doc-text
 series:
 - classroom-of-the-elite

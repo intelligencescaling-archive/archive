@@ -111,8 +111,12 @@
     handle: anythingperson
 - id: aphelios
   name: Aphelios
-- id: aphelios-aep-on-tt
-  name: aphelios.aep on tt
+  aliases:
+  - aphelios.aep
+  note: 'maintainer 2026-11-19: one person; ''made by @aphelios.aep on tt'' (TikTok)'
+  contacts:
+  - platform: tiktok
+    handle: aphelios.aep
 - id: apostolos
   name: Apóstolos
   aliases:
@@ -282,8 +286,9 @@
     handle: yildizya
 - id: checkmate
   name: Checkmate
-- id: checkmate-71
-  name: CHECKMATE_71
+  aliases:
+  - CHECKMATE_71
+  note: 'maintainer 2026-11-19: one person (both write No Game No Life docs)'
 - id: chenr30829
   name: Chenr30829
   reddit:
@@ -299,6 +304,8 @@
   name: ChuNam
 - id: clauver
   name: Clauver
+  aliases:
+  - clauverctw
   contacts:
   - platform: discord
     handle: _Clauver
@@ -306,8 +313,7 @@
     handle: Jakeluvok
   - platform: tiktok
     handle: jakeluvwok
-- id: clauverctw
-  name: clauverctw
+  note: 'maintainer 2026-11-19: one person'
 - id: cleax
   name: Cleax
 - id: clockman
@@ -321,8 +327,6 @@
   - platform: discord
     handle: .clouds__
   note: '''Made by Cloud(S)'' and ''Written by:Cloud(s)'' (SCP Murphy docs), ''Made by Cloud'' (20th Century Boys writing doc); .clouds__ (Discord) writes the 20th Century Boys Katsumata theory doc'
-- id: connor
-  name: Connor
 - id: conversationsea1684
   name: ConversationSea1684
   reddit:
@@ -383,12 +387,12 @@
   - Deducing_Analyst
   - Deducing Analyst Reawakened
   contacts:
+  - platform: discord
+    handle: Deducing_Analyst
   - platform: youtube
     handle: Dedu Ly Britannia
   - platform: discord
     handle: dedu_ly_britannia
-  - platform: discord
-    handle: Deducing_Analyst
   note: 'doc title ''Ghostface ... Made by Deducing Analyst'', text ''Made by: Dedu Ly Britannia''; same Lelouch doc template; ''contact my discord @Deducing_Analyst'''
 - id: deletinredditsoon
   name: DeletinRedditsoon
@@ -467,8 +471,9 @@
   - EnvironmentNo6525
 - id: erika
   name: Erika
-- id: erikagoat
-  name: Erikagoat
+  aliases:
+  - Erikagoat
+  note: 'maintainer 2026-11-19: one person'
 - id: eru
   name: Eru
 - id: evencountry7933
@@ -541,12 +546,15 @@
   name: ForAllPosterity
   aliases:
   - IzyaboiConnor
+  - Connor
+  - Connor k800
+  - Posterity
   reddit:
   - lzyaboiConnor
   contacts:
   - platform: discord
     handle: forallposterity
-  note: '''Doc made by ForAllPosterity / Discord: forallposterity Reddit: u/IzyaboiConnor'' (capital I for l)'
+  note: 'maintainer 2026-11-19: ForAllPosterity = Posterity = u/lzyaboiConnor = Connor / Connor k800 (one person)'
 - id: fran
   name: Fran
 - id: freddy-fivebear
@@ -1138,10 +1146,11 @@
   - NoScar2207
 - id: nox
   name: Nox
-- id: 'null'
-  name: 'Null'
 - id: null-white
   name: Null White
+  aliases:
+  - 'Null'
+  note: 'maintainer 2026-11-19: one person; both docs give the Discord contact mcbacon_'
 - id: obvious-ad-6250
   name: Obvious_Ad_6250
   reddit:
@@ -1329,11 +1338,12 @@
   name: Rinnovo
 - id: river
   name: River
-- id: riverflowsinyou
-  name: riverflowsinyou_
+  aliases:
+  - riverflowsinyou_
   contacts:
   - platform: discord
     handle: riverflowsinyou_.
+  note: 'maintainer 2026-11-19: one person (both write The Mentalist docs)'
 - id: robert
   name: Robert
 - id: rollonotover

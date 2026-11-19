@@ -4,8 +4,8 @@ id: a-lil-tsukumo-debunk-ig-better
 category: doc
 title: A lil Tsukumo debunk ig better
 authors:
-- name: aphelios.aep on tt
-  id: aphelios-aep-on-tt
+- name: aphelios.aep
+  id: aphelios
   source: doc-text
 series:
 - massacre-happy-end
@@ -45,6 +45,5 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters
   - series
