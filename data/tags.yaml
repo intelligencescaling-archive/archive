@@ -4,7 +4,7 @@
 #   id          the tag as stored in meta.yaml (never renamed without an alias)
 #   name        display name
 #   group       type (what the doc is) | fiction | subject (who it is about) | meta (about the file itself)
-#   definition  one line: when to use it
+#   definition  one line: when to use it (shown on the website: plain text, no markdown or field names)
 #   examples    titles of archive entries that have it
 #   aliases     old tag names that now mean this tag (old /tags/<alias>/ pages redirect here)
 #   implies     tags an entry with this tag always also has
@@ -89,7 +89,7 @@
 - id: story
   name: Story
   group: fiction
-  definition: Fiction (a story, chapters, a scenario written as narrative). Same as category `story`.
+  definition: Fiction (a story, chapters, a scenario written as narrative), original or with existing characters.
   examples: ["No Man's Land – Chapter 2 – The Nightmare", "The Massive Demon Lord's Tale"]
   aliases: []
 - id: fanfiction

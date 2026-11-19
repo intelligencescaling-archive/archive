@@ -49,6 +49,8 @@ def main():
         for k in ("id", "name", "group", "definition"):
             if not t.get(k):
                 errors.append(f"data/tags.yaml: {t.get('id')}: missing {k}")
+        if re.search(r"[`*]", str(t.get("definition") or "")):
+            errors.append(f"data/tags.yaml: {t.get('id')}: definition is shown on the website, use plain text (no ` or *)")
         if t.get("group") not in ("type", "fiction", "subject", "meta"):
             errors.append(f"data/tags.yaml: {t.get('id')}: group should be type, fiction, subject or meta")
         for a in [t.get("id"), *(t.get("aliases") or [])]:
