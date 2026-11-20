@@ -36,6 +36,9 @@ parts:
     text:
       file: text.txt
       method: docx-extract
+    blocks:
+      file: blocks.json
+      v: 1
 found_in:
 - library: old
   section: 'DEATH NOTE:'

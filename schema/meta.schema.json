@@ -137,6 +137,15 @@
                 "method": {"enum": ["google-export", "pdf-extract", "html-extract", "docx-extract", "txt-file", "reddit-text", "manual"]}
               }
             },
+            "blocks": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["file", "v"],
+              "properties": {
+                "file": {"type": "string", "pattern": "^blocks(?:-\\d+)?\\.json$"},
+                "v": {"type": "integer", "minimum": 1}
+              }
+            },
             "missing": {"type": "object", "additionalProperties": {"type": "string"}}
           }
         }

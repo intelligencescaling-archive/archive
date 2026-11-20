@@ -31,6 +31,9 @@ parts:
     text:
       file: text.txt
       method: docx-extract
+    blocks:
+      file: blocks.json
+      v: 1
     words: 1132
 found_in:
 - library: old

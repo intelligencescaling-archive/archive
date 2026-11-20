@@ -2,6 +2,8 @@
 
 Every archived item is one folder holding a `meta.yaml` and, when there is one, a plain-text copy
 (`text.txt`, or `text-1.txt`, `text-2.txt`, ... for items with several parts).
+Parts made from a Word/Google DOCX can also have a reader file (`blocks.json`, or `blocks-1.json`, ...): the doc's
+text, images, tables and colours as reader blocks, used by the website's reader (format: one JSON object, one block per line).
 
 ```
 docs/<series-id>/<item-id>/meta.yaml     # docs: grouped by their first series
@@ -56,6 +58,7 @@ parts:                             # one per file; a story split into chapters h
     files:
     - {format: pdf, name: document.pdf, bytes: 84137, sha256: f590...}
     text: {file: text.txt, method: google-export}   # google-export | pdf-extract | html-extract | docx-extract | reddit-text | manual
+    blocks: {file: blocks.json, v: 1}   # optional: reader blocks made from the DOCX (word offsets match the text file)
     missing: {pdf: HTTP 500}       # only when something couldn't be saved
 found_in:                          # where the community libraries list it
 - library: old                     # old | remastered | stories

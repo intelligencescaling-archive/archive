@@ -42,6 +42,9 @@ parts:
     text:
       file: text.txt
       method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
 found_in: []
 added: '2026-11-19'
 review:
