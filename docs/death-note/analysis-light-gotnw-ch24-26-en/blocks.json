@@ -1,6 +1,6 @@
 {"v":1,"gid":"1_u0AFzR7M_GdG99syU6ScOXDcsH1TAXXh4m9UppXoEI","words":8970,"pal":{"c1":{"o":"t:162032/FFFFFF","d":{"fg":"6e7b91"},"l":{"fg":"162032"},"s":{"fg":"162032"}},"c2":{"o":"t:8B7E5A/FFFFFF","d":{"fg":"8b7e5a"},"l":{"fg":"817450"},"s":{"fg":"796c49"}},"c3":{"o":"t:5B6B7D/FFFFFF","d":{"fg":"8a9aae"},"l":{"fg":"5b6b7d"},"s":{"fg":"5b6b7d"}},"c4":{"o":"t:1C2A3D/FFFFFF","d":{"fg":"6b7c92"},"l":{"fg":"1c2a3d"},"s":{"fg":"1c2a3d"}},"c5":{"o":"t:162032/F5F7FA","d":{"fg":"6e7b91"},"l":{"fg":"162032"},"s":{"fg":"162032"}},"c6":{"o":"t:1C2A3D/F5F7FA","d":{"fg":"6b7c92"},"l":{"fg":"1c2a3d"},"s":{"fg":"1c2a3d"}},"c7":{"o":"m:8B7E5A","d":{"fg":"111113","bg":"aa9d77"},"l":{"fg":"111113","bg":"aa9d77"},"s":{"fg":"111113","bg":"aa9d77"}},"c8":{"o":"m:5B6B7D","d":{"fg":"111113","bg":"8ea0b3"},"l":{"fg":"111113","bg":"8ea0b3"},"s":{"fg":"111113","bg":"8ea0b3"}},"c9":{"o":"m:162032","d":{"fg":"111113","bg":"919fb6"},"l":{"fg":"111113","bg":"919fb6"},"s":{"fg":"111113","bg":"919fb6"}},"c10":{"o":"m:9C5A5A","d":{"fg":"111113","bg":"d28b8a"},"l":{"fg":"111113","bg":"d28b8a"},"s":{"fg":"111113","bg":"d28b8a"}}},"img":{},"b":[
-{"k":"p","w":0,"al":"c","r":[{"t":"INTELLIGENCE ANALYSIS","b":1,"c":"c1"}]},
-{"k":"p","w":2,"al":"c","r":[{"t":"LIGHT YAGAMI — GOTNW Novel","b":1,"c":"c2"}]},
+{"k":"h","w":0,"l":1,"fake":1,"al":"c","r":[{"t":"INTELLIGENCE ANALYSIS","b":1,"c":"c1"}]},
+{"k":"h","w":2,"l":1,"fake":1,"al":"c","r":[{"t":"LIGHT YAGAMI — GOTNW Novel","b":1,"c":"c2"}]},
 {"k":"p","w":7,"al":"c","r":[{"t":"Chapters 24 — 26 (Post-L Arc)","i":1,"c":"c3"}]},
 {"k":"p","w":13,"al":"c","r":[{"t":"A Message from God · Lost Angel · Contingencies","c":"c3"}]},
 {"k":"gap","w":22},

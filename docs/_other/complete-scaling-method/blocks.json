@@ -1,5 +1,5 @@
 {"v":1,"gid":"1zKpjoAFf1yb-geuBFx3YvrrSlS5QTJ5u9N5j2AJV01s","words":6045,"pal":{"c1":{"o":"t:0000FF/FFFFFF","d":{"fg":"3570ff"},"l":{"fg":"0000ff"},"s":{"fg":"0000ff"}}},"img":{},"b":[
-{"k":"h","w":0,"l":1,"al":"c","an":["_5bwygoxqew91"],"r":[{"t":"Complete Scaling Method","u":1}]},
+{"k":"h","w":0,"an":["_5bwygoxqew91"],"l":1,"al":"c","r":[{"t":"Complete Scaling Method","u":1}]},
 {"k":"p","w":3,"al":"c","r":[{"t":"CSM","b":1,"u":1}]},
 {"k":"gap","w":4},
 {"k":"p","w":4,"r":[{"t":"Point of View:","b":1},{"t":" Holistic"}]},
@@ -404,7 +404,7 @@
 {"k":"p","w":5092,"r":[{"t":"Feel free to make suggestions or even completely ignore the system if you want. Debunking would probably be easy too, but I've no issue with it as that'll only prove that I was wrong in my initial assumption and nothing more."}]},
 {"k":"gap","w":5133},
 {"k":"p","w":5133,"r":[{"t":"___","b":1}]},
-{"k":"h","w":5134,"l":2,"al":"c","an":["_ddsmfnybu1y4"],"r":[{"t":"Q&A","u":1}]},
+{"k":"h","w":5134,"an":["_ddsmfnybu1y4"],"l":2,"al":"c","r":[{"t":"Q&A","u":1}]},
 {"k":"gap","w":5135},
 {"k":"p","w":5135,"r":[{"t":"Do I need to use Methodology and Proven Ability in this scaling?","b":1,"i":1}]},
 {"k":"gap","w":5147},
@@ -482,6 +482,6 @@
 {"k":"p","w":6040,"r":[{"t":"___","b":1}]},
 {"k":"gap","w":6041},
 {"k":"p","w":6041,"r":[{"t":"Doc Creator:","b":1}]},
-{"k":"h","w":6043,"l":2,"an":["_h35sk0uefmci"],"r":[{"t":"Federal-manner3880","c":"c1"}]},
+{"k":"h","w":6043,"an":["_h35sk0uefmci"],"l":2,"r":[{"t":"Federal-manner3880","c":"c1"}]},
 {"k":"p","w":6044,"r":[{"t":"Kxngkarma17"}]}
 ]}

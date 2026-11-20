@@ -1,6 +1,6 @@
 {"v":1,"gid":"1TjhPfHih8yY4GqwM5fypuLZOkJRQILckSeqcrUqvTzU","words":902,"pal":{},"img":{"i1":{"media":"word/media/image1.jpg","fmt":"jpg","px":[564,902],"bytes":75689,"src":{"p":"b9d54207108846a6-720.webp","ps":[564,902]}},"i2":{"media":"word/media/image2.png","fmt":"png","px":[250,242],"bytes":134196,"src":{"p":"83a929303ec64af8-720.webp","ps":[250,242]}},"i3":{"media":"word/media/image3.png","fmt":"png","px":[866,559],"bytes":497549,"src":{"p":"c55b6a29b8694e05-720.webp","ps":[720,465],"f":"c55b6a29b8694e05-1360.webp","fs":[866,559]}}},"b":[
-{"k":"h","w":0,"l":1,"title":1,"an":["_z7fa81ld0hn8"],"r":[{"t":"Doomsday"}]},
-{"k":"h","w":1,"l":1,"title":1,"an":["_qj8867tugsl3"],"r":[{"t":"rex analyses"}]},
+{"k":"h","w":0,"an":["_z7fa81ld0hn8"],"l":1,"title":1,"r":[{"t":"Doomsday"}]},
+{"k":"h","w":1,"an":["_qj8867tugsl3"],"l":1,"title":1,"r":[{"t":"rex analyses"}]},
 {"k":"p","w":3,"r":[{"t":"@Erikagoat"}]},
 {"k":"img","w":4,"i":"i1","wh":[270,433]},
 {"k":"gap","w":4},

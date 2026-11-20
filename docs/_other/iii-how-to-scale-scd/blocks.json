@@ -1,10 +1,10 @@
 {"v":1,"gid":"14x4PGcanV5ZN_iilGDnwX9R36nK19mA4id5RKSOpzOg","words":2870,"page":"000000","pal":{"c1":{"o":"t:FFF2CC/000000","d":{"fg":"fff2cc"},"l":{"fg":"fff2cc","bg":"1e1e23","chip":1},"s":{"fg":"fff2cc","bg":"1e1e23","chip":1}},"c2":{"o":"t:FFFF00/000000","d":{"fg":"ffff00"},"l":{"fg":"ffff00","bg":"1e1e23","chip":1},"s":{"fg":"ffff00","bg":"1e1e23","chip":1}},"c3":{"o":"t:F1C232/000000","d":{"fg":"f1c232"},"l":{"fg":"f1c232","bg":"1e1e23","chip":1},"s":{"fg":"f1c232","bg":"1e1e23","chip":1}},"c4":{"o":"t:FF0000/000000","d":{"fg":"ff0000"},"l":{"fg":"eb0000"},"s":{"fg":"dd0000"}},"c5":{"o":"t:FFD966/000000","d":{"fg":"ffd966"},"l":{"fg":"ffd966","bg":"1e1e23","chip":1},"s":{"fg":"ffd966","bg":"1e1e23","chip":1}},"c6":{"o":"t:00FF00/000000","d":{"fg":"00ff00"},"l":{"fg":"008800"},"s":{"fg":"007f00"}},"c7":{"o":"t:4A86E8/000000","d":{"fg":"4a86e8"},"l":{"fg":"3772d3"},"s":{"fg":"306aca"}}},"img":{},"b":[
 {"k":"p","w":0,"al":"c","r":[{"t":"How to scale SCD? \u000a————————————————————————————————————— \u000a\u000aA document that aims to explain the factors that determine the quality of a feat and how to scale it correctly.\u000a\u000aMade by:"}]},
-{"k":"h","w":28,"l":2,"fake":1,"al":"c","r":[{"t":"CheatSpeed - Main Contributor\u000a","c":"c1"},{"t":"RolloNotOver - Contributor\u000a","c":"c2"},{"t":" Dax PMFT - Reviewer","c":"c3"}]},
+{"k":"p","w":28,"al":"c","r":[{"t":"CheatSpeed - Main Contributor\u000a","c":"c1"},{"t":"RolloNotOver - Contributor\u000a","c":"c2"},{"t":" Dax PMFT - Reviewer","c":"c3"}]},
 {"k":"h","w":39,"l":1,"fake":1,"al":"c","r":[{"t":"START:"}]},
 {"k":"p","w":40,"r":[{"t":"—————————————————————————————————————"}]},
 {"k":"gap","w":40},
-{"k":"h","w":41,"l":1,"title":1,"al":"c","an":["_fi6vwes6u9ne"],"r":[{"t":"Introduction","c":"c4"}]},
+{"k":"h","w":41,"an":["_fi6vwes6u9ne"],"l":1,"title":1,"al":"c","r":[{"t":"Introduction","c":"c4"}]},
 {"k":"gap","w":42},
 {"k":"p","w":42,"r":[{"t":"Before starting, it should be noted that there can be variations from category to category, but the Feat Framework will be explained here as a general metric. For example, Reasoning contains different internal factors that determine the quality of a feat, such as predictive power (the equivalent in the Feat Framework is Effectiveness) in inductive reasoning, and so on. Still, the only category here that is generally adaptable to any situation is the Feat Framework. This is because some characters we call unrealistic surpass the principles of logic as we know them in the classical sense. At this point, whether these characters are scaled or not is entirely optional. But even for them, the Feat Framework can be accepted as the only measurable category for almost every character."}]},
 {"k":"h","w":170,"l":1,"fake":1,"al":"c","r":[{"t":"I. What is Feat Framework?","c":"c5"}]},
@@ -41,7 +41,7 @@
 {"k":"h","w":2598,"l":1,"fake":1,"al":"c","r":[{"t":"IV. Recommendations:","c":"c5"}]},
 {"k":"p","w":2600,"r":[{"t":"\u000aIt is strongly advised that all documents relating to SCD be consumed in order, as doing so is essential to gaining a full and comprehensive grasp of its various facets and underlying principles. This is the third document in a pathway of four main documents, accompanied by a supplementary \u0022how to edit\u0022 document. The pathway can be followed on the Hollow Soul Discord server, or the links provided below can be used to navigate to the other documents directly."}]},
 {"k":"p","w":2679,"al":"c","r":[{"t":"—————————————————————————————————————"}]},
-{"k":"h","w":2680,"l":1,"title":1,"al":"c","an":["_cxwo2h81ez8a"],"r":[{"t":"Document Pathway","c":"c4"}]},
+{"k":"h","w":2680,"an":["_cxwo2h81ez8a"],"l":1,"title":1,"al":"c","r":[{"t":"Document Pathway","c":"c4"}]},
 {"k":"gap","w":2682},
 {"k":"p","w":2682,"al":"c","r":[{"t":"Red - Introduction","c":"c4"}]},
 {"k":"p","w":2685,"al":"c","r":[{"t":"Green - Fundamental Documents","c":"c6"}]},
@@ -58,7 +58,7 @@
 {"k":"p","w":2728,"al":"c","r":[{"t":"Note","b":1,"u":1},{"t":": \u000aThe document table has not yet been completed; as such, while the \u0022locked\u0022 document links may appear clickable, all of them are placeholders that redirect to the same random, uncompleted document. This will be updated soon."}]},
 {"k":"p","w":2765,"r":[{"t":"\u000a—————————————————————————————————————"}]},
 {"k":"gap","w":2765},
-{"k":"h","w":2766,"l":1,"title":1,"al":"c","an":["_te8ask6h4zup"],"r":[{"t":"Conclusion","c":"c4"}]},
+{"k":"h","w":2766,"an":["_te8ask6h4zup"],"l":1,"title":1,"al":"c","r":[{"t":"Conclusion","c":"c4"}]},
 {"k":"p","w":2767,"r":[{"t":"In conclusion, the Feat Framework does not exist to reduce a character's mental performance to a single number or a superficial impression, but rather to provide a structured and defensible basis for evaluation. By examining Opposition, Complexity, Friction, Constraints, Efficiency, and Effectiveness as an interconnected system, it becomes possible to move beyond intuition and toward a more rigorous and consistent form of analysis. Coupled with the concept of Countering, which introduces the dimension of stylistic and structural matchups, the framework ultimately serves as a comprehensive lens through which mental performance can be assessed with both precision and nuance.\u000a\u000a—————————————————————————————————————"}]},
 {"k":"h","w":2866,"l":1,"fake":1,"al":"c","r":[{"t":"\u000aTHANK YOU FOR READING!"}]}
 ]}

@@ -1,6 +1,6 @@
 {"v":1,"gid":"1fVZ4DY1mFa4ELhEFCYgzTB-BqMOkOziq8nJ6ZPiUENk","words":5362,"page":"f3f3f3","pal":{"c1":{"o":"t:0000FF/F3F3F3","d":{"fg":"3570ff"},"l":{"fg":"0000ff"},"s":{"fg":"0000ff"}},"c2":{"o":"t:358023/F3F3F3","d":{"fg":"408b2f"},"l":{"fg":"144d00"},"s":{"fg":"0e4300"}},"c3":{"o":"t:FF0000/F3F3F3","d":{"fg":"ff0000"},"l":{"fg":"eb0000"},"s":{"fg":"dd0000"}},"c4":{"o":"t:00FF00/F3F3F3","d":{"fg":"00ff00"},"l":{"fg":"008800"},"s":{"fg":"007f00"}},"c5":{"o":"t:FF00FF/F3F3F3","d":{"fg":"ff00ff"},"l":{"fg":"ce00cf"},"s":{"fg":"c200c2"}},"c6":{"o":"t:FF9900/F3F3F3","d":{"fg":"ff9900"},"l":{"fg":"aa6400"},"s":{"fg":"9f5e00"}},"c7":{"o":"t:11A275/F3F3F3","d":{"fg":"1fa87b"},"l":{"fg":"00674a"},"s":{"fg":"005f44"}},"c8":{"o":"t:0FDADA/F3F3F3","d":{"fg":"0fdada"},"l":{"fg":"008283"},"s":{"fg":"007a7b"}},"c9":{"o":"t:4A86E8/F3F3F3","d":{"fg":"5995f9"},"l":{"fg":"3772d3"},"s":{"fg":"306aca"}}},"img":{"i1":{"media":"word/media/image1.png","fmt":"png","px":[1600,1066],"bytes":3447407,"src":{"p":"cf8fd5d089429b0f-720.webp","ps":[720,480],"f":"cf8fd5d089429b0f-1360.webp","fs":[1360,906]}}},"b":[
 {"k":"h","w":0,"l":1,"fake":1,"al":"c","r":[{"t":"Apollyon","b":1,"u":1}]},
-{"k":"h","w":1,"l":2,"fake":1,"al":"c","r":[{"t":"The Harbinger of War"}]},
+{"k":"p","w":1,"al":"c","r":[{"t":"The Harbinger of War"}]},
 {"k":"p","w":5,"al":"c","r":[{"t":"By Aryanakane"}]},
 {"k":"img","w":7,"i":"i1","wh":[624,416]},
 {"k":"p","w":7,"al":"c","r":[{"t":"When we stop fighting against it, nature will always reassert itself.","i":1}]},

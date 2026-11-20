@@ -25,7 +25,7 @@
 {"k":"p","w":250,"r":[{"t":"Info gathering","c":"c12"}]},
 {"k":"p","w":252,"r":[{"t":"Observation","c":"c13"}]},
 {"k":"gap","w":253},
-{"k":"h","w":253,"l":2,"al":"c","an":["_kam31v6x3asp"],"r":[{"t":"Before the final dead room","b":1,"u":1}]},
+{"k":"h","w":253,"an":["_kam31v6x3asp"],"l":1,"al":"c","r":[{"t":"Before the final dead room","b":1,"u":1}]},
 {"k":"p","w":258,"al":"c","r":[{"t":"So after talking to Fuyuhiko, Gundham and Kazuichi he was wondering how Nekomaru got into the grape tower despite the elevator being disabled around that time."}]},
 {"k":"p","w":284,"al":"c","r":[{"t":"This includes the fact that he knew about the rumbling noise and alarm clock but Nagito didn’t hear it so "},{"t":"he takes his time by talking to Kazuichi in which he got info about the alarm clock and talked to Fuyuhiko’s account about witnessing Nekomaru.","c":"c12"}]},
 {"k":"img","w":329,"i":"i3","wh":[338,192]},

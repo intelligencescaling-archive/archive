@@ -1,7 +1,7 @@
 {"v":1,"gid":"14zuEn8-HrlQM7CYB1a2HBHaWdB_mjvbqY8KDFi7bzKQ","words":3061,"pal":{"c1":{"o":"t:FF0000/000000","d":{"fg":"ff0000"},"l":{"fg":"eb0000"},"s":{"fg":"dd0000"}},"c2":{"o":"t:00FF00/000000","d":{"fg":"00ff00"},"l":{"fg":"008800"},"s":{"fg":"007f00"}},"c3":{"o":"t:9900FF/000000","d":{"fg":"a347ff"},"l":{"fg":"9900ff"},"s":{"fg":"9900ff"}},"c4":{"o":"t:00FFFF/000000","d":{"fg":"00ffff"},"l":{"fg":"008283"},"s":{"fg":"007a7b"}},"c5":{"o":"t:FFFF00/000000","d":{"fg":"ffff00"},"l":{"fg":"ffff00","bg":"1e1e23","chip":1},"s":{"fg":"ffff00","bg":"1e1e23","chip":1}},"c6":{"o":"t:FF9900/000000","d":{"fg":"ff9900"},"l":{"fg":"aa6400"},"s":{"fg":"9f5e00"}}},"img":{"i1":{"media":"word/media/image1.jpg","fmt":"jpg","px":[828,1180],"bytes":119600,"src":{"p":"148d98781bffa83b-720.webp","ps":[720,1026],"f":"148d98781bffa83b-1360.webp","fs":[828,1180]}}},"b":[
 {"k":"img","w":0,"i":"i1","wh":[382,561],"fl":{"wrap":"wrapSquare","x":339}},
 {"k":"gap","w":0},
-{"k":"h","w":0,"l":2,"fake":1,"r":[{"t":"What’s good everyone!"}]},
+{"k":"p","w":0,"r":[{"t":"What’s good everyone!"}]},
 {"k":"gap","w":3},
 {"k":"p","w":3,"r":[{"t":"In this doc I will be explaining and analyzing          Minoru Tanaka or “A-Kira’s”"}]},
 {"k":"p","w":16,"r":[{"t":"feats from the 2nd Death note 1-shot."}]},
@@ -14,7 +14,7 @@
 {"k":"p","w":105,"r":[{"t":"P.S.","b":1},{"t":" This is a one shot so it’s not going to be that long, but i’m going to try my best to be honest and fair (although still take it with a grain of salt since almost every doc is created by someone who likes the character they are making a doc on lmao)"}]},
 {"k":"p","w":159,"r":[{"t":"This is also my first Doc I’ve ever made. So by no means am I going to say it’s perfect or anything of the sort. I just like this character and want other people to, at the very least, see that he deserves to be in SCD talks more often."}]},
 {"k":"gap","w":209},
-{"k":"h","w":209,"l":2,"fake":1,"r":[{"t":"Category Colors:","b":1}]},
+{"k":"h","w":209,"l":1,"fake":1,"r":[{"t":"Category Colors:","b":1}]},
 {"k":"p","w":211,"r":[{"t":"(","b":1},{"t":"RED—FSIQ, General Knowledge","b":1,"c":"c1"},{"t":")","b":1}]},
 {"k":"p","w":214,"r":[{"t":"(","b":1},{"t":"GREEN—Thinking, Reasoning","b":1,"c":"c2"},{"t":")","b":1}]},
 {"k":"p","w":216,"r":[{"t":"(","b":1},{"t":"PURPLE—Manipulation, Deception","b":1,"c":"c3"},{"t":")","b":1}]},

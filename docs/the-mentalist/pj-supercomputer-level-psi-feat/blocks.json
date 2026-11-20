@@ -1,5 +1,5 @@
 {"v":1,"gid":"1GuCqOlS_aXY83Zyxeq-pAVN1cBvRMEvk33vAxK_GQb8","words":210,"pal":{},"img":{"i1":{"media":"word/media/image1.png","fmt":"png","px":[700,402],"bytes":31494,"src":{"p":"2dede7068b18f64c-720.webp","ps":[700,402]}}},"b":[
-{"k":"h","w":0,"l":1,"title":1,"an":["_8bs7nmtcarll"],"r":[{"t":"A short doc about Patrick Jane Year Calculation Feat","b":1}]},
+{"k":"h","w":0,"an":["_8bs7nmtcarll"],"l":1,"title":1,"r":[{"t":"A short doc about Patrick Jane Year Calculation Feat","b":1}]},
 {"k":"gap","w":9},
 {"k":"p","w":9,"r":[{"t":"Made by: River and RatJoe_","b":1}]},
 {"k":"gap","w":14},
@@ -26,7 +26,7 @@
 {"k":"gap","w":147},
 {"k":"p","w":147,"r":[{"t":"h=107"}]},
 {"k":"p","w":148,"r":[{"t":"mod  7=2"}]},
-{"k":"h","w":150,"l":3,"an":["_ci7s703jrnxr"],"r":[{"t":"Step 5: Determine the day of the week"}]},
+{"k":"h","w":150,"an":["_ci7s703jrnxr"],"l":3,"r":[{"t":"Step 5: Determine the day of the week"}]},
 {"k":"p","w":158,"r":[{"t":"The result h=2h corresponds to Monday in the following scheme:"}]},
 {"k":"p","w":168,"r":[{"t":"0 = Saturday"}]},
 {"k":"p","w":171,"r":[{"t":"1 = Sunday"}]},
@@ -35,7 +35,7 @@
 {"k":"p","w":180,"r":[{"t":"4 = Wednesday"}]},
 {"k":"p","w":183,"r":[{"t":"5 = Thursday"}]},
 {"k":"p","w":186,"r":[{"t":"6 = Friday"}]},
-{"k":"h","w":189,"l":3,"an":["_758xutfde8ua"],"r":[{"t":"Conclusion","b":1}]},
+{"k":"h","w":189,"an":["_758xutfde8ua"],"l":3,"r":[{"t":"Conclusion","b":1}]},
 {"k":"p","w":190,"r":[{"t":"May 31, 1976, fell on a Monday."}]},
 {"k":"p","w":197,"r":[{"t":"And Patrick calculated this in 1 second. 🗿"}]},
 {"k":"h","w":205,"l":2,"fake":1,"al":"c","r":[{"t":"Thanks For reading our doc","b":1}]}

@@ -1,5 +1,5 @@
 {"v":1,"gid":"1O_KVfyJm6DUOTXmIxQfSI8lzdtoQ9lrJHDWKvphjWJE","words":1478,"page":"ffffff","pal":{"c1":{"o":"t:FF00FF/FFFFFF","d":{"fg":"ff00ff"},"l":{"fg":"ce00cf"},"s":{"fg":"c200c2"}},"c2":{"o":"t:4A86E8/FFFFFF","d":{"fg":"5995f9"},"l":{"fg":"3772d3"},"s":{"fg":"306aca"}},"c3":{"o":"t:FF0000/FFFFFF","d":{"fg":"ff0000"},"l":{"fg":"eb0000"},"s":{"fg":"dd0000"}},"c4":{"o":"t:38761D/FFFFFF","d":{"fg":"4a8932"},"l":{"fg":"38761d"},"s":{"fg":"38761d"}},"c5":{"o":"t:9900FF/FFFFFF","d":{"fg":"a347ff"},"l":{"fg":"9900ff"},"s":{"fg":"9900ff"}},"c6":{"o":"t:0000FF/FFFFFF","d":{"fg":"3570ff"},"l":{"fg":"0000ff"},"s":{"fg":"0000ff"}}},"img":{},"b":[
-{"k":"h","w":0,"l":1,"title":1,"al":"c","an":["_7t8y1fb63uty"],"r":[{"t":"Morse Code Test"}]},
+{"k":"h","w":0,"an":["_7t8y1fb63uty"],"l":1,"title":1,"al":"c","r":[{"t":"Morse Code Test"}]},
 {"k":"p","w":3,"r":[{"t":"This document is meant to elaborate SED Ayanokoji’s feats from a flashback in Chapter 15.5 concerning a test he took in the White Room."}]},
 {"k":"gap","w":27},
 {"k":"p","w":27,"r":[{"t":"Doc Keys:","u":1}]},
@@ -11,8 +11,8 @@
 {"k":"p","w":63,"r":[{"t":"Blue — AC, Resistances, Judgment","c":"c6"}]},
 {"k":"gap","w":68},
 {"k":"p","w":68,"r":[{"t":"In a WR exam room KA is tasked to take a test: He is given a piece of paper with “GOOD WORK” written in Morse Code on it. (He has no prior knowledge of Morse Code.) The instructor emphasizes that the test is meant to measure fluid intelligence, and he is given 10 minutes to solve the test. No additional context is given other than the test itself:"}]},
-{"k":"p","w":136,"al":"c","r":[{"t":"--. "},{"t":"--- --- ","u":1},{"t":"-.."}]},
-{"k":"p","w":136,"al":"c","r":[{"t":".-- --- .-. -.-"}]},
+{"k":"p","w":136,"tb":1,"al":"c","r":[{"t":"--. "},{"t":"--- --- ","u":1},{"t":"-.."}]},
+{"k":"p","w":136,"tb":1,"al":"c","r":[{"t":".-- --- .-. -.-"}]},
 {"k":"p","w":144,"r":[{"t":"Around 4 seconds later KA writes down “good work”. Most of this time was spent trying out numerous additional possibilities, making sure that another solution doesn’t exist, even going so far as to consider anagrams. If he had been less cautious, he probably would have been far quicker. ","c":"c4"},{"t":"["},{"t":"PSI","c":"c4"},{"t":"]"}]},
 {"k":"p","w":193,"r":[{"t":"However the solution is false. In reality he should have written “GOOD WORK”. This is probably the only antifeat KA has ever shown."}]},
 {"k":"gap","w":216},

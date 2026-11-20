@@ -67,7 +67,7 @@
 {"k":"p","w":1613,"r":[{"t":"But… during the cipher calamity, a "},{"t":"dead card sacrifice voting ","c":"c4"},{"t":"can occur. During this event, all players can vote on "},{"t":"two ","c":"c4"},{"t":"teams who will get "},{"t":"guaranteed ","i":1},{"t":"dead cards next round. Each individual player will vote on two teams. Using both votes on the same team is not allowed. You’re allowed to vote on your own team. The way to activate a dead card sacrifice voting is if at least one person from "},{"t":"every ","i":1},{"t":"team agrees that it should begin. If you fail to vote during a sacrifice voting, it will be assumed that you voted for your own team."}]},
 {"k":"p","w":1712,"r":[{"t":"____________________________________________________________________"}]},
 {"k":"gap","w":1713},
-{"k":"h","w":1713,"l":1,"fake":1,"al":"c","r":[{"t":"-CONTRACTS-","b":1}]},
+{"k":"p","w":1713,"al":"c","r":[{"t":"-CONTRACTS-","b":1}]},
 {"k":"gap","w":1714},
 {"k":"p","w":1714,"r":[{"t":"Contracting is a system that is being added to this game. You might be familiar with contracts from split poker. It works the same way here."}]},
 {"k":"gap","w":1740},

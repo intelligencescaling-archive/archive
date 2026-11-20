@@ -1,6 +1,6 @@
 {"v":1,"gid":"1VBBsbi0IHx5G0csXxCXrDryWR0ZMIeWo6csqfcTwTj8","words":1052,"pal":{"c1":{"o":"t:666666/CCCCCC","d":{"fg":"text-3"},"l":{"fg":"text-3"},"s":{"fg":"text-3"}}},"img":{"i1":{"media":"word/media/image4.png","fmt":"png","px":[342,536],"bytes":174898,"src":{"p":"2c8f5ef73c40668c-720.webp","ps":[342,536]}},"i2":{"media":"word/media/image2.png","fmt":"png","px":[367,536],"bytes":178513,"src":{"p":"5bdf2c09af9d0900-720.webp","ps":[367,536]}},"i3":{"media":"word/media/image1.png","fmt":"png","px":[345,509],"bytes":143172,"src":{"p":"3cd904a46be9dec2-720.webp","ps":[345,509]}},"i4":{"media":"word/media/image6.png","fmt":"png","px":[355,541],"bytes":157376,"src":{"p":"03ca243e4c2d14f7-720.webp","ps":[355,541]}},"i5":{"media":"word/media/image5.png","fmt":"png","px":[343,263],"bytes":84362,"src":{"p":"38fc6aebce45ad98-720.webp","ps":[343,263]}},"i6":{"media":"word/media/image3.png","fmt":"png","px":[500,500],"bytes":301872,"src":{"p":"c059b1ce4fcae726-720.webp","ps":[500,500]}}},"b":[
-{"k":"h","w":0,"l":1,"al":"c","an":["_5r9ymgnn0zfa"],"r":[{"t":"Kirari Corporal Analysis Feat","b":1,"u":1}]},
-{"k":"p","w":4,"al":"c","an":["_qm83oxr9nu5c"],"r":[{"t":"Made by: Hellos /  Chapter 76","c":"c1"}]},
+{"k":"h","w":0,"an":["_5r9ymgnn0zfa"],"l":1,"al":"c","r":[{"t":"Kirari Corporal Analysis Feat","b":1,"u":1}]},
+{"k":"p","w":4,"an":["_qm83oxr9nu5c"],"al":"c","r":[{"t":"Made by: Hellos /  Chapter 76","c":"c1"}]},
 {"k":"img","w":10,"i":"i1","wh":[547,857],"fl":{"wrap":"wrapNone","behind":true,"x":27}},
 {"k":"gap","w":10},
 {"k":"p","w":10,"r":[{"t":"During the presidential elections, Kirari was practicing their childhood connection with Ririka, but as Ririka was no longer attached to what she was before and had changed her ideals, she ended up with a failed attempt at \u0022harmonization\u0022 with her sister. This failure was made known to her by her own sister Kirari. Ririka says she has no words (or also that she didn't notice the difference) and Kirari tells her that sooner or later she will be able to see the difference."}]},
@@ -62,5 +62,5 @@
 {"k":"p","w":1000,"r":[{"t":"Second PD: I'm sorry if there were any misunderstandings, but I'm here to clarify a few things for those who don't fully believe the above calculations. It's still possible that this feat could be much higher in value, but at the moment there aren't enough concrete arguments to prove it."}]},
 {"k":"img","w":1050,"i":"i6","wh":[301,301],"fl":{"wrap":"wrapNone","behind":true,"x":150}},
 {"k":"gap","w":1050},
-{"k":"h","w":1050,"l":2,"fake":1,"al":"c","r":[{"t":"-Wrong Mouse"}]}
+{"k":"p","w":1050,"al":"c","r":[{"t":"-Wrong Mouse"}]}
 ]}

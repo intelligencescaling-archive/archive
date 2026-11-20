@@ -1,9 +1,9 @@
 {"v":1,"gid":"1sfoK433dVnbaG_4Jg2vgle7EwMtYV2GQ-emIvpe1l5k","words":3692,"pal":{"c1":{"o":"t:980000/FFFFFF","d":{"fg":"d54b3d"},"l":{"fg":"980000"},"s":{"fg":"980000"}}},"img":{"i1":{"media":"word/media/image1.png","fmt":"png","px":[928,1232],"bytes":445468,"src":{"p":"ad6e2c778295dc1c-720.webp","ps":[720,956],"f":"ad6e2c778295dc1c-1360.webp","fs":[928,1232]}}},"b":[
-{"k":"h","w":0,"l":1,"title":1,"al":"c","an":["_9zqivk525rjp"],"r":[{"t":"Ego Extreme Realm Cultivation Feat - Chen Ran","c":"c1"}]},
+{"k":"h","w":0,"an":["_9zqivk525rjp"],"l":1,"title":1,"al":"c","r":[{"t":"Ego Extreme Realm Cultivation Feat - Chen Ran","c":"c1"}]},
 {"k":"img","w":8,"i":"i1","wh":[607,806],"fl":{"wrap":"wrapSquare","x":17}},
 {"k":"break","w":8},
 {"k":"anchor","w":8,"an":["_lbvbh9nkf2va"]},
-{"k":"h","w":9,"l":1,"al":"c","an":["_q10fhsh8ldxu"],"r":[{"t":"Introduction","c":"c1"}]},
+{"k":"h","w":9,"an":["_q10fhsh8ldxu"],"l":1,"al":"c","r":[{"t":"Introduction","c":"c1"}]},
 {"k":"gap","w":10},
 {"k":"p","w":10,"r":[{"t":"Chen Ran has matched with his team and has the help of other 7 stars to face Yue Guanshan, but nobody in this temporary alliance is loyal to each other including Chen Ran. All the events leading upto this has been orchestrated behind the scenes by the Leader of the Liar Killer Alliance, “Omnipotent” and the Leader of the Whisperer Alliance, “Omniscient”"}]},
 {"k":"gap","w":72},

@@ -1,6 +1,6 @@
 {"v":1,"gid":"1stP-apjkT4hcj_1G1KbwR9rYm-cE5fWYGbvF22JHIp0","words":855,"pal":{"c1":{"o":"t:00FF00/FFFFFF","d":{"fg":"00ff00"},"l":{"fg":"008800"},"s":{"fg":"007f00"}},"c2":{"o":"t:0000FF/FFFFFF","d":{"fg":"3570ff"},"l":{"fg":"0000ff"},"s":{"fg":"0000ff"}},"c3":{"o":"t:FF0000/FFFFFF","d":{"fg":"ff0000"},"l":{"fg":"eb0000"},"s":{"fg":"dd0000"}},"c4":{"o":"t:9900FF/FFFFFF","d":{"fg":"a347ff"},"l":{"fg":"9900ff"},"s":{"fg":"9900ff"}},"c5":{"o":"t:00FF00/B7B7B7","d":{"fg":"00ff00"},"l":{"fg":"008800"},"s":{"fg":"007f00"}},"c6":{"o":"t:9900FF/B7B7B7","d":{"fg":"a347ff"},"l":{"fg":"9900ff"},"s":{"fg":"9900ff"}},"c7":{"o":"t:0000FF/B7B7B7","d":{"fg":"3570ff"},"l":{"fg":"0000ff"},"s":{"fg":"0000ff"}}},"img":{},"b":[
-{"k":"h","w":0,"l":1,"title":1,"al":"c","an":["_8kos2jp2ucbk"],"r":[{"t":"Murphy Lawden Doc #1"}]},
-{"k":"h","w":4,"l":1,"title":1,"al":"c","an":["_1r0c0bcvr62d"],"r":[{"t":"(starring scp 3143)"}]},
+{"k":"h","w":0,"an":["_8kos2jp2ucbk"],"l":1,"title":1,"al":"c","r":[{"t":"Murphy Lawden Doc #1"}]},
+{"k":"h","w":4,"an":["_1r0c0bcvr62d"],"l":1,"title":1,"al":"c","r":[{"t":"(starring scp 3143)"}]},
 {"k":"p","w":7,"al":"c","r":[{"t":"Link to the play write:"},{"t":"https://www.youtube.com/watch?v=dW7cp0pcZxk&t=680s","u":1,"a":"https://www.youtube.com/watch?v=dW7cp0pcZxk&t=680s"}]},
 {"k":"p","w":12,"al":"c","r":[{"t":"FSIQ:"},{"t":"Green","c":"c1"}]},
 {"k":"p","w":13,"al":"c","r":[{"t":"EQ/SQ:"},{"t":"Blue","c":"c2"}]},

@@ -1,5 +1,5 @@
 {"v":1,"gid":"1yBjkDlo6lQ-dfXP0EX8jkDGb4YWhc7A2","words":1847,"pal":{},"img":{},"b":[
-{"k":"h","w":0,"l":3,"an":["_heading=h.h6gfkhtkd7cy"],"r":[{"t":"Analysis: Reasoning of Fang Yuan","b":1}]},
+{"k":"h","w":0,"an":["_heading=h.h6gfkhtkd7cy"],"l":2,"r":[{"t":"Analysis: Reasoning of Fang Yuan","b":1}]},
 {"k":"p","w":5,"r":[{"t":"This is a breakdown of the reasoning Fang Yuan undertakes upon discovering his portrait stabbed with a dagger in the hidden treehouse."}]},
 {"k":"p","w":27,"r":[{"t":"This is explained from Fang Yuan's POV for better understanding."}]},
 {"k":"gap","w":37},
@@ -50,5 +50,5 @@
 {"k":"gap","w":1813},
 {"k":"p","w":1813,"r":[{"t":"Reasoning subcategories covered: Verbal Reasoning, Probabilistic Reasoning, Logical Reasoning, Deductive Reasoning, Inductive Reasoning, Abductive Reasoning, Perceptual Reasoning, Causal Reasoning, Decompositional Reasoning, Systematic Reasoning, Cognitive Reasoning, Abstract Reasoning, Non Verbal Reasoning"}]},
 {"k":"gap","w":1843},
-{"k":"h","w":1844,"l":2,"fake":1,"al":"c","r":[{"t":"←★ The End ★→","b":1}]}
+{"k":"h","w":1844,"l":1,"fake":1,"al":"c","r":[{"t":"←★ The End ★→","b":1}]}
 ]}

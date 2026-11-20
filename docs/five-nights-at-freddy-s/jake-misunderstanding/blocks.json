@@ -7,7 +7,7 @@
 {"k":"img","w":232,"i":"i1","wh":[283,371],"g":6},
 {"k":"img","w":232,"i":"i2","wh":[274,303],"fl":{"wrap":"wrapNone","x":323},"g":6},
 {"k":"gap","w":232},
-{"k":"h","w":232,"l":2,"fake":1,"r":[{"t":"Guide:","u":1,"c":"c1"}]},
+{"k":"p","w":232,"r":[{"t":"Guide:","u":1,"c":"c1"}]},
 {"k":"li","w":234,"list":"ol","l":0,"m":"1)","n":"1","r":[{"t":"Misinterpretation of Jake’s Role: 100%"}]},
 {"k":"li","w":240,"list":"ol","l":0,"m":"2)","n":"1","r":[{"t":"Return to The pit Declarations: 0%"}]},
 {"k":"p","w":246,"al":"c","r":[{"t":"Misinterpretation of Jake’s Role in Fazbear Frights: Clarifying the Nature of Memory Alteration and Peaceful Endings","b":1,"i":1}]},

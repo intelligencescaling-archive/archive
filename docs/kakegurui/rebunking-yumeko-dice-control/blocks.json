@@ -1,6 +1,6 @@
 {"v":1,"gid":"12WAWTSwwwCdCAzSBIyzigBHAJ6FFSy0EfU7gK6anuJo","words":756,"pal":{"c1":{"o":"t:666666/FFFFFF","d":{"fg":"text-2"},"l":{"fg":"text-2"},"s":{"fg":"text-2"}}},"img":{},"b":[
 {"k":"h","w":0,"l":1,"fake":1,"al":"c","r":[{"t":"Rebunking Yumeko Dice Control","b":1,"u":1}]},
-{"k":"p","w":4,"al":"c","an":["_ocaoivwcaefn"],"r":[{"t":"By SoundStorm","c":"c1"}]},
+{"k":"p","w":4,"an":["_ocaoivwcaefn"],"al":"c","r":[{"t":"By SoundStorm","c":"c1"}]},
 {"k":"p","w":6,"r":[{"t":"One of the many attempts at debunking "},{"t":"this feat","u":1,"a":"https://docs.google.com/document/d/11jEP84T2m1LSHvo3SfBjqu9Q99_alH7x4JKSj-UNK8g/edit?usp=drivesdk"},{"t":" has made its way into a document. This is a document explaining why the feat is still valid, and refuting the points made in the "},{"t":"debunk doc","u":1,"a":"https://docs.google.com/document/u/0/d/1aBmEk0lh0w5LXw_BAc9bNay3ekuAfRbZ/mobilebasic"},{"t":". Each point I make here will reflect a point made in the debunk doc, only I will explain why it is an invalid point."}]},
 {"k":"gap","w":66},
 {"k":"li","w":67,"list":"ol","l":0,"m":"1.","n":"1","r":[{"t":"“The assumption that Yumeko is doing calculations is unfounded”","i":1}]},

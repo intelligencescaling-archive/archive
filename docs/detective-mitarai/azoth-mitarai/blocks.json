@@ -1,5 +1,5 @@
 {"v":1,"gid":"1tGdPfjyUjA7k6tV56w0JmkpumxuPA7R2m1a65rttxa0","words":45260,"pal":{"c1":{"o":"t:CC0000/FFFFFF","d":{"fg":"e83226"},"l":{"fg":"cc0000"},"s":{"fg":"cc0000"}},"c2":{"o":"t:76A5AF/FFFFFF","d":{"fg":"76a5af"},"l":{"fg":"4e7c85"},"s":{"fg":"47747e"}},"c3":{"o":"t:12385C/FFFFFF","d":{"fg":"577ea6"},"l":{"fg":"12385c"},"s":{"fg":"12385c"}},"c4":{"o":"t:3573B8/FFFFFF","d":{"fg":"7eb9ff"},"l":{"fg":"3573b8"},"s":{"fg":"316fb4"}},"c5":{"o":"t:1A4E8A/FFFFFF","d":{"fg":"6398da"},"l":{"fg":"1a4e8a"},"s":{"fg":"1a4e8a"}}},"img":{"i1":{"media":"word/media/image1.jpg","fmt":"jpg","px":[448,653],"bytes":64364,"src":{"p":"bc802bf329424bd5-720.webp","ps":[448,653]}}},"b":[
-{"k":"h","w":0,"l":1,"al":"c","an":["_vpz0cgsdu8zy"],"r":[{"t":"The Azoth Case with Mitarai","c":"c1"}]},
+{"k":"h","w":0,"an":["_vpz0cgsdu8zy"],"l":1,"al":"c","r":[{"t":"The Azoth Case with Mitarai","c":"c1"}]},
 {"k":"img","w":5,"i":"i1","wh":[448,653]},
 {"k":"p","w":5,"r":[{"t":"By","i":1,"c":"c2"},{"t":" ","b":1},{"t":"Aquitosias","i":1,"c":"c2"}]},
 {"k":"p","w":7,"r":[{"t":"Discord: zevahn2","i":1,"c":"c2"}]},

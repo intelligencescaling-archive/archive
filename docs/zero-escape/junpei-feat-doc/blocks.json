@@ -452,16 +452,16 @@
 {"k":"gap","w":15861},
 {"k":"p","w":15861,"al":"c","r":[{"t":"CARGO ROOM (VSI + OBSERVATION + PATTERN REASONING + MATHEMATICAL INTEL +"}]},
 {"k":"gap","w":15872},
-{"k":"h","w":15873,"l":1,"al":"c","an":["_y6nqwjqweukw"],"r":[{"t":"CHART ROOM (VSI + WMI + OBSERVATION + ANALYSIS + LOGICAL REASONING + THINKING)"}]},
+{"k":"h","w":15873,"an":["_y6nqwjqweukw"],"l":1,"al":"c","r":[{"t":"CHART ROOM (VSI + WMI + OBSERVATION + ANALYSIS + LOGICAL REASONING + THINKING)"}]},
 {"k":"img","w":15887,"i":"i50","wh":[420,236]},
 {"k":"img","w":15887,"i":"i51","wh":[420,236]},
 {"k":"img","w":15887,"i":"i4","wh":[117,88]},
-{"k":"h","w":15887,"l":3,"al":"c","an":["_j27xfu10v6uy"],"r":[{"t":"This room contains Junpei, Ace and Clover"}]},
+{"k":"h","w":15887,"an":["_j27xfu10v6uy"],"l":2,"al":"c","r":[{"t":"This room contains Junpei, Ace and Clover"}]},
 {"k":"gap","w":15894},
-{"k":"h","w":15894,"l":1,"al":"c","an":["_ntr948umgyu5"],"r":[{"t":"CAPTAIN’S QUARTERS (VSI + MATHEMATICAL INTEL + SQ + MANIPULATION + LOGICAL REASONING + EM)"}]},
+{"k":"h","w":15894,"an":["_ntr948umgyu5"],"l":1,"al":"c","r":[{"t":"CAPTAIN’S QUARTERS (VSI + MATHEMATICAL INTEL + SQ + MANIPULATION + LOGICAL REASONING + EM)"}]},
 {"k":"gap","w":15909},
 {"k":"img","w":15909,"i":"i52","wh":[420,236]},
 {"k":"img","w":15909,"i":"i53","wh":[420,236]},
 {"k":"img","w":15909,"i":"i4","wh":[117,88]},
-{"k":"h","w":15909,"l":3,"al":"c","an":["_65jmoz5qc4u3"],"r":[{"t":"Same people from the Chart Room… Junpei, Ace and Clover are now in the Captain’s Quarters."}]}
+{"k":"h","w":15909,"an":["_65jmoz5qc4u3"],"l":2,"al":"c","r":[{"t":"Same people from the Chart Room… Junpei, Ace and Clover are now in the Captain’s Quarters."}]}
 ]}

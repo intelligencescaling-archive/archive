@@ -1,5 +1,5 @@
 {"v":1,"gid":"1uNBtennIGXLKwHKbzTq6ZtY8vhSMOfUDPbP05KND_0o","words":1921,"pal":{"c1":{"o":"t:3C78D8/FFFFFF","d":{"fg":"3c79d9"},"l":{"fg":"3773d2"},"s":{"fg":"2f6bc9"}}},"img":{},"b":[
-{"k":"h","w":0,"l":2,"fake":1,"al":"c","r":[{"t":"Parallel Memory Recall","u":1,"c":"c1"}]},
+{"k":"p","w":0,"al":"c","r":[{"t":"Parallel Memory Recall","u":1,"c":"c1"}]},
 {"k":"p","w":4,"al":"c","r":[{"t":"- A fragment from Eleanor doc made by: AngerIssue -","c":"c1"}]},
 {"k":"p","w":13,"al":"c","r":[{"t":"Link/Scan: Underlined blue text","c":"c1"}]},
 {"k":"gap","w":17},

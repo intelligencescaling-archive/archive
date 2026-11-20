@@ -1,5 +1,5 @@
 {"v":1,"gid":"17Qo-jF0MX5eKcBbjTOOTI9EyWzTnJUQHq0m16NX5bnk","words":656,"pal":{"c1":{"o":"t:FFFFFF/FFFFFF","d":{"fg":"text-3"},"l":{"fg":"text-3"},"s":{"fg":"text-3"}}},"img":{},"b":[
-{"k":"h","w":0,"l":2,"fake":1,"al":"c","r":[{"t":"William James Moriarty","b":1,"c":"c1"}]},
+{"k":"h","w":0,"l":1,"fake":1,"al":"c","r":[{"t":"William James Moriarty","b":1,"c":"c1"}]},
 {"k":"p","w":3,"al":"c","r":[{"t":"Overall EQ","b":1,"c":"c1"}]},
 {"k":"p","w":5,"al":"c","r":[{"t":"Credits : AwaKen & Druxzy","b":1,"c":"c1"}]},
 {"k":"gap","w":10},

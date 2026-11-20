@@ -103,7 +103,7 @@
 {"k":"gap","w":1551},
 {"k":"h","w":1551,"l":2,"fake":1,"al":"c","r":[{"t":"Fluid reasoning index","b":1,"u":1}]},
 {"k":"gap","w":1554},
-{"k":"h","w":1554,"l":2,"fake":1,"al":"c","r":[{"t":"Learning ability","i":1,"u":1}]},
+{"k":"p","w":1554,"al":"c","r":[{"t":"Learning ability","i":1,"u":1}]},
 {"k":"gap","w":1556},
 {"k":"p","w":1556,"al":"c","r":[{"t":"Sutherland mastery","u":1}]},
 {"k":"gap","w":1558},

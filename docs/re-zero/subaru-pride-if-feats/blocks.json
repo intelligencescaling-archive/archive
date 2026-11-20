@@ -1,7 +1,6 @@
 {"v":1,"gid":"1IlQvMlR7z5kiw31Y30wUUItPK3kOcLT21Z6zjo7mdo8","words":1986,"page":"000000","pal":{"c1":{"o":"t:FF00FF/000000","d":{"fg":"ff00ff"},"l":{"fg":"ce00cf"},"s":{"fg":"c200c2"}},"c2":{"o":"t:FF0000/000000","d":{"fg":"ff0000"},"l":{"fg":"eb0000"},"s":{"fg":"dd0000"}},"c3":{"o":"t:9900FF/000000","d":{"fg":"a347ff"},"l":{"fg":"9900ff"},"s":{"fg":"9900ff"}},"c4":{"o":"t:00FF00/000000","d":{"fg":"00ff00"},"l":{"fg":"008800"},"s":{"fg":"007f00"}},"c5":{"o":"t:00FFFF/000000","d":{"fg":"00ffff"},"l":{"fg":"008283"},"s":{"fg":"007a7b"}},"c6":{"o":"t:FF9900/000000","d":{"fg":"ff9900"},"l":{"fg":"aa6400"},"s":{"fg":"9f5e00"}},"c7":{"o":"t:4A86E8/000000","d":{"fg":"4a86e8"},"l":{"fg":"3772d3"},"s":{"fg":"306aca"}}},"img":{"i1":{"media":"word/media/image1.jpg","fmt":"jpg","px":[640,897],"bytes":70950,"src":{"p":"46f196431df28a43-720.webp","ps":[640,897]}}},"b":[
-{"k":"h","w":0,"l":1,"title":1,"al":"c","an":["_92edcilu1l8k"],"r":[{"t":"Subaru Natsuki (Pride IF):","b":1,"u":1}]},
-{"k":"img","w":4,"i":"i1","wh":[302,422],"alt":"Pride If: Subaru, Elsa, and Meili by Iwa_to_Mushi [Novels] : r/Re_Zero"},
-{"k":"anchor","w":4,"an":["_t6v9rbcr8pmr"]},
+{"k":"h","w":0,"an":["_92edcilu1l8k"],"l":1,"title":1,"al":"c","r":[{"t":"Subaru Natsuki (Pride IF):","b":1,"u":1}]},
+{"k":"img","w":4,"an":["_t6v9rbcr8pmr"],"i":"i1","wh":[302,422],"alt":"Pride If: Subaru, Elsa, and Meili by Iwa_to_Mushi [Novels] : r/Re_Zero"},
 {"k":"p","w":15,"al":"c","r":[{"t":"Pink - Planning, Strategy, Field Skills","b":1,"c":"c1"}]},
 {"k":"p","w":21,"al":"c","r":[{"t":"Red - Reasoning and Thinking","b":1,"c":"c2"}]},
 {"k":"p","w":26,"al":"c","r":[{"t":"Purple - Adversity Capacity","b":1,"c":"c3"}]},

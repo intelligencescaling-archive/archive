@@ -1,6 +1,6 @@
 {"v":1,"gid":"11Z5hf9lkstAPEZLrXqWrayUd_aio6zH8E0GGH1cBW6k","words":1205,"pal":{"c1":{"o":"t:FF0000/FFFFFF","d":{"fg":"ff0000"},"l":{"fg":"eb0000"},"s":{"fg":"dd0000"}},"c2":{"o":"t:0000FF/FFFFFF","d":{"fg":"3570ff"},"l":{"fg":"0000ff"},"s":{"fg":"0000ff"}},"c3":{"o":"t:FF9900/FFFFFF","d":{"fg":"ff9900"},"l":{"fg":"aa6400"},"s":{"fg":"9f5e00"}},"c4":{"o":"t:38761D/FFFFFF","d":{"fg":"4a8932"},"l":{"fg":"38761d"},"s":{"fg":"38761d"}},"c5":{"o":"t:FF00FF/FFFFFF","d":{"fg":"ff00ff"},"l":{"fg":"ce00cf"},"s":{"fg":"c200c2"}},"c6":{"o":"t:4A86E8/FFFFFF","d":{"fg":"5995f9"},"l":{"fg":"3772d3"},"s":{"fg":"306aca"}},"c7":{"o":"t:9900FF/FFFFFF","d":{"fg":"a347ff"},"l":{"fg":"9900ff"},"s":{"fg":"9900ff"}}},"img":{"i1":{"media":"word/media/image1.jpg","fmt":"jpg","px":[633,291],"bytes":30730,"src":{"p":"1667de3e73706ff7-720.webp","ps":[633,291]}}},"b":[
 {"k":"h","w":0,"l":1,"fake":1,"al":"c","r":[{"t":"RIKU UTOMIYA"}]},
-{"k":"h","w":2,"l":2,"fake":1,"al":"c","r":[{"t":"The Virtuous Soldier","i":1}]},
+{"k":"p","w":2,"al":"c","r":[{"t":"The Virtuous Soldier","i":1}]},
 {"k":"gap","w":5},
 {"k":"p","w":5,"al":"j","r":[{"t":"A showcase of all of his feats, statements and abilities."}]},
 {"k":"gap","w":15},
