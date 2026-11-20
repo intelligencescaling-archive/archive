@@ -40,6 +40,9 @@ parts:
     text:
       file: text.txt
       method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
 found_in:
 - library: old
   section: 'FATE:'

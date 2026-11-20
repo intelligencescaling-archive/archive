@@ -11,6 +11,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
   - every tag exists in data/tags.yaml; 1 to 3 tags besides meta tags; implied tags are present;
     the `story` tag and category `story` go together; characters' `real` is true/false
   - every text file named in the entry exists, and no stray files sit in entry folders
+  - reader files (capture.blocks, blocks.json): valid v1 JSON whose image/palette references resolve, safe links only
 
 Usage: python scripts/validate.py [repo-root]     (exit code 1 if anything is wrong)
 """
@@ -27,6 +28,71 @@ ALLOWED_FILES = {"meta.yaml"}
 CONTACT_PLATFORMS = ("discord", "telegram", "reddit", "twitter", "youtube", "tiktok", "other")
 REDDIT_STATUSES = ("active", "suspended", "gone", "unknown")
 EMAIL = re.compile(r"\S+@\S+\.\w+")
+
+
+BLOCK_KINDS = {"p", "h", "li", "img", "table", "box", "hr", "sep", "gap", "break", "notes", "anchor"}
+SAFE_HREF = re.compile(r"^(https?://|mailto:|#)", re.I)
+
+
+def check_blocks(path, err):
+    """A reader file (blocks.json): JSON, version 1, known block kinds, image and palette references resolve,
+    links are http(s)/mailto/#anchor only, image file names are plain hash names."""
+    name = path.name
+    if not path.is_file():
+        err(f"missing reader file {name}")
+        return
+    try:
+        doc = json.loads(path.read_text(encoding="utf-8"))
+    except (ValueError, UnicodeDecodeError) as e:
+        err(f"{name}: not valid JSON ({e})")
+        return
+    if not isinstance(doc, dict) or doc.get("v") != 1 or not isinstance(doc.get("b"), list):
+        err(f"{name}: needs v: 1 and a block list b")
+        return
+    imgs, pal = doc.get("img") or {}, doc.get("pal") or {}
+    for k, im in imgs.items():
+        src = im.get("src") or {}
+        for f in (src.get("p"), src.get("f")):
+            if f is not None and not re.fullmatch(r"[0-9a-f]{16}-(720|1360)\.webp", str(f)):
+                err(f"{name}: image {k}: bad file name {f}")
+    problems = set()
+
+    def runs(rs):
+        for r in rs or []:
+            if "img" in r and r["img"] not in imgs:
+                problems.add(f"unknown image {r['img']}")
+            if r.get("c") and r["c"] not in pal:
+                problems.add(f"unknown palette key {r['c']}")
+            if r.get("a") and not SAFE_HREF.match(str(r["a"])):
+                problems.add(f"unsafe link {str(r['a'])[:40]}")
+
+    def walk(bs):
+        for b in bs:
+            k = b.get("k")
+            if k not in BLOCK_KINDS:
+                problems.add(f"unknown block kind {k}")
+                continue
+            if k == "img" and b.get("i") not in imgs:
+                problems.add(f"unknown image {b.get('i')}")
+            if b.get("bg") and b["bg"] not in pal:
+                problems.add(f"unknown palette key {b['bg']}")
+            runs(b.get("r"))
+            for row in b.get("rows") or []:
+                for c in row.get("c") or []:
+                    if c.get("bg") and c["bg"] not in pal:
+                        problems.add(f"unknown palette key {c['bg']}")
+                    walk(c.get("b") or [])
+            if k == "box":
+                walk(b.get("b") or [])
+            for n in b.get("notes") or []:
+                walk(n.get("b") or [])
+
+    walk(doc["b"])
+    ws = [b.get("w") for b in doc["b"]]
+    if any(not isinstance(w, int) for w in ws) or any(a > b for a, b in zip(ws, ws[1:])):
+        problems.add("block word offsets (w) must be integers that never go down")
+    for p in sorted(problems)[:5]:
+        err(f"{name}: {p}")
 
 
 def main():
@@ -188,6 +254,12 @@ def main():
                 named.add(t)
                 if not (mp.parent / t).is_file():
                     err(f"missing text file {t}")
+            bf = (p.get("capture", {}).get("blocks") or {}).get("file")
+            if bf:
+                named.add(bf)
+                if not t:
+                    err(f"reader file {bf} needs a text file in the same part (its word offsets count that text)")
+                check_blocks(mp.parent / bf, err)
         for f in mp.parent.iterdir():
             if f.name not in named:
                 err(f"unexpected file {f.name}")

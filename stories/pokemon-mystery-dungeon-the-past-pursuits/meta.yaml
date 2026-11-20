@@ -58,6 +58,9 @@ parts:
     text:
       file: text-2.txt
       method: google-export
+    blocks:
+      file: blocks-2.json
+      v: 1
 found_in:
 - library: stories
   section: P

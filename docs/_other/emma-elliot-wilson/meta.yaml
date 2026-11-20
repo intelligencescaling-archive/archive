@@ -46,6 +46,9 @@ parts:
     text:
       file: text-1.txt
       method: google-export
+    blocks:
+      file: blocks-1.json
+      v: 1
 - title: Emma doc part 2(ENG VERSION)
   source:
     type: google-doc
@@ -68,6 +71,9 @@ parts:
     text:
       file: text-2.txt
       method: google-export
+    blocks:
+      file: blocks-2.json
+      v: 1
 - title: Emma Elliot wilson(Final doc)(ENG VER)
   source:
     type: google-doc
@@ -90,6 +96,9 @@ parts:
     text:
       file: text-3.txt
       method: google-export
+    blocks:
+      file: blocks-3.json
+      v: 1
 found_in:
 - library: old
   section: 'Original SCD Characters I made to pass some time(I changed my mind about these docs, it''s not like many people actually read them):'

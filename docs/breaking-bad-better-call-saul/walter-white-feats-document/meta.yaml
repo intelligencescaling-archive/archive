@@ -34,6 +34,9 @@ parts:
     text:
       file: text.txt
       method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
 found_in:
 - library: remastered
   section: Breaking Bad | Better Call Saul

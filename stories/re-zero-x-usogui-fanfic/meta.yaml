@@ -46,6 +46,9 @@ parts:
     text:
       file: text-1.txt
       method: google-export
+    blocks:
+      file: blocks-1.json
+      v: 1
 - title: Chapter 6 (Baku POV)
   source:
     type: google-doc
@@ -68,6 +71,9 @@ parts:
     text:
       file: text-2.txt
       method: google-export
+    blocks:
+      file: blocks-2.json
+      v: 1
 found_in: []
 links:
 - type: reddit-post
