@@ -6,7 +6,11 @@ title: Kirari’s URR Plan
 alt_titles:
 - Kirari URR Plan
 - Kirari's URR Plan
-authors: []
+authors:
+- name: SoundStorm
+  reddit: SoundStorm7
+  id: soundstorm
+  source: submission
 series:
 - kakegurui
 characters:
@@ -48,5 +52,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []
