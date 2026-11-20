@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-vs-yuuichi
+category: doc
+title: Yokoya vs Yuuichi
+alt_titles:
+- Yuuichi Katagiri vs Norihiko Yokoya • u/IncidentIll7680
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: submission
+series:
+- liar-game
+- tomodachi-game
+characters:
+- yokoya-norihiko
+- yuuichi-katagiri
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ltqgdBQ4mdRYiMwgizUoUvXp1fMxvAxYYGOxUA9_Pnw
+    google_id: 1ltqgdBQ4mdRYiMwgizUoUvXp1fMxvAxYYGOxUA9_Pnw
+  capture:
+    status: complete
+    date: '2026-11-20'
+    pages: 2
+    words: 199
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 837357
+      sha256: 83c7d74bf944370925cceb4895fbc6783ec472cd68313e19fe302623ada58ae2
+    - format: docx
+      name: document.docx
+      bytes: 713228
+      sha256: b87749a19dd16565848d42c70e670ffb6d4094df3e71d0d99e27ab79ef5b9283
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-19'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - tags

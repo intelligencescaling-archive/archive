@@ -6,7 +6,11 @@ title: Walter White's Intelligence Doc
 alt_titles:
 - Walter White SCD Document
 - Walter White’s Intelligence Doc
-authors: []
+authors:
+- name: TheRealMaster98
+  reddit: TheRealMaster98
+  id: therealmaster98
+  source: reddit-post
 series:
 - breaking-bad-better-call-saul
 characters:
@@ -49,5 +53,4 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check:
-  - authors
+  check: []

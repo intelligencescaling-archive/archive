@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: contraband-yokoya-vs-light-yagami
+category: doc
+title: Contraband Yokoya vs Light Yagami
+alt_titles:
+- Light vs [downsizing-] contraband Yokoya • u/IncidentIll7680
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: submission
+series:
+- liar-game
+- death-note
+characters:
+- yokoya-norihiko
+- light-yagami
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=106p9lxn8ZCnkOgnkFq4o085BMQ1ZI9H77GsJZ6xOpf0
+    google_id: 106p9lxn8ZCnkOgnkFq4o085BMQ1ZI9H77GsJZ6xOpf0
+  capture:
+    status: complete
+    date: '2026-11-20'
+    pages: 1
+    words: 49
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 39607
+      sha256: b4b3421590b4d85cb52158cb7206ff0438aaeffa66b7651985d04a32db49bfd8
+    - format: docx
+      name: document.docx
+      bytes: 10379
+      sha256: 2934fd64f2f6b896b32df570b18acf3f589b5fa08f050cfc80c4098ce5698f1a
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-19'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - tags

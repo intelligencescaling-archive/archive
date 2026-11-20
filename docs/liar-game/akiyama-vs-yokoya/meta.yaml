@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-vs-yokoya
+category: doc
+title: Akiyama vs Yokoya
+alt_titles:
+- Shinichi Akiyama vs Norihiko Yokoya • u/IncidentIll7680
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: submission
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WKa4XJcfD3qBeEWQ7jmZ9TVKUMWVhM_rvDvsHn6Zcag
+    google_id: 1WKa4XJcfD3qBeEWQ7jmZ9TVKUMWVhM_rvDvsHn6Zcag
+  capture:
+    status: complete
+    date: '2026-11-20'
+    pages: 1
+    words: 58
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 199694
+      sha256: cfc07db4d4b5a22800d8d714c44e44c56f170c129eeef3d9bce626a6b9a5670f
+    - format: docx
+      name: document.docx
+      bytes: 230529
+      sha256: a727a10ed6c82fc1c73c500a3e9fc99eedb30d102efbd3b4bd44e2d33aa60058
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-19'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - tags

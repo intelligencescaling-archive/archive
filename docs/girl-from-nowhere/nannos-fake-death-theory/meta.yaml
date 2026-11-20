@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nannos-fake-death-theory
+category: doc
+title: Nanno’s Fake Death Theory
+alt_titles:
+- Nanno’s Fake Death Theory (FDT)
+authors:
+- name: ConfidentFee5609
+  reddit: ConfidentFee5609
+  id: confidentfee5609
+  source: submission
+series:
+- girl-from-nowhere
+characters:
+- nanno
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1NKyA5YmZZnV8lEiycPOJmVHyMvwjeBy0c0iXgJaJ3No
+    google_id: 1NKyA5YmZZnV8lEiycPOJmVHyMvwjeBy0c0iXgJaJ3No
+  capture:
+    status: complete
+    date: '2026-11-20'
+    pages: 7
+    words: 1726
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 144235
+      sha256: 8c33c0e20c748040b95a49e9c7825f77943975c41c30bf5200a99c38a144e2c3
+    - format: docx
+      name: document.docx
+      bytes: 323736
+      sha256: 4c2e6fd7b8a419504ce38d0a4e5f2cba787bc5a99fbc66b05e4065cea70c034e
+    text:
+      file: text.txt
+      method: google-export
+found_in: []
+added: '2026-11-19'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
+  - tags

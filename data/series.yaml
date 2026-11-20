@@ -315,6 +315,10 @@
   name: Ghost of Tsushima
   origin_language: en
   origin_medium: game
+- id: girl-from-nowhere
+  name: Girl From Nowhere
+  origin_language: th
+  origin_medium: tv
 - id: god-of-war
   name: God of War
   origin_language: en
