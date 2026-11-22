@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: factory-reset-theory-a-mr-robot-scd-analysis
+category: doc
+title: 'Factory Reset Theory: A Mr Robot SCD Analysis'
+alt_titles:
+- Factory Reset Theory | A Mr Robot SCD Analysis
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- mr-robot
+characters:
+- elliot-alderson
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r70wti/factory_reset_theory_a_mr_robot_scd_analysis/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1718
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1081949
+      sha256: 8c8cc2a274c636cd25f12e682362f2f5a5b5a8e05fb4fc2ddfa201ecaa6fb3d2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

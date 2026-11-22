@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-protagonist-s-ridiculously-unrealistic-general
+category: doc
+title: The Protagonist's Ridiculously Unrealistic General Intelligence/Reasoning Feat
+alt_titles:
+- The Protagonist's ridiculously unrealistic General Intelligence/Reasoning feat [Doc Revamp Sneakpeak]
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- tenet
+characters:
+- the-protagonist
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qij5pn/the_protagonists_ridiculously_unrealistic_general/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1546
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 595411
+      sha256: 791833bce851da8fd3ef2557d4749b49e33e98d28982abf23e8886c5250c4246
+    - format: png
+      name: image-2.png
+      bytes: 677545
+      sha256: e8a322a13bbb6b727c5f60854a0bc91f2c41968f15621205b638eba3857cb2cd
+    - format: png
+      name: image-3.png
+      bytes: 166575
+      sha256: 7c3273ccddad4d06cfc35284c61077c994b35c8c3313d0601985aedfb310ce3c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-survey-program-gaster-s-best-feat-explained
+category: doc
+title: 'The SURVEY_PROGRAM: Gaster''s Best Feat Explained'
+alt_titles:
+- The SURVEY_PROGRAM -- Gaster's best feat explained
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- deltarune
+characters:
+- w-d-gaster
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xod10e/the_survey_program_gasters_best_feat_explained/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 794
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 12334
+      sha256: 412257ca123ee67335eba6466dc28f34773b767ec36f9e8d11210f8a8e6d6c89
+    - format: png
+      name: image-2.png
+      bytes: 13242
+      sha256: 1e5728d83eef7758d8753b88ec844ddc594ae9bd14f6354ab78cf4df36054ebe
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

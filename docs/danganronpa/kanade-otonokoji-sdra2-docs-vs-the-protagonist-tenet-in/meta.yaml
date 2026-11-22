@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji-sdra2-docs-vs-the-protagonist-tenet-in
+category: doc
+title: Kanade Otonokoji (SDRA2 Docs) vs The Protagonist (Tenet) in Strategy
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- danganronpa
+- tenet
+characters:
+- kanade-otonokoji
+- the-protagonist
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1plz7y8/kanade_otonokoji_sdra2_docs_vs_the_protagonist/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 798
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 86896
+      sha256: 0539859dd5708368dfc2b146074a4f5cc6a8ec44422b900ba1d3a6e2a90324e2
+    - format: png
+      name: image-2.png
+      bytes: 145407
+      sha256: f6ab16e78a01d7e215ce569a6e68e4538ba6d6c400541b2a63fd11793f1105b5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

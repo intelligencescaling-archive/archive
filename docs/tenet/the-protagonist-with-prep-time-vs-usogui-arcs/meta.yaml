@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-protagonist-with-prep-time-vs-usogui-arcs
+category: doc
+title: The Protagonist (with Prep Time) vs Usogui Arcs
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- tenet
+- usogui
+characters:
+- the-protagonist
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o1104j/the_protagonist_with_prep_time_vs_usogui_arcs/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 925
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 14086
+      sha256: 35e54c0253ba4e99f7881876607680c35084e6243f67c4505e3c9bd76454283e
+    - format: jpg
+      name: image-2.jpg
+      bytes: 577441
+      sha256: 5b48692835878d2c1e350097cbf8afb89ca6ac55df7e2cd51c9c4b95eaa19198
+    - format: png
+      name: image-3.png
+      bytes: 80551
+      sha256: 36afc74f16f9e0eb18e07de7f03b5d77dc52a0ff8ba59da404336f0d2ad6198a
+    - format: png
+      name: image-4.png
+      bytes: 4132
+      sha256: 5938a3cbc61327de5c2a5d43addefaab81de57e8b5abb4ceb37253667d1adffb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

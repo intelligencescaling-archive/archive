@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akane-kurashiki-vlr-ztd-vs-johan-liebert-monster-in
+category: doc
+title: Akane Kurashiki (VLR/ZTD) vs Johan Liebert (Monster) in Emotional Intelligence
+alt_titles:
+- Akane Kurashiki (VLR/ZTD) VS Johan Liebert (Monster/Another Monster) in Emotional Intelligence (WITH PROOF)
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- zero-escape
+- monster
+characters:
+- akane-kurashiki
+- johan-liebert
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u83jop/akane_kurashiki_vlrztd_vs_johan_liebert/
+  capture:
+    status: partial
+    date: '2026-11-22'
+    words: 1561
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

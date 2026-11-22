@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: w-d-gaster-s-parallel-processing
+category: doc
+title: W D Gaster's Parallel Processing
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- deltarune
+characters:
+- w-d-gaster
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w3xnt6/w_d_gasters_parallel_processing/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 670
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 133764
+      sha256: 9652dd8dfd5339c06c4599504792ac968ce397aee8791054c5b9b07bdf7972d9
+    - format: png
+      name: image-2.png
+      bytes: 45351
+      sha256: 497b6417abdb52be259e4626870136f4c531f3962548b46e639156a1df65650e
+    - format: png
+      name: image-3.png
+      bytes: 15242
+      sha256: f88f164a051cb33f89bab853e35c56f5ac43e25e58598d20ab382a82594d14d6
+    - format: png
+      name: image-4.png
+      bytes: 39591
+      sha256: d7fdaf89bc43858b36318b71377c232c523ce437c594502d0cddf18601f444e4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

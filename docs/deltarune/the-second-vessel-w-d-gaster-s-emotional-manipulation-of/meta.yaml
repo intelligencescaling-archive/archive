@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-second-vessel-w-d-gaster-s-emotional-manipulation-of
+category: doc
+title: 'The Second Vessel: W D Gaster''s Emotional Manipulation of Kris Explained'
+alt_titles:
+- The Second Vessel - W D Gaster's Emotional Manipulation of Kris Explained
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- deltarune
+characters:
+- w-d-gaster
+- kris-dreemurr
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1soiffd/the_second_vessel_w_d_gasters_emotional/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1022
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 989105
+      sha256: 79837cfd0b77bdd66055fd398b6b2c39dd64753ff3ce1bc746e4ec0303d6f513
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

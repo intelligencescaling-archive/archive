@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-protagonist-s-tenet-organization-brief-overview
+category: doc
+title: 'The Protagonist''s Tenet Organization: Brief Overview'
+alt_titles:
+- The Protagonist's Tenet Organization -- Brief Overview
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- tenet
+characters:
+- the-protagonist
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uxwho6/the_protagonists_tenet_organization_brief_overview/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1118
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 73245
+      sha256: 5543ae3251d531d1c85ec68b98328bab120f4d9c15eed6cd2d8968ada6a288e0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

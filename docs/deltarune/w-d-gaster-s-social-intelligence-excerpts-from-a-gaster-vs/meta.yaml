@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: w-d-gaster-s-social-intelligence-excerpts-from-a-gaster-vs
+category: doc
+title: W D Gaster's Social Intelligence (Excerpts from a Gaster vs Will Graham Debate)
+alt_titles:
+- I've underrated W D Gaster's Social Intelligence. Here's some excerpts from a private debate I had involving Gaster VS Will Graham in SI
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- deltarune
+characters:
+- w-d-gaster
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t1esz3/ive_underrated_w_d_gasters_social_intelligence/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 471
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 3958647
+      sha256: 83e63f949bfe6cbd8fe610b6368442b278db246d16c2b2a132d8b90d3098cab4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

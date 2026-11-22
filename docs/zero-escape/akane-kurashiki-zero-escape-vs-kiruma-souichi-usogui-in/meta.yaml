@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akane-kurashiki-zero-escape-vs-kiruma-souichi-usogui-in
+category: doc
+title: Akane Kurashiki (Zero Escape) vs Kiruma Souichi (Usogui) in Full Scale Self Management
+alt_titles:
+- Akane Kurashiki (Zero Escape) VS Kiruma Souichi (Usogui) in full scale Self Management (with reasons)
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- zero-escape
+- usogui
+characters:
+- akane-kurashiki
+- kiruma-souichi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vb8ptw/akane_kurashiki_zero_escape_vs_kiruma_souichi/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 564
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 166859
+      sha256: aad852b054e2ab33e9fdb70152fb95e990141d5aca47a1b140ba587cc412dabe
+    - format: png
+      name: image-2.png
+      bytes: 385000
+      sha256: 482fc59b3232a4fe8bd61ff4cd3772e9bef7f6ad3fc50d97d77490232cdf0c14
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

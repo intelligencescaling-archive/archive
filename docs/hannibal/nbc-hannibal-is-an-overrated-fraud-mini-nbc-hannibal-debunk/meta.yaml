@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nbc-hannibal-is-an-overrated-fraud-mini-nbc-hannibal-debunk
+category: doc
+title: NBC Hannibal Is an Overrated Fraud (Mini NBC Hannibal Debunk)
+alt_titles:
+- 'Change My Take: NBC Hannibal is an overrated fraud (mini NBC Hannibal debunk)'
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lb6gpg/change_my_take_nbc_hannibal_is_an_overrated_fraud/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1123
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

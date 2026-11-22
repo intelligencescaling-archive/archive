@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-nbc-hannibal-sucks-at-direct-emotional-manipulation
+category: doc
+title: Why NBC Hannibal Sucks at Direct/Emotional Manipulation
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+- will-graham
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1urd987/why_nbc_hannibal_sucks_at_directemotional/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 469
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 12748
+      sha256: f252258239608b9532b694d17f9ba758514092902201f1c75ac6965e896ba514
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

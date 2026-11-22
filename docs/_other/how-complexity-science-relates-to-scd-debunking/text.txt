@@ -1,0 +1,71 @@
+How complexity science relates to SCD + Debunking SatisfiedUnsatisfied's misinformation
+
+This post will serve as a basic introduction to complexity science in SCD
+
+Mostly thanks to SU ([OG post that I'm responding to here](https://www.reddit.com/r/IntelligenceScaling/s/YmH0FpHiY1)), a LOT of misinformation around what complexity science is and how it relates to SCD has been circulating around this subreddit to my dismay, especially with the amount of people agreeing with it. This is odd since in essence, I find it a pretty intuitive and uncontroversial topic to anyone who's familiar with it, but somehow we've managed to get to a point of outright strawmanning what this all means.
+
+**Part 1: What complexity science is**
+"Complexity science" here just means the study of complex systems, which is a interdisciplinary subject so I'll be brief on how it relates to intelligence. Basically, a system is complex if it has many components interacting with each other in a manner such that is difficult or impossible to predict it's outcomes in the long term just from knowing it's initial conditions (this is also related to chaos theory). The features of complex systems we care about for SCD are non-linearity (where the output change is not directly proportional to the input change), emergence (macroscopic features spawning from local interactions without any higher control) and adaptation (the agents within the system change based on interactions with other agents) (Source: "What is a complex system?" by Ladyman et al. [https://philsci-archive.pitt.edu/id/eprint/9044/4/LLWultimate.pdf](https://philsci-archive.pitt.edu/id/eprint/9044/4/LLWultimate.pdf) )
+
+**Part 2: How this relates to SCD**
+So the term most relevant to us is complex adaptive systems (CAS) because most outsmarting scenarios are pretty much just this. But one more thing about CAS to clear up is that it as well as focusing on the aforementioned non-linear and emergent properities of a system, it also cares about the macroscopic properties of them (key word).
+
+The claim here is that effectively controlling a more macroscopic complex adaptive system demonstrates better outsmarting than otherwise. To some of you guys I imagine that sounds like a bunch of word salad but again the idea is pretty intuitive. If you have a ball bouncing around off the walls in a room, if it's only one ball then it's pretty easy to track with your eyes, right? If your gigabrained or just a computer then you would even be able to predict exactly where the ball will bounce next. Now imagine 50 of them all in the same room bouncing around off the walls and trying to track and then accurately predict where every single one of them will go, having to factor in the balls bouncing off each other as well. It's a no-brainer that the latter situation is harder, and that is pretty much the exact same principle here.
+
+A character that demonstrates control over a more predictable system is less impressive than a character that demonstrates control over a more unpredictable system, a system where emergence is a thing, where small actions can lead to big changes later and even systems where every agent isn't bounded by the same local rules and is free to exist in the normal world. I don't see why it wouldn't be obvious that controlling unpredictability > controlling predictability.
+
+So for an actual example and the source of much of anger for people on this subreddit: The Liar Game Tournament (LGT). To rip the bandaid off right away: No, the LGT is NOT a complex adaptive system. You may call it an adaptive system, but it's not a complex one. See the above definition to find out why, I'll even go through each point one by one
+
+* **Linearity:** The LGT is NOT nonlinear. For the LGT to be non-linear, it would need to be the case that the output of a given round within the LGT is not directly proportional to it's input, but it is. The game-tree gets wider for every single decision made, yes, but that doesn't make it unpredictable, that doesn't spawn chaos within the game. For example, I can flip a coin and then hide the result so that you do not know what side the coin landed on. You don't know the result, but you know for certain that it is either heads or tails. There's nothing spontaneous or emergent about that and that is how every round in the LGT works. All games are given specific rules and the players can never diverge from the actions that are allowed to take following them. Akiyama couldn't know the exact moves Yokoya would make in Contraband, but he knows that he can ONLY either Pass or Doubt on his turn. Which is why the LGT can't qualify as nonlinear, there is nothing more than just the sum of it's parts
+* **Macroscopic:** Macroscopic just means "large scale" here, which the LGT obviously isn't. The LGT consists of a limited number of players (a few dozen at most) who all can take a limited amount of actions to further their fixed goal. Nothing about this is macroscopic, it's the exact opposite. They are directly limited by a top-down authority that dictates what they can and can't do instead of characters operating at the macroscopic level which can take any action they want so long as it's physically possible
+* **Emergence:** Not only is it not macroscopic, there is no chance for the LGT to have macroscopic properties emerge from below. Again, these can only spawn *without higher control*, which the LGT has via the LGT Office
+
+So there we go, a beloved character in this subreddit does not operate in and control a complex adaptive system, and would therefore not demonstrate as much outsmarting capacity as characters that do effectively control one.
+
+**What this all means:**
+This is the single most strawmanned point out of anything I've said so to be absolutely clear: ***This isn't scaling the system a character operates in by itself. Instead, complexity science in SCD seeks to measure how impressive a character is for controlling a CAS***
+
+To be more clear, nobody scales the system ITSELF unlike what SU is trying to claim I do. Instead, it's all about the degree which the character, through their own intelligence and nothing else, controls a macroscopic, complex, adaptive system. Idk how people can't see why this is clearly related to SCD but to give an example: Which is harder to control through intellect alone, a school classroom or an entire nation? If you think both of these are the same or if it's an irrelevant question, idk what to tell you.
+
+To give an example of what I mean by "effective control" or really an example of what it DOESN'T look like: Michael Scofield
+
+Scofield is a character that operates in an macroscopic (unbounded) CAS, so does that mean he slams Akiyama? No, because his effective control over that system is minimal. The vast majority of Scofield's "schemes" especially in S4 onwards is simply breaking into places to steal shit + holding a gun to people's heads. This does NOT demonstrate effective control over the CAS he is in for obvious reasons, he is merely controlling individual agents and not outsmarting or controlling the system itself. This is why I have Akiyama slamming Mid Diff despite operating in a far less complex system because Scofield's schemes didn't actually demonstrate that much cognitive effort compared to Akiyama's
+
+**Conclusion:**
+Complexity science helps us understand why characters who operate within complex systems typically scale higher than those who don't. The demonstration of effective control over an unpredictable, chaotic environment is inherently more impressive than control over a linear, predictable environment. If you want further reading on complexity science in general, Wikipedia is honestly one of the best resources for it, just read what they're citing instead of copying from the page directly
+
+[https://en.wikipedia.org/wiki/Complex\_system](https://en.wikipedia.org/wiki/Complex_system)
+[https://en.wikipedia.org/wiki/Complex\_adaptive\_system](https://en.wikipedia.org/wiki/Complex_adaptive_system)
+[https://en.wikipedia.org/wiki/Multi-agent\_system](https://en.wikipedia.org/wiki/Multi-agent_system)
+[https://en.wikipedia.org/wiki/Emergence](https://en.wikipedia.org/wiki/Emergence)
+[https://en.wikipedia.org/wiki/Chaos\_theory](https://en.wikipedia.org/wiki/Chaos_theory)
+[https://en.wikipedia.org/wiki/Nonlinear\_system](https://en.wikipedia.org/wiki/Nonlinear_system)
+
+**Debunking SatisfiedUnsatisfied's post:**
+This post would've been wasted if it were just about debunking SU's most recent post so I'm leaving this at the bottom. In short, this post is hot garbage and I'll quickly run through each of his claims and tell you why
+
+>"A boxing match is mathematically more complex than chess. It is unquantifiably more complex. Practically, ***infinitely*** more complex given that chess has perfect information within a closed 2-dimensional system."
+
+This is facts by the way, not a meme, not my opinion. It is simply facts, so if you disagree, it's not because we have a difference in opinion, it is because **you are wrong,** or you don't understand what complexity is being defined as here, which characterizes the behaviour of a system whose components interact to produce **non-linearity, randomness, and emergence.**
+
+Yea, no. Right away, you are confusing what we actually talk about when we mention variables and complexity. Neither chess or boxing qualifies as a complex system let alone a CAS, so you're analogy falls flat right there. When you talk about boxing being "more complex" than chess, you are trying to use the definition of complexity from the same field we're talking about which defines complexity as composing the same properties you also listed, non-linearity, randomness and emergence. Boxing and chess contain none of the above, so to say that boxing is "more complex" than chess is just ??? both of those games contain no complexity at all lmfao. So everything else you talk about in regards to it's "variables" is moot and useless since it's just a fundamental misunderstanding of what a variable is in relation to human decision making and how either of those games work.
+
+It is hilarious that you claim to be more learned on this subject than everyone else only to turn around and make the most outlandish blunders of all time, confusing terms that you yourself listed.
+
+>"Which is exactly my point! Literally my point! When I place Akiyama above a character that operates in a less bounded system, I look at the COGNITIVE requirement, not the complexity of the damn system."
+
+"The system complexity is largely irrelevant, because at the end of the day, it all comes down to the ***cognitive requirement"***
+
+Yea, I also look at cognitive requirement, that's the whole point. This is literally what I was talking about before in regards to you strawmanning my claim. NOBODY is scaling the complexity of the system itself and determining "This character merely exists in a more complex system, therefore they neg diff!". It is ALWAYS about how much ***effective control*** a character demonstrates over a CAS, ***which inherently entails higher cognitive requirement***
+
+The point you mentioned below about "keeping your standards consistent" just showcases how hard you've strawmanned the point
+
+>"By the way, please don't say something stupid like Musical Chairs doesn't have emergent complexity."
+
+It doesn't, prove that Musical Chairs spontaneously develops large-scale order without any higher control. Oh wait you can't, because Musical Chairs along with the entire LGT has higher control. Oopsie dasies
+
+>"Fun fact: Chess doesn't even have 0.0000000001% of the complexity of Go"
+
+Both of them have exactly 0% of the complexity of each other. I just added this here to show everyone how again you've completely bungled the definitions of complexity science
+
+Debunk over. Maybe shorter than you or some other people would like, but really I cannot in good conscious seriously go through every single point you made when all of it is inherently rooted in a very strong misunderstanding of the terms you've tried to use to the point where I cannot coherently discuss it. Do not embarrass yourself again by claiming superior knowledge over a field you have no knowledge in

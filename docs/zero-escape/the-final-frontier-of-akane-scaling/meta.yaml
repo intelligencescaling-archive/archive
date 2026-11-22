@@ -1,0 +1,66 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-final-frontier-of-akane-scaling
+category: doc
+title: The Final Frontier of Akane Scaling
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- zero-escape
+characters:
+- akane-kurashiki
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w9na2m/the_final_frontier_of_akane_scaling/
+  capture:
+    status: partial
+    date: '2026-11-22'
+    words: 971
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 6905
+      sha256: ae3d28e4d705223f899cee4837cca9caea5deace16b6442553ba23c315d1a918
+    - format: png
+      name: image-2.png
+      bytes: 378670
+      sha256: 6afa37c7d7be558c29c222d9d712753da93c33db4ebcf05e415a868f71bdf334
+    - format: png
+      name: image-3.png
+      bytes: 390054
+      sha256: 0eddfd1f339fd52acb72f204ad39ce506c25dc43653563b45645133ae7d1eaca
+    - format: png
+      name: image-5.png
+      bytes: 472573
+      sha256: 572af1b0ee91a24f84ceb6edc145996d885ccc7b568fd50729826646a2707df8
+    - format: png
+      name: image-6.png
+      bytes: 341332
+      sha256: 59826219f4eeb0856a86ad7db0f7070a8d7ddb315cb75f1dd3b21361139e6cb7
+    - format: png
+      name: image-7.png
+      bytes: 268482
+      sha256: 2632e0470ad703cebcb08f11e1d51d7ca85c5ac9cdc1f7389348788bdfc381d6
+    - format: png
+      name: image-8.png
+      bytes: 12872
+      sha256: b82049a429cf4e3b4f0f5c71ad7e5facd3166a7dff099f605274da1b8a6710aa
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-4: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

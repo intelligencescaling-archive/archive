@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: w-d-gaster-s-undertale-feats-theory
+category: doc
+title: W D Gaster's Undertale Feats (Theory)
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- deltarune
+- undertale
+characters:
+- w-d-gaster
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rsbps4/w_d_gasters_undertale_feats_theory/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1128
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1367442
+      sha256: dd2ab046faf1f98bf4a1d622909a951a2cfa3cd71d05011b0e27b48fd5b59f1f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

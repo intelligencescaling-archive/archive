@@ -1,0 +1,63 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: festival-day-w-d-gaster-chapter-5-feat-analysis
+category: doc
+title: 'Festival Day: W D Gaster Chapter 5 Feat Analysis'
+alt_titles:
+- Festival Day -- W D Gaster chapter 5 feat analysis
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- deltarune
+characters:
+- w-d-gaster
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uv0mdn/festival_day_w_d_gaster_chapter_5_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1303
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 221428
+      sha256: 6e5ffe5f596c34334e41172c7ea7a7a5584ad4634024d4f714c396ef73e7cdea
+    - format: png
+      name: image-2.png
+      bytes: 196644
+      sha256: 0d1c59e8fe8549885d04bd242bb0f024e81d9e99ce0669101fe3b5d00884464a
+    - format: png
+      name: image-3.png
+      bytes: 47630
+      sha256: dfd51de6d830670468cbf08a677e3857f42a52b070a0ebbdb167e2c783efbc93
+    - format: png
+      name: image-4.png
+      bytes: 72380
+      sha256: f70b54bfeb1512ccde23ee54eaa6ad0c9b58ba7747bc3265230ee0e8fc0e7de8
+    - format: png
+      name: image-5.png
+      bytes: 103489
+      sha256: b69b686aa49e85d79158c129fc4be796e2d0a431bb8704da1cd9294f650de034
+    - format: png
+      name: image-6.png
+      bytes: 225254
+      sha256: 06f66ac92eb6e877bc4918415cfcfad58a980eb48e8e7620de375c763b5dd176
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

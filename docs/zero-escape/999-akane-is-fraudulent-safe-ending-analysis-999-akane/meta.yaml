@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 999-akane-is-fraudulent-safe-ending-analysis-999-akane
+category: doc
+title: 999 Akane Is Fraudulent (Safe Ending Analysis + 999 Akane Debunked)
+alt_titles:
+- I was wrong... 999 Akane is FRAUDULENT (Safe Ending "Analysis" + 999 Akane DEBUNKED)
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- zero-escape
+characters:
+- akane-kurashiki
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sj2kvj/i_was_wrong_999_akane_is_fraudulent_safe_ending/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 766
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 605789
+      sha256: a055f040bb510fe0b0680cb0686d9679f0320944094a927cbf54e2438cf022fb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -550,6 +550,12 @@
   name: Moriarty the Patriot
   origin_language: ja
   origin_medium: manga
+- id: mr-robot
+  name: Mr. Robot
+  aliases:
+  - Mr Robot
+  origin_language: en
+  origin_medium: tv
 - id: mrozoverse
   name: Mrozoverse
   origin_language: pl
@@ -918,6 +924,10 @@
   - Umineko no Naku Koro ni
   origin_language: ja
   origin_medium: visual-novel
+- id: undertale
+  name: Undertale
+  origin_language: en
+  origin_medium: game
 - id: undertale-aus
   name: Undertale AUs
   origin_language: en

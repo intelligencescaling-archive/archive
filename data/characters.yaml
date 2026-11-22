@@ -282,6 +282,9 @@
 - id: elec
   name: Elec
   series: dragon-ball
+- id: elliot-alderson
+  name: Elliot Alderson
+  series: mr-robot
 - id: emiya-kiritsugu
   name: Emiya Kiritsugu
   series: fate
@@ -683,6 +686,11 @@
 - id: kratos
   name: Kratos
   series: god-of-war
+- id: kris-dreemurr
+  name: Kris Dreemurr
+  series: deltarune
+  aliases:
+  - Kris
 - id: kurama
   name: Kurama
   series: yu-yu-hakusho
@@ -1311,6 +1319,12 @@
 - id: voja
   name: Voja
   series: usogui
+- id: w-d-gaster
+  name: W D Gaster
+  series: deltarune
+  aliases:
+  - W. D. Gaster
+  - Gaster
 - id: walter-white
   name: Walter White
   series: breaking-bad-better-call-saul

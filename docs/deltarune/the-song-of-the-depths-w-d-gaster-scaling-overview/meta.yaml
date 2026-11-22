@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-song-of-the-depths-w-d-gaster-scaling-overview
+category: doc
+title: 'The Song of the Depths: W D Gaster Scaling Overview'
+alt_titles:
+- The Song of the Depths -- W D Gaster Scaling Overview
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- deltarune
+characters:
+- w-d-gaster
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wmu6ye/the_song_of_the_depths_w_d_gaster_scaling_overview/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2617
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 145020
+      sha256: a47a9387c7a9f1ad26cc1904879d47c881ee3d99ff488c3c9ebf6702fd4daa4b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

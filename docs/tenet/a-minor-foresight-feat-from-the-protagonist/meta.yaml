@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-minor-foresight-feat-from-the-protagonist
+category: doc
+title: A Minor Foresight Feat from The Protagonist
+alt_titles:
+- A minor Foresight feat from The Protagonist because I’m bored [Doc Revamp sneakpeak]
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- tenet
+characters:
+- the-protagonist
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qknbp5/a_minor_foresight_feat_from_the_protagonist/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 397
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 250136
+      sha256: 5c571392fc4c20c18835e80b3e3104ef717891256916da5edee2bef736f1f1d1
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

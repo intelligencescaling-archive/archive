@@ -1,0 +1,35 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-relationship-between-composite-form-characters-and-anti
+category: doc
+title: The Relationship Between Composite Form Characters and Anti-feats
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ltoabs/the_relationship_between_composite_form/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 454
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

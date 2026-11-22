@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akane-kurashiki-ee-em-feat-analysis
+category: doc
+title: Akane Kurashiki EE/EM Feat Analysis
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- zero-escape
+characters:
+- akane-kurashiki
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1puhjd3/akane_kurashiki_eeem_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 642
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 914296
+      sha256: 6f877b8017a77af18cfcf75c11be6b4c3f56edd62005c9db5bde5ee7b86f8403
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

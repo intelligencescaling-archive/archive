@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinichi-liar-game-manga-vs-the-protagonist-tenet
+category: doc
+title: Akiyama Shinichi (Liar Game Manga) vs The Protagonist (Tenet) in Strategy
+authors:
+- name: lzyaboiConnor
+  reddit: lzyaboiConnor
+  id: forallposterity
+  source: reddit-post
+series:
+- liar-game
+- tenet
+characters:
+- akiyama-shinichi
+- the-protagonist
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p1ysta/akiyama_shinichi_liar_game_manga_vs_the/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 604
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 34203
+      sha256: e9d6e492f7783efcb9dd67c36558a37a03faaa21fde92b8ab83ca753305e4381
+    - format: png
+      name: image-2.png
+      bytes: 121814
+      sha256: a5ccf4481a5e304733a440db5f251df8dd01ca242914c0a45311a73259d60c61
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
