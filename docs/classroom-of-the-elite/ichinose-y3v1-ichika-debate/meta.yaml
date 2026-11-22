@@ -1,0 +1,304 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichinose-y3v1-ichika-debate
+category: doc
+title: 'Ichinose''s Y3V1 Feat Against Ichika: Ganve vs XorPaw Debate'
+alt_titles:
+- Debunk of ichinose's y3v1 feat againist ichika by ganve.
+- Rebunk of "Debunk of ichinose's y3v1 feat againist ichika by ganve."
+- Debunk of Rebunk of Ichinose's Y3V1 Feat Against Ichika - by Ganve
+- rebunk of Debunk of Rebunk of Ichinose's Y3V1 Feat Against Ichika
+- Debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat - by Ganve
+- rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat
+- Debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat - by Ganve
+- rebunk of debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat
+- debunk (Final) of rebunk of debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat
+- rebunk of debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat
+authors:
+- name: Ganve
+  reddit: G_a_n_v_e
+  id: ganve
+  source: reddit-post
+- name: XorPaw
+  reddit: XorPaw
+  id: xorpaw
+  source: reddit-post
+shared_by:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- ichinose-honami
+- ichika-amasawa
+tags:
+- debunk
+- rebunk
+language: en
+completion: unknown
+parts:
+- title: 'Ganve: Debunk of Ichinose''s Y3V1 feat against Ichika'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xwz6zp/debunk_of_ichinoses_y3v1_feat_againist_ichika_by/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 820
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 50783
+      sha256: 706439594bdbc82e3d425c9feb73b238b0447da95e5d2e9ee7b9bd7ac02ec3ca
+    - format: jpg
+      name: image-2.jpg
+      bytes: 53057
+      sha256: ea541f174f39a11c872da53741b57745e39d0bc3489d6f3989706a0925745d4f
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'XorPaw: Rebunk of Ganve''s debunk'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xxeebo/rebunk_of_debunk_of_ichinoses_y3v1_feat_againist/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2070
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Ganve: Debunk of Rebunk of Ichinose''s Y3V1 Feat Against Ichika'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1WPCSvv9QrZGZsiQBRDylHoebkw_yV_LQw1g9twNG-Bw
+    google_id: 1WPCSvv9QrZGZsiQBRDylHoebkw_yV_LQw1g9twNG-Bw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 12
+    words: 2152
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1101962
+      sha256: 511c9f15033dd738621f7447cef74443432d59f16fa1384c87b9dbd20f5cfea9
+    - format: docx
+      name: document.docx
+      bytes: 1940591
+      sha256: c3a4e1d1e41b4eb3e5b0e9618284e6562c3c09e81ca91f09a07ceb66f1a0fd45
+    text:
+      file: text-3.txt
+      method: google-export
+    blocks:
+      file: blocks-3.json
+      v: 1
+- title: 'XorPaw: rebunk of Debunk of Rebunk of Ichinose''s Y3V1 Feat Against Ichika'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1XIam2e6Uaw0MkRpLlVcNGQNmlVjZz3X8KJN0FziQGT0
+    google_id: 1XIam2e6Uaw0MkRpLlVcNGQNmlVjZz3X8KJN0FziQGT0
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 8
+    words: 2958
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 183978
+      sha256: 008d623d5f94de43787a45d7b8b42d7e88e7bcaa4e970af6dc9c8f35d42aebdc
+    - format: docx
+      name: document.docx
+      bytes: 16615
+      sha256: 1ac1cd0f54cedecb40c8a379eb23f2e28b16f13ec4e7010f4f449baf6b8ef1cc
+    text:
+      file: text-4.txt
+      method: google-export
+    blocks:
+      file: blocks-4.json
+      v: 1
+- title: 'Ganve: Debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=13DVvfoiZzfhQ3_aJoZHBHfxP8GE01A5Z0_nGa5o3mXs
+    google_id: 13DVvfoiZzfhQ3_aJoZHBHfxP8GE01A5Z0_nGa5o3mXs
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 20
+    words: 2816
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 2021055
+      sha256: a8670c2170aec59ee11592cb1e05d3a68e4bea94221b2eccb009be962890f80a
+    - format: docx
+      name: document.docx
+      bytes: 1444852
+      sha256: 23b024b74da52a869489c9937c2aed10c75d1613c5d6d976c1b38b8aa9c4672b
+    text:
+      file: text-5.txt
+      method: google-export
+    blocks:
+      file: blocks-5.json
+      v: 1
+- title: 'XorPaw: rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ng2OR3HOPEPCfc7GIheI_fASqGgCOmUbl2nLuEinGZo
+    google_id: 1ng2OR3HOPEPCfc7GIheI_fASqGgCOmUbl2nLuEinGZo
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 8
+    words: 3353
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 181576
+      sha256: b61a0c92b319c1235174a605d95fd6bbe896b8809d80940b34c0c182fcdd95f2
+    - format: docx
+      name: document.docx
+      bytes: 16358
+      sha256: 003580cf57c94d469226cf311f5f90331760507c5f3831c7593d708de85496e4
+    text:
+      file: text-6.txt
+      method: google-export
+    blocks:
+      file: blocks-6.json
+      v: 1
+- title: 'Ganve: Debunk (round 4) of honami y3v1 ichika feat'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1erAFya_jh0V0p_a_Sw98MRawbgStwHzYvUUBlL-wL-s
+    google_id: 1erAFya_jh0V0p_a_Sw98MRawbgStwHzYvUUBlL-wL-s
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 23
+    words: 3108
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 3219901
+      sha256: d51db34bee5b19b463fdf786dcecd6110b41bae24684d2d51b016a4244be5323
+    - format: docx
+      name: document.docx
+      bytes: 2239910
+      sha256: 4da4b0a510f5cf6fedd9512b35c9441f1a9661905c8df17477109c11b669ff1f
+    text:
+      file: text-7.txt
+      method: google-export
+    blocks:
+      file: blocks-7.json
+      v: 1
+- title: 'XorPaw: rebunk (round 4) of honami y3v1 ichika feat'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Yf0j-MIMy-qHj7L5P_hoV-YR3fdTnJUtQvsMriUyF9s
+    google_id: 1Yf0j-MIMy-qHj7L5P_hoV-YR3fdTnJUtQvsMriUyF9s
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 7
+    words: 2683
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 334746
+      sha256: 874fa958ace4c267c3f0c2f04e37b8a73ba3f38169bc3ddfa8807351e8d588e3
+    - format: docx
+      name: document.docx
+      bytes: 184946
+      sha256: 741fbc4315fc042d5b02ed9959aa9e59ec8027bab7501708bece21cbd0a3b85e
+    text:
+      file: text-8.txt
+      method: google-export
+    blocks:
+      file: blocks-8.json
+      v: 1
+- title: 'Ganve: (Final) debunk of honami y3v1 ichika feat'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1KjF_LThvg1nk3bnKhJvC3Uqz4WeS5DV0U6Ef9Fegz0Y
+    google_id: 1KjF_LThvg1nk3bnKhJvC3Uqz4WeS5DV0U6Ef9Fegz0Y
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 19
+    words: 3473
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 1975164
+      sha256: d17a57efab32ca0b72253795a77a6dd9933b2e00b74488ce43e14ecbf504e733
+    - format: docx
+      name: document.docx
+      bytes: 1642254
+      sha256: b0e7e08dfa16e4f89d83159bf5d53c5d119be6730aa07923c5de327fb57b522b
+    text:
+      file: text-9.txt
+      method: google-export
+    blocks:
+      file: blocks-9.json
+      v: 1
+- title: 'XorPaw: rebunk of "final" debunk of honami y3v1 ichika feat'
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1l31pJDCwsBKEcU8llzgNDMZ-XnAoiIPl93a5jupSkZ0
+    google_id: 1l31pJDCwsBKEcU8llzgNDMZ-XnAoiIPl93a5jupSkZ0
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 6
+    words: 2172
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 399147
+      sha256: e6a7711d6fa2dc443b9c07e395bdd353e15c508e75a7585c505611983f11b5ce
+    - format: docx
+      name: document.docx
+      bytes: 324906
+      sha256: 3a02b0192ea56a46a7c1d90150405ef2682afa73f1869ccfa2f7f27cf456bd36
+    text:
+      file: text-10.txt
+      method: google-export
+    blocks:
+      file: blocks-10.json
+      v: 1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xxiiom/
+  note: 'Shared by u/G_a_n_v_e in a post on 2026-11-16: Debunk of Xorpw Rebunk of Ichinose''s Y3V1 Feat Against Ichika - by Ganve'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xy2qus/
+  note: 'Shared by u/XorPaw in a post on 2026-11-16: rebunk of debunk of rebunk of debunk of honami''s y3v1 ichika feat'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xy62g0/
+  note: 'Shared by u/G_a_n_v_e in a post on 2026-11-17: Debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat - by me (lol)'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xyg24b/
+  note: 'Shared by u/XorPaw in a post on 2026-11-17: rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xyxcz1/
+  note: 'Shared by u/G_a_n_v_e in a post on 2026-11-17: Debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika feat - by m'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xzbfiw/
+  note: 'Shared by u/XorPaw in a post on 2026-11-18: rebunk of debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of honami y3v1 ichika f'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xzmle5/
+  note: 'Shared by u/G_a_n_v_e in a post on 2026-11-18: (Final) Debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of ho'
+- type: reddit-post
+  url: https://www.reddit.com/comments/1y01ojj/
+  note: 'Shared by u/XorPaw in a post on 2026-11-19: rebunk of "final" debunk of rebunk of debunk of rebunk of debunk of rebunk of debunk of rebunk of de'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

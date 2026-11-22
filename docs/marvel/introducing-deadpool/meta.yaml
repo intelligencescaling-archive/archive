@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: introducing-deadpool
+category: doc
+title: 'Introducing: Deadpool'
+alt_titles:
+- 'Introducing: Deadpool.'
+authors:
+- name: clockmann_050308
+  reddit: clockmann_050308
+  id: clockmann-050308
+  source: reddit-post
+series:
+- marvel
+characters:
+- deadpool
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xxglgv/introducing_deadpool/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1757
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 67003
+      sha256: 4e2055e7f415c0bae5554a399fe9ce66843ddd984a300dd0a8df1e34b0197e66
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

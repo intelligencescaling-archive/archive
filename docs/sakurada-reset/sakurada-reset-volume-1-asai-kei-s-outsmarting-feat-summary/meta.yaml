@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sakurada-reset-volume-1-asai-kei-s-outsmarting-feat-summary
+category: doc
+title: 'Sakurada Reset Volume 1: Asai Kei''s Outsmarting Feat Summary'
+alt_titles:
+- sakurada reset volume 1 asai kei's outsmarting feat summary
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- sakurada-reset
+characters:
+- asai-kei
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xxlvht/sakurada_reset_volume_1_asai_keis_outsmarting/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 6528
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1013946
+      sha256: 0582823f63333bc4d5e19ab515bb1b1e3c3fd83fddd32ad10c28b0a867a02920
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
+  - series

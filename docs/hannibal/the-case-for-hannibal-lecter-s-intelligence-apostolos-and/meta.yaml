@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-case-for-hannibal-lecter-s-intelligence-apostolos-and
+category: doc
+title: 'The Case for Hannibal Lecter''s Intelligence: Apóstolos and His Respondent'
+alt_titles:
+- Hannibal Lecter The Debate on His Intelligence (2)
+- Apóstolos vs. Mxyzptlk | An in-depth analysis of both documents, followed by a conclusion determining who won the exchange
+- 'Apóstolos vs. Mxyzptlk: an in-depth analysis of both documents'
+- 'Hannibal Lecter: The Debate on His Intelligence'
+authors:
+- name: Interesting_Gap4343
+  reddit: Interesting_Gap4343
+  id: interesting-gap4343
+  source: submission
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1nFyR1id4xzKkN9lvQ4m9r4X6LCbeovI-
+    google_id: 1nFyR1id4xzKkN9lvQ4m9r4X6LCbeovI-
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 5385
+    files:
+    - format: docx
+      name: Hannibal_Lecter_The_Debate_on_His_Intelligence (2).docx
+      bytes: 146191
+      sha256: 9ac26520fe473b5173177ef6e64b889d12d0efd781e39d251e0cc47d3cd25146
+    text:
+      file: text.txt
+      method: docx-extract
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1y2l4ck/
+  note: 'Shared by u/Interesting_Gap4343 in a post on 2026-11-22: Apóstolos vs. Mxyzptlk | An in-depth analysis of both documents, followed by a conclusion determinin'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

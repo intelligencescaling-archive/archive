@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kimura-kei-vs-l
+category: doc
+title: Kimura Kei vs L
+alt_titles:
+- Kimura Kei vs L • u/IncidentIll7680
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: submission
+series:
+- liar-game
+- death-note
+characters:
+- kimura-kei
+- l-lawliet
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=16zclzlfq_jnC5PxgHJ9QQmncE_eKJk94hlTnMR5FtZA
+    google_id: 16zclzlfq_jnC5PxgHJ9QQmncE_eKJk94hlTnMR5FtZA
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 1
+    words: 49
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 39081
+      sha256: 5bbc38e14a6db9a20347d4fedc039004c323e2f63bae28a6abc72e1c7b989725
+    - format: docx
+      name: document.docx
+      bytes: 10580
+      sha256: 5672481c484396a7c5001d069ed9480d5a5d9c02ea22db0627f43f3eac24ea29
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

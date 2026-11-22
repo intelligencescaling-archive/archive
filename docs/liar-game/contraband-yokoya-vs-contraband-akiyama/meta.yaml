@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: contraband-yokoya-vs-contraband-akiyama
+category: doc
+title: Contraband Yokoya vs Contraband Akiyama
+alt_titles:
+- '[downsizing-] contraband Yokoya vs [100m yen-] contraband Akiyama • u/IncidentIll7680'
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: submission
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+- akiyama-shinichi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1mO5Ysvf5BVGmwHALz2RqOAK_ehY840sE3PcIjE0_qKw
+    google_id: 1mO5Ysvf5BVGmwHALz2RqOAK_ehY840sE3PcIjE0_qKw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 1
+    words: 54
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 44866
+      sha256: f599588de9e11aff85e32e029a7d3cb4f627183bd1136ce993757dc20af95017
+    - format: docx
+      name: document.docx
+      bytes: 10795
+      sha256: f54a0234be7cc9b5011943d2e78a031de7d089eb967b7009c38255b761fe8a23
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

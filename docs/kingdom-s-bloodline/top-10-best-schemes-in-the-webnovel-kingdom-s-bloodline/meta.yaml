@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: top-10-best-schemes-in-the-webnovel-kingdom-s-bloodline
+category: doc
+title: Top 10 Best Schemes in the Webnovel Kingdom's Bloodline
+alt_titles:
+- TOP 10 BEST SCHEMES IN THE ENTIRE WEBNOVEL KINGDOM'S BLOODLINE
+authors:
+- name: Melodic_Ad1005
+  reddit: Melodic_Ad1005
+  id: melodic-ad1005
+  source: reddit-post
+series:
+- kingdom-s-bloodline
+characters: []
+tags:
+- ranking
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xzrw9j/top_10_best_schemes_in_the_entire_webnovel/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1361
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 229534
+      sha256: f8144e9476bd88ab8e743cb86f0c2503b07173459daec3827134162baf57a4ac
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
+  - series

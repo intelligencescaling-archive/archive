@@ -97,6 +97,9 @@
 - id: arsene-lupin
   name: Arsene Lupin
   series: lupin
+- id: asai-kei
+  name: Asai Kei
+  series: sakurada-reset
 - id: ashe-bradley
   name: Ashe Bradley
   series: witch-s-heart
@@ -240,6 +243,9 @@
   series: bungo-stray-dogs
   aliases:
   - Osamu Dazai
+- id: deadpool
+  name: Deadpool
+  series: marvel
 - id: desir-arman
   name: Desir Arman
   series: a-returner-s-magic-should-be-special
@@ -325,6 +331,9 @@
   name: Frederick II
   series: history
   real: true
+- id: free-de-la-hoya
+  name: Free De La Hoya
+  series: beyblade-burst
 - id: friend
   name: Friend
   series: 20th-century-boys
@@ -758,6 +767,9 @@
 - id: luz-noceda
   name: Luz Noceda
   series: the-owl-house
+- id: lysander-au-lune
+  name: Lysander au Lune
+  series: red-rising
 - id: mal
   name: Mal
   series: total-drama
@@ -863,12 +875,18 @@
 - id: nagumo-miyabi
   name: Nagumo Miyabi
   series: classroom-of-the-elite
+- id: nakamura-eiya
+  name: Nakamura Eiya
+  series: null
 - id: nambong-baek
   name: Nambong Baek
   series: dr-frost
 - id: nanno
   name: Nanno
   series: girl-from-nowhere
+- id: nao-kanzaki
+  name: Nao Kanzaki
+  series: liar-game
 - id: naomi-misora
   name: Naomi Misora
   series: death-note
@@ -913,6 +931,9 @@
 - id: norman
   name: Norman
   series: the-promised-neverland
+- id: notrick-case
+  name: Notrick Case
+  series: staffer-case
 - id: oberon-vortigern
   name: Oberon Vortigern
   series: fate
@@ -1147,6 +1168,9 @@
 - id: sou-hiyori
   name: Sou Hiyori
   series: your-turn-to-die
+- id: souma-sumire
+  name: Souma Sumire
+  series: sakurada-reset
 - id: sparkle
   name: Sparkle
   series: honkai-star-rail

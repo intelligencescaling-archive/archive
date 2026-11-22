@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: theodore-s-manipulation-of-free-de-la-hoya-god-bladers-cup
+category: doc
+title: Theodore's Manipulation of Free De La Hoya (God Bladers Cup)
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- beyblade-burst
+characters:
+- theodore-glass
+- free-de-la-hoya
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1y2eiss/theodores_manipulation_of_free_de_la_hoya_god/
+  capture:
+    status: partial
+    date: '2026-11-22'
+    words: 1312
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

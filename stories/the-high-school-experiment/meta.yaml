@@ -1,0 +1,1919 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-high-school-experiment
+category: story
+title: The High School Experiment
+alt_titles:
+- THSE CHAPTER 0.0
+- Trying to create the smartest mid/high tier
+- THSE CHAPTER 0.1
+- THSE CHAPTER 0.2
+- THSE CHAPTER 0.3
+- THSE CHAPTER 0.4
+- THSE CHAPTER 0.5
+- THSE CHAPTER 1.0
+- THSE CHAPTER 1.1
+- THSE CHAPTER 1.2
+- THSE CHAPTER 1.3
+- THSE CHAPTER 1.4
+- THSE CHAPTER 1.5
+- THSE CHAPTER 2.0
+- THSE CHAPTER 2.1
+- THSE CHAPTER 3.0
+- THSE CHAPTER 3.1
+- THSE CHAPTER 3.2
+- THSE CHAPTER 4.0
+- THSE CHAPTER 4.1
+- THSE CHAPTER 4.2
+- THSE CHAPTER 4.3
+- THSE CHAPTER 5.0
+- THSE CHAPTER 6.0
+- THSE CHAPTER 7.0
+- THSE CHAPTER 7.1
+- THSE CHAPTER 7.2
+- THSE CHAPTER 8.0
+- THSE CHAPTER 8.1
+- THSE CHAPTER 8.2
+- THSE CHAPTER 8.3
+- THSE CHAPTER 8.4
+- THSE CHAPTER 9.0
+- THSE CHAPTER 9.1
+- THSE CHAPTER 9.2
+- THSE CHAPTER 9.3
+- THSE CHAPTER 9.4
+- THSE CHAPTER 9.5
+- THSE CHAPTER 9.6
+- THSE CHAPTER 10.0
+- THSE CHAPTER 11.0
+- THSE CHAPTER 11.1
+- THSE CHAPTER 11.2
+- THSE CHAPTER 11.3
+- THSE CHAPTER 12.0
+- THSE CHAPTER 12.1
+- THSE CHAPTER 12.2
+- THSE CHAPTER 12.3
+- THSE CHAPTER 13.0
+- THSE CHAPTER 14.0
+- THSE CHAPTER 14.1
+- THSE CHAPTER 14.2
+- THSE CHAPTER 15.0
+- THSE CHAPTER 16.0
+- THSE CHAPTER 16.1
+- THSE CHAPTER 16.2
+- THSE CHAPTER 16.3
+- THSE CHAPTER 16.4
+- THSE CHAPTER 16.5
+- THSE CHAPTER 16.6
+- THSE CHAPTER 16.7
+- THSE CHAPTER 16.8
+- THSE CHAPTER 17.0
+- THSE CHAPTER 17.1
+- THSE CHAPTER 17.2
+- THSE CHAPTER 17.3
+- THSE CHAPTER 17.4
+- THSE CHAPTER 18.0
+- THSE CHAPTER 18.1
+- THSE CHAPTER 18.2
+- THSE CHAPTER 18.3
+- THSE CHAPTER 19.0
+- THSE CHAPTER 19.1
+- THSE CHAPTER 19.2
+- THSE CHAPTER 20.0
+- THSE CHAPTER 20.1
+- THSE CHAPTER 20.2
+- THSE CHAPTER 21.0
+- THSE CHAPTER 22.0
+- THSE CHAPTER 23.0
+- THSE CHAPTER 23.1
+- THSE CHAPTER 23.2
+- THSE CHAPTER 23.3
+- Everything you need to know about THSE
+authors:
+- name: eleo_rulz
+  reddit: eleo_rulz
+  id: eleo-rulz
+  source: reddit-post
+series: []
+characters:
+- nakamura-eiya
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: Chapter 0.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DWppGp3-5lvD5eanQrld2QFN8EUL9QsS
+    google_id: 1DWppGp3-5lvD5eanQrld2QFN8EUL9QsS
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1785
+    files:
+    - format: docx
+      name: THSE CHAPTER 0.0.docx
+      bytes: 146715
+      sha256: 8d977aaea07072db55023edce18ac7782c38e16c94d5758e21730e239f4bfc85
+    text:
+      file: text-1.txt
+      method: docx-extract
+    blocks:
+      file: blocks-1.json
+      v: 1
+- title: Chapter 0.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DUfpBWG8hL7iY237lgxA6hOuiVRRwpuK
+    google_id: 1DUfpBWG8hL7iY237lgxA6hOuiVRRwpuK
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3209
+    files:
+    - format: docx
+      name: THSE CHAPTER 0.1.docx
+      bytes: 151034
+      sha256: 0478da454615dcf857f9604ed1587aceb8989863e1b31afa935326f5b308a466
+    text:
+      file: text-2.txt
+      method: docx-extract
+    blocks:
+      file: blocks-2.json
+      v: 1
+- title: Chapter 0.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EAwLWl02WbUU3BqECF9WWLPvkVsqQBLf
+    google_id: 1EAwLWl02WbUU3BqECF9WWLPvkVsqQBLf
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 4049
+    files:
+    - format: docx
+      name: THSE CHAPTER 0.2.docx
+      bytes: 153447
+      sha256: a5232b07488b151a87d1fde88f0571405dc0293c62178ace6b04bf5de23b1e8d
+    text:
+      file: text-3.txt
+      method: docx-extract
+    blocks:
+      file: blocks-3.json
+      v: 1
+- title: Chapter 0.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1D3ZfknUSLDGnbr40pdfdVV0PZa8T3q52
+    google_id: 1D3ZfknUSLDGnbr40pdfdVV0PZa8T3q52
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2180
+    files:
+    - format: docx
+      name: THSE CHAPTER 0.3.docx
+      bytes: 146985
+      sha256: 718847d8268de09682f425d4fc13b7311db42cfa38e85dec9afe7803537f3b36
+    text:
+      file: text-4.txt
+      method: docx-extract
+    blocks:
+      file: blocks-4.json
+      v: 1
+- title: Chapter 0.4
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1E_9dkTYoajZLHb_NBdDnX0FlfEuWRrux
+    google_id: 1E_9dkTYoajZLHb_NBdDnX0FlfEuWRrux
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2497
+    files:
+    - format: docx
+      name: THSE CHAPTER 0.4.docx
+      bytes: 148043
+      sha256: 24f2e896ba9d3e3673963d10ac791f01e95415b30ffe8a6bfcf1ba8f56179e4a
+    text:
+      file: text-5.txt
+      method: docx-extract
+    blocks:
+      file: blocks-5.json
+      v: 1
+- title: Chapter 0.5
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DyXOcHn18-XsazpvdWPLNuIMU0fa5yWu
+    google_id: 1DyXOcHn18-XsazpvdWPLNuIMU0fa5yWu
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3232
+    files:
+    - format: docx
+      name: THSE CHAPTER 0.5.docx
+      bytes: 150501
+      sha256: 21723d98d1a4a4441dabfdfdf75cb419579352eed45929dd9beb94ccc845b89f
+    text:
+      file: text-6.txt
+      method: docx-extract
+    blocks:
+      file: blocks-6.json
+      v: 1
+- title: Chapter 1.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DOo_dWzsMh74g5urSqW0oiejXEdy3XgX
+    google_id: 1DOo_dWzsMh74g5urSqW0oiejXEdy3XgX
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1843
+    files:
+    - format: docx
+      name: THSE CHAPTER 1.0.docx
+      bytes: 146147
+      sha256: 2e3fd7a2331878fbd25ea49a5f85f44e012b595d56a1333c364c7034a6ff23a2
+    text:
+      file: text-7.txt
+      method: docx-extract
+    blocks:
+      file: blocks-7.json
+      v: 1
+- title: Chapter 1.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DiWJyHyXuKATWzl2piE9kpoFTp0orKdv
+    google_id: 1DiWJyHyXuKATWzl2piE9kpoFTp0orKdv
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1977
+    files:
+    - format: docx
+      name: THSE CHAPTER 1.1.docx
+      bytes: 146616
+      sha256: 8a7f83b2d59e596d498f5b5749c20da3c8fd5b2455cd689f019f637f819c220c
+    text:
+      file: text-8.txt
+      method: docx-extract
+    blocks:
+      file: blocks-8.json
+      v: 1
+- title: Chapter 1.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Eiik1yQ1xzWU-pTkTLU6dSwpQXIMSnhp
+    google_id: 1Eiik1yQ1xzWU-pTkTLU6dSwpQXIMSnhp
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1887
+    files:
+    - format: docx
+      name: THSE CHAPTER 1.2.docx
+      bytes: 146212
+      sha256: c5bd3fbdb0ac56b03592825e4ed72f00b1fb747c8b5711a2a56816bd11b616d8
+    text:
+      file: text-9.txt
+      method: docx-extract
+    blocks:
+      file: blocks-9.json
+      v: 1
+- title: Chapter 1.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EQqeZ8IkXQh43EEl8x3EodaqDIDM9TOs
+    google_id: 1EQqeZ8IkXQh43EEl8x3EodaqDIDM9TOs
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2352
+    files:
+    - format: docx
+      name: THSE CHAPTER 1.3.docx
+      bytes: 148017
+      sha256: d75e9d4f08d0ccd9393061f800e030955fa481333343c390abbdd4ed5c115410
+    text:
+      file: text-10.txt
+      method: docx-extract
+    blocks:
+      file: blocks-10.json
+      v: 1
+- title: Chapter 1.4
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DZJDByWtKZUOEfpQQsdKIL8yLySBBst2
+    google_id: 1DZJDByWtKZUOEfpQQsdKIL8yLySBBst2
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2342
+    files:
+    - format: docx
+      name: THSE CHAPTER 1.4.docx
+      bytes: 147780
+      sha256: 52bf9e81fc39f885101464cb136c3afd5d03141964d534bd6ff2bf14af7cdcc4
+    text:
+      file: text-11.txt
+      method: docx-extract
+    blocks:
+      file: blocks-11.json
+      v: 1
+- title: Chapter 1.5
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1D6FHtU849gA-gV_QYGN_S-K5jkhJOMO-
+    google_id: 1D6FHtU849gA-gV_QYGN_S-K5jkhJOMO-
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2978
+    files:
+    - format: docx
+      name: THSE CHAPTER 1.5.docx
+      bytes: 149033
+      sha256: d312e959c7017b881e302f9d29d7602b13e8808fb808314c6da6e76a6e45b7c5
+    text:
+      file: text-12.txt
+      method: docx-extract
+    blocks:
+      file: blocks-12.json
+      v: 1
+- title: Chapter 2.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DaNOlK9WkANeZZuQTgHc2u4nc-BAAad4
+    google_id: 1DaNOlK9WkANeZZuQTgHc2u4nc-BAAad4
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2559
+    files:
+    - format: docx
+      name: THSE CHAPTER 2.0.docx
+      bytes: 147945
+      sha256: a37986f071c4a2947f56c548aae4b8d6862d21c396fd5e403fb18ba4dbd919ac
+    text:
+      file: text-13.txt
+      method: docx-extract
+    blocks:
+      file: blocks-13.json
+      v: 1
+- title: Chapter 2.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1D8ucN3R9TkIRlWDLf5FfxEZKVdzc-ppZ
+    google_id: 1D8ucN3R9TkIRlWDLf5FfxEZKVdzc-ppZ
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3294
+    files:
+    - format: docx
+      name: THSE CHAPTER 2.1.docx
+      bytes: 150666
+      sha256: 921be5386ad9898c6e9db1532474a1d6b3bff98106c1e1c0c731cfcb7183a466
+    text:
+      file: text-14.txt
+      method: docx-extract
+    blocks:
+      file: blocks-14.json
+      v: 1
+- title: Chapter 3.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1DGanpBedDWelX2sM4QTEoMgiGbkHPt6f
+    google_id: 1DGanpBedDWelX2sM4QTEoMgiGbkHPt6f
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1101
+    files:
+    - format: docx
+      name: THSE CHAPTER 3.0.docx
+      bytes: 144152
+      sha256: cf1e54426c1707c5d031b02547574b761ed6510d1ba4aa747aedbe97d746dd69
+    text:
+      file: text-15.txt
+      method: docx-extract
+    blocks:
+      file: blocks-15.json
+      v: 1
+- title: Chapter 3.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1D2Tx2XMX8-dA-MOrYXbXsDLfuOqLUEAD
+    google_id: 1D2Tx2XMX8-dA-MOrYXbXsDLfuOqLUEAD
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2568
+    files:
+    - format: docx
+      name: THSE CHAPTER 3.1.docx
+      bytes: 148545
+      sha256: baeda52152e7b64e963ffe4ef716fd4675e513fdf3086f4b827aa05d83441256
+    text:
+      file: text-16.txt
+      method: docx-extract
+    blocks:
+      file: blocks-16.json
+      v: 1
+- title: Chapter 3.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EEi3jOBeVMWG9UkevlGKmHcOsOZOzhsw
+    google_id: 1EEi3jOBeVMWG9UkevlGKmHcOsOZOzhsw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1778
+    files:
+    - format: docx
+      name: THSE CHAPTER 3.2.docx
+      bytes: 145683
+      sha256: b6baa8c3372f287d68aed46eadfc08718687eb401b1b33b5ec2da1d5b07e43bd
+    text:
+      file: text-17.txt
+      method: docx-extract
+    blocks:
+      file: blocks-17.json
+      v: 1
+- title: Chapter 4.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1D7iWwWIL8TqPqfkptbF2WcLMoih9PoLT
+    google_id: 1D7iWwWIL8TqPqfkptbF2WcLMoih9PoLT
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1583
+    files:
+    - format: docx
+      name: THSE CHAPTER 4.0.docx
+      bytes: 145565
+      sha256: fd6b9d850b27a72e4db5d318f12a52547943c19a9e1e1626325e88115fbcc727
+    text:
+      file: text-18.txt
+      method: docx-extract
+    blocks:
+      file: blocks-18.json
+      v: 1
+- title: Chapter 4.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EdCUb-MVBSDiD5dwFm9xDMdOTHWoiTu6
+    google_id: 1EdCUb-MVBSDiD5dwFm9xDMdOTHWoiTu6
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 627
+    files:
+    - format: docx
+      name: THSE CHAPTER 4.1.docx
+      bytes: 142697
+      sha256: 294add5b3f0aad34e34fc13c8f1e6e2c3a59ca413b2c4135ff4a836d5890a87b
+    text:
+      file: text-19.txt
+      method: docx-extract
+    blocks:
+      file: blocks-19.json
+      v: 1
+- title: Chapter 4.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Dh9a4sWez0LgbUxFIuY9slbLtvZEgDyo
+    google_id: 1Dh9a4sWez0LgbUxFIuY9slbLtvZEgDyo
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 710
+    files:
+    - format: docx
+      name: THSE CHAPTER 4.2.docx
+      bytes: 142957
+      sha256: 06baaf96622a618db140fe4c73fc155b4d04a3bc0c7bca2a6685c60a73d6eb99
+    text:
+      file: text-20.txt
+      method: docx-extract
+    blocks:
+      file: blocks-20.json
+      v: 1
+- title: Chapter 4.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Dyk2kZooYAGG0IoDSiV7UiVs4Pdi_1Qb
+    google_id: 1Dyk2kZooYAGG0IoDSiV7UiVs4Pdi_1Qb
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2064
+    files:
+    - format: docx
+      name: THSE CHAPTER 4.3.docx
+      bytes: 146896
+      sha256: e3fa8160a3ab2f497a59c88af4b2b2428b058b744d0188b2a24d3ef87498352f
+    text:
+      file: text-21.txt
+      method: docx-extract
+    blocks:
+      file: blocks-21.json
+      v: 1
+- title: Chapter 5.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EY2wgVPTjC2RZSThpmeeH0PRw7EXVs-L
+    google_id: 1EY2wgVPTjC2RZSThpmeeH0PRw7EXVs-L
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3635
+    files:
+    - format: docx
+      name: THSE CHAPTER 5.0.docx
+      bytes: 151451
+      sha256: fb9150540756842efd7118ecce929689dcda448db0ff3a38a71e170f3b589c8a
+    text:
+      file: text-22.txt
+      method: docx-extract
+    blocks:
+      file: blocks-22.json
+      v: 1
+- title: Chapter 6.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Eki0_Zs9mPK_hkSgvHOuNV85MWciwTiJ
+    google_id: 1Eki0_Zs9mPK_hkSgvHOuNV85MWciwTiJ
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 923
+    files:
+    - format: docx
+      name: THSE CHAPTER 6.0.docx
+      bytes: 143326
+      sha256: 454b13b2bf8779dcc1ecc44a60fb4937c9e236795db09454554b4ee72adba263
+    text:
+      file: text-23.txt
+      method: docx-extract
+    blocks:
+      file: blocks-23.json
+      v: 1
+- title: Chapter 7.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FX5CUahfylOFki8cTHUNGBGUmP6E3SN0
+    google_id: 1FX5CUahfylOFki8cTHUNGBGUmP6E3SN0
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1779
+    files:
+    - format: docx
+      name: THSE CHAPTER 7.0.docx
+      bytes: 146215
+      sha256: fe41baeefce91389634a5eaa78bd8a459a2a576a0fc160a5bcd9035b9be3dee2
+    text:
+      file: text-24.txt
+      method: docx-extract
+    blocks:
+      file: blocks-24.json
+      v: 1
+- title: Chapter 7.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FC7I9POPcst-Y0u_5CJUmkCjXOYBLi4V
+    google_id: 1FC7I9POPcst-Y0u_5CJUmkCjXOYBLi4V
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3227
+    files:
+    - format: docx
+      name: THSE CHAPTER 7.1.docx
+      bytes: 149961
+      sha256: 24b0dbfc8d198d3729793d4f5ff92ffb90f9625e1ae682ea573d147316104ddc
+    text:
+      file: text-25.txt
+      method: docx-extract
+    blocks:
+      file: blocks-25.json
+      v: 1
+- title: Chapter 7.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FMVmdBGL1Gw39ysXW4qFqvZE7XFEElDY
+    google_id: 1FMVmdBGL1Gw39ysXW4qFqvZE7XFEElDY
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3470
+    files:
+    - format: docx
+      name: THSE CHAPTER 7.2.docx
+      bytes: 150567
+      sha256: 4e50802f1d802a17bb18ea39dd1efe98c16a3bfada09e8d7cb090434205c9c48
+    text:
+      file: text-26.txt
+      method: docx-extract
+    blocks:
+      file: blocks-26.json
+      v: 1
+- title: Chapter 8.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FeCfOvCXVGYHiLOHOgzw0VIWH7GO56Cy
+    google_id: 1FeCfOvCXVGYHiLOHOgzw0VIWH7GO56Cy
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1420
+    files:
+    - format: docx
+      name: THSE CHAPTER 8.0.docx
+      bytes: 145176
+      sha256: f1d09c287cac90447a499475738dbea6303b7e9e6062f3bca2fee74bca523544
+    text:
+      file: text-27.txt
+      method: docx-extract
+    blocks:
+      file: blocks-27.json
+      v: 1
+- title: Chapter 8.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FSA6Ssz5n-IamaXMo2FqwrU8uFGtUjAw
+    google_id: 1FSA6Ssz5n-IamaXMo2FqwrU8uFGtUjAw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1807
+    files:
+    - format: docx
+      name: THSE CHAPTER 8.1.docx
+      bytes: 146333
+      sha256: 207558aa843adb0f71e26a314ad2a4a9ad4c79bac5fe9ad0b43cf283030eb78b
+    text:
+      file: text-28.txt
+      method: docx-extract
+    blocks:
+      file: blocks-28.json
+      v: 1
+- title: Chapter 8.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1F5_HoDKPf1936-MBW3yxof7YBVs8uphY
+    google_id: 1F5_HoDKPf1936-MBW3yxof7YBVs8uphY
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2522
+    files:
+    - format: docx
+      name: THSE CHAPTER 8.2.docx
+      bytes: 148229
+      sha256: feac60d84d9488966899f41fbec2f8f824bd7565593be46523c6c5ab4c18dfc1
+    text:
+      file: text-29.txt
+      method: docx-extract
+    blocks:
+      file: blocks-29.json
+      v: 1
+- title: Chapter 8.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EoZKJpi5PwKCNYEXEVG33_PF_2tqZPdw
+    google_id: 1EoZKJpi5PwKCNYEXEVG33_PF_2tqZPdw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1529
+    files:
+    - format: docx
+      name: THSE CHAPTER 8.3.docx
+      bytes: 145352
+      sha256: e9d0ad39ab2f6c78f31da4440a4df4b9b02c31160d8c8baa917fae3cae0f5e19
+    text:
+      file: text-30.txt
+      method: docx-extract
+    blocks:
+      file: blocks-30.json
+      v: 1
+- title: Chapter 8.4
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1j-0b5ETMur3blUumaq5y-5cm7q0Z9ha8hesJV950r48
+    google_id: 1j-0b5ETMur3blUumaq5y-5cm7q0Z9ha8hesJV950r48
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 12
+    words: 2042
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 93947
+      sha256: 561b92c29c5cb5bafdf2fa81dce0ece69b8a8753676d8a66ea3fd06279c54f3b
+    - format: docx
+      name: document.docx
+      bytes: 13607
+      sha256: 146dc7a3392c7295736038f21565777795e53b05a50346002983a03ddc52849d
+    text:
+      file: text-31.txt
+      method: google-export
+    blocks:
+      file: blocks-31.json
+      v: 1
+- title: Chapter 9.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FByithpKbtFvusAN7B938B2iNcyWKyJd
+    google_id: 1FByithpKbtFvusAN7B938B2iNcyWKyJd
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2106
+    files:
+    - format: docx
+      name: THSE CHAPTER 9.0.docx
+      bytes: 146756
+      sha256: 67019a879c974aad31682190c71873d8dea8e49bcdd56409df2898c76cd75476
+    text:
+      file: text-32.txt
+      method: docx-extract
+    blocks:
+      file: blocks-32.json
+      v: 1
+- title: Chapter 9.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EyPjKa0fbtDrSgPelOqnU7mX__N--W-p
+    google_id: 1EyPjKa0fbtDrSgPelOqnU7mX__N--W-p
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1920
+    files:
+    - format: docx
+      name: THSE CHAPTER 9.1.docx
+      bytes: 146374
+      sha256: 130f48f43c5ebd20443588e8496168a3df5fd5b726500d10d8a4435c518617a6
+    text:
+      file: text-33.txt
+      method: docx-extract
+    blocks:
+      file: blocks-33.json
+      v: 1
+- title: Chapter 9.2
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1op381FC-Tp9CEeiBs6zRxmxctQyEra5wdUGdx99bqAY
+    google_id: 1op381FC-Tp9CEeiBs6zRxmxctQyEra5wdUGdx99bqAY
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 18
+    words: 2530
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 111270
+      sha256: d2ea09dcd10770a4744dc4bacd561de81721f7ca8be4c21bd54ca20719f76845
+    - format: docx
+      name: document.docx
+      bytes: 15198
+      sha256: b63de67fc02ff66dbae76e4452d31f67ae73efcc65faaf1d919d9c8a3cba9f3a
+    text:
+      file: text-34.txt
+      method: google-export
+    blocks:
+      file: blocks-34.json
+      v: 1
+- title: Chapter 9.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FjgQfGxxljIH0wL1zq7J-E_B5Z-LbsY1
+    google_id: 1FjgQfGxxljIH0wL1zq7J-E_B5Z-LbsY1
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2681
+    files:
+    - format: docx
+      name: THSE CHAPTER 9.3.docx
+      bytes: 148622
+      sha256: befce09000ca561b5569a090d1aa200cd55f3afdb1c8c6e1db2c2c706a69afa7
+    text:
+      file: text-35.txt
+      method: docx-extract
+    blocks:
+      file: blocks-35.json
+      v: 1
+- title: Chapter 9.4
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1G0c00vUcGDRfB8GNJT9nEF8Q3uRN_5po-T2i4IYlDcc
+    google_id: 1G0c00vUcGDRfB8GNJT9nEF8Q3uRN_5po-T2i4IYlDcc
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 16
+    words: 2837
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 127734
+      sha256: edef1180554d29980a67e2e6d9964ea39529526b2aebb306853cb76ded2d677d
+    - format: docx
+      name: document.docx
+      bytes: 15820
+      sha256: efb18c09d81d3aa7db5734eaaa7e521af9d11577c4907a3d322fda67bfc2db1e
+    text:
+      file: text-36.txt
+      method: google-export
+    blocks:
+      file: blocks-36.json
+      v: 1
+- title: Chapter 9.5
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FaprU1pgAGg2mroi9MEs6b3nOUidQ4s_
+    google_id: 1FaprU1pgAGg2mroi9MEs6b3nOUidQ4s_
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1274
+    files:
+    - format: docx
+      name: THSE CHAPTER 9.5.docx
+      bytes: 144500
+      sha256: 08fa751e7024ec3a9eaa293b7cf8ab06c58a0a1e60171a9baf786ecbe77fbbf2
+    text:
+      file: text-37.txt
+      method: docx-extract
+    blocks:
+      file: blocks-37.json
+      v: 1
+- title: Chapter 9.6
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1ErcX4MsXxM5JqeHB4Kyygm84XD040BS5
+    google_id: 1ErcX4MsXxM5JqeHB4Kyygm84XD040BS5
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3510
+    files:
+    - format: docx
+      name: THSE CHAPTER 9.6.docx
+      bytes: 151318
+      sha256: 01555f323d48bf93a8e6b32765dc12699cbf5a2f98dded666ead987caa58b331
+    text:
+      file: text-38.txt
+      method: docx-extract
+    blocks:
+      file: blocks-38.json
+      v: 1
+- title: Chapter 10.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FELlKDHJjJ2etIAfemCGKrKc2glVL0sJ
+    google_id: 1FELlKDHJjJ2etIAfemCGKrKc2glVL0sJ
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 928
+    files:
+    - format: docx
+      name: THSE CHAPTER 10.0.docx
+      bytes: 144166
+      sha256: e630d34d9327424d31e93f7cd7b45255693dbf0a6507db3c14d237d0e1884d65
+    text:
+      file: text-39.txt
+      method: docx-extract
+    blocks:
+      file: blocks-39.json
+      v: 1
+- title: Chapter 11.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FXJ0dXhfC4vzCy-jfYpqWVdj3VzfQKt0
+    google_id: 1FXJ0dXhfC4vzCy-jfYpqWVdj3VzfQKt0
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2974
+    files:
+    - format: docx
+      name: THSE CHAPTER 11.0.docx
+      bytes: 149352
+      sha256: b35d68aaf480f3259cc04dd7d6b775779c546043fc8762100474eb5f608da140
+    text:
+      file: text-40.txt
+      method: docx-extract
+    blocks:
+      file: blocks-40.json
+      v: 1
+- title: Chapter 11.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1ErnEF-eW0wvJYf5tC7xGT28OB0FYJ3C3
+    google_id: 1ErnEF-eW0wvJYf5tC7xGT28OB0FYJ3C3
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3438
+    files:
+    - format: docx
+      name: THSE CHAPTER 11.1.docx
+      bytes: 150742
+      sha256: a1bf5a1485894160b80586cc7647d30167c3347660855a508dac35f1fa263512
+    text:
+      file: text-41.txt
+      method: docx-extract
+    blocks:
+      file: blocks-41.json
+      v: 1
+- title: Chapter 11.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1F0JiQWiKo33PxaEBV9xa0twrpyJ7TNIF
+    google_id: 1F0JiQWiKo33PxaEBV9xa0twrpyJ7TNIF
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 4154
+    files:
+    - format: docx
+      name: THSE CHAPTER 11.2.docx
+      bytes: 152964
+      sha256: c11cf7a5d02ff70a8f7ef6eb43c3c3b250ed9d0750262f78521d7cd5a8f321a8
+    text:
+      file: text-42.txt
+      method: docx-extract
+    blocks:
+      file: blocks-42.json
+      v: 1
+- title: Chapter 11.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FAHNU55VWw08OQOoS1u2dqbaZ2qnoFZo
+    google_id: 1FAHNU55VWw08OQOoS1u2dqbaZ2qnoFZo
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1731
+    files:
+    - format: docx
+      name: THSE CHAPTER 11.3.docx
+      bytes: 145842
+      sha256: 0780b98b3bac152a8afdb64d94f1fe5f843882a7213fbaa5be83bba14904661a
+    text:
+      file: text-43.txt
+      method: docx-extract
+    blocks:
+      file: blocks-43.json
+      v: 1
+- title: Chapter 12.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EpZULO3pD-ukcK8HQbkqZ98pGQoD4Mvd
+    google_id: 1EpZULO3pD-ukcK8HQbkqZ98pGQoD4Mvd
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1214
+    files:
+    - format: docx
+      name: THSE CHAPTER 12.0.docx
+      bytes: 144556
+      sha256: 14f0ceedcaf6848b3ff9243facce362c8322319afa0448fcacaa305017229883
+    text:
+      file: text-44.txt
+      method: docx-extract
+    blocks:
+      file: blocks-44.json
+      v: 1
+- title: Chapter 12.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EwysE1fGKVfxyhPA5-Ns095anLTIyf5w
+    google_id: 1EwysE1fGKVfxyhPA5-Ns095anLTIyf5w
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2574
+    files:
+    - format: docx
+      name: THSE CHAPTER 12.1.docx
+      bytes: 148578
+      sha256: 4a3b6fdd418c0ffb2a870fa97953cc1de2c944baea621593a41fa600ebc414b6
+    text:
+      file: text-45.txt
+      method: docx-extract
+    blocks:
+      file: blocks-45.json
+      v: 1
+- title: Chapter 12.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1F5sz9P5_vhOzhR-XQHb44e7KcPY0qeqA
+    google_id: 1F5sz9P5_vhOzhR-XQHb44e7KcPY0qeqA
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3039
+    files:
+    - format: docx
+      name: THSE CHAPTER 12.2.docx
+      bytes: 290235
+      sha256: 1916bb3d985896872e8828c52d6e83dbcc02a4499b54bae7fbf629a315649db2
+    text:
+      file: text-46.txt
+      method: docx-extract
+    blocks:
+      file: blocks-46.json
+      v: 1
+- title: Chapter 12.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Fj3GWuLXJw4Vaa2puSmyKbbEIyl5eI6N
+    google_id: 1Fj3GWuLXJw4Vaa2puSmyKbbEIyl5eI6N
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3787
+    files:
+    - format: docx
+      name: THSE CHAPTER 12.3.docx
+      bytes: 151780
+      sha256: f6c81507847c12d8acc8bf43b3f48812bbcc36bda68b50b508f57154b3b1489c
+    text:
+      file: text-47.txt
+      method: docx-extract
+    blocks:
+      file: blocks-47.json
+      v: 1
+- title: Chapter 13.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1EvVor6292porIdiZ4E-Qsx5V1KgXn-f0
+    google_id: 1EvVor6292porIdiZ4E-Qsx5V1KgXn-f0
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2968
+    files:
+    - format: docx
+      name: THSE CHAPTER 13.0.docx
+      bytes: 148554
+      sha256: e13d9c0a5b22faa410c032b7f731a5b66031975596dbc44580d0dbbbbb175996
+    text:
+      file: text-48.txt
+      method: docx-extract
+    blocks:
+      file: blocks-48.json
+      v: 1
+- title: Chapter 14.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Fn2tshqZkMNCkDF2FoitcstK8evDPf8n
+    google_id: 1Fn2tshqZkMNCkDF2FoitcstK8evDPf8n
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 5162
+    files:
+    - format: docx
+      name: THSE CHAPTER 14.0.docx
+      bytes: 156113
+      sha256: 438bc104c0d5439c3eaa5c4c374c6eb77016a57427ca1e22fee7735ba47a3439
+    text:
+      file: text-49.txt
+      method: docx-extract
+    blocks:
+      file: blocks-49.json
+      v: 1
+- title: Chapter 14.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1G14GgN1Q3Np0Tt7ibW6KaCDYLBi-UqG2
+    google_id: 1G14GgN1Q3Np0Tt7ibW6KaCDYLBi-UqG2
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2995
+    files:
+    - format: docx
+      name: THSE CHAPTER 14.1.docx
+      bytes: 148963
+      sha256: 51a57dd068972e84b73d4ef6a13978704e158ca69d186ef3b899a7031408f457
+    text:
+      file: text-50.txt
+      method: docx-extract
+    blocks:
+      file: blocks-50.json
+      v: 1
+- title: Chapter 14.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Ft8XhfBgKB_zpU1AfhoQaO0qOhD8EIG2
+    google_id: 1Ft8XhfBgKB_zpU1AfhoQaO0qOhD8EIG2
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1505
+    files:
+    - format: docx
+      name: THSE CHAPTER 14.2.docx
+      bytes: 144863
+      sha256: e7f6310149862760c0696684a7cd4b69e8e19a29a990a1a9caeb1009a5e0078f
+    text:
+      file: text-51.txt
+      method: docx-extract
+    blocks:
+      file: blocks-51.json
+      v: 1
+- title: Chapter 15.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1q3dtU5F13WZsThjPe1MN1x2zLli-SMC0KSObJvJWsNI
+    google_id: 1q3dtU5F13WZsThjPe1MN1x2zLli-SMC0KSObJvJWsNI
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 5
+    words: 1198
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 79046
+      sha256: 360d34b6aed3cbaefd4c958664aa232ec5c9d9267634b5c1cc49c6eadba21303
+    - format: docx
+      name: document.docx
+      bytes: 10010
+      sha256: 52c77314114c1478773da1792a9b962fd2bff17609381744c6c4c221a1aafdee
+    text:
+      file: text-52.txt
+      method: google-export
+    blocks:
+      file: blocks-52.json
+      v: 1
+- title: Chapter 16.0
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FsT3DSDdNpmC41WI8hJ5KMzzM7ARpmda
+    google_id: 1FsT3DSDdNpmC41WI8hJ5KMzzM7ARpmda
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1138
+    files:
+    - format: docx
+      name: THSE CHAPTER 16.0.docx
+      bytes: 144130
+      sha256: 7ead9713259269d1b119f7b147fd6b8610417601189e29baddc598e79f978ae2
+    text:
+      file: text-53.txt
+      method: docx-extract
+    blocks:
+      file: blocks-53.json
+      v: 1
+- title: Chapter 16.1
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1Fr-tYr8JOiTmrm5Fhk_iQ8kCxar7rHdq
+    google_id: 1Fr-tYr8JOiTmrm5Fhk_iQ8kCxar7rHdq
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 675
+    files:
+    - format: docx
+      name: THSE CHAPTER 16.1.docx
+      bytes: 142819
+      sha256: 39bcbeee530830731209560778380fa90d25cff70f296ee51677c74865a6c8e8
+    text:
+      file: text-54.txt
+      method: docx-extract
+    blocks:
+      file: blocks-54.json
+      v: 1
+- title: Chapter 16.2
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1FofFmWvMn1WwlYwVEglplKlJ_vn-c4qk
+    google_id: 1FofFmWvMn1WwlYwVEglplKlJ_vn-c4qk
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2342
+    files:
+    - format: docx
+      name: THSE CHAPTER 16.2.docx
+      bytes: 147438
+      sha256: ac6d98486680f0042c590f8a30d5985bba5ff2340021b64129c44ceac4a353d6
+    text:
+      file: text-55.txt
+      method: docx-extract
+    blocks:
+      file: blocks-55.json
+      v: 1
+- title: Chapter 16.3
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1KUJYHCLR6UvNb7pwQnc6o8gZ-1BZokuV
+    google_id: 1KUJYHCLR6UvNb7pwQnc6o8gZ-1BZokuV
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1439
+    files:
+    - format: docx
+      name: THSE CHAPTER 16.3.docx
+      bytes: 144675
+      sha256: 0708a82b3bb01aea2d502deeb2a1e95e049228f21269dd97082872fcdeae150e
+    text:
+      file: text-56.txt
+      method: docx-extract
+    blocks:
+      file: blocks-56.json
+      v: 1
+- title: Chapter 16.4
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1PtTdxcWZ5s9NWUjwBZ9hRPqMFVyyTs9q
+    google_id: 1PtTdxcWZ5s9NWUjwBZ9hRPqMFVyyTs9q
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 1645
+    files:
+    - format: docx
+      name: THSE CHAPTER 16.4.docx
+      bytes: 13078
+      sha256: 3d91f824ad70d394c6d95cb01453a2434116f7913ad5c020ef53d9ab61ac97c6
+    text:
+      file: text-57.txt
+      method: docx-extract
+    blocks:
+      file: blocks-57.json
+      v: 1
+- title: Chapter 16.5
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=18fyo4jctjxGSnvSLZjA6O8nguK_ozqHrT0wA76gg1AE
+    google_id: 18fyo4jctjxGSnvSLZjA6O8nguK_ozqHrT0wA76gg1AE
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 11
+    words: 2440
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 118046
+      sha256: b1365065b7f8a20875879e2693e6713ec3c1c1350192370d851bfb8665683949
+    - format: docx
+      name: document.docx
+      bytes: 14011
+      sha256: 319af9c6ba94a6a8ed9181f2c964cea6bddba1d81850a94621f23c72a340aa5d
+    text:
+      file: text-58.txt
+      method: google-export
+    blocks:
+      file: blocks-58.json
+      v: 1
+- title: Chapter 16.6
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1_amCkuiCnXkmTpPWFu_0ditL27X1VkqrRYlsX4X8PTs
+    google_id: 1_amCkuiCnXkmTpPWFu_0ditL27X1VkqrRYlsX4X8PTs
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 9
+    words: 1857
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 101076
+      sha256: 6485997c7130e7073b13556a80565ad8b97dd913dbadf63f2a7a3b536a46bcfa
+    - format: docx
+      name: document.docx
+      bytes: 12234
+      sha256: 3e4ec16c067d40f5463f5d72d13fb122da2dfdb2f8fcee5877df05c01bef9026
+    text:
+      file: text-59.txt
+      method: google-export
+    blocks:
+      file: blocks-59.json
+      v: 1
+- title: Chapter 16.7
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1m0P5m-F4J8Ew-P5USI5iiCd1LGQfqA-GP8mkyXWAcTs
+    google_id: 1m0P5m-F4J8Ew-P5USI5iiCd1LGQfqA-GP8mkyXWAcTs
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 16
+    words: 3527
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 146932
+      sha256: 08d5994464a1fb7daf6ea0b9fd11c6a55f88ea3216fc52a7e344dcffa3dd7e56
+    - format: docx
+      name: document.docx
+      bytes: 16546
+      sha256: dafff80236a4a3da92fd59187f34b0823cc884db58926764ca7cd6f9faa6fa51
+    text:
+      file: text-60.txt
+      method: google-export
+    blocks:
+      file: blocks-60.json
+      v: 1
+- title: Chapter 16.8
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VRRfLqdkOjOVh7mVAsSrnfFAse8mjBrIA9lC1DjV-Cg
+    google_id: 1VRRfLqdkOjOVh7mVAsSrnfFAse8mjBrIA9lC1DjV-Cg
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 8
+    words: 1532
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 88661
+      sha256: 2af663bf182024631dade6da5b7ff79b2a7bec1d98bb32b7cfb9e1702d5eb03c
+    - format: docx
+      name: document.docx
+      bytes: 11565
+      sha256: 4172c8e0f1141e79ab5a6bd4f5e1639731fb586cc9c6d231bdc91b6094b5bcdf
+    text:
+      file: text-61.txt
+      method: google-export
+    blocks:
+      file: blocks-61.json
+      v: 1
+- title: Chapter 17.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1r6OZyvlyJ0NgV84DhqgqzGJhJj3gsnHnm65R0wyUw5c
+    google_id: 1r6OZyvlyJ0NgV84DhqgqzGJhJj3gsnHnm65R0wyUw5c
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 9
+    words: 1986
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 101196
+      sha256: 8fd5287b555fded9b94944023ce22bedd30cdf060d6d43640c4e75887f3ccc42
+    - format: docx
+      name: document.docx
+      bytes: 12359
+      sha256: 78b53fb7737c0e2e5abc8a25201a71d36eb6f45180f3b4d3c6c30716ab7d6262
+    text:
+      file: text-62.txt
+      method: google-export
+    blocks:
+      file: blocks-62.json
+      v: 1
+- title: Chapter 17.1
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1W4naTLWbPBzAVHQlixwnyicRq8mPc7V_nF-Hxf-3pvc
+    google_id: 1W4naTLWbPBzAVHQlixwnyicRq8mPc7V_nF-Hxf-3pvc
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 8
+    words: 1728
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 74631
+      sha256: 48e99ee09b6c17f6b59d4c980ee5c6cbefc84f978ad50ebd15b55697b6b81d55
+    - format: docx
+      name: document.docx
+      bytes: 11466
+      sha256: 55b22123207bc6163456f0e747a1870661ee188ca130dfe26f5ebb2ecc74c26a
+    text:
+      file: text-63.txt
+      method: google-export
+    blocks:
+      file: blocks-63.json
+      v: 1
+- title: Chapter 17.2
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1tkdnW7DwmdXGFZPpZ9cdET4tJJOkzIVrTUrIfabwQRI
+    google_id: 1tkdnW7DwmdXGFZPpZ9cdET4tJJOkzIVrTUrIfabwQRI
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 6
+    words: 1271
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 81704
+      sha256: 64341a2fba64dfb8232304ecca3ed5efe1718ba97960af0ce2c781667386465c
+    - format: docx
+      name: document.docx
+      bytes: 10468
+      sha256: 9cb30e171e73021332442f657e31207ba76213bdf1519a3111c546dbb2dc424c
+    text:
+      file: text-64.txt
+      method: google-export
+    blocks:
+      file: blocks-64.json
+      v: 1
+- title: Chapter 17.3
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1xudqt3sliqoBy9z_DiAgilimGhC-SSd9YcFF3NdVAH0
+    google_id: 1xudqt3sliqoBy9z_DiAgilimGhC-SSd9YcFF3NdVAH0
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 16
+    words: 2998
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 138237
+      sha256: 07ccc38904eb55db160cccfabfb720580fbd4d35244316849f4a78aaf1dc703d
+    - format: docx
+      name: document.docx
+      bytes: 15798
+      sha256: c1ae7bc55d84885a3c74f191e391f14fa17d6ac6e0933d710ee0997473e56e84
+    text:
+      file: text-65.txt
+      method: google-export
+    blocks:
+      file: blocks-65.json
+      v: 1
+- title: Chapter 17.4
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1jQGuST8KuduFu3VVWaI6CdzVnGSg6CE6x0pYzm7Lc4w
+    google_id: 1jQGuST8KuduFu3VVWaI6CdzVnGSg6CE6x0pYzm7Lc4w
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 15
+    words: 3044
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 160439
+      sha256: 7883b5808b2c11b8ca68a5c0e2fa5f1f202adc8b657be6b6a6793dd5fb548e5a
+    - format: docx
+      name: document.docx
+      bytes: 15866
+      sha256: 8073c411bb8c8a6550d68d3d524c41f23d5f0f36b9204b679ff37f39e33c5bb2
+    text:
+      file: text-66.txt
+      method: google-export
+    blocks:
+      file: blocks-66.json
+      v: 1
+- title: Chapter 18.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14MtvVyGm5FXncL7CGo0iXchEBvFoPnfAtmRbf5Gnssw
+    google_id: 14MtvVyGm5FXncL7CGo0iXchEBvFoPnfAtmRbf5Gnssw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 10
+    words: 2193
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 118631
+      sha256: 29cdfc1643c45666f7da0924963ece0a6b2795a9b86c53fc52618823212051f3
+    - format: docx
+      name: document.docx
+      bytes: 13243
+      sha256: c4a4a50a4a3c7feb6baab9472dd89c4535db1f02c866d02df270e9849a4d037b
+    text:
+      file: text-67.txt
+      method: google-export
+    blocks:
+      file: blocks-67.json
+      v: 1
+- title: Chapter 18.1
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1CemsUJyo6NZSN54zJwDYvaOKNRMlFuBg1RH2-RnDugw
+    google_id: 1CemsUJyo6NZSN54zJwDYvaOKNRMlFuBg1RH2-RnDugw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 13
+    words: 2815
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 131180
+      sha256: 358613975904ef2146ed07b165ee99a19c4f67c2f9a4c70f914cc5190410be6d
+    - format: docx
+      name: document.docx
+      bytes: 15366
+      sha256: a9a635e3397840f21c88a638be521473ed43ede18a7b06c6d40fac580496297e
+    text:
+      file: text-68.txt
+      method: google-export
+    blocks:
+      file: blocks-68.json
+      v: 1
+- title: Chapter 18.2
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=19MIf1FaTH1-UXElPav15Fht8hhfqxq45F09aOXB6XnU
+    google_id: 19MIf1FaTH1-UXElPav15Fht8hhfqxq45F09aOXB6XnU
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 9
+    words: 1974
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 104237
+      sha256: a355fe1a1c7c839c42d232d332611c156822e6a97ee483d8157d85c5156074d3
+    - format: docx
+      name: document.docx
+      bytes: 12269
+      sha256: f973f6f4291755fca72570deeb1108576c0daef54e12c31873cb6ee7d1ea4865
+    text:
+      file: text-69.txt
+      method: google-export
+    blocks:
+      file: blocks-69.json
+      v: 1
+- title: Chapter 18.3
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1VoS01ENZGvM158ls23wSdlj-FT_p6hbQKLKr2c4qEeM
+    google_id: 1VoS01ENZGvM158ls23wSdlj-FT_p6hbQKLKr2c4qEeM
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 15
+    words: 3246
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 141404
+      sha256: 1cd0ca72cbbdd9b48a8c92fca4755447b9e0d50f6589fab885553274797f2168
+    - format: docx
+      name: document.docx
+      bytes: 16139
+      sha256: 64b6c8f5a3c0ebe61e535fe152110c4dec1782ed3cef9e00ca9e420448d8499d
+    text:
+      file: text-70.txt
+      method: google-export
+    blocks:
+      file: blocks-70.json
+      v: 1
+- title: Chapter 19.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1GomhbKxJZx69bxc0JDCybAfnB1y3j_a1Oyt2FIGk7Bo
+    google_id: 1GomhbKxJZx69bxc0JDCybAfnB1y3j_a1Oyt2FIGk7Bo
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 10
+    words: 2084
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 110973
+      sha256: 9eb64e5ea1e3ed2b030af7c248e40b470930a6d70424ae8794ca4365eee64340
+    - format: docx
+      name: document.docx
+      bytes: 13010
+      sha256: 47de398835a32a85a39e5d3eb91fd5b9242329ba8e9725d03d7d59d8cb072bed
+    text:
+      file: text-71.txt
+      method: google-export
+    blocks:
+      file: blocks-71.json
+      v: 1
+- title: Chapter 19.1
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1aBo5ZiRD2TxzoETJ_Npm3vfc8MYEt6pciF3z8Tba7gE
+    google_id: 1aBo5ZiRD2TxzoETJ_Npm3vfc8MYEt6pciF3z8Tba7gE
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 14
+    words: 3017
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 146072
+      sha256: caa4202afe552203fc97a0f2bf83386a04f4af060b0441c9c2a15c5289dbdeef
+    - format: docx
+      name: document.docx
+      bytes: 15573
+      sha256: 52644aa41d926d2fb6f79b295c9c4449d40f400d6144b6c3eaa37634b4849db9
+    text:
+      file: text-72.txt
+      method: google-export
+    blocks:
+      file: blocks-72.json
+      v: 1
+- title: Chapter 19.2
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lM9UahP7k7Q3OZvQHdJs1p9H36ARIf_jmC_5G2XRTdo
+    google_id: 1lM9UahP7k7Q3OZvQHdJs1p9H36ARIf_jmC_5G2XRTdo
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 7
+    words: 1399
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 104282
+      sha256: 724527ec7271f78372feeb482f21189473cfa00db8246f1f0ab3699392ae18ce
+    - format: docx
+      name: document.docx
+      bytes: 10947
+      sha256: 9a44747d0e57a4dfad7d04a5c92622bd7795ab227467854d9b33c5b14892e7e1
+    text:
+      file: text-73.txt
+      method: google-export
+    blocks:
+      file: blocks-73.json
+      v: 1
+- title: Chapter 20.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Rsn2iPxor7sD6e5AZ9F3T-QTPjcNGJo6kiMgT_o08dc
+    google_id: 1Rsn2iPxor7sD6e5AZ9F3T-QTPjcNGJo6kiMgT_o08dc
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 7
+    words: 1504
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 86944
+      sha256: 5268ee84dffe4865dcf243863bfc3af3024dd124ee3c190e8df3c644108b2df9
+    - format: docx
+      name: document.docx
+      bytes: 11226
+      sha256: a8fb061d65de52ad308d14c66d03d4adfdb6f26f2b7e84e62a03aefc05fa4e50
+    text:
+      file: text-74.txt
+      method: google-export
+    blocks:
+      file: blocks-74.json
+      v: 1
+- title: Chapter 20.1
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1JJ4Rir2g2yq05XxBvagFeg1SDk-i8pLogaYmuIc2eRY
+    google_id: 1JJ4Rir2g2yq05XxBvagFeg1SDk-i8pLogaYmuIc2eRY
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 13
+    words: 2724
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 136204
+      sha256: a743d9bfb1488c97650c7014850e8e84ce8207aeb930b48e382b0960cb315be2
+    - format: docx
+      name: document.docx
+      bytes: 14816
+      sha256: db5ccbec8de619d9cbbeae168637bbf28a4def641a0e4eddf217afb7f1e62ed1
+    text:
+      file: text-75.txt
+      method: google-export
+    blocks:
+      file: blocks-75.json
+      v: 1
+- title: Chapter 20.2
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1Fn8iQs4uBP2wutAQQ86fcDcOo-72iuFfzW7gwVrD5bE
+    google_id: 1Fn8iQs4uBP2wutAQQ86fcDcOo-72iuFfzW7gwVrD5bE
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 9
+    words: 1928
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 97994
+      sha256: c14a50a49aad95acedf659aea6ccda6160dc5554f36937f9545547aa1074a40b
+    - format: docx
+      name: document.docx
+      bytes: 12357
+      sha256: 07c374eb45913c3c9a756ca6b89dc54965643664b88ff693c1f0ebb46a775967
+    text:
+      file: text-76.txt
+      method: google-export
+    blocks:
+      file: blocks-76.json
+      v: 1
+- title: Chapter 21.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1RsfGw7XIHI4qGlQdAAGm-9qCwBS5M781n9sfcpuMS4I
+    google_id: 1RsfGw7XIHI4qGlQdAAGm-9qCwBS5M781n9sfcpuMS4I
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 13
+    words: 2771
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 138821
+      sha256: cbb6e7b5b076b8d7bad5d0a7facb167e7df87bec22bfb750ba04c5dd53e07ab2
+    - format: docx
+      name: document.docx
+      bytes: 14787
+      sha256: 1cca2de2bef0172f32bf0e59531c348d99267f5d289bba8a10583ed9c86d7338
+    text:
+      file: text-77.txt
+      method: google-export
+    blocks:
+      file: blocks-77.json
+      v: 1
+- title: Chapter 22.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1501azGLAQCqEK-G9kP_fHTSslH2T0CAaP9HzkaEFbwQ
+    google_id: 1501azGLAQCqEK-G9kP_fHTSslH2T0CAaP9HzkaEFbwQ
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 3
+    words: 606
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 51363
+      sha256: 09e4be4921cd3be7695dee992a22a2766baac0f1b18183197e9dd532bf04d580
+    - format: docx
+      name: document.docx
+      bytes: 8508
+      sha256: 43824474c277c7123a130c16c47a41773374502a9528d909561037fdefbd3b02
+    text:
+      file: text-78.txt
+      method: google-export
+    blocks:
+      file: blocks-78.json
+      v: 1
+- title: Chapter 23.0
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=14bqhVSbiPB_p56Yt0T2JUH7ZV_lT2qH2idbltRSgXB8
+    google_id: 14bqhVSbiPB_p56Yt0T2JUH7ZV_lT2qH2idbltRSgXB8
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 8
+    words: 1324
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 75344
+      sha256: e31f7f6bed5bd4970f30944fcd54ed7646856e7b66026fb2a885be6cfb3d6e2c
+    - format: docx
+      name: document.docx
+      bytes: 11060
+      sha256: 2f091f216cd7e9b10439449c1b09e426991d9248cb1ca63a4c404301ebb022de
+    text:
+      file: text-79.txt
+      method: google-export
+    blocks:
+      file: blocks-79.json
+      v: 1
+- title: Chapter 23.1
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lbZrDKBrmWBrZDDGg6OF97Pv0_ZLFDL7Ztwv8-u46qc
+    google_id: 1lbZrDKBrmWBrZDDGg6OF97Pv0_ZLFDL7Ztwv8-u46qc
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 7
+    words: 1243
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 69397
+      sha256: bbefae16cc413a1f8091599bcf92590e7a51b3d90e765e5cc6e0316298808351
+    - format: docx
+      name: document.docx
+      bytes: 10441
+      sha256: 086776fc67d2a3fa3c29ab9990a3e33e9dd61379e8e5b6e6518a9364a7e3d654
+    text:
+      file: text-80.txt
+      method: google-export
+    blocks:
+      file: blocks-80.json
+      v: 1
+- title: Chapter 23.2
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1oXEISNssQWAJ1od-ni4m34oNQ3wvqlOBRmkBEZA25xs
+    google_id: 1oXEISNssQWAJ1od-ni4m34oNQ3wvqlOBRmkBEZA25xs
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 7
+    words: 1618
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 89839
+      sha256: 7089c6138b124f8f51b32504539e263faff3adfebb51e90fb5cfa9e7ed248fb0
+    - format: docx
+      name: document.docx
+      bytes: 11284
+      sha256: f00e0aa7ba2454c69b7d12722e6006c211c0612f6659169b0da9310521ad2165
+    text:
+      file: text-81.txt
+      method: google-export
+    blocks:
+      file: blocks-81.json
+      v: 1
+- title: Chapter 23.3
+  source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1-MiPB4nUXdRl_PLxZW8hEtxcBCrhHjbL8jYI1jB1nrU
+    google_id: 1-MiPB4nUXdRl_PLxZW8hEtxcBCrhHjbL8jYI1jB1nrU
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 1
+    words: 176
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 36783
+      sha256: 0d4fa5296ac245744b04c96a7f893f57b6700d158321efecdbbc5a3ec7813095
+    - format: docx
+      name: document.docx
+      bytes: 7182
+      sha256: d03d010d7d27737cea1556730b08008034c3fef8d2a177f880355b728a8b4e60
+    text:
+      file: text-82.txt
+      method: google-export
+    blocks:
+      file: blocks-82.json
+      v: 1
+- title: Everything you need to know about THSE
+  source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=1GQwEma1XSXqOdc-EDy7Ls8Y7Uep7NI_v
+    google_id: 1GQwEma1XSXqOdc-EDy7Ls8Y7Uep7NI_v
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2528
+    files:
+    - format: docx
+      name: Everything you need to know about THSE.docx
+      bytes: 26193
+      sha256: ed723ad566fc8a5b8733caa15f7878185d0da800639643649c4868d79940a989
+    text:
+      file: text-83.txt
+      method: docx-extract
+    blocks:
+      file: blocks-83.json
+      v: 1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1tk7qrp/
+  note: 'Shared by u/eleo_rulz in a post on 2026-05-22: Trying to create the smartest mid/high tier'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

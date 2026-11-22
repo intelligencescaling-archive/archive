@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: refuting-an-apostolos-defender-hannibal-sotl
+category: doc
+title: Refuting an Apóstolos Defender (Hannibal SOTL)
+alt_titles:
+- Refuting a Apóstolos goon.
+authors:
+- name: Mister_MxyzptIk_
+  reddit: Mister_MxyzptIk_
+  id: mister-mxyzptik
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1y22ttm/refuting_a_apóstolos_goon/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 689
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 123085
+      sha256: 63bbf0ef12dc79902304d7ea03eca75849ef2ad692e413d2137c74f1ea535491
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

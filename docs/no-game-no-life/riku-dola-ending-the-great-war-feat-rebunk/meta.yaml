@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: riku-dola-ending-the-great-war-feat-rebunk
+category: doc
+title: Riku Dola Ending The Great War Feat [Rebunk]
+alt_titles:
+- 𝑹𝒊𝒌𝒖'𝒔 𝑬𝒏𝒅𝒊𝒏𝒈 𝑻𝒉𝒆 𝑮𝒓𝒆𝒂𝒕 𝑾𝒂𝒓 𝒇𝒆𝒂𝒕 [𝑹𝒆𝒃𝒖𝒏𝒌]
+- Riku Dola Ending The Great War[Rebunk]
+authors:
+- name: HK CQ
+  id: hk-cq
+  source: doc-text
+- name: Checkmate
+  id: checkmate
+  source: doc-text
+series:
+- no-game-no-life
+characters:
+- riku-dola
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1ac4T7azOVN0TcDIgZKM_PVIlTmDpvyDF-2zORomsFTI
+    google_id: 1ac4T7azOVN0TcDIgZKM_PVIlTmDpvyDF-2zORomsFTI
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 9
+    words: 3911
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 420117
+      sha256: 154565c641eb3ff78e790a7243851bff6130d8b3a8080de490bd4efeaaf15416
+    - format: docx
+      name: document.docx
+      bytes: 1634339
+      sha256: 63663285e508ede12978dad7739369e870edf31d7f287021772ab3e383687100
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

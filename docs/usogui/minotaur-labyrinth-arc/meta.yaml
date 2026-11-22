@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: minotaur-labyrinth-arc
+category: doc
+title: Minotaur Labyrinth Arc
+alt_titles:
+- Does your favorite character pass Minotaur Labyrinth? (My Labyrinth Doc)
+- My Labyrinth Doc
+authors:
+- name: Cute_Presentation778
+  reddit: Cute_Presentation778
+  id: cute-presentation778
+  source: submission
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vSZ_l_zm1PIsya2tWqAqmw3sSNSV7souNi60WyX9ubUtQcvS5aUVPjkxj4eBCwHq7xq9NCM9YxrYcO3/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vSZ_l_zm1PIsya2tWqAqmw3sSNSV7souNi60WyX9ubUtQcvS5aUVPjkxj4eBCwHq7xq9NCM9YxrYcO3/pub
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2240
+    files:
+    - format: html
+      name: published.html
+      bytes: 221054
+      sha256: 4feb763bdddd5085093cd720b83c40488fbe2115a15e2bb26c090b5235e611e8
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1ptn6ko/
+  note: 'Shared by u/Cute_Presentation778 in a post on 2025-12-23: Does your favorite character pass Minotaur Labyrinth? (My Labyrinth Doc)'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

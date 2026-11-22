@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pokemon-mystery-dungeon-the-past-pursuits-chapter-3-gentle
+category: story
+title: 'Pokémon Mystery Dungeon: The Past Pursuits - Chapter 3: Gentle And Hireable'
+alt_titles:
+- 'Pokemon Mystery Dungeon: The Past Pursuits - CHAPTER 3: Gentle And Hireable'
+authors:
+- name: Less_Puddingdrawer
+  reddit: Less_Puddingdrawer
+  id: less-puddingdrawer
+  source: submission
+series:
+- pokemon-mystery-dungeon
+characters:
+- connor-baker
+tags:
+- story
+- fanfiction
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1nnm_vcc5kYCQxdirwNCk3BoU2GsCMpYdI7zCfXD9rlc
+    google_id: 1nnm_vcc5kYCQxdirwNCk3BoU2GsCMpYdI7zCfXD9rlc
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 29
+    words: 7875
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 564439
+      sha256: d7c763433e97fadeec77a7707a02e84abfdf7a93fd6efbdaa6c7ef8f0070ee5d
+    - format: docx
+      name: document.docx
+      bytes: 375615
+      sha256: dac595210f3aeeffa664336000ead223f8ee15ba22c4a2892ffe976c29217aba
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

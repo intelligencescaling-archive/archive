@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: introducing-notrick-case-staffer-case
+category: doc
+title: 'Introducing: Notrick Case (Staffer Case)'
+alt_titles:
+- 'Introducting: Notrick Case (Staffer Case)'
+authors:
+- name: zergursh
+  reddit: zergursh
+  id: zergursh
+  source: reddit-post
+series:
+- staffer-case
+characters:
+- notrick-case
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xz3xna/introducting_notrick_case_staffer_case/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2293
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 600276
+      sha256: 7719dd816e0996592dc5af931fd7584ae10ad494cb259225eb8d904fde1724d8
+    - format: png
+      name: image-2.png
+      bytes: 31382
+      sha256: 248114524958ac2eb8e5c3a317016981f7df56568afef5686db69985fe4ac3c2
+    - format: png
+      name: image-3.png
+      bytes: 2083301
+      sha256: 2259df3782ee4617645c610a2923d773dccced01a1afe98acb72e33c623f69a5
+    - format: png
+      name: image-4.png
+      bytes: 949584
+      sha256: 1a3e71308d9a209a8f558947e3c592a4dcd8855837cdf4727e5effc56bfb5530
+    - format: png
+      name: image-5.png
+      bytes: 441894
+      sha256: 5708623d0617841957759fc70ca8efdc2d225c3a011b63f688263f7bf44344d6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
+  - series

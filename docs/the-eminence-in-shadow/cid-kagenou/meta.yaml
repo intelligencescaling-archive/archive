@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cid-kagenou
+category: doc
+title: Cid Kagenou
+alt_titles:
+- 'Cid Kagenou '
+- Aura farmer scd doc
+authors: []
+shared_by:
+- name: Kirkified_67
+  reddit: Kirkified_67
+  id: kirkified-67
+  source: reddit-post
+series:
+- the-eminence-in-shadow
+characters:
+- cid-kagenou
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-drive-file
+    url: https://drive.google.com/open?id=185Qh0Dv0SqHfakH_rGpOimi8yq93Oe26
+    google_id: 185Qh0Dv0SqHfakH_rGpOimi8yq93Oe26
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 2513
+    files:
+    - format: docx
+      name: Cid Kagenou .docx
+      bytes: 4716846
+      sha256: 741fca1c1a8286e6d1c35aae6994d5b34fa0f9cd613df572632f2b53afc1ce61
+    text:
+      file: text.txt
+      method: docx-extract
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xyruk1/
+  note: 'Shared by u/Kirkified_67 in a post on 2026-11-17: Aura farmer scd doc'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

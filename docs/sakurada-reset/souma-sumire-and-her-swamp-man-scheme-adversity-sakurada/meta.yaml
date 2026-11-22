@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: souma-sumire-and-her-swamp-man-scheme-adversity-sakurada
+category: doc
+title: Souma Sumire and Her Swamp Man Scheme Adversity (Sakurada Reset)
+alt_titles:
+- Souma Sumire  and her swamp man  scheme adversity [Sakurada Reset]
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- sakurada-reset
+characters:
+- souma-sumire
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1y04nnt/souma_sumire_and_her_swamp_man_scheme_adversity/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 599
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 791379
+      sha256: 8c0164089411c887fa8030f0c45f6fddc21f637c342a6850d8d2d1b4bdd56bd5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
+  - series

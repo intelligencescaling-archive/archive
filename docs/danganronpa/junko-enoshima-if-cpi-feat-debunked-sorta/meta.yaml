@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: junko-enoshima-if-cpi-feat-debunked-sorta
+category: doc
+title: Junko Enoshima IF CPI Feat Debunked (Sorta)
+authors:
+- name: Aki_Ishi_2
+  id: aki-ishi
+  source: doc-text
+shared_by:
+- name: Guilty-Professor8801
+  reddit: Guilty-Professor8801
+  id: guilty-professor8801
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- junko-enoshima
+tags:
+- debunk
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1J555sZmHIatUbizX6O6PcTujLiFp6EkEwj-AebqVLY8
+    google_id: 1J555sZmHIatUbizX6O6PcTujLiFp6EkEwj-AebqVLY8
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 2
+    words: 638
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 73803
+      sha256: e79500c37c58b5215ae42175b37ffa25e7f86790d30f92f4fd9f4459da141497
+    - format: docx
+      name: document.docx
+      bytes: 8776
+      sha256: e9b5b47bf04389228d5e233c392a717e0150e5b85a71b8875a5591bf197f46fb
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1xyqkru/
+  note: 'Shared by u/Guilty-Professor8801 in a post on 2026-11-17: New doc!'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

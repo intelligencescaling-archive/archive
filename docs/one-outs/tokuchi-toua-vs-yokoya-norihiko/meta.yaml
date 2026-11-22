@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tokuchi-toua-vs-yokoya-norihiko
+category: doc
+title: Tokuchi Toua vs Yokoya Norihiko
+alt_titles:
+- Tokuchi Toua vs Yokoya Norihiko • u/IncidentIll7680
+- EOM Tokuchi vs EOM Yokoya
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: submission
+series:
+- one-outs
+- liar-game
+characters:
+- toua-tokuchi
+- yokoya-norihiko
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1qFVFDL7_XQX8HynYiICNuccN0tJ2vRAHuViOofu3-00
+    google_id: 1qFVFDL7_XQX8HynYiICNuccN0tJ2vRAHuViOofu3-00
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 1
+    words: 48
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 39203
+      sha256: 544634499532b963fb16ef07a3d354a8cff809ad9f20e72c123efef6900d50f0
+    - format: docx
+      name: document.docx
+      bytes: 10459
+      sha256: 258431d19170058e475e51ef659d7d0d9f80df36a85dc3dc22c78ec407b3fe98
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1y2wq31/
+  note: 'Shared by u/IncidentIll7680 in a post on 2026-11-22: EOM Tokuchi vs EOM Yokoya'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

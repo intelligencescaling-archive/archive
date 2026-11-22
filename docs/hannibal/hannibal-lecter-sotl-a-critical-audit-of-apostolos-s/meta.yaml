@@ -1,0 +1,62 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-lecter-sotl-a-critical-audit-of-apostolos-s
+category: doc
+title: 'Hannibal Lecter (SOTL): A Critical Audit of Apóstolos''s Document'
+alt_titles:
+- Hannibal Lecter (SOTL) — Auditoría crítica del documento de Apóstolos (borrador)
+- Audit of the Apos document
+authors:
+- name: Yashizu
+  reddit: Yashizu
+  id: yashizu
+  source: submission
+shared_by:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  id: vincet-qo
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1lqRRe5xEErvo62HUlhIaOTcRQmGwuxwrGmToAe43IZw
+    google_id: 1lqRRe5xEErvo62HUlhIaOTcRQmGwuxwrGmToAe43IZw
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 8
+    words: 2305
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 217271
+      sha256: 7ce2b63b5260f8a824468ebacbe8c82012439fc789e84a08391528b763e55465
+    - format: docx
+      name: document.docx
+      bytes: 116604
+      sha256: 70993c356882a96c41b5c054ebca29eb2a7730bf2708b924034505d067138471
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1y15gl8/
+  note: 'Shared by u/Vincet_Qo in a post on 2026-11-20: Audit of the Apos document'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

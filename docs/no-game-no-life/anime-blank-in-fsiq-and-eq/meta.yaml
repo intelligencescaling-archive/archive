@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: anime-blank-in-fsiq-and-eq
+category: doc
+title: Anime Blank [In FSIQ and EQ]
+alt_titles:
+- Anime Blank's FSIQ and EQ
+authors: []
+series:
+- no-game-no-life
+characters:
+- sora
+- shiro
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1cGSD4SsiDuahlcgBaHJDYzIPjHQr1T5YpuKAcW0Pn0o
+    google_id: 1cGSD4SsiDuahlcgBaHJDYzIPjHQr1T5YpuKAcW0Pn0o
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 6
+    words: 318
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 6732736
+      sha256: a85ab9f5535435856b8192749c4d3fda52b772de6d87a7e252233802e9232f6c
+    - format: docx
+      name: document.docx
+      bytes: 4340865
+      sha256: 405b6989bd230f2cb2bccf64c671bfbb9990e7426c531c76700d4d1b4f15ffeb
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

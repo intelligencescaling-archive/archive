@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lysander-au-lune-s-mind-s-eye-red-rising
+category: doc
+title: Lysander au Lune's Mind's Eye (Red Rising)
+alt_titles:
+- Lysander Au Lune’s Mind Eye(Red Rising)
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- red-rising
+characters:
+- lysander-au-lune
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xzpi3q/lysander_au_lunes_mind_eyered_rising/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 735
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 68230
+      sha256: ba12d75a0f97b8d19186b48fa608a08331243c95d20c94611542e67b972f87d2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
+  - series

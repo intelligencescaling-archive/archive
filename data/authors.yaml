@@ -71,6 +71,8 @@
   note: C4
 - id: akuma-ujjain
   name: Akuma Ujjain
+- id: allied-rgt
+  name: Allied_Rgt
 - id: alternative-fox-4534
   name: Alternative_Fox_4534
   reddit:
@@ -318,6 +320,10 @@
   name: Cleax
 - id: clockman
   name: Clockman
+- id: clockmann-050308
+  name: clockmann_050308
+  reddit:
+  - clockmann_050308
 - id: cloud
   name: Cloud
   aliases:
@@ -327,6 +333,10 @@
   - platform: discord
     handle: .clouds__
   note: '''Made by Cloud(S)'' and ''Written by:Cloud(s)'' (SCP Murphy docs), ''Made by Cloud'' (20th Century Boys writing doc); .clouds__ (Discord) writes the 20th Century Boys Katsumata theory doc'
+- id: complex-engineer-920
+  name: Complex-Engineer-920
+  reddit:
+  - Complex-Engineer-920
 - id: confidentfee5609
   name: ConfidentFee5609
   reddit:
@@ -364,6 +374,10 @@
     handle: ctwmoonlsolokoji
 - id: cucharoth
   name: Cucharoth
+- id: cute-presentation778
+  name: Cute_Presentation778
+  reddit:
+  - Cute_Presentation778
 - id: d0ntkn0wmyself
   name: d0ntkn0wmyself
   reddit:
@@ -461,6 +475,14 @@
   reddit:
   - Economy_Echo_8500
   note: '''u/Economy_Echo_8500/Echonomy'''
+- id: ekoorange
+  name: ekoorange
+  reddit:
+  - ekoorange
+- id: eleo-rulz
+  name: eleo_rulz
+  reddit:
+  - eleo_rulz
 - id: endur
   name: endur
 - id: enginedrive
@@ -469,6 +491,10 @@
   - EngineDrive
 - id: enii
   name: Enii
+- id: enough-champion-3805
+  name: Enough-Champion-3805
+  reddit:
+  - Enough-Champion-3805
 - id: environmentno6525
   name: EnvironmentNo6525
   reddit:
@@ -587,6 +613,9 @@
   - _galaxpro_
 - id: ganve
   name: Ganve
+  reddit:
+  - G_a_n_v_e
+  note: Reddit u/G_a_n_v_e (posts signed "by Ganve"; maintainer 2026-11-22)
 - id: gekonen
   name: Gekonen
 - id: gensolos
@@ -628,6 +657,10 @@
   name: Grove421
 - id: gruner-drache
   name: Grüner Drache
+- id: guilty-professor8801
+  name: Guilty-Professor8801
+  reddit:
+  - Guilty-Professor8801
 - id: gxthie
   name: GXTHIE
   contacts:
@@ -682,6 +715,8 @@
   name: Historical-Fun-2618
   reddit:
   - Historical-Fun-2618
+- id: hk-cq
+  name: HK CQ
 - id: hola89
   name: hola89
 - id: horror
@@ -740,6 +775,10 @@
   name: Intelligent_Dog7943
   reddit:
   - Intelligent_Dog7943
+- id: interesting-gap4343
+  name: Interesting_Gap4343
+  reddit:
+  - Interesting_Gap4343
 - id: j3llo192
   name: j3llo192
 - id: jackthezodiac
@@ -858,6 +897,10 @@
   name: Kira.cifer
 - id: kirbo
   name: Kirbo
+- id: kirkified-67
+  name: Kirkified_67
+  reddit:
+  - Kirkified_67
 - id: kiryu-moretti
   name: Kiryu Moretti
 - id: kitchencoyote
@@ -1804,6 +1847,8 @@
     handle: XDwasGone
 - id: xorpaw
   name: XorPaw
+  reddit:
+  - XorPaw
   contacts:
   - platform: discord
     handle: XorPaw
@@ -1817,6 +1862,8 @@
   - XxshigurimaxX
 - id: yashizu
   name: Yashizu
+  reddit:
+  - Yashizu
 - id: yazsob
   name: Yazsob
 - id: yujindoro
@@ -1839,6 +1886,10 @@
     handle: zandro0232
 - id: zef
   name: Zef
+- id: zergursh
+  name: zergursh
+  reddit:
+  - zergursh
 - id: zerozeroma
   name: Zerozeroma
   reddit:

@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: merlin-hermes
+category: doc
+title: Merlin Hermes
+alt_titles:
+- '...How do I do this faster? It''s been 2 hours and I''ve been struggling with one chapter,'
+authors:
+- name: ekoorange
+  reddit: ekoorange
+  id: ekoorange
+  source: submission
+series:
+- lord-of-the-mysteries
+characters:
+- klein-moretti
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc-published
+    url: https://docs.google.com/document/d/e/2PACX-1vQKEkG4fUmHFbx8NECDFCCW_FQHP9RPVSL3NdR4tZ09UCM__Gx_9urteg3pkgayx_cLqTbfPNmL63rC/pub
+    google_id: docs.google.com/document/d/e/2PACX-1vQKEkG4fUmHFbx8NECDFCCW_FQHP9RPVSL3NdR4tZ09UCM__Gx_9urteg3pkgayx_cLqTbfPNmL63rC/pub
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 702
+    files:
+    - format: html
+      name: published.html
+      bytes: 189136
+      sha256: 3a20d520e601a389b64a210e7e130968953cd9b66fc4924976c851e027b4054b
+    text:
+      file: text.txt
+      method: html-extract
+found_in: []
+links:
+- type: reddit-post
+  url: https://www.reddit.com/comments/1nvmq0o/_/nirgbdy/
+  note: 'Shared by u/ekoorange in a comment on 2025-10-10: ...How do I do this faster? It''s been 2 hours and I''ve been struggling with one chapter,'
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

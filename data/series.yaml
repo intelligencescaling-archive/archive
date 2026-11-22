@@ -444,6 +444,10 @@
   name: Kingdom Hearts
   origin_language: ja
   origin_medium: game
+- id: kingdom-s-bloodline
+  name: Kingdom's Bloodline
+  origin_language: zh
+  origin_medium: web-novel
 - id: konosuba
   name: KonoSuba
   origin_language: ja
@@ -645,6 +649,10 @@
   name: Record of Ragnarok
   origin_language: ja
   origin_medium: manga
+- id: red-rising
+  name: Red Rising
+  origin_language: en
+  origin_medium: novel
 - id: red-vs-blue
   name: Red vs. Blue
   origin_language: en
@@ -678,6 +686,10 @@
   name: RWBY
   origin_language: en
   origin_medium: web
+- id: sakurada-reset
+  name: Sakurada Reset
+  origin_language: ja
+  origin_medium: light-novel
 - id: saw
   name: Saw
   origin_language: en
@@ -732,6 +744,12 @@
   name: Squid Game
   origin_language: ko
   origin_medium: tv
+- id: staffer-case
+  name: Staffer Case
+  aliases:
+  - 'Staffer Case: Super Power Detective Mystery Game'
+  origin_language: zh
+  origin_medium: visual-novel
 - id: star-vs-the-forces-of-evil
   name: Star vs. the Forces of Evil
   origin_language: en

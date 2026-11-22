@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 100-million-yen-akiyama-analysis-fujisawa-and-nao
+category: doc
+title: 100 Million Yen Akiyama Analysis (Fujisawa and Nao Manipulation)
+authors:
+- name: Ornery_List_6670
+  reddit: Ornery_List_6670
+  id: ornery-list-6670
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- nao-kanzaki
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1y1trg8/100_million_yen_akiyama_analysis_fujisawa_and_nao/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 3136
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 87642
+      sha256: 39af479ec33b6f95a90516c3c05cef58d83b53ccb9e5abf3716aa55debf7897b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

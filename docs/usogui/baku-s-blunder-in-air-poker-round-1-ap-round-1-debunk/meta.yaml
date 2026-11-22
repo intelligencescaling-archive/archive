@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-s-blunder-in-air-poker-round-1-ap-round-1-debunk
+category: doc
+title: Baku's Blunder in Air Poker Round 1 (AP Round 1 Debunk)
+alt_titles:
+- Baku's blunder in Air poker Round 1 | AP Round 1 debunk
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+- vincent-lalo
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1y0n4k9/bakus_blunder_in_air_poker_round_1_ap_round_1/
+  capture:
+    status: complete
+    date: '2026-11-22'
+    words: 559
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 121111
+      sha256: fa80bd7e22f3bc5b29f51a93436a6cee4487d630682c04597b7685cbb659cc8c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

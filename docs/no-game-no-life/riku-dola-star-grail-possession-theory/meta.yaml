@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: riku-dola-star-grail-possession-theory
+category: doc
+title: Riku Dola (Star-Grail Possession Theory)
+alt_titles:
+- Riku Dola [Star-Grail Possession Theory]
+authors:
+- name: Allied_Rgt
+  id: allied-rgt
+  source: doc-text
+series:
+- no-game-no-life
+characters:
+- riku-dola
+tags:
+- analysis
+- powerscaling
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1wGvZpZXH7Tk8Ad6hr1bVDfaiPO-HvEVa5oKtxBQHKTM
+    google_id: 1wGvZpZXH7Tk8Ad6hr1bVDfaiPO-HvEVa5oKtxBQHKTM
+  capture:
+    status: complete
+    date: '2026-11-22'
+    pages: 11
+    words: 1135
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 5673936
+      sha256: 5332aa631bf94358d74e162b953b261570cfca288c0eb0c77d7ff21e7b2f0198
+    - format: docx
+      name: document.docx
+      bytes: 5967575
+      sha256: 0a41adbdfee78884a2d33f773c90d84ccb618a228270ce6f26b4dc4bfb5c36de
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - authors
+  - characters
