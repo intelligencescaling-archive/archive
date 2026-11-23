@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: god-s-imitator-the-best-scd-introduction
+category: doc
+title: 'God''s Imitator: The Best SCD Introduction'
+alt_titles:
+- 'God''s Imitator: The Best SCD-Introduction'
+authors:
+- name: Embarrassed_Ear3219
+  reddit: Embarrassed_Ear3219
+  id: embarrassed-ear3219
+  source: reddit-post
+series:
+- god-s-imitation
+characters: []
+tags:
+- writing
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u1t678/gods_imitator_the_best_scdintroduction/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1941
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 72971
+      sha256: 3e9647fc721d5f17c4b883b39eaad86064a8410fcd24551050eedf87424b52ef
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

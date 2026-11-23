@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moriarty-chapter-1-vs-koenji-y3v1-in-proven-ability-with
+category: doc
+title: Moriarty (Chapter 1) vs Koenji (Y3V1) in Proven Ability, with Explanations
+alt_titles:
+- Moriarty (CH1) vs Koenji (Y3 V1) in proven ability WITH EXPLANATIONS
+authors:
+- name: Sardine87
+  reddit: Sardine87
+  id: sardine87
+  source: reddit-post
+series:
+- moriarty-the-patriot
+- classroom-of-the-elite
+characters:
+- william-james-moriarty
+- rokusuke-koenji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w2a05l/moriarty_ch1_vs_koenji_y3_v1_in_proven_ability/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 685
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 94771
+      sha256: 26d4fbb8e265e2cf017a3fb75dfc98276a5bbe21ec07cae39c6b0630a4a6dad1
+    - format: jpg
+      name: image-2.jpg
+      bytes: 46399
+      sha256: 39aaec3c0eb05bd0533bb3d9d7860fa1f310bc97308b07be0c6ff5554cf47c3d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

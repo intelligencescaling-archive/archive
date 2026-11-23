@@ -335,6 +335,10 @@
   - Don (film)
   origin_language: hi
   origin_medium: film
+- id: don-t-talk-to-her
+  name: Don't Talk to Her
+  origin_language: zh
+  origin_medium: web-novel
 - id: dr-frost
   name: Dr. Frost
   aliases:
@@ -932,6 +936,10 @@
   name: Reinōryokusha Odagiri Kyōko no Uso
   origin_language: ja
   origin_medium: manga
+- id: resident-evil
+  name: Resident Evil
+  origin_language: ja
+  origin_medium: game
 - id: reverend-insanity
   name: Reverend Insanity
   aliases:
@@ -1056,6 +1064,10 @@
   name: Talentless Nana
   origin_language: ja
   origin_medium: manga
+- id: ten-day-ultimatum
+  name: Ten Day Ultimatum
+  origin_language: zh
+  origin_medium: web-novel
 - id: tenet
   name: Tenet
   origin_language: en
@@ -1124,6 +1136,10 @@
   name: The Elder Scrolls
   origin_language: en
   origin_medium: game
+- id: the-ember-knight
+  name: The Ember Knight
+  origin_language: ko
+  origin_medium: webtoon
 - id: the-eminence-in-shadow
   name: The Eminence in Shadow
   origin_language: ja

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-to-become-more-like-an-scd-character-non-satirical-guide
+category: doc
+title: How to Become More Like an SCD Character (Non-Satirical Guide)
+alt_titles:
+- How to become more like an SCD character for the dummies of the subreddit (Non-satirical guide)
+authors:
+- name: Mainasugomi
+  reddit: Mainasugomi
+  id: mainasugomi
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m4yz1g/how_to_become_more_like_an_scd_character_for_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1216
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 601752
+      sha256: f35abb89d3d7b2207ccc05e12b1c919b20ad1782d057ef3ef083d577ff775916
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

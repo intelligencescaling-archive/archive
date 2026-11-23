@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chen-ran-narrative-backup-and-explanation-18-levels-of-hell
+category: doc
+title: Chen Ran Narrative Backup and Explanation (18 Levels of Hell)
+alt_titles:
+- 【narrative backup of chen ran and some explanation  of it】
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t4fbck/narrative_backup_of_chen_ran_and_some_explanation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1230
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 183527
+      sha256: 1104aa59f466eaa80670b768bfbe65266b3271d46f7b3cca944e6476abce85dc
+    - format: png
+      name: image-2.png
+      bytes: 187699
+      sha256: d0c818a5b2fa88b29e2cbae4595e1148ccf1480ed7fcbe4bc2869c01d8614889
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

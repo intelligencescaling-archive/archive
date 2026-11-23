@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-kanade-is-overrated-danganronpa-sdra2
+category: doc
+title: Why Kanade Is Overrated (Danganronpa SDRA2)
+authors:
+- name: HourFrame9349
+  reddit: HourFrame9349
+  id: hourframe9349
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rhk8zz/why_i_think_kanade_is_overrated_shes_a_mid_tier/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 997
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

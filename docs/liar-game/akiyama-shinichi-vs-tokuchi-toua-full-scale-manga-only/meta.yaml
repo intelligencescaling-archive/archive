@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinichi-vs-tokuchi-toua-full-scale-manga-only
+category: doc
+title: Akiyama Shinichi vs Tokuchi Toua Full Scale (Manga Only)
+alt_titles:
+- A unecessarily full scale of the most weirdest matchup. Akiyama Shinichi vs Tokuchi Toua (both manga only)
+authors:
+- name: CardLampp
+  reddit: CardLampp
+  id: cardlampp
+  source: reddit-post
+series:
+- liar-game
+- one-outs
+characters:
+- akiyama-shinichi
+- toua-tokuchi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tq9ouk/a_unecessarily_full_scale_of_the_most_weirdest/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 762
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 76295
+      sha256: 2f2395019740424f0a563fbe46511958fbfbd8e8438fa656601b18bbc3b3a5e6
+    - format: jpg
+      name: image-2.jpg
+      bytes: 141701
+      sha256: 908a03f62252f074e0ce3a96f9743e187c8ceb860b5fb56eff2130fe3dfb6b84
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

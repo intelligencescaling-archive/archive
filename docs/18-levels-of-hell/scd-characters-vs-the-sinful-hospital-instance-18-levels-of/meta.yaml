@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-characters-vs-the-sinful-hospital-instance-18-levels-of
+category: doc
+title: SCD Characters vs the Sinful Hospital Instance (18 Levels of Hell)
+alt_titles:
+- SCD Characters vs Sinful Hospital Instance
+authors:
+- name: Dismal_Gate2848
+  reddit: Dismal_Gate2848
+  id: dismal-gate2848
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w8ki3k/scd_characters_vs_sinful_hospital_instance/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1168
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 170094
+      sha256: 6860900208a5ce07bf5bdaf921d68ab53da94420da98d071ac0e3b0d6102defd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

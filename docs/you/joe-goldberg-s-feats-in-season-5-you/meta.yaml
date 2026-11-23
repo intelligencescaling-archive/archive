@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-s-feats-in-season-5-you
+category: doc
+title: Joe Goldberg's Feats in Season 5 (You)
+alt_titles:
+- Joes feats in season 5
+authors:
+- name: Affectionate_Echo916
+  reddit: Affectionate_Echo916
+  id: affectionate-echo916
+  source: reddit-post
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mae2c3/joes_feats_in_season_5/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1220
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

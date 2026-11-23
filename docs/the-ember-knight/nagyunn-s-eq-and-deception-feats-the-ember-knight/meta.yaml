@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagyunn-s-eq-and-deception-feats-the-ember-knight
+category: doc
+title: Nagyunn's EQ and Deception Feats (The Ember Knight)
+alt_titles:
+- Nagyunn vs SCD character (EQ/Deception)
+authors:
+- name: Zealousideal-Area892
+  reddit: Zealousideal-Area892
+  id: zealousideal-area892
+  source: reddit-post
+series:
+- the-ember-knight
+characters:
+- nagyunn
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q0wvsp/nagyunn_vs_scd_character_eqdeception/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1196
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 149706
+      sha256: cd9762119f9df9205a12210773db3e8c5dddb9b2851ab34e4b2553395b426cc2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

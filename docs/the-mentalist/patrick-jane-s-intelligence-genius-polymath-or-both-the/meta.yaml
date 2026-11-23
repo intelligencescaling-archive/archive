@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-intelligence-genius-polymath-or-both-the
+category: doc
+title: 'Patrick Jane''s Intelligence: Genius, Polymath, or Both? (The Mentalist)'
+alt_titles:
+- 'Patrick Jane’s Intelligence: Genius, Polymath, or Both?'
+authors:
+- name: Subject_Item_6953
+  reddit: Subject_Item_6953
+  id: subject-item-6953
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wubeqr/patrick_janes_intelligence_genius_polymath_or_both/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3221
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

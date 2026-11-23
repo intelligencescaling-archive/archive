@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: palpatine-s-geonosis-feat-summarized-star-wars
+category: doc
+title: Palpatine's Geonosis Feat Summarized (Star Wars)
+alt_titles:
+- Palpatine Geonosis Feat Summarized
+authors:
+- name: DarthKrayt_Reborn
+  reddit: DarthKrayt_Reborn
+  id: darthkrayt-reborn
+  source: reddit-post
+series:
+- star-wars
+characters:
+- emperor-palpatine
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ssdbes/palpatine_geonosis_feat_summarized/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 897
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 171727
+      sha256: c33d8ea1506cfa97024552aade63ca38e108bae2258b008bdfc79353472c6c7b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 9993
+      sha256: a40a0a06115ecb5ada6f5cb5e4c618518c75d2536429f63251de8302e94c735a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

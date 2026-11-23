@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fluxion-feat-list-1000-player-civilization-rich-poor
+category: doc
+title: 'Fluxion Feat List (1000 Player Civilization: Rich & Poor, Minecraft)'
+alt_titles:
+- '2.7 Fluxion Feat List — 1000 Player Civilization: Rich & Poor'
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- minecraft
+characters:
+- fluxion
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w1vb97/27_fluxion_feat_list_1000_player_civilization/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1439
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 336228
+      sha256: 38a625fbc4b1357de141d4c735fa95d90eba0294876b10e2579ddf0915d549df
+    - format: png
+      name: image-2.png
+      bytes: 199527
+      sha256: 0590409c9d5cf5c9b24ff49ca710be3454d0b792ababf2c5cfd54dcd1586ecb6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

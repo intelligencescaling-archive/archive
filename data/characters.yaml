@@ -5,6 +5,9 @@
 - id: abyss-all-in-abyss-judge-the-fake
   name: Abyss
   series: all-in-abyss-judge-the-fake
+- id: ada-wong
+  name: Ada Wong
+  series: resident-evil
 - id: administrator
   name: Administrator
   series: counter-side
@@ -472,6 +475,9 @@
 - id: flynch
   name: Flynch
   series: ace-attorney
+- id: francis-dolarhyde
+  name: Francis Dolarhyde
+  series: hannibal
 - id: frank-abagnale-jr
   name: Frank Abagnale Jr.
   series: catch-me-if-you-can
@@ -527,6 +533,9 @@
 - id: general-woundwort
   name: General Woundwort
   series: watership-down
+- id: geng-hao
+  name: Geng Hao
+  series: 18-levels-of-hell
 - id: george-washington
   name: George Washington
   series: history
@@ -1298,6 +1307,9 @@
 - id: nagumo-miyabi
   name: Nagumo Miyabi
   series: classroom-of-the-elite
+- id: nagyunn
+  name: Nagyunn
+  series: the-ember-knight
 - id: nakamura-eiya
   name: Nakamura Eiya
   series: null
@@ -1451,6 +1463,9 @@
 - id: prophet-vintage-8
   name: Prophet
   series: vintage-8
+- id: qi-xia
+  name: Qi Xia
+  series: ten-day-ultimatum
 - id: qiu-yinong
   name: Qiu Yinong
   series: 18-levels-of-hell
@@ -1714,6 +1729,11 @@
   series: spawn
   aliases:
   - Al Simmons
+- id: spider-man
+  name: Spider-Man
+  series: marvel
+  aliases:
+  - Peter Parker
 - id: stanford-pines
   name: Stanford Pines
   series: gravity-falls
@@ -1974,6 +1994,9 @@
 - id: yang-wenli
   name: Yang Wenli
   series: legend-of-the-galactic-heroes
+- id: ye-qiuwei
+  name: Ye Qiuwei
+  series: don-t-talk-to-her
 - id: yoichi-isagi
   name: Yoichi Isagi
   series: blue-lock

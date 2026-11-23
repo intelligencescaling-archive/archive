@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: all-intelligence-categories-and-subcategories-with
+category: doc
+title: All Intelligence Categories and Subcategories, with Explanations
+alt_titles:
+- All Intelligence categories and sub categories with explanation
+authors:
+- name: dark-synapse7394
+  reddit: dark-synapse7394
+  id: dark-synapse7394
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t90tz9/all_intelligence_categories_and_sub_categories/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1459
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,355 @@
+Where do you guys scale this reasoning feat of one of my OC's (assuming I didn't get the math wrong)?
+
+To put it shortly, it proves that the world is made up of tiny particles almost entirely through logical reasoning (it also proved more but I'll get into that after wards. They made this discovery on their own, without any formal education, however I will use terms that exist in real world academic math for the sake of transparency, it's just that they would've called these things by different names within the story, as these concepts, that need to have already been discovered for the feat, would have been realized by them independantly. Warning: I am not a mathematician, this is just the best I was able to "understand" it. Also excuse me if I mix up premisses and conclusions, I am very sleep deprived.
+
+Premise 1: To the human eye, the physical matter objects are made of appears to be continuous, since there are no visible gaps, holes, or discrete building blocks.
+
+P2: If matter is perfectly continuous, it can be mathematically modeled precisely as a solid region in 3D space, denoted as R³.
+
+Conclusion 1: Therefore, any geometric or mathematical operation permitted on a solid sphere in R³ must also be physically possible to perform on a solid sphere of continuous matter.
+
+P3: To logically dismantle a continuous physical object, I cannot look at it as a single mass, I must define it using Set Theory, as a "set" (a mathematical collection) made entirely of fundamental geometric points.
+
+P4: If this object is perfectly continuous, there are no gaps. Between any point A and point B, no matter how microscopic the distance, I can mathematically divide the distance by two to find a point C.
+
+C2: Because I can repeat this division forever, a continuous object cannot be made of a finite number of points. It must contain an infinite number of points.
+
+Question/doubt 1: However, I must question if all infinities are identical.
+
+P5: By comparing sets through "one-to-one correspondence" (matching one item in Set A to exactly one item in Set B), I can measure the size, or "cardinality", of infinite sets.
+
+P6: To measure an infinite set, I must establish a metric for "counting." I define a set as "countable" if its elements can be placed into a perfect one-to-one correspondence with the natural counting numbers (1, 2, 3, 4...).
+
+P7: This means I must be able to act like a clerk handing out sequential tickets in a waiting room. If I can guarantee that every single element in a set will eventually receive a finite ticket number without skipping any, and without running out of tickets, the set is countable.
+
+C3: The set of whole numbers intrinsically perfectly matches this rule. Number 1 gets ticket 1, number 2 gets ticket 2, and so on. It is an infinite line, but it progresses strictly step by step. This is the baseline the lowest tier of infinity (Aleph 0)
+
+P8: Now, I introduce fractions (rational numbers). Instinctively, this infinity feels vastly larger. The whole numbers are spaced out, but fractions are endlessly dense. Between 1 and 2, there is 1.5. Between 1 and 1.5, there is 1.25. No matter how close two fractions are, I can always average them to find another fraction between them.
+
+C4: Because of this density, if I try to hand out my counting tickets by sorting the fractions by size (from smallest to largest), I fail immediately. There is no "smallest" fraction greater than zero. Is it 1/10, 1/100, 1/1000? I can never hand out ticket number 1.
+
+C5: To defeat this density, I must abandon the concept of counting by size and instead count by structural infinity.
+
+P9: I visualize an infinitely large, 2D grid. Along the horizontal axis, I list the numerators (1, 2, 3, 4...). Down the vertical axis, I list the denominators (1, 2, 3, 4...).
+
+C6: Every single fraction that can possibly exist now has a specific, fixed coordinate on this grid. For example, the fraction 100/10 is located at column 100, row 10.
+
+C7: If I try to hand out tickets by walking straight across the first row (1/1, 2/1, 3/1...), I will walk forever and never reach the second row. My counting fails again.
+
+P10: But then, I change my path. Instead of moving in straight lines, I draw a path that zigzags diagonally back and forth starting from the top-left corner. I start at 1/1 (Ticket 1). I move right to 2/1 (Ticket 2), then diagonally down-left to 1/2 (Ticket 3). I move down to 1/3 (Ticket 4), diagonally up-right through 2/2 (Ticket 5) to 3/1 (Ticket 6), and so on, weaving infinitely back and forth across the grid.
+
+\[Here is an image to visualize this\](https://www.reddit.com/u/Far-Substance-4473/s/zvLIyNBUUU)
+
+C8: By going through the grid diagonally, I am going across the infinite space in finite, measurable layers. I can now mathematically guarantee that any fraction, no matter how absurdly huge its numerator or denominator will eventually be crossed by my path and handed a specific as well as finite ticket number.
+
+C9: Therefore, despite it seeming like fractions are infinitely denser and more numerous than whole numbers, they match up perfectly, one-to-one. The infinity of whole numbers and the infinity of all fractions are exactly the same size. They are both countable Infinities.
+
+C10: Even if I add fractions to this list, an infinite amount of fractions existing between 1 and 2, the infinity remains countable, because I can still devise a systemic list to count them one by one without missing any.
+
+P11: Now I must confront the points that make up a continuous physical line. Unlike fractions, this continuum includes irrational numbers (like Pi or the square root of 2), numbers that stretch into infinite, non-repeating decimals.
+
+P12: I will attempt a proof by contradiction. Let me assume, for the sake of argument, that these continuous points can be counted. Let me assume I can gather them all, line them up, and assign every single one a sequential counting ticket (1, 2, 3...) without missing a single point. I visualize this theoretical, perfectly complete master list. Number 1 is an infinitely long decimal. Number 2 is another infinitely long decimal, and so on.
+
+C11: If matter is a countable continuum, every continuous point in existence must be somewhere on this master list.
+
+P13: I will now play the role of the architect. I will forge a brand new number, a completely new point in space, digit by digit, using the master list itself as my blueprint. I look at the 1st number on my infinite list. I isolate its 1st decimal digit. If that digit is a 4, I write down a 5. If it is anything else, I write down a 4. I have now permanently locked in the first digit of my newly forged number. Next, I look at the 2nd number on the list, isolate its 2nd decimal digit, and alter it in the exact same way. This becomes the second digit of my new number. I continue this process, descending diagonally through the infinite list like a staircase. I alter the 3rd digit of the 3rd number, the 4th digit of the 4th number, all the way down to the n-th digit of the n-th number, into infinity. I have now constructed an infinitely long, highly specific decimal number.
+
+C12: If my master list truly contained every continuous point in the universe, this newly forged number must be somewhere on that list.
+
+C13: Could my new number be the 1st number on the list? No. Even if the rest of the digits somehow matched, I deliberately altered the 1st digit. It is fundamentally different. Could it be the 2nd number? No, because it differs at the 2nd digit. Could it be the billionth number on the infinite list? No, because when I crossed the one-billionth step of my diagonal staircase, I ensured the one-billionth digit would be different. By the unyielding laws of logic, my newly forged number differs from every single number on the infinite list in at least one specific, undeniable position.
+
+\[Here is an image to visualize this\](https://www.reddit.com/u/Far-Substance-4473/s/Z4sppGUthI)
+
+C14: Therefore, my new number is not on the list. The list is incomplete. No matter how many times I add my new missing number to the list and try again, I can just draw a new diagonal line and create another missing number. I can do this forever.
+
+C15: Therefore, the assumption in P12 is incorrect. It is fundamentally mathematically impossible to sequence, list, or count the points on a continuous line. A continuous physical space is not just infinite, but an "uncountable" infinity, a dense, gapless collection of points that doesn't allow any attempt to order them.
+
+C16: Therefore, if physical matter is perfectly continuous, it is an uncountably infinite collection of points. To manipulate it mathematically, I cannot rely on basic algebraic rules or sequential counting, so I must invent an entirely new, abstract rule of logic to work with an uncountable collection.
+
+P14: Imagine I have an infinite number of buckets, and each bucket contains a collection of indistinguishable, continuous points. To build a complete mathematical framework of reality, I need to create a new set by selecting exactly one point from each bucket.
+
+P15: If the number of buckets were finite, I would not need a rule. I could mentally reach in and pick one manually ("this one, this one, this one..."). Consider a thought experiment: If I have an infinite number of pairs of shoes, I can write a flawless mathematical rule to pick one from each pair; "always choose the left shoe". The rule goes on infinitely perfectly. Or, if each bucket contained sets of whole numbers, my rule could be "always choose the lowest number", because the contents have structure, the choice function is easily written.
+
+C17: However, because the points are infinite and completely indistinguishable from one another, no explicit, written rule can ever encompass all the selections.
+
+Q/D2: Yet, logically, the act of "choosing one item from each bucket" does not require a written rule to be a fundamentally valid concept. The state of having chosen them must exist, even if I cannot describe the mechanism of choice. This is the axiom of choice, admittedly an assumption. HOWEVER, I'll digress now to show what supports this axiom. The following lines of reasoning were also done by the character.
+
+———justification of the axiom of choice———
+
+P16: A vector space is a mathematical structure where objects ("vectors") can be added together and scaled by numbers ("scalars"). A basis is the fundamental structural backbone of a vector space. It is a set of vectors B that satisfies two non-negotiable conditions: 1. No vector in B can be constructed by combining the other vectors in B. There are no redundant axes. 2. Every single vector in the entire space can be written as a combination of the vectors in B. The proof for this is the following:
+
+P17: A scalar c is a number that scales the magnitude of a vector without changing its fundamental direction line.
+
+P18: A linear combination of a set of vectors B={v1, v2, ..., vn} is any vector formed by scaling each vector and adding them together: w=c1v1+c2v2+...+cnvn.
+
+C18: Therefore, linear combinations define the entire set of points in space reachable by moving exclusively along the directions provided by the vectors in B.
+
+P19: A set of vectors B is a spanning set for a vector space V if every vector v that belongs to V can be expressed as at least one linear combination of the vectors in B.
+
+P20: Geometrically, spanning means B contains enough directional vectors to reach every corner, point, and sub region of V.
+
+P21: If a set B fails to span V, there exists at least one vector u that belongs to V that cannot be built from B, meaning B leaves entire dimensions or regions of space unreachable.
+
+C19: Therefore, a spanning set represents completeness. It guarantees that B is large enough to construct the entire vector space V, ensuring that at least one coordinate representation exists for every vector.
+
+P22: A set of vectors B = {v1, v2, ..., vn} is linearly independent if the equation c1v1+ c2v2 +...+ cnvn=0 has only the trivial solution c1=c2=...=cn =0.
+
+P23: Conversely, if a non trivial solution exists where at least one scalar cj≠0, we can rearrange the equation to isolate vj:
+
+vj=(c1/cj)×v1-(c2/cj)×v2-...-(cn/cj)×vn
+
+C20: The equation from before proves that vj can be constructed entirely out of the remaining vectors in B, making vj geometrically redundant (in other words, a 3rd vector lying flat in the 2D plane defined by the first two).
+
+C21: Therefore, linear independence guarantees that no vector in B lies within the span of the others, ensuring there are no redundant axes and that every vector adds a genuinely new dimension of freedom.
+
+P24: If a set B spans V, then for any vector v that belongs to V, there exists at least one set of scalar coordinates (c1, c2, ..., cn) such that v=Σcivi.
+
+P25: If a set B is linearly independent, there exists at most one set of scalar coordinates that can construct any given vector v that belongs to V.
+
+P26: A basis is defined as a set B that is simultaneously a spanning set AND linearly independent.
+
+C22: Therefore, a basis is a set that is large enough to reach everything (spanning) and small enough to waste nothing (independent), guaranteeing that every vector in V has exactly one unique coordinate representation.
+
+P27: For finite dimensional spaces (like 3D space), finding a basis is simple. You pick three perpendicular directions, and the algorithm terminates.
+
+P28: Now consider an infinite dimensional space, for example treating all real numbers R as a vector space using only rational numbers Q as scalars (known as R over Q).
+
+P29: To build a basis for such a space, you must start with a small set of independent numbers (like 1, square root of 2, pi) and continuously add new independent numbers to span the rest of R.
+
+P30: Because R is uncountably infinite, this process can never be completed step by step. To guarantee that this infinite building process eventually hits a "maximal" state that spans all of R without missing anything, mathematicians rely on Zorn’s Lemma.
+
+P31: Zorn’s Lemma states that any partially ordered set where every chain has an upper bound contains at least one maximal element. Zorn's Lemma is logically equivalent to the Axiom of Choice.
+
+P32: If the Axiom of Choice is rejected, Zorn’s Lemma fails. Without Zorn’s Lemma, there is no mathematical guarantee that a maximal linearly independent set exists for an infinite dimensional space.
+
+P33: Consequently, without Choice, there exist infinite dimensional vector spaces that possess no basis at all (known to us as Hamel bases).
+
+C23: In a basisless vector space, coordinate decomposition is impossible. Points exist within the space, but there is no coordinate system, no axes, no components and no algebraic address system to locate or manipulate them.
+
+P34: In standard linear algebra, the Dimension Theorem asserts that if A and B are both bases for a vector space V, then their cardinalities are strictly equal (|A|=|B|).
+
+P35: This size invariance is what makes "dimension" a fundamental property of reality. An object is 3D regardless of whether you tilt, rotate, or shift the coordinate axes used to measure it.
+
+P36: To prove |B|=<|A| for infinite bases, every vector b that belongs to B is expressed as a finite linear combination of vectors in A. This defines a function f: B —> Pfin(A), where Pfin(A) is the set of all finite subsets of A.
+
+C24: Because B is linearly independent, each finite subset S that belongs to Pfin(A), can span only a finite number of vectors in B, proving that f maps B into a union of finite subsets of A.
+
+P37: In standard set theory with Choice (ZFC), the cardinal arithmetic equality |Pfin(A)|= |A| holds for any infinite set A, which guarantees that the avsolute value of B is less than or equal to the absolute value of A. By symmetry, |A|=<|B|, and by the Cantor-Bernstein-Schröder theorem, |A|=|B|.
+
+C25: Therefore, the proof that two bases of the same vector space must have equal cardinality relies directly on cardinal arithmetic properties that depend on the Axiom of Choice.
+
+P38: In pure Zermelo-Fraenkel set theory (ZF without Choice), cardinal numbers are not well ordered. It is possible for two infinite sets X and Y to exist such that |X| is not smaller or equal to |Y| and |Y| is not smaller or equal to |X| (Trichotomy fails).
+
+P39: Without Choice, the cardinal inequality |Pfin(A)|=|A|, fails for certain infinite sets A; the set of finite subsets of A can be strictly larger in cardinality than A itself (|Pfin(A)|>|A|).
+
+C26: As a result, the mapping f: B —> Pfin(A) no longer implies that |B|=<|A|, because B can be injected into Pfin(A) without B being injectible into A.
+
+C27: Therefore, in ZF, the logical link establishing that |B|=<|A| and |A|=<|B| breaks down, allowing two bases of the same vector space to potentially have non isomorphic cardinalities.
+
+P40: In one model (known to us as Läuchli's model), there exists an infinite field K and a vector space V generated by symmetric sets of elements constructed via group permutations of atoms. Within this model, one can construct a basis A for V such that A is countably infinite, meaning its cardinality is Aleph 0
+
+P41: Simultaneously, within the exact same set-theoretic model, the symmetry constraints permit the construction of a second generating set B for V.
+
+P42: The set B is linearly independent and spans V, making B a valid basis for V.
+
+Q/D3: However, due to the failure of Choice in the model, B is constructed from an uncountably infinite Dedekind-finite set, yielding a cardinality equal to the continuum (2\^Aleph0) or another non embeddable cardinal strictly greater than Aleph0
+
+C28: Therefore, Läuchli's construction proves that it is mathematically consistent with ZF for a single vector space V to simultaneously possess a countable basis A (|A|=Aleph0) and an uncountable basis B (|B|=2\^Aleph0).
+
+P43: Let V be the vector space constructed in Läuchli's ZF model.
+
+P44: By definition, set A is a proper subset of set V is a basis for V if and only if A is linearly independent and span(A)=V.
+
+P45: By definition, set B is a proper subset of set V is a basis for V if and only if B is linearly independent and span(B)=V.
+
+P46: From P39 and Q/D3, A and B both satisfy the definition of a basis for V, yet |A|=Aleph0 and |B|=2\^Aleph0.
+
+P47: The dimension of a vector space, dim(V), is defined as the cardinality of its basis.
+
+C29: In ZF, dim(V)=Aleph0 and dim(V)= 2\^Aleph0 are both true statements for the same vector space V.
+
+C30: Without the Axiom of Choice, the Dimension Theorem is false. The property of "dimension" for an infinite dimensional vector space is not invariant, proving that the Axiom of Choice is necessary to preserve the fundamental geometric identity of vector spaces. In other words, if the size of a basis changes depending on which basis you select, then the "dimension" of the vector space is no longer an invariant truth. The space is simultaneously countably dimensional and uncountably dimensional.
+
+C31: Without the Axiom of Choice, infinite dimensional linear algebra breaks. Spaces lose their coordinates entirely, or their degrees of freedom become ill defined paradoxes.
+
+P48: While the Axiom of Choice creates non-measurable sets (shapes lacking a defined volume), rejecting Choice also destroys weak choice principles, such as Countable Choice.
+
+P49: In Zermelo-Fraenkel set theory without the Axiom of Choice (ZF), it is mathematically consistent that the set of real numbers R can be expressed as a countable union of countable sets. In standard set theory with Choice (ZFC), a basic theorem states that any countable union of countable sets remains countable. Proving this theorem requires the Axiom of Countable Choice (AComega), which guarantees that one can select an enumeration for each countable set in an infinite collection simultaneously. Without AComega, this proof fails, allowing models of ZF, such as the Feferman-Lévy model, to exist where R is an uncountable set constructed entirely from countably many countable sets A1, A2, A3, ... such that... \[ummm... I can't type the formula so just look at an image of it lmao\](https://www.reddit.com/u/Far-Substance-4473/s/GCGbABIAqh)
+
+P50: This set theoretic property creates a direct failure when applied to standard measure theory. The Lebesgue measure mu assigns a precise concept of length to subsets of R. Two core axioms define how Lebesgue measure operates on real numbers. First, any individual point has a measure of zero, which implies that any countable set of points also has a measure of zero (mu(An)=0).
+
+P51: Second, Lebesgue measure satisfies countable subadditivity, meaning the measure of a countable union of sets is less than or equal to the sum of the measures of the individual sets.
+
+Q/D4: This result directly contradicts the baseline definition of interval measure, which states that any closed interval \[a, b\] must have a length equal to b-a. For example, the unit interval \[0, 1\] has a length of 1, and because \[0, 1\] is a subset of R, the total length of R must be greater than or equal to 1.
+
+C32: Consequently, rejecting Countable Choice forces a system where standard Lebesgue measure cannot coexist with its basic axioms. Either countable sets can no longer have a length of zero, measure loses countable additivity, or the length of the continuous real line equals zero.
+
+P52: A Cartesian product space is a space made by combining two or more individual sets or mathematical spaces. It contains every possible ordered combination of points or elements from the starting spaces
+
+P53: By definition, if a collection of sets is non-empty, selecting one element from each must yield a valid state in their combined Cartesian product space.
+
+P54: Without the Axiom of Choice, an infinite Cartesian product of non-empty sets can evaluate to the empty set (Ø), mathematically asserting that an infinite collection of non empty containers yields zero valid joint combinations.
+
+Q/D5: This failure invalidates Tychonoff’s Theorem (which states that the product of compact topological spaces is compact), the foundational pillar for functional analysis and state space mechanics in physics.
+
+C33: Therefore, the Axiom of Choice is required to prevent topological product spaces from collapsing into empty sets.
+
+P55: Modern abstract algebra relies on Krull’s Theorem, which guarantees that every proper ideal in a commutative ring with identity (1≠0) can be extended to a maximal ideal (proved via Zorn's Lemma, which is equivalent to Choice).
+
+P56: Maximal ideals allow for the creation of residue fields and form the geometric foundation of modern algebraic geometry through the spectrum of a Ring, denoted as Spec(R).
+
+P57: Without Choice, there exist valid commutative rings whose proper ideals cannot be extended to any maximal ideal, causing Spec(R) to evaluate to an empty set for non-zero structures.
+
+C34: Therefore, abstract algebra requires the Axiom of Choice to guarantee that algebraic structures possess maximal representations.
+
+C35: All this means that pure mathematics must accept the Axiom of Choice to remain a functional, coherent system.
+
+———end of justification———
+
+P60: Using the newly deduced Axiom of Choice, I can group the infinite, continuous points of a mathematical sphere into distinct "orbits".
+
+P61: Let a and b be two rotations of 3D space around orthogonal axes by irrational multiples of pi (such as arccos(1/3)). Because the angles are irrational, no combination of these rotations ever loops back to the identity except the trivial sequence.
+
+P62: The set of all possible sequences of these rotations forms the Free Group on Two Generators, denoted as F2.
+
+P63: When F2 acts on the surface of a unit sphere S\^2, it groups the points of the sphere into seperate collections called orbits. Two points p and q belong to the same orbit if and only if there exists a sequence of rotations in F2 that maps p onto q.
+
+P64: The entire sphere is split into an uncountably infinite number of these non overlapping orbits.
+
+P65: By applying the Axiom of Choice, we select exactly one representative point from every single orbit. We gather these chosen points together into a single master set M.
+
+P66: Because set M contains exactly one anchor point from every rotational branch, M is infinitely dense everywhere on the sphere yet infinitely porous, it contains no continuous surface patch, no area, and no recognizable boundary.
+
+C36: Therefore, set M is a deeply unnatural, scattered set of anchor points that acts as the structural template for decomposing the sphere.
+
+P67: In geometry and analysis, the concept of "volume" is formalized by the Lebesgue measure mu, which assigns a non negative real number to a spatial set E.
+
+P68: The Lebesgue measure mu must satisfy three mandatory axioms: First, Countable Additivity: \[The measure of a union of disjoint sets equals the sum of their individual measures\](https://www.reddit.com/u/Far-Substance-4473/s/A1m6J2to7N). Isometry Invariance: Rotating or translating a set does not change its volume: mu(g×E)=mu(E) for any rotation g that belongs to SO(3). Lastly, Positivity: The total volume of a solid unit sphere is a fixed positive finite number V>0.
+
+P69: Assume for proof by contradiction that the scattered set M possesses a well defined measure mu(M)=v.
+
+P70: \[By construction, the entire sphere (excluding a countable set of fixed rotational poles D) is the disjoint union of countably many rotated copies of M\](https://www.reddit.com/u/Far-Substance-4473/s/eyYVPbiXFN)
+
+P71: By isometry invariance, every rotated copy g×M must have the exact same volume v as the original set M.
+
+P72: \[Applying countable additivity to the whole sphere yields\](https://www.reddit.com/u/Far-Substance-4473/s/jm273yBumM)
+
+Q/D6: Evaluating this infinite sum reveals an unavoidable contradiction:
+
+If v=0, then mu(S\^2 setminus D)=0+0+0+...=0, contradicting the fact that the sphere has volume V>0.
+
+If v>0, then mu(S\^2 setminus D)=v+v+v+...=infinity, contradicting the fact that the sphere has finite volume V.
+
+C37: Therefore, set M cannot be assigned any non-negative real number as its volume. It fundamentally breaks measure theory and is a non-measurable set.
+
+P73: Any word in the free group F2 consists of a sequence of four fundamental movements: a (East), a\^-1 (West), b (North), and b\^-1 (South).
+
+P74: The entire group F2 can be partitioned algebraically into 5 mutually disjoint sets:
+
+1. e: The identity element (no rotation).
+
+2. S(a): All rotational words starting with a.
+
+3. S(a\^-1): All rotational words starting with a\^-1.
+
+4. S(b): All rotational words starting with b.
+
+5. S(b\^-1): All rotational words starting with b\^-1.
+
+P75: Consider what happens when we multiply the set S(a\^-1) by the single rotation a: a×S(a\^-1)
+
+C38: Because a×a\^-1=e (they cancel each other out), applying a to any word starting with a\^-1 strips away the leading a\^-1.
+
+C39: This cancellation causes a×S(a\^-1) to expand into almost the entire group F2: a×S(a\^-1)=S(a\^-1) union S(b) union S(b\^-1) union {e}
+
+P76: By attaching our non-measurable anchor set M to these 5 algebraic sets, we partition the points of the physical sphere into 5 non measurable geometric pieces:
+
+Piece 1 (P1) = M union Poles
+
+Piece 2 } (P2) = S(a)×M
+
+Piece 3 } (P3) = S(a\^-1)×M
+
+Piece 4 (P4) = S(b)×M
+
+Piece 5 (P5)=S(b\^-1)×M
+
+C40: Therefore, the solid sphere is partitioned into exactly five disjoint, non measurable pieces derived directly from the paradoxical algebra of F2.
+
+P77: We take Piece 3(P3=S(a\^-1)×M) and rotate it in 3D space by a:
+
+a×P3=a×S(a\^-1)×M=(S(a\^-1) union S(b) union S(b\^-1) union {e})×M
+
+P78: Combining this rotated Piece 3 with Piece 2 (P2=S(a)×M) yields:
+
+(a×P3) union P2 = (S(a) union S(b\^-1) union {e})×M=F2×M
+
+C41: Because F2×M contains every orbit of the sphere exactly once, (a×P3) union P2 forms one complete, solid mathematical sphere with zero missing points.
+
+P79: Similarly, we take Piece 5 (P5=S(b\^-1)×M) and rotate it by b:
+
+b×P5=b×S(b\^-1)×M=(S(b\^-1) union S(a) union S(a\^-1) union {e})×M
+
+P80: Combining this rotated Piece 5 with Piece 4 (P4=S(b)×M) and the leftover Piece 1 (P1) yields:
+
+(b×P5) union P4 union P1=F2×M union Poles = a second completely solid sphere
+
+C41: Through pure rigid rotations without any stretching or deformation, the 5 non measurable pieces assemble cleanly into two complete spheres, identical in size and volume to the original.
+
+P81: If the very first conclusion is true, then C41 must also be true
+
+P82: If C41 is applicable to reality, I could take a solid sphere of gold, cut it into five specific, infinitely complex pieces, and reassemble them into two perfectly solid, identical spheres of gold.
+
+P83: The spontaneous creation of mass fundamentally violates the observable reality of the universe. It would violate the conservation of energy (which btw only works on a local scale, not a gloabal one. Still, if C41 was true, we could even do it on a local scale).
+
+C42: Therefore, the conclusion C41 (that matter can be duplicated) is a physical impossibility.
+
+P84: Since the mathematical logic leading to C4 is absolutely flawless, the contradiction must lie in the foundational premise (P2 and C1).
+
+P85: The premise P2 incorrectly assumed that physical matter is isomorphic to continuous mathematical space R\^3.
+
+P86: The specific mathematical maneuver that broke reality required matter to be infinitely divisible so that it could be separated into non-measurable sets using the Axiom of Choice.
+
+C43: If matter cannot be infinitely divided into non measurable sets, there must be a physical "floor" to reality, a point at which a physical object can no longer be cut. Therefore, matter is not a continuous, infinitely divisible field. Reality is pixelated. The universe must be constructed of discrete, finite, indivisible building blocks. The existence of tiny, fundamental particles is an absolute logical necessity.
+
+Thing is, I know for a fact that the final conclusion, that being that matter is made of tiny indivisible particles, is correct and that the Banach-Tarski Paradox can be used to prove it, because that's what real world scientists did. I think Vsauce made a video about it once.
+
+Anyways, this line of though can expand into different subjects
+
+——–extentions of reasoning that branch off from this———
+
+P87: Imagine throwing two independent darts at a continuous line segment \[0, 1\]. The impact points of the two darts are random real numbers, x and y.
+
+P88: If the Continuum Hypothesis (derived from Choice) holds, the continuous interval can be well-ordered such that for every point x, the set of points Ax "below" x in the well-ordering is merely countable.
+
+P89: Because Ax is a countable set of points, the probability that Dart 2 (y) lands inside Ax is exactly zero (P(y that belongs to Ax)=0).
+
+P90: By absolute symmetry, Dart 1 (x) landing inside Ay must also have a probability of zero (P(x that belongs to Ay)=0).
+
+P91: Therefore, the probability that either y \\in A\_x OR x that belongs to Ay is true must equal 0+0=0.
+
+P92: However, under set-theoretic well-ordering, every pair of points (x, y) must be ordered such that either y that belongs to Ax or x that belongs to Ay is guaranteed to be true.
+
+C44: Probability theory asserts P(True)=0. The probability of an event that is 100% guaranteed to happen evaluates to zero.
+
+C45: Continuous geometric space is fundamentally incompatible with the basic axioms of probability. Either probability theory is wrong, or physical space cannot be continuous.
+
+P93: Imagine an uncountably infinite line of prisoners, each wearing either a black or white hat. Each prisoner can see all hats in front of them, but cannot see their own hat or hear the guesses of others.
+
+P94: All prisoners must guess their hat color simultaneously.
+
+P95: The set of all possible infinite hat sequences can be grouped into "equivalence classes" (two sequences are equivalent if they differ in only a finite number of positions).
+
+P96: Using the Axiom of Choice, the prisoners meet before the game and select one representative sequence from every single equivalence class.
+
+P97: During the game, each prisoner looks ahead, sees the infinite tail of hats, and instantly identifies which equivalence class they are in.
+
+P98: Every prisoner guesses the hat color corresponding to their position in that pre-chosen representative sequence.
+
+P99: Because the real sequence and the representative sequence differ in only a finite number of hats, all but a finite number of prisoners will guess correctly.
+
+C46: Choice allows an infinite group of isolated observers to predict unknown, non-local information with near 100% accuracy without communication. Because physical universe causality forbids non-local prediction engines, reality cannot consist of continuous infinite choice structures.
+
+P100: If physical matter or space were continuous, even a single cubic centimeter of space would contain an uncountably infinite number of continuous points, and thus an infinite capacity for information. This would mean that it would collapse into a black hole.
+
+C47: Evidentally, this is isn't the case, which is further proof of C43.

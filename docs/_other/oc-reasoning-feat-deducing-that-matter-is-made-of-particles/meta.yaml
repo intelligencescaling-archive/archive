@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: oc-reasoning-feat-deducing-that-matter-is-made-of-particles
+category: doc
+title: 'OC Reasoning Feat: Deducing That Matter Is Made of Particles (Set Theory and Banach-Tarski)'
+alt_titles:
+- Where do you guys scale this reasoning feat of one of my OC's (assuming I didn't get the math wrong)?
+authors:
+- name: Far-Substance-4473
+  reddit: Far-Substance-4473
+  id: far-substance-4473
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vm0039/where_do_you_guys_scale_this_reasoning_feat_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5799
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

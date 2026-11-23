@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 91-pages-of-scaling-vs-one-reddit-debunk-response-to
+category: doc
+title: '91 Pages of Scaling vs One Reddit Debunk: Response to Apóstolos (Hannibal SOTL)'
+alt_titles:
+- 91 pages of scaling vs "one illiterate Reddit r3tard" (Response to Apóstolos)
+authors:
+- name: Mister_MxyzptIk_
+  reddit: Mister_MxyzptIk_
+  id: mister-mxyzptik
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xxv1s8/91_pages_of_scaling_vs_one_illiterate_reddit/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 536
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 156490
+      sha256: 406e25b350203be2e60a5d4a1b1a378cac1ea67c4bf6351fc1a540b19ae52967
+    - format: png
+      name: image-2.png
+      bytes: 437042
+      sha256: 5238c1bf9f3827cbc9a3a8f5bd5d483570644861a205502804d2e4cda60d93f0
+    - format: png
+      name: image-3.png
+      bytes: 239444
+      sha256: 994cfefef75cb25bcd8d63de98b256f129c7e1b44f6a8fadfba30ad74dd6836a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

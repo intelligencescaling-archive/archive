@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: li-gang-s-catastrophe-plan-analysis-vile-dominion
+category: doc
+title: Li Gang's Catastrophe Plan Analysis (Vile Dominion)
+alt_titles:
+- Catastrophe Plan Analysis
+authors:
+- name: AdvisorSubstantial17
+  reddit: AdvisorSubstantial17
+  id: advisorsubstantial17
+  source: reddit-post
+series:
+- vile-dominion
+characters:
+- li-gang
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ub27fx/catastrophe_plan_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2441
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 818307
+      sha256: 0c098152c1356c9526ddf36cbd20b4f330cd69e02dff2432952483f4ae16ae79
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

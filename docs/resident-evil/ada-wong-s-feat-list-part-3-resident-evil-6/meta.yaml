@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ada-wong-s-feat-list-part-3-resident-evil-6
+category: doc
+title: 'Ada Wong''s Feat List, Part 3: Resident Evil 6'
+alt_titles:
+- Ada Wong's Feat list part 3. Resident Evil 6
+authors:
+- name: CroquetQueen
+  reddit: CroquetQueen
+  id: croquetqueen
+  source: reddit-post
+series:
+- resident-evil
+characters:
+- ada-wong
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1otbpcb/ada_wongs_feat_list_part_3_resident_evil_6/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 616
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 75087
+      sha256: e3458adfc6c3553399af4a0fc50b1a36513601e6266f72a75b0e9b04984aafb6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

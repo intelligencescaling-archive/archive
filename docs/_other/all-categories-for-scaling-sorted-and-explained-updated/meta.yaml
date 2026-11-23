@@ -1,0 +1,34 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: all-categories-for-scaling-sorted-and-explained-updated
+category: doc
+title: All Categories for Scaling, Sorted and Explained (Updated)
+authors:
+- name: EphemeralNightscape
+  reddit: EphemeralNightscape
+  id: ephemeralnightscape
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1dyh4mx/all_categories_for_scaling_sorted_and_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5442
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

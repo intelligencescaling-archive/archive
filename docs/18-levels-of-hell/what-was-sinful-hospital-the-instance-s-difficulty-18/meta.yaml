@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: what-was-sinful-hospital-the-instance-s-difficulty-18
+category: doc
+title: What Was Sinful Hospital? The Instance's Difficulty (18 Levels of Hell)
+alt_titles:
+- What the Fuck was Sinful Hospital
+authors:
+- name: Dismal_Gate2848
+  reddit: Dismal_Gate2848
+  id: dismal-gate2848
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+- qiu-yinong
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w7ytr9/what_the_fuck_was_sinful_hospital/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 542
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

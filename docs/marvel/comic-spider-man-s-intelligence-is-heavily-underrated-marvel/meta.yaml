@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comic-spider-man-s-intelligence-is-heavily-underrated-marvel
+category: doc
+title: Comic Spider-Man's Intelligence Is Heavily Underrated (Marvel)
+alt_titles:
+- Comic Spider-man's intelligence is heavily underrated
+authors:
+- name: Subject_Item_6953
+  reddit: Subject_Item_6953
+  id: subject-item-6953
+  source: reddit-post
+series:
+- marvel
+characters:
+- spider-man
+tags:
+- feats
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wucfit/comic_spidermans_intelligence_is_heavily/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2447
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

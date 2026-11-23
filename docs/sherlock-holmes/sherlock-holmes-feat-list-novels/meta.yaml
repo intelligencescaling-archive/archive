@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-holmes-feat-list-novels
+category: doc
+title: Sherlock Holmes Feat List (Novels)
+alt_titles:
+- Sherlock Holmes feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oar977/sherlock_holmes_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 765
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 94292
+      sha256: 54a47702c4e4c25040f45d8e06ed3bb3d3220ab4b0d8895e052b182896e8bc6f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,94 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: narrative-hype-vs-real-logic-why-liar-game-tomodachi-game
+category: doc
+title: 'Narrative Hype vs. Real Logic: Why Liar Game, Tomodachi Game, Death Note and Usogui Completely Clear COTE'
+alt_titles:
+- 'Narrative Hype vs. Real Logic: Why Liar Game, Tomodachi Game, Death Note and usugoi Completely Clear COTE'
+authors:
+- name: Hot-Concert-1202
+  reddit: Hot-Concert-1202
+  id: hot-concert-1202
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- liar-game
+- tomodachi-game
+- death-note
+characters:
+- kiyotaka-ayanokoji
+tags:
+- writing
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uqo030/narrative_hype_vs_real_logic_why_liar_game/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2232
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 119494
+      sha256: c88a54f3e0b9b44ae6bb77a3d7c48490ce43268847dd00e53a991f9773ef1e5e
+    - format: jpg
+      name: image-2.jpg
+      bytes: 120921
+      sha256: 1f4ba9b04edb03a3518b4a16d08948357b7d00c567bb4839363ff5c6c1f4fd66
+    - format: jpg
+      name: image-3.jpg
+      bytes: 128975
+      sha256: b8c3aa2a40d9c0c20c3a0bd3c4453d739d8d338ad3d0dc1a20dba2ed90deab67
+    - format: jpg
+      name: image-4.jpg
+      bytes: 56413
+      sha256: 9cc86db4216180f31eed921d0bd728f259eddbbfb229ae5dc21e85c805d45c7d
+    - format: jpg
+      name: image-5.jpg
+      bytes: 51691
+      sha256: 551f1af11f93ef8f2a9a1932568110ddf1bc50cd34cae54618342aa176d9812d
+    - format: png
+      name: image-6.png
+      bytes: 152312
+      sha256: 8401fad46b3d0144ab310efdd1a390bc4d3b0aaa7ba411303b87fe34d6ecb71f
+    - format: png
+      name: image-7.png
+      bytes: 129402
+      sha256: f128bc55577b5ee6ad2f23fb6cd50404c2b782f0d1c3d4d41fc264bf1eecb84c
+    - format: jpg
+      name: image-8.jpg
+      bytes: 90854
+      sha256: 3558332530b2f43d39671d7f9746ef9e62ff025c8356945663d7acc0b58127e3
+    - format: jpg
+      name: image-9.jpg
+      bytes: 102043
+      sha256: daa14292a96616b165f8d4d6fb8acded9ad7134671fd1ac0a41104e9285c03d5
+    - format: jpg
+      name: image-10.jpg
+      bytes: 103989
+      sha256: de1d03d5a1b98b65dde2bcec138455ef901b543dae3359da9e6b5134f26f4aca
+    - format: png
+      name: image-11.png
+      bytes: 420904
+      sha256: 43f7d0add1ac5ca2a743af3774ac32872496b863974152b391b76766d551e633
+    - format: jpg
+      name: image-12.jpg
+      bytes: 25409
+      sha256: 67e2fca11950b43603efeedc545a6dda9950981b018ac1e7e1eefb76617568f0
+    - format: jpg
+      name: image-13.jpg
+      bytes: 157696
+      sha256: 583b23c7e612d6760aebeec0a4b53bbed5939337eac6f7f2ff7393984386b909
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

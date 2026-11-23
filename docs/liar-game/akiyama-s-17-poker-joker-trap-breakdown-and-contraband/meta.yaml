@@ -1,0 +1,63 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-17-poker-joker-trap-breakdown-and-contraband
+category: doc
+title: Akiyama's 17 Poker Joker Trap Breakdown and Contraband Debate (Liar Game)
+alt_titles:
+- Akiyama's 17card poker Joker Trap ABDUCTION feat FULL BREAKDOWN analysis & FURTHER INSIGHT on Yokoya's Contraband Strategy POTENCY
+authors:
+- name: stas-za
+  reddit: stas-za
+  id: stas-za
+  source: doc-text
+- name: DAX-PMFT
+  reddit: DAX-PMFT
+  id: dax-pmft-2
+  source: doc-text
+- name: goodlife766
+  reddit: goodlife766
+  id: goodlife766
+  source: doc-text
+- name: CatGuy803
+  reddit: CatGuy803
+  id: catguy803
+  source: doc-text
+shared_by:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xqp6fx/akiyamas_17card_poker_joker_trap_abduction_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1661
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 48687
+      sha256: e71cca40170a39ec05937536cf8347f79ce544e5ddf89e00717ef6648162c90e
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-2: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

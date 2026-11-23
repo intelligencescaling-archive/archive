@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: eren-yeager-s-fsiq-feats-attack-on-titan
+category: doc
+title: Eren Yeager's FSIQ Feats (Attack on Titan)
+alt_titles:
+- Some Eren Yeager FSIQ (Full-Scale IQ) Feats 🥶🥶🥶🥶
+authors:
+- name: Inevitable_Dig_7080
+  reddit: Inevitable_Dig_7080
+  id: inevitable-dig-7080
+  source: reddit-post
+series:
+- attack-on-titan
+characters:
+- eren-yeager
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1j0opi2/some_eren_yeager_fsiq_fullscale_iq_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 964
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

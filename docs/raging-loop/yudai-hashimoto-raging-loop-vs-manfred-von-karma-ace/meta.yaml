@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yudai-hashimoto-raging-loop-vs-manfred-von-karma-ace
+category: doc
+title: Yudai Hashimoto (Raging Loop) vs Manfred von Karma (Ace Attorney) Distribution
+authors:
+- name: Due_Ad8334
+  reddit: Due_Ad8334
+  id: due-ad8334
+  source: reddit-post
+series:
+- raging-loop
+- ace-attorney
+characters:
+- yudai-hashimoto
+- manfred-von-karma
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ul1vlo/yudai_hashimoto_raging_loop_vs_manfred_von_karma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 717
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 34218
+      sha256: 82f0f2dd78f17899f2d796a2e57981ba79126cb0720e654f9daf592a99f3fe85
+    - format: png
+      name: image-2.png
+      bytes: 35982
+      sha256: ef3bf7d9486337e6c55809ef2384df4f1972f971142d5996ba154e92ed10b826
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

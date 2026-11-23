@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: review-of-the-novel-red-dragon-hannibal
+category: doc
+title: Review of the Novel Red Dragon (Hannibal)
+alt_titles:
+- Review of the novel "Red Dragon"
+authors:
+- name: Equivalent-One2361
+  reddit: Equivalent-One2361
+  id: equivalent-one2361
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+- will-graham
+- francis-dolarhyde
+tags:
+- writing
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mnbvsk/review_of_the_novel_red_dragon/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2755
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 71751
+      sha256: 05bd26fcc7768aa2e23378c785c631b2a106de62cef6f6086b4f7f2098d1fda3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

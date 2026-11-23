@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-fake-chen-ran-c-outsmarted-fake-chen-ran-d-a-mini
+category: doc
+title: 'How Fake Chen Ran C Outsmarted Fake Chen Ran D: A Mini Analysis (18 Levels of Hell)'
+alt_titles:
+- Chen Ran Self Killing doc is delayed... But a mini deception/logical manip ft. Sneakpeek
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+- geng-hao
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1putazr/chen_ran_self_killing_doc_is_delayed_but_a_mini/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 696
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 144486
+      sha256: b1104046ade31b251645d10ddd2382fe4b75d45dafa125cb7c9ec1451c128dde
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

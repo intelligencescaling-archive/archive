@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: smart-characters-vs-zombie-apocalypse-situations
+category: doc
+title: Smart Characters vs Zombie Apocalypse Situations
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  id: ancient-end2474
+  source: reddit-post
+series:
+- usogui
+- reverend-insanity
+- dr-stone
+- ravages-of-time
+- god-s-imitation
+characters:
+- baku-madarame
+- fang-yuan
+- senku-ishigami
+- guo-jia
+- lin-sizhi
+tags:
+- matchup
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wz05ja/smart_characters_vs_zombie_apocalypse_situations/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1234
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 122093
+      sha256: dfaab28a46792b39facf05a3c181e442750d8e6e30ce83e1d26699e896b3efbd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
