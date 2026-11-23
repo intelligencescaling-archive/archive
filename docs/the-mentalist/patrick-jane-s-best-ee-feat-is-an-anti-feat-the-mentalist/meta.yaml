@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-best-ee-feat-is-an-anti-feat-the-mentalist
+category: doc
+title: Patrick Jane's Best EE Feat Is an Anti-Feat (The Mentalist)
+alt_titles:
+- Yuuichi > Jane in EE (His best feat is an Anti Feat)
+authors:
+- name: KitchenCoyote_The2nd
+  reddit: KitchenCoyote_The2nd
+  id: kitchencoyote
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rxtok5/yuuichi_jane_in_ee_his_best_feat_is_an_anti_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 696
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 168738
+      sha256: bd9b5cecc0f0c8841d8aa33bf216b63cc9248a4e41c77a1ccd8a7119001c4ef0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

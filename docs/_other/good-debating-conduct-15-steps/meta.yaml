@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: good-debating-conduct-15-steps
+category: doc
+title: 'Good Debating Conduct: 15 Steps'
+authors:
+- name: MrDisintegrator
+  reddit: MrDisintegrator
+  id: mrdisintegrator
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1obyt09/good_debating_conduct_15_steps/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1486
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

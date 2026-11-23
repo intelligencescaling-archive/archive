@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: satoshi-s-chapter-2-reasoning-danganronpa-mauve
+category: doc
+title: Satoshi's Chapter 2 Reasoning (Danganronpa Mauve)
+alt_titles:
+- Satoshi’s Chapter 2 Reasoning From Danganronpa Mauve
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- satoshi-danganronpa
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xck86g/satoshis_chapter_2_reasoning_from_danganronpa/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2065
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 25387
+      sha256: bf1a72fba8dd39ca2dc139dad18ffc2d8ab3e6128478116b288694dea164f103
+    - format: jpg
+      name: image-2.jpg
+      bytes: 334751
+      sha256: 857ec61224c1b8f1685f91c9f4ba679b60a042308731f13fc9747239528d7f45
+    - format: jpg
+      name: image-3.jpg
+      bytes: 297791
+      sha256: 70ce28e7573e018235d0c1c2b1d67db29d719b72844118cf4179f1003100dcca
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

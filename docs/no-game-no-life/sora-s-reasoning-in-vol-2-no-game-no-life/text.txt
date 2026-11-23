@@ -1,0 +1,137 @@
+Sora's Reasoning in Vol 2
+
+just a little look into a doc im making
+
+**CONTEXT:**
+
+Sora and Shiro eventually have to face the Eastern Union, a powerful nation of Werebeasts that has defeated every race that challenged it. Their game is especially mysterious because challengers seem to lose their memories of what happened, making it nearly impossible for other races to understand how the Werebeasts keep winning. Sora investigates the Eastern Union’s history, the previous king of Elkia, and the other races that challenged them, especially the Elves. He also looks into the Werebeasts’ supposed ability to read minds and tries to figure out what is really happening during their games.
+
+**The following is the reasoning sequence Sora goes through while solving the mystery:**
+
+**P1:** Jibril knows that Sora requires knowledge of the race and its game in order to even begin formulating a way to win, which was also why he defeated her in the first place.
+
+**P2:** Jibril also knows that she herself had lost to the Werebeasts.
+
+**P3:** Despite having lost to them, Jibril appears unable to say anything about the game.
+
+**C1:** The Werebeasts could demand the challenger's memory of the game as part of the wager.
+
+**P4:** Sora finds records about all eight games that the Old King had played with the Eastern Union.
+
+**C2:** If **C1** is true, **P4** should not be possible, yet both are true, so Sora needs to determine how the Old King retained information about the games.
+
+**From there, he begins working backward to resolve the contradiction.**
+
+**P5:** The Old King was known to be a fool and was merely a human, meaning he could not present a serious threat to the Werebeasts.
+
+**P6:** He possessed lands and resources that the Eastern Union desperately needed.
+
+**P7:** When a casino deals with a rich fool, it has a reason to let the gambler believe that he can still win so that he keeps coming back.
+
+**C3:** The Eastern Union could similarly allow the Old King to retain his memories so that he would believe he still had a chance to beat them and keep returning to wager more of his territory.
+
+**P8:** The Eastern Union still could not allow the Old King to share information about their games with the rest of the world.
+
+**P9:** The Old King was still able to leave that information in written form and have it discovered after his death.
+
+**C4:** The Old King could have been allowed to retain his memories under a vow not to tell anyone about the games for as long as he lived.
+
+**P10:** The Werebeasts are believed to possess mind-reading abilities.
+
+**P11:** Yet the previous king somehow managed to trick them.
+
+**C5:** Sora needs to test whether the Werebeasts truly possess mind-reading abilities.
+
+**After the test, new premises and conclusions become available.**
+
+**P12:** Sora placed traps to test whether the Werebeasts could read minds, and they failed to identify his real intentions.
+
+**C6:** The Werebeasts do not possess true mind-reading abilities.
+
+**From there, Sora starts putting together a puzzle that he could not previously complete.**
+
+**P13:** The Eastern Union needs vast territories, which it obtains through games, but because it is the defending side, it needs other countries to attack it so that it can choose the game.
+
+**P14:** The memory-erasing rule contradicts this purpose because if challengers cannot retain memories of the game and the game is unbeatable, there should eventually be no reason for anyone to continue challenging them.
+
+**C7:** Even if the rule contradicts their objective, there must be an important reason why the Eastern Union needs memory erasure, such as the game becoming beatable if challengers could retain their memories.
+
+**Now moving onto the Elves' strange actions.**
+
+**P15:** Elven Gard had played and lost to the Eastern Union four times.
+
+**P16:** Even if memories of the games can be erased, the results of those games still remain.
+
+**P17:** Elven Gard possesses vast territories, so losing several times in order to gain information about the game would be relatively insignificant.
+
+**C8:** Elven Gard could use the results of its games to gather information about the Eastern Union's game.
+
+**P18:** Elves are particularly capable with magic, so after losing the first time, one possible explanation would be that the game prevented them from using magic.
+
+**C9:** Elven Gard could have suspected that the game somehow annulled magic after its first loss.
+
+**P19:** Although Elven Gard could not remember the game itself, the surviving result of the loss could lead them to infer that the game had somehow annulled magic.
+
+**P20:** Someone outside the game could use magic while the Elves played.
+
+**C10:** On the second attempt, Elven Gard could have had someone outside the game cast magic while they played.
+
+**P21:** Elven Gard still lost after using this method and then challenged the Eastern Union a third time.
+
+**C11:** By the third attempt, Elven Gard could have somehow uncovered the nature of the game.
+
+**P22:** Elven Gard then challenged the Eastern Union a fourth time and still lost despite having uncovered the nature of the game.
+
+**C12:** Understanding the nature of the game was not enough to prevent Elven Gard from losing.
+
+**This raised two questions: why did Elven Gard lose even after uncovering the game, and why did they stop after the fourth loss?**
+
+**P23:** Elven Gard stopped challenging after the fourth loss even though the result of losing could not be erased and the previous losses had already provided information about the game.
+
+**C13:** There must be a reason why Elven Gard stopped challenging despite the information it had obtained.
+
+**P24:** One possibility was that Elven Gard realized the game was theoretically impossible to win.
+
+**P25:** Another possibility was that Elven Gard had figured out the game but could not figure out why they had lost.
+
+**P26:** If Elven Gard had already uncovered the game by the third attempt and, through that discovery, realized that the game was theoretically impossible to win, then there would have been little reason for them to make a fourth attempt.
+
+**C14:** Because Elven Gard nevertheless made a fourth attempt, its third-attempt discovery was unlikely to have established that the game was theoretically impossible to win.
+
+**P27:** Elven Gard had uncovered the nature of the game, still lost on the fourth attempt, and then stopped challenging.
+
+**C15:** This instead suggests that Elven Gard had understood the game itself but still could not understand why it was losing.
+
+**This created the next question: what kind of game could be understood while the reason for losing remained unexplained?**
+
+**P28:** The game could be understood by the challenger while the reason for the defeat remained unclear.
+
+**P29:** The same game had defeated races with completely different characteristics, including the Flügel, Elves, and Immanity.
+
+**P30:** The game could only be used defensively and required the opponent's memories to be erased.
+
+**P31:** The game suited a technologically superior race that could not actually read minds.
+
+**P32:** Sora had already recognized the television as technology familiar to him.
+
+**C16:** The game is most likely video games with cheats.
+
+**The answer also explains the remaining contradictions.**
+
+**P33:** Other races are not familiar with the concept of video games, while memory erasure conceals the existence of the games from challengers.
+
+**P34:** The Werebeasts are controlling the games.
+
+**C17:** As the masters of the games, the Werebeasts can use cheats however they want without other races understanding how they are winning.
+
+**P35:** The opponents would be left asking why they had lost.
+
+**P36:** The Werebeasts can claim to possess the ability to read minds.
+
+**C18:** The false mind-reading ability provides losing opponents with an apparent explanation for their losses while concealing the actual mechanism of the games.
+
+**P37:** The Werebeasts cannot actually read minds.
+
+**P38:** Their superior sight, smell, and hearing allow them to notice subtle changes in a person's body.
+
+**C19:** They can detect lies through those physical changes, creating the appearance that they can read people's thoughts.

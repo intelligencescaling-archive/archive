@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: can-it-be-proven-that-light-s-ego-isn-t-to-blame-for-the
+category: doc
+title: Can It Be Proven That Light's Ego Isn't to Blame for the Lind L. Tailor Trap? (Death Note)
+alt_titles:
+- Can it be proven that Light's ego isn't to blame for him falling to the Lind L Tailor trap?
+authors:
+- name: v5mk
+  reddit: v5mk
+  id: v5mk
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+- l-lawliet
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tckyxx/can_it_be_proven_that_lights_ego_isnt_to_blame/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1714
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 210934
+      sha256: 77b5e38384b5699350dd44af5714ab57658fd5811fd5affbafd8ac55330b73ae
+    - format: png
+      name: image-2.png
+      bytes: 82913
+      sha256: f5aadc6a5636e4b1697b978a52292ad8bc89032a013849890cf1eaba40cc7464
+    - format: png
+      name: image-3.png
+      bytes: 373278
+      sha256: 813f5f09a004012de45acfad1f7c15c50346f731ee76db6bb146a2bbe8cf43de
+    - format: png
+      name: image-4.png
+      bytes: 91405
+      sha256: 9d51eaff70237b6e521477132d4a3f2f6da801a4cb8fe8fbca6eec9f875de1bd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

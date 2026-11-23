@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-s-yamanote-feat-death-note
+category: doc
+title: Light's Yamanote Feat (Death Note)
+alt_titles:
+- So, uh, Light's Yamanote Feat...
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nb545w/so_uh_lights_yamanote_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 784
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1029167
+      sha256: e10b426f604b93debd3cc49acdf3fa97f650d79b486b9578e10cbd08f27d4f2f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

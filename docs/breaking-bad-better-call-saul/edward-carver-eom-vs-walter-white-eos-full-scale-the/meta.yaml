@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: edward-carver-eom-vs-walter-white-eos-full-scale-the
+category: doc
+title: Edward Carver (EOM) vs Walter White (EOS) Full Scale (The Poughkeepsie Tapes vs Breaking Bad)
+alt_titles:
+- Edward Carver (EOM) vs Walter White (EOS) full scale distribution | Breaking Bad vs The Poughkeepsie Tapes
+authors:
+- name: Reddest_Velvet6
+  reddit: Reddest_Velvet6
+  id: velvet
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+- the-poughkeepsie-tapes
+characters:
+- walter-white
+- edward-carver
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tqpaq7/edward_carver_eom_vs_walter_white_eos_full_scale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 711
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 66521
+      sha256: 9aaefe6768c2ca1d1fa80c3c80611ea59f3605af84986852c463f901db55c200
+    - format: jpg
+      name: image-2.jpg
+      bytes: 161183
+      sha256: a66dece2b304ee76ac5e3a825e3e548ce3f1c83cf545ee865621765231913cee
+    - format: jpg
+      name: image-3.jpg
+      bytes: 99285
+      sha256: e9d4d79e1f9b7902f19d59945fc8eada3990df2ec6e8a8f0073d451fe88fce78
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

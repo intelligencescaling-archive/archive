@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hot-take-scd-should-focus-more-on-specific-feats-and-ditch
+category: doc
+title: 'Hot Take: SCD Should Focus More on Specific Feats and Ditch Intelligence Categories (Yuichi vs Akiyama)'
+alt_titles:
+- Hot take- SCD Should focus more on specific feats and ditch intelligence Categories entirely
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- tomodachi-game
+- liar-game
+characters:
+- yuuichi-katagiri
+- akiyama-shinichi
+tags:
+- matchup
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ll333e/hot_take_scd_should_focus_more_on_specific_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 532
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

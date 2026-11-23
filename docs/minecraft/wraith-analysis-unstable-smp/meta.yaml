@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: wraith-analysis-unstable-smp
+category: doc
+title: Wraith Analysis (Unstable SMP)
+alt_titles:
+- Unstable SMP Wraith Analysis SCD
+authors:
+- name: Joseph-studio-3006
+  reddit: Joseph-studio-3006
+  id: joseph-studio-3006
+  source: reddit-post
+series:
+- minecraft
+characters:
+- wraith-minecraft
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xp5kjw/unstable_smp_wraith_analysis_scd/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1033
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 48599
+      sha256: 746082e7dd4b1adfd09027546caa6ba289cc8508159304fb4e07a8ffde0596ac
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

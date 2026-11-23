@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-g-man-s-resonance-cascade-feat-half-life
+category: doc
+title: The G-Man's Resonance Cascade Feat (Half-Life)
+alt_titles:
+- Not sure why The G-Man was never discussed here
+authors:
+- name: Zealous998
+  reddit: Zealous998
+  id: zealous998
+  source: reddit-post
+series:
+- half-life
+characters:
+- g-man
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x2n7mk/not_sure_why_the_gman_was_never_discussed_here/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 615
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 44139
+      sha256: 31b5ac786eb5565423c6cf3c18b92bf2225b0fdf2d7dbd1193b2e3ae943ab094
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

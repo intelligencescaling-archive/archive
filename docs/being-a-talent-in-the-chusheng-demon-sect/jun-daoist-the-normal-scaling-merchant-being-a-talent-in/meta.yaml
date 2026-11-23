@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jun-daoist-the-normal-scaling-merchant-being-a-talent-in
+category: doc
+title: Jun Daoist, the Normal Scaling Merchant (Being a Talent in the Chusheng Demon Sect)
+alt_titles:
+- The Daoist(Normal Scaling merchant) from Being A Talent In Chusheng Demon Sect
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  id: ancient-end2474
+  source: reddit-post
+series:
+- being-a-talent-in-the-chusheng-demon-sect
+characters:
+- jun-daoist
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wx3yyc/the_daoistnormal_scaling_merchant_from_being_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 702
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 11860
+      sha256: 1c83c459b04da9d0b53bbeb247f49432834ecf847d938459dba1762c6f9c3cdd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

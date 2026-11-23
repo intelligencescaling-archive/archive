@@ -1,0 +1,76 @@
+Chapter 10 Yuuichi's Reasoning feats:
+
+All the previous parts: [https://www.reddit.com/user/Logical-Arachnid-066/comments/1rxyynk/all\_of\_my\_yuuichis\_reasoning\_analysis/](https://www.reddit.com/user/Logical-Arachnid-066/comments/1rxyynk/all_of_my_yuuichis_reasoning_analysis/)
+
+Slide 1-3: Deducing the way to communicate others without words
+
+Premise 1A: The players do not have any opportunity to talk to each other due to suspicion
+Conclusion 1: The Strategy must require a form of communication without words.
+
+Premise 2A: A player can decide to bring the backbiting paper in the stall even without any intention to backbite.
+Premise 2B: A player can write anything in the backbiting paper, even if it's not backbiting.
+Premise 2C: A player can bring more than one backbiting paper.
+
+Via Premise 2A,2B and 2C
+
+Conclusion 2: A player can use backbiting paper as a form of communication without words.
+
+Slide 4: Sawaragi is an ally
+
+Premise 3A: Only Sawaragi and Yuuichi knows the secret "Yuuichi didn't take a bath for a week"
+Premise 3B: Yuuichi submitted a blank paper
+
+Conclusion 3: Sawaragi is the one who submitted "No Bathing" secret
+
+Premise 4A: Someone submitted "Plastic Surgery" Secret and that someone must have been the traitor
+Premise 4B: Via Conclusion 1, Sawaragi is impossible to be the one who submitted "Plastic Surgery" Secret.
+
+Conclusion 4: Sawaragi is not the traitor, she is an ally.
+
+This Strategy does have a flaw, as I mentioned in **Premise 2C**, you can bring more than one paper, meaning you can backbite more than once. This will be addressed later
+
+Slide 5-7: Kokorogi is an ally
+
+Following the same strategy as earlier
+
+Premise 5A: Only Kokorogi and Sawaragi knows about "Sawaragi wears boy briefs" secret
+Premise 5B: Sawaragi submits a blank paper
+Premise 5C: "Sawaragi wears boy briefs" was submitted
+
+Conclusion 5: This means any other backbiting was neither by Sawaragi nor Kokorogi
+
+Premise 6A: "Tenji is lying about his age" was submitted
+
+Conclusion 6: Via Conclusion 1 and Premise 2A, only Tenji or Shibe could have submitted "Tenji is lying about his age" backbiting
+
+Slide 8-9: The reveal of the traitor
+
+Premise 7A: Only Shibe and Tenji are possible traitors
+Premise 7B: Shibe volunteers himself during "Special Chance"
+Premise 7C: The admins know who applied to the game, meaning that could have been the secret of the traitor
+Premise 7D: Volunteering himself would put Shibe in an extreme risk
+
+Conclusion 7: Shibe is not the Traitor
+
+Premise 8: Sawaragi,Kokorogi and Shibe are not traitors
+Conclusion 8: Therefore, Tenji must be the traitor via process of elimination.
+
+Slide 10: The flaw in the strategy
+
+Premise 9A: Via Premise 2C, you can bring and write multiple backbiting
+Conclusion 9: This means the process of elimination is impossible
+
+Slide 11-15: The counter to the flaw in the strategy
+
+Premise 10A: The name tags are the most important item to the players
+Premise 10B: Seeing the name tags mean increase in debt
+Premise 10C: Giving the name tag means trust towards the person
+Premise 10D: Betraying Yuuichi via multiple backbiting means their debt would increase (Because Yuuichi can check their debt)
+
+Conclusion 10: This means no player would want to betray the one who has the name tag, and this also means the ones who gave the name tags to Yuuichi are way more likely to be innocent.
+
+Slide 16: Shibe is dumb
+
+Premise 11A: Shibe is dumb
+Premise 11B: No one would tell their secrets to Shibe
+Conclusion 11: Shibe is unlikely to be the traitor

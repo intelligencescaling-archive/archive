@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-rank-jimmy-mcgill-above-walter-white-and-gus-fring
+category: doc
+title: Why Rank Jimmy McGill Above Walter White and Gus Fring? (Breaking Bad / Better Call Saul)
+alt_titles:
+- People who rank Jimmy McGill (Saul Goodman) above Walter White and Gustavo Fring, why?
+authors:
+- name: LizardKingTMOTK
+  reddit: LizardKingTMOTK
+  id: lizardkingtmotk
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- jimmy-mcgill
+- walter-white
+- gus-fring
+tags:
+- matchup
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vjdequ/people_who_rank_jimmy_mcgill_saul_goodman_above/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 621
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35871
+      sha256: e0555c94c75df9a2ecfae47770c713c6d0d63c2de0fa8d64377db73110f496cd
+    - format: jpg
+      name: image-2.jpg
+      bytes: 27325
+      sha256: a15cea59fcac87170f33fa3b2f0e69323224288a5bd7fcd10533f807e226eeb3
+    - format: jpg
+      name: image-3.jpg
+      bytes: 66661
+      sha256: ff6968f0bdfd8975d5c07d57d95e73c7dbd5b343a1ffe0a88939709b383b447d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

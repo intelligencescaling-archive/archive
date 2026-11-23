@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-zheng-end-of-series-feats-in-scd-reverend-insanity
+category: doc
+title: Fang Zheng (End of Series) Feats in SCD (Reverend Insanity)
+alt_titles:
+- Reverend Insanity fan, How high do you think Fang Zheng (End Of Series) scaled in SCD, is he a fodder or nah?
+authors:
+- name: CreationCawthon2
+  reddit: CreationCawthon2
+  id: creationcawthon2
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- fang-zheng
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hph9j8/reverend_insanity_fan_how_high_do_you_think_fang/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 726
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 99054
+      sha256: 5471d0e68f019cd6d46de2746aaa50ebd96ad2962ed5a11fa0cad10e8472f91a
+    - format: jpg
+      name: image-2.jpg
+      bytes: 38649
+      sha256: ab373b3a3108ea957fd4e9b9190cf66330e5fa2beb9f920ddf5f2cdf94581dd7
+    - format: jpg
+      name: image-3.jpg
+      bytes: 25677
+      sha256: 016c0fafe07b1f31d7a23d61b1725eb0e1fc6d6bbf6c9dc5e1334bb72654463a
+    - format: png
+      name: image-4.png
+      bytes: 67865
+      sha256: b4bf534e79393e60f5fd9f8423175fbfdfa67651f8f3a654ce784b1e99bd6da4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

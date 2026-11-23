@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: celestia-ludenberg-feat-list-danganronpa
+category: doc
+title: Celestia Ludenberg Feat List (Danganronpa)
+alt_titles:
+- Celeste feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- celestia-ludenberg
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p8g48y/celeste_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 914
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 111266
+      sha256: 70537c647812fc58bf4cca791cc8b7254bfacbdd03bbcb2be1bfdb00e32aaf2c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-mini-analysis-of-xue-yin-s-counterattack-against-li-guang
+category: doc
+title: A Mini Analysis of Xue Yin's Counterattack Against Li Guang (The Endless Food Chain)
+alt_titles:
+- A mini analysis on Xue Yin's counterattack against Li Guang
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- the-endless-foodchain
+characters:
+- xue-yin
+- li-guang
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v47o9i/a_mini_analysis_on_xue_yins_counterattack_against/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 937
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 53292
+      sha256: d7e00cc501dfc8ebab0f06a41fac38ba2e0b02495a156d611cdc3a3f4684bfd2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

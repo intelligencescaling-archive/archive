@@ -1,0 +1,42 @@
+Mistranslation or possible optimal strategy in Tarot Game (God's Imitation)
+
+Around Chapter 445 is when Lin Sizhi uses the Number Bomb special rule. I found two translations for it:
+[Aint Translations](https://www.patreon.com/AintTranslations/posts/god-chapter-445-153338904?collection=1648261):
+\[All boxes are filled with 1000 denomination Wealth Vouchers. Only one box has one Wealth Voucher replaced with 100 denomination. This box's number is considered the 'special number.'\]
+
+\['Thief' can randomly guess a box number. The Sage will clearly tell whether this number is larger or smaller than the special number until guessed correctly.\]
+
+\[If the special number is guessed on the 1st, 2nd, 3rd, 7th, or 8th attempt, the 'Thief' can steal the Wealth Vouchers from all boxes; otherwise, the 'Sage' will retain the Wealth Vouchers from all boxes.\]
+
+[WTR-Lab](https://wtr-lab.com/en/novel/21765/gods-imitation/chapter-462):
+【All wooden boxes are filled with wealth vouchers of 1000 denomination, except for one wooden box where one wealth voucher has been replaced with a 100 denomination one. The number of this wooden box is considered the'Special Number'.】
+
+【The 'Thief' can randomly guess the number of a wooden box, and the Sage will clearly state whether that number is larger or smaller than the Special Number, until it is guessed correctly.】
+
+【If the Special Number is guessed correctly on the 1st, 2nd, 3rd, 7th, or 8th attempt, the 'Thief' can steal the wealth vouchers from all the wooden boxes; otherwise, the'Sage' will retain the wealth vouchers from all the wooden boxes.】
+
+Simple Explanation for the game: There are 22 boxes with money in them. One of them is unique. Thief guesses the number of the unique box. If he succeeds in the 1st, 2nd, 3rd, 7th or 8th guess, he collects all 22 boxes. Otherwise the Sage wins. After each guess, the Sage will truthfully specify whether the guessed number is smaller or larger than the unique box's number.
+
+The rules are structured in such a way that using normal Binary Search is likely to succeed in the 4th or 5th attempt, meaning the Sage wins.
+Cai Zhiyuan uses a strategy that delays this outcome so it can appear after the 6th guess. This is not sure-win, it only improves the odds.
+
+But if you'll take a look at the rules, nowhere is it mentioned that the Thief must guess within the new reduced interval, yet this is what every player did. So my first thought was that maybe the meaning was lost in translation, because there is a very simple strategy to guarantee victory for any number if the above rules are true even in the raws.
+
+Use simple Binary Search for guesses 1-3.
+Guess outside the range for guesses 4-6, ensuring that the guess is incorrect because you already know the range of incorrect numbers by now.
+Resume Binary Search for guesses 7 and 8.
+
+Even in the worst case, you are guaranteed to find the number at guess 8.
+Because Binary Search done 5 times : 2^(5) = 32. and 32 > 22
+
+Let's run an example case where the special number is 1:
+Guess 1: I pick 11, sage reveals that number is lower, range shortened to 1-10
+Guess 2: I pick 6, number is lower, range shortened to 1-5
+Guess 3: I pick 3, number is lower, range shortened to 1-2
+Guess 4: Choosing correctly here would result in Sage getting all the boxes. So i pick 15 deliberately, which is outside the range and is guaranteed to be wrong
+Guess 5: Same reason, I pick 16
+Guess 6: Same reason, I pick 17
+Guess 7: Resuming binary search, I pick 2, number is lower
+Guess 8: I pick 1, which is the right number.
+
+If Binary search in this way can scan a complete branch from 1-11, it should logically do so from 11-22 too. Thus, the Thief is guaranteed to win every time.

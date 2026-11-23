@@ -1,0 +1,168 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-chronicles-of-minimumad-the-thames-enigma
+category: story
+title: 'The Chronicles of MinimumAd: The Thames Enigma'
+authors:
+- name: EnvironmentNo6525
+  reddit: EnvironmentNo6525
+  id: environmentno6525
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Chapter 1: The Neighbour'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k87v16/the_chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 639
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 54993
+      sha256: cc19301b49d6b71a4ce7c5d5f821a1ba48cc66e63e61f6956e278decd76f3021
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Chapter 2: Smoke, Silk, and Strange Men'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kc2ai3/chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 833
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42628
+      sha256: 80ed8d63b5645c04afde836608207130e103a459579b79f3cc8d4554a0b1c858
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Chapter 3: A Gentleman''s Visit'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kgcozo/chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1310
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 108753
+      sha256: e52cc3bf72b9ef1ed529e9e38395c7ae193eab6bc788a705f01af52bffd494c6
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Chapter 4: The Smoke Behind the Curtain'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kiczgq/chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1113
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 54681
+      sha256: 879cbdd13c5ff4eb19c60dd2773e45f440e8dd0e51254bd0b4b66dc971e0581d
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'Chapter 5: Where Shadows Keep Watch'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kwfddy/chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 555
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 56605
+      sha256: b37b98604ab0340367f51b9f7d7fc100abeb74d72e7d091154bcd98ed88d1635
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'Chapter 7: The Calling Card'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kxcagf/the_chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 595
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 94879
+      sha256: 99ffb9431adc6d31be16d6aea0c9f074c46013513b45ea45ea70020d820b2710
+    text:
+      file: text-6.txt
+      method: reddit-text
+- title: 'Chapter 8: The Roofs of London'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ky3dtp/chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 797
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 53623
+      sha256: f763581b2f1fbb9c04b3b3cb6b54f9b7cf6ab360c3139c1a5f6a71eb020a1fc2
+    text:
+      file: text-7.txt
+      method: reddit-text
+- title: 'Chapter 9: Letters and Lead'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kzbhyk/chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 870
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 46486
+      sha256: e9b2c08a2ba95e04a79210818d174b676ba6cf651dd448efbc2e862083a6bb4f
+    text:
+      file: text-8.txt
+      method: reddit-text
+- title: 'Chapter 10: A Room of Shadows'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l1afpw/chronicles_of_minimumad_the_thames_enigma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 959
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 202682
+      sha256: ac8b4bb88480ffae3d199676e4866001000da85789262f02d4e3647004e06f96
+    text:
+      file: text-9.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

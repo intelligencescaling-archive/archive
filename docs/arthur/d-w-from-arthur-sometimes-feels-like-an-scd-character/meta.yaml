@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d-w-from-arthur-sometimes-feels-like-an-scd-character
+category: doc
+title: D.W. from Arthur Sometimes Feels Like an SCD Character
+alt_titles:
+- Honestly- D.W. from Arthur sometimes feels like an SCD Character. (Consider this kinda a doc)
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- arthur
+characters:
+- d-w-read
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ilxwwi/honestly_dw_from_arthur_sometimes_feels_like_an/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1476
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

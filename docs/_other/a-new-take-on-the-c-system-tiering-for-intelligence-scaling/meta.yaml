@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-new-take-on-the-c-system-tiering-for-intelligence-scaling
+category: doc
+title: 'A New Take on the -C- System: Tiering for Intelligence Scaling Matchups'
+alt_titles:
+- 'A new take -C- System : Tiering System for Intelligence Scaling / SCD Matchups'
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xilk8a/a_new_take_c_system_tiering_system_for/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1304
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 29152
+      sha256: 7366b5bcf4515d6d0290e152d32bde42f742bfd609f45286f391a2ed6d0a7169
+    - format: png
+      name: image-2.png
+      bytes: 142007
+      sha256: 191dd07d83479687ef8309c92ce94009b33a6748f05f835aad2c6c633e51c064
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

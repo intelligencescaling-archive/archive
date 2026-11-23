@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-little-analysis-of-the-coffee-creamer-arc-usogui
+category: doc
+title: A Little Analysis of the Coffee Creamer Arc (Usogui)
+alt_titles:
+- A little analysis of coffee creamer arc of usogui.
+authors:
+- name: Spirited-Effort6325
+  reddit: Spirited-Effort6325
+  id: spirited-effort6325
+  source: reddit-post
+series:
+- usogui
+characters:
+- kiruma-souichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1i4g1bp/a_little_analysis_of_coffee_creamer_arc_of_usogui/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1466
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

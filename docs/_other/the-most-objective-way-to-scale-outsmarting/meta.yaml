@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-most-objective-way-to-scale-outsmarting
+category: doc
+title: The Most Objective Way to Scale Outsmarting
+alt_titles:
+- The Most Objective way to Scale Outsmarting.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xpgsi5/the_most_objective_way_to_scale_outsmarting/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 631
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 127854
+      sha256: b3027b3a29a3840ee4a7eec92a40be8d246a149fdd340490735e7e1efc0b5dcf
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

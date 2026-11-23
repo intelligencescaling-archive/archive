@@ -1,0 +1,70 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-debunk-of-classroom-of-the-elite-part-1-nagumo-arisu
+category: doc
+title: The Debunk of Classroom of the Elite, Part 1 (Nagumo, Arisu, Takuya, Ayanokoji)
+alt_titles:
+- This Post NEEDS to be Made for 2026 changes(even if most of y'all get mad); Part 1 - The Debunk of Classroom of the Elite(long post)
+authors:
+- name: Fit_Veterinarian_729
+  reddit: Fit_Veterinarian_729
+  id: fit-veterinarian-729
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- nagumo-miyabi
+- arisu-sakayanagi
+- takuya-yagami
+- kiyotaka-ayanokoji
+tags:
+- debunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q3phe5/this_post_needs_to_be_made_for_2026_changeseven/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5180
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 73991
+      sha256: 148426cde5ae7339812e5d694c19849d95b436a4e2e94f4e1cd96ea3348aaa73
+    - format: jpg
+      name: image-2.jpg
+      bytes: 103041
+      sha256: 197d60f6b0408fd3cb8a5d2636336895bb0ad80806add0b03410c37eee344a59
+    - format: jpg
+      name: image-3.jpg
+      bytes: 23989
+      sha256: ef087a3d0ad59ae5ef4673623e2da5fe76ba424d2e677f5537287cec7e9525ab
+    - format: jpg
+      name: image-4.jpg
+      bytes: 115288
+      sha256: ea204233a7288d9cc6e1fc569c9227b60e26c4df16ce72061845afac2acaaabd
+    - format: jpg
+      name: image-5.jpg
+      bytes: 11846
+      sha256: f4254f6f11dc68fdcde6a19318a560f025ce4f20a4e6444511b2fafa5ffa0475
+    - format: jpg
+      name: image-6.jpg
+      bytes: 23714
+      sha256: fb661bdee68e915fb2befd03a674b93f44b3b0332b0618e4dff21f45e02222b5
+    - format: jpg
+      name: image-7.jpg
+      bytes: 82392
+      sha256: 94ac033ecf4325e78e788b8cba019e0000d40cf0150e3e365622ff43af4e5fa8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: is-battler-s-logic-error-plan-an-interpretation-or-a-cope
+category: doc
+title: Is Battler's Logic Error Plan an Interpretation or a Cope Theory? (Umineko)
+alt_titles:
+- To all Umineko Scalers (especially Battler scalers). Is Battler's Logic Error Plan an Interpretation or actually just a cope theory?
+authors:
+- name: Bright_Echo_3947
+  reddit: Bright_Echo_3947
+  id: bright-echo-3947
+  source: reddit-post
+series:
+- umineko
+characters:
+- battler-ushiromiya
+- erika-furudo
+- beatrice
+tags:
+- discussion
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m5mr32/to_all_umineko_scalers_especially_battler_scalers/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 621
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 572965
+      sha256: 720ab997efd207c83f8b7192542f85e8652b00b984352b0dc9e4b8a19b352f02
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

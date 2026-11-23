@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: martin-whitly-s-manipulation-to-draw-his-children-closer
+category: doc
+title: Martin Whitly's Manipulation to Draw His Children Closer (Prodigal Son)
+alt_titles:
+- Martin Whitly's manipulation to draw his children closer to him explanation
+authors:
+- name: Communist_Crusaders
+  reddit: Communist_Crusaders
+  id: communist-crusaders
+  source: reddit-post
+series:
+- prodigal-son
+characters:
+- martin-whitly
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lu86le/martin_whitlys_manipulation_to_draw_his_children/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 672
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 181426
+      sha256: a961d45b0b85fdff6291d8f657c0041820c3a50fc603b037f9ba6e954abf1ee8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

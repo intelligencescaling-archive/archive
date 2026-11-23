@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fanfic-for-the-sub-d0ntkn0wmyself
+category: story
+title: Fanfic for the Sub
+authors:
+- name: d0ntkn0wmyself
+  reddit: d0ntkn0wmyself
+  id: d0ntkn0wmyself
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: Chapter 1
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nwhzre/fanfic_for_the_sub_chapter_1_read_note_please/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2049
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 41111
+      sha256: 10db6e8f3ee618f256aee3a6c09c679df57df3ca3059b5473bb0bbe7b35c8ecb
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Chapter 2: Departure'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o8gedr/chapter_2_of_the_fanfic_departure/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2761
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 219188
+      sha256: 3b61d3fe3f193ca1fa71e6412b34d6d5d70b85691b95b640723c9b53949c560a
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

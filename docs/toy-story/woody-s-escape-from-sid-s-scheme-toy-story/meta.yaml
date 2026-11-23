@@ -1,0 +1,87 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: woody-s-escape-from-sid-s-scheme-toy-story
+category: doc
+title: Woody's Escape from Sid's Scheme (Toy Story)
+alt_titles:
+- Woody's escape from Sid's scheme
+authors:
+- name: Due_Ad8334
+  reddit: Due_Ad8334
+  id: due-ad8334
+  source: reddit-post
+series:
+- toy-story
+characters:
+- woody
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w6kqco/woodys_escape_from_sids_scheme/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1124
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 281156
+      sha256: 388fb36efc479c2ecebb2c2a5fa6e85bd20e99f9368f7c67e3b2f89bbb974069
+    - format: png
+      name: image-2.png
+      bytes: 501556
+      sha256: d12425b487c1a2a677e6698682d65d9ae0a2d84c8c1dbd707da64aace6497339
+    - format: png
+      name: image-3.png
+      bytes: 552674
+      sha256: d6cbce9f9b72e940cfecb44bb78b9612836eb99b03f5b896260cc722942c873a
+    - format: png
+      name: image-4.png
+      bytes: 493033
+      sha256: ee948103f8df1f745afe77160931d47a57c4f193490a1c56ae12a719e5274140
+    - format: png
+      name: image-5.png
+      bytes: 229531
+      sha256: 79ed064bdac3624f1caed9e9882ea1400ae73071e38c4fc6f11cccd5d9318f8f
+    - format: png
+      name: image-6.png
+      bytes: 469217
+      sha256: 54d60484d26e9cabd19afab5a10a33b122ecf166c9c553b186da9cca831da37f
+    - format: png
+      name: image-7.png
+      bytes: 529304
+      sha256: cb5498cf0b8f3aaf68df3730fa9bd26e9d5de2580d1f6e34787a3a054d61be4c
+    - format: png
+      name: image-8.png
+      bytes: 517038
+      sha256: 317b6874faa5f5132dfa9a4465fd7fd756bb15ecd8939436644d90b167a7a9cf
+    - format: png
+      name: image-9.png
+      bytes: 512607
+      sha256: 39a46a52b87c0fd46b870c7153c3f62552a9e140e6a414148740b3db8abec108
+    - format: png
+      name: image-10.png
+      bytes: 386890
+      sha256: 67e9b5e31db64796439669f12ecdcca8be4b1f30e7c070961ae977ad214c348f
+    - format: png
+      name: image-11.png
+      bytes: 309847
+      sha256: a15cd71df792755d6d76f4fdb76011dad62e3b013d79230846bbee68892b5ee5
+    - format: png
+      name: image-12.png
+      bytes: 402666
+      sha256: c7f884e98f552389fb183cd5fc36540e9ac340a116441f3a7b355b42d4f59dc5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: celestia-s-full-scheme-analysis-danganronpa
+category: doc
+title: Celestia's Full Scheme Analysis (Danganronpa)
+alt_titles:
+- CELESTIAL'S FULL SCHEME - ANALYSIS  (She's great + underrated)
+authors:
+- name: Dead_Tube5432
+  reddit: Dead_Tube5432
+  id: dead-tube5432
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- celestia-ludenberg
+- hifumi-yamada
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wlx99u/celestials_full_scheme_analysis_shes_great/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1381
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 64375
+      sha256: 2f3e11eea529ca77c4f53dd014211afb8275f13fdb780f688e3058aaabbe84bc
+    - format: jpg
+      name: image-2.jpg
+      bytes: 88636
+      sha256: a402b18a82497d6a8767caa1fae697dc443ad3916e8fdbc0e4dbf081b7c012ba
+    - format: jpg
+      name: image-3.jpg
+      bytes: 198999
+      sha256: 199256fdf0b5c9c57dec1b2e9bcfa60869bdac22a4884dfc227bea0b91bdeb89
+    - format: jpg
+      name: image-4.jpg
+      bytes: 129972
+      sha256: d339359920d77dc4272ac483bb7e5dadf47dd9e6edd048c0b793519cc92350b3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-scd-stories-depth-is-insane-a-theoretical-framework
+category: doc
+title: 'Some SCD Stories'' Depth Is Insane: A Theoretical Framework for Character Decisions'
+alt_titles:
+- Some SCD stories depth is insane
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vpki6w/some_scd_stories_depth_is_insane/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 646
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

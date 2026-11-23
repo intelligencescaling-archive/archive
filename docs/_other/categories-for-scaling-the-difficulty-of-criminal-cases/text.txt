@@ -1,0 +1,23 @@
+Categories for scaling the difficulty of criminal cases, made by me
+
+Lack of Evidence (LOE for short)-Measures the amount of evidence there is during the investigation. Low LOE means there's a large amount of evidence, while high LOE means there's practically no evidence.
+
+Informational Unreliability-Measures how much available information is actually true. This includes things like alibis, witness statements etc. Low Informational Unreliability means that almost all of the available information is true, while high Informational Unreliability means that almost all available information is false, usually this is because of the culprit intentionally creating this misinformation
+
+Scope-Measures how large of a scope the case has. Cases with low Scope are cases which are limited to a singular location (examples include cases like the Opera House Murder from Kindaichi Case Files, which is limited to a singular building). Cases with high Scope are cases which cover a large area (examples include the Kira Case, which has a nation-wide scope)
+
+Suspect Narrowing-Measures the difficulty to narrow down a suspect. Cases with low Suspect Narrowing are those where the suspect can easily be narrowed down (In some cases, the culprit is known from the very start, but requires evidence to be proven). While a case with high Suspect Narrowing means it is much harder to narrow down a singular suspect (Once again the Kira Case serves as a good example since you have to narrow down a suspect from the entire population of Japan). Generally cases with higher Scope have higher Suspect Narrowing but it does not mean that cases with higher Suspect Narrowing inherently have a higher Scope
+
+Crime Reconstruction-Measures how difficult it is to reconstruct the order of events leading up to the crime. Cases with low Crime Reconstruction are those where the order of events is either known from the beginning or can be easily deduced. While cases with high Crime Reconstruction are those with orders of events much harder to reconstruct, often due to things like conflicting information
+
+Misdirection-Measures the quantity and quality of the misdirections made by the culprit, this includes things like red herrings, framings, diversions etc. Cases with low Misdirection are ones where the culprit employs little to no methods to misdirect the detective, while those with high Misdirection are those where the detective can be completely led astray by the culprit.
+
+Investigation Interference-Measures the ways in which the culprit interferes with the investigation, this is separate from Misdirection as Interference can only begin when the investigation has already begun, while Misdirection can be set up before the investigation begins, however there is an overlap between these two categories. Interference mainly includes destroying evidence, stalling the investigation etc. This is most effective when the culprit is closely related to the investigation (for example Dexter Morgan interfering with the investigation of the Bay Harbor Butcher case)
+
+Danger-Measures the amount of danger the detective is in while investigating the case. Cases with low danger means the detective is at little to no risk of death or injury, while cases with high Danger could easily lead to their death if they're not careful
+
+Detective Resources-Measures the amount of resources the detective has at their disposal while investigating the case. Cases with low Resources are often very localized crimes (For example most of the murder cases in tv shows like the Mentalist and Monk only have the resources of the local law enforcement at the detective's disposal). Cases with high Resources are those with plenty of resources at the detective's disposal (Examples include the Kira Case, where L had cooperation from the Japanese police and the FBI)
+
+Culprit Resources-Measures the amount of resources the culprit has at their disposal while the detective is investigating the case. Cases with low Culprit Resources are those where the culprit is pretty much on their own and they don't have much in terms of money, information or allies. Cases with high Culprit Resources are those where the culprit has a large amount of money, information, allies etc.
+
+Police Cooperation-Measures how cooperative the police are with the detective, in extreme cases the detective might not even have cooperation from the police because they're either investigating the case on their own or cannot seek police cooperation for some reason (Such as them being framed for a crime or something like that)

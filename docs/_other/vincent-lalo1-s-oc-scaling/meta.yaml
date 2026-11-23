@@ -1,0 +1,64 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vincent-lalo1-s-oc-scaling
+category: doc
+title: Vincent_Lalo1's OC Scaling
+authors:
+- name: Vincent_Lalo1
+  reddit: Vincent_Lalo1
+  id: vincent-lalo1
+  source: reddit-post
+series: []
+characters: []
+tags:
+- oc
+- analysis
+language: en
+completion: unknown
+parts:
+- title: Umitaka Shun's Copycat Strategy and Planning Feat
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mp645w/oc_scaling_copycat_strategyplanning_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1362
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 126875
+      sha256: 0c6adbc95503639a78e7cfb870c3a3f5fe8f5c11c274bf81a86c95fc151b1cb5
+    - format: jpg
+      name: image-2.jpg
+      bytes: 170516
+      sha256: 9f416d5fd632a1234cacf3ac8cd28cf46c9600364432684dd7273fa83ab9fb8c
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: Kazuaka Ryuichi Finds the Killer's Hiding Place
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1muil7z/third_oc_scaling_killers_hiding_place_abduction/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1042
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 1006116
+      sha256: 5daf55ed75369754fcbf25f4558504818f5c259c83dd5c8719a328635a1d0d66
+    - format: jpg
+      name: image-2.jpg
+      bytes: 182312
+      sha256: 2f0a434ab0f6b25b23e67a8913217caed462c040e0ace380a0f1327f8f99e346
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

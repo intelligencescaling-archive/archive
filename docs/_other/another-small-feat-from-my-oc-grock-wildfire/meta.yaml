@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-small-feat-from-my-oc-grock-wildfire
+category: doc
+title: 'Another Small Feat From My OC: Grock (Wildfire)'
+alt_titles:
+- Another small feat from my OC (side character this time)
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u67vl7/another_small_feat_from_my_oc_side_character_this/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1026
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2926926
+      sha256: 58ee7608635daf7d0a7bacac298fc80229971825f0f2895118aaefd957d6d2e7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

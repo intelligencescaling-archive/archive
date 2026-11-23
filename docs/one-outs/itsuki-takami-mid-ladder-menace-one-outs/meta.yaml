@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: itsuki-takami-mid-ladder-menace-one-outs
+category: doc
+title: 'Itsuki Takami: Mid-Ladder Menace (One Outs)'
+alt_titles:
+- 'Itsuki Takami: MidLadder Menace'
+authors:
+- name: East-Safety-8656
+  reddit: East-Safety-8656
+  id: east-safety-8656
+  source: reddit-post
+series:
+- one-outs
+characters:
+- itsuki-takami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pg82fq/itsuki_takami_midladder_menace/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1342
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35707
+      sha256: 606a7739266aa9937532fcd0af046f83f2089403a67d3faea7f1b0ff1a1946ec
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

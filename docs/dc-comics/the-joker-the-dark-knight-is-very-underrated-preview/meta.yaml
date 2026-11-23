@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-joker-the-dark-knight-is-very-underrated-preview
+category: doc
+title: The Joker (The Dark Knight) Is Very Underrated + Preview Analysis
+authors:
+- name: No_Elevator7607
+  reddit: No_Elevator7607
+  id: no-elevator7607
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- joker
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1trs7hq/the_joker_the_dark_knight_is_very_underrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 951
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 58938
+      sha256: c8bce2094118bf7dc2629cb766f2451c7b9ca71ca9cf520bf1a94ecb3cd56aef
+    - format: jpg
+      name: image-2.jpg
+      bytes: 28339
+      sha256: 055f0213a103793ced3edeb76cb834d7f53284e598a015aee717c391fde33ba1
+    - format: jpg
+      name: image-3.jpg
+      bytes: 52503
+      sha256: dd56aea0cf78c4dc3a415c7974c2487e3ac0d7de648bc1c4534e336c85fd90c9
+    - format: jpg
+      name: image-4.jpg
+      bytes: 31251
+      sha256: 1f0b982e029fdc79b13e1e1367fbd453f5f6848f8fa51848c2c3621590496310
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

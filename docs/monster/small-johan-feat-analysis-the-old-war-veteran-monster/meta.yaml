@@ -1,0 +1,71 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: small-johan-feat-analysis-the-old-war-veteran-monster
+category: doc
+title: 'Small Johan Feat Analysis: The Old War Veteran (Monster)'
+alt_titles:
+- 'Small Johan feat analysis: old war veteran'
+authors:
+- name: Effective-Emu-9938
+  reddit: Effective-Emu-9938
+  id: effective-emu-9938
+  source: reddit-post
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tge9tf/small_johan_feat_analysis_old_war_veteran/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1000
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 74790
+      sha256: 85ad1cc27b47b1fe039f788b67dda1dcb67ab7f18d92e21adeebfdf8acf32d2d
+    - format: jpg
+      name: image-2.jpg
+      bytes: 104879
+      sha256: f9c983944f91d6e5c0e78455a5c445bcf2549f7bb067fce0e7bd87bd55b32426
+    - format: jpg
+      name: image-3.jpg
+      bytes: 69616
+      sha256: b999bb1103020c9b04caebb1ffad2e62a27d21b5d60fb40b65e664567f842ffc
+    - format: jpg
+      name: image-4.jpg
+      bytes: 83386
+      sha256: 770d0fcb0122bb821a4e4358b958e891fb8ffde796c8f774a7c24463cb964aae
+    - format: jpg
+      name: image-5.jpg
+      bytes: 76036
+      sha256: 1fb3e21fbc906ad72e249335da50fa5f3d4c6c1fcb8f5e93098cb0750b2d608f
+    - format: jpg
+      name: image-6.jpg
+      bytes: 83490
+      sha256: 49247ceaf3a67436771e79de81d5081f87a2a3e3a6b4b36aa291a1d7e48b10f4
+    - format: jpg
+      name: image-7.jpg
+      bytes: 72071
+      sha256: ab2455430c927412b828aeb629ef3c0f5a2f2213d974817feacda6d9a35d504b
+    - format: jpg
+      name: image-8.jpg
+      bytes: 68456
+      sha256: e9db28b89d66aeffc400ca8bcb1a857418a403c1a398bed693c0039c052aa149
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

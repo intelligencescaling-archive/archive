@@ -1,0 +1,72 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-radius-of-light
+category: story
+title: The Radius of Light
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Pilot: See, Quince'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uexss8/pilot_of_the_fanfic_of_the_sub_see_quince/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1526
+    files: []
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Episode 1: Strange Pilgrims'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uhmjth/ep_1_of_the_fanfic_of_the_sub_not_the_premier/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2109
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Episode 2: World'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ul6qlf/ep_2_of_the_fanfic_of_the_sub_radius_of_light_is/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1880
+    files: []
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Episode 3: See, World'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uom6ux/fanfic_of_the_sub_pt_3_radius_of_light/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1898
+    files: []
+    text:
+      file: text-4.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

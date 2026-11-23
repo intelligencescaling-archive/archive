@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-strategy-in-the-miss-red-case-the-mentalist
+category: doc
+title: Patrick Jane's Strategy in the Miss Red Case (The Mentalist)
+alt_titles:
+- Patrick Jane's strategy in the Miss Red case
+authors:
+- name: howisthisausername14
+  reddit: howisthisausername14
+  id: howisthisausername14
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1plfccu/patrick_janes_strategy_in_the_miss_red_case/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2402
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 8917
+      sha256: ba6bb2411c7c1acd83840c65fcab706ad6ca3cf3006c4b70542b46965e8a800e
+    - format: jpg
+      name: image-2.jpg
+      bytes: 34854
+      sha256: 2d45fed90053f0c78077008b167c4f30fb83902a76168fc15d9c274a62584df9
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

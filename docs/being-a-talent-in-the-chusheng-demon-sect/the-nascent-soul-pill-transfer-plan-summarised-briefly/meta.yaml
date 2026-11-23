@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-nascent-soul-pill-transfer-plan-summarised-briefly
+category: doc
+title: The Nascent Soul Pill Transfer Plan, Summarised Briefly (Being a Talent in the Chusheng Demon Sect)
+alt_titles:
+- The Nascent Pill Transfer Plan, Summarised Briefly - Being a Talent in Chusheng Demon Sect (Batics)
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
+  source: reddit-post
+series:
+- being-a-talent-in-the-chusheng-demon-sect
+characters: []
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1szg9xg/the_nascent_pill_transfer_plan_summarised_briefly/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 956
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 88859
+      sha256: b53b59e347ccc418b24e823773f3e16dd367afd2e4ef8d6e32965c34ca6ab45e
+    - format: jpg
+      name: image-2.jpg
+      bytes: 59029
+      sha256: b8002a9d4cb4d847bf3b15d76fb616c774e73faeb4be3f962e9ddc21712f0eaf
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-s-feats-analysed-death-note-the-musical
+category: doc
+title: 'Light Yagami''s Feats Analysed (Death Note: The Musical)'
+alt_titles:
+- Light Yagami Musical --- feats analysed
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  id: signal-experience315
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xqcmzn/light_yagami_musical_feats_analysed/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 725
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 330199
+      sha256: 4ea6632a6356fd6d0a9bd7ff48a973836d7b6b1473fa1d339b5e7152ffd4144c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

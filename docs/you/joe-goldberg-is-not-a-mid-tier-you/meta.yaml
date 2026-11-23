@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joe-goldberg-is-not-a-mid-tier-you
+category: doc
+title: Joe Goldberg Is Not a Mid Tier (You)
+alt_titles:
+- Joe Goldberg is not a mid tier
+authors:
+- name: Conscious-Scale-3122
+  reddit: Conscious-Scale-3122
+  id: conscious-scale-3122
+  source: reddit-post
+series:
+- you
+characters:
+- joe-goldberg
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1me25hq/joe_goldberg_is_not_a_mid_tier/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 772
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

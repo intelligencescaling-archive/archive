@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: maomao-feat-list-the-apothecary-diaries
+category: doc
+title: Maomao Feat List (The Apothecary Diaries)
+alt_titles:
+- Maomao feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- the-apothecary-diaries
+characters:
+- maomao
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1owwm12/maomao_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1259
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 150494
+      sha256: a6e3322a58685cb58c2074d3996697c006bcc8f181d7a28180a4fec36bf69581
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

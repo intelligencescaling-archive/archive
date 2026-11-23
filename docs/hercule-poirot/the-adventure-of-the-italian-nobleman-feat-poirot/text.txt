@@ -1,0 +1,69 @@
+The Adventure of the Italian Nobleman feat (Poirot)
+
+"You miss the point. I am looking for something I do *not* see." - Poirot
+
+Doing a different analysis this time on Poirot, whose reasoning capabilities are often compared with Holmes and Kudo. The purpose of this post is to show Poirot's style of reasoning and allow people who haven't read the stories to compare him with other reasoning type characters.
+
+**CONTEXT: One night, the housekeeper of a doctor, Miss Rider, burst into Poirot's sitting room and claimed that a man was dying and that she heard the voice of the dying man through a telephone (happened close to 8:47). This then leads Poirot to investigate a guy named Count Foscatine, who lives in a flat in Regent's Court.**
+
+**When they arrive, they find the Count dead, with a table full of empty dishes and an open window. The butler, Graves, is present, and helps them along with their investigation, answering questions when necessary.**
+
+**On the table, there is a cup full of very black coffee. Later, Graves tells them that the Count had visitors (a guy named Ascanio and someone else) for a dinner party.**
+
+**They also find a smashed clock which stopped at 8:47, which they presume is the time of the murder (matches the telephone call).**
+
+**The investigation soon leads to Ascanio getting arrested, but Poirot is still not satisfied, so he has a private meeting with Ascanio. Poirot then corners Ascanio and threatens him with publicity, so Ascanio tells the truth: he** ***did in fact*** **visit the Count, but he arrived too early to be the murderer. Poirot then knows he's telling the truth, so he looks away and finds the real culprit. Here is his deduction:**
+
+P1: The dead man's teeth are very white
+
+P2: The coffee served at the table during the party was very black
+
+**C1:** The Count did not have the coffee
+
+P3: The window was open when they arrived
+
+P4: The window should've been closed, since the sun had set and there was a party in the room
+
+**C2:** There was no party in the first place
+
+P5: The food is nearly all empty
+
+P6: There are also smoked cigarettes
+
+**C3:** There was no party, but someone made it look like there was (**C1** and **C2** combined)
+
+P7: Ascanio, the suspected murderer, did not kill him
+
+P8: The telephone was put back into place after the help call
+
+P9: The Count was being struck down while *supposedly* calling
+
+**C5:** Someone in the room called the police and not the Count, nor the *supposed* visitors
+
+**C6:** Graves the butler was the only other person who could've made contact with the Count and entered the room
+
+P10: Graves can benefit financially from the Count's death
+
+**C7:** Graves is the murderer
+
+PART 2: The reconstruction of the murder
+
+Now that Poirot knows that Graves is the culprit, he spams ToM and puts together the exact plan Graves used to murder the Count:
+
+1. Graves first hears a portion of a conversation that implies that Ascanio will be put in an awkward position if a murder was pinned on him.
+
+2. At 8 o'clock, he tells his master he is needed at the telephone and strikes him down there.
+
+3. He then uses the telephone himself and orders dishes for three people (to create the illusion of a dinner party).
+
+4. Graves then lays the table, dirties the plates and everything, then eats the food. Graves also smokes to strengthen the illusion.
+
+5. When the clock is moved to 8:47, Graves smashes it so that will be the assumed time of death (he forgets to draw the curtains here though, which was a mistake).
+
+6. He then hurries out and mentions 'guests' to the lift man who's passing through to plant the idea of the Count's 'guests' into the detective's mind when he arrives to investigate.
+
+7. He hurries to a telephone box and as soon as it is close enough to 8:47, Graves calls the doctor with his master's dying cry.
+
+Nobody questions if the call was even made from the Count's unit, so if Poirot didn't arrive to investigate, the case probably would've ended with Graves escape.
+
+So yeah, this is one of Poirot's feats and is mid tier in reasoning imo with the ToM maaaaybe being very low high tier idk

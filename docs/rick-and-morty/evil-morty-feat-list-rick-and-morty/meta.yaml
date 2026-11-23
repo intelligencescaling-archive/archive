@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: evil-morty-feat-list-rick-and-morty
+category: doc
+title: Evil Morty Feat List (Rick and Morty)
+alt_titles:
+- Evil Morty feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- rick-and-morty
+characters:
+- evil-morty
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r82vd5/evil_morty_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1789
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 378449
+      sha256: 6103ff65565f3f645829756c802f2ee4daf341d78e011dc7e0b430d8424a0a7e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

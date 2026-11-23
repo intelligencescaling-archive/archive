@@ -1,0 +1,118 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-akagi-does-what-he-does
+category: doc
+title: Why Akagi Does What He Does
+alt_titles:
+- Why does Akagi do what he does 🀄
+authors:
+- name: ResponseLower49
+  reddit: ResponseLower49
+  id: responselower49
+  source: reddit-post
+series:
+- akagi
+characters:
+- shigeru-akagi
+tags:
+- writing
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vicmrh/why_does_akagi_do_what_he_does/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 837
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 88978
+      sha256: 5881dc70ffe9375a44384d6c6f2c32956bbd2e0e50e9fe9d9958af65152ec2de
+    - format: jpg
+      name: image-2.jpg
+      bytes: 248071
+      sha256: 5ff0c1eaef50b9bb631ec5f9ae3aa929f931d4ff7a5090e949f2cc578dd4cea8
+    - format: jpg
+      name: image-3.jpg
+      bytes: 15715
+      sha256: b508bd2f08734ed832bc5c68961ba1529ddf91c5c24e22a518ae5f33a082f839
+    - format: jpg
+      name: image-4.jpg
+      bytes: 264395
+      sha256: cceeef32c72d6c3c6a77f96ad6884f9679b6681e12f9ffcbcf20e77b90d5b347
+    - format: jpg
+      name: image-5.jpg
+      bytes: 276626
+      sha256: 42785ab697bd617fd3f5c3c6527cd638c37c8a7e765425d770becc9ef45605ea
+    - format: jpg
+      name: image-6.jpg
+      bytes: 322643
+      sha256: f59075553ad37062d0a2b3df728af1f76242b1dd736ebe7c6b1202aaea4107c8
+    - format: jpg
+      name: image-7.jpg
+      bytes: 124524
+      sha256: 1edaf6ca9980110e48fe78093bbe1a503213b84445bfc6db734de8287766e244
+    - format: jpg
+      name: image-8.jpg
+      bytes: 121944
+      sha256: 3d604c7a32cdb21402a3e64bcc20bde85c5bc49050e31c16c45780cc8db15c16
+    - format: jpg
+      name: image-9.jpg
+      bytes: 221609
+      sha256: 148d92cc4164ed7864cdfe4414fbf74817d5fc0fa43b813f1af7ddeb8828bea1
+    - format: jpg
+      name: image-10.jpg
+      bytes: 432888
+      sha256: e08164fd375251c84c79c062f6e681fa3e097b0ba5134bfe720141c8b35b52a7
+    - format: jpg
+      name: image-11.jpg
+      bytes: 321202
+      sha256: 0546979e68ab21c3ff562f6d43c2c5d3e3fe41a6ccc06526d73e7bf1a375f3ad
+    - format: jpg
+      name: image-12.jpg
+      bytes: 111100
+      sha256: fe0369488ecae1a395f0332f9d310ca05cd912f7fc03e77c2a405c052caaa11b
+    - format: jpg
+      name: image-13.jpg
+      bytes: 297171
+      sha256: d09e9a8b33374da23d81805ce469f7f3d8488fedc606318a4ef9923c106bc53b
+    - format: jpg
+      name: image-14.jpg
+      bytes: 322142
+      sha256: fcda90d737a47fbf73aaff8dcffeedd1b3c2812c0cb625009025e91181cd2a05
+    - format: jpg
+      name: image-15.jpg
+      bytes: 116032
+      sha256: b199c6763d3c9312ae12346d05be77dbf6081ca67efc7980f63b9fe74eacf98f
+    - format: jpg
+      name: image-16.jpg
+      bytes: 258838
+      sha256: 33292a3d01cc45582738a8f5b2dbb3d2ee762d2b6989ef6e506bfd205a728397
+    - format: jpg
+      name: image-17.jpg
+      bytes: 181011
+      sha256: 4fe09023e6799acddac8b57abd068e923ed8d6dc00b3c3a12da0184a5cd0a84c
+    - format: jpg
+      name: image-18.jpg
+      bytes: 103574
+      sha256: a0b05c64fe74020db2f9a30e566a7f1e6210871c160bb547e58218e9d87a9105
+    - format: jpg
+      name: image-19.jpg
+      bytes: 89735
+      sha256: 9efa008ef8a4bfbe8debd4ab4836503bb652bff7dcd3da3d8b511301d150a630
+    - format: jpg
+      name: image-20.jpg
+      bytes: 63157
+      sha256: 4e7e9bbc35222897e8c5d7693ac363f11404eba65f8908293fb5a0a47795ea78
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

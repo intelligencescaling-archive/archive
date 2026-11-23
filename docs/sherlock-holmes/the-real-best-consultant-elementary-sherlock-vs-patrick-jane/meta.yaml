@@ -1,0 +1,68 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-real-best-consultant-elementary-sherlock-vs-patrick-jane
+category: doc
+title: 'The Real Best Consultant: Elementary Sherlock vs Patrick Jane'
+alt_titles:
+- enough time has passed, the REAL best consultant (full, semi-detailed breakdown PJ vs Elementary Holmes)
+authors:
+- name: Chemical_Ad3376
+  reddit: Chemical_Ad3376
+  id: chemical-ad3376
+  source: reddit-post
+series:
+- sherlock-holmes
+- the-mentalist
+characters:
+- sherlock-holmes
+- patrick-jane
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vsde5c/enough_time_has_passed_the_real_best_consultant/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1266
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 20568
+      sha256: e11b8c75d19285f78d0b2b45320277c381ffb8ceae024c4b81b31e88ca78bece
+    - format: jpg
+      name: image-2.jpg
+      bytes: 59008
+      sha256: 69d02e6b30733cc1e9d271e1420820c4e895d49dac2f999609c732390d5fbc27
+    - format: jpg
+      name: image-3.jpg
+      bytes: 112083
+      sha256: c10c0b5b92f07f5411268de4789f846e2697a0616527aa68e9c1346e87554add
+    - format: png
+      name: image-4.png
+      bytes: 5584
+      sha256: d51f9ce13b8e49f89a3741d9bfb62057c0953b299ffcfd2b6bc5bc3884e2b44c
+    - format: jpg
+      name: image-5.jpg
+      bytes: 36632
+      sha256: c43d7511c3d548e087347aea9c7ba6e489a0c1fc3b29875f203fbd6516f2ea3a
+    - format: jpg
+      name: image-6.jpg
+      bytes: 20865
+      sha256: e88aabdc2246bc388ec6793028034707b340f87a0f0c33e0f2a38c2a530f5f06
+    - format: jpg
+      name: image-7.jpg
+      bytes: 47469
+      sha256: 1990747f20dc98afe4262cef7029c2caf819caf86eba9e9fbceb1736b62650c9
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: celestia-s-plan-was-actually-good-danganronpa
+category: doc
+title: Celestia's Plan Was Actually Good (Danganronpa)
+alt_titles:
+- Celestia's plan was actually good.
+authors:
+- name: Big_Application_7168
+  reddit: Big_Application_7168
+  id: big-application-7168
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- celestia-ludenberg
+tags:
+- analysis
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ww4x39/celestias_plan_was_actually_good/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3393
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 115380
+      sha256: e00ae87d27d6fe9abc5de7bc82e10736ed365d92247b89a560b0d995a37d4256
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

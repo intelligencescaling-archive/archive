@@ -1,0 +1,73 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: william-afton-s-doc
+category: doc
+title: William Afton's Doc (FNAF)
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: Understanding the Mind of William Afton'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vqcer7/understanding_the_mind_of_william_afton/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 936
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 204086
+      sha256: 21f5f820cca7311a31eeb6c6550474e153e8972a99786d505335ed6719804482
+    - format: jpg
+      name: image-2.jpg
+      bytes: 26359
+      sha256: 824ac90fa730f4974232f06740a66edaa072dd9f970564ade1a53a68d1097be9
+    - format: jpg
+      name: image-3.jpg
+      bytes: 68438
+      sha256: 8d57e6edf06f8a0c71bde4e229213e01117066f0c0c89c362262d4a976dd6988
+    - format: jpg
+      name: image-4.jpg
+      bytes: 46972
+      sha256: 1bb2d762759afba19acb0ed244681659a4783c56b81c5740e88e9ea73a76fe0a
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: The Brainwashing of Rory'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w6b1q8/part_2_of_william_aftons_doc/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1016
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 22459
+      sha256: c74de8546a186b2c8b99899483e3510e712561b1a4ba721a7c611ee4768fc074
+    - format: jpg
+      name: image-2.jpg
+      bytes: 61445
+      sha256: 9609868d7677089ab4307fbceaf5e8084ac346a2c9980b663c99dc324059f063
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

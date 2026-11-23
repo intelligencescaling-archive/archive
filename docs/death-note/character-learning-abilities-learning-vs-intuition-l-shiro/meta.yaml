@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: character-learning-abilities-learning-vs-intuition-l-shiro
+category: doc
+title: 'Character Learning Abilities: Learning vs Intuition (L, Shiro, Beth Harmon)'
+alt_titles:
+- Character learning abilities
+authors:
+- name: Equivalent-One2361
+  reddit: Equivalent-One2361
+  id: equivalent-one2361
+  source: reddit-post
+series:
+- death-note
+- no-game-no-life
+- the-queen-s-gambit
+characters:
+- l-lawliet
+- shiro
+- beth-harmon
+tags:
+- debunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1olv2z7/character_learning_abilities/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1594
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 63954
+      sha256: fe3594265b56feddd4ca968228d02afc5be2ce2542863743ab955c3117749054
+    - format: jpg
+      name: image-2.jpg
+      bytes: 193545
+      sha256: 943584db139224a8cce7582ebe8766ad04c89a3c4eb9de9fcf551471f1d4bf6b
+    - format: jpg
+      name: image-3.jpg
+      bytes: 289260
+      sha256: 8557e453d1c77728c1a035898b41d2aba6fdd70fc52e631e002e057c1981ad99
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

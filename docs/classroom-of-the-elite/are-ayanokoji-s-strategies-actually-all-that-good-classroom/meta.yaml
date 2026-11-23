@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: are-ayanokoji-s-strategies-actually-all-that-good-classroom
+category: doc
+title: Are Ayanokoji's Strategies Actually All That Good? (Classroom of the Elite)
+alt_titles:
+- Question- Do you Actually believe Ayanaokoji's strategies are all that good?
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- kiyotaka-ayanokoji
+- yuuichi-katagiri
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kkiha3/question_do_you_actually_believe_ayanaokojis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 550
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

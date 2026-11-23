@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-akiyama-s-ro4k-manipulation-liar-game
+category: doc
+title: Debunking Akiyama's Ro4k Manipulation (Liar Game)
+alt_titles:
+- Debunking Akiyama's Ro4k Manipulation (Alongside Updates)
+authors:
+- name: TheNamelessMonster_-
+  reddit: TheNamelessMonster_-
+  id: thenamelessmonster
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1unnwio/debunking_akiyamas_ro4k_manipulation_alongside/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 708
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 337545
+      sha256: 3e7acf4da82f69ee0e14b5a13b9ab8986522910cb4287fa3cc6c2af399f8d582
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: objective-judgement-of-lies-in-18-levels-of-hell
+category: doc
+title: Objective Judgement of Lies in 18 Levels of Hell
+alt_titles:
+- Yapping about Objective judgement of lies in Eighteen Levels Of Hell
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  id: ancient-end2474
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rgo7oo/yapping_about_objective_judgement_of_lies_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 699
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 172109
+      sha256: e726d2f7c45fc33fadd85ae7e124cc6cb0305cf58de83cd8f312ebbb70c5f697
+    - format: jpg
+      name: image-2.jpg
+      bytes: 148402
+      sha256: 516e5d77e0309ef0129f7711df7817a3da01fa68de87c72aa836239b814df3e4
+    - format: jpg
+      name: image-3.jpg
+      bytes: 120151
+      sha256: 993c59cf35bed0d15a4a410e2011ed0e51a3e6825d6cbd8f865a6215cf0d6142
+    - format: jpg
+      name: image-4.jpg
+      bytes: 201499
+      sha256: c463ce2889a2c691cb80d121beb70fca6bfe8c5bb13f9e7d6961cc52a97ccb66
+    - format: jpg
+      name: image-5.jpg
+      bytes: 137629
+      sha256: 0d527afd03a092a4ab64a325f50c4e760101c715695ecea24e5af796549cfe16
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

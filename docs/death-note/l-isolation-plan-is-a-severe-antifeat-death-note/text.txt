@@ -1,0 +1,49 @@
+L isolation plan is a Severe Antifeat.
+
+This analysis focuses on Light's initial plan formulation.
+
+Light did change and readapt the strategy to the response of the police later in the story, but the goal he initially planned for in the manga was severely butchered and he made a massive blunder.
+
+**Light's goal:** Turn the police force and L against each other. The police will therefore investigate L, find his name, and unintentionally allow Light to kill L, since Light's father is part of the police and Light can access his father's computer.
+
+The goal itself is logically feasible, but the method he used to try to achieve the goal was a horrible method.
+
+**Light's Method:** After Light's dad reveals at the dinner table top-secret information from the NPA (national police agency) that L knows Kira is a student from the timings of his killings, Light decides to kill 1 criminal every hour for 48 hours straight by setting the timings of their deaths.
+
+**Light's justification:** Light doing the 48 hours kills would indicate Kira is aware of the reveal within the NPA by L that Kira is suspected to be a student. The move would indicate Kira is trying to throw them off by showing that the death timings are irrelevant since he can set them. This will make L want to investigate the NPA members as potential Kira suspects. The police and L already do not trust each other. The police will get mad because they're being investigated, so they'll try to track L down, resulting in L's identity being exposed, which Light can use to kill L.
+
+This is a horrible plan. The logical assumptions make it extremely unlikely to succeed even on a basic level (the NPA discovering that they are being investigated) and even if such an unlikely event does occur, the unnecessary compromises are too severe because any further implications (the NPA finding L's name and his dad inputting it into the computer for Light to use) are even less likely to succeed.
+
+**Compromise 1:** Light gives away his informational advantage, which is access to anything revealed within the national police agency (NPA) that L is relying upon. If Light did not reveal this immediately, he would have had a significant advantage over L from the start and throughout the whole manga, because Light would be in the dark with top secret information that L is working with and unaware is being leaked to Kira. L's highly classified actions as recorded by the police would be constantly accessible to Light. Instead, he intentionally exposes the fact that he has access to info from the NPA, rendering the information almost useless.
+
+**Compromise 2:** An even bigger advantage Light gives away is the massive suspect list. Kanto's population is massive (around 40 million in 2003 which is when it took place). Meanwhile Light revealing that he is part of or at least close to the NPA members cuts it down from 40 million to only 141 people + their associates such as family members. In other words, even if we assume that each of the 141 people placed under direct suspicion result in 10 people overall being suspected (so 1410 total suspects), it is still more than 99.996% of the 40 million population of Kanto that have been eliminated from L's suspect list through this one move by Light.
+
+**Compromise 3:** Light gives away the info that he can set the timings of criminal deaths. This is another useful advantage which L knew nothing about, because L assumed from the timings that Kira had to immediately kill. Now that Light can set the timings, preset kills such as in the event of hospitalization or imprisonment become failure points in any future scheme between Light and L.
+
+**High Failure Rate:** The expectation within his reasoning does not even follow. Light's goal was to make L suspicious of the taskforce and therefore investigate them. If L is smart (as shown by the fact that he could trick Light into revealing his region), then he's not dumb enough to openly investigate the NPA members in a way that makes them turn against him. Just as he could utilize a resource advantage to implement the Lind L Tailor plan and deceive the NPA, L could have spied on the NPA covertly. The assumption that L will make his suspicion so obvious that it'll cause a rift between him and the police and make them turn against each other is foolish, since someone as smart as L is supposed to have the social intelligence to keep his investigation under wraps.
+
+Giving away all the advantages I mentioned above, the small possibility of making L investigate the NPA in a way that results in them both becoming suspicious of each other is neither likely to succeed if you put aside hindsight bias and evaluate it rationally, nor is it worth it even if success is guaranteed.
+
+**Reason 1:** L could have been anonymous for the police even if Light's improbable plan to forcefully make them investigate L succeeded. This is extremely likely given that even the entire world could not find L's identity. What makes Light think the mere national police can?
+
+**Reason 2:** There are many ways to go about achieving the same effect without giving away all the advantages that Light gave away (abandoned NPA information advantage, compromised time-setting information advantage, and cutting down the suspect list by 99.996%). This is because Light has the names and faces of all the NPA members, as well as a notebook that he can use to control their actions for 20+ days before their death. Also, Light already mentioned how the police and L do not trust each other, so the suspicion and investigation is already prone to occurring even without a lot of input and unnecessary compromising from Light Yagami. Light simply lacked the creativity to orchestrate better schemes that would have achieved the same effect without the compromises.
+
+**Example Alternative Scheme:** controlling the life of an NPA member in a way that causes extreme suspicion against L among the NPA members, such as by having that member suspect L as Kira. This would both be likelier to succeed and not compromise the info Light gave away. Even if the member that Light controls dies before L's name is investigated or L's name is never even discovered, no significant information can be gleaned about Kira by L since the NPA information is already public and the suspicion against L being Kira himself can arise naturally (which it canonically did) without needing to imply that Kira can control his victims. With this scheme, the NPA would also have even greater incentive to go against L than they did just from the FBI investigations.
+
+**Counterargument:** Maybe Light killed the criminals every hour for 48 hours straight to scare people off from going after Kira, so that they resign from the task force.
+
+Firstly, there's no need to expose all the information that limits the scope of the suspects and abandons all his advantages if he wants to achieve this. Example being the simple tactic I mentioned above (simple tactics are usually most effective when it comes to non-fixed situations like these). Secondly, if you read chapter 4 of the manga, the police resigned by themselves after finding out that all of the criminals that died had their faces available on the news. They know that they themselves carry their police I.D.s, so they are out in the open, and Kira can kill them. This was the reason they resigned, and it's basic human psychology (self-preservation). Light didn't need to disadvantage himself to make them resign, they were already choosing to do so out of their own volition. Thirdly, Light said explicitly that his intention was to make them investigate L, not to quit the case entirely.
+
+**Counterargument:** Even if the methodology sucks and the failure rate of the plan is high, maybe narratively it was a smart decision.
+
+Narratively, it is even worse. The plan canonically failed, since the NPA quit rather than counterinvestigating L. Given L's global authority which Light should narratively have investigated into, Light should understand that if even the globe itself cannot find L's identity, it makes no sense for him to depend on the mere national police force to find it.
+
+This plan also lead to the canon situation where L had a severe information advantage over Light that he previously did not have.
+
+The move Light made is important for improving the manga's pacing and increasing the tension/enjoyability of the story, but it is flawed intellectually.
+
+People underestimate the correlation between methodology (extradiegetic intelligence) and outsmarting (diegetic intelligence).
+
+There is nothing from the story itself to justify the blunder. It is both methodologically and narratively a severe antifeat. At least in methodology scaling you could argue that characters should only be scaled by their best feats and choose to ignore this blunder Light made, but narratively/diegetically the blunder severely caps his intellect.
+
+**Conclusion:** Light's choice to kill criminals for 48 hours straight was a severe decision-making blunder. The "isolation" was actually not even part of his initial plan, it fell outside of his intention. There were many ways for Light to have achieved the same goal without compromising his massive informational and situational advantages. This move is probably one of if not the biggest antifeats Light commits in the whole manga.

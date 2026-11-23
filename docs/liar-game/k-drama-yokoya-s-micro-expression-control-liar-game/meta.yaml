@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: k-drama-yokoya-s-micro-expression-control-liar-game
+category: doc
+title: K-Drama Yokoya's Micro-Expression Control (Liar Game)
+alt_titles:
+- K Drama Yokoya's Micro-Expression control (Short analysis)
+authors:
+- name: Munou-
+  reddit: Munou-
+  id: munou
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vrqlxb/k_drama_yokoyas_microexpression_control_short/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 919
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 228371
+      sha256: 8716e46aec96d2a4a96e07f31fd83df085ba0c8846fc60ae15bc70d29bd29fa5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

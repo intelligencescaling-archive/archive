@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-indominus-rex-s-double-layered-tracker-trap-theory
+category: doc
+title: The Indominus Rex's Double-Layered Tracker Trap (Theory Application) (Jurassic World)
+alt_titles:
+- The Indominus Rex’s double-layered tracker trap (THEORY APPLICATION)
+authors:
+- name: FluffyTaste4061
+  reddit: FluffyTaste4061
+  id: fluffytaste4061
+  source: reddit-post
+series:
+- jurassic-world
+characters:
+- indominus-rex
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ra37tr/the_indominus_rexs_doublelayered_tracker_trap/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2665
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

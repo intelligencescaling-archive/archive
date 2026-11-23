@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: malcolm-wilkerson-s-season-1-feats-malcolm-in-the-middle
+category: doc
+title: Malcolm Wilkerson's Season 1 Feats (Malcolm in the Middle)
+alt_titles:
+- Malcolm Wilkerson’s most noticeable season 1 feats
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- malcolm-in-the-middle
+characters:
+- malcolm-wilkerson
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w2awtk/malcolm_wilkersons_most_noticeable_season_1_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 534
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 56796
+      sha256: fc70f88ba62e0e156e91a8137fb616109b4439e0e291dc05b1e5ad414b194494
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-love-letter-plan-is-still-ass-classroom-of-the-elite
+category: doc
+title: The Love Letter Plan Is Still Ass (Classroom of the Elite)
+alt_titles:
+- Love Letter plan is still ass lol
+authors:
+- name: Fit_Veterinarian_729
+  reddit: Fit_Veterinarian_729
+  id: fit-veterinarian-729
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t2fp44/love_letter_plan_is_still_ass_lol/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1139
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 97240
+      sha256: 08ed535708ab4e9af1c278770a629daec4540ed76b37f14a4f2a899fa28e8e80
+    - format: jpg
+      name: image-2.jpg
+      bytes: 73080
+      sha256: aecdfee71cafe634f5c7b24a628cfb13f6c2aa1fb11dd7e369af7ba6ecac0434
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

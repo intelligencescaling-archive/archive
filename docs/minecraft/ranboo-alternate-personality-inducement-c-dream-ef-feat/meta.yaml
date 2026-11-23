@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ranboo-alternate-personality-inducement-c-dream-ef-feat
+category: doc
+title: Ranboo Alternate Personality Inducement (C!Dream EF Feat)
+alt_titles:
+- Ranboo Alternate Personality Inducement
+authors:
+- name: XDwasGone_
+  reddit: XDwasGone_
+  id: xdwasgone
+  source: reddit-post
+series:
+- minecraft
+characters:
+- dream
+- ranboo
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qqbdwr/ranboo_alternate_personality_inducement/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1134
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 106944
+      sha256: a8afe40f97262b88fe8482d188bedd9931428e747233d969b707ebf7e6f62c77
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

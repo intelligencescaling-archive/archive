@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: thrawn-s-mist-encounter-feat-star-wars
+category: doc
+title: Thrawn's Mist Encounter Feat (Star Wars)
+alt_titles:
+- 'Star Wars: Thrawn’s Mist Encounter Feat'
+authors:
+- name: Ok_Cardiologist_5925
+  reddit: Ok_Cardiologist_5925
+  id: ok-cardiologist-5925
+  source: reddit-post
+series:
+- star-wars
+characters:
+- thrawn
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pmmr1c/star_wars_thrawns_mist_encounter_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 915
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

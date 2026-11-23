@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-in-takuya-s-position-classroom-of-the-elite
+category: doc
+title: Ayanokoji in Takuya's Position (Classroom of the Elite)
+alt_titles:
+- Ayanokoji in takuya's Position
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- takuya-yagami
+- kyo-ishigami
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v4kmim/ayanokoji_in_takuyas_position/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1851
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 110424
+      sha256: 09b47e865500c5c4c5d843a9a47a4fd3b8c86dc13744e76b92a15090f86fb32e
+    - format: png
+      name: image-2.png
+      bytes: 143594
+      sha256: 5d2fbf102836adbfcc245266d90f68ab0c94f7e63dedd9b8d9ec90a97875ccdd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

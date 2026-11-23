@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: requiem-roulette-chapters-1-5
+category: story
+title: Requiem Roulette (Chapters 1-5)
+alt_titles:
+- Hey guys, I just want to kindly ask for you to read my 5 chapters webnovel! (TW)
+authors:
+- name: Sardine87
+  reddit: Sardine87
+  id: sardine87
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x6q2n7/hey_guys_i_just_want_to_kindly_ask_for_you_to/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 7183
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 73925
+      sha256: 3610795a5c62e3128574966a86c8de251bcb72193ff6c4af8eb1a86ec85e9891
+    - format: jpg
+      name: image-2.jpg
+      bytes: 84669
+      sha256: 7d3d7b71bb45d5813eb4f48cdf1953ac74840117b265d905e189e0bd1f8fa9ba
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

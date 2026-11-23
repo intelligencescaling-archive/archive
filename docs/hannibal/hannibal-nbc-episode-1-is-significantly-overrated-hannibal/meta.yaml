@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-nbc-episode-1-is-significantly-overrated-hannibal
+category: doc
+title: Hannibal NBC Episode 1 Is Significantly Overrated (Hannibal)
+alt_titles:
+- Hannibal NBC (Episode 1) is significantly overrated
+authors:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  id: vincet-qo
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+- will-graham
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xdgs1i/hannibal_nbc_episode_1_is_significantly_overrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 616
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35686
+      sha256: 74e27382813d37917a250120faa6f0c9f36da6b8039981bbf051c471eb5586e2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

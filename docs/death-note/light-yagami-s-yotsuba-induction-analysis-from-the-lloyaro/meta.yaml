@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-s-yotsuba-induction-analysis-from-the-lloyaro
+category: doc
+title: Light Yagami's Yotsuba Induction Analysis (from the Lloyaro vs TertyWater Debate)
+alt_titles:
+- Light Yagami's yotsuba induction analysis (from Lloyaro vs TertyWater debate on cord)
+authors:
+- name: TheNamelessMonster_-
+  reddit: TheNamelessMonster_-
+  id: thenamelessmonster
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1npouyp/light_yagamis_yotsuba_induction_analysis_from/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 699
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

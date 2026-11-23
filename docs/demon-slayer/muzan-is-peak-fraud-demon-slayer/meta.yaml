@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: muzan-is-peak-fraud-demon-slayer
+category: doc
+title: Muzan Is Peak Fraud (Demon Slayer)
+alt_titles:
+- Muzan is peak fraud
+authors:
+- name: LawfulnessExpert220
+  reddit: LawfulnessExpert220
+  id: lawfulnessexpert220
+  source: reddit-post
+series:
+- demon-slayer
+characters:
+- muzan-kibutsuji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jl5ybq/muzan_is_peak_fraud/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1555
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 37060
+      sha256: 2649c7e295276799595cd95e2bc914e4399e102dabe222b5eac91f59723dca22
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

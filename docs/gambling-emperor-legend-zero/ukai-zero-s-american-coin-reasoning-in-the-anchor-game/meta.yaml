@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ukai-zero-s-american-coin-reasoning-in-the-anchor-game
+category: doc
+title: Ukai Zero's American Coin Reasoning in the Anchor Game (Gambling Emperor Legend Zero)
+alt_titles:
+- Ukai Zero American Coin Reasoning
+authors:
+- name: TTT948
+  reddit: TTT948
+  id: ttt948
+  source: reddit-post
+series:
+- gambling-emperor-legend-zero
+characters:
+- ukai-zero
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ucpn1s/ukai_zero_american_coin_reasoning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 788
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 43278
+      sha256: b143a33c0f904f83d11b89d12c133cbb083264c25d7b4715a81483c067caf504
+    - format: png
+      name: image-2.png
+      bytes: 61409
+      sha256: 275a3df552764cfd2f9a4cab16125421ee06f24b34bf9ae9d23f6434cc912979
+    - format: png
+      name: image-3.png
+      bytes: 191658
+      sha256: f70f5d3504e5b1d67006d5906f2ed0c0f2122a088612508fa19c1e18a775ea69
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

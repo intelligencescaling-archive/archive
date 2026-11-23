@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: majora-s-mask-skull-kid-puppet-and-moonfall-plan-the-legend
+category: doc
+title: 'Majora''s Mask: Skull Kid Puppet and Moonfall Plan (The Legend of Zelda)'
+alt_titles:
+- Majora's Mask Skull Kid Puppet/Moonfall Plan
+authors:
+- name: RedDeathSwayOverAll
+  reddit: RedDeathSwayOverAll
+  id: reddeathswayoverall
+  source: reddit-post
+series:
+- the-legend-of-zelda
+characters:
+- majora
+- skull-kid
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1taz7qo/majoras_mask_skull_kid_puppetmoonfall_plan/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 964
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 274223
+      sha256: 0a58879c832c85dc9442da94fa40071cc8821f04bad2dfe48878c7586d344422
+    - format: jpg
+      name: image-2.jpg
+      bytes: 344337
+      sha256: 50829a07cc0534feead5912775276fe4eeab09b14768fdad7e8e771f0511be89
+    - format: jpg
+      name: image-3.jpg
+      bytes: 253323
+      sha256: 5d6f0e63e573d62be7056935d7b5000850436441dc08386c8a709edb807ccb81
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

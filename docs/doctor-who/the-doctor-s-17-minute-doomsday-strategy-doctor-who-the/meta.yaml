@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-17-minute-doomsday-strategy-doctor-who-the
+category: doc
+title: 'The Doctor''s 17-Minute Doomsday Strategy (Doctor Who: The Eleventh Hour)'
+alt_titles:
+- 17 minute doomsday strategy
+authors:
+- name: thatguyislonelyfr
+  reddit: thatguyislonelyfr
+  id: thatguyislonelyfr
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hpxi5p/17_minute_doomsday_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1177
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 131349
+      sha256: 31fc1c1d700fe412dd96f2db3750efb4f0b7983678f5d6be1db6b777ab039281
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

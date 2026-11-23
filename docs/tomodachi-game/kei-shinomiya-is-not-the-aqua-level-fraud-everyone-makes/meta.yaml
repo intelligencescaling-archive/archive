@@ -1,0 +1,70 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kei-shinomiya-is-not-the-aqua-level-fraud-everyone-makes
+category: doc
+title: Kei Shinomiya Is Not the Aqua-Level Fraud Everyone Makes Him Out to Be (Tomodachi Game)
+alt_titles:
+- Friendly reminder Kei Shinomiya is not the Aqua level fraud everyone makes him out to be
+authors:
+- name: Spinosaurus23
+  reddit: Spinosaurus23
+  id: spinosaurus23
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- kei-shinomiya
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jzauqc/friendly_reminder_kei_shinomiya_is_not_the_aqua/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 748
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 365029
+      sha256: 7ffd17dd03a25d1e891691be6428fc95c79ef53d196def6019fc46c9d38e05d3
+    - format: png
+      name: image-2.png
+      bytes: 271499
+      sha256: 1f099e75e6f3c3b7aba1f6af3950864ea0b05fe66671f16724ce8d9cd988ad14
+    - format: png
+      name: image-3.png
+      bytes: 372555
+      sha256: 6fbb9c1e6a21a9cf9f6bb9ff132be581850f95dd33177fde44dab31593a4b1d4
+    - format: png
+      name: image-4.png
+      bytes: 80890
+      sha256: 09a6e373638f93966085d0ae4ccbe11159c17696dc83ff00377305a4620aae1a
+    - format: png
+      name: image-5.png
+      bytes: 265312
+      sha256: c65e8a5b28debf9e1afbe89bdb2ef21a95f0a3145c113de1884fa8cb3c74b351
+    - format: png
+      name: image-6.png
+      bytes: 348681
+      sha256: bd8ccc78fc3140e50f4d8a7344cec416ac42eb3783949420103d02d6e8bfaa54
+    - format: png
+      name: image-7.png
+      bytes: 359809
+      sha256: 9c965b84e256e3d1db784bad2267cbd68cefa0f8570aa531fdd194163ba07ef4
+    - format: png
+      name: image-8.png
+      bytes: 672397
+      sha256: 2d2fbe1a7cdf5d53c0367a0d94f74d2cde4e501c47a0b7b6bbadb0028d0afa7f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d3rlord3-destroying-a-world-that-doesn-t-exist-feat-list
+category: doc
+title: 'D3rlord3: Destroying a World That Doesn''t Exist Feat List (Wifies)'
+alt_titles:
+- 'D3rlord3: destroying a world that doesn’t exist featlist'
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- wifies
+characters:
+- d3rlord3
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s7grt6/d3rlord3_destroying_a_world_that_doesnt_exist/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 682
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 187200
+      sha256: 8358c9d6482d288d2a8ea139dba158b77ec155b32a1e81552e3f27316cff6c1b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

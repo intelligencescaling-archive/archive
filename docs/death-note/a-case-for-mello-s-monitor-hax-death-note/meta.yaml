@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-case-for-mello-s-monitor-hax-death-note
+category: doc
+title: A Case for Mello's Monitor Hax (Death Note)
+alt_titles:
+- A Case for Mello's Monitor Hax
+authors:
+- name: HeronDefiant6644
+  reddit: HeronDefiant6644
+  id: herondefiant6644
+  source: reddit-post
+series:
+- death-note
+characters:
+- mihael-keehl
+tags:
+- feats
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pa34na/a_case_for_mellos_monitor_hax/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 624
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 87111
+      sha256: f89a6a7686dca503d0827db94ceeb2dde09c16ce7488a29568dd13293660aa6e
+    - format: jpg
+      name: image-2.jpg
+      bytes: 83792
+      sha256: 3694720a49a0ed70711454f2cd17c2b2670d7351ffdd1442f1cad51de834a05f
+    - format: jpg
+      name: image-3.jpg
+      bytes: 171860
+      sha256: fe3da9e5f6085f9f7cffe45cd2cf87e3271dd5c3b57b8af6c1ba2cd874b9dae2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: recursive-intelligence-amplification-in-fiction
+category: doc
+title: Recursive Intelligence Amplification in Fiction
+authors:
+- name: arvinsins
+  reddit: arvinsins
+  id: arvinsins
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1svupj0/recursive_intelligence_amplification_in_fiction/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 671
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 13583
+      sha256: 74a318380b8c6a7e2bf09e4c1c75dc4ecb0d3edad147754b81dde0cfd7e392a5
+    - format: png
+      name: image-2.png
+      bytes: 36462
+      sha256: 878a91140f964aca0d7be377ef6ed191e8f2a567a676786211c02a5147332b29
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

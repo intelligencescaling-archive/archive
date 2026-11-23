@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sakyo-s-66-5-trillion-yen-gamble-explained-yu-yu-hakusho
+category: doc
+title: Sakyo's 66.5 Trillion Yen Gamble Explained (Yu Yu Hakusho)
+alt_titles:
+- Sakyo 66.5 trillion yen gamble feat explained
+authors:
+- name: DBTRF
+  reddit: DBTRF
+  id: dbtrf
+  source: reddit-post
+series:
+- yu-yu-hakusho
+characters:
+- sakyo
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lsgtkn/sakyo_665_trillion_yen_gamble_feat_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 729
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40702
+      sha256: af672825d319e505d87912d5682e8caddcc5679d8f81a12c4c4e388761c2e06e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

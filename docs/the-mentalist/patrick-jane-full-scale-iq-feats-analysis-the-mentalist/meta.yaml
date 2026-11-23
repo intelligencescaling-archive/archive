@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-full-scale-iq-feats-analysis-the-mentalist
+category: doc
+title: Patrick Jane Full Scale IQ Feats Analysis (The Mentalist)
+alt_titles:
+- Patrick Jane Full Scale IQ Analysis Feats
+authors:
+- name: Important-Breath1297
+  reddit: Important-Breath1297
+  id: important-breath1297
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r63bqc/patrick_jane_full_scale_iq_analysis_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2208
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 56289
+      sha256: 5beefccb5f8b512078b0c5fcf240378372ec20b29c8dfee5f445fcd57767607d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

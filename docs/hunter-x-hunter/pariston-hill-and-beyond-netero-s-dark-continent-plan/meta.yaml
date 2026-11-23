@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pariston-hill-and-beyond-netero-s-dark-continent-plan
+category: doc
+title: Pariston Hill and Beyond Netero's Dark Continent Plan (Hunter x Hunter)
+alt_titles:
+- Pariston Hill (maybe even Beyond Netero) feat
+authors:
+- name: Connect-Fudge8942
+  reddit: Connect-Fudge8942
+  id: connect-fudge8942
+  source: reddit-post
+series:
+- hunter-x-hunter
+characters:
+- pariston-hill
+- beyond-netero
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lijz98/pariston_hill_maybe_even_beyond_netero_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1112
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 66650
+      sha256: 11067b80d4ea0a451ccfb4d2e1086f38cfb9200658c26a68fc9c7a2aaec7ff5f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

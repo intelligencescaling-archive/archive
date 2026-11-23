@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-madoka-outsmarted-kyubey-puella-magi-madoka-magica
+category: doc
+title: How Madoka Outsmarted Kyubey (Puella Magi Madoka Magica)
+alt_titles:
+- How Madoka Outsmarted Kyubey (Analysis)
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- puella-magi-madoka-magica
+characters:
+- madoka-kaname
+- kyubey
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1phbg6o/how_madoka_outsmarted_kyubey_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 729
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 154663
+      sha256: faa4fd150bc208efc2fe76b2590cf55c25cd8057c08f99fc3c904daab5c2fa6b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

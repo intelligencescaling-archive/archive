@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: senku-chapter-1-analysis-including-his-3-700-year-counting
+category: doc
+title: Senku Chapter 1 Analysis, Including His 3,700-Year Counting Feat (Dr. Stone)
+alt_titles:
+- Senku Chapter 1 Analysis (Including his 3700 years counting feat)
+authors:
+- name: Logical-Arachnid-066
+  reddit: Logical-Arachnid-066
+  id: logical-arachnid-066
+  source: reddit-post
+series:
+- dr-stone
+characters:
+- senku-ishigami
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1maf4k7/senku_chapter_1_analysis_including_his_3700_years/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 542
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+      image-3: HTTP 404
+      image-4: HTTP 404
+      image-5: HTTP 404
+      image-6: HTTP 404
+      image-7: HTTP 404
+      image-8: HTTP 404
+      image-9: HTTP 404
+      image-10: HTTP 404
+      image-11: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

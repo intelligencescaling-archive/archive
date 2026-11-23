@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-to-and-not-to-write-a-genius-character
+category: doc
+title: How to (and Not to) Write a Genius Character
+alt_titles:
+- How to (and not to) write a genius character?
+authors:
+- name: Scary_Examination887
+  reddit: Scary_Examination887
+  id: scary-examination887
+  source: reddit-post
+series: []
+characters: []
+tags:
+- writing
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qlxan5/how_to_and_not_to_write_a_genius_character/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 957
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 657632
+      sha256: ec1384da9c1bd008299b75a7e6f1719dbf5c37c93182826a9c42502c68afd5bb
+    - format: jpg
+      name: image-2.jpg
+      bytes: 728243
+      sha256: 771272f9c1fd2a60c47d9d95a4b42102e53efc343dbef5d64b9f3a1a8c40d644
+    - format: jpg
+      name: image-3.jpg
+      bytes: 627280
+      sha256: 5a048932d14400ff2f3b3d7c9cf42e14eb5dfeea9e48444b4eb2d849f5cb97f2
+    - format: jpg
+      name: image-4.jpg
+      bytes: 804150
+      sha256: 820bc247a59f36450ca816099ee45ff28fd1681f3d27d25dba577d2c42f837fa
+    - format: jpg
+      name: image-5.jpg
+      bytes: 590226
+      sha256: d384b4a96f5ad3a5bdb2bb7820a973faa8b68d264b559e3dfd6fa6916ab817bf
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

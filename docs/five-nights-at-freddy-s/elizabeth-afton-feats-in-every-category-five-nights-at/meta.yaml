@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: elizabeth-afton-feats-in-every-category-five-nights-at
+category: doc
+title: Elizabeth Afton Feats in Every Category (Five Nights at Freddy's, Game Canon & Game Theory)
+alt_titles:
+- Elizabeth Afton (Gamecanon & Gametheory) Feats in Every Category
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- elizabeth-afton
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qdhdp7/elizabeth_afton_gamecanon_gametheory_feats_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 722
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 27524
+      sha256: c398a6980c6c203866de3a0ee6dab4fda448f0444e6123ec573820f077c127ec
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

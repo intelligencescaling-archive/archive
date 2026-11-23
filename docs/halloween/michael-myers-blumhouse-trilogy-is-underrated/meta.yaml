@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-myers-blumhouse-trilogy-is-underrated
+category: doc
+title: Michael Myers (Blumhouse Trilogy) Is Underrated
+alt_titles:
+- Michael Myers (Blumhouse trilogy.) is kinda underrated ngl.
+authors:
+- name: Terrible_Park7890
+  reddit: Terrible_Park7890
+  id: terrible-park7890
+  source: reddit-post
+series:
+- halloween
+characters:
+- michael-myers
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qia7l8/michael_myers_blumhouse_trilogy_is_kinda/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1191
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 31197
+      sha256: c40fdc557c6507e9ee81b9384074ee52aa2c4cee2103dbef21126e78c4ba9af4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

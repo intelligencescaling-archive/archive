@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-10th-doctor-s-six-words-feat-analysis-doctor-who
+category: doc
+title: The 10th Doctor's Six Words Feat Analysis (Doctor Who)
+alt_titles:
+- The 10th Doctor's Six Words Feat analysis
+authors:
+- name: TheRealMaster98
+  reddit: TheRealMaster98
+  id: therealmaster98
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+variant: Tenth Doctor
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rgebxa/the_10th_doctors_six_words_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 716
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 201179
+      sha256: e05d645cb467b5ea098d32a42325ee529ad39bdfb2476e83e1f61d0e35da0927
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

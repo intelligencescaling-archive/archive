@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: air-poker-debunk-usogui
+category: doc
+title: Air Poker Debunk (Usogui)
+alt_titles:
+- Usogui | Air Poker Debunk
+authors:
+- name: Different-Click9753
+  reddit: Different-Click9753
+  id: different-click9753
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vzl71u/usogui_air_poker_debunk/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 710
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 627018
+      sha256: 27b6ed4d84cfe63adc44d2fd5223dcb1b73666cc059e2a95db32a3a0ba7eae06
+    - format: png
+      name: image-2.png
+      bytes: 597238
+      sha256: d3c9090e4c434440a76df94bd9f127175f3ee22e7e8a256163a5c993b519c107
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

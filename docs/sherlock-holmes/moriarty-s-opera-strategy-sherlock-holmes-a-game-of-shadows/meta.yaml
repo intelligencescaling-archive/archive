@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moriarty-s-opera-strategy-sherlock-holmes-a-game-of-shadows
+category: doc
+title: 'Moriarty''s Opera Strategy (Sherlock Holmes: A Game of Shadows, 2011)'
+alt_titles:
+- 'Moriarty’s Opera Strategy from Sherlock Holmes: A Game of Shadows (2011)'
+authors:
+- name: Alidokadri
+  reddit: Alidokadri
+  id: alidokadri
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- james-moriarty-sherlock-holmes
+variant: A Game of Shadows
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wnvj04/moriartys_opera_strategy_from_sherlock_holmes_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3118
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 145242
+      sha256: 53bb9818c8df4c4849662ddc181e679a1381de6035c24b33be6096f4d8e37353
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

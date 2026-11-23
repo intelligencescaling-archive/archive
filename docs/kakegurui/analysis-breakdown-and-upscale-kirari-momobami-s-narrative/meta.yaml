@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-breakdown-and-upscale-kirari-momobami-s-narrative
+category: doc
+title: 'Analysis Breakdown and Upscale: Kirari Momobami''s Narrative (Kakegurui)'
+alt_titles:
+- 'Analysis Breakdown and Upscale: Kirari Momobami’s Narrative'
+authors:
+- name: Inevitable_Dig_7080
+  reddit: Inevitable_Dig_7080
+  id: inevitable-dig-7080
+  source: reddit-post
+series:
+- kakegurui
+characters:
+- kirari-momobami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hzo0ae/analysis_breakdown_and_upscale_kirari_momobamis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1046
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 165731
+      sha256: be6c5e21f0b9296456d33441e8f041b292b4f27d395ed5ed7b47df58874c18b3
+    - format: jpg
+      name: image-2.jpg
+      bytes: 152815
+      sha256: 0a04526ebafc8dff27b889390f01aa99ecc61df89aed188a4c8850c20f3f2cd4
+    - format: jpg
+      name: image-3.jpg
+      bytes: 134597
+      sha256: 9ec8e4c606330d0d88abd5827cd726a208389297790a8d591b751fbdf090795e
+    - format: jpg
+      name: image-4.jpg
+      bytes: 33995
+      sha256: 767bcbb43e155aaf1e0b71253e355c89563e3f871014d5355cd0676fe6d84b27
+    - format: jpg
+      name: image-5.jpg
+      bytes: 194282
+      sha256: 92d245e7f0530736653628fcb88111b567e8aeeb9902c7d73c000afae6281f6f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

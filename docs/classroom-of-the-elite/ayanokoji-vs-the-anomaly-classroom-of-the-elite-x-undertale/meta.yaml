@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-vs-the-anomaly-classroom-of-the-elite-x-undertale
+category: doc
+title: Ayanokoji vs the Anomaly (Classroom of the Elite x Undertale)
+alt_titles:
+- Ayanokoji vs the Anamoly
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- undertale
+characters:
+- kiyotaka-ayanokoji
+- sans
+- frisk
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v8j6bn/ayanokoji_vs_the_anamoly/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 639
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 29073
+      sha256: b534a90964d040260f96e6de734f96eb353610cb4c4e574c346a6be5f37fc9e3
+    - format: jpg
+      name: image-2.jpg
+      bytes: 39482
+      sha256: 03c0d3f6b0a7bfd1b0720bb9afda1fb8e8b589efd00f2948782be01c89d97194
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

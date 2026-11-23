@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: house-s-dream-feat-analysis-house-m-d
+category: doc
+title: House's Dream Feat Analysis (House M.D.)
+alt_titles:
+- House Dream Feat analysis (reupload)
+authors:
+- name: Detective Notme
+  id: mrnotme
+  source: doc-text
+shared_by:
+- name: zallyboii123
+  reddit: zallyboii123
+  id: zallyboii123
+  source: reddit-post
+series:
+- house
+characters:
+- gregory-house
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qvtiyi/house_dream_feat_analysis_reupload/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 707
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1808578
+      sha256: e1df1d75542e233ce1f61aa2291b49a7b2f1df2711d63d8e7dd52edc4979115a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

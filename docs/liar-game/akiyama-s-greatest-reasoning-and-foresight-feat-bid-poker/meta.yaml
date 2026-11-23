@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-greatest-reasoning-and-foresight-feat-bid-poker
+category: doc
+title: 'Akiyama''s Greatest Reasoning and Foresight Feat: Bid Poker Full Breakdown (Liar Game)'
+authors:
+- name: Cridemord
+  id: tokho
+  source: doc-text
+shared_by:
+- name: fsqm1
+  reddit: fsqm1
+  id: fsqm1
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vs5ago/akiyamas_greatest_reasoning_foresight_feat_full/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2516
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 535886
+      sha256: 5217972caeb6fb217f3f2abd6c5b49b2be109b528bab0a96e93a07cdb5df5c71
+    - format: jpg
+      name: image-2.jpg
+      bytes: 673589
+      sha256: 0cb93cb8a7be9d7a496f91c5b333f051572253b1b310e368bfd790f5917c30dc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: and-then-there-were-none-case-scaled-with-the-case
+category: doc
+title: And Then There Were None Case, Scaled with the Case Difficulty Categories
+alt_titles:
+- And Then There Were None Case - u/Good-Fennel7417 scale
+authors:
+- name: Recover-Last
+  reddit: Recover-Last
+  id: recover-last
+  source: reddit-post
+series:
+- and-then-there-were-none
+characters: []
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wthad7/and_then_there_were_none_case_ugoodfennel7417/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 616
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 64841
+      sha256: ba7369bbe9ee4feb21ab5b360c98e32f6273652ed62527294c393b344fe55e0c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bad-convoluted-points-that-random-commenters-and-scalers
+category: doc
+title: Bad, Convoluted Points That Random Commenters and Scalers Use as Arguments for Ayanokoji (Classroom of the Elite)
+alt_titles:
+- Bad, Convoluted Points That Random Commenters and Scalers Use as Arguments for Ayanokoji
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xv2rp5/bad_convoluted_points_that_random_commenters_and/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1220
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 299708
+      sha256: 9fe51aa5628bdf90b21fbd13236f043eeac60cfb74b57783d9137be3e3a5e4fa
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

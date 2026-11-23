@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji-s-feat-killing-setsuka-danganronpa-sdra2
+category: doc
+title: 'Kanade Otonokoji''s Feat: Killing Setsuka (Danganronpa SDRA2)'
+alt_titles:
+- Feat of Kanade Otonokoji, my favourite gooning character! 🥵💦👅
+authors:
+- name: Connect-Fudge8942
+  reddit: Connect-Fudge8942
+  id: connect-fudge8942
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lfdp5p/feat_of_kanade_otonokoji_my_favourite_gooning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 708
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 61590
+      sha256: a740e115359521fc30078963219f6e6bbd16400127cff57e514bdfa19f117557
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

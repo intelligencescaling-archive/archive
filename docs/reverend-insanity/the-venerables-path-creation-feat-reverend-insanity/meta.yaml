@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-venerables-path-creation-feat-reverend-insanity
+category: doc
+title: The Venerables' Path Creation Feat (Reverend Insanity)
+alt_titles:
+- Venerables path creation feat (RI)
+authors:
+- name: God_killer1
+  reddit: God_killer1
+  id: god-killer1
+  source: reddit-post
+series:
+- reverend-insanity
+characters: []
+tags:
+- feats
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1th0831/venerables_path_creation_feat_ri/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 968
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

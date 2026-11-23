@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: feats-of-squid-game-characters-in-seasons-2-and-3
+category: doc
+title: Feats of Squid Game Characters in Seasons 2 and 3
+alt_titles:
+- List of feats of Squid game characters in seasons 2 and 3
+authors:
+- name: Historical-Fun-2618
+  reddit: Historical-Fun-2618
+  id: historical-fun-2618
+  source: reddit-post
+series:
+- squid-game
+characters:
+- player-333
+- seong-gi-hun
+- the-frontman
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sb2tu5/list_of_feats_of_squid_game_characters_in_seasons/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 699
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

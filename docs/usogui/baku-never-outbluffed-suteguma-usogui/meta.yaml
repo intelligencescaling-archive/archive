@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-never-outbluffed-suteguma-usogui
+category: doc
+title: Baku Never Outbluffed Suteguma (Usogui)
+alt_titles:
+- Baku Never Outbluffed Suteguma
+authors:
+- name: Alert-Researcher7788
+  reddit: Alert-Researcher7788
+  id: alert-researcher7788
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+- suteguma-satoru
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mmgaga/baku_never_outbluffed_suteguma/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1915
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

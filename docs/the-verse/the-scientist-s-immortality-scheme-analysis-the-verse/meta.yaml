@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-scientist-s-immortality-scheme-analysis-the-verse
+category: doc
+title: The Scientist's Immortality Scheme Analysis (The Verse)
+alt_titles:
+- The Scientist’s Immortality Scheme Analysis
+authors:
+- name: KitchenCoyote_The2nd
+  reddit: KitchenCoyote_The2nd
+  id: kitchencoyote
+  source: reddit-post
+series:
+- the-verse
+characters:
+- the-scientist-the-verse
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1orj5fs/the_scientists_immortality_scheme_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 572
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 154030
+      sha256: af87a389a1474d1a3c4ed21db74996fd983b1aeeff80e8c06051e934eb97d27b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: alice-feat-list-lewis-carroll-novels
+category: doc
+title: Alice Feat List (Lewis Carroll Novels)
+alt_titles:
+- Alice (Lewis Carroll Novels) feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- alice-s-adventures-in-wonderland
+characters:
+- alice-alice-s-adventures-in-wonderland
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q1w18k/alice_lewis_carroll_novels_feat_list/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 985
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

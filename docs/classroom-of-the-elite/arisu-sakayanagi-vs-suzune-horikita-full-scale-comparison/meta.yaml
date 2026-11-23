@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: arisu-sakayanagi-vs-suzune-horikita-full-scale-comparison
+category: doc
+title: Arisu Sakayanagi vs Suzune Horikita Full Scale Comparison by Ganve (Classroom of the Elite)
+alt_titles:
+- Arisu sakayanagi vs suzune horikita full scale comparison
+authors:
+- name: Ganve
+  id: ganve
+  source: doc-text
+shared_by:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- arisu-sakayanagi
+- suzune-horikita
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w0s7zs/arisu_sakayanagi_vs_suzune_horikita_full_scale/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 2361
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+      image-3: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

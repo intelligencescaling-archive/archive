@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-reasoning-and-cold-reading-of-kushida-s-secret
+category: doc
+title: Ayanokoji's Reasoning and Cold Reading of Kushida's Secret (Classroom of the Elite)
+alt_titles:
+- Ayanakoji's reasoning and cold reading of Kushida's secret and dual personality
+authors:
+- name: CommonSence123
+  reddit: CommonSence123
+  id: commonsence123
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- kikyo-kushida
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1psbh3g/ayanakojis_reasoning_and_cold_reading_of_kushidas/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1018
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 848657
+      sha256: 7f2da07d5100553dc80741598b1d65d4b00e6f3f52b2a5d05403c7c1563b1573
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

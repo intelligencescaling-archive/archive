@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: what-if-akiyama-s-group-held-hands-and-blocked-off-the-pole
+category: doc
+title: What If Akiyama's Group Held Hands and Blocked Off the Pole in Musical Chairs? (Liar Game)
+alt_titles:
+- What if Akiyama’s group held hands and blocked off the Pole in Musical chairs?
+authors:
+- name: Effective-Emu-9938
+  reddit: Effective-Emu-9938
+  id: effective-emu-9938
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s5y35e/what_if_akiyamas_group_held_hands_and_blocked_off/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1403
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 71679
+      sha256: 3b1af31e6cadcab1402c5165e1e63fe84cd1ad4a6f5d232deffc910429ab530a
+    - format: jpg
+      name: image-2.jpg
+      bytes: 355443
+      sha256: e4e52f9d8b30164c630554e688019b2847911425bee33d476d1d75b53e2fe4ed
+    - format: jpg
+      name: image-3.jpg
+      bytes: 107705
+      sha256: c9a3d8f24d369d98b1ac7e239ef60a4761cc8ff2834a23f5a0170ed516913f18
+    - format: jpg
+      name: image-4.jpg
+      bytes: 178664
+      sha256: f9388a8a11e7f5a8fac5dcb351b516c3444913c1f7e95483f12416a6b60b4c7a
+    - format: jpg
+      name: image-5.jpg
+      bytes: 240403
+      sha256: aa55c9cb3147bd6a1f03ad4176755c9d502d2f227baea605c3ed7cbb2450eb31
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

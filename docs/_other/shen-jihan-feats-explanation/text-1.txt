@@ -1,0 +1,189 @@
+Shěn Jîhān Feats explanation (2 chapters)
+
+\*\*\*LOOP, NO EXIT AND LAW DEDUCTION (L.N.L DEDUCTION)\*\*\*
+
+If you've watch the "Exit 8" movie or played the game then you'd see that the inspiration at the start is why Shěn Jîhān came up with specific deductions and assert them as answers. It's only when he notices the deviation does he really pinpoint the correct answer.
+
+\_\_\_
+
+Before explaining the feat, I'll recap the Scenario details:
+
+Loop 1: Shěn Jîhān walks down the street and sees a blue sign and a homelessman -> When he walks by him, a 2nd loop occurs, and the number 1 appears on the blue stop sign -> When he walks by the homeless man again and turns around to see if it was really him, Shěn Jîhān was thrust into the 3rd loop immediately -> This is where he tries to leave again by turning around at the beginning of the loop (realizing he can't walk away he turns back to see he truly did not cover any distance) -> So when he does go forward again and loops back, he starts to wonder what the criteria for leaving actually was.
+
+\_\_\_
+
+\*\*\*LOOP DEDUCTION\*\*\*
+
+First he thinks that looking back (during the 2nd loop) was why the count went from 0 to 1; but he discards that idea when the number did not increase to 2 after turning around at the beginning of the 3rd loop.
+
+Due to this, he compares it with walking forward to see which was a more viable answer: Turning back and going forward are both ways to leave.
+
+This is his exact thought process:
+
+\> ‘When I looked back during the second loop I was suddenly thrown into the third. This means the second loop could've been seen as invalid after I looked back. Looking back in itself is a problem so that's definitely not the way to leave.’
+
+So he eliminated the possibility of turning back while \*expecting\* the answer to be the next one. Meaning, he didn't deduce that it was correct for sure and only went on the assumption that it would be true; which is the reason why when he walks by the homeless man again and sees the sign change to negative 0 (the previous sign had 0 but the sign itself was hexagonal. The hexagon represents 6, which was the amount of times he'd be looped back in total. Shěn Jîhān sees this detail and associates it with the "Exit 8" movie \*expecting\* it to be an anomaly)
+
+This is why when he turns back again and emerges from the opposite direction he calls the homeless man an anomaly.
+
+When he loops back again in that instant the only thing left for him to use as a viable deductive reasoning chain was that he was stuck inside a matrix where he had to deduce the determinant, properties and identity correctly
+
+\_\_\_.
+
+An identity matrix (or unit matrix) is a square matrix, denoted by or, with ones on the main diagonal and zeros elsewhere. It acts as the multiplicative identity for matrices; multiplying any matrix by its corresponding identity matrix results in the original matrix.
+
+An identity matrix is a square matrix always. 2x2
+
+Identity matrix: I² = \[1001\]
+
+\[ 1 0 \]
+
+\[ 0 1 \]
+
+A 2 by 2 matrix, denoted as:
+
+\*A\* =
+
+\[ a b \]
+
+\[ c d \]
+
+has fundamental properties including a determinant (det (\*A\*) = ad - bc) and an inverse:
+
+A-¹ = 1/det (A)
+
+\[ a -b \]
+
+\[ -c d \]
+
+The above is valid only if the determinant (\*A\*) is NOT equal to 0
+
+If the determinant IS equal to zero then the matrix will be nilpotent (as was explained by Shěn Jîhān himself within the novel)
+
+\_\_\_
+
+\*\*\*NO EXIT AND LAW DEDUCTION\*\*\*
+
+This in itself was a misdirection from Xiaobai to keep Shěn Jîhān from figuring out how to escape the dream by priming him into \*expecting\* an answer to be present when they meet the second time which would activate the law of unpredictability and kept him there had he not deduced it in time.
+
+To fully understand the feat, you'll have to do three things. 1) remember the previous deduction, 2) look at the scene with Xiaobai's words at the beginning of the novel: "Come along, Xiaobai." 3) Remember that Shěn Jîhān kicks the chicken and picks it.
+
+\_\_\_
+
+Situational context:
+
+Anyhow, following his exit, Shěn Jîhān saw that there were many people and alot of noise bombarding him now since everything had returned to normal.
+
+The chicken he had in his hand had died by this time. His hand was also covered in shit from its post mortem bowel movements.
+
+A police patrolman poked him with a meter ruler and told him he had to leave. Shěn, after a while, smacked away the stick and steps across the street to talk to the homelessman. He finds that the homelessman is dead and drops the chicken at his feet since he didn't need it anymore. After Shěn Jîhān turns to leave he hears the homelessman tell him to continue walking and the man he meets will answer his questions.
+
+Ofcourse he looks back and sees that the homelessman was still dead. Only, this time, the chicken had disappeared and so did the police patrolman from across the street.
+
+Shěn Jîhān does as the man says and finds a fountain where he washes his arm. During this time he hears a man shout "Xiaobai!" After a dog barks.
+
+The dog lunges at Shěn Jîhān but he dodges it and sees the dog suspended above the fountain while still growling at him.
+
+He turns around and sees a hand reach for him, locking up because of the trauma experienced at the beginning of the novel.
+
+Shěn Jîhān then replies that he's fine when Xiaobai asks him if he was.
+
+Loop 1: X) Do you know your name?, S) Er Liang Bai Kai, X) Shen Cui er, do you have any family members?, S) I don't, X) Come with me, X) Do you know me?, S) I don't, X) Do you know who Xiaobai is, S) \*looks at dog\* I don't, X) Do you not see him?, S) I don't, X) Do you think I'm wasting your time?, S) I don't
+
+Loop 2: X) Do you know your name, S) I don't, X) Er Liang Bai Kai, do you have any family members? S) I don't, X) Then, come with me, X) Do you know who I am?  S) I don't, X) Do you know who Xiaobai is?, S) I don't, X) Do you not see it?, S) I don't, X) Do you think I'm wasting your time?, S) I dont— \*dies\*
+
+Loop 3: S) Yes, Xiaobai, you're wasting my time with these questions.
+
+\_\_\_
+
+The feat itself is already self evident from the description of the narrative:
+
+\> This dream had a highly unusual case of wackiness because the concept of ‘predictions’ doesn't exist. What you might expect someone to do or to think within a given scenario is not what will happen at all.
+
+The overt narrative cases were, starting from the beginning: Four legged chicken, Old man's indifference, Crosswalk Loop, sudden Noisy + crowded Street, disappearing chicken and police patrolman, talking dead body
+
+The subtle narrative cases were: Xiaobai's attire, meter ruler, dog, complete inability to reach or accomplish a goal when steps are preplanned, expectations are always overturned
+
+Subtlest case: Sun's heat indicating the time of day had changed from morning to early afternoon, was questioned repeatedly by Xiaobai
+
+It being a dream justifies most of this stuff if not for the fact that he feels true fear each and every time he loops back
+
+\> Starting with the old man who had taken the lives of many kids over the course of his life, he expected him to feel sympathetic for his situation but instead all he received was a cold indifference. When he tried to pull on his heart strings all he got in return was another warning to leave before he was gunned to death.
+
+\> Following that experience he wanted to go find a butcher's shop and felt he might happen upon one if he went a certain direction, but, again, he didn't. He saw a homeless man and got stuck in a loop until he abandoned the idea of heading to the butcher's and focused on solving the more immediate problem.
+
+\> If he was to put a label on it he might call it the law of uncertainty, or the law of inverse rationality; congruent with the actions within a dream. ‘Actually, a better name would be the law of dreams.’
+
+He realizes that whenever he sets his mind to something of any kind while expecting it to happen, it either experiences a subtle (lack of kitchen appliances, morning to early afternoon) or drastic change (chicken and loop)
+
+\> Meaning, the only way to find an answer was to figure it out from the present clues then interpret it in accordance to the degree of wackiness. This required an unconventional thought process beyond the real world.
+
+\> The old man didn't kill him, the homeless man threatened to kill him and the robed man actually did kill him the second (technically third) time. Why is that?
+
+\> For the old man he \*believed\* he would die. He believed the \*possibility\* of death eventually with the homeless man but not \*by\* the homeless man. With the robed man he believed he would \*die first\* \*\*when he didn't\*\* and believed he \*wouldn't die\* when \*\*he actually did.\*\*
+
+He also realized here that he was \*expecting\* to receive answers from the robed man because of the homeless man's words earlier and since he expected an answer then the possibility of him even getting one was low. It was fully zero when he pieced together that the robed man was simply wasting his time.
+
+Seeing as Shěn Jîhān was the one being questioned when the situation should be the other way around (he expected to do the questioning).
+
+He also deduces here that although this was a dream, it was also a well mapped trap by the person who created it because thinking it was a dream already IMPLIED that an exit which subtly amplified the belief that he would receive answers from the robed man; as shown by the beginning of the novel where he starts believing he was stuck in a dream. (Will site it below)
+
+\> ‘Maybe the answer isn't that there is one. Afterall, I am expecting it.’
+
+\> “Yes, Xiaobai, you are wasting my time with these questions.”
+
+After this, he gets thrust into nighttime where he's subject to the same pain as the beginning of the sequence and is faced with a question:.
+
+"Why do you live?" From Xiaobai.
+
+Normally you'd expect someone to say it's because they let them live. But that wasn't the case.
+
+Shěn Jîhān had deduced that the dream itself was a trap set by Xiaobai that had various mini traps which all played in subverting expectations so he already discarded the most obvious answers and said: "To be your loyal dog...and attack your enemies on your behalf."
+
+The purpose of the dog was to show exactly that.
+
+The-meta narrative indicated that the dog being absent the first time could now be recontextualized into Xiaobai not having a loyal servant -> The second time the existence of the dog can be recontextualized into Xiaobai getting the dog -> but to get the dog he had to make it submit -> pain and asserting dominance was the most effective way to ensure that a wild dog doesn't bite the hand that feeds them -> during the dream Xiaobai did exactly that through the matrix and the trauma inducement -> meaning Shěn Jîhān was now the dog -> within the dream the dog attacked him -> during this narrative he will be the one doing the attacking.
+
+Thus, he will be his loyal guard dog and attack Xiaobai's enemies on his behalf.
+
+\_\_\_
+
+\*\*\*BONUS: DREAM IMPRINT COUNTERACTION OR DREAM TRAP EVASION\*\*\*
+
+Scene:
+
+“What…the…f\*ck is going on?” He wondered if he'd just seen a real life SCP or was simply hallucinating it. But when the pain kicked in again he was forced to admit the reality of his situation.
+
+NO!
+
+“WHAT THE F\*CK IS GOING ON??!” Yelling that again he flopped onto his back, staring absentmindedly at the distorted night sky. ‘Am I dreaming? I must be. It makes sense since I literally just went to bed a while ago.’
+
+\*Despite various evidence pointing elsewhere, the young man remained steadfast in his belief. He chalked it all up to a very immersive fever dream in the end.\*
+
+\*\*…He didn't know what he might do to himself if he accepted that it wasn't, afterall.\*\*
+
+The highlighted sections was purposefully left to interpretation by me for 1) narrative impact, 2) interpretative value
+
+The evidence pointing away from this being a dream was first the immense pain that came with his arrival. The next was him clawing at the ground and then covering himself in dirt which was done to confirm that subtle sensations, outside of intense pain, could still be felt. He also felt genuine dread at seeing the eye in the sky.
+
+\*(He was already thinking it might be a dream because of the existence of the black robed man with powers and the eye in the unholy night sky seeing as that was the only thing that made sense.)\*
+
+The final tactic was inducing sudden and inescapable trauma, then associating the name Xiaobai and the robed man with that necessarily unpleasant and painful experience to deter Shen Jîhān from recalling it due to his throat tightening and his body clambering up.
+
+☝️The above is the greatest and most dangerous trap of all because when the robed man said: "come along Xiaobai" Shěn Jîhān did NOT register the existence of a dog. IF he wasn't careful, he been led to believe the dog was Xiaobai because the robed figure was talking in third person.
+
+But Shěn Jîhān was already knowledgeable about cultivators, as seen inside the forest, so he knew that cultivators frequently refered to themselves in the third person. Then again, it could be a dog's name given the fact that it is commonly used as such and the fact that cultivators don't call out their own name explicitly. They only say their title or role.
+
+The crucial piece of evidence though was the fact that self distancing was a known way to regulate emotions, according to psychology.
+
+If Shen did not know this he would not have figured that Xiaobai was the one who put him in the dream and would've continued in the belief that he would have to find a way to answer the questions he'd received based inside the scenario.
+
+For example: During the crosswalk loop he had to use the evidence inside it to answer. But during the fountain loop there were no answers that could be derived from the provided evidence inside that scenario. He had to draw from everything that happened OUTSIDE of it to answer what was happening within.
+
+Also, if he didn't put together those close to figure out for himself that it was a dream within that short time frame—Xiaobai would've imprinted the answer into his head because Shěn would NOT be expecting it to be a dream in that scenario.
+
+If this happened, then he could not get out of the matrix at all because he would expect death to not apply in dreams since he could respawn again at some point. But if the homelessman killed him then he would've been dead for good.
+
+Before even that, he'd be killed by the old man in the junkyard because he would not find his warnings to be an actual threat to his life.
+
+If he got past those two then he would be stuck looping by the fountain seeing as he would not be as attentive or serious with the details inside the dream and refer to the dog as Xiaobai instead of the robed man \*(the trauma and dream imprint would force him not to think too deeply about it. It's similar to how he forced himself to think it was a dream and tried to downplay the seriousness until his expectations were repeatedly overturned inside the junkyard abd during the looping sequence)\*

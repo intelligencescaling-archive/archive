@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-yamanote-feat-is-valid-death-note
+category: doc
+title: The Yamanote Feat Is Valid (Death Note)
+alt_titles:
+- Yamanote feat
+authors:
+- name: lawligh0
+  reddit: lawligh0
+  id: lawligh0
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v6o5ov/yamanote_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 678
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 106149
+      sha256: e1b310e3a52a3eb1da94ab6f283c819e9926184d6125e12a8fe8486ebc006f3d
+    - format: jpg
+      name: image-2.jpg
+      bytes: 51132
+      sha256: 24b12b2f59ce5e2c2d923689f90b767e483354bd3b5e15222e9445768066cb4f
+    - format: jpg
+      name: image-3.jpg
+      bytes: 35753
+      sha256: 8407f659072b1021f2135ffa811203520264fb803d4a7c2203764aab59b151cd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

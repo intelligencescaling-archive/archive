@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-world-is-a-harmony-chapter-0-reality-or-fantasy
+category: story
+title: 'The World Is a Harmony, Chapter 0: Reality or Fantasy'
+alt_titles:
+- FANFIC OF THE SUB, The World Is A Harmony (This is my first fanfic, I hope you guys can rate this, and tell me, should I continue?)
+authors:
+- name: Connect-Fudge8942
+  reddit: Connect-Fudge8942
+  id: connect-fudge8942
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lf65a6/fanfic_of_the_sub_the_world_is_a_harmony_this_is/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2349
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 37882
+      sha256: 0650069277bc6705800ed30999e1deb6d014bb024e80b34900f42176a6290633
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

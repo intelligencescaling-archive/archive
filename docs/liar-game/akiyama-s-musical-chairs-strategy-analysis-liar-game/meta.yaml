@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-musical-chairs-strategy-analysis-liar-game
+category: doc
+title: Akiyama's Musical Chairs Strategy Analysis (Liar Game)
+alt_titles:
+- Akiyama Musical chairs strategy analysis
+authors:
+- name: Hour-Reach7418
+  reddit: Hour-Reach7418
+  id: hour-reach7418
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+- harimoto-takashi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1od2tms/akiyama_musical_chairs_strategy_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 945
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 113468
+      sha256: ad95748bdc0f7c9552dc7e3b7497586dbd3c9dd1bc9e2503fba6fd08abf4978b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

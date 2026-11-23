@@ -1,0 +1,74 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: deviant-connor-curb-stomps-hannibal-tv-and-scofield-in-cat
+category: doc
+title: Deviant Connor Curb-Stomps Hannibal (TV) and Scofield in Cat & Mouse
+alt_titles:
+- Deviant Connor curb stomps Hannibal (TV) and Scofield in C&M
+authors:
+- name: ditalled__
+  reddit: ditalled__
+  id: ditalled
+  source: reddit-post
+series:
+- detroit-become-human
+- hannibal
+- prison-break
+characters:
+- connor
+- hannibal-lecter
+- michael-scofield
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n66c2l/deviant_connor_curb_stomps_hannibal_tv_and/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 535
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40336
+      sha256: 38da53547c5f291d3983aa5d0fd65a193a6cad8072f15969ea21bd73fbacd1ca
+    - format: jpg
+      name: image-2.jpg
+      bytes: 21466
+      sha256: 27f348179e9fba0b3f04f1a12df7ff2c2333deeeef81cc54e248307041219056
+    - format: jpg
+      name: image-3.jpg
+      bytes: 8338
+      sha256: 70e7b806c86fac18b4c3e07eaf68be38844ea0739bb8d86403f72419f681e455
+    - format: jpg
+      name: image-4.jpg
+      bytes: 168962
+      sha256: d0ef1faa32a1843d0bd74be1c3227ee5db7050032c87ee5eca4988ea620a7fec
+    - format: jpg
+      name: image-5.jpg
+      bytes: 56513
+      sha256: b689d12bfd1bd544cc5f9cf60cbb4fe328c642f4a6b55411f16feb38667f0530
+    - format: jpg
+      name: image-6.jpg
+      bytes: 135091
+      sha256: 32870b451b5292ea631ded7b09e73d6ae0cd785a4856771bb29f2543d23026fc
+    - format: jpg
+      name: image-7.jpg
+      bytes: 165830
+      sha256: f25824ec6dfc7c2cb45a613732be1fcff6640a482aa359253c1df80d28342d45
+    - format: jpg
+      name: image-8.jpg
+      bytes: 69657
+      sha256: 473332902d53a24ee8d70f4e6c981da82cbd91a0d07cbe30c1b849f12f4cb20f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: red-john-is-overrated-the-mentalist
+category: doc
+title: Red John Is Overrated (The Mentalist)
+alt_titles:
+- Red John Is Overrated
+authors:
+- name: No_Engineering_3223
+  reddit: No_Engineering_3223
+  id: no-engineering-3223
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- red-john
+- patrick-jane
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v5giu3/red_john_is_overrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1460
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1707494
+      sha256: cc77c391407f825faf962a0148f9cfb4d74b0f20e0c1234b0f241c9ba4640278
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

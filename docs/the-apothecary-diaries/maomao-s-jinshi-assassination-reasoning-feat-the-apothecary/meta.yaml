@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: maomao-s-jinshi-assassination-reasoning-feat-the-apothecary
+category: doc
+title: Maomao's Jinshi Assassination Reasoning Feat (The Apothecary Diaries)
+alt_titles:
+- Maomao's Jinshi assassination reasoning feat
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- the-apothecary-diaries
+characters:
+- maomao
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vdcvkp/maomaos_jinshi_assassination_reasoning_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1185
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

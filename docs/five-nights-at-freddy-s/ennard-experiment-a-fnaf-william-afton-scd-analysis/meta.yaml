@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ennard-experiment-a-fnaf-william-afton-scd-analysis
+category: doc
+title: 'Ennard Experiment: A FNAF/William Afton SCD Analysis'
+alt_titles:
+- Ennard experiment | A FNAF/William Afton SCD analysis
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r8m7tw/ennard_experiment_a_fnafwilliam_afton_scd_analysis/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1223
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

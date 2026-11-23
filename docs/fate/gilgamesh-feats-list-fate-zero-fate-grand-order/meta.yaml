@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gilgamesh-feats-list-fate-zero-fate-grand-order
+category: doc
+title: Gilgamesh Feats List (Fate/Zero + Fate/Grand Order)
+alt_titles:
+- Gilgamesh Feats List
+authors:
+- name: Nino_IQ
+  reddit: Nino_IQ
+  id: nino-iq
+  source: reddit-post
+series:
+- fate
+characters:
+- gilgamesh
+- kotomine-kirei
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oavn0s/gilgamesh_feats_list/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1209
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

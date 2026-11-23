@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-take-on-complexity-complex-systems-in-scaling
+category: doc
+title: My Take on Complexity (Complex Systems in Scaling)
+alt_titles:
+- My take on complexity.
+authors:
+- name: NullSaint-
+  reddit: NullSaint-
+  id: nullsaint
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xm4e7p/my_take_on_complexity/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 657
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 3699206
+      sha256: 085412d8d50f1b72bb84c0ea0135cd8f4b9c6046c08bc93b1d33a2bb9d30e386
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

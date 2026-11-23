@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lin-sizhi-s-tutorial-feat-explained-god-s-imitation
+category: doc
+title: Lin Sizhi's Tutorial Feat Explained (God's Imitation)
+alt_titles:
+- '[God’s Imitation] Tutorial feat explained'
+authors:
+- name: SteveC171
+  reddit: SteveC171
+  id: stevec171
+  source: reddit-post
+series:
+- god-s-imitation
+characters:
+- lin-sizhi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rxek6l/gods_imitation_tutorial_feat_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 642
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 209334
+      sha256: d09e3d3dbc3db264ee98950748de9b02e1a99dc90a485ababf2210a0b6e467ce
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: leonhard-euler-analysis
+category: doc
+title: 'Leonhard Euler: Analysis'
+alt_titles:
+- 'Leonhard Euler: Analysis (Concise, I dont have time to go over everything)'
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- history
+characters:
+- leonhard-euler
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p9szlc/leonhard_euler_analysis_concise_i_dont_have_time/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 852
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 642358
+      sha256: 99c73309af0ff06be349d73ddbc188a2dbf64629f12a6f8a3d380b28256ec1ee
+    - format: png
+      name: image-2.png
+      bytes: 296835
+      sha256: ee7579b8bde7792d5929db121a59a534f7ed575f46cc3436344af89004d1a72e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

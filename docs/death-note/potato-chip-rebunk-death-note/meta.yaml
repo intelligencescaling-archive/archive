@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: potato-chip-rebunk-death-note
+category: doc
+title: Potato Chip Rebunk (Death Note)
+alt_titles:
+- Potato chip rebunk (as a post)
+authors:
+- name: Greentoaststone
+  reddit: Greentoaststone
+  id: greentoaststone
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1j1039t/potato_chip_rebunk_as_a_post/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1097
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

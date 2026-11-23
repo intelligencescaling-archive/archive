@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gotnw-fan-novel-rewrite-chapter-1-boredom-death-note
+category: story
+title: 'GOTNW Fan Novel Rewrite, Chapter 1: Boredom (Death Note)'
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  id: last-trainer-3323
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+- ryuk
+tags:
+- fanfiction
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sex2ao/update_rewriting_gotnw_as_a_coauthor_the_focus/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1533
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 8807
+      sha256: 0ffaf2cfaf4a4c4837abe177f606979d7dcf92f4c468f1c80ca73ef502afac1c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

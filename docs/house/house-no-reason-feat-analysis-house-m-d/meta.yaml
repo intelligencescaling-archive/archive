@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: house-no-reason-feat-analysis-house-m-d
+category: doc
+title: House No Reason Feat Analysis (House M.D.)
+alt_titles:
+- House No Reason Feat Analysis
+authors:
+- name: LosuthusWasTaken
+  reddit: LosuthusWasTaken
+  id: losuthuswastaken
+  source: reddit-post
+series:
+- house
+characters:
+- gregory-house
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rtlnh6/house_no_reason_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1064
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 67667
+      sha256: 517a29d3fe781b762588b959a28c401abaea6b4588e43f8a638097c22991cd53
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

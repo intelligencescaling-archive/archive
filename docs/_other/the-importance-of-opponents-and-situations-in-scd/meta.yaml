@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-importance-of-opponents-and-situations-in-scd
+category: doc
+title: The Importance of Opponents and Situations in SCD
+alt_titles:
+- The important of opponent's and situation in scd
+authors:
+- name: Detective-7
+  reddit: Detective-7
+  id: detective-7
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l73c6r/the_important_of_opponents_and_situation_in_scd/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 587
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

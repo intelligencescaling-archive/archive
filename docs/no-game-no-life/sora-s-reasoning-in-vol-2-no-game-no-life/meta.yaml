@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sora-s-reasoning-in-vol-2-no-game-no-life
+category: doc
+title: Sora's Reasoning in Vol 2 (No Game No Life)
+alt_titles:
+- Sora's Reasoning in Vol 2
+authors:
+- name: a_xakimv
+  reddit: a_xakimv
+  id: a-xakimv
+  source: reddit-post
+series:
+- no-game-no-life
+characters:
+- sora
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wvsb4a/soras_reasoning_in_vol_2/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1342
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 95547
+      sha256: c8522176cae2e83dd93e442373b58383bbf8ff651f534e686c4c48bf05f12a59
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

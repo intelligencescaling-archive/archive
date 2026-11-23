@@ -1,0 +1,78 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: your-favourite-character-fails-usogui-s-first-round-near
+category: doc
+title: Your Favourite Character Fails Usogui's First Round (Near Death)
+alt_titles:
+- Your favourite character fails Usogui’s first round
+authors:
+- name: KitchenCoyote_The2nd
+  reddit: KitchenCoyote_The2nd
+  id: kitchencoyote
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r03rh1/your_favourite_character_fails_usoguis_first_round/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 557
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 320388
+      sha256: 821f116de251bb410f3de2b83ef0ad4759a8872b7f175c75515bd32c0517ab59
+    - format: jpg
+      name: image-2.jpg
+      bytes: 285210
+      sha256: dbcd7163da4a739d96620643b232414fa0a18827064e7dd597c3b36fb718fc7e
+    - format: jpg
+      name: image-3.jpg
+      bytes: 387129
+      sha256: f4a0857ca0f45518095b5354ec9a3a3443b32433d81b295dc22828bce9c29e10
+    - format: jpg
+      name: image-4.jpg
+      bytes: 425333
+      sha256: bb2d450aac0b0b8fefd677db43a4e90e1b710853037ee060cc75bb38ef6dce82
+    - format: jpg
+      name: image-5.jpg
+      bytes: 309434
+      sha256: 074634e92f78c33713ecaa9dbe78d72aa85c02849a4a0e145a77517b76594768
+    - format: jpg
+      name: image-6.jpg
+      bytes: 226841
+      sha256: 1d5cb35acfe299b6faa543847e6b2348d4e95aa97df72191aa0c14030c729ae1
+    - format: jpg
+      name: image-7.jpg
+      bytes: 328329
+      sha256: 16a69e135186429417ea2b0524209de98c4fb437c42eb56c8c297c6ce15e00a7
+    - format: jpg
+      name: image-8.jpg
+      bytes: 359049
+      sha256: 49c7597deb5c2029ce8b562dedfc45711d1ee77474f8224df473665b5e579b88
+    - format: jpg
+      name: image-9.jpg
+      bytes: 293382
+      sha256: 1f1b33b7b3f8596d1796ffda06aceaae97b4b07c0933c93ccbff71c2b7b47cac
+    - format: jpg
+      name: image-10.jpg
+      bytes: 400800
+      sha256: 730c01cb49e8cb7ee9e25ba6496a3280b097652847252ac1d399b1cbe0e187e9
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

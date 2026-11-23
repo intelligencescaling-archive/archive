@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: house-of-tenet
+category: story
+title: House of Tenet
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: A Bottomless Dream'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pemttp/a_surprise_fanfic_of_the_sub_based_on_truegamers/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1382
+    files: []
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: Part 2
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1phrlr3/fanfic_of_the_sub_pt_2_house_of_tenet_an_edit_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1690
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

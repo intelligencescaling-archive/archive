@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-emily-feats-in-every-category-five-nights-at-freddy-s
+category: doc
+title: Henry Emily Feats in Every Category (Five Nights at Freddy's, Game Canon & Game Theory)
+alt_titles:
+- Henry Emily (Gamecanon & Gametheory) Feats in Every Category
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qe4mfz/henry_emily_gamecanon_gametheory_feats_in_every/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 712
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 362086
+      sha256: c47536f72edd37f2c546623fa77e9a3eb01fd511a79b4402e867624aaeba4036
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

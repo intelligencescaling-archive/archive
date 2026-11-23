@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: celestia-s-em-and-ac-debunking-the-criticism-danganronpa
+category: doc
+title: 'Celestia''s EM and AC: Debunking the Criticism (Danganronpa)'
+alt_titles:
+- Celestia's EM and AC ​​are cracked. Time to debunk the allegations regarding this, + Celestia's get massive upscale here.
+authors:
+- name: Dead_Tube5432
+  reddit: Dead_Tube5432
+  id: dead-tube5432
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- celestia-ludenberg
+tags:
+- rebunk
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wojlcc/celestias_em_and_ac_are_cracked_time_to_debunk/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 774
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 56148
+      sha256: 4a77ffd020d2380d7e7643268ecd3b1200b82cda9da7cb887e0e033915b0fe05
+    - format: jpg
+      name: image-2.jpg
+      bytes: 154005
+      sha256: 51aff2159a59b0533c067e6ae18eb82c67adc950ee31d07de6dbc8e1622221a4
+    - format: jpg
+      name: image-3.jpg
+      bytes: 73139
+      sha256: b2a1078959de8d6b15a1daede87368664bc9e7f01561ff840f1823564c317fb0
+    - format: jpg
+      name: image-4.jpg
+      bytes: 110002
+      sha256: 04abdfc30d47b13e2e71f8093f1467ceda0ca489db191d66dc2369807b82bc50
+    - format: jpg
+      name: image-5.jpg
+      bytes: 75403
+      sha256: 2f4fac57eb5f5f6c8e53572bd7f0a15e2ecc0c7d9026c6a8c263f252c3cf7e05
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

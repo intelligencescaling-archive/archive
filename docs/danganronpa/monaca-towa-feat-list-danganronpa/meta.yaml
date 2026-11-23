@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monaca-towa-feat-list-danganronpa
+category: doc
+title: Monaca Towa Feat List (Danganronpa)
+alt_titles:
+- Monaca Towa feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- monaca-towa
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nzi8z7/monaca_towa_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 731
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 78100
+      sha256: 6113d76e08cedfee49c363fb201feb07f4dcd578f8b68f3d6a4fb93d80530bba
+    - format: jpg
+      name: image-2.jpg
+      bytes: 15693
+      sha256: fda57d8136f3aaa8566386fd32166fa8abdfed2730a58669858f45e2f4fab27d
+    - format: jpg
+      name: image-3.jpg
+      bytes: 10308
+      sha256: 9495df8526d1f31cce7794558dbc29e777cffd538738944e774ae88f55b2f3b6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

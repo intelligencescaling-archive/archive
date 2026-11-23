@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: arisu-sakayanagi-feat-list-classroom-of-the-elite
+category: doc
+title: Arisu Sakayanagi Feat List (Classroom of the Elite)
+alt_titles:
+- Arisu Sakayanagi feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- arisu-sakayanagi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pd0ok0/arisu_sakayanagi_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1439
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 659472
+      sha256: 4be74f5ab4e1f1a60f8062ad5da24a5b0827683aa63661a045fd650018dc4e9d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

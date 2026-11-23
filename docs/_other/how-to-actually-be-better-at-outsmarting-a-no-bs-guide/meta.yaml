@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-to-actually-be-better-at-outsmarting-a-no-bs-guide
+category: doc
+title: 'How to Actually Be Better at Outsmarting: A No-BS Guide'
+alt_titles:
+- How to actually be better at outsmarting, No BS Guide.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wfbq48/how_to_actually_be_better_at_outsmarting_no_bs/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 624
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

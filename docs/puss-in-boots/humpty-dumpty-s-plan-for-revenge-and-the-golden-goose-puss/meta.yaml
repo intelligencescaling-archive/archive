@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: humpty-dumpty-s-plan-for-revenge-and-the-golden-goose-puss
+category: doc
+title: Humpty Dumpty's Plan for Revenge and the Golden Goose (Puss in Boots)
+alt_titles:
+- Full explanation of Humpty Dumpty's plan to exact vengeance and gain the Golden Goose
+authors:
+- name: Communist_Crusaders
+  reddit: Communist_Crusaders
+  id: communist-crusaders
+  source: reddit-post
+series:
+- puss-in-boots
+characters:
+- humpty-dumpty
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k5p49f/full_explanation_of_humpty_dumptys_plan_to_exact/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 803
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 18710
+      sha256: 10b058d62616cbc3c0050bc6a97f836138a9a0b13d731db1e892b682b0284b12
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: theory-of-mind-tier-list
+category: doc
+title: Theory of Mind Tier List
+authors:
+- name: Intelligent_Dog7943
+  reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
+  source: reddit-post
+series: []
+characters: []
+tags:
+- ranking
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qjzr8f/theory_of_mind_tier_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 977
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 350234
+      sha256: e7196b3fa3c794067ee69cb13bf0626042a4d3701017685fe17b73e53330a8b4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

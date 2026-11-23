@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-s-event-selection-exam-plan-and-abduction-of-the
+category: doc
+title: Suzune's Event Selection Exam Plan and Abduction of the Koji-Arisu Relationship (COTE Y1V11), Analysis by Ganve
+alt_titles:
+- Analysis on suzune's event selection exam Plan and abduction of the relationship between koji and arisu by ganve.(y1v11)
+authors:
+- name: Ganve
+  id: ganve
+  source: doc-text
+shared_by:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vbqrfl/analysis_on_suzunes_event_selection_exam_plan_and/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3399
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 74472
+      sha256: 0f363b27793c1c3f2c7df7d849687ab4b4429b9c34debe1e1d4c0363f3434c66
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

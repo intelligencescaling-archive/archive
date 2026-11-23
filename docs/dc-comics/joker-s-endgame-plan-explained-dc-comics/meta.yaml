@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: joker-s-endgame-plan-explained-dc-comics
+category: doc
+title: Joker's Endgame Plan Explained (DC Comics)
+alt_titles:
+- 'JOKER''S ENDGAME PLAN EXPLAINED:'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- joker
+- batman
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1waxf4m/jokers_endgame_plan_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1412
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 55335
+      sha256: 94009f839a494475bb6294a661ac80089524dfc75f3f37e600f95b18357a5dc9
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

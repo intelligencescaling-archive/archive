@@ -1,0 +1,110 @@
+Breakdown of Yokoya's Reasoning and EQ/ToM
+
+Contraband Game is probably Yokoya's most analysed feat and is very much the feat people use while trying to scale Yokoya high in scheming, foresight and manipulation.
+So instead I am going to analyse the chains of reasoning along with the Theory of Mind/EQ aspect of day 1, enjoy.
+
+**Before the game began**
+
+P1 Contraband is basically a game of smuggling money from the north country into a third country to protect the income
+
+P2 The money not smuggled by a country will be seized by the opposing country
+
+P3 The 2 teams take turns as smugglers and Inspectors to play the game
+
+P4 The total amount to smuggle into the country is 300 million, with 100 million existing in the player’s account by default , the players are required to return the 400 million to the liar game at the end.
+
+P5 the smugglers have to smuggle any amount that is 100 million or below.
+
+P6
+\>Inspector has to attempt to guess a higher value equal to or higher than the amount of money which if guessed the amount the smuggler was attempting to smuggle will be transferred to the inspector.
+\>If the inspector guesses a value and the inspector hasn't smuggled the inspector must pay an indemnity of half the amount smuggled.
+\>If the Inspector guesses a lower value than the amt smuggled the smuggler gets the smuggled amount + the indemnity fee.
+
+P7 The winner of contraband is decided by who is able to smuggle more money from the opposing country into a 3rd country.
+
+P8 The winner of the game will have to pay 50% of their winnings in order to be able to leave the Liar game and also pay off their debts.
+
+C1 (from P5 and P6) The Inspector has a choice to simply attempt to figure out whether the smuggler is carrying money and doubt 100 million to prevent any smuggling attempts.
+
+C2 The smuggler can utilize a low risk strategy of not smuggling at all preventing any loss but opening themselves up to gain indemnities via failed guesses.
+
+C3 (From P2,P7,P8) This shows that the true method to actually make money in the contraband game will be by Losing the game on paper but making money by increasing the money into your inside account.
+
+C4 (from P4 and C3) there is a high chance that the initial rounds would result in no progress being made and a chicken game would ensue.
+
+P9 The ATMs have no withdrawal limits and the cards can also be used to deposit money into an ATM.
+
+C5 (based on P8 and C4) it is possible to envision a scenario where when a player from one country empties their entire ATM and stashes it somewhere so that a traitor can deposit the money into their ATM making the value of their money in the other countries bank 0 and their internal bank value increases allowing them to make money without winning the game.
+
+P10 The smugglers and inspectors are granted a certain amount of time and privacy in the room with each other when it's their turn to smuggle and inspect.
+
+C6 This allows him to secretly negotiate with one member of the opposing team with whom he can collude and can trade information about the money smuggled
+
+P11  Kikuzawa was deeply influenced by Yokoya's authority during their childhood and possesses his own desire to exercise authority over others.
+
+C7 Kikuzawa will almost definitely go along with his plan.
+
+C8 (From P11 and C7) Kikuzawa will get high over his power and will mistreat his teammates due to his position as their saviour.
+
+**During The Game**
+
+P12 The 3 idiots (Tsunoda,Eda and Hirota) all either passed as inspector or smuggled 0 as smuggler during the chicken game
+
+P13  During his time as the inspector Yokoya was able to make numerous observations on all the players in the opposing team.
+Fukunaga is a rash and hotheaded but an intelligent person.
+Nao is very idealistic and believes in saving everyone and also has a strong connection to Akiyama.
+The 3 idiots are not very intelligent and don’t have the foresight to prioritize long term over short term income.
+SC is extremely disconnected in terms of operation due to lack of unity
+
+**Yokoya’s deductions from Akiyama’s POV**
+
+P14  Akiyama is the most intelligent member of SC and has shown great reasoning and strategic ability in the previous rounds based off kikuzawa’s intel and the money bundle trick.
+
+P15 The second Kikuzawa claimed to have found a way to win the amounts smuggled by the North started getting very weird like 40 million and 50 million despite the fact that the optimal moves would be to either pass or smuggle 100 million.
+
+P16  Right after the money confiscated by Yokoya and the money confiscated by Kikuzawa equaled at 290 million Yokoya stopped giving signals causing Kikuzawa to feign a stomach ache to not inspect
+
+P17 Kikuzawa when he was sent as inspector during the chicken game period he spent his entire time in the room with Yokoya as the smuggler
+
+C9 (From P14,P15 and P16) Akiyama can deduce that Kikuzawa is the traitor who has been giving signals to Yokoya and vice versa to execute their plan.
+
+**Reasoning involving rotations**
+
+C10 (from C9)  Kikuzawa will be forced to explain his situation involving Yokoya to get forgiveness and leniency involving his actions, which will establish the dictatorship narrative.
+
+C11(from C9) Even after Kikuzawa is outed as the traitor Nao will idealistically push for Kikuzawa being spared due to it being her nature
+
+C12 Kikuzawa will be forced to miss turns as an Inspector due to him taking too many turns when he colluded with Yokoya this makes the rotation of the SC switch from 9 players to 8 players
+
+C13 Due to the active player count dropping from 9 to 8 if the SC members follow the same rotations each player will only be able to be smuggler or inspector for multiple rounds straight (creating an unfavourable situation for few players)
+
+C14 hence the remaining option would be to create a situation where 1 player smuggles and inspects simultaneously
+
+C15 Due to the fact that Kikuzawa was given a lot of leniency despite his betrayal and given how mistreated they were via Kikuzawa’s rule the players in SC will naturally not trust each other and act purely for self interest.
+
+C16 This allows Yokoya to frame the intentional information leak about the money being left outside the ATM being caused by an internal rebellion by the NC members against Yokoya’s rule which would resonate with the 3 idiots cuz they went through the exact same thing with Kikuzawa
+
+**Theory of Mind/EQ**
+
+**Kikuzawa**
+Yokoya is able to easily discern the effect that Yokoya had on him during their childhood regarding the Ideology of dominance that had been instilled into him via Yokoya's rules based off this Yokoya is able to turn him into his side in about a munute and is able to precisely predict multiple reactions of his such as his rule over the remaining SC players and how he would mistreat them, He is further also able to predict his narration of the time when Yokoya had bullied him after he is successfully outed as traitor, which he used to create the dictator narrative to shield his strategy.
+Showing rly good of mental modeling and belief analysis
+
+**Akiyama**
+Yokoya after gathering intel from kikuzawa and noticing the money bundle trick Yokoya is able to actively predict and aid a bunch of Akiyama's inferences throughout the game via puposefull control of information such as making the players call values like 40 and 50 million which Akiyama would find odd due to hindsight and even stopping at 290 mil to cement Akiyama's reasoning of Kikuzawa being the traitor making accurate predictions and inferences from Akiyama's perspective.
+
+**Nao**
+After a brief conversation with Nao Yokoya is able to understand her drive for treating people equally and understanding her need to help people thanks to his knowledge of her seeing the Liar games as a test and her closeness to Akiyama which allowed him to eliminate her from his list of potetial smugglers, He was also able to understand that she would try to protect Kikuzawa after he is exposed and go for not punishing Kikuzawa to harshly and opt for removing him from the rotations (again pretty good belief analysis).
+
+**3 idiots**
+Yokoya is able to inductively figure out how the 3 idiots behave by cross referencing thier actions during the chicken game where they took no risks at all bu understanding that they wud opt for the safe strategy of not smuggling which wud result in 0 net loss with his direct psychoanalysis of them during his rounds as inspector where they were psychologically thrown off by his clairvoyance making them easier to read.
+His analysis of their behaviour being that they lack long term foresight to be discern the hidden intent of the game and wud be blinded by greed of getting 300 mil and more to make more money, he is also able to predict their frustration with Kikuzawa's betrayal and misbehaviour further increasing thier mistrust of the team and persual of self interest over team victory and the fact that they wudn't see through the opposing teams sophistory regarding wanting to rebel against Yokoya's dictatorship due to it representing thier own situation and frustrations with Kikuzawa which are authentic showing solid intent recognition.
+
+**Yokoya's Recursion**
+This feat is pretty solid in recursion (or atleast what I think it's definiton is 😅😅) The line goes as such
+Yokoya is able predict kikuzawa's betrayal and his actions such as establishing a dictatrshop of his own, then he is able to model Akiyama's reaction to the situation and predict his precise inferences resulting in Kikuzawa being outed where he is able to predict him exposing his past and then Nao going to protect him from harsh treatment.
+He is then able to model how the 3 idiots would percieve Kikuzawa's behaviour and Yokoya's dictatorship resulting in them acting for self interests and buy the rebellion narrative.
+Yokoya performed a deep recursive modeling of Akiyama combined with a 5+ stage multi-agent predictive cascade of multiple separate agents including thier respective interactions that stemmed from his initial alliance with Kikuzawa.
+
+Feel free to comment what u think or point out anything u wanna say.
+(Hope this helps in decreasing the Yokoya downplay 😭😭)!!

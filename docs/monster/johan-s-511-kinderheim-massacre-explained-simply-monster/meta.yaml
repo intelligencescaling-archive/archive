@@ -1,0 +1,118 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-s-511-kinderheim-massacre-explained-simply-monster
+category: doc
+title: Johan's 511 Kinderheim Massacre Explained Simply (Monster)
+alt_titles:
+- Johan's 511 Kinderheim Massacre Explained Simply (With Sources)
+authors:
+- name: seaofknowledge123
+  reddit: seaofknowledge123
+  id: seaofknowledge123
+  source: reddit-post
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lcdfvl/johans_511_kinderheim_massacre_explained_simply/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 974
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 116050
+      sha256: 12488df44a3c2afb3949b080bb482682ec541ab3ca1b479f870893c58d531e8f
+    - format: png
+      name: image-2.png
+      bytes: 3674
+      sha256: f4ebe307d5b79d17cf309614a7c11c1187daa3bb92c21e5e7ad3e6de64600f48
+    - format: png
+      name: image-3.png
+      bytes: 9505
+      sha256: bfac739ee572bc3eee8a5b08bbc4558a80cd9768a101b47123d2da351be7d520
+    - format: png
+      name: image-4.png
+      bytes: 7235
+      sha256: 54b165286e06841c7dc9bc41c5ac8becde7b0be68bea60af71596149348da354
+    - format: png
+      name: image-5.png
+      bytes: 6751
+      sha256: a7f9de32943b9b9be4334de2fc97e5a5b515c5b2787a519f7febef493585f824
+    - format: png
+      name: image-6.png
+      bytes: 26194
+      sha256: 9cebeb7f5bf2b676aaed54aef420131b4fef62f2c98e6f3d3e4899f06357afd1
+    - format: png
+      name: image-7.png
+      bytes: 13943
+      sha256: a09fbb73ed2aa8e3aef714e4410eca9df1657d413218b11b5c7f7c6313813dc1
+    - format: png
+      name: image-8.png
+      bytes: 10305
+      sha256: 854131c6abd4ed0b58c4a9ce9557428b22870ea562670fb0a68eca6d915fa450
+    - format: png
+      name: image-9.png
+      bytes: 115586
+      sha256: 52042aadebb29b1154824f88d1c5dad52cdb0806f5ae5ef04b06d6854926a68d
+    - format: png
+      name: image-10.png
+      bytes: 6395
+      sha256: f65851a4baa8fe0d645f60893e6d53bf067e71c82ce98d993ffe911cb02be0a9
+    - format: png
+      name: image-11.png
+      bytes: 28033
+      sha256: 435f44f6d15548a13187c92b4205d0780f5495f61e43e48e3fa916749aa87253
+    - format: png
+      name: image-12.png
+      bytes: 26297
+      sha256: 6d8dc24ce6e92a4ddf39ea4a02b8b3f3a857ae3209e7d23055c4e5f305930cc1
+    - format: png
+      name: image-13.png
+      bytes: 124838
+      sha256: d767a8f8a64a2f7abe3e117ec0e532f0b8afdce6e46aeb0e7d47989757b7644f
+    - format: png
+      name: image-14.png
+      bytes: 12598
+      sha256: 82b7e917bcc37edde8b251ff28b0cccfd9911d3e73a3670462c64bc0fc7c8d97
+    - format: png
+      name: image-15.png
+      bytes: 18703
+      sha256: b79aa6429dd8e22d450e1aff119a8dac6540b6bb8798550024293ee08408cb62
+    - format: png
+      name: image-16.png
+      bytes: 4246
+      sha256: 57618f6baf342c65e07f41d8c3e530899b9a466fd537abecb09065127d61cf21
+    - format: png
+      name: image-17.png
+      bytes: 10905
+      sha256: 817422af815d579bbf70fe395f8b8fb2c4b8131b16029d2f7a4fc32a8b05cdd3
+    - format: png
+      name: image-18.png
+      bytes: 6075
+      sha256: 83e49d6ca1fdd2be4ccafe5c1cc6df6208d9cc4223f72735786fe5a70dca4481
+    - format: png
+      name: image-19.png
+      bytes: 12496
+      sha256: 34b1ba89adef3b071275cf0baf86cfa4b78eedc8126a96d5a9d92ddb528fe441
+    - format: png
+      name: image-20.png
+      bytes: 12800
+      sha256: 9ee5bd1a8b487cd013d931de659043bb9432d3ddfa2147d950a27feb748dbc35
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

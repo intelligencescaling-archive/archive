@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kyouko-odagiri-from-chapter-1-a-solid-mid-mid-high-tier
+category: doc
+title: 'Kyouko Odagiri from Chapter 1: A Solid Mid/Mid-High Tier Character (Reinoryokusha Odagiri Kyoko no Uso)'
+alt_titles:
+- Kyouko Odagiri from Chapter 1 - A solid Mid/Mid-High Tier character imo
+authors:
+- name: PessoaPersonaPerson
+  reddit: PessoaPersonaPerson
+  id: pessoapersonaperson
+  source: reddit-post
+series:
+- reinoryokusha-odagiri-kyoko-no-uso
+characters:
+- kyoko-odagiri
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lv67b9/kyouko_odagiri_from_chapter_1_a_solid_midmidhigh/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1937
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 193795
+      sha256: 941ee9377ac1e058f49a4f1238c57ac80bc8ae821a501a10509ed6035c785998
+    - format: jpg
+      name: image-2.jpg
+      bytes: 245542
+      sha256: 70bc4c10c0c00a9467b84553b2774f043aad48127012c7d5132c9d09d1ba81c5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

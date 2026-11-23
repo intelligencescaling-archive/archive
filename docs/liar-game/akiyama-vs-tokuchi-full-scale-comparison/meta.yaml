@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-vs-tokuchi-full-scale-comparison
+category: doc
+title: 'Akiyama vs Tokuchi: Full-Scale Comparison'
+alt_titles:
+- 'Akiyama vs Tokuchi: Full scale comparison between my two pookie bears'
+authors:
+- name: Pick_Me_Gal_1092
+  reddit: Pick_Me_Gal_1092
+  id: pick-me-gal-1092
+  source: reddit-post
+series:
+- liar-game
+- one-outs
+characters:
+- akiyama-shinichi
+- toua-tokuchi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1j4zylu/akiyama_vs_tokuchi_full_scale_comparison_between/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1046
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiyotaka-ayanokouji-vs-light-yagami-emotional-quotient
+category: doc
+title: 'Kiyotaka Ayanokouji vs Light Yagami: Emotional Quotient (Classroom of the Elite vs Death Note)'
+alt_titles:
+- Kiyotaka Ayanokouji vs Light Yagami Emotional Quotient (with explainations)
+authors:
+- name: Striking-Dot-9947
+  reddit: Striking-Dot-9947
+  id: striking-dot-9947
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- kiyotaka-ayanokoji
+- light-yagami
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u7ogoj/kiyotaka_ayanokouji_vs_light_yagami_emotional/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1823
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+      image-2: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

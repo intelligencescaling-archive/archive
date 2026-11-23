@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-narrative-perspective-is-a-flawed-metric-for-scaling
+category: doc
+title: Why Narrative Perspective Is a Flawed Metric for Scaling (Updated)
+alt_titles:
+- Narrative perspective args updated
+authors:
+- name: AsideOk1035
+  reddit: AsideOk1035
+  id: asideok1035
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mmhxzj/narrative_perspective_args_updated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 873
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: edmond-dantes-revenge-scheme-the-count-of-monte-cristo
+category: doc
+title: Edmond Dantes' Revenge Scheme (The Count of Monte Cristo)
+alt_titles:
+- The Count of Monte Cristo - Probably my last post here about him tbh (unless???) (SPOILERS for the book)
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- the-count-of-monte-cristo
+characters:
+- edmond-dantes
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vsgyq8/the_count_of_monte_cristo_probably_my_last_post/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2292
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1432174
+      sha256: 9b5989f6bda8e46c61db8fdb03dbca542b76c60b61446521aac4245e6f5c2038
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

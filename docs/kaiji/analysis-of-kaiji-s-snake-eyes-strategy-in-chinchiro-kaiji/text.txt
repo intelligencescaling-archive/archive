@@ -1,0 +1,78 @@
+Analysis of Kaiji's Snake Eyes Strategy
+
+I was recently rewatching Kaiji and realized that his strategy in Chinchiro is pretty underrated so I decided to break it down cuz m truly a jobless mf.
+
+**Overview**
+Kaiji is trapped in an underground facility where he is forced to stay and work off his debt of 10 million yen, due to which he will be trapped in there for roughly 15 years.
+
+The people in the underground facility are paid 91000 of a currency named perica which is 1/10th the value of a yen.
+
+Kaiji after losing money in a game of chinchiro to the foreman only receives half his salary 45,000 perica due to him having to pay off his heavy losses in the gamble.
+
+Chinchiro is a gambling game where u play with 3 die against a single dealer and attempt to beat the score he gets. (scoring chart in image 2)
+A few extra rules are present such as the dealer has to deal 2 times in a row if they accept the position, and that there is a betting limit of 20,000 perica.
+
+The company does provide some incentives for the workers one of which is the provision of a day outside pass which costs 500,000 perica (something Kaiji plans to target)
+
+**Fake dice Induction**
+
+After going through Miyoshi’s notes regarding Kaiji is able figure out Otsuki(the foreman)’s scheme via cross referencing the following
+
+1. Special rule The chinchiro game underground has a special rule where the dealer advantage is negated (In normal chinchiro if the dealer rolls a (4 5 6) a triple or 6 they automatically win) and the players can roll regardless of the dealer's value, seemingly in order to increase fairplay.
+2. Foreman’s playstyle The Foreman has a tendency to win big by rolling numbers like (4,5,6) when there is heavy action (HIgh bets have been made) which often happens during his play due to the removal of the betting limit when he is the dealer. Whenever the foreman wins big he is always sitting in between 2 of his henchman who can pick up the dice as soon as he has finished his roll. The foreman doesn’t always win every high action games and still loses money from time to time (example his first lose to kaiji in chinchiro)
+3. External factors Dice are cubic structures which generally make it quite difficult to see more than 3 faces of a dice especially when they are rolled into a bowl as in chinchiro. The room is extremely dark causing low visibility.
+
+From the above information Kaiji is able to come up with the hypothesis that the foreman uses a fake dice that has 4,5,6 repeating twice instead of having 1,2,3 like a normal dice would have.
+
+This is able to perfectly explain the following:
+
+The special rule is merely a disguise to make it look like the foreman is being nice while his real intention is to conceal the 4,5,6 dice since as soon as the roll is done his henchman will pick up the dice and switch it out for the real one to give to the others to roll their dice
+
+The foreman isn’t guaranteed victory in every game due to the fact that even with the 4,5,6 dice he can get 4s or 5s which give the opponents a chance at victory acting as a camouflage for his cheating.
+
+Note: Kaiji was able to induce all of this by looking at a table made by miyoshi so he had to individually focus on the data sets in order to extract a pattern showing good pattern recognition and information filtering
+
+**Snake eyes strategy**
+
+After reasoning out the trick used by the Foreman, Kaiji comes up with his own strategy to exploit the system and get his revenge on the Foreman.
+
+First he goes up to the 45ers (ppl who are also stuck in debt like him) and gives them a speech to gain their support before telling them that they can turn their situation around by supporting him He calls a 4,5,6 for a roll that the foreman would make in order to prove to the 45ers that the foreman is cheating  >Given the system used by the foreman Kaiji knows that he would only roll 4s, 5s or 6s and decides to take a guess noting that there is a very high chance that the numbers would be in the given ballpark noting that it would be enough to cement the 45ers belief that he is cheating.
+
+Then he sets up an abstinence system in order to save up enough funds for a later gamble. So Kaiji basically designs a system where all of the 45ers pool their money in together and each person handles a specific aspect of their finances and they ration all of their items together and have, allowing them to accumulate their full income after 3 months in order to take on the Foreman.
+
+This frames the situation as if their group is forming some sort of rebellion catching The Foreman's eye, resulting in him deciding to personally crush their group.
+
+Next throughout the 3 month period Kaiji goes out of his way to go after the Foreman and annoy him in order to set the stage for a **grudge match** between the 2 of them He does so by “biting the hand that was feeding him” by taking a glass of beer offered to him by the foreman(The foreman was trying to destroy their abstinence by tempting them to return) and throwing it in his face, publicly disrespecting him. This also results in the 45ers getting targeted more viciously by the leader resulting in them getting made to do the more difficult work, destruction of belongings and being bullied while working This keeps the conflict alive between the 2 groups making sure that the 45ers also do whatever it takes to aid kaiji in order to destroy The Foreman. He also further baits him when the foreman is attempting to give him his salary openly calling the Foreman a thief and counting his money.
+
+During the time of the gamble Kaij enters the battle alone and asks The Foreman to remove the betting limit of 20,000 to truly settle their **grudge match.** If you think about it this move doesn’t directly facilitate his strategy since his actual goal was to corner the Foreman while he was the dealer and the Foreman accepts any bets He actually had 2 reason to raise the betting limits:
+
+1) to test his hypothesis of the trick, he purposefully inserted himself into the game after the Foreman dealt making Numakawa (The foreman’s lackey) the dealer Kaiji knows that according to his hypothesis Numakawa cannot use the trick dice because the person after him is not an ally of The Foreman preventing them from being able to conceal the fake dice.
+
+2) His next goal was to create a hype causing a lot of people to come in and spectate the match for entertainment. Due to their being a large number of people spectating this will help him pressure The Foreman later on.
+
+After Numakawa passes as per Kaiji’s prediction every other player leaves the game due to the removal of betting limits this passes on the dealer position to Kaiji who in turn passes as well and uses the crowds cheering to pressure isawa (The foreman’s other henchman) to be the dealer. With Isawa as the dealer Kaiji bets 20,000 perica a pretty high amount to test verify weather he uses the 4,5,6 dice which isawa does resulting in him rolling a 4,5,6 getting double payout. Kaiji then bets 1000 perica in Isawa’s next round here Isawa doesn’t use the cheat dice because of the small amount resulting in Kaiji winning this hand and getting only 1000.
+
+When The Foreman becomes the Dealer, Kaiji makes his move by betting all of his money( 52,000 perica) and gathers his 5 remaining 45ers and has them bet all their money (91,000 perica). Further claiming that he will take down the leader to further instigate him into using the fake dice to crush Kaiji and the 45ers, so that he can reveal his trick to everyone.
+
+However the All in makes the foreman suspicious about kaiji because it makes no sense to go all in in chinchiro unless you are guaranteed victory cuz there are chances of having to lose double or triple of what you bet, this results in the foreman begrudgingly using the normal dice instead of the fake dice During the foreman’s First and Second Roll, Kaiji notices something off, instead of looking at the dice like normal people do in a game like chinchiro The foreman was intently staring at Kaiji as if anticipating that Kaiji intends to reveal his trick, due to this Kaiji decides to stay completely still.
+
+Before making his 3rd roll The foreman is shocked at Kaiji not making a move to take reveal the dice and by also noting the fact that the remaining 45er’s are glad that The foreman didn't roll a good number causing The foreman to doubt whether Kaiji knew about his trick to begin with and given his vendetta against Kaiji He decides to use the 4,5,6 dice in his 3rd round.
+The boss and his teammates are still cautious of Kaiji and are prepared to immediately snatch up the dice the second they see Kaiji moving towards it, Kaiji notes this and decides to precisely wait until the last dice is about to stop knowing that this moment creates a psychological blindspot due to the anticipation of the roll, this allows him to get a split second advantage allowing him to grab the dice and show that The foreman had been cheating everyone, he also purposefully decided to pick up the dice before the roll was complete to make it a no count.
+
+ Kaiji’s revelation of the Foreman’s trick results in the entire crowd getting pissed off at the Foreman for cheating them out of their money so many times resulting in him being heavily chastised by the crowd.
+However due to the fact that the Kaiji stopped the roll before it was complete which means that the roll didn’t count and that The foreman Technically didn’t cheat in this game yet resulting in him pushing for a reroll. Kaiji accepts the foreman’s argument but decides that they will continue playing with a few conditions.
+1) The Foreman will be saddled with the worst roll with the 4,5,6 dice a 4 for 1 round
+
+2) Since the Foreman and his crew has always been playing with a custom dice that they had prepared in advance that they shared only among themselves, the same rules the 45ers
+
+The Foreman accepts these terms with no qualms because he believes it is much better than alternatives like returning all the money he ripped all the players off, not to mention the specific wording makes it seem like they will all use 4,5,6 dice due to his lack of knowledge of Kaiji’s dice.
+
+With this Kaiji rolls a dice revealing a (1,1,1) called as snake eyes in chinchiro, The foreman in shock decides to check the dice seeing that every face of the dice is has 1 red dot on it, when questioned about it Kaiji reveals the true reason for his verbal trap highlighting that The foreman realizing that the roll didn’t count and trying to use that to weasel out was the very thing that tied the noose around his neck. With this all the 45ers take the (1,1,1) and roll it resulting in them winning a 5x payout on their original amount which is roughly 3 million Perica. Kaiji had made the (1,1,1) dice by himself by taking the bone of the T-Bone steaks that the foreman used to eat and whittling it down to the shape of a dice with his teeth over the process of 3 months and using his blood to make the read dots.
+
+Just as the foreman is forced to pay Kaiji the 3 million perica winnings and is about to leave Kaiji calls him back once more reminding him that the dealer must play 2 rounds in a row and can only quit if he rolls a 1,2,3 pisser which The foreman didn’t roll before. And that they would play again with the same rules.  It is important to note here that when Kaiji made the deal with the foreman his exact verbatim was that both side would only be able to share a dice among themselves that they had prepared in advance so the Foreman wouldn't be able to use the (1,1,1) dice to attempt to force a draw in the last round since he hadn’t prepared the dice.
+
+The foreman with no other options rolls with the normal dice hoping for a (1,1,1) in order to force a draw which he fails to get allowing the 45ers to win 5x over his 3 million perica giving them a grand total of around 18 million perica, completely bankrupting The foreman and generating enough income to get an outpass for multiple days.
+
+**TLDR:** The so to simplify the strategy it went something like this: **Group formation + abstinence of pleasures > Foreman manipulation and baiting+ dice creation> Limits removal to gather a crowd >All in + misdirection of foreman via team’s reactions > Exposing the foreman before he finishes his roll > The game continuing because of the no count loophole which allow kaiji to enforce his own conditions> The snake eyes dice throw to significantly multiply his earnings.**
+
+Feel free to tell me what yall think or point out any inconsistencies, any input is appreciated.

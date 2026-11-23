@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-far-jogoro-kobato-and-yuki-osanai-can-get-in-searching
+category: story
+title: How Far Jogoro Kobato and Yuki Osanai Can Get in Searching for X (Classroom of the Elite x Shoshimin)
+alt_titles:
+- How far jogoro kobato & yuki osanai can get in searching the X mastermind of class D.[cote X shoushimin]{ read full post before attacking}
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- shoshimin-how-to-become-ordinary
+characters:
+- jogoro-kobato
+- yuki-osanai
+- kiyotaka-ayanokoji
+- ryuen-kakeru
+tags:
+- story
+- fanfiction
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xho5iz/how_far_jogoro_kobato_yuki_osanai_can_get_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2658
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 324717
+      sha256: 9a12ec60eb444095bb180191b3551dd862e03473fa32741bc57411b83298bd53
+    - format: png
+      name: image-2.png
+      bytes: 352109
+      sha256: c468d985e16ba8b8434afed8974844b140e7d3e7fc5a09b9bc62a31efd9b6425
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

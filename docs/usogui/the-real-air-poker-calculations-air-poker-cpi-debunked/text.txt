@@ -1,0 +1,173 @@
+The Real Air poker Calculations | Air Poker CPI Debunked | Baku Debunked | Souichi Debunked.
+
+First of all let's make a few things very Clear otherwise I'm sure Many Many Would get confused.
+
+There are 2 assumptions I made before creating my method.
+
+1. Baku and Lalo Would want to calculate in the most Oxygen Efficient way possible, meaning they Would want to use the least oxygen for hand calculations.
+
+2. The Suits themselves to Baku and Lalos Calculations are irrelevant because they only need to keep track of the number of one card left for example 3 aces 2 Fours etc why? Because Baku and Lalo knew from the beginning they themselves are not the true hand makers, and the hand makers always end up making the best hand possible with the cards so even if Baku and Lalo tried calculating thhem.
+
+The Suits used could be completely different in the version of the hand makers for example in Round 1 Lalo had 15 and the best was Straight flush, even if Lalo thinks the Flush is made of spades the Calculators Could have used hearts, the Suits themselves won't make a difference what makes a difference is how many cards of one number you have left.
+
+Now this is how my method works, you can call it top to bottom method.
+
+So let's say you get a number, this is the Ranks of the hands themselves.
+
+1. Royal Flush
+
+2. Straight Flush
+
+3. Four of a kind
+
+4. Full House
+
+5. Straight
+
+6. Flush
+
+7. Three of a kind
+
+8. 2 pairs
+
+9. 1 pair
+
+10. High card
+
+In my method Baku Would see if his number is Compatible for the top most hand and then he'd start to calculate, if not he'd see if his number is Compatible for the Hand below and so on.
+
+So basically:
+
+1. Checking Royal Flush= number must be 47 = 1 calculation
+
+2. Checking Straight flush/Straight = Second digit needs to be 5/0 = the range needs to be 15-55 = 2 calculations
+
+3. Four of a kind = All Viable Sum numbers from 6-64 Allow for a four of a kind = 0 calculations
+
+4. Full House = All viable Sums from 7-63 allow Full houses = 1 Calculation
+
+5. Flush = All viable Sums from 16-53 allow a Flush = 1 calculation
+
+6. 3 of a kind = All viable sums between 8-62 allow a 3 of a kind = 1 calculation
+
+7. 2 pair = All viable sums between 10-61 Allow a two pair
+
+8. 1 pair = All viable sums between 11-59 Allow a 1 pair = 1 calculation
+
+9. High card = All viable sums between 16-65 (non Straight) allow for a high card hand = 2 calculations
+
+So now, what would Baku do once he knows a number is compatible for a hand? Let's see.
+
+If the Number is compatible for Royal flush/Straight Flush/Straight then we need 1 calculation to find the best and only card pattern for the hand for example: if 25 Divide 25/5 and We get 5 Which has to be the middle number so We get 3,4,5,6,7.
+
+If four of a kind : We Divide the number by 4 if its am odd number we get best quads+ extra card possible,if it's an even number subtract an even number to get the highest four of a kind and repeat, To calculate remaining possible sums Subtract one number from Quads and add 4 to the extra card until you reach the limit 13 for the extra card.
+
+Same for full house but we Divide by 3 and need an even number as a reminder max would be 26.
+
+And so on and so forth.
+
+So total hands possible = Royal Flush/Straight Flush/Straight = 1
+
+Four of a kind=  Max 4
+
+Full house= Max 5
+
+And so on. That's basically the total number of card patterns possible for X, once we know the total number of card patterns possible we look at the remaining cards, now how do we calculte that? It's simple, we need to understand how many ranks of numbers need to be checked, so for a four of a kind we need to check only 2 so for example 4 8's and one 2. So basically number of ranks X number of possible hands for four of a kind/full house.
+
+For Royal flush/Straight flush/Straight we check 5 cards that's it so 5 calculations.
+
+Using this now we start calculating all Sums Baku calculated.
+
+For 36=
+
+Not RF = 1 Not SF = 1 Four of a kind = 0
+
+(Since this is round 1 and no cards were used Baku just needs to figure out the best four of a kind for 36)
+
+So 4 8's + 4 Total calculations = 3
+
+For 15 =
+
+Not RF = 1 has second digit as 5/0 = 1 is in the range of 15/55 = 1 One calculation for best hand = 1, Checking from used cards = 5 so in total = 9
+
+So 9+3=11 for R1
+
+For 39 =
+
+Not RF = 1 Not SF = 1 Foak = 0
+
+Calculating all possible hands = 3
+
+Checking cards = 3\*2= 6 in total = 11
+
+For 8 =
+
+Not RF = 1 Not SF = 1 Foak = 0
+
+Calculating all possible hands = 1
+
+Checking cards = 1\*2=2 Foak failed
+
+Full house = 1
+
+Calculating all possible hands = 1
+
+Checking cards = 1\*2=2 in total = 9
+
+For R2 = 11+9 = 20
+
+Total so far = 20 + 11 = 31
+
+For 45 =
+
+Not RF = 1 is SF = 2 Calculating best hand = 1
+
+Checking cards = 5 Failed
+
+Foak = 0
+
+Calculating best hands = 3
+
+Checking cards 3\*2 = 6 Total = 18
+
+For 47
+
+Is RF = 1 Calculating best hand = 1 Checking cards = 5 so total = 7
+
+For round 3 = 18+7 = 25 so total 31+25 = 56
+
+For 26
+
+Not SF = 1 Foak = 0 Calculating all possible hands = 3 Checking cards = 3\*2= 6 Failed
+
+Full house = 1 Checking all possible hands = 5 Checking remaining cards = 5\*2=10 So total = 26
+
+For 63 =
+
+Not SF = 1 Foak = 0 Calculating all possible hands = 1 Checking remaining cards = 1\*2= 2 Failed
+
+Full house = 1 Calculating possible hands = 1 Checking Remaining cards 1\*2= 2 So total = 8
+
+Baku checked for calamity in this Round and Lalo had a full house so Baku only checked 2 cards that makes it +2 = 10
+
+Total for Round 4= 10+26= 36
+
+In total = 36+56 = 72
+
+For 25: Since we know Bakus plan for Saving an extra 4
+
+It is SF = 2 Checking the possible hand = 1 checking possible Cards = 5 in total = 8 With calamity check = 10
+
+For 44=
+
+Not SF = 1 Foak = 0 Calculating all possible hands = 3 Checking used Cards = 3\*2= 6 Failed
+
+Full house = 1 Checking possible hands = 4 Checking cards = 4\*2= 8 in total = 20
+
+For round 5 20+10= 30 in total 73+30 = 102 that's it same for Souichi who did it in way more time lol. Not in the thousands not in the millions, the people who Claimed that are just lazy AF.
+
+And people say Akiyama isn't close to Baku When he did 12-150 Calculations in Bid poker in 3 Seconds lol
+
+17 poker Aki clears the calculation load in less time while being half asleep.
+
+In Conclusion: Unless you are Yuuichi the CPI is the least of your worries in AP.

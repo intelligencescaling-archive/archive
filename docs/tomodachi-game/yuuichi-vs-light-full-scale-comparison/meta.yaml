@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-vs-light-full-scale-comparison
+category: doc
+title: Yuuichi vs Light Full Scale Comparison
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- tomodachi-game
+- death-note
+characters:
+- yuuichi-katagiri
+- light-yagami
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w0sgqt/yuuichi_vs_light_full_scale_comparison/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 675
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 65967
+      sha256: cf4cfb9ff69961f58621c9f2ea4f6959bb7c435453e9c0602e41f55c643c2f00
+    - format: jpg
+      name: image-2.jpg
+      bytes: 77544
+      sha256: c936759d88bc6c5b0d692d731956cdc6b5dee6ce8b8bfe774af423f8b819ce1b
+    - format: jpg
+      name: image-3.jpg
+      bytes: 82289
+      sha256: 2a1f07efceccb267802cee24b5d5797ca0d1dccb2dead4b3bb57ea935d5d56e7
+    - format: jpg
+      name: image-4.jpg
+      bytes: 58880
+      sha256: e167da308821877e9f08c5b82e0bf28189c3f5901f8e7c1ea556e6354416e5d7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

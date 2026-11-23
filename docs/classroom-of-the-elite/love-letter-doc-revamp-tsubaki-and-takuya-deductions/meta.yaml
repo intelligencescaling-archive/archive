@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: love-letter-doc-revamp-tsubaki-and-takuya-deductions
+category: doc
+title: 'Love Letter Doc Revamp: Tsubaki and Takuya Deductions (Classroom of the Elite)'
+alt_titles:
+- About love letter doc
+authors:
+- name: Crafty_Collar_1076
+  reddit: Crafty_Collar_1076
+  id: crafty-collar-1076
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- sakurako-tsubaki
+- takuya-yagami
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ugcjx7/about_love_letter_doc/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 670
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 105045
+      sha256: 4c6cc08a83d69a592a936c7d32814c586c843a0bcd38327ad0d9ecb6cc3b2dce
+    - format: jpg
+      name: image-2.jpg
+      bytes: 73757
+      sha256: 9581d897b98ae03a694441f53e6410109bbd16b3826b62f5f662a5e579c21071
+    - format: jpg
+      name: image-3.jpg
+      bytes: 60677
+      sha256: 3fe99f2acd48f37ec566e18954bf12ba7e1f0cb530dd9d383eb1ccdde9bb3843
+    - format: jpg
+      name: image-4.jpg
+      bytes: 56799
+      sha256: 8559df7cfeb7b61edc70bfa6f96303583ce4ab885548bdde641c0c5d7c812833
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

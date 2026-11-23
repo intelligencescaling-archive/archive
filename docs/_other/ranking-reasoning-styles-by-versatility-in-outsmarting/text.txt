@@ -1,0 +1,117 @@
+Ranking reasoning styles by overall versatility in outsmarting settings
+
+# Ranking(there are many more styles but I am mainly familiar with this):
+
+Also I will update this later since I'm not confident about the ranking of those that aren't in the explanations+I may add more styles.
+
+T1: Bayesian Updating(5/5)
+
+T2: First-Principles Method(5/5)
+
+T3: Model-Based reasoning(5/5)
+
+T4: Red-team/adversial reasoning(5/5) or (4/5)
+
+T5: Systems Reasoning(4/5)
+
+T6: Robust reasoning(4/5)
+
+T7: Consillience(4/5)
+
+T8: Case-based reasoning(3/5)
+
+T9: Decision tree-analysis(3/5)
+
+T10: Formal Rigorous Reasoning(2/5, sorry rigour fans)
+
+It is important to note that the top 4 are extremely close together so they can be interchangeable, however I believe Bayesian Updating is the best among them in terms of versatility.
+
+# Explanations:
+
+**T1: Bayesian Updating**
+
+Bayesian updating is the step-by-step process of changing your original guess or belief when you get new information.
+
+You can search the term if you want to get more info since I will focus on explaining why I rank this style as the best in the outsmarting context.
+
+The key word is that whenever you obtain new data you would update your confidence level.
+
+Basically in Bayesian, you use probabilities, not as actual mathematical probability but as confidence level and estimations, the important thing is that even inside a system there can never be 100% confidence rate if we talk about Bayesian.
+
+Bayesian is extremely versatile, its application ranges from laws, mathematics, history to astrophysics.
+
+This reasoning style revolves around changing your mind in an intelligent way.
+
+Suppose you obtain new information, you don't just ask "Is this true?" But you start thinking about how that information should change your estimate for the confidence rate. More importantly you would also consider what other hypothesis can explain the observation/events.
+
+Honestly Bayesian Updating is such a wonderful method, I can't explain just how good it is under one post so check it out yourself.
+
+Chen Ran mainly specialize in this
+
+**T3: Model Based Reasoning**
+
+Honestly, I feel like this should be T2.
+
+The name is pretty evident about what it is.
+
+Basically you build a model of an opponent or a system, simulate what happens, compare predictions with reality and then modify the model.
+
+For people asking, this is such a sophisticated method, why isn't it top 1? It's because Bayesian is just too versatile that the important parts in Model Based Reasoning can be directly derived from Bayesian Updating.
+
+In outsmarting settings this is extremely effective, as specializing in this can make you model: What your opponent wants, how the environment works, create hypothesis on why events happens, most importantly you can obtain high predictive powers which is the most important thing here. You don't necessarily obtain the absolute truth.
+
+Think of Newton's model of gravity vs Einstein's model of gravity, it is widely accepted that Einstein's is a much more closed approximation but you don't use Einstein's model of gravity in extremely simple problems that Newton's can solve much more efficiently. In fact Newton's also achived high predictive powers. Similarly you don't need to be right in outsmarting settings, in most cases being better at approximation gives you better advantage than being better at knowing the absolute truth(because realistically trying to find the absolute truth is too inefficient)
+
+This is probably the 2nd thing that Chen Ran specializes on.
+
+**T4: Red Team/Adversial Reasoning:**
+
+This becomes more crucial the smarter your opponent is.
+
+This gives way to recursive thinking and stuff.
+
+The main question is: "If I wanted to defeat my own strategy, how would I do it?"
+
+You search for: blind spots, vulnerabilities
+
+loopholes, exploitable assumptions, unexpected counterplays, information leaks, psychological weaknesses, failure conditions. All of this produces a fascinating advantage, and of course if your opponent also specializes in this, we end up in some crazy situation.
+
+Common characters that specialize in this are: Baku, Hal, Guo Jia, Zhuge Liang, Chen Ran,
+
+**T6: Robust Reasoning**
+
+The key idea is you try to find explanations that work across different models.
+
+So why is it not ranked 5 over 5? Because it's not too versatile. Having explanations that work across different models is more often too coincidental.
+
+I honestly don't remember characters that mains this.
+
+**T9: Decision Tree Analysis**
+
+Very useful but more often to be inefficient in most situations. The problem is, it is too overwhelming.
+
+**T10: Formal Rigorous Reasoning**
+
+So this is the types of reasoning that are peak in rigour. If it is so reliable why is it placed so low?
+
+Once again, I am saying it only works in Extremely specific situations and ideal scenarios,
+
+Sure, it is very powerful inside one ideal environment the problem is...
+
+Reality isn't given as a clean axiomatic system.
+
+And you can see how inefficient it is along with the fact that it isn't so versatile.
+
+If you can only reason when reality gives you enough clues to be certain under a system, then you're honestly done for in outsmarting matchups.
+
+Also, this isn't downscaling Akiyama's reasoning to Low Tier or something because Akiyama is still good in other styles.
+
+This not only applies in reasoning but strategy as well.
+
+Although this probably scales higher in Pure Methodology since Pure Methodology only cares about the method.
+
+As for why I am using versatility, well, outsmarting always depends on the situation, so how do you determine which character can win a matchup while taking different situations into account(FIxed, Non Fixed, Warfare, Technological Race, Cat and Mouse, etc...)
+
+Well, for me I determine the winner by who wins in more situations since that means that character is more likely to win since he/she wins in more situations.
+
+(Unironically this falls under bayesian)

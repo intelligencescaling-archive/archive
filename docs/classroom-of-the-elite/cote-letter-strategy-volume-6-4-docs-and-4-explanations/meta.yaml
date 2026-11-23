@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cote-letter-strategy-volume-6-4-docs-and-4-explanations
+category: doc
+title: 'COTE Letter Strategy (Volume 6): 4 Docs and 4 Explanations (Classroom of the Elite)'
+alt_titles:
+- COTE. Letter Strategy (V6). 4 docs and 4 explanations.
+authors:
+- name: YujinDoro
+  reddit: YujinDoro
+  id: yujindoro
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- ichinose-honami
+- arisu-sakayanagi
+- ryuen-kakeru
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m7i1w8/cote_letter_strategy_v6_4_docs_and_4_explanations/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3778
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

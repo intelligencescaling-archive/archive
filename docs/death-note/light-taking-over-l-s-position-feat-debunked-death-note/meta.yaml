@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-taking-over-l-s-position-feat-debunked-death-note
+category: doc
+title: 'Light Taking Over L''s Position: Feat Debunked (Death Note)'
+alt_titles:
+- Light taking over L's position FEAT DEBUNKED
+authors:
+- name: MrDisintegrator
+  reddit: MrDisintegrator
+  id: mrdisintegrator
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1potv3y/light_taking_over_ls_position_feat_debunked/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 844
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+      image-3: HTTP 404
+      image-4: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: house-poker-feat-analysis-house-m-d
+category: doc
+title: House Poker Feat Analysis (House M.D.)
+alt_titles:
+- House Poker Feat Analysis
+authors:
+- name: LosuthusWasTaken
+  reddit: LosuthusWasTaken
+  id: losuthuswastaken
+  source: reddit-post
+series:
+- house
+characters:
+- gregory-house
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rsn7lm/house_poker_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 526
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 25374
+      sha256: e17e5d759b54861fac32f2c8ccb1bdf75c211936a0118743bafacc0c3b85d133
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

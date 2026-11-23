@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akagi-s-three-man-head-bump-strategy-washizu-arc-chapters
+category: doc
+title: Akagi's Three-Man Head Bump Strategy (Washizu Arc, Chapters 83-93)
+alt_titles:
+- Akagi 3 man head bump Strategy
+authors:
+- name: Shoslovelytechred
+  reddit: Shoslovelytechred
+  id: shoslovelytechred
+  source: reddit-post
+series:
+- akagi
+characters:
+- shigeru-akagi
+- iwao-washizu
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pev87s/akagi_3_man_head_bump_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 4433
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

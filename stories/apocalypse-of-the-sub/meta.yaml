@@ -128,8 +128,41 @@ parts:
     text:
       file: text-7.txt
       method: reddit-text
+- title: 'Circle of Fate, The Finale Part 1: By Design'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kgo4j6/circle_of_fate_fanfic_scaling_of_the_sub_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2045
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 66025
+      sha256: 21def1844cc8b5cde3fd458188822708b1f9956d60823ac571c3e56d2565bef0
+    text:
+      file: text-8.txt
+      method: reddit-text
+- title: 'Circle of Fate, Grand Finale: By Design Part 2'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kimrao/fanfic_of_the_sub_circle_of_fate_grand_finale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1775
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 205889
+      sha256: f3a4fc18f1d60d095b03a5db37a99ffa6c478a2d63f5a897482e5678c44d7180
+    text:
+      file: text-9.txt
+      method: reddit-text
 found_in: []
 added: '2026-11-15'
 review:
   status: auto
-  check: []
+  check:
+  - characters

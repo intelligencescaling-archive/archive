@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-10-scd-categories-for-scaling-outsmarting
+category: doc
+title: My 10 SCD Categories for Scaling (Outsmarting)
+alt_titles:
+- Very much familiar to scd, but new to posting. Here, I have listed the 10 scd categories I'm using for scaling.(Outsmarting only)
+authors:
+- name: Living_light6115
+  reddit: Living_light6115
+  id: living-light6115
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u07xqr/very_much_familiar_to_scd_but_new_to_posting_here/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1287
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 107789
+      sha256: edc3fcf85dacdad7251b8d5085f5f69e208bf59dba473f547374909a29df410b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

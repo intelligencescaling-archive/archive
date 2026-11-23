@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: day-1-of-introducing-suji-seong-s-scheme-pyramid-game
+category: doc
+title: Day 1 of Introducing Suji Seong's Scheme (Pyramid Game)
+alt_titles:
+- Day 1 of Introducing Suji Seong (Pyramid Game)'s Scheme into this subreddit
+authors:
+- name: Ok-Singer2549
+  reddit: Ok-Singer2549
+  id: ok-singer2549
+  source: reddit-post
+series:
+- pyramid-game
+characters:
+- seong-suji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tfab9w/day_1_of_introducing_suji_seong_pyramid_games/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 621
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40379
+      sha256: 2cce551f9a1f678ea484d690bb32fdc889a0d9169bd4c239d109304df59b686c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

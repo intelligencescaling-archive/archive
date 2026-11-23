@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-s-speed-blitz-strategy-in-pandemic-liar-game
+category: doc
+title: Yokoya's Speed Blitz Strategy in Pandemic (Liar Game)
+alt_titles:
+- Some bum ass analysis I haven't finished elaborating
+authors:
+- name: Due_Turnover1421
+  reddit: Due_Turnover1421
+  id: due-turnover1421
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ozft3f/some_bum_ass_analysis_i_havent_finished/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 984
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

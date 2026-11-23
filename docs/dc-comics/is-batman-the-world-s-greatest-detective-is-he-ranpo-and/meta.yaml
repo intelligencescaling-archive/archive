@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: is-batman-the-world-s-greatest-detective-is-he-ranpo-and
+category: doc
+title: Is Batman the World's Greatest Detective? Is He Ranpo and Detective Chimp Level? (DC Comics)
+alt_titles:
+- 'IS BATMAN THE WORLD''S GREATEST DETECTIVE EXPLAINED: (IS HE RANPO & DETECTIVE CHIMP LEVEL)'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- batman
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wazxjm/is_batman_the_worlds_greatest_detective_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1009
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 127616
+      sha256: 2d4a3c7d9106e82f84773a2118a3c354cee2e5599fb6f694112ea170df07aba9
+    - format: jpg
+      name: image-2.jpg
+      bytes: 152286
+      sha256: 9e549159f665917697c871383c075834c30d31d348a5f604ffd086ea834974ef
+    - format: jpg
+      name: image-3.jpg
+      bytes: 32255
+      sha256: b619e047ca8299d549537cde67ea44d3584ede3db77bc870fb7f5bb8fff97d45
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

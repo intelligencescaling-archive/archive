@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: character-introduction-kwon-se-jeong-s-feats-colony-2026
+category: doc
+title: 'Character Introduction: Kwon Se-jeong''s Feats (Colony, 2026)'
+alt_titles:
+- 'Character introduction: Kwon Se jeong and this is only valid feat she had'
+authors:
+- name: CroquetQueen
+  reddit: CroquetQueen
+  id: croquetqueen
+  source: reddit-post
+series:
+- colony
+characters:
+- kwon-se-jeong
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1va18jq/character_introduction_kwon_se_jeong_and_this_is/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 897
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 156147
+      sha256: 49c33d7b8adb1091c2cb2139d1afbcaec74a8e615f805698418dbfd6211fa684
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

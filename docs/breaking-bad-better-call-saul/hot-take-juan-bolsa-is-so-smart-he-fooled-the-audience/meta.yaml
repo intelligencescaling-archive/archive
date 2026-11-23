@@ -1,0 +1,65 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hot-take-juan-bolsa-is-so-smart-he-fooled-the-audience
+category: doc
+title: 'Hot Take: Juan Bolsa Is So Smart He Fooled the Audience (Breaking Bad / Better Call Saul)'
+alt_titles:
+- 'Hot take: Juan Bolsa is so smart he fooled the audience itself.'
+authors:
+- name: Reddest_Velvet6
+  reddit: Reddest_Velvet6
+  id: velvet
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+- death-note
+characters:
+- juan-bolsa
+- minoru-tanaka
+tags:
+- discussion
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ucvaqu/hot_take_juan_bolsa_is_so_smart_he_fooled_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 642
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 79213
+      sha256: ea1a690ce5db498850fc2d27a46ca911eab9a48637225702c4641d4f8222e281
+    - format: jpg
+      name: image-2.jpg
+      bytes: 3543
+      sha256: f981ad037cfddc344198a175bb4153f9142fe8969b556977ee492e7e56f11846
+    - format: jpg
+      name: image-3.jpg
+      bytes: 59759
+      sha256: cd9fc670bbf1304918235e763c6e7ce1ba8f78b852ff164994915d3239283f6a
+    - format: jpg
+      name: image-4.jpg
+      bytes: 34526
+      sha256: ba762916da28907b604231e1127d73e6a4e033ba63554ef3eb8ba7b0176d5b86
+    - format: jpg
+      name: image-5.jpg
+      bytes: 55863
+      sha256: 952604688d47e37fbc04f97c2ba8081985d79757336b4e275df6872763ab80a0
+    - format: jpg
+      name: image-6.jpg
+      bytes: 43989
+      sha256: 80351f5abe64f7c4e5c382a3dfca82effbd84c830796f7a34e3ac399ffa1e097
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

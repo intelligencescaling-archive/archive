@@ -1,0 +1,66 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: beating-abyss-is-impossible-all-in-abyss-judge-the-fake
+category: doc
+title: 'Beating Abyss Is Impossible (All in Abyss: Judge the Fake)'
+authors:
+- name: Proud_Magazine_5588
+  reddit: Proud_Magazine_5588
+  id: proud-magazine-5588
+  source: reddit-post
+series:
+- all-in-abyss-judge-the-fake
+characters:
+- abyss-all-in-abyss-judge-the-fake
+- asuha-all-in-abyss-judge-the-fake
+tags:
+- analysis
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xt3ev4/beating_abyss_is_impossible_all_in_abyss_judge/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1606
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 756764
+      sha256: d9ccb34bab78b8a9fcfedac769dd477254d04e30bb2fc967269e55f6ad8fc349
+    - format: jpg
+      name: image-2.jpg
+      bytes: 366235
+      sha256: 1bd13eaa5cabaef0d73d301bfb5c3e93341c10a68951d2b2d7a7e16b889c7052
+    - format: jpg
+      name: image-3.jpg
+      bytes: 303865
+      sha256: 5d088ce6a4fef182b8635b7b7a3d56cc312e2ce118ba0cb23e4fcc1fb389c633
+    - format: jpg
+      name: image-4.jpg
+      bytes: 353757
+      sha256: 45b51bd137e0dd6b52dd690315faf7d5a8ac1e92306848e7837c1b995772c55f
+    - format: jpg
+      name: image-5.jpg
+      bytes: 331355
+      sha256: d7bbb0568592f5ec6f4076a5c6307bbf63e7339a3f45442031ff305e6e7d3879
+    - format: jpg
+      name: image-6.jpg
+      bytes: 370967
+      sha256: ef687fdd592e88eb2dde54605f7dd821da00e05ef78159523e39c060bed2d5ce
+    - format: jpg
+      name: image-7.jpg
+      bytes: 354849
+      sha256: 2db99467ca212e7f52971dd4ea40968723af7d9f630698b1f725b042fb974248
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

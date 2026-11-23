@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-ryland-grace-feats-project-hail-mary
+category: doc
+title: Some Ryland Grace Feats (Project Hail Mary)
+alt_titles:
+- Some Ryland Grace feats
+authors:
+- name: Quick-Jaguar-9572
+  reddit: Quick-Jaguar-9572
+  id: quick-jaguar-9572
+  source: reddit-post
+series:
+- project-hail-mary
+characters:
+- ryland-grace
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u1b6hi/some_ryland_grace_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 756
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 177112
+      sha256: 5d422b6f979edd9d9382c6e414e0e0d91b17e161d9853549d02cde7872c66653
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

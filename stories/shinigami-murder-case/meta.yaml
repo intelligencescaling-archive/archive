@@ -1,0 +1,62 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shinigami-murder-case
+category: story
+title: Shinigami Murder Case (Death Note)
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- story
+- fanfiction
+language: en
+completion: unknown
+parts:
+- title: Part 1
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mqmscn/death_note_shinigami_murder_case/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1320
+    files: []
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: Part 2
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mqpu0g/deathnote_shinigami_murder_case/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1063
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: Part 3
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mr9m8w/deathnote_shinigami_murder_case/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1666
+    files: []
+    text:
+      file: text-3.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

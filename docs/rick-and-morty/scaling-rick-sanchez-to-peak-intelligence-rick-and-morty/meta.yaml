@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scaling-rick-sanchez-to-peak-intelligence-rick-and-morty
+category: doc
+title: Scaling Rick Sanchez to Peak Intelligence (Rick and Morty)
+alt_titles:
+- Scaling Rick Sanchez to Peak Intelligence
+authors:
+- name: TheKillerYTz
+  reddit: TheKillerYTz
+  id: thekillerytz
+  source: reddit-post
+series:
+- rick-and-morty
+characters:
+- rick-sanchez
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1fjkv1o/scaling_rick_sanchez_to_peak_intelligence/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1070
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

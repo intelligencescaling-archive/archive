@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: augustus-s-f-x-van-dusen-the-thinking-machine-small
+category: doc
+title: 'Augustus S. F. X. Van Dusen, the Thinking Machine: Small Analysis and Appreciation'
+authors:
+- name: UnderratedLowTierGod
+  reddit: UnderratedLowTierGod
+  id: underratedlowtiergod
+  source: reddit-post
+series:
+- the-thinking-machine
+characters:
+- augustus-s-f-x-van-dusen
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lwn02h/american_sherlock_holmes_augustus_s_f_x_van_dusen/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1192
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 127982
+      sha256: 728fc28898fe104b674f65d3b2b694190e8e6f00054e4b7ed126ffc1bd0418a0
+    - format: png
+      name: image-2.png
+      bytes: 92420
+      sha256: e5b918dda7f41e9b56744040c7886e99cc899f3acf85dc10efa796f1c0cade44
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

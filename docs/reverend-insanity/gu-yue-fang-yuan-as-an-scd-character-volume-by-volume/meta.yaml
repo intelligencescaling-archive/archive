@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gu-yue-fang-yuan-as-an-scd-character-volume-by-volume
+category: doc
+title: Gu Yue Fang Yuan as an SCD Character, Volume by Volume (Reverend Insanity)
+alt_titles:
+- Going to be the worst analysis ever (Read at your own caution)
+authors:
+- name: Upstairs_Plant1988
+  reddit: Upstairs_Plant1988
+  id: upstairs-plant1988
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rl7xp3/going_to_be_the_worst_analysis_ever_read_at_your/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3387
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 87180
+      sha256: aab9073bccaf60de1599fd8c121a27f3d53ecc970bde75a952f5b664e9a99c03
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

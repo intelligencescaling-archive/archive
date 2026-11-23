@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-s-npl-was-a-misdirection-theory-liar-game
+category: doc
+title: Akiyama's NPL Was a Misdirection Theory (Liar Game)
+alt_titles:
+- Akiyama's NPL was a misdirection theory
+authors:
+- name: Due_Turnover1421
+  reddit: Due_Turnover1421
+  id: due-turnover1421
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oqtlw8/akiyamas_npl_was_a_misdirection_theory/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 605
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

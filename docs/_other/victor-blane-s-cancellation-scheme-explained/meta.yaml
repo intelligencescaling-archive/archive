@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: victor-blane-s-cancellation-scheme-explained
+category: doc
+title: Victor Blane's Cancellation Scheme Explained
+alt_titles:
+- Explanation of Victor Blane’s Cancellation Scheme
+authors:
+- name: KitchenCoyote_The2nd
+  reddit: KitchenCoyote_The2nd
+  id: kitchencoyote
+  source: reddit-post
+series: []
+characters:
+- victor-blane
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qefy29/explanation_of_victor_blanes_cancellation_scheme/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1059
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 162135
+      sha256: c0920685b30c23e068a3c76b49ac17aa41dbf18f11b7f356930fe3a28230fa60
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

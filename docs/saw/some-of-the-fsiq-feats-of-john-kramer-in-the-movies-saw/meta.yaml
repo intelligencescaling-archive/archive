@@ -1,0 +1,70 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-of-the-fsiq-feats-of-john-kramer-in-the-movies-saw
+category: doc
+title: Some of the FSIQ Feats of John Kramer in the Movies (Saw)
+alt_titles:
+- Some Of The FSIQ Feats Of John Kramer In Movies
+authors:
+- name: Unlucky2362
+  reddit: Unlucky2362
+  id: unlucky2362
+  source: reddit-post
+series:
+- saw
+characters:
+- john-kramer
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oxoygm/some_of_the_fsiq_feats_of_john_kramer_in_movies/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1176
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 173453
+      sha256: 592bf01ebdaaeeff31d1a28266286615b6241d1c869bc2b3626aa4955a9a2a46
+    - format: png
+      name: image-2.png
+      bytes: 207441
+      sha256: 4c2c79428b8706132ba1fa91ddb5c3770b1ecf66debf4317df3721a8cc3e8135
+    - format: png
+      name: image-3.png
+      bytes: 119329
+      sha256: dae15c4cdbd81ffa9be493e739f0c4e16cc84c1a35cd796635b2304bef85a230
+    - format: png
+      name: image-4.png
+      bytes: 257077
+      sha256: 2a5ce458622435794c97a4e7c73fa665660a0fa926e075575870cbe3aee55eb1
+    - format: png
+      name: image-5.png
+      bytes: 284430
+      sha256: 739d4f07e1923cf4772f483b3590e8dfcca271432112bc213c8feebc61c95cf3
+    - format: png
+      name: image-6.png
+      bytes: 290931
+      sha256: ec199a489be92c6978e8a81c69e88aa0e268248029fab62f0b1f4e9a4102afbf
+    - format: png
+      name: image-7.png
+      bytes: 247396
+      sha256: 74e4a14ad6e89c7dd9f331cc8ca9e6f5240d3df4ac89e3531125952e590ffdb1
+    - format: png
+      name: image-8.png
+      bytes: 144458
+      sha256: b9b09656c1d79520d6deb2483b763d7f20a166fcbc2d35bc6b5250fde2f51f3b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

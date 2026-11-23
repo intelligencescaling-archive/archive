@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-adversity-chen-ran-faces-in-chen-ran-s-tomb-18-levels
+category: doc
+title: The Adversity Chen Ran Faces in Chen Ran's Tomb (18 Levels of Hell)
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rrg5dr/the_adversity_level_chen_ran_is_facing_in_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1248
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 125706
+      sha256: 19fbefe4528e87077c1f5de4d7950ba29212ff5e2dc1e393205629f16bf9fbdf
+    - format: jpg
+      name: image-2.jpg
+      bytes: 96940
+      sha256: 9bcc93af53b813c691b46bd4cedcb8d74b007e9d4f6baa00567d8df6a700e1c4
+    - format: jpg
+      name: image-3.jpg
+      bytes: 137010
+      sha256: 912a7a7185e21a54e4afb330a129f5bc6a1700c6fdd323676d11cabe73a484a4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

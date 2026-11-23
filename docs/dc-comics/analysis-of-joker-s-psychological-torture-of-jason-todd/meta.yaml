@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-joker-s-psychological-torture-of-jason-todd
+category: doc
+title: 'Analysis of Joker''s Psychological Torture of Jason Todd (Batman: Arkham Knight)'
+alt_titles:
+- 'ANALYSIS OF JOKER''S PSYCHOLOGICAL TORTURE OF JASON:'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- joker
+- jason-todd
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wcx3aa/analysis_of_jokers_psychological_torture_of_jason/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1292
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 19091
+      sha256: 3b43af720bca084180f355fec4b44f6c9fed30c4df05fdbbdbd2432eb07b10c8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

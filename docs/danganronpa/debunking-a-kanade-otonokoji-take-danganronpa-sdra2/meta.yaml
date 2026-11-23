@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-a-kanade-otonokoji-take-danganronpa-sdra2
+category: doc
+title: Debunking a Kanade Otonokoji Take (Danganronpa SDRA2)
+alt_titles:
+- Debunking this guy's Kanade "take"
+authors:
+- name: Recover-Last
+  reddit: Recover-Last
+  id: recover-last
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xn0trp/debunking_this_guys_kanade_take/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1612
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 414219
+      sha256: e312cc579d8f1fed3deb468537ff17a002c7ba436e297aa5e34b6c36a83e96a4
+    - format: png
+      name: image-2.png
+      bytes: 247011
+      sha256: 2e15a48f5df13e4d4c63747dd668c2361066887a5a5cab3ea1443e3e016b96da
+    - format: jpg
+      name: image-3.jpg
+      bytes: 79343
+      sha256: 12fbb00d347d32daffa2a2968a1161e4e6b2a55b8d409d753af854ac813767f2
+    - format: jpg
+      name: image-4.jpg
+      bytes: 45634
+      sha256: 16ea81512582a93951b82e3d591db12df0f33a870e3058195f44b6df84140293
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

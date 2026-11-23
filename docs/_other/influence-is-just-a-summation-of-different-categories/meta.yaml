@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: influence-is-just-a-summation-of-different-categories
+category: doc
+title: Influence Is Just a Summation of Different Categories
+alt_titles:
+- Influence is just a summation of different cats
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uburw2/influence_is_just_a_summation_of_different_cats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 752
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 52805
+      sha256: fd1b43a7bc692d49220b887104948636421b5e2f267568ea23a5e4f7d92dd16d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

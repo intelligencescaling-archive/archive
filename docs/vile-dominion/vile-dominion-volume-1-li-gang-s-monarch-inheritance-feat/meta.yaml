@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vile-dominion-volume-1-li-gang-s-monarch-inheritance-feat
+category: doc
+title: 'Vile Dominion Volume 1: Li Gang''s Monarch Inheritance Feat'
+alt_titles:
+- Vile Dominion Volume 1 summary (Monarch Inheritance feat)
+authors:
+- name: AdvisorSubstantial17
+  reddit: AdvisorSubstantial17
+  id: advisorsubstantial17
+  source: reddit-post
+series:
+- vile-dominion
+characters:
+- li-gang
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r4gjs5/vile_dominion_volume_1_summary_monarch/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1636
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 73864
+      sha256: dfd63561a17fe61c32b9a9591d23c80ab663f33b2945defd28b2599ace41d758
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

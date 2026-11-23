@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: inference-and-deduction-what-should-be-valued-more
+category: doc
+title: 'Inference and Deduction: What Should Be Valued More?'
+alt_titles:
+- Inference and Deduction - what should be valued more?
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uvxhu2/inference_and_deduction_what_should_be_valued_more/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 490
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 45349
+      sha256: 9b5f1dbbd596822434f1cf2bc2b38f5d03dafa089e5833ea70a290f8ff24060f
+    - format: jpg
+      name: image-2.jpg
+      bytes: 49901
+      sha256: c52ec666f3f4ede1394ec49f9dfe60615fa84de05cc61bba8d233c37354bb983
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

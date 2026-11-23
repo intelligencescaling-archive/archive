@@ -1,0 +1,72 @@
+Gus’ oppositional evasion and counterstrategy in End Times and Face Off explained
+
+Hello hello! Today I'll explain one of the more confusing smart moves in the Gilliverse.
+Specifically, I'll systematically break down each and every move made by Gus against Walter from the end of End Times (S4 E12) and the entirety of Face Off (S4 E13). I've decided to do this as there are a lot of misconceptions regarding Gus in these two episodes, which I keep hearing again and again even by seasoned Breaking Bad scalers. I'll just come out and say it, I believe there not to be a SINGLE modicum of intuition employed on these parts of the show by Gus. How am I so confident of this claim? Let's find out.
+
+Context: Walter is currently trying to kill Gus after his initial plan to escape Albuquerque failed. Gus knows that Walter is at least trying to shut oft his goals temporarily as he has tipped off the DEA to protect his brother in law Hank, who Gus is coming close to killing.
+
+To achieve this, he poisoned Brock, the son of Jesse's girlfriend- whom Pinkman cares about deeply- to frame Gus for the crime. This allowed Walter to manipulate Jesse into turning against Fring. Consequently, he set a trap to finally finish the chicken man off, which works as follows:
+
+* Jesse will go to the hospital where Brock resides in, and he will stay there for as long as possible no matters what. Him skipping on cooking meth for Gus would obviously set off all alarms, so he'll send someone to try to get Jesse to work again.
+
+* When this happens, Jesse will ask the goon to have Gus show up himself if he really wants to get him to work. In case the goon tries to force Jesse into leaving through brute force, Jesse will lash out loudly and ask for security, which would make any criminal worth their salt retreat Immediatly. This requires Gus to go himself in order to keep his business intact.
+
+* After Gus goes to the hospital, Walter will place a bomb strapped to Gus' car. When he takes off, Walter will set the bomb off, killing Gus.
+
+This plan, however, fails. And it's not due to Godlike intuition, as people say. It's actually just thought out abductive reasoning.
+
+The key to understanding the reasoning process is this scene (https://youtu.be/ Keuw1nbwUTE?si=Oo-a-yl|y4Txc544
+timestamp 1:36)
+
+Gus and Jesse have a short conversation regarding Brock and the latter still going to work despite the poisoning. However, in the middle of the conversation, Jesse drops the bombshell that Brock was poisoned.
+
+This startles Gus for a second, and after he leaves the hospital and begins walking to his car, he stops for a second, deep in thought.
+In a couple of seconds he changes his mind and decides to leave the hospital through other means. Why?
+
+It's all because of Jesse spilling too much information. For the people watching this episode for the first time (they don't know about who really poisoned Brock and just assume Gus did), it does look like Gus has insane intuition, but when looked at it through Gus' POV, it's actually perfectly logical to assume Walter is targeting him.
+
+Here's the likeliest reasoning process
+(Premises = P, Conclusions = C) followed by
+Gus:
+
+P1: Brock has been Poisoned.
+
+P2: This has brought Jesse to the hospital.
+
+P3: The only reason someone would have to Poison a 6 year old kid that has done absolutely nothing is that whoever did this did it as a way to torture someone close to him.
+
+P4: Walter knows about Brock's relationship with Jesse and has the immoral, tactical and intellectual attributes to poison him.
+
+C1: Walter Poisoned Brock.
+
+P5: Walter is working against me
+
+P6: The poisoning of Brock has indirectly lead me to change my routine and go somewhere unprotected.
+
+C2: Walter poisoned Brock to lure me into a trap.
+
+This is the simplest reasoning process one would need to evade Walter's car bomb car. It could be argued that Gus knew Walter set a bomb in his car too, but there's no direct proof of this, as everything Gus does after the abduction is part of a strategy which requires Gus to change his schedule and behave in a way where Walter cannot set any traps against him.
+
+This leads me to Gus’ counterstrategy in Face Off, the following episode. The scheme has two goals; shutting off Walter’s efforts against him, and shielding himself from any more possible traps Walter might set up for him.
+
+Gus achieves this through 3 main tactics, all of which contain smaller tactics. With the three tactics, Gus:
+
+* Shields himself by changing his schedule and fortifying his security. We can see this as throughout Face Off, Gus stays in Los Pollos, waiting until Walter dies or is essentially stripped off the only remaining valuable advantage he had (Jesse). We also see Gus leave one of his goons in the car while he goes to his final showdown with Hector for him to act as a safeguard in case Walter tries anything funny.
+
+* Sets a trap by sending two men to Walter’s house, who are set to wait there until Heisenberg comes back.
+
+* Kidnaps Jesse and takes him to the lab. Not only does this strip Walter of a possible pawn in his game, it also allows Jesse to keep cooking while also being completely untraceable for the police, who wanted to know what he knew about Brock’s poisoning. It’s notable how Gus let someone who actually knew about the cooking process in supervision of Jesse, just in case Pinkman tried to do a trick with chemicals, which he did.
+
+The strategy changes its course when Walter’s casa tranquila plan is set in motion. With Hector now apparently snitching to the DEA, Gus has to kill him as quickly as possible, otherwise he could be arrested without fulfilling his prized revenge.
+
+However, he’s still very methodical about it, making sure to check for wires or any other kind of device in Hector’s room, and using a very discrete yet effective lethal injection for the deed, which he conceals in a glasses case.
+
+I personally believe it’s possible that Gus thought it was possible for Walter to be involved in Hector’s snitching, implied by the fact that he let a guard supervising the car Gus was in.
+
+Had Gus actually reasoned out that Walter was involved, it would again show Gus’ very underrated abductive reasoning.
+
+This strategy definitely isn’t Gus’ best, but it was formulated in a very short time and it shows Gus’ amazing adaptability, wether it be with the making of this strategy or the changes made with it.
+
+I would rank this strategy’s subcategories like this:
+
+Complexity >= Adaptability > Logistics > Fortitude >> Building (kinda cheeks in efficiency 💔)

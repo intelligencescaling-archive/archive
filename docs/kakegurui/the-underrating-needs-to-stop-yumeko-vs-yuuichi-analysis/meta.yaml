@@ -1,0 +1,76 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-underrating-needs-to-stop-yumeko-vs-yuuichi-analysis
+category: doc
+title: The Underrating Needs to Stop (Yumeko vs Yuuichi Analysis)
+alt_titles:
+- The UNDERRATING needs to FUCKING STOP [Yumeko vs Yuuichi + ANALYSIS]
+authors:
+- name: Inevitable_Dig_7080
+  reddit: Inevitable_Dig_7080
+  id: inevitable-dig-7080
+  source: reddit-post
+series:
+- kakegurui
+- tomodachi-game
+characters:
+- yumeko-jabami
+- yuuichi-katagiri
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hx9560/the_underrating_needs_to_fucking_stop_yumeko_vs/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1120
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 10038
+      sha256: 43ac16da4468b3f7e68e332d36149176c63fa2406b73aaefebfe30a81ee60701
+    - format: jpg
+      name: image-2.jpg
+      bytes: 304164
+      sha256: 2b36e5f521590e6eb5d6d5ff332c14d47c6836e1c47937f4e7335813d9c35afb
+    - format: jpg
+      name: image-3.jpg
+      bytes: 302964
+      sha256: 434e075cf681bf0134244ec29c7e0bdae2021643e3efd18cc42d1fd89e585d48
+    - format: jpg
+      name: image-4.jpg
+      bytes: 263730
+      sha256: 2e93ac4f647420f9e1d884d2e537fadae2940e2443c186fab491b260059eff2d
+    - format: jpg
+      name: image-5.jpg
+      bytes: 150902
+      sha256: 351ebdd355461993dac27282c41cab572f5f9c5fe12d7953fb4e089744716a16
+    - format: jpg
+      name: image-6.jpg
+      bytes: 149790
+      sha256: c9ca1557c923675bcd9f6929daa3b8d29f7125aa5abed8108548d675a94113b1
+    - format: jpg
+      name: image-7.jpg
+      bytes: 38170
+      sha256: 5037292de6cd51adc4b71963fdf0b36c9fc42a3c5a5d1cdaf03e3cea624917ae
+    - format: jpg
+      name: image-8.jpg
+      bytes: 199441
+      sha256: 2ad9207914c89e3152021bbae4fd57608977ce4fd11ef24434d7fa047e0631e9
+    - format: jpg
+      name: image-9.jpg
+      bytes: 30302
+      sha256: 7043db78d97974febc730173306c01773b4afb403d9ec227fbc2d86305f8dc97
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

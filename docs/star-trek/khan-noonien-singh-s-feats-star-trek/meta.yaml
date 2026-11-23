@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: khan-noonien-singh-s-feats-star-trek
+category: doc
+title: Khan Noonien Singh's Feats (Star Trek)
+alt_titles:
+- Do you guys think Star Trek has any SCD-worthy characters? What do you think about smart characters from Star Trek?
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- star-trek
+characters:
+- khan-noonien-singh
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ptsiwg/do_you_guys_think_star_trek_has_any_scdworthy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 630
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1640092
+      sha256: 193910199d741741a18850138f4f978da3881be1b8b7de69e721e7e6c7bce327
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

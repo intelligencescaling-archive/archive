@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-vs-mello-full-scale-comparison-classroom-of-the
+category: doc
+title: Suzune vs Mello Full Scale Comparison (Classroom of the Elite vs Death Note)
+alt_titles:
+- Suzune vs mello full scale comparison with explanation and scans(update)
+authors:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- suzune-horikita
+- mihael-keehl
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u8jtz6/suzune_vs_mello_full_scale_comparison_with/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 6037
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: goku-s-getaway-plan-against-broly-dragon-ball-super-broly
+category: doc
+title: 'Goku''s Getaway Plan Against Broly (Dragon Ball Super: Broly)'
+alt_titles:
+- Goku Getaway Plan/Strategy analysis
+authors:
+- name: Ornery_List_6670
+  reddit: Ornery_List_6670
+  id: ornery-list-6670
+  source: reddit-post
+series:
+- dragon-ball
+characters:
+- goku
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rlmyza/goku_getaway_planstrategy_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1068
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 217968
+      sha256: e73d6d604a22744dee087e70b498cb8b8af664e419a95027c080c93dcdacc8fb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-red-john-is-overrated-and-misunderstood-the-mentalist
+category: doc
+title: Why Red John Is Overrated and Misunderstood (The Mentalist)
+alt_titles:
+- Why Red John IS Overreacted & Misunderstood.
+authors:
+- name: MelodicCreme2583
+  reddit: MelodicCreme2583
+  id: melodiccreme2583
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- red-john
+- patrick-jane
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qdmwce/why_red_john_is_overreacted_misunderstood/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 682
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akio-ohtori-s-black-rose-scheme-revolutionary-girl-utena
+category: doc
+title: Akio Ohtori's Black Rose Scheme (Revolutionary Girl Utena)
+alt_titles:
+- Akio Ohtori’s Black Rose Scheme(Revolutionary Girl Utena)
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- revolutionary-girl-utena
+characters:
+- akio-ohtori
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xx1odw/akio_ohtoris_black_rose_schemerevolutionary_girl/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1660
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 68684
+      sha256: 0d33b7ba0e2663e75bd944468c2663ff5a60e6e2bfb73146d89bd91858ee39a5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

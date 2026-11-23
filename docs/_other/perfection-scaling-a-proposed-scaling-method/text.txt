@@ -1,0 +1,147 @@
+Perfection scaling—does this scaling methodology already exist?
+
+Perfection scaling. I had this idea for a scaling system and I’m not sure if it exists yet.
+
+# Informal summary
+
+In essence, it evaluates schemes (strategies and plans) by how far they fall from the theoretical optimal move (“Ideal Scheme”), given the character’s cognitive abilities & limitations, knowledge available at the time, and moral constraints.
+
+So, first, we isolate a single circumstance and scheme. For example, we would look at Light’s memory loss plan or Walter’s Lily of the valley strategy.
+
+Then, we state the character’s goals and limitations (cognitive, moral, epistemological), as evidenced by source material. Then we, as omniscient readers, posit the best possible move they could have made.
+
+In the case of Light’s MLP, we would posit the Ideal Scheme Light Yagami could have come up with during the 3 days Misa Amane was locked up.
+
+We then compare what the character actually did and how far it falls from the Ideal Scheme. Specifically, we compare point for point, tactic for tactic and goal for goal and wherever uncertainty was possible to be reduced, but wasn’t, between the Canon Scheme and the Ideal Scheme.
+
+Character limitations are taken into consideration. Meaning that, if there was a better scheme possible, but it required the character to process 15 quintillion bits of information in 3 seconds, and the character wasn’t capable of that CPI computation, that would not be considered a valid proposition for an Ideal Scheme.
+
+Likewise, if a scheme forced the character to kill someone, and he found this too morally reprehensible to follow through, it would not be considered a valid Ideal Scheme.
+
+# Formal methodology
+
+(ChatGPT helped me write it but it’s fully my idea)
+
+Methodology
+
+Step 1: Isolate a Single Scenario
+
+Choose a specific situation and plan.
+
+Example:
+
+	•	Light vs L during Misa’s arrest
+
+⸻
+
+Step 2: Define Goals and Constraints
+
+Clearly state:
+
+Goals
+
+What the character is trying to achieve:
+
+	•	Avoid suspicion
+
+	•	Eliminate an opponent
+
+	•	Maintain control
+
+Constraints
+
+Based strictly on canon:
+
+	•	Cognitive (what can they realistically process or plan)
+
+	•	Epistemological (what do they know at the time)
+
+	•	Psychological (risk tolerance, ego, habits, adversity capacity)
+
+	•	Moral (what they are willing/unwilling to do)
+
+This prevents unrealistic Ideal Schemes.
+
+⸻
+
+Step 3: Construct the Ideal Scheme
+
+As omniscient readers, we propose:
+
+The best possible plan the character could have executed, given those constraints.
+
+Important:
+
+	•	No hindsight knowledge
+
+	•	No superhuman processing beyond shown capability
+
+	•	No actions that violate their moral or psychological profile
+
+If a plan requires:
+
+	•	impossible computation
+
+	•	knowledge the character did not have
+
+	•	actions the character would never take
+
+→ It is not a valid Ideal Scheme
+
+⸻
+
+Step 4: Compare Canon Scheme vs Ideal Scheme
+
+This is the core of Perfection Scaling.
+
+Compare point-for-point:
+
+	•	Tactics used
+
+	•	Risks taken
+
+	•	Variables controlled vs left uncontrolled
+
+	•	Opportunities to reduce uncertainty
+
+	•	Points where the Canon Scheme relies on luck or variance
+
+Key question:
+
+Where did the Canon Scheme fail to minimize uncertainty when it could have?
+
+⸻
+
+Step 5: Evaluate Deviation
+
+The final evaluation is:
+
+How far the Canon Scheme deviates from the Ideal Scheme
+
+This includes:
+
+	•	Unnecessary complexity
+
+	•	Reliance on uncontrolled actors
+
+	•	Failure to neutralize key evidence
+
+	•	Missed opportunities for structural advantage
+
+# Advantages
+
+\- SCD often ignores anti-feats or selectively focusses on anti-feats to push agenda. Perfection Scaling is such that the character’s anti-feats and inefficiencies are fully considered and explained.
+
+\- ⁠the end result (either a doc or a post) will be very entertaining to read since it will contain a mini-fanfic of what the character could have done
+
+\- ⁠it actually forces us to think of a concrete way in which characters would interact and do better, rather than just comparing abstract categories
+
+# Disadvantages
+
+\- we’re stupider than these characters (usually) so we could miss a major hole in our scheme
+
+\- it takes a lot more effort to do this kind of scaling properly
+
+\- it doesn’t take into account complexity, such that a perfect but simple scheme in a very simple situation could scale higher than a near perfect scheme in an extremely complex one situation. (I suggest fixing this by combining perfection scaling with complexity scaling)
+
+Thoughts?

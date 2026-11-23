@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: and-so-the-tyger-fell-misconceptions-about-red-john-s
+category: doc
+title: 'And So the Tyger Fell: Misconceptions About Red John''s Scaling (The Mentalist)'
+alt_titles:
+- And so the Tyger fell.
+authors:
+- name: Suspicious-Good2781
+  reddit: Suspicious-Good2781
+  id: suspicious-good2781
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wg5mb6/and_so_the_tyger_fell/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 548
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 281112
+      sha256: 85ef1984b7802cf5ac9a9db5f1a51404c4ff50266d88f8ebee2acbfd20960ad3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

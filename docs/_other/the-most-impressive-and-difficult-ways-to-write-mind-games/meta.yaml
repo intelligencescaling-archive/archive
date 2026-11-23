@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-most-impressive-and-difficult-ways-to-write-mind-games
+category: doc
+title: The Most Impressive and Difficult Ways to Write Mind Games
+authors:
+- name: Shoslovelytechred
+  reddit: Shoslovelytechred
+  id: shoslovelytechred
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+- writing
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kn8fzp/the_most_impressive_and_difficult_ways_to_write/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 630
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 173191
+      sha256: 066e84411e8fcf135a8749ebb0df5888a16615100b0c86e6358972bfe961898a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

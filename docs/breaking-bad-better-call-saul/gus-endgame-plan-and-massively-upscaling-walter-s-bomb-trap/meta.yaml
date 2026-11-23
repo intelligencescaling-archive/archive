@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gus-endgame-plan-and-massively-upscaling-walter-s-bomb-trap
+category: doc
+title: Gus' Endgame Plan and Massively Upscaling Walter's Bomb Trap (Breaking Bad)
+alt_titles:
+- Gus' Endgame plan + massively upscaling Walter's bomb trap
+authors:
+- name: No_Elevator7607
+  reddit: No_Elevator7607
+  id: no-elevator7607
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- gus-fring
+- walter-white
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tljxla/gus_endgame_plan_massively_upscaling_walters_bomb/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2096
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35021
+      sha256: 1ee37fea814f92601f12f01d1d0405783be99945026f5ba7bc0db50fb46d04f2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

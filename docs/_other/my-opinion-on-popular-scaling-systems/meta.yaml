@@ -1,0 +1,35 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-opinion-on-popular-scaling-systems
+category: doc
+title: My Opinion on Popular Scaling Systems
+authors:
+- name: AsideOk1035
+  reddit: AsideOk1035
+  id: asideok1035
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o760ii/my_opinion_on_popular_scaling_systems/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 695
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

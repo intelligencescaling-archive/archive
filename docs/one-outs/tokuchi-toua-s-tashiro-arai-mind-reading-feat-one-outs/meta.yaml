@@ -1,0 +1,119 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tokuchi-toua-s-tashiro-arai-mind-reading-feat-one-outs
+category: doc
+title: Tokuchi Toua's Tashiro/Arai Mind Reading Feat (One Outs)
+alt_titles:
+- Tokichi Toua's Tashihiro/Arai mind reading feat
+authors:
+- name: ResponseLower49
+  reddit: ResponseLower49
+  id: responselower49
+  source: reddit-post
+series:
+- one-outs
+characters:
+- toua-tokuchi
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wbtodc/tokichi_touas_tashihiroarai_mind_reading_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2390
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 30998
+      sha256: 46c4771aae262253f355eae30788d3c22a0fd2c5c5e760c06793bbe9e7cfa5fa
+    - format: jpg
+      name: image-2.jpg
+      bytes: 181941
+      sha256: d9bda3bfdacb2c2773de21bc742527f195f5119274dde42bac676c726d8a0663
+    - format: jpg
+      name: image-3.jpg
+      bytes: 181981
+      sha256: e6072865e443e8321174233fbc064414623d291a9e181ffb341f522f233ba434
+    - format: jpg
+      name: image-4.jpg
+      bytes: 191999
+      sha256: 82f3b50d2dc3dbddaeed1a583b2ba4a034e6fe5e0f496f6678201df983bc381c
+    - format: jpg
+      name: image-5.jpg
+      bytes: 193896
+      sha256: 980bd06150866f29c6f38843c32186ce54d1497cecf3e91ea85fd312fe897df9
+    - format: jpg
+      name: image-6.jpg
+      bytes: 217735
+      sha256: 3d92b2a00f4f8d996c3c1f75d35cf3b203afc992a4d9ce7a9e991a273be8130a
+    - format: jpg
+      name: image-7.jpg
+      bytes: 216171
+      sha256: 86e2bad04cb400822227faec92cddf0db337270ad2b2023fe110bfd581bf018d
+    - format: jpg
+      name: image-8.jpg
+      bytes: 218858
+      sha256: b71ac745a520d140ff32971a844842c6d8b27ed3899933b3c079610da0cd14f8
+    - format: jpg
+      name: image-9.jpg
+      bytes: 173550
+      sha256: 2d72b21c6ea6524270984446d48341c5d40b93228d641f60fc7a75e37e9750c6
+    - format: jpg
+      name: image-10.jpg
+      bytes: 183045
+      sha256: f521951d563f6d7855801e27c272ac37e3f5bc6fd6a59061a7162b2ad67ed6f4
+    - format: jpg
+      name: image-11.jpg
+      bytes: 201989
+      sha256: 8fd76c1a868859f30b0e82dd00c6c5d7fff6d70f7888d28e9aaa6054243db7b5
+    - format: jpg
+      name: image-12.jpg
+      bytes: 201786
+      sha256: c02b009d85ea422e2264850611d6cc6fc6c8d4671fc37f7994a1dd2bc5ff6330
+    - format: jpg
+      name: image-13.jpg
+      bytes: 182276
+      sha256: 4508001e789cc23bea44ca133baecbef0ce4344cc43a267c4869cd4dbe0a3f22
+    - format: jpg
+      name: image-14.jpg
+      bytes: 155777
+      sha256: c37f45a3fdd3895acff08de2a049d440c4790e3aae794e805bf841749203a8bb
+    - format: jpg
+      name: image-15.jpg
+      bytes: 199773
+      sha256: 2a7949b079ce7781269ab07a871a6cfaab261d1dbf41843afe8addab8d69022f
+    - format: jpg
+      name: image-16.jpg
+      bytes: 178231
+      sha256: 8f7f75124ced49d4a9867d8d5e4da63cdd1bab8056b6578544295b62e950223b
+    - format: jpg
+      name: image-17.jpg
+      bytes: 207008
+      sha256: e665b0b590e7b1d5ef76ed5b4b361b5d8c77af759084b83d22fcf32049c3ea76
+    - format: jpg
+      name: image-18.jpg
+      bytes: 213013
+      sha256: 305d9fe6498489148194e028630368d0f799a26daa355f2f3522b3ef757271e5
+    - format: jpg
+      name: image-19.jpg
+      bytes: 190401
+      sha256: baadd5b06be79d98078e4c0443f938ae9601fafc41a2f130173159949fa3096a
+    - format: jpg
+      name: image-20.jpg
+      bytes: 175132
+      sha256: 545ebfdce8e8aa27633197daeae8eaf28c32840d64ab7d21375f01d39de3cd78
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

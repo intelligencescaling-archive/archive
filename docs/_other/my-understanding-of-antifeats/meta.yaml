@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-understanding-of-antifeats
+category: doc
+title: My Understanding of Antifeats
+alt_titles:
+- 'My understanding of Antifeats:'
+authors:
+- name: Own-Lab-8850
+  reddit: Own-Lab-8850
+  id: own-lab-8850
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n536gc/my_understanding_of_antifeats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 715
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 215651
+      sha256: bb395f1edfe525a3c1835f324539ab5faba44ddd13a1b94655ff1b2250956a3e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

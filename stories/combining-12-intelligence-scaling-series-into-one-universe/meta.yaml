@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: combining-12-intelligence-scaling-series-into-one-universe
+category: story
+title: 'Combining 12+ Intelligence-Scaling Series into One Universe: Premise'
+alt_titles:
+- 'Combining 12 + Intelligence-Scaling Series into One Universe: Premise'
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- monster
+- death-note
+- liar-game
+- classroom-of-the-elite
+- kakegurui
+- one-outs
+- the-mentalist
+characters:
+- heinrich-lunge
+- light-yagami
+- akiyama-shinichi
+- kiyotaka-ayanokoji
+- yumeko-jabami
+tags:
+- fanfiction
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w8wpia/combining_12_intelligencescaling_series_into_one/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1161
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 249510
+      sha256: a8d2df80065a09fddda0c8c062481e070e58388efb3caddd3f3be8e5ccdfaa4c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

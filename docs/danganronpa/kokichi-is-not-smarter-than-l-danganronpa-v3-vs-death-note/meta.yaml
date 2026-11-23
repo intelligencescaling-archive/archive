@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kokichi-is-not-smarter-than-l-danganronpa-v3-vs-death-note
+category: doc
+title: Kokichi Is Not Smarter Than L (Danganronpa V3 vs Death Note)
+alt_titles:
+- I'm genuinely going insane
+authors:
+- name: sorewa_chigauyo
+  reddit: sorewa_chigauyo
+  id: sorewa-chigauyo
+  source: reddit-post
+series:
+- danganronpa
+- death-note
+characters:
+- kokichi-oma
+- l-lawliet
+- light-yagami
+tags:
+- debunk
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qx8wys/im_genuinely_going_insane/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1986
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 91193
+      sha256: a00a1ad5cbf517ccd4158798a17d46b6d39c95e9095604b5f3e62beb2a9bf10a
+    - format: jpg
+      name: image-2.jpg
+      bytes: 35130
+      sha256: 8c0f2cf24cb9eadef01e1959f90f4190caa5331f88e8fee6864b3a3912998964
+    - format: jpg
+      name: image-3.jpg
+      bytes: 52812
+      sha256: 153347cd41ef5b0f9b32fc9c6a907a0327d8e3074ad6846ce93b3e6c9d0bd6d5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

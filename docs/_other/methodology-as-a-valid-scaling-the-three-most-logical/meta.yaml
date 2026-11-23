@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: methodology-as-a-valid-scaling-the-three-most-logical
+category: doc
+title: 'Methodology as a Valid Scaling: The Three Most Logical Viewpoints'
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1woxkx9/methodology_as_a_valid_scaling_the_three_most/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 815
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

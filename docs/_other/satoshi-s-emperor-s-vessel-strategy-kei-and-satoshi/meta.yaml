@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: satoshi-s-emperor-s-vessel-strategy-kei-and-satoshi
+category: doc
+title: Satoshi's Emperor's Vessel Strategy (Kei and Satoshi)
+alt_titles:
+- Satoshi's Emperor's Vessel Strategy (from Kei and Satoshi)
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- analysis
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u9q2um/satoshis_emperors_vessel_strategy_from_kei_and/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1616
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2061806
+      sha256: d33e9e29dff961fe9bb46b4ee506dc6c99f19f0395b5541f6c96e39431f36186
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

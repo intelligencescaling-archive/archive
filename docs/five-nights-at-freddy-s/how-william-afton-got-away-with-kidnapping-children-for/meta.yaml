@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-william-afton-got-away-with-kidnapping-children-for
+category: doc
+title: How William Afton Got Away With Kidnapping Children for Years (FNAF)
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qodrbz/have_you_ever_wonder_how_william_afton_got_away/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 767
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 229360
+      sha256: ff6c9402e958150cecbbb88c3064a13f70f1dfa28b8a8eb56b40482a4d3302dd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: refuting-plot-convenience-claims-about-ayanokoji-classroom
+category: doc
+title: Refuting Plot Convenience Claims About Ayanokoji (Classroom of the Elite)
+alt_titles:
+- About SprinklesNo6691
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- kiyotaka-ayanokoji
+- light-yagami
+tags:
+- rebunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pw9f11/about_sprinklesno6691/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1418
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 53329
+      sha256: aa92153ca2b2e3a97ca813b30d35f00b520bb0e875a6674086d7c5e02ea151f7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

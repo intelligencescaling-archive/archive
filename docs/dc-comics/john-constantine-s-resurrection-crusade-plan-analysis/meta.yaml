@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-constantine-s-resurrection-crusade-plan-analysis
+category: doc
+title: John Constantine's Resurrection Crusade Plan Analysis (Hellblazer)
+alt_titles:
+- 'JOHN CON-STAN-TINE:'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- john-constantine
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wbvccv/john_constantine/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2876
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 52346
+      sha256: d694dcc3a1782ab2fdc7e41667ab59aea9ec98f03cd8d16a3e5534b1c814c221
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

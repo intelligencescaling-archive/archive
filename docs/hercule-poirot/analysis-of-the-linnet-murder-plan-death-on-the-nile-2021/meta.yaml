@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-the-linnet-murder-plan-death-on-the-nile-2021
+category: doc
+title: Analysis of the Linnet Murder Plan (Death on the Nile, 2021)
+alt_titles:
+- Potential Mello victimizers in scheming?.Analysis of the linnet Murder Plan from death on the nile 2021.
+authors:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- hercule-poirot
+characters:
+- simon-doyle
+- jacqueline-de-bellefort
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xq7uhm/potential_mello_victimizers_in_scheminganalysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1487
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 7683953
+      sha256: 814acf3389dfb4d8c4459ec38a35cbb7676cec088899bba5f75410f52cf49422
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

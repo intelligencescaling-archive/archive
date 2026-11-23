@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-to-scale-fsiq-from-onscreen-feats
+category: doc
+title: How to Scale FSIQ From Onscreen Feats
+alt_titles:
+- How we should scale FSIQ when based on onscreen feat
+authors:
+- name: Connect-Fudge8942
+  reddit: Connect-Fudge8942
+  id: connect-fudge8942
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1my1brz/how_we_should_scale_fsiq_when_based_on_onscreen/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 684
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

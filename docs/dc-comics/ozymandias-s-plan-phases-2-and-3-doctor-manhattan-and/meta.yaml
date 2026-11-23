@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ozymandias-s-plan-phases-2-and-3-doctor-manhattan-and
+category: doc
+title: 'Ozymandias''s Plan, Phases 2 and 3: Doctor Manhattan and Moloch (Watchmen)'
+alt_titles:
+- WM | phase 2 / 3
+authors:
+- name: Marty-Smh
+  reddit: Marty-Smh
+  id: marty-smh
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- ozymandias
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uwklhh/wm_phase_2_3/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1464
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40321
+      sha256: e05fc8273af1bd046a611a8e08db8a98957502065ae31c3c8742550776f7da55
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

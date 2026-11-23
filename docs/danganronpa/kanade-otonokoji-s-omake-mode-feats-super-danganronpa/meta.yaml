@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji-s-omake-mode-feats-super-danganronpa
+category: doc
+title: Kanade Otonokoji's Omake Mode Feats (Super Danganronpa Another 2)
+alt_titles:
+- Kanade Otonokoji‘s Omake Mode feats
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+- syobai-hashimoto
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rh1hgt/kanade_otonokojis_omake_mode_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 517
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 1637039
+      sha256: 077b135c060e148c6ea6d6360e62c1d888618455c70be7ebfa3427c74712d2a3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

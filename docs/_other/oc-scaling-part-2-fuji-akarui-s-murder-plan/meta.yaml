@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: oc-scaling-part-2-fuji-akarui-s-murder-plan
+category: doc
+title: 'OC Scaling Part 2: Fuji Akarui''s Murder Plan'
+alt_titles:
+- OC scaling pt 2
+authors:
+- name: Mainasugomi
+  reddit: Mainasugomi
+  id: mainasugomi
+  source: reddit-post
+series: []
+characters: []
+tags:
+- analysis
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lcccoq/oc_scaling_pt_2/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 625
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 356515
+      sha256: b31435d6a53b0254fd340e7bb5abf1c8a6d5c8e582310847fa4da89a5b262c95
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

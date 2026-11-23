@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-yokoya-s-pandemic-game-counter-liar-game
+category: doc
+title: Analysis of Yokoya's Pandemic Game Counter (Liar Game)
+alt_titles:
+- Analysis of Yokoya's Pandemic games counter
+authors:
+- name: Murky_Possibility655
+  reddit: Murky_Possibility655
+  id: murky-possibility655
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wyguay/analysis_of_yokoyas_pandemic_games_counter/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1487
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 480104
+      sha256: a0e1d0240074621fcee2dd8b1173699c077653887786eb3f61936fb97bcc7d66
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

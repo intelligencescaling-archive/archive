@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yumeko-is-smarter-than-aizen-kakegurui-vs-bleach
+category: doc
+title: Yumeko Is Smarter Than Aizen (Kakegurui vs Bleach)
+alt_titles:
+- Yumeko is smarter than Aizen.
+authors:
+- name: PlentyWise3615
+  reddit: PlentyWise3615
+  id: plentywise3615
+  source: reddit-post
+series:
+- kakegurui
+- bleach
+characters:
+- yumeko-jabami
+- sosuke-aizen
+tags:
+- matchup
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wofwi3/yumeko_is_smarter_than_aizen/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 696
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 62471
+      sha256: 8643669af808c3cf4d04b16005041771b6e26b1735b3438cffd7332ec00e58df
+    - format: jpg
+      name: image-2.jpg
+      bytes: 35174
+      sha256: c0b4bf8dd76d4c575aa3cce3d7d44bf0e727db4e4eb7fd941be9e8d1a90ec7a3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

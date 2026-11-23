@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: what-if-ayanokoji-was-kira-classroom-of-the-elite-x-death
+category: doc
+title: What If Ayanokoji Was Kira? (Classroom of the Elite x Death Note)
+alt_titles:
+- What if Ayanokoji was Kira?
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- kiyotaka-ayanokoji
+- l-lawliet
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pxfuv6/what_if_ayanokoji_was_kira/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2261
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 109385
+      sha256: a5936724f701e0c0f4b4cc3aa959a051b7c0292c82104f1d6524a814baae3550
+    - format: jpg
+      name: image-2.jpg
+      bytes: 20019
+      sha256: 4b6d88b09b13a31468f43956a5d95bff15dbbfc715148824fdcf3ca08758e620
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

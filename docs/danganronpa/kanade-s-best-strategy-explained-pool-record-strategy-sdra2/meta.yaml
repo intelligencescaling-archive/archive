@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-s-best-strategy-explained-pool-record-strategy-sdra2
+category: doc
+title: 'Kanade''s Best Strategy Explained: Pool Record Strategy (SDRA2)'
+alt_titles:
+- Kanade's Best Strategy Explained (Pool Record Strategy)
+authors:
+- name: AsideOk1035
+  reddit: AsideOk1035
+  id: asideok1035
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pesuqr/kanades_best_strategy_explained_pool_record/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1003
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 84621
+      sha256: fe46adf9142338cba607463d19ae92277844b237abf2e15025555e7beb5db194
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

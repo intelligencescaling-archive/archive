@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-plan-to-force-the-rich-elites-to-stop-earth-s
+category: doc
+title: 'The Doctor''s Plan to Force the Rich Elites to Stop Earth''s Environmental Collapse (Doctor Who: Warhead)'
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1i4lpzs/the_doctors_plan_to_force_the_rich_elites_to_stop/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1058
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 381152
+      sha256: 15a2f600bd621b9d5a421b40fb0946f16f12d3a090141c0019f8e391bccc9bfd
+    - format: jpg
+      name: image-2.jpg
+      bytes: 45275
+      sha256: 92bc4560d7c0b5de1cb8451a1bb8f94850cc63cbd06812d02ef2138cef576c17
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

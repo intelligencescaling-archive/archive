@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-cold-reading-and-manipulation-of-kei-classroom
+category: doc
+title: Ayanokoji's Cold Reading and Manipulation of Kei (Classroom of the Elite)
+alt_titles:
+- One of Ayanokoji Cold Reading Prediction, Psychological and Manipulation
+authors:
+- name: SixxHate
+  reddit: SixxHate
+  id: sixxhate
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- kei-karuizawa
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ps2z4u/one_of_ayanokoji_cold_reading_prediction/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 609
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

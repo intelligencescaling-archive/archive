@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jacopo-s-feats-in-the-revolution-the-house-in-fata-morgana
+category: doc
+title: 'Jacopo''s Feats in the Revolution (The House in Fata Morgana: Requiem for Innocence)'
+alt_titles:
+- Jacopo's feats in the revolution
+authors:
+- name: Notknowninhere
+  reddit: Notknowninhere
+  id: notknowninhere
+  source: reddit-post
+series:
+- the-house-in-fata-morgana
+characters:
+- jacopo-bearzatti
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pkjmkq/jacopos_feats_in_the_revolution/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1468
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

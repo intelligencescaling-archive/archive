@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: creativity-unpredictability-and-logic
+category: doc
+title: Creativity, Unpredictability and Logic
+authors:
+- name: Sardine87
+  reddit: Sardine87
+  id: sardine87
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mzy480/creativity_unpredictability_and_logic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1825
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 77788
+      sha256: f3b62e44e2560194c1328e843b988f7cd5ec3cdcea90f5324b200dcb1933c37c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

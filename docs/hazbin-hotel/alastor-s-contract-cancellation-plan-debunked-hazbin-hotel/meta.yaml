@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: alastor-s-contract-cancellation-plan-debunked-hazbin-hotel
+category: doc
+title: Alastor's Contract Cancellation Plan Debunked (Hazbin Hotel)
+alt_titles:
+- Alastor's contract cancellation plan debunked
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- hazbin-hotel
+characters:
+- alastor
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qyjphx/alastors_contract_cancellation_plan_debunked/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 625
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 495449
+      sha256: cda0deba8f2e72dbc855731950981a109e1722c9fd04f8174439cbc21f1dd51c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

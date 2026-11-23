@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cassidy-feat-list-five-nights-at-freddy-s-game-canon-game
+category: doc
+title: Cassidy Feat List (Five Nights at Freddy's, Game Canon & Game Theory)
+alt_titles:
+- Cassidy feat list (Gamecanon & Gametheory)
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- cassidy-five-nights-at-freddy-s
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pz74an/cassidy_feat_list_gamecanon_gametheory/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 518
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1923425
+      sha256: 9b09e004fdd6c448a6f5c329150f87f69d8316e833fa10ef0893a5425c3aeed3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monty-oum-s-shuffle-feat-oc
+category: doc
+title: Monty Oum's "SHUFFLE!" Feat (OC)
+alt_titles:
+- Monty Oum's "SHUFFLE!" Feat
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series: []
+characters:
+- monty-oum
+tags:
+- analysis
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u3fqrt/monty_oums_shuffle_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 4695
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 25169
+      sha256: 6d443e8b1626dfcb708a6524d462294e037c7603598a2bac303f5d0baf1625df
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

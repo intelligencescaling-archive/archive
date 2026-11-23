@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-afton-feat-list-five-nights-at-freddy-s-game-canon
+category: doc
+title: Michael Afton Feat List (Five Nights at Freddy's, Game Canon & Game Theory)
+alt_titles:
+- Michael Afton feat list (Gamecanon & Gametheory)
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- michael-afton
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pzgta0/michael_afton_feat_list_gamecanon_gametheory/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 722
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 68287
+      sha256: 76a27004fe7bdbd7a739e925595081ebc33be3a74a85497540245455cc6f1a6a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

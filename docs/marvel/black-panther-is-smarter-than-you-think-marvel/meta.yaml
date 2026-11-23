@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: black-panther-is-smarter-than-you-think-marvel
+category: doc
+title: Black Panther Is Smarter Than You Think (Marvel)
+alt_titles:
+- BLACK PANTHER IS SMARTER THAN YOU THINK, (EQUAL TO IRON MAN, REED AND DOCTOR DOOM IN INTELLIGENCE) YES EVEN IN SCD, PREPARE FOR YAP!
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- marvel
+characters:
+- black-panther
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wa06w0/black_panther_is_smarter_than_you_think_equal_to/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1608
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 103842
+      sha256: afa2ea80d840831d762e05e4bdc56ca42d900177c59eff4548e639a8a5841f86
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

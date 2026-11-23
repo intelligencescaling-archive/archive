@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji-feat-list-sdra2
+category: doc
+title: Kanade Otonokoji Feat List (SDRA2)
+alt_titles:
+- Kanade Otnokoji feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ojwbkm/kanade_otnokoji_feat_list/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 2628
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

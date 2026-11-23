@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: william-afton-s-intentional-springlock-failure-tactic-fnaf
+category: doc
+title: William Afton's Intentional Springlock Failure Tactic (FNAF)
+alt_titles:
+- Intentional springlock failure tactic | William Afton analysis
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- william-afton
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sva4uj/intentional_springlock_failure_tactic_william/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 548
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 46795
+      sha256: 5c011208b34dbe53d2432e2f93ee7ea150b2b79153538535e0dda30a9c9f9e5a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: can-someone-help-me-understand-the-red-john-planning-doc
+category: doc
+title: Can Someone Help Me Understand the Red John Planning Doc? (The Mentalist)
+alt_titles:
+- Can someone help me understand the Red John planning doc? Because it doesn't make sense to me...
+authors:
+- name: Big_Application_7168
+  reddit: Big_Application_7168
+  id: big-application-7168
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- red-john
+- patrick-jane
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1i2yhxj/can_someone_help_me_understand_the_red_john/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 730
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

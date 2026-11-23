@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: skipper-and-king-julien-s-go-fish-plans-explanation-the
+category: doc
+title: Skipper and King Julien's Go Fish Plans Explanation (The Penguins of Madagascar)
+authors:
+- name: What-A-Burden
+  reddit: What-A-Burden
+  id: what-a-burden
+  source: reddit-post
+series:
+- the-penguins-of-madagascar
+characters:
+- skipper
+- king-julien
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tl8m9b/skipper_and_king_juliens_go_fish_plans/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 766
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 881495
+      sha256: 22dd0377a21a32d16ddad89a35ef479558bae2e2f5ddb55f54592cbdfb68776a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

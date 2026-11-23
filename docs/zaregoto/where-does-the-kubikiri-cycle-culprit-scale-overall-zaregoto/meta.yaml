@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: where-does-the-kubikiri-cycle-culprit-scale-overall-zaregoto
+category: doc
+title: Where Does the Kubikiri Cycle Culprit Scale Overall? (Zaregoto)
+alt_titles:
+- '[Zaregoto] ??? feats (where does she scale overall?)'
+authors:
+- name: randommangacharacter
+  reddit: randommangacharacter
+  id: randommangacharacter
+  source: reddit-post
+series:
+- zaregoto
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rn34wl/zaregoto_feats_where_does_she_scale_overall/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1781
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 197766
+      sha256: 54a33bd6e0bdba171dcb87acaa26a83f58eb4eb06b77e1a15e2d06b82e58b890
+    - format: jpg
+      name: image-2.jpg
+      bytes: 93426
+      sha256: 3e0d19482a54b4b34d60e2ed42ec9bfb6a76cf522a9858e5585a4ce04b71926c
+    - format: png
+      name: image-3.png
+      bytes: 69749
+      sha256: 090417e483557638f080a57095bd7dc3190b29d6d08673371fd3486a0e05a421
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

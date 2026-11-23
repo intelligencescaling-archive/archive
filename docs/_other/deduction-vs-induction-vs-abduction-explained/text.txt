@@ -1,0 +1,127 @@
+Deduction vs Induction vs Abduction explained
+
+[Prior knowledge]
+
+A premise is an assumption or statement that forms the basis of an argument.
+
+The conclusion is the result of the argument.
+
+Reasoning is the process of using premises to infer new information or reach a conclusion.
+
+-----
+
+[Deduction]
+
+The process of drawing a conclusion that **must** be true if the premises are true.
+
+Deductive reasoning moves from **general** premises to a **specific** conclusion.
+
+Logically valid: if the premises are true, then the conclusion **must** be true.
+
+Unsound: valid argument but at least 1 premise is false.
+
+Sound: valid argument and all the premises are true.
+
+**Example 1:** Logically valid but unsound
+
+Premise 1: All cats have 9 lives.
+
+Premise 2: Mittens is a cat.
+
+Conclusion: Mittens has 9 lives.
+
+This argument is logically valid because if the premises are true, then the conclusion must also be true. However, it is unsound because premise 1 is false.
+
+**Example 2:** Logically valid and sound
+
+Premise 1: Alexander the Great was born before Hitler.
+
+Premise 2: Hitler was born before me.
+
+Conclusion: Alexander the Great was born before me.
+
+This argument is logically valid because if Person A was born before Person B and Person B was born before Person C, then Person A was born before Person C. This form of logic should be intuitive for almost everyone.
+
+**Example 3:** Logically **invalid* argument
+
+Premise 1: all cats have 4 legs.
+
+Premise 2: my dog has 4 legs.
+
+Conclusion: my dog is a cat.
+
+This is logically invalid. Just because all objects of A possess trait B does not mean only objects of A possess trait B.
+
+It is therefore a fallacious argument.
+
+You need to be careful that you do not commit a fallacy when making a deductive argument.
+
+-----
+
+[Induction]
+
+The process of inferring a general rule from specific observations.
+
+Inductive reasoning moves from specific cases to a general conclusion.
+
+The conclusion is probable, not certain.
+
+**Example 1**
+
+Premise 1: I saw 100 swans yesterday.
+
+Premise 2: All the swans I saw were white.
+
+Conclusion: The next swan I see will also be white.
+
+Notice that the conclusion does not necessarily have to be true. Even if you saw a billion swans and they were all white, this does not mean that the next swan you see also has to be white. Maybe only the swans in your country are white, maybe swans of other colour are just rarer. The conclusion is probability based.
+
+**Example 2**
+
+Premise 1: 10 students from my class drank the mysterious looking drink and they all received a terrible headache.
+
+Premise 2: another guy just drank the mysterious looking drink.
+
+Conclusion: he will also receive a terrible headache.
+
+-----
+
+[Abduction]
+
+A form of logical inference that seeks the most probable conclusion from a set of observations.
+
+Generally it infers the cause based on the observed effect.
+
+**Example 1**
+
+Premise 1: I woke up to see that my backyard was wet.
+
+Conclusion: it rained while I was sleeping.
+
+**Example 2**
+
+Premise 1: My computer fan is very loud.
+
+Premise 2: My computer is running slowly.
+
+Conclusion: there are too many programs running.
+
+**Example 3**
+
+Premise 1: Whenever Alex crams the night before exams, he looks very tired.
+
+Premise 2: Alex looks tired and he has exams today.
+
+Conclusion: Alex crammed last night.
+
+Just like with induction, the conclusion does not necessarily follow from the premises.
+
+-----
+
+Summary:
+
+Deduction: general premises -> conclusion that **must** be true.
+
+Induction: specific observations -> probable generalization
+
+Abduction: specific observations -> best explanation

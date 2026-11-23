@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-plan-to-destroy-the-hooklight-doctor-who
+category: doc
+title: The Doctor's Plan to Destroy the Hooklight (Doctor Who)
+alt_titles:
+- The doctor's plan to destroy the hooklight (doctor who, hooklight) (methodology)
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qtam1k/the_doctors_plan_to_destroy_the_hooklight_doctor/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2391
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 368137
+      sha256: 6a6af3450b4ea04f53c1542f694237bd9a1fad6b4a34f12d8b528b22a52e2a69
+    - format: jpg
+      name: image-2.jpg
+      bytes: 36286
+      sha256: 249542d08c2490d48b0ba839f9a2053c977c2ae4e5adc68d2a74900f6eb4ba03
+    - format: jpg
+      name: image-3.jpg
+      bytes: 34055
+      sha256: 1245ef47c5aa0b9830585b5c1c4100fab076534e443dd5982f2f57c000fedcb4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

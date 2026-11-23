@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: love-letter-strategy-preparations-part-1-classroom-of-the
+category: doc
+title: 'Love Letter Strategy: Preparations, Part 1 (Classroom of the Elite)'
+alt_titles:
+- 'Love letter strategy: preparations part 1'
+authors:
+- name: Crafty_Collar_1076
+  reddit: Crafty_Collar_1076
+  id: crafty-collar-1076
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- nagumo-miyabi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xvvv52/love_letter_strategy_preparations_part_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1884
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

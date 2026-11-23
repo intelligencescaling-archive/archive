@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-vs-near-hot-take-death-note
+category: doc
+title: Light vs Near Hot Take (Death Note)
+alt_titles:
+- DN hot take 4 the steamin' finale.
+authors:
+- name: Big_Application_7168
+  reddit: Big_Application_7168
+  id: big-application-7168
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+- nate-river
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sncqit/dn_hot_take_4_the_steamin_finale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 588
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 66174
+      sha256: 4a6e2fd195a4a92c31b457a6e986527f43fac189945a9d8fb44e44b222822f24
+    - format: jpg
+      name: image-2.jpg
+      bytes: 13274
+      sha256: 72b1d813c2c39441afd058faf27e96fb4e97feb915cc69ccf678ba52bf937fd2
+    - format: jpg
+      name: image-3.jpg
+      bytes: 82794
+      sha256: bf17a1c7ebaa12f5b93b3cfc8617f97ff9b5a2870cccb8e9704f6b85b825cf77
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

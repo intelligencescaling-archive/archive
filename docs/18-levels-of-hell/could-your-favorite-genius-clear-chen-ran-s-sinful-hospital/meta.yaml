@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: could-your-favorite-genius-clear-chen-ran-s-sinful-hospital
+category: doc
+title: Could Your Favorite Genius Clear Chen Ran's Sinful Hospital Instance? (Secret Chamber 1, 18 Levels of Hell)
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qoiu7l/could_your_favorite_genius_character_clear_chen/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1495
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 49787
+      sha256: b05bf8e3ff1f816bff850cb196c9c2d184afbcbd2d1b73063025a13f7d337d79
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

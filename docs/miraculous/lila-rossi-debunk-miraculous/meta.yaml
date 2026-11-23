@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lila-rossi-debunk-miraculous
+category: doc
+title: Lila Rossi Debunk (Miraculous)
+alt_titles:
+- Lilla rossi debunk
+authors:
+- name: Epik70
+  reddit: Epik70
+  id: epik70
+  source: reddit-post
+series:
+- miraculous
+characters:
+- lila-rossi
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v90x5i/lilla_rossi_debunk/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 615
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42173
+      sha256: c96f2a314ec03ccabc621b0f9f9bb93a165be21412737ec7e4dca902d328041a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-s-counter-gamble-and-emotional-management-analysis
+category: doc
+title: Yuuichi's Counter-Gamble and Emotional Management Analysis (Tomodachi Game)
+alt_titles:
+- Yuuichi's Counter-Gamble/EM Analysis
+authors:
+- name: a_xakimv
+  reddit: a_xakimv
+  id: a-xakimv
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xa53g0/yuuichis_countergambleem_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 517
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1958544
+      sha256: 97950240614835e356d52aedba7ba96f5ee521842d0b736387e9b3a79af76c81
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

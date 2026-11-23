@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: magnus-carlsen-real-life
+category: doc
+title: Magnus Carlsen (Real Life)
+alt_titles:
+- Magnus Carlsen
+authors:
+- name: howisthisausername14
+  reddit: howisthisausername14
+  id: howisthisausername14
+  source: reddit-post
+series:
+- real-life
+characters:
+- magnus-carlsen
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oqnc8k/magnus_carlsen/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2175
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 9879
+      sha256: 8317521f279b0efe8d223d9f546221175776168aba38bb6d124781b744b3cbab
+    - format: jpg
+      name: image-2.jpg
+      bytes: 46913
+      sha256: 92fcc2c4e5991bd4aa5a29b5461309f3e3c2b563992b4fdba7613a11c5e8dffd
+    - format: jpg
+      name: image-3.jpg
+      bytes: 10995
+      sha256: 60ba0dfd2e36fc90288ebf9a595b4a2b8f0dfdee9b2bc8f71cf58dd5abf9cfdb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

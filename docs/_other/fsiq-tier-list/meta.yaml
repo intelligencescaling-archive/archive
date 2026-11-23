@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fsiq-tier-list
+category: doc
+title: FSIQ Tier List
+authors:
+- name: Intelligent_Dog7943
+  reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
+  source: reddit-post
+series: []
+characters: []
+tags:
+- ranking
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qikwdy/fsiq_tier_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 754
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 463692
+      sha256: f730ffc5e1d78daef2e6f220d7686f947894858ab36ee596bb732c6d73237c36
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

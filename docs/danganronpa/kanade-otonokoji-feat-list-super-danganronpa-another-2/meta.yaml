@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji-feat-list-super-danganronpa-another-2
+category: doc
+title: Kanade Otonokoji Feat List (Super Danganronpa Another 2)
+alt_titles:
+- Kanade Otonokoji feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pdwlwt/kanade_otonokoji_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2787
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 1143695
+      sha256: b673953ee28defcf46aa685f49a5453a78c56b3ec304da7b5cdd2620b5c78220
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

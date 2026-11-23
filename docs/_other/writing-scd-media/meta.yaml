@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: writing-scd-media
+category: doc
+title: Writing SCD Media
+alt_titles:
+- Writing an SCD media
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1udajl9/writing_an_scd_media/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 712
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 12773
+      sha256: 0932f09a1ebd5e13c2cdf8fe45b78937595a5c994e9844b07b7c12943dfa8880
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

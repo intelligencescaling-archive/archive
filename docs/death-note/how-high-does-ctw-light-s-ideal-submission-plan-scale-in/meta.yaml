@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-high-does-ctw-light-s-ideal-submission-plan-scale-in
+category: doc
+title: How High Does CTW Light's Ideal Submission Plan Scale in Planning Aim? (Death Note)
+alt_titles:
+- How high is this feat in planning Aim? - CTW Light
+authors:
+- name: v5mk
+  reddit: v5mk
+  id: v5mk
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k905zv/how_high_is_this_feat_in_planning_aim_ctw_light/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2532
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 245302
+      sha256: 5b42059b23932d69602d125fde013d61703d0a8e165adbea2c694e71cfcd41ed
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

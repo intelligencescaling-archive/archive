@@ -1,0 +1,121 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rebutting-a-flawed-aizen-vs-jane-video-bleach-vs-the
+category: doc
+title: Rebutting a Flawed Aizen vs Jane Video (Bleach vs The Mentalist)
+alt_titles:
+- Aizen vs Jane flawed video
+authors:
+- name: Scary_Examination887
+  reddit: Scary_Examination887
+  id: scary-examination887
+  source: reddit-post
+series:
+- bleach
+- the-mentalist
+characters:
+- sosuke-aizen
+- patrick-jane
+tags:
+- debunk
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wm6i4v/aizen_vs_jane_flawed_video/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 775
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35247
+      sha256: 935f3c86a30403c283040e12115ea913b087ad4082e1f4572a9a43769400f493
+    - format: jpg
+      name: image-2.jpg
+      bytes: 219595
+      sha256: 7eed4d5b33bf0fb5e391c97543787a6cf884e729fe6d8328d371fa6482999428
+    - format: jpg
+      name: image-3.jpg
+      bytes: 246359
+      sha256: 23ce44914321ae9f38dc31e4dc19445d2401fdb045430d0613a43350fcb689e0
+    - format: jpg
+      name: image-4.jpg
+      bytes: 270918
+      sha256: 0813cfcaaf9112325473d37da6369e0516556138344ada7188f8a1c4560446f5
+    - format: jpg
+      name: image-5.jpg
+      bytes: 255869
+      sha256: 6b45343eeb116c2eea57754fe54c5f5f80780f89b554c327c4c5e6842911bca3
+    - format: jpg
+      name: image-6.jpg
+      bytes: 276759
+      sha256: 9b78646fc93e93be3d7e45a5fb4f6da2f14c9b977b972fb4172342fcc6134be5
+    - format: jpg
+      name: image-7.jpg
+      bytes: 229513
+      sha256: c1226dd4d8e31283902509088b99a00a35a9af01cad7ae01b66f2d34c6acc3cb
+    - format: jpg
+      name: image-8.jpg
+      bytes: 316914
+      sha256: a871bbb5cc8149054a7705b8ba1009c8b4adda2c67f021e2e084ea38b02d4d2d
+    - format: jpg
+      name: image-9.jpg
+      bytes: 300586
+      sha256: 6589e9feb331ac32d401aff3ba1a77a383105b25443ec49f09358301d73f81cc
+    - format: jpg
+      name: image-10.jpg
+      bytes: 252325
+      sha256: 1c7dd01ae781669f01b211ca75094e58a370474387876d3cd0964b575d4b57fe
+    - format: jpg
+      name: image-11.jpg
+      bytes: 233716
+      sha256: 9b3dd5302fd3042cfe027ad54b05d6dbfdd8314cb1bf444f9f3f2df05abdda58
+    - format: jpg
+      name: image-12.jpg
+      bytes: 247437
+      sha256: 51d7d44f4c3c466fb2d6edb96502e84cb5fe544387d2736c8785507b1fe40a7b
+    - format: jpg
+      name: image-13.jpg
+      bytes: 217855
+      sha256: 1b4fbe16caf943b889f532a246c7088b86ed098a6406c5d52dbf9654c8049f78
+    - format: jpg
+      name: image-14.jpg
+      bytes: 279070
+      sha256: 11726e7d292e27cd5fa0a12f61a21f2812b93f452f96459669d488205ade772b
+    - format: jpg
+      name: image-15.jpg
+      bytes: 252346
+      sha256: 54955ee98ede5ae707dfa8a55fc8682e3a9fa6eaaa3fc2a3c6be87432c58617c
+    - format: jpg
+      name: image-16.jpg
+      bytes: 311690
+      sha256: 2a0b05af6ca3ff07c00b9f847090b24a43336cc1558ad3602399c0789e3a893b
+    - format: jpg
+      name: image-17.jpg
+      bytes: 221626
+      sha256: 4e7c1b5a96439744cbf091f02e6056a21b60d37d19a9f5787648bc85807f88d3
+    - format: jpg
+      name: image-18.jpg
+      bytes: 375379
+      sha256: 57ab7f2699f2d13a7cdc0e9165a6287e657a330eac4e067eb01b68374aaedd45
+    - format: jpg
+      name: image-19.jpg
+      bytes: 325106
+      sha256: 6e6f447c7b712073a7f3fa1dc2c9058decdd9ea7be5e31cc794d8bfe49855f95
+    - format: jpg
+      name: image-20.jpg
+      bytes: 311834
+      sha256: b5fd4fbcb5560fd3ec47f9c282c763c54c7cbc2d16650d9cec58b56a80815bee
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

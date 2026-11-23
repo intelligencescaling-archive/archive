@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: alastor-s-freedom-plan-explanation-hazbin-hotel
+category: doc
+title: Alastor's Freedom Plan Explanation (Hazbin Hotel)
+authors:
+- name: What-A-Burden
+  reddit: What-A-Burden
+  id: what-a-burden
+  source: reddit-post
+series:
+- hazbin-hotel
+characters:
+- alastor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tl8mfn/alastors_freedom_plan_explanation_hazbin_hotel/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1719
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 398654
+      sha256: 21092047479516f9ffb14c59c04bbcf8bac7361a918d3d538db47cbc22a914ac
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

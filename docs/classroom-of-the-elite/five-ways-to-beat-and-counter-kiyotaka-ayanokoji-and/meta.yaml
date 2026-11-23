@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: five-ways-to-beat-and-counter-kiyotaka-ayanokoji-and
+category: doc
+title: Five Ways to Beat and Counter Kiyotaka Ayanokoji (and Characters Who Can)
+alt_titles:
+- Five ways to beat & counter  kiyotaka ayanokoji and characters who can
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wxdey7/five_ways_to_beat_counter_kiyotaka_ayanokoji_and/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1041
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 921249
+      sha256: 4cdf2d5ca63763d088c17149eced18c779674db84a371fd02901d1b3d318f6da
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

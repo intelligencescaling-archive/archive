@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: frank-abagnale-jr-s-airport-escape-plan-catch-me-if-you-can
+category: doc
+title: Frank Abagnale Jr.'s Airport Escape Plan (Catch Me If You Can)
+alt_titles:
+- An analysis of Frank Abagnale jr's Airport Escape plan from 'Catch Me If You Can'
+authors:
+- name: TypicalAnomaly101
+  reddit: TypicalAnomaly101
+  id: typicalanomaly101
+  source: reddit-post
+series:
+- catch-me-if-you-can
+characters:
+- frank-abagnale-jr
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1iurkzz/an_analysis_of_frank_abagnale_jrs_airport_escape/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 741
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 50771
+      sha256: a542d0aa1825dcf2db21f4d2dc0e5b643472b6346951232a1205b52009e7190a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

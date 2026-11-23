@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: who-takes-overall-ac-jason-voorhees-stress-tolerance-feat
+category: doc
+title: Who Takes Overall AC? Jason Voorhees' Stress Tolerance Feat (Friday the 13th)
+alt_titles:
+- Who takes overall AC?
+authors:
+- name: Few-Masterpiece-3261
+  reddit: Few-Masterpiece-3261
+  id: few-masterpiece-3261
+  source: reddit-post
+series:
+- friday-the-13th
+characters:
+- jason-voorhees
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1utvtao/who_takes_overall_ac/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 898
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

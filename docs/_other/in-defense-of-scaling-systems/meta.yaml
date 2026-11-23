@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: in-defense-of-scaling-systems
+category: doc
+title: In Defense of Scaling Systems
+alt_titles:
+- In defense of scaling systems.
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w36ba5/in_defense_of_scaling_systems/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1360
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

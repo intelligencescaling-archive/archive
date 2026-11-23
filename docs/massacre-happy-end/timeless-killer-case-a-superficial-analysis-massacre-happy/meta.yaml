@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: timeless-killer-case-a-superficial-analysis-massacre-happy
+category: doc
+title: 'Timeless Killer Case: A Superficial Analysis (Massacre Happy End)'
+alt_titles:
+- Timeless Killer Case | Superficial Analysis
+authors:
+- name: No_Strawberry5397
+  reddit: No_Strawberry5397
+  id: no-strawberry5397
+  source: reddit-post
+series:
+- massacre-happy-end
+characters:
+- makoto-kusakabe
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x40v61/timeless_killer_case_superficial_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 589
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42679
+      sha256: ad9697dbcefee19cfc0e51a15574a19611cb3937bca5ab63ea5b04e8fc0dc2ba
+    - format: jpg
+      name: image-2.jpg
+      bytes: 109330
+      sha256: 04264b974722859c686a7503da12a1840ca5d5fa19234d0174aa2b9857533049
+    - format: jpg
+      name: image-3.jpg
+      bytes: 26320
+      sha256: 06f9df218e5fc11e02113b2682625f9bfbe8538b4dfcee727fe2b30e30f6dfbd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

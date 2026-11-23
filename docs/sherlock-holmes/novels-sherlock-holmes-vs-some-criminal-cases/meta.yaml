@@ -1,0 +1,72 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: novels-sherlock-holmes-vs-some-criminal-cases
+category: doc
+title: Novels Sherlock Holmes vs Some Criminal Cases
+alt_titles:
+- Novels Sherlock vs some criminal cases
+authors:
+- name: Intelligent_Dog7943
+  reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
+  source: reddit-post
+series:
+- sherlock-holmes
+- dexter
+- breaking-bad-better-call-saul
+- death-note
+- saw
+- hitman
+characters:
+- sherlock-holmes
+- dexter-morgan
+- walter-white
+- light-yagami
+- john-kramer
+- agent-47
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qkzcm5/novels_sherlock_vs_some_criminal_cases/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 791
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 102538
+      sha256: f93ccfff9b9882f22da9763655c62bbfc8531fa395c347609485bdc365b95383
+    - format: jpg
+      name: image-2.jpg
+      bytes: 21089
+      sha256: 2c8bb07ca9f2d6c731e38a516db666fe1b4df158d6cd0dfc5c423c2f8329b311
+    - format: jpg
+      name: image-3.jpg
+      bytes: 792625
+      sha256: fcce248844fbe3c3b86664d245017b4719462148f4a7feb02ba80507c757f282
+    - format: jpg
+      name: image-4.jpg
+      bytes: 41687
+      sha256: 2524f0b5715115eaca74ec096182964eb7402a369486784acce3dfc7effad543
+    - format: jpg
+      name: image-5.jpg
+      bytes: 65429
+      sha256: a399ea03a1c8d96c380ee3585deedb1d4529b2b414dc1339ee06e0c075dfb2c1
+    - format: jpg
+      name: image-6.jpg
+      bytes: 52733
+      sha256: 9a4deafc31607bd730e338bacba6889a75d4a7958f3556fa994a3f1afc4c7f22
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

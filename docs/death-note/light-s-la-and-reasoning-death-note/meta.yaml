@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-s-la-and-reasoning-death-note
+category: doc
+title: Light's LA and Reasoning (Death Note)
+alt_titles:
+- Light's LA and Reasoning
+authors:
+- name: Iopt4ChikonWig
+  reddit: Iopt4ChikonWig
+  id: iopt4chikonwig
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o8pkl0/lights_la_and_reasoning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 683
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 82700
+      sha256: 40ed75d9427e766ead38608cc87c68d0a5b3bb16b8027a559b8832c404fc1a91
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

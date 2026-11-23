@@ -1,0 +1,74 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: senku-s-fsiq-feats-dr-stone
+category: doc
+title: Senku's FSIQ Feats (Dr. Stone)
+alt_titles:
+- Does ur GOAT beat Senku in FSIQ??
+authors:
+- name: Murky_Possibility655
+  reddit: Murky_Possibility655
+  id: murky-possibility655
+  source: reddit-post
+series:
+- dr-stone
+characters:
+- senku-ishigami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vluvbd/does_ur_goat_beat_senku_in_fsiq/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 546
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 91966
+      sha256: 1c514d8bd605507ff0d9b66cd274c35c7d0349fc2a38162fb51848509913b46e
+    - format: png
+      name: image-2.png
+      bytes: 441281
+      sha256: c92fb5996f50c04dabecf69e5cb342f5f4f7f20432db6fd0e1e3c49fae19cd76
+    - format: png
+      name: image-3.png
+      bytes: 252183
+      sha256: 9d1345abce01ef5c002e4a549cff3c07b0e7c52793f102d7c7468e5f65679a89
+    - format: png
+      name: image-4.png
+      bytes: 201074
+      sha256: b1a43bd1db2bdba44500f2f392156c8c4a5d649c14b47072afd246b469f2d271
+    - format: png
+      name: image-5.png
+      bytes: 350180
+      sha256: 7f28888943ca97ec79a885194b70eadae72900c33cfcfa41f42ae29ba06e5317
+    - format: png
+      name: image-6.png
+      bytes: 293259
+      sha256: 4ad7f7a32cc54d5411994bdc0a2a2db263dd053cbf11497c69229301af54a20d
+    - format: png
+      name: image-7.png
+      bytes: 309690
+      sha256: edc816b293d90902d25135542bc1e74a8b61798714ae5b8a567d69c8319953ec
+    - format: png
+      name: image-8.png
+      bytes: 315888
+      sha256: f15d61b7efa27a7c9619b3e063f13673938d16ac94cd0319da0838c458f522d9
+    - format: png
+      name: image-9.png
+      bytes: 340565
+      sha256: ca4f6052d3d74b45bf3e7bf0af01ecabc94ca273f83ce8ba158d606ef31eccb0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

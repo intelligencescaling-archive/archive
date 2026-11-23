@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-house-of-silk-massively-buffs-canon-sherlock-updated
+category: doc
+title: The House of Silk Massively Buffs Canon Sherlock (Updated Kudo vs Sherlock)
+alt_titles:
+- The House of Silk massively buffs canon Sherlock (and updating an old take)
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- case-closed
+- sherlock-holmes
+characters:
+- conan-edogawa
+- sherlock-holmes
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x3upsi/the_house_of_silk_massively_buffs_canon_sherlock/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 602
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 21635
+      sha256: 3687e7803f6f49347a7068c6fa9ab8a1800161de8fd6d5c984a5cf5bd65e6c3a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

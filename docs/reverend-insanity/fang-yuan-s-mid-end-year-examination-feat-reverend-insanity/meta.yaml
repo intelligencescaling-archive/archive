@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-s-mid-end-year-examination-feat-reverend-insanity
+category: doc
+title: Fang Yuan's Mid/End Year Examination Feat (Reverend Insanity)
+alt_titles:
+- Fang Yuan's Mid/End Year Examination Feat
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wf75bj/fang_yuans_midend_year_examination_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 573
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 33325
+      sha256: bba2772a0b8253a0dc482d693c0a1a328b38d5668b3889a0e3367f7a543faead
+    - format: jpg
+      name: image-2.jpg
+      bytes: 151247
+      sha256: a04efea182ad1099bb32c03b0ecee584d4835d3ad12d3ec3f57f19f92eb21d5a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

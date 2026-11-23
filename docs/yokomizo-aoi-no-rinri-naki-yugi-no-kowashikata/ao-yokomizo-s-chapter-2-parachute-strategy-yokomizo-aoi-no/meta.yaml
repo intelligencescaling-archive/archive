@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ao-yokomizo-s-chapter-2-parachute-strategy-yokomizo-aoi-no
+category: doc
+title: Ao Yokomizo's Chapter 2 Parachute Strategy (Yokomizo Aoi no Rinri Naki Yugi no Kowashikata)
+alt_titles:
+- Ao Yokomizo chapter 2 strategy
+authors:
+- name: Top_Examination511
+  reddit: Top_Examination511
+  id: top-examination511
+  source: reddit-post
+series:
+- yokomizo-aoi-no-rinri-naki-yugi-no-kowashikata
+characters:
+- ao-yokomizo
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q33mvo/ao_yokomizo_chapter_2_strategy/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1222
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

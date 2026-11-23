@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: venus-from-m4tchb0x-mystery-is-just-a-lucky-improvisation
+category: doc
+title: Venus from M4tchb0x Mystery Is Just a Lucky Improvisation Merchant
+alt_titles:
+- Venus from M4tchb0x Mystery is just adaptive improvisation merchant and is lucky
+authors:
+- name: Vast_Debate_4387
+  reddit: Vast_Debate_4387
+  id: vast-debate-4387
+  source: reddit-post
+series:
+- m4tchb0x-mystery
+characters:
+- venus-m4tchb0x-mystery
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1piyri8/venus_from_m4tchb0x_mystery_is_just_adaptive/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 842
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 97234
+      sha256: 76c183208853d3761499ca7f44dfa96c949a5dce89a359d713a2e1c9ec402c46
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

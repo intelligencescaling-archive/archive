@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-s-confession-tape-analysis-breaking-bad
+category: doc
+title: Walter White's Confession Tape Analysis (Breaking Bad)
+alt_titles:
+- Walter’s Confession Tape Analysis
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rctdk7/walters_confession_tape_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1056
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 442968
+      sha256: ca967c2f07dbbeefe66f55b679d8c85fff2a8e8b529fd486072751b0cd4f115f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

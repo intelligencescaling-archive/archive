@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: norman-osborn-s-scheme-the-spectacular-spider-man
+category: doc
+title: Norman Osborn's Scheme (The Spectacular Spider-Man)
+alt_titles:
+- Norman Osborn's Scheme from Spectacular Spiderman
+authors:
+- name: Wild_Review_4177
+  reddit: Wild_Review_4177
+  id: wild-review-4177
+  source: reddit-post
+series:
+- marvel
+characters:
+- norman-osborn
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1web696/norman_osborns_scheme_from_spectacular_spiderman/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 959
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35472
+      sha256: 70d99d75a7afd6d46bdd90210374f74da0bbe92a3c36277af593d69074f76d5d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

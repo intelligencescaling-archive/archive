@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-brown-jacket-feat-parker-the-outfit
+category: doc
+title: 'The Brown Jacket Feat (Parker: The Outfit)'
+alt_titles:
+- Neat Psychological Feat From Parker
+authors:
+- name: Novel-Arrival-677
+  reddit: Novel-Arrival-677
+  id: novel-arrival-677
+  source: reddit-post
+series:
+- parker
+characters:
+- kobler-parker
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xutont/neat_psychological_feat_from_parker/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 895
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-plan-to-kill-nobody-no-one-doctor-who-a-death
+category: doc
+title: 'The Doctor''s Plan to Kill Nobody No-One (Doctor Who: A Death in the Family)'
+alt_titles:
+- The doctor's plan to kill nobody no-one (doctor who , a death in the family)
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k4m1iy/the_doctors_plan_to_kill_nobody_noone_doctor_who/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1195
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 121409
+      sha256: 73b4b590f390fe2e899e0a81f1cda29a21ef2b955f1b42334e6fcc77f4351746
+    - format: jpg
+      name: image-2.jpg
+      bytes: 83660
+      sha256: ecb1d6ef815fe47116659dfb9650d6adb3365506a5205ce06263a8c7749b9fcc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

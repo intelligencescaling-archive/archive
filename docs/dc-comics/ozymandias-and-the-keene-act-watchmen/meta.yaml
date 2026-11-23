@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ozymandias-and-the-keene-act-watchmen
+category: doc
+title: Ozymandias and the Keene Act (Watchmen)
+alt_titles:
+- 'ozymandias: The Keene act'
+authors:
+- name: East-Safety-8656
+  reddit: East-Safety-8656
+  id: east-safety-8656
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- ozymandias
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qg7hwo/ozymandias_the_keene_act/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 809
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 96285
+      sha256: 348f57863058db9ea487213aa9815ebdd8d064d136696400ffd27587ab5698f6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

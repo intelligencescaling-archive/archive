@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-a-really-good-liar-and-deceiver-but-the-most
+category: doc
+title: 'Light Yagami: A Really Good Liar and Deceiver, but the Most Overrated Manipulator'
+alt_titles:
+- LIGHT YAGAMI - REALLY GOOD LIAR AND DECEIVER BUT THE MOST OVERRATED MANIPULATOR TBH.
+authors:
+- name: Glittering-Middle430
+  reddit: Glittering-Middle430
+  id: glittering-middle430
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qohw9c/light_yagami_really_good_liar_and_deceiver_but/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 584
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 156274
+      sha256: 7b0021fa1785c6b03789d0ed9e16955a00c2bb84ae8caaa4cc580e2a8314c421
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

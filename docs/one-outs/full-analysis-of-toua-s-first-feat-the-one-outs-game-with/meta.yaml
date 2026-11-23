@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: full-analysis-of-toua-s-first-feat-the-one-outs-game-with
+category: doc
+title: 'Full Analysis of Toua''s First Feat: The One Outs Game with Nakane (One Outs)'
+alt_titles:
+- FULL ANALYSIS OF TOUA'S FIRST FEAT IN THE SERIES (ANIME AND MANGA) - ,,THE ONE OUTS GAME WITH NAKANE"
+authors:
+- name: Any_Departure9839
+  reddit: Any_Departure9839
+  id: any-departure9839
+  source: reddit-post
+series:
+- one-outs
+characters:
+- toua-tokuchi
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sakb13/full_analysis_of_touas_first_feat_in_the_series/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1965
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 29402
+      sha256: cf134f2807cd37c22627cdc3e801ca8557fe61c69e18f1e38ebd434d61307a0a
+    - format: jpg
+      name: image-2.jpg
+      bytes: 55876
+      sha256: c414889516c07c7dbb5ed55f1d12f56a8941fc6e2ee4a9e7063cc4fff98971ac
+    - format: jpg
+      name: image-3.jpg
+      bytes: 72429
+      sha256: ffdc58269b10f8f93d418d68784e05dc2edfdbd1e160012bb4d72d6a4b149bb1
+    - format: jpg
+      name: image-4.jpg
+      bytes: 47652
+      sha256: 55397c23999cb80b712262092830d6d495a95c8725bd3b69fdd61f3f442592fa
+    - format: jpg
+      name: image-5.jpg
+      bytes: 67843
+      sha256: 635ef5166fb553772696286cce51d47e1ed3c99da0be8eba195d310e2cbac44a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

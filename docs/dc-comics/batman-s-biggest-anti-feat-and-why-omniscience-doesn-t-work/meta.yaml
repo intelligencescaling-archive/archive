@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: batman-s-biggest-anti-feat-and-why-omniscience-doesn-t-work
+category: doc
+title: Batman's Biggest Anti-Feat (and Why Omniscience Doesn't Work in SCD)
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- batman
+tags:
+- debunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1faedrk/batmans_biggest_antifeat_and_why_omniscience/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 624
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

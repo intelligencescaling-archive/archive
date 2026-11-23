@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-emily-s-meta-trap-on-william-afton-fnaf
+category: doc
+title: Henry Emily's Meta-Trap on William Afton (FNAF)
+alt_titles:
+- Henry Emily meta-trap on William Afton (FNAF)
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+- william-afton
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pi2b4e/henry_emily_metatrap_on_william_afton_fnaf/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 560
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 10239
+      sha256: c97a0238abc6ab9e1bdbf93404a0bc324d03c6df334133a87accf9db5581778d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

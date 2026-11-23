@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-liar-game-is-a-masterpiece-in-writing-outsmarting
+category: doc
+title: Why Liar Game Is a Masterpiece in Writing Outsmarting
+alt_titles:
+- Why Liar Game is a masterpiece in Writing Outsmarting.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- writing
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xns2pq/why_liar_game_is_a_masterpiece_in_writing/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 972
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 112309
+      sha256: 1eb5ea05d08dd40be66e7c40d93c97dcb43824e6ec0ae75e967f971359d69c73
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

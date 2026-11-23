@@ -1,0 +1,160 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-mist-according-to
+category: story
+title: The Mist According To
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Chapter 1: A Dream'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qd9hgp/fanfic_of_the_sub_returns_the_mist_according_to/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1328
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 244250
+      sha256: 41f08f86c1c0b4390a9a911e62afede3e82154662a244d47b7d5a374f7086c0d
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Chapter 2: The Vagueness of Early Days'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qf41bc/fanfic_of_the_sub_the_mist_according_to_pt_2/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2377
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 86052
+      sha256: 3899d41d7573f46291a30a9851f9f877c5c0be91b6e7ee0818a90300f7734b6d
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Chapter 3: Night''s Way'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qhrdqi/fanfic_of_the_sub_the_mist_according_to_pt_3/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 803
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 70739
+      sha256: 777c469cd5bbb302b04657e18ab5c75e222823c9ab29ca5841fbcdaa5eb693a6
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Chapter 4: The Hazed, Confused Days'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qlct2l/fanfic_of_the_sub_the_mist_according_to_pt_4/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1400
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 79211
+      sha256: d24b39ce933d49977841adf8cfdfc2fa62f977b5b77209ca9e40405bc039ef42
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'Chapter 5: Departure'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qtkgdi/fanfic_of_the_sub_the_mist_according_to_part_5/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1087
+    files: []
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'Chapter 6: Honestly'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qx7sre/fanfic_of_the_sub_the_mist_according_to_pt_6/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1284
+    files: []
+    text:
+      file: text-6.txt
+      method: reddit-text
+- title: 'Chapter 7: This and No Sense'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r2k0vu/fanfic_of_the_sub_the_mist_according_to_pt_7/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1236
+    files: []
+    text:
+      file: text-7.txt
+      method: reddit-text
+- title: 'Chapter 8: The Game, the Face, the Reasons'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r8pu0l/fanfic_of_the_sub_the_mist_according_to_pt_8_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1700
+    files: []
+    text:
+      file: text-8.txt
+      method: reddit-text
+- title: 'Chapter 9: Finale Part One, Remember What You Are'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rd5qv2/fanfic_of_the_sub_the_mist_according_to_pt_9/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1746
+    files: []
+    text:
+      file: text-9.txt
+      method: reddit-text
+- title: 'Chapter 10: Grand Finale'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rgtmlg/the_final_fanfic_of_the_subreddit_the_long/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2337
+    files: []
+    text:
+      file: text-10.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

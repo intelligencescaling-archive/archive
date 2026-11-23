@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-s-culling-game-social-engineering-short-analysis
+category: doc
+title: 'Kenjaku''s Culling Game Social Engineering: Short Analysis (Jujutsu Kaisen)'
+alt_titles:
+- kenjaku's culling game social enginnering short analysis
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tlkb2i/kenjakus_culling_game_social_enginnering_short/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1621
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 688912
+      sha256: e230f33a6d11827dbd7037556886b912a654352ed843ad2e1eb67cd8e9bb5ee8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

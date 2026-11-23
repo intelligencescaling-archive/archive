@@ -1,0 +1,118 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-boyfriend-scd-needs-rentarou-aijou-s-feats-the-100
+category: doc
+title: 'The Boyfriend SCD Needs: Rentarou Aijou''s Feats (The 100 Girlfriends Who Really Love You)'
+alt_titles:
+- The Boyfriend SCD Needs!
+authors:
+- name: Proud_Magazine_5588
+  reddit: Proud_Magazine_5588
+  id: proud-magazine-5588
+  source: reddit-post
+series:
+- the-100-girlfriends
+characters:
+- rentarou-aijou
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xui7n6/the_boyfriend_scd_needs/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 746
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 186644
+      sha256: cccbac0b38f76564748681aa1dcc3343cfcc8c8be2c2d62bf24e8a4280eee831
+    - format: jpg
+      name: image-2.jpg
+      bytes: 150444
+      sha256: 6dd526373211a48e311ab74f6c1cfedd68464d79359264c5d2b5cc83d399cfff
+    - format: jpg
+      name: image-3.jpg
+      bytes: 152644
+      sha256: e4f20b02249a71d9c65abd95ed1f6215be37e781d1aec6edf371994601d0d582
+    - format: jpg
+      name: image-4.jpg
+      bytes: 477596
+      sha256: 7c980f6a357e881543372320882dfd9c26cd4b3b592bde4b9e475423ec5782d3
+    - format: jpg
+      name: image-5.jpg
+      bytes: 465988
+      sha256: 40b79032e8c42fe842320b38d5e8adf3541fff252b692b5828a43cc10bc7d7f8
+    - format: jpg
+      name: image-6.jpg
+      bytes: 474213
+      sha256: 216f7612a962f72b5be2c0ec0b3e593df63aac51689a82447b15e7516e53e6d9
+    - format: jpg
+      name: image-7.jpg
+      bytes: 427668
+      sha256: c89d3f448c8e10d8278c6ca10614c61562db83b0c778650e989683f68ff534f1
+    - format: jpg
+      name: image-8.jpg
+      bytes: 507979
+      sha256: 48cff44f26b77b52aac3cf2b0fc005189ce214ef464d8417b3347b65ef23158b
+    - format: jpg
+      name: image-9.jpg
+      bytes: 410475
+      sha256: 676e3f8bcc878ffe3c4b26eee45f8afcaed2187498a43cc933703d9bc58a7efa
+    - format: jpg
+      name: image-10.jpg
+      bytes: 416437
+      sha256: ae4b485b500b16ecf645f4f88c6e3333ce9ea91e140905c230c5212498a08835
+    - format: jpg
+      name: image-11.jpg
+      bytes: 498685
+      sha256: 510611db6465aac6382cf21d74337103732fbf6be4cc4f081187f65e23f4ad40
+    - format: jpg
+      name: image-12.jpg
+      bytes: 315648
+      sha256: 02262b4f2cdd4862116706edaeaef1eb91b192ab18cedabfd837d857c33a2246
+    - format: jpg
+      name: image-13.jpg
+      bytes: 203171
+      sha256: 072710634c4569e1354ee8aa90cb47bda730cc663e10ad43c357a4cafd1ae7d2
+    - format: jpg
+      name: image-14.jpg
+      bytes: 454469
+      sha256: c78848bfcc2293c4c8b3bd13f26b62de89793552436043209545c6a2e1c3844b
+    - format: jpg
+      name: image-15.jpg
+      bytes: 459993
+      sha256: 8039249b5393d4d80d0c1838a7687fb65a12bac5b424f2b09064b67cdc1300ca
+    - format: jpg
+      name: image-16.jpg
+      bytes: 542352
+      sha256: 240031d9d9ccb6bccf4fdab203fc385119b2871cc75295fabb7b27ce39497de4
+    - format: jpg
+      name: image-17.jpg
+      bytes: 394338
+      sha256: 64783fadc8798469198965ccd78ff2585111e96e3057e0311e66f3fed1737ba2
+    - format: jpg
+      name: image-18.jpg
+      bytes: 487355
+      sha256: 1adf79b3505add9de8bd02ab9c094a5d78b69dc96b16818fbb72953934fd052a
+    - format: jpg
+      name: image-19.jpg
+      bytes: 523269
+      sha256: 0631bfc3c24606e89615f9a0d3d4be376b2077ff59efa5b6d6a766df8b0ceb77
+    - format: jpg
+      name: image-20.jpg
+      bytes: 194522
+      sha256: b8e2bdc122d83539b336d10f7a2b3b3f13d8782e6d8adfc2411086e82b60106e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

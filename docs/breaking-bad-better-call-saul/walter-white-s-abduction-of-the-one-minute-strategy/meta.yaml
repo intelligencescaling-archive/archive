@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-s-abduction-of-the-one-minute-strategy
+category: doc
+title: Walter White's Abduction of the One Minute Strategy (Breaking Bad)
+alt_titles:
+- Walter White’s abduction of the One Minute strategy
+authors:
+- name: Reddest_Velvet6
+  reddit: Reddest_Velvet6
+  id: velvet
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qdc2gf/walter_whites_abduction_of_the_one_minute_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 987
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 115607
+      sha256: fa407a2273f10ab85a01e68b4a1c1844dd3cd69f92b57149390662ab29fe2160
+    - format: jpg
+      name: image-2.jpg
+      bytes: 106976
+      sha256: 64d9b8636d423e3cf99daa067ec806dccf04d759066373863d961ef29403c90f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

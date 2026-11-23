@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-composite-vs-the-kanade-case-danganronpa-sdra2
+category: doc
+title: Hannibal Composite vs the Kanade Case (Danganronpa SDRA2)
+alt_titles:
+- Hannibal composite VS Kanade Case
+authors:
+- name: Particular_Inside975
+  reddit: Particular_Inside975
+  id: particular-inside975
+  source: reddit-post
+series:
+- hannibal
+- danganronpa
+characters:
+- hannibal-lecter
+- kanade-otonokoji
+tags:
+- matchup
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rev2v8/hannibal_composite_vs_kanade_case/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2156
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 76082
+      sha256: dda7b4e8b622310fc979d050a2b02a67d5201085623c4686c7fe99ca395d4c88
+    - format: jpg
+      name: image-2.jpg
+      bytes: 39578
+      sha256: ef10eb000bed1607627b718da0452ad7c8cd5983e6218e3880e9015b02aca12f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

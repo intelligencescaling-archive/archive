@@ -1,0 +1,67 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explaining-senku-s-counting-feat-and-establishing-parallel
+category: doc
+title: Explaining Senku's Counting Feat and Establishing Parallel Processing (Dr. Stone)
+alt_titles:
+- Explaining Senku's Counting feat, and establishing Parallel Processing
+authors:
+- name: Glonk_the_Serf
+  reddit: Glonk_the_Serf
+  id: glonk-the-serf
+  source: reddit-post
+series:
+- dr-stone
+characters:
+- senku-ishigami
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mdt5c7/explaining_senkus_counting_feat_and_establishing/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 657
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 53551
+      sha256: 0ff8a4603d489a13402039d10b9bfed7d64449149f419770d90a07fa8e2d10c8
+    - format: png
+      name: image-2.png
+      bytes: 2066243
+      sha256: 87f54e5bc5492b968fb3ddf619cb69045bd0b3194fa9c746698417ce461b4497
+    - format: png
+      name: image-3.png
+      bytes: 581613
+      sha256: 663bc5ba12caef291eabe93df130beed278f29009797d7ffd44526519c73c4d6
+    - format: jpg
+      name: image-4.jpg
+      bytes: 73323
+      sha256: 4f398b62d11e2f9fd8e1d31fea92d794f8f14d6953c36e65cff12d7526414c0a
+    - format: jpg
+      name: image-5.jpg
+      bytes: 69348
+      sha256: 944a59321280c3718841a65b62e075bb384855770953ca6e7fce4e8d6e89d556
+    - format: png
+      name: image-6.png
+      bytes: 308085
+      sha256: aca3dfa11ad157fe810c042d98621cd31f5627608a497c1daa990f3ebbd8ca58
+    - format: jpg
+      name: image-7.jpg
+      bytes: 122656
+      sha256: cb4df599376b5dd1cf7af097ddbf773ae11837f43c3f88e562dc0c8576a8fc17
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

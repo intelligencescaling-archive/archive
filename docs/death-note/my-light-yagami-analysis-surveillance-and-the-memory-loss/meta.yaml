@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-light-yagami-analysis-surveillance-and-the-memory-loss
+category: doc
+title: 'My Light Yagami Analysis: Surveillance and the Memory Loss Plan (Death Note)'
+alt_titles:
+- My Light Yagami analysis
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ulwg90/my_light_yagami_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 587
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 96644
+      sha256: 3eb242285ebd3737ce1ef3e0b20c85dd2bada2f9999f6b3e61a17ba19478a058
+    - format: jpg
+      name: image-2.jpg
+      bytes: 68771
+      sha256: 71c55dd7f6b509feb661c7934e5ea7060135db81b7df12f3d95652b15796d9a2
+    - format: jpg
+      name: image-3.jpg
+      bytes: 37127
+      sha256: 3745b74eed331171c8441dba2af55c375f4a13c80971f57e17ef8ab0accb327b
+    - format: jpg
+      name: image-4.jpg
+      bytes: 31307
+      sha256: dd0252c0e027de045661ea8f4bf37b0b3f38f60fe3ea5dedf31ca2f59dedfdae
+    - format: jpg
+      name: image-5.jpg
+      bytes: 166228
+      sha256: 60966e202ffc99456212d308a2a01f6653d80fc07301b41977c389f284744b03
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

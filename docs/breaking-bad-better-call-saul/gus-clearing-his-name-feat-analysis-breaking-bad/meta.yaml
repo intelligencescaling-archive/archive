@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gus-clearing-his-name-feat-analysis-breaking-bad
+category: doc
+title: Gus Clearing His Name Feat Analysis (Breaking Bad)
+alt_titles:
+- Gus clearing his name feat analysis
+authors:
+- name: Sir_FaceIess
+  reddit: Sir_FaceIess
+  id: sir-faceiess
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- gus-fring
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qmmo46/gus_clearing_his_name_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1473
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 7170
+      sha256: 4773ad37a9b4048f26e1099a0082bdd557c0fe18d2deb472ce5c13ff7535b721
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

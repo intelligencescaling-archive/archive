@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kaito-kid-s-underrated-theory-of-mind-foresight-and
+category: doc
+title: Kaito Kid's Underrated Theory of Mind, Foresight and Reasoning Feat (The Golden Eye, Magic Kaito)
+alt_titles:
+- Analysis of Kaito Kid's underrated Theory of Mind, Foresight and Reasoning feat (The Golden Eye)
+authors:
+- name: Murky_Possibility655
+  reddit: Murky_Possibility655
+  id: murky-possibility655
+  source: reddit-post
+series:
+- magic-kaito
+characters:
+- kaito-kuroba
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vyqz02/analysis_of_kaito_kids_underrated_theory_of_mind/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1072
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 22222
+      sha256: f0d3e5b967d08c92a27dc81a54c82284e80cc42f4ab6e0eb46d0d0795db6b7fd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

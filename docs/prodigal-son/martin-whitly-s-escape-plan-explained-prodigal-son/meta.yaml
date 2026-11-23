@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: martin-whitly-s-escape-plan-explained-prodigal-son
+category: doc
+title: Martin Whitly's Escape Plan Explained (Prodigal Son)
+alt_titles:
+- Martin Whitly escape plan explanation
+authors:
+- name: Communist_Crusaders
+  reddit: Communist_Crusaders
+  id: communist-crusaders
+  source: reddit-post
+series:
+- prodigal-son
+characters:
+- martin-whitly
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lyffud/martin_whitly_escape_plan_explanation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 663
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 756869
+      sha256: 25480e874ba7f5bd47a3df22a855aa6179a5c6b2f6ffc68a4ea9e65a40a59177
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

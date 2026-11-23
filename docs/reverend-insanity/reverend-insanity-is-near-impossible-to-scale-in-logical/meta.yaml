@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: reverend-insanity-is-near-impossible-to-scale-in-logical
+category: doc
+title: Reverend Insanity Is Near Impossible to Scale in Logical Scaling
+alt_titles:
+- Reverend insanity is near to impossible to scale in logical scaling.
+authors:
+- name: Notknowninhere
+  reddit: Notknowninhere
+  id: notknowninhere
+  source: reddit-post
+series:
+- reverend-insanity
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nonpct/reverend_insanity_is_near_to_impossible_to_scale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 728
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 26953
+      sha256: 9f4003e3a20f3b20d7305d5615f46afc7a2e81e3c1d52f96429cff570b440df6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

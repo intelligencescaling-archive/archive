@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuichi-taking-on-kokorogi-is-as-impressive-as-ayanokoji
+category: doc
+title: Yuichi Taking On Kokorogi Is As Impressive As Ayanokoji Taking On Kushida
+alt_titles:
+- Yuichi taking on Kokorogi is just as, if not More impressive, than Ayanokoji taking on Kushida
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- tomodachi-game
+- classroom-of-the-elite
+characters:
+- yuuichi-katagiri
+- kiyotaka-ayanokoji
+- shiho-kokorogi
+- kikyo-kushida
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oc24q0/yuichi_taking_on_kokorogi_is_just_as_if_not_more/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 647
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

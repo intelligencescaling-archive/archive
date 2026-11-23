@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ryuen-did-not-see-through-horikita-in-y1v6-debunk-of-the-x
+category: doc
+title: 'Ryuen Did Not See Through Horikita in Y1V6: Debunk of the X Contract Theory, by Ganve (Classroom of the Elite)'
+alt_titles:
+- Nope, ryuen did not see Trough horikita in y1v6,debunk of the x contract theory by ganve.
+authors:
+- name: Ganve
+  id: ganve
+  source: doc-text
+shared_by:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+- ryuen-kakeru
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v82pmx/nope_ryuen_did_not_see_trough_horikita_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1824
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 65206
+      sha256: 6155f2f5992b7fd64002a90ba4a109cadc0d21fdf7659e935716a360c4dea972
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

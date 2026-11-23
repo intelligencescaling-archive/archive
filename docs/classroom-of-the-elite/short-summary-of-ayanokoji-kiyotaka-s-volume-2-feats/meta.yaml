@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: short-summary-of-ayanokoji-kiyotaka-s-volume-2-feats
+category: doc
+title: Short Summary of Ayanokoji Kiyotaka's Volume 2 Feats (Classroom of the Elite)
+alt_titles:
+- short summary vol 2 feats of ayanokoji kiyotaka
+authors: []
+shared_by:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xico8t/short_summary_vol_2_feats_of_ayanokoji_kiyotaka/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 902
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 380193
+      sha256: 881fdc11b0893d4691c9cd864ec85ff571933746588216de6a6561a4439640e3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

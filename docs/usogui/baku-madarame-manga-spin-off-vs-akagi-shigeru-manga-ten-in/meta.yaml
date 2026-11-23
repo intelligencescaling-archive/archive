@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-madarame-manga-spin-off-vs-akagi-shigeru-manga-ten-in
+category: doc
+title: Baku Madarame (Manga + Spin-off) vs Akagi Shigeru (Manga + Ten) in EI
+alt_titles:
+- Baku Madarame(manga + spin-off) vs Akagi Shigeru(manga + ten) in EI
+authors:
+- name: Equivalent-One2361
+  reddit: Equivalent-One2361
+  id: equivalent-one2361
+  source: reddit-post
+series:
+- usogui
+- akagi
+characters:
+- baku-madarame
+- shigeru-akagi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1muhoal/baku_madaramemanga_spinoff_vs_akagi_shigerumanga/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 545
+    files:
+    - format: jpg
+      name: image-2.jpg
+      bytes: 22042
+      sha256: d985ec9136d4330d0a813b2ec8d66070f3dd2f787f4a1b8784174dafa09ed45b
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+      image-3: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

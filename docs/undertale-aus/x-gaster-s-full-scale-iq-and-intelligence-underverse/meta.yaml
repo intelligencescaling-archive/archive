@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: x-gaster-s-full-scale-iq-and-intelligence-underverse
+category: doc
+title: X-Gaster's Full Scale IQ and Intelligence (Underverse)
+alt_titles:
+- █̶W̶.̶D̶.̶█ ───> X - G A S T E R' S Full-Scale IQ and Intelligence
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- undertale-aus
+characters:
+- x-gaster
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xtuxtb/wd_x_g_a_s_t_e_r_s_fullscale_iq_and_intelligence/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1288
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

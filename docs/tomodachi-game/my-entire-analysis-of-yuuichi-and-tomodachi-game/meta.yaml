@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-entire-analysis-of-yuuichi-and-tomodachi-game
+category: doc
+title: My Entire Analysis of Yuuichi and Tomodachi Game
+alt_titles:
+- My entire analysis on Yuuichi and Tomodachi game
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+- kei-shinomiya
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w1mq4q/my_entire_analysis_on_yuuichi_and_tomodachi_game/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 4206
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 74362
+      sha256: 6a30e488450f6796ff7f6bbcbee6f242df5fa8f77b2d78397ea5276e4dcf4cac
+    - format: jpg
+      name: image-2.jpg
+      bytes: 53294
+      sha256: aa7f63229b9772f6b37faf3e94e76a39c3ead356f0548e38398b95a1e7ecf882
+    - format: jpg
+      name: image-3.jpg
+      bytes: 77865
+      sha256: 2c8ca9df002f1d94a5a5a15b0f2d9ca2a4608206c5e42354d4b2a1370ccc7678
+    - format: jpg
+      name: image-4.jpg
+      bytes: 76233
+      sha256: fb8d3afed937d497696826314429cc484a2a338d1ac9b1dfd716399369f1ed7e
+    - format: jpg
+      name: image-5.jpg
+      bytes: 58686
+      sha256: 23cbe36fe5ff6cc2aca0987a0bfdfa1904b04b0fe27fd9c13b8dd910dbd3ba4f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

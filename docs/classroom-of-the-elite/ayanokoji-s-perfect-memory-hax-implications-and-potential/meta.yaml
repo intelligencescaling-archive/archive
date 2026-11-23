@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-perfect-memory-hax-implications-and-potential
+category: doc
+title: 'Ayanokoji''s Perfect Memory Hax: Implications and Potential Power'
+alt_titles:
+- Ayanokoji's Perfect Memory Hax implications and potential power
+authors:
+- name: Competitive-Word9745
+  reddit: Competitive-Word9745
+  id: competitive-word9745
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nbhuw9/ayanokojis_perfect_memory_hax_implications_and/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 796
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

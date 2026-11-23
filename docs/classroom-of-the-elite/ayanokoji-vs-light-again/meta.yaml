@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-vs-light-again
+category: doc
+title: Ayanokoji vs Light (Again)
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- kiyotaka-ayanokoji
+- light-yagami
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1thx10w/ayanokoji_vs_light_again/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 882
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 69324
+      sha256: 1d041ce6343ecd24e05fa688336189992f2259023912f1209b8d66d58b2c11cf
+    - format: jpg
+      name: image-2.jpg
+      bytes: 47063
+      sha256: 30ec759feedaad65bb9dc21f65000c6a50c8c6c00c68a59ec19a3c27ca093edf
+    - format: jpg
+      name: image-3.jpg
+      bytes: 54417
+      sha256: 17f5854eb8f83198513059d25bd59a24ce8e4b02526df83d4951b8e2bdb9c209
+    - format: jpg
+      name: image-4.jpg
+      bytes: 50688
+      sha256: 677c6c4e9e43ab89170a340556fcdfbcbe5a141d6c8213e4aad166b1d6b9885b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

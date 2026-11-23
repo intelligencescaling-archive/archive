@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jane-vs-mcallister-a-brief-analysis-the-mentalist
+category: doc
+title: 'Jane vs McAllister: A Brief Analysis (The Mentalist)'
+alt_titles:
+- 'Jane vs McAllister: A Brief Analysis'
+authors:
+- name: Nemo-Lemon01
+  reddit: Nemo-Lemon01
+  id: nemo-lemon01
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+- red-john
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qola4p/jane_vs_mcallister_a_brief_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 711
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 173007
+      sha256: 73069bbd7e85159ef3f769f10acc7bc480ea1fc6ac134fba7926a1b610b525c1
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

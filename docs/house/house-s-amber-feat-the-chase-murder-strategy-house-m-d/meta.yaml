@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: house-s-amber-feat-the-chase-murder-strategy-house-m-d
+category: doc
+title: 'House''s Amber Feat: The Chase Murder Strategy (House M.D.)'
+alt_titles:
+- House's Amber feat
+authors:
+- name: zallyboii123
+  reddit: zallyboii123
+  id: zallyboii123
+  source: reddit-post
+series:
+- house
+characters:
+- gregory-house
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rkut3b/houses_amber_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 812
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 306257
+      sha256: 7e019f8233ccd6dbde0c5376cf750db588c8b3609c7c94842bc305291765f9fb
+    - format: png
+      name: image-2.png
+      bytes: 563106
+      sha256: 07f159f7548763febe4fa6782480ddf948ee2389dfd8f913b3fe76a26dae2d1c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gustavo-fring-s-saul-strategy-analysis-breaking-bad-better
+category: doc
+title: Gustavo Fring's Saul Strategy Analysis (Breaking Bad / Better Call Saul)
+alt_titles:
+- Gustavo Fring’s Saul strategy analysis.
+authors:
+- name: Reddest_Velvet6
+  reddit: Reddest_Velvet6
+  id: velvet
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- gus-fring
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ss2fh3/gustavo_frings_saul_strategy_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1322
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 135777
+      sha256: 05c74660151dddba66ac596db009f3ee7611e2bdcd8c19d8f1718925100e02ec
+    - format: jpg
+      name: image-2.jpg
+      bytes: 77882
+      sha256: 2c014424ae0a2c5b479961370f07aab79d476968f752d854a911e1420592797d
+    - format: jpg
+      name: image-3.jpg
+      bytes: 43688
+      sha256: f73defcd7a58f66fb543c8a0fc7a915f6d931c89c4092b6a784321a07fd0d56f
+    - format: jpg
+      name: image-4.jpg
+      bytes: 109413
+      sha256: bf2e21553548d0bc3b1c5cf24395fa6c5d8b9d9f638786854dcbb5059c8e8e6c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

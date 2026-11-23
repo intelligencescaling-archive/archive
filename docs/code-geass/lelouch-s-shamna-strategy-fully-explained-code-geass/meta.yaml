@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-s-shamna-strategy-fully-explained-code-geass
+category: doc
+title: Lelouch's Shamna Strategy Fully Explained (Code Geass)
+alt_titles:
+- lelouch's shamna strategy fully explained
+authors:
+- name: Fit_Strain_9215
+  reddit: Fit_Strain_9215
+  id: fit-strain-9215
+  source: reddit-post
+series:
+- code-geass
+characters:
+- lelouch-vi-britannia
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1suim51/lelouchs_shamna_strategy_fully_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1140
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 54865
+      sha256: 4d22712349d02004843c8b971c2e471384e14807667d2ad0f8fe94bc13ab05bc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

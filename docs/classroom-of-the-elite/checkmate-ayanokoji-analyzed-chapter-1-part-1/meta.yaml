@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: checkmate-ayanokoji-analyzed-chapter-1-part-1
+category: doc
+title: 'Checkmate Ayanokoji Analyzed: Chapter 1, Part 1'
+alt_titles:
+- Checkmate Ayanaokoji Analyzed- Chapter 1, Part 1
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hlno63/checkmate_ayanaokoji_analyzed_chapter_1_part_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 641
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

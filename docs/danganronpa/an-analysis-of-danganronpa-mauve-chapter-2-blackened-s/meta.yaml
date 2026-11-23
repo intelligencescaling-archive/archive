@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: an-analysis-of-danganronpa-mauve-chapter-2-blackened-s
+category: doc
+title: An Analysis of Danganronpa Mauve Chapter 2 Blackened's Scheme
+alt_titles:
+- An Analysis of Danganronpa Mauve Chapter 2 Blackened’s Scheme
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- tomoe-danganronpa
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vd01a8/an_analysis_of_danganronpa_mauve_chapter_2/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1582
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 55537
+      sha256: ee6d298946938831076437dfdc8efe8073044bcc240331d481a509e39cca88f0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

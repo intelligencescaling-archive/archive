@@ -1,0 +1,66 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: j-drama-akiyama-episode-zero-in-depth-analysis-liar-game
+category: doc
+title: 'J-Drama Akiyama: Episode Zero In-Depth Analysis (Liar Game)'
+alt_titles:
+- J Drama Akiyama. Episode Zero In-Depth Analysis
+authors:
+- name: Near_Stagnation_1599
+  reddit: Near_Stagnation_1599
+  id: near-stagnation-1599
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mxu45k/j_drama_akiyama_episode_zero_indepth_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 776
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 104639
+      sha256: ea5c5b8227d812f83e28ceaf9da8fcafd0a6505ca0101b1d82c5fd1493a1c15b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 304364
+      sha256: f7f22040b14ca3c50d1c043787b2164162b4758d64539a5a304f76ef0d551238
+    - format: jpg
+      name: image-3.jpg
+      bytes: 99044
+      sha256: fc48fc85f397fd2814a449f933f56b76360ef79554f6050f0f454b2d2768c139
+    - format: jpg
+      name: image-4.jpg
+      bytes: 118133
+      sha256: ff371a14e9b5e7e459697afb3ebd71275e2aacdf5ab823324fd160f60277f091
+    - format: png
+      name: image-5.png
+      bytes: 995618
+      sha256: 70940fe0f92a10e9f2724038a38ba176be7c1b2c1c014d3f5dc64204173f74a5
+    - format: png
+      name: image-6.png
+      bytes: 156068
+      sha256: fa83372a17b7277ca702affa7716a208e914e937aa1b9c39f94422433b9fae0b
+    - format: png
+      name: image-7.png
+      bytes: 681920
+      sha256: 4d4d01085c67d5467065b69db31f3a9aff22d87aeb87df9d71adb46dcfe06aec
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

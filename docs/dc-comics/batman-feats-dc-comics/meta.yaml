@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: batman-feats-dc-comics
+category: doc
+title: Batman Feats (DC Comics)
+alt_titles:
+- 'BATMAN FEATS: (YAP ALERT!)'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- batman
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wa4a3v/batman_feats_yap_alert/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2106
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 153201
+      sha256: ca1362a74002b6c5c367914b777b4d76f9d5f1ef8d2626350f4c6ae384faa753
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

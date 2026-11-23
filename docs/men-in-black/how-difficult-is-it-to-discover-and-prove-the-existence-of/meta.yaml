@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-difficult-is-it-to-discover-and-prove-the-existence-of
+category: doc
+title: How Difficult Is It to Discover and Prove the Existence of the Men in Black Organization? (Men in Black)
+alt_titles:
+- How difficult is it to discover and prove the existence of the Men in Black organization?
+authors:
+- name: NoScar2207
+  reddit: NoScar2207
+  id: noscar2207
+  source: reddit-post
+series:
+- men-in-black
+characters: []
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sbsyga/how_difficult_is_it_to_discover_and_prove_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 551
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 49986
+      sha256: c4c3f04343d110f133e9f171d37b1a633babb54e6de58b3c527ac52b570fc6a1
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monika-is-an-underrated-goat-doki-doki-literature-club
+category: doc
+title: Monika Is an Underrated GOAT (Doki Doki Literature Club)
+alt_titles:
+- Monika is an underrated goat 🐐
+authors:
+- name: Quick-Jaguar-9572
+  reddit: Quick-Jaguar-9572
+  id: quick-jaguar-9572
+  source: reddit-post
+series:
+- doki-doki-literature-club
+characters:
+- monika
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mt62n3/monika_is_an_underrated_goat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 830
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 81713
+      sha256: 662e32af4aa19530a26be9f466e4d8c25374bf71de360606ad16a60d56f657c6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

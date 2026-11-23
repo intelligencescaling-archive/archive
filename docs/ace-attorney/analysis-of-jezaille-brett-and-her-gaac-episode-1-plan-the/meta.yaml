@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-jezaille-brett-and-her-gaac-episode-1-plan-the
+category: doc
+title: Analysis of Jezaille Brett and Her GAAC Episode 1 Plan (The Great Ace Attorney Chronicles)
+alt_titles:
+- Analysis of Jezaille Brett and her GAAC EP1 plan.
+authors:
+- name: Ordinary_Pal
+  reddit: Ordinary_Pal
+  id: ordinary-pal
+  source: reddit-post
+series:
+- ace-attorney
+characters:
+- jezaille-brett
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t263rb/analysis_of_jezaille_brett_and_her_gaac_ep1_plan/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1626
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 24817
+      sha256: 89fb035de05f621a1a542f2124797765f3554243958e3631593e2cc86da13549
+    - format: jpg
+      name: image-2.jpg
+      bytes: 24883
+      sha256: 698048e7ddd0e52e30034c633796c8e0d9a1fde98f061c348ee5514eea47747d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

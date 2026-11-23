@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: who-takes-strategy-planning-michael-scofield-vs-vincent
+category: doc
+title: 'Who Takes Strategy + Planning: Michael Scofield vs Vincent Lalo + Yokoya Norihiko (Poseidon Feat)'
+alt_titles:
+- Who takes strategy + planning
+authors:
+- name: ZZ_Zz9he
+  reddit: ZZ_Zz9he
+  id: zz9he
+  source: reddit-post
+series:
+- prison-break
+- usogui
+- liar-game
+characters:
+- michael-scofield
+- poseidon
+- vincent-lalo
+- yokoya-norihiko
+tags:
+- feats
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1h33zis/who_takes_strategy_planning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 788
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 20682
+      sha256: 762977de3eeb0b08c98208c3baab5cdfc8bef46a56d95d03b10294ceb9918a7b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 5488
+      sha256: 13892f2c7508490f211ae9585fc2ae8f45d7586dfba053f1501326d8acd29bf0
+    - format: png
+      name: image-3.png
+      bytes: 926361
+      sha256: 9884afa08c774d98a5d609555ac6348501fa00aa1c969d433b146e6010fdf374
+    - format: png
+      name: image-4.png
+      bytes: 212728
+      sha256: 655d73d76f87093683f922ebcec96b8631cd0f871ede6cf4ee568ecddaac03bb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

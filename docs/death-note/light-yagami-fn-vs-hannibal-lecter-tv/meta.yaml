@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-fn-vs-hannibal-lecter-tv
+category: doc
+title: Light Yagami (FN) vs Hannibal Lecter (TV)
+alt_titles:
+- Light Yagami FN vs Hannibal Lecter Tv
+authors:
+- name: Vincet_Qo
+  reddit: Vincet_Qo
+  id: vincet-qo
+  source: reddit-post
+series:
+- death-note
+- hannibal
+characters:
+- light-yagami
+- hannibal-lecter
+tags:
+- matchup
+language: es
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qu4x9f/light_yagami_fn_vs_hannibal_lecter_tv/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 658
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 7313
+      sha256: 750f0bf87fc8b24a27e804a788a98e7365357dde68e9f096c3107aac9a8a591b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 9312
+      sha256: efaa6e4224daa368d7845da5400b7ab24f23845dd3b30718d29f94b7f68ee0bf
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

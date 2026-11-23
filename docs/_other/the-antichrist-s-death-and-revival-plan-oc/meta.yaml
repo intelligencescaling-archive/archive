@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-antichrist-s-death-and-revival-plan-oc
+category: doc
+title: The Antichrist's Death and Revival Plan (OC)
+alt_titles:
+- (Feat) My Antichrist OC for my judeo-christian inspired mythos and his plan to mimic the holy RESURRECTION FROM DEATH.
+authors:
+- name: Equivalent_Ask_9227
+  reddit: Equivalent_Ask_9227
+  id: equivalent-ask-9227
+  source: reddit-post
+series: []
+characters:
+- the-antichrist
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wk9fzs/feat_my_antichrist_oc_for_my_judeochristian/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1058
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

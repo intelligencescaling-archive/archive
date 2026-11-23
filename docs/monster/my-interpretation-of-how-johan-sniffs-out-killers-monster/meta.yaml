@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-interpretation-of-how-johan-sniffs-out-killers-monster
+category: doc
+title: My Interpretation of How Johan 'Sniffs Out' Killers (Monster)
+alt_titles:
+- My interpretation of how Johan actually does this.
+authors:
+- name: Big_Application_7168
+  reddit: Big_Application_7168
+  id: big-application-7168
+  source: reddit-post
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xmsc20/my_interpretation_of_how_johan_actually_does_this/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 986
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 159614
+      sha256: 50fa96a6a51b292e32775dae4d7e2a2fb953de4dfd1238a1cf8c83503640a2a0
+    - format: jpg
+      name: image-2.jpg
+      bytes: 58601
+      sha256: 962b1267d8509bee8792a6bb44f881885d78c922888d4724e60e509358166486
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

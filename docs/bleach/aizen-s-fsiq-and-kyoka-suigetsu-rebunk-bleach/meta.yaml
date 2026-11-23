@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aizen-s-fsiq-and-kyoka-suigetsu-rebunk-bleach
+category: doc
+title: Aizen's FSIQ and Kyoka Suigetsu Rebunk (Bleach)
+alt_titles:
+- Aizen FSIQ Kyoka Suigetsu Rebunk… wait not even.
+authors:
+- name: Scary_Examination887
+  reddit: Scary_Examination887
+  id: scary-examination887
+  source: reddit-post
+series:
+- bleach
+characters:
+- sosuke-aizen
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qm04vm/aizen_fsiq_kyoka_suigetsu_rebunk_wait_not_even/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 750
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

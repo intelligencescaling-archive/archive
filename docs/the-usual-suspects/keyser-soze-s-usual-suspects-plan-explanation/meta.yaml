@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: keyser-soze-s-usual-suspects-plan-explanation
+category: doc
+title: Keyser Söze's Usual Suspects Plan Explanation
+alt_titles:
+- Keyser Söze's Usual Suspects plan explanation.
+authors:
+- name: Communist_Crusaders
+  reddit: Communist_Crusaders
+  id: communist-crusaders
+  source: reddit-post
+series:
+- the-usual-suspects
+characters:
+- keyser-soze
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nsjjgf/keyser_sözes_usual_suspects_plan_explanation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1112
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 87159
+      sha256: 63040198a2c8433665299ca4a33453ba6f629ac5e38018029b3afeb624fd3b79
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

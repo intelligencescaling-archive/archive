@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jia-jin-sheng-case-analysis-reverend-insanity-ch-60
+category: doc
+title: Jia Jin Sheng Case Analysis (Reverend Insanity, Ch. 60)
+alt_titles:
+- Jia Jin Sheng Case Analysis and bit before that.
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vw1pyu/jia_jin_sheng_case_analysis_and_bit_before_that/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1438
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 37822
+      sha256: a6429912149e626aa9be9247eceb5f4f6b4c9ecf5737dc15a1a6ab5582a4e134
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

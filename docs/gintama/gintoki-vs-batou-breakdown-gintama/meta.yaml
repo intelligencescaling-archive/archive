@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gintoki-vs-batou-breakdown-gintama
+category: doc
+title: Gintoki vs Batou Breakdown (Gintama)
+authors:
+- name: Salty_Wall
+  reddit: Salty_Wall
+  id: salty-wall
+  source: reddit-post
+series:
+- gintama
+characters:
+- gintoki-sakata
+- batou
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1py3mvt/gintoki_vs_batou_breakdown_gintama/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 716
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 157811
+      sha256: fd2b9b6883e0acd2a89e7aa00233dd8905574347dedc7c83f3b109f49a1377cc
+    - format: jpg
+      name: image-2.jpg
+      bytes: 238694
+      sha256: 440ea7f706903a51e53badd325655cab122a28e888ccf57ccb8a8ae45be1b517
+    - format: jpg
+      name: image-3.jpg
+      bytes: 188762
+      sha256: 238c3967eeaae8a8a413dfc2d7450cd1cb6065c8b7e06f753b7a9ff6b0a6e88c
+    - format: jpg
+      name: image-4.jpg
+      bytes: 131135
+      sha256: 458b1a466644d0b9e2a7996ce4cd8143b9ace514a30e0fb258324f087774f0f5
+    - format: jpg
+      name: image-5.jpg
+      bytes: 182914
+      sha256: daf12b4c9051be496208568e99a9923b7b738aed2a610129d7187a0158e7ca7b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

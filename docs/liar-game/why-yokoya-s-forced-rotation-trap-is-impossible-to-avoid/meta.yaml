@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-yokoya-s-forced-rotation-trap-is-impossible-to-avoid
+category: doc
+title: Why Yokoya's Forced Rotation Trap Is Impossible to Avoid for Any Realistic Character (Liar Game)
+alt_titles:
+- Why Forced Rotation trap is impossible to avoid for any Realistic character.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wg7v63/why_forced_rotation_trap_is_impossible_to_avoid/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 676
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 12522
+      sha256: 889f4d69ca13a21d82fbaefb43d4c5a7d73a284f64fc76eb33b0299fa634dde8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

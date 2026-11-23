@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: introducing-naga-sadow
+category: doc
+title: Introducing Naga Sadow (Star Wars)
+authors:
+- name: Ok_Cardiologist_5925
+  reddit: Ok_Cardiologist_5925
+  id: ok-cardiologist-5925
+  source: reddit-post
+series:
+- star-wars
+characters:
+- naga-sadow
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: Naga Sadow''s Takeover'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p7gbhj/introducing_new_star_wars_characters_to_scd_part/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 741
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 305688
+      sha256: 9a920aa66fcbc5458d3fccc3ae4852cc534b50a8264d0ace6ced5ad28f245540
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: The Great Hyperspace War'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p8af2b/introducing_new_star_wars_characters_to_scd_part/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 936
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 51687
+      sha256: 122b81b60a0d515408af7f2046f7c0a3acb38addaf197a412f317ad14151bab9
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

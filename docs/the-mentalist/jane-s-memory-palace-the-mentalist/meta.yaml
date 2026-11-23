@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jane-s-memory-palace-the-mentalist
+category: doc
+title: Jane's Memory Palace (The Mentalist)
+alt_titles:
+- Jane's Memory Palace
+authors:
+- name: ZZ_Zz9he
+  reddit: ZZ_Zz9he
+  id: zz9he
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1j167mq/janes_memory_palace/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 827
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

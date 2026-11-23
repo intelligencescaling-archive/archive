@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-vs-ayanokoji
+category: doc
+title: Lelouch vs Ayanokoji
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- code-geass
+- classroom-of-the-elite
+characters:
+- lelouch-vi-britannia
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u6xib4/lelouch_vs_ayanokoji/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 753
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 38570
+      sha256: 8f32fff7226d886238a744b6ecec259d75ac524357729c88e87a33d1ef70fb24
+    - format: jpg
+      name: image-2.jpg
+      bytes: 65327
+      sha256: e79a13bd575ebc923024af428b79da4a08bd8d5a6a06cbc9b03a386c22cfb836
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

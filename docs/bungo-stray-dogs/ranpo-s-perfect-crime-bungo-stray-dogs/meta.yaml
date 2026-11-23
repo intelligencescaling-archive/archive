@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ranpo-s-perfect-crime-bungo-stray-dogs
+category: doc
+title: Ranpo's Perfect Crime (Bungo Stray Dogs)
+alt_titles:
+- Ranpo's Perfect Crime
+authors:
+- name: ieatfud_555
+  reddit: ieatfud_555
+  id: ieatfud-555
+  source: reddit-post
+series:
+- bungo-stray-dogs
+characters:
+- ranpo-edogawa
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1fmm63z/ranpos_perfect_crime/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 617
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

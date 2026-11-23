@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-in-anhs-as-ryuen-s-class-teacher-liar-game-x
+category: story
+title: Akiyama in ANHS as Ryuen's Class Teacher (Liar Game x Classroom of the Elite)
+alt_titles:
+- enjoy ! Akiyama in ANHS (as ryuen class teacher)
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- liar-game
+- classroom-of-the-elite
+characters:
+- akiyama-shinichi
+- ryuen-kakeru
+- arisu-sakayanagi
+tags:
+- fanfiction
+- matchup
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v0w06f/enjoy_akiyama_in_anhs_as_ryuen_class_teacher/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 6176
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 175440
+      sha256: e42212de82b869f09ec9095c3539fba69b5044a3ed13830cbc1d10bb56515fe8
+    - format: png
+      name: image-2.png
+      bytes: 242714
+      sha256: 52ad5ed89967f89960cafa936fb9c103c797e0a3e7c8ae3b70a9ecf563ee7b5d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

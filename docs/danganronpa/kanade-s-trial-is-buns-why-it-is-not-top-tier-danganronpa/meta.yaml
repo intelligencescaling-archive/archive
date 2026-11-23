@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-s-trial-is-buns-why-it-is-not-top-tier-danganronpa
+category: doc
+title: 'Kanade''s Trial Is Buns: Why It Is Not Top Tier (Danganronpa SDRA2)'
+alt_titles:
+- Kanade Trial is Buns. Repost because the one of the mods is a larper
+authors:
+- name: Top-Order7475
+  reddit: Top-Order7475
+  id: top-order7475
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s0qfiy/kanade_trial_is_buns_repost_because_the_one_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 684
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40914
+      sha256: 9152d23d8c376a0afb1037b715847eaad5578612712e7be0fbba80d2beea906d
+    - format: jpg
+      name: image-2.jpg
+      bytes: 327475
+      sha256: 398e4d7e8da26d56bd74cc8cbf6402c00667f8706dffea72f4865174b10dc9e3
+    - format: jpg
+      name: image-3.jpg
+      bytes: 134662
+      sha256: a2de3abcc3e892cdc8e2481ca8bd179b1350a03d053cc200a44acbded6408a03
+    - format: jpg
+      name: image-4.jpg
+      bytes: 33536
+      sha256: a2b97c0fcedcf1794ccb59290546538ceaed56d9924e29899aca47eb33a4c4f3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yokoya-s-contraband-forced-rotation-strategy-complete-2
+category: doc
+title: 'Yokoya''s Contraband Forced Rotation Strategy: Complete Explanation (Liar Game)'
+authors:
+- name: IncidentIll7680
+  reddit: IncidentIll7680
+  id: incidentill7680
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xmuo5r/contraband_yokoya_most_underrated_misunderstood/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1915
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: madara-vs-aizen-biq-naruto-vs-bleach
+category: doc
+title: Madara vs Aizen BIQ (Naruto vs Bleach)
+alt_titles:
+- Madara vs Aizen BIQ
+authors:
+- name: Scary_Examination887
+  reddit: Scary_Examination887
+  id: scary-examination887
+  source: reddit-post
+series:
+- naruto
+- bleach
+characters:
+- madara-uchiha
+- sosuke-aizen
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l47gfr/madara_vs_aizen_biq/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1969
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 102274
+      sha256: ca0941b1aec66f7dc1275f8fca171bae349fc08e4b44012f47d7928154f3d1fe
+    - format: jpg
+      name: image-2.jpg
+      bytes: 88858
+      sha256: f97351b95dfbc2ea847488d9dbbb5e647485680e3f37b81088ff77a273784c65
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

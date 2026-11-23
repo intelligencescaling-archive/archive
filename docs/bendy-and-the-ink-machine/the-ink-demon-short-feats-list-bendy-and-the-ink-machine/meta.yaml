@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-ink-demon-short-feats-list-bendy-and-the-ink-machine
+category: doc
+title: 'The Ink Demon: Short Feats List (Bendy and the Ink Machine + Composite)'
+alt_titles:
+- Short Explanation of The Ink Demon/Bendy (From Bendy and The Ink Machine Series+Composite) Feats List (Yes)
+authors:
+- name: CreationCawthon2
+  reddit: CreationCawthon2
+  id: creationcawthon2
+  source: reddit-post
+series:
+- bendy-and-the-ink-machine
+characters:
+- bendy
+tags:
+- feats
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kbmixh/short_explanation_of_the_ink_demonbendy_from/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 690
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 38432
+      sha256: 29e50cdce46d75d3dcd04a34e725bd4ae2642196a045c0d34e9ca67103d1fa34
+    - format: jpg
+      name: image-2.jpg
+      bytes: 40045
+      sha256: 13051f45d8dda578e1f3aedeeeda6321cb62b4284e8f738f81217ff873285cdb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

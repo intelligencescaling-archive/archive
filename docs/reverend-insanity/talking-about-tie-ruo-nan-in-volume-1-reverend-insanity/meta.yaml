@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: talking-about-tie-ruo-nan-in-volume-1-reverend-insanity
+category: doc
+title: Talking About Tie Ruo Nan in Volume 1 (Reverend Insanity)
+alt_titles:
+- Talking about Tie Ruo Nan in Vol 1
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- tie-ruo-nan
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wi0bg1/talking_about_tie_ruo_nan_in_vol_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 580
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 43586
+      sha256: b59e7aca934944196d651abc706b299c64ac415bd4a2cf8490a91fbb1a1a8fd7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

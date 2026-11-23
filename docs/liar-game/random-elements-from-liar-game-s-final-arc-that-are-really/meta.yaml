@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: random-elements-from-liar-game-s-final-arc-that-are-really
+category: doc
+title: Random Elements from Liar Game's Final Arc That Are Really Good
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- nao-kanzaki
+- yokoya-norihiko
+tags:
+- writing
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hkp3zz/random_elements_from_liar_games_final_arc_that/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 861
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

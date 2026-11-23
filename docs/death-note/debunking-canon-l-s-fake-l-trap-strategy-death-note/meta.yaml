@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-canon-l-s-fake-l-trap-strategy-death-note
+category: doc
+title: Debunking Canon L's Fake L Trap Strategy (Death Note)
+alt_titles:
+- Fake L trap is a$$. Debunking Canon L's strategy
+authors:
+- name: Crenetick
+  reddit: Crenetick
+  id: crenetick
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qcm3k8/fake_l_trap_is_a_debunking_canon_ls_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1396
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

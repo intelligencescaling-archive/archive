@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: doctor-who-feats-in-every-category
+category: doc
+title: Doctor Who Feats in Every Category
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vni18t/doctor_who_feats_in_every_category/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2624
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 256013
+      sha256: b884ab23375496ae0ebd27cae791c5cdf881527bca02c29a764f1493b5095cdc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

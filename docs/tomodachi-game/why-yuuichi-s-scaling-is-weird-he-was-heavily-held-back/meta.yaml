@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-yuuichi-s-scaling-is-weird-he-was-heavily-held-back
+category: doc
+title: 'Why Yuuichi''s Scaling Is Weird: He Was Heavily Held Back (Tomodachi Game)'
+alt_titles:
+- Yuuichi scaling is weird  but ppl have no idea that yuuichi was highly held back
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wy806u/yuuichi_scaling_is_weird_but_ppl_have_no_idea/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 633
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 393380
+      sha256: 7df797b9723f5ac13cc06e45eb14da513f0500aba9416f811126f373e030bb17
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

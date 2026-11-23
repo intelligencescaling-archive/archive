@@ -1,0 +1,278 @@
+Introducing a new scaling system - Holistic system
+
+Now this is something I’ve been thinking about and finally trying to materialise it. A lot of scaling systems prioritise certain things that pollute and unbalance characters which causes inaccurate scaling. And although that is also present in this system, I tried to minimise as much as possible with explanations on the new category set, how to assign categories, situations, mediators/quantifiers and character motivations.
+
+Lets start off with the category set:
+
+Verbal Comprehension
+
+General comprehension - A character’s understanding of words, implied meanings and further extractions.
+
+Verbal mastery - A character’s control over speech and writing. This is used to exploit in different ways, such as manipulation or verbal deception.
+
+Fluid reasoning
+
+Novel complex problem solving - Solving problems without prior knowledge.
+
+Abstract reasoning - Reasoning and identifying logic, rules and patterns.
+
+The reason why I dropped PSI + WMI + VSI is because it’s unnecessary in my opinion. Formulation speed of strategies and visualising massive pieces of information is impressive but not that important. General comprehension can be seen through characters understanding stuff like game rules, such as Yuuichi’s understanding of each new games that he’s thrusted into.
+
+Fluid reasoning is obviously the most important category in FSIQ, and I broke it down further. You can include learning ability too, but I see that as coming under abstract reasoning.
+
+Intrapersonal intelligence
+
+Emotional Realisation
+
+Emotional Management
+
+Emotional Engagement
+
+This focuses on EQ but distinguishes between intra and inter which I think is important. Since it can accurately define a character’s internal navigation and cultivating themselves to create better strategies/outsmart. Facilitating thought and EE can be combined, or EE can be dropped as it can go under EM, but I see EE as the emotional drive for a character and use the second definition of EF which is the emotional impact onto a character. For example, Lelouch’s emotional drive to create a better world for Nunnally and his emotional impact on C2 wanting to live, this is a clear difference between EF and EE.
+
+Interpersonal intelligence
+
+Emotional Perception
+
+Emotional Impact/Facilitation
+
+Behavioural modelling
+
+Social integration
+
+Social navigation
+
+This combines EQ + SQ + Psychology, especially in ‘behavioural modelling’, which is how a character understands others/systems emotionally. BM specifically combines Theory of Mind, Emotional understanding and Psychoanalysis/Profiling since they’re pretty close categories I would say. EP is still separated as although it is a subset of EU, it’s more so real time recognition of emotions. Behavioural modelling also separates feats that could be conjured up as EP, such as Light’s cold reading of Mikami’s justice driven character. Social Navigation includes Relationship Management/Interpersonal EM.
+
+Adversity Capacity (CORE)
+
+Control - Believed agency of influence over adversity
+
+Ownership - Accountability of adversity
+
+Reach - Compartmentalisation of adversity
+
+Endurance - Persevering through adversity
+
+The CORE model is much more accurate and reduces the significant overlap with EE/EM. Do note that Endurance is scientifically defined as the person’s belief of how long the adversity would last, but I don’t think that’s necessary in outsmarting.
+
+Awareness
+
+Observation
+
+Guiding policy - Aim of the decisions a character makes. Think of it as planning/strategy aim.
+
+Diagnosis - Identifying a problem, issue, obstacle
+
+Knowledge application - Applying relevant knowledge to a situation or creation of a strategy.
+
+This is an improved version of Sensory which often includes Observation and Perception. Sometimes intuition, but I think it’s better to scale the identification of something and implementing a strategy. Knowledge application also covers Crystallised Intelligence, which makes it more fair as characters would be awarded CI for simply “knowing more”.  It scales how aware a character is of a certain strategy, opportunity, or premises to draw certain conclusions.
+
+Thinking
+
+Critical - evaluating information through analysis to form a judgement or conclusion
+
+I think it might seem a little counterintuitive to only use one subcat for thinking, but I did so because critical thinking covers basically all sort of grounds. Systems, Complexity, Computational, Distillation, Reflective, Associative etc. Thinking can be scaled through the character’s thought processes during the formulation of schemes, deciding a next action, learning new information or trying to reason out something.
+
+Inference
+
+Structure - How well each premise is thought of, evaluated and flows into the bigger reasoning chain. Less logic leaps mean better structure.
+
+Legitimacy - The logic behind the reasoning and premises and if it’s valid for the information the character have.
+
+Accuracy
+
+Better premises - How many premises are used. This is a little tricky so it’s fine if this is dropped, but it basically measures how advantageous a premise is, and how many conclusions can be drawn from them.
+
+The reason I use these categories (and I’m the only person who introduced the subcategories) is because of the unfairness of using the original model. The original model focuses on types which is fine, but I see it causing a lot of misjudgement where a character takes a certain reasoning subcat due to them just showing more of said subcat. My model aims to evaluate the actual validity of the reasoning chains shown.
+
+Planning
+
+Coverage - Includes intricacies and contingencies
+
+Adjustments - Flexibility of the plan
+
+Invincibility - How uncounterable the plan is
+
+Strategy
+
+Fortitude - The resilience of the strategy implemented
+
+Success rate - This is also a tricky one. But it measures how successful would the strategy be in the environment that it was implemented in. Even if character A has more strategies that were successful and character B has only one strategy that failed, if character’s B strategy was more well built in the respective environment it was in, then they take the subcat.
+
+I see people use scheming or confuse the two. Planning is the process. Strategy is the execution. Think of Baku’s Leap second. He planned leap second with certain steps before hand, but the strategies he implemented in between when he first planned it and finally achieved it (such as against Lalo in AP or against Hal in STL) are what distinguishes it from it being a plan.
+
+Manipulation
+
+Logical
+
+Emotional
+
+Mass
+
+Something I want to say, mass manipulation shouldn’t be solely measured by how many people were manipulated, but rather the amount of people manipulated again in the respective environment. It’s why some people scale Kokichi over Junko/Lelouch/Friend in MM, it’s logically consistent. Friend manipulated nearly the entire population but Kokichi at most only manipulated 15 people, however, the scale of Friend’s manipulation could’ve been higher, whilst Kokichi’s manipulation was at it’s max, as in his situation he only could’ve manipulated 15 people max. Meaning that his mass manipulation is better than friends. Manipulation should also be measured by the quality and control, how drastic is the changes of the character being manipulated? Are any items being manipulated? These should be considered.
+
+Deception
+
+I used to use acting skills, equivocation and omission, but now I think a basic deception set is better:
+
+Acting skills
+
+Concealment (which can go in hand with VCI due to the omission and equivocation elements)
+
+Misdirection
+
+Sophistry
+
+Sophistry can be dropped since it’s a combination of VCI + Logical manipulation.
+
+These are pretty basic and I think they cover deception both verbally and nonverbally since deception is basically information control.
+
+Foresight
+
+Depth - The detail and breadth of the predictions
+
+Length - How far a character predicts something
+
+I think this foresight set (or prediction scope + prediction horizon) is much better since the older set (anticipation + prediction) isn’t really helpful. Both subcategories are very similar and makes it hard to distinguish which is which. The distinction (prediction is conscious thought whilst anticipation is unconscious expectation) doesn’t help either since there’s no point of it being separated like this. Foresight should measure just how deep the predictions made are, and how far was it predicted. Although I should say that foresight length should be scaled in correlation to foresight depth. For example, Yuuichi takes foresight length over Light due to FG, even though FG only lasted 2 weeks and Light’s memory loss plan was 6 months, Light’s predictions were more broad whilst Yuuichi’s predictions were more in depth. However, it’s still fine if Light does take Foresight Length.
+
+I’ve also saw discussions about dropping the foresight category altogether since it’s a combination of EU + reasoning (or behavioural modelling + inference) but I think it should stay because it still determines how well a character is able to outsmart by predicting, planning ahead and forecasting strategies.
+
+Trap handling
+
+Setting up traps
+
+Trap evasion - (This can also include the character predicting the trap or real time evasion)
+
+I also categorised trap evasion as the ability to evade/operate restrictions. This can be seen in things like Light Yagami evading the death note’s bad luck, Kanade’s scheme holding up during several instances of divine luck, or Sou Hiyori continuing participation despite his 0.0% survival rate. This however can be swapped out for overall cunningness/evasiveness/elusiveness.
+
+Creativity
+
+Unpredictability
+
+Resourcefulness - How well are resources used and optimised
+
+Craftiness
+
+Innovation - Creating something new (method/approach/strategy) and applying it for self benefit
+
+I think creativity is one of the most important categories that gets very underrated. Creativity is an important category because it completely operates outside the borders of what can be broadly predicted from refering to previous models (this is why liar game characters scale high, although they are based off game theory concepts, their creativity still allows for room to measure their outsmarting capability).
+
+Adaptability
+
+Situational - This here just combines a lot of subcategories which in my opinion causes unbalance due to unfairness. Mostly talking about cognitive + social + environmental.
+
+Counteraction - An action to go against/retaliate an oppositional action.
+
+No idea why counteraction is separated from countering.
+
+Now that we got the category set out the way, let’s talk about mediators. Mediators are extra guide points to help consider each respective character and how much weight their feats have.
+
+Oppositional adversity - How difficult did the opposition make the process of a character achieving their goals. (x1.1)
+
+Oppositional inconsistency - Was the opposition dumbed down from their usual intelligence to allow a scheme to work. (x0.95)
+
+Situational adversity - The physical/emotional adversity. (x1.09)
+
+Overall limitations - What restrictions was the character bounded by? (x1.07)
+
+Situations:
+
+This is self explanatory.
+
+Cat and Mouse chase
+Influence building
+Non fixed
+Fixed
+
+Deciding which categories go to who.
+
+The reason why I called it holistic scaling is because it accounts for everything but equates depending on the impact it can have on scaling. This includes variables,  methodology, proven ability, off/on screen feats, narrative and statements.
+
+The equity lies in trying to balance things out. Lets say character A is methodologically shown on screen to solving 10 x 10 + 7. And character B is stated to have solved it without showing any process and it being off screen, then character A’s performance is more focused on. This also includes discounting absurd statements like “He stopped WW3 at the age of 8” or “he knows all sorts of concepts from different curriculums.
+
+There’s a statement where Yokoya says “I know everything you see”, which most people don’t take seriously. But if you would apply the same stretching of statements that characters like L or Ayanokoji etc are built off of, suddenly Yokoya’s statement is discounted. If Yokoya’s statement is valid, then so are the characters above mentioned. It creates a sort of paradox that I think I see in powerscaling. Where the potential simply outweighs what is actually shown. Look at Goku vs Saitama for example.
+
+So scaling that way by abusing statements is just ridiculous and pointless. Since it’s just scaling fantasy at that point.
+
+Anyways I know this system is far from perfect and maybe even counterintuitive, but I wanted to know your thoughts. As a test, this is going to be my first matchup using this system.
+
+L lawliet (Manga) vs Nagito Komaeda (VN)
+
+Verbal Comprehension - L (General comprehension + Verbal mastery)
+Nagito -> nothing
+
+Fluid reasoning - L (NCPS, Abstract reasoning)
+Nagito -> nothing
+
+Intrapersonal intelligence - Nagito (EM, ER, EE(=))
+L -> (EE (=))
+
+Interpersonal intelligence - L (EP, Behavioural modelling, social integration + Navigation)
+Nagito -> (EF)
+
+Adversity Capacity - Nagito (Control + Ownership + Endurance)
+L -> Reach>=)
+
+Awareness - L>= (observation, diagnosis)
+Nagito -> Guiding policy, knowledge application
+
+Thinking -> L (critical)
+Nagito -> nothing
+
+Inference -> L (better premises, legitimacy, accuracy(=))
+Nagito -> (structure, accuracy (=))
+
+Planning -> Nagito (coverage, adjustments, invincibility)
+L -> nothing
+
+Strategy -> Nagito (fortitude, success rate)
+L -> nothing
+
+Manipulation -> Nagito (logical, emotional)
+L -> Mass>=
+
+Deception -> Nagito (Concealment, Misdirection, Sophistry>=)
+L -> Acting skills
+
+Foresight -> Nagito (depth, length)
+L -> nothing
+
+Trap handling - L>= (setting up traps)
+Nagito -> Trap evasion
+
+Creativity - Nagito (unpredictability, resourcefulness, innovation)
+L -> craftiness
+
+Adaptability - L (situational, counteraction)
+Nagito - nothing
+
+Raw points:
+
+L: 20
+Nagito: 27
+
+Mediators:
+
+Oppositional adversity - L (x1.1)
+Oppositional inconsistency - neither
+Situational adversity - Nagito (x1.09)
+Overall limitations - L>= (1.07)
+
+Overall points:
+
+L - 24
+Nagito - 29
+
+Situations:
+
+Cat and mouse chase - L
+Influence building - L
+Non fixed - L
+Fixed - Nagito
+
+Overall, Nagito would outsmart L at extreme difficulty. Although L could possibly see through Nagito’s craziness, Nagito’s schemes are too robust. L could counter him through tactics, but Nagito’s foresight would be able to see through any potential tactics. This is definitely a close matchup.
+
+And, using this system, Nagito is above L, when I originally had it as L>Nagito.
+
+Please give me your thoughts and feedback!

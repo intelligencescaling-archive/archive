@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: feat-for-comp-human-social-intelligence-sal-volcano
+category: doc
+title: 'Feat for Comp Human: Social Intelligence (Sal Volcano)'
+authors:
+- name: Beneficial-Log-8257
+  reddit: Beneficial-Log-8257
+  id: beneficial-log-8257
+  source: reddit-post
+series:
+- real-life
+characters:
+- sal-vulcano
+tags:
+- feats
+- composite
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nme7q9/feat_for_comp_human_social_intelligence_sal/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 724
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

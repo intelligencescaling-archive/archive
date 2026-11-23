@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-interpretation-holmes-knew-moriarty-s-plan-anthony
+category: doc
+title: 'Sherlock Interpretation: Holmes Knew Moriarty''s Plan (Anthony Horowitz''s Moriarty)'
+alt_titles:
+- Sherlock Interpretation
+authors:
+- name: Magmax1b
+  reddit: Magmax1b
+  id: magmax1b
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+- james-moriarty-sherlock-holmes
+variant: Anthony Horowitz
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wnee9m/sherlock_interpretation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 647
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

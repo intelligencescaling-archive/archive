@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinichi-s-ro4k-manipulation-of-yokoya-chapter-200
+category: doc
+title: Akiyama Shinichi's Ro4k Manipulation of Yokoya, Chapter 200 (Liar Game)
+alt_titles:
+- Akiyama Shinichi Ro4k Manipulation Analysis (Chapter 200)
+authors:
+- name: Striking-Dot-9947
+  reddit: Striking-Dot-9947
+  id: striking-dot-9947
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u96tf9/akiyama_shinichi_ro4k_manipulation_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1772
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+      image-2: GIF image, kept in the master copy only
+      image-3: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

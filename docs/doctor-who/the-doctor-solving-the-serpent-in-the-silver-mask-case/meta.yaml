@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-solving-the-serpent-in-the-silver-mask-case
+category: doc
+title: The Doctor Solving the Serpent in the Silver Mask Case (Doctor Who)
+alt_titles:
+- The doctor solving the serpent in silver mask case (doctor who feat)
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hk9oc4/the_doctor_solving_the_serpent_in_silver_mask/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 976
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 177918
+      sha256: f95a2555d9a00803e4eb8aa08e1a598a7740c49d0f5da6bdefb8048d47aa1714
+    - format: jpg
+      name: image-2.jpg
+      bytes: 89742
+      sha256: ad5597a6bbcd9ddc8d2e0cb0a641a1181f225709fa540a7f2c70e3220a71ceae
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

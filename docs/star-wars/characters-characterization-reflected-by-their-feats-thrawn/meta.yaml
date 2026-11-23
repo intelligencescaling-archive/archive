@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: characters-characterization-reflected-by-their-feats-thrawn
+category: doc
+title: Characters' Characterization Reflected by Their Feats (Thrawn, the Mastermind, Lysander)
+alt_titles:
+- Character’s characterization reflected by feats
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- star-wars
+- ace-attorney
+- red-rising
+characters:
+- thrawn
+- aai2-mastermind
+- lysander-au-lune
+tags:
+- writing
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uq03m7/characters_characterization_reflected_by_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 781
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 28041
+      sha256: a22377231a00d88e66ffc632c2cf3e7404d6d891cff9fce16c3f5a20338ea3e9
+    - format: jpg
+      name: image-2.jpg
+      bytes: 99646
+      sha256: 0431c897deb3de2d9c4f66f0ad3d0ae7c71257aefd3c1b420574616a61ad29a2
+    - format: jpg
+      name: image-3.jpg
+      bytes: 73988
+      sha256: 96fbf912d0eae6dbb9b1fcd6ca2e51ed4f24390ed4c56e190ff10c631cef70fe
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

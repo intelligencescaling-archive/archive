@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 5-mistakes-light-yagami-kira-made-that-cost-him-dearly
+category: doc
+title: 5 Mistakes Light Yagami (Kira) Made That Cost Him Dearly (Death Note)
+alt_titles:
+- 5 Mistakes Light Yagami (Kira) Made That Cost Him Dearly
+authors:
+- name: Ill_Caregiver_6082
+  reddit: Ill_Caregiver_6082
+  id: ill-caregiver-6082
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tx24gj/5_mistakes_light_yagami_kira_made_that_cost_him/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 832
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 144697
+      sha256: c1613a3884d5b1627f7bce0efcd67afc3a84f7999880a76c9d9d31c8b7d3601a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

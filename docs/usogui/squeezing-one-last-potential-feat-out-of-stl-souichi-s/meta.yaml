@@ -1,0 +1,75 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: squeezing-one-last-potential-feat-out-of-stl-souichi-s
+category: doc
+title: 'Squeezing One Last Potential Feat Out of STL: Souichi''s Instant Check Plan (Usogui)'
+alt_titles:
+- Squeezing one last (potential) feat out of STL before moving on to ROT 💔
+authors:
+- name: RedDeathSwayOverAll
+  reddit: RedDeathSwayOverAll
+  id: reddeathswayoverall
+  source: reddit-post
+series:
+- usogui
+characters:
+- kiruma-souichi
+- baku-madarame
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wdcy1z/squeezing_one_last_potential_feat_out_of_stl/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1006
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 223944
+      sha256: c2e4e30cc6c66e2fabb8a4f60bdfd8d9ab7d5bbbab4997d4d13212f82e55dd56
+    - format: jpg
+      name: image-2.jpg
+      bytes: 218727
+      sha256: 61758e197187a1d1e72885a0131180895ff6cff470e0ecc3b3ff93a45e572d08
+    - format: jpg
+      name: image-3.jpg
+      bytes: 196532
+      sha256: 3c869a6fb05fa2785e5f576e2add1685cf218689185dddf6fdc0b8fbf406ad8a
+    - format: jpg
+      name: image-4.jpg
+      bytes: 268512
+      sha256: 7fb52bf82985150de365109f72a711a03f4d2cdcc38959371035c616353fab4f
+    - format: jpg
+      name: image-5.jpg
+      bytes: 209424
+      sha256: 8c2e0db1237c7018f220e31bb6245a01d93e13fa870465cd6d0301b22ca263ef
+    - format: jpg
+      name: image-6.jpg
+      bytes: 215048
+      sha256: 74e67dde180b5a23bf0284b0c1779b5906dcd545b46a7b0ddfd8c86e8f525541
+    - format: jpg
+      name: image-7.jpg
+      bytes: 230494
+      sha256: f4980811436b9cd844687c23d2f4654dc603d28e903778da8724823f4c5b5b07
+    - format: jpg
+      name: image-8.jpg
+      bytes: 207368
+      sha256: b4dbea158c8faec88d89a6665968229e1bc91a919cae0eb75abf2e647a25df74
+    - format: jpg
+      name: image-9.jpg
+      bytes: 259677
+      sha256: 5c877f0bebd07f08e209c2cb385df207f67717d642a60395496342a1d65932b5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

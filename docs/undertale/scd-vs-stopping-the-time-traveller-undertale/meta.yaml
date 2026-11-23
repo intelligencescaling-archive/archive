@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scd-vs-stopping-the-time-traveller-undertale
+category: doc
+title: SCD vs Stopping the Time Traveller (Undertale)
+alt_titles:
+- SCD vs stopping the Time Traveller
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- undertale
+characters:
+- sans
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1unql4x/scd_vs_stopping_the_time_traveller/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1477
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 93524
+      sha256: 7891082469387dfc2f31cd2cc1d31867551cc67d3d6f573f5c19985fb4c3a5bd
+    - format: jpg
+      name: image-2.jpg
+      bytes: 27855
+      sha256: 4cfb29978d3432578c675fc826f9ae6357da41815d765357e04a142e32a27810
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

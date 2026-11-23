@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-false-personas-classroom-of-the-elite
+category: doc
+title: Ayanokoji's False Personas (Classroom of the Elite)
+alt_titles:
+- Ayanakoji's False Personas
+authors:
+- name: CommonSence123
+  reddit: CommonSence123
+  id: commonsence123
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qc3x8r/ayanakojis_false_personas/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1442
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1502096
+      sha256: 212c9090072c3309a03344b144066b6f3bf4f7ff8871134b7bed724b3e4e3416
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-emily-s-springlock-designs-are-an-underrated-feat-fnaf
+category: doc
+title: Henry Emily's Springlock Designs Are an Underrated Feat (FNAF)
+alt_titles:
+- The designs of the Springlocks are a pretty underrated feat for Henry Emily
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w3zd3a/the_designs_of_the_springlocks_are_a_pretty/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 682
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 46800
+      sha256: 213d7c6a545fccbc91d77f7029b74f524ceeba13b383712dd99655aa7d771f56
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

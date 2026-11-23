@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-crenetick-s-post-on-light-yagami-being-fodder
+category: doc
+title: Debunking Crenetick's Post on Light Yagami Being Fodder (Death Note)
+alt_titles:
+- Debunking Crenetick’s post on Light Yagami being a fodder
+authors:
+- name: Economy_Echo_8500
+  reddit: Economy_Echo_8500
+  id: economy-echo-8500
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q7chx3/debunking_creneticks_post_on_light_yagami_being_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 890
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

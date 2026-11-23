@@ -1,0 +1,55 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monitor-hax-clarified-and-a-buff-to-the-wammy-s-house
+category: doc
+title: Monitor Hax Clarified, and a Buff to the Wammy's House Narrative (Death Note)
+alt_titles:
+- A little clarification about Monitor Hax, and a buff to the Whammy's House narrative
+authors:
+- name: v5mk
+  reddit: v5mk
+  id: v5mk
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+- nate-river
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o9t78p/a_little_clarification_about_monitor_hax_and_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 926
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 241151
+      sha256: 0a53965d805a322e8dc2be63da84354800b79da2df300264e7e0d5ff74826a2a
+    - format: png
+      name: image-2.png
+      bytes: 326819
+      sha256: 8bedaf638c095df0cb52259f883f8759b5b9449a72c77df9c4a03f00681a9c17
+    - format: png
+      name: image-3.png
+      bytes: 93722
+      sha256: fdd8ceef195e3f817e4f4d23983375912cc30a1ba733208407b7fea2ab4db0f6
+    - format: png
+      name: image-4.png
+      bytes: 139612
+      sha256: 6f393440c72e2c3a38f9ecb9261e3bcfcd3d7df8f0ce58124a41064a049e3cc4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

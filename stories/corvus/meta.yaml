@@ -1,0 +1,128 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: corvus
+category: story
+title: Corvus
+alt_titles:
+- Ignis Fatuus
+- The Living City
+- Eyes Wide Shut
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Ignis Fatuus, Part One: Corvus'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o7w4dm/fanfic_of_the_sub_ignis_fatuus_part_onecorvus/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1095
+    files: []
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Ignis Fatuus, Part Two: The Runaway'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oasdi6/fanfic_of_the_sub_ignis_fatuus_part_two/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1256
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'The Living City, Part Three: Contact'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ogzuu8/fanfic_of_the_sub_the_living_city_name_change/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 774
+    files: []
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Eyes Wide Shut, Part Four: My Eyes'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ojp21z/fanfic_of_the_sub_eyes_wide_shut_name_change_pt/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1268
+    files: []
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'Eyes Wide Shut, Part Five: Cannot See'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ony86h/fanfic_of_the_sub_eyes_wide_shut_part_4_or_5_i/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 958
+    files: []
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'Corvus, Part Six: Some Answers'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ot4kay/fanfic_of_the_sub_corvuspart_six/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1460
+    files: []
+    text:
+      file: text-6.txt
+      method: reddit-text
+- title: 'Corvus: A Direct Conversation'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ovs63m/fanfic_of_the_sub_corvusa_direct_conversation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 667
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 173918
+      sha256: d6f21fc369f8ad9e8ced053273e9137cf822bae6ab35ecad7d1bdb1fe7290914
+    text:
+      file: text-7.txt
+      method: reddit-text
+- title: 'Corvus: The Fusion (Ending One)'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oz637n/fanfic_of_the_sub_corvus_the_fusion/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 925
+    files: []
+    text:
+      file: text-8.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

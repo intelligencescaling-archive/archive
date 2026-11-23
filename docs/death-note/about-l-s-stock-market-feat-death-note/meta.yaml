@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: about-l-s-stock-market-feat-death-note
+category: doc
+title: About L's Stock Market Feat (Death Note)
+alt_titles:
+- About Stock market feat
+authors:
+- name: lawligh0
+  reddit: lawligh0
+  id: lawligh0
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- rebunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1weponq/about_stock_market_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1849
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 33133
+      sha256: d686007466e2cf4544c1c964e8519fa9b05ff5a76bad03397f55f7839fb2cfdd
+    - format: jpg
+      name: image-2.jpg
+      bytes: 60025
+      sha256: 3d7614f513837fb30c12db65fcdddbd59869dfd95099640ff579b0b0a65600d1
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: short-ukai-zero-100-poker-analysis-gambling-emperor-legend
+category: doc
+title: Short Ukai Zero 100 Poker Analysis (Gambling Emperor Legend Zero)
+alt_titles:
+- Short Ukai Zero 100 card poker analysis
+authors:
+- name: Murky_Possibility655
+  reddit: Murky_Possibility655
+  id: murky-possibility655
+  source: reddit-post
+series:
+- gambling-emperor-legend-zero
+characters:
+- ukai-zero
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xqj370/short_ukai_zero_100_card_poker_analysis/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1492
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+      image-3: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

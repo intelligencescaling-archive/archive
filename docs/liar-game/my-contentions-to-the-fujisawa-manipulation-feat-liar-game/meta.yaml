@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-contentions-to-the-fujisawa-manipulation-feat-liar-game
+category: doc
+title: My Contentions to the Fujisawa Manipulation Feat (Liar Game)
+alt_titles:
+- My contentions to Fujisawa manipulation feat (sort of a debunk)
+authors:
+- name: TheNamelessMonster_-
+  reddit: TheNamelessMonster_-
+  id: thenamelessmonster
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uaatqu/my_contentions_to_fujisawa_manipulation_feat_sort/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 718
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 28764
+      sha256: 5e47534923ed42875eceb74855d14893ed9b615b562af6dac3f4d3572ad43915
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

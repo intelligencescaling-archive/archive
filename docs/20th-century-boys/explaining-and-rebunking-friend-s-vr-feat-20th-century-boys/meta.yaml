@@ -1,0 +1,119 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explaining-and-rebunking-friend-s-vr-feat-20th-century-boys
+category: doc
+title: Explaining and Rebunking Friend's VR Feat (20th Century Boys)
+alt_titles:
+- Explaining and rebunking Friend’s VR feat (minor spoilers for 20th CB)
+authors:
+- name: Top-Order7475
+  reddit: Top-Order7475
+  id: top-order7475
+  source: reddit-post
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- rebunk
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sclrel/explaining_and_rebunking_friends_vr_feat_minor/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1021
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 148136
+      sha256: c4d912d9f05cbdd41543b92a286f663c233b098f43965f815b214f59d3fc16c8
+    - format: jpg
+      name: image-2.jpg
+      bytes: 135685
+      sha256: ce0e40fd8dddb7b217f67407881c7b4f3f8f14900ab657868283a19ec5e6ac50
+    - format: jpg
+      name: image-3.jpg
+      bytes: 134410
+      sha256: 9a8d7a5eb349ce0c9206b1218e2c17839eaad83eeea89fd7aa9ca4016a5dbf1d
+    - format: jpg
+      name: image-4.jpg
+      bytes: 140941
+      sha256: c5eb5584347eb22b9675dd47806c9509d3d501fdc6de7403f73eb1bc94b7b207
+    - format: jpg
+      name: image-5.jpg
+      bytes: 150085
+      sha256: c4407aee9466367249a8fcd3d6698fb912ca69f49c6c4a4265e5386b884ad805
+    - format: jpg
+      name: image-6.jpg
+      bytes: 163158
+      sha256: 9bced9acaf75757ceffae4f0b0ba7868556e53c085f9c42ab1b09f363236efc0
+    - format: jpg
+      name: image-7.jpg
+      bytes: 137068
+      sha256: d9f42e88e452c2de471c09ff6580a271e03f8c15e32832d2ffedf19246ee0b05
+    - format: jpg
+      name: image-8.jpg
+      bytes: 177028
+      sha256: 718fc6c1b29172fc9f6ac2635ab5adb51676ff3ae6739ca955b3e7888f4d4617
+    - format: jpg
+      name: image-9.jpg
+      bytes: 139770
+      sha256: 8ac0f721c00b3a4e3860bb424fff81905b9781703e85125294a747c4b6eec000
+    - format: jpg
+      name: image-10.jpg
+      bytes: 143520
+      sha256: 3eebfc9deea5ba239e97230610214aa8c682d2c51d7d4ddeb9a01bae760de62c
+    - format: jpg
+      name: image-11.jpg
+      bytes: 113525
+      sha256: 98b7a6b0b90942c17c99f1d9b30d9ba1495e2d2d0563543126531417fd1fd330
+    - format: jpg
+      name: image-12.jpg
+      bytes: 136160
+      sha256: e6ff60ac4f645a6edc4faa1ecabb2bd405e307a73e48d8eb44967da3323b391e
+    - format: jpg
+      name: image-13.jpg
+      bytes: 143940
+      sha256: 9b6608eec926791c1f149a37e5e30cbd68168a8953c6f9ab92e8ce223d2e0efe
+    - format: jpg
+      name: image-14.jpg
+      bytes: 150318
+      sha256: c822d803fa471bcff9fef6ebe35ecbc8bb1197ea596ffbc2cf402121b83b32a3
+    - format: jpg
+      name: image-15.jpg
+      bytes: 128206
+      sha256: 6c691ed57ddf8f50015e364789b89618351b1734a9c27f5bfbcb22654bec9cf9
+    - format: jpg
+      name: image-16.jpg
+      bytes: 141409
+      sha256: 9d41d2fc1139a982eb5025cb2bf8b03b6b5c69f0abb7866b5e149474a2edfe5f
+    - format: jpg
+      name: image-17.jpg
+      bytes: 138392
+      sha256: 4c78a300aafcea23478073e4c8600fc5f896a353dba4d6b6467d53b56062d5fc
+    - format: jpg
+      name: image-18.jpg
+      bytes: 150927
+      sha256: c63c36ed44b395d41fdd42dabcd976f8f96d942cc70867c95e2c2a53ce770806
+    - format: jpg
+      name: image-19.jpg
+      bytes: 120209
+      sha256: dd52e13d8695e46d8b3cc5ce6c9a95da555177c945a3b495a9b7912a5bb4ffe8
+    - format: jpg
+      name: image-20.jpg
+      bytes: 162643
+      sha256: a5813a788565fdcf775397559671533958ee2b3691cb2a40fcf278985f5bbd2c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

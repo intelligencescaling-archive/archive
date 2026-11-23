@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: feats-anti-feats-and-limit-feats
+category: doc
+title: Feats, Anti-Feats and Limit Feats
+alt_titles:
+- 'META: Feats, Anti-Feats and Limit Feats'
+authors:
+- name: Effective-Emu-9938
+  reddit: Effective-Emu-9938
+  id: effective-emu-9938
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1txwvnb/meta_feats_antifeats_and_limit_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 772
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 48327
+      sha256: 23787c24a0679e5d63cbf7e912d015594566e52d352114697f234cd49381857f
+    - format: jpg
+      name: image-2.jpg
+      bytes: 81865
+      sha256: f124e113a1b9f8be68a04bd8497a17c7e78e2685469198bab28863ebc695fbb9
+    - format: jpg
+      name: image-3.jpg
+      bytes: 8550
+      sha256: ac5904bcfd7946d2c6a6fa077dff331c0a4059421f2f0be0dabe8e5ed96baab5
+    - format: jpg
+      name: image-4.jpg
+      bytes: 38049
+      sha256: f95d480c769b46dfdf2ac7aebb9611b6811eb7afb3af52ee3007b61f6f05b005
+    - format: jpg
+      name: image-5.jpg
+      bytes: 35261
+      sha256: 41d1bad0d8c75f0337f79c8e0672dd4baa3a2911c39ce410f9ebdba4c99fb0a1
+    - format: jpg
+      name: image-6.jpg
+      bytes: 34454
+      sha256: 7626acb72a84fc1ddee70430c7c603298c787ee552ee8dd18a5ee550ab66426f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

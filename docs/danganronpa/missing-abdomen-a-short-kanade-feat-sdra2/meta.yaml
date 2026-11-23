@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: missing-abdomen-a-short-kanade-feat-sdra2
+category: doc
+title: 'Missing Abdomen: A Short Kanade Feat (SDRA2)'
+alt_titles:
+- Missing Abdomen - A Short Kanade Feat
+authors:
+- name: Recover-Last
+  reddit: Recover-Last
+  id: recover-last
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xh4o1k/missing_abdomen_a_short_kanade_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 797
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1756031
+      sha256: eacf4f269dac1837494f64d1a79d1a2d2824698f6d82aea26b5e587a809c0b33
+    - format: png
+      name: image-2.png
+      bytes: 1613832
+      sha256: 05fff5abaac5c560be8dc5d8944178d8815b0a1aee9dd1f44108d29e6ae38866
+    - format: png
+      name: image-3.png
+      bytes: 114620
+      sha256: c4ffe56913c3879e2732effc5a89185132112d7ef63aa9587735cc0dcc930baa
+    - format: png
+      name: image-4.png
+      bytes: 1643119
+      sha256: ec1aec9517e58db9b84f99ea0345e0a4a7f857e611b14312b95b8f6a3893827d
+    - format: png
+      name: image-5.png
+      bytes: 1751956
+      sha256: 292821d906ac608cf822974eae9b6a1913bbc1234d30526f36447d7a6e170afb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

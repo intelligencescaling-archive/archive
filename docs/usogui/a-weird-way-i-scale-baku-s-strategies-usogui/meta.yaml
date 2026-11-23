@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-weird-way-i-scale-baku-s-strategies-usogui
+category: doc
+title: A Weird Way I Scale Baku's Strategies (Usogui)
+alt_titles:
+- Weird Way I scale Baku's strategies
+authors:
+- name: ApprehensiveGrab6086
+  reddit: ApprehensiveGrab6086
+  id: apprehensivegrab6086
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- feats
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xkywnm/weird_way_i_scale_bakus_strategies/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 861
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

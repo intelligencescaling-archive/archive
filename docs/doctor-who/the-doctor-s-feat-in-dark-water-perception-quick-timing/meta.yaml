@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-feat-in-dark-water-perception-quick-timing
+category: doc
+title: The Doctor's Feat in Dark Water (Perception, Quick Timing, Deception, Acting) (Doctor Who)
+alt_titles:
+- Random Doctor Who Feat from Dark Water that I haven't seen people mention (Perception, Quick Timing, Deception, Acting Skills)
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+- clara-oswald
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n9qlq6/random_doctor_who_feat_from_dark_water_that_i/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 608
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

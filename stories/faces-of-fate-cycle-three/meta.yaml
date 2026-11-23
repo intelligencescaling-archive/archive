@@ -176,8 +176,21 @@ parts:
     text:
       file: text-10.txt
       method: reddit-text
+- title: Grand Finale
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ni7i9c/fanfic_of_the_sub_the_scholars_cycle_grand_finale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2634
+    files: []
+    text:
+      file: text-11.txt
+      method: reddit-text
 found_in: []
 added: '2026-11-15'
 review:
   status: auto
-  check: []
+  check:
+  - characters

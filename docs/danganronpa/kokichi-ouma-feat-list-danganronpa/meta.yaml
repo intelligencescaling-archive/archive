@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kokichi-ouma-feat-list-danganronpa
+category: doc
+title: Kokichi Ouma Feat List (Danganronpa)
+alt_titles:
+- Kokichi Ouma feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kokichi-oma
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o0cdxx/kokichi_ouma_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1050
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 97162
+      sha256: 92275844e02e4a3f9baa5217031eedae73481f60740ed828b37e51cf4054d1dc
+    - format: jpg
+      name: image-2.jpg
+      bytes: 63191
+      sha256: b0bc9c961abce0e61f98574f8ca2fda97c5437086f79bc923a2e993ecb70b623
+    - format: jpg
+      name: image-3.jpg
+      bytes: 36709
+      sha256: b7c4f1497a0f959bc5488a330ed76bd2ed5374ca8bd963e73042ce9975845d55
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

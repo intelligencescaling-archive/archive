@@ -1,0 +1,119 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: leader-s-endurance-battle-strategy-in-stl-usogui
+category: doc
+title: Leader's Endurance Battle Strategy in STL (Usogui)
+alt_titles:
+- Leader's Endurance Battle Strategy
+authors:
+- name: RedDeathSwayOverAll
+  reddit: RedDeathSwayOverAll
+  id: reddeathswayoverall
+  source: reddit-post
+series:
+- usogui
+characters:
+- kiruma-souichi
+- baku-madarame
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qf8ebn/leaders_endurance_battle_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1973
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1385282
+      sha256: 1cb50fd159116269bb8d357a870a9e6330c17567ec1a05289a23d6cf5cb33926
+    - format: png
+      name: image-2.png
+      bytes: 1193153
+      sha256: c78d7a735c8ce95700e1c71e986a84f1f69d5bc1c1babf45dea561dd2a521450
+    - format: png
+      name: image-3.png
+      bytes: 1601339
+      sha256: bb9b8dd6d25bd756b95d1dd4f392ca881c564259cbcf508992c8e4dff485f58c
+    - format: jpg
+      name: image-4.jpg
+      bytes: 250248
+      sha256: 14b539e9f6ea82b8f4b6437e96a9d225d602f81d2bec93bbd7ef73dfc83f3e7d
+    - format: jpg
+      name: image-5.jpg
+      bytes: 240617
+      sha256: 579811087ed39f460586868e6f328760593a11bb77ec3e1ff88595e2612954e8
+    - format: jpg
+      name: image-6.jpg
+      bytes: 184619
+      sha256: 479c8375b60838c56a81c21a177e4fd30d3ba7669c263cceef0f7a2c7e2cc628
+    - format: jpg
+      name: image-7.jpg
+      bytes: 297772
+      sha256: 1cf63998d1159d8b60d6e05f5eeeba7aef7fe013a5c39daa63112289edaafa83
+    - format: jpg
+      name: image-8.jpg
+      bytes: 223944
+      sha256: c2e4e30cc6c66e2fabb8a4f60bdfd8d9ab7d5bbbab4997d4d13212f82e55dd56
+    - format: jpg
+      name: image-9.jpg
+      bytes: 225534
+      sha256: f073b445fca72a1691b388b6e5466a83f5f06bebe9b32e8070b891d350fa4bdb
+    - format: jpg
+      name: image-10.jpg
+      bytes: 293731
+      sha256: 9a04f8157a5abb6b5eaa098805988f208ec15d3cf98837fa8488a24cd2b055d3
+    - format: jpg
+      name: image-11.jpg
+      bytes: 162170
+      sha256: 71a4ac531cb8b65dc8d7dee853d26e80f6c4d3a3e0451608c339c4ebda4aba35
+    - format: jpg
+      name: image-12.jpg
+      bytes: 231277
+      sha256: 83a54ed8cc8bca53c2f3a80e645866ccae1992b6b9555353833126e1b4bd80a4
+    - format: jpg
+      name: image-13.jpg
+      bytes: 197418
+      sha256: 38f75d320df367ded96ed9a827bd39c140eed4165f589095c8088ad9fd2b7ad6
+    - format: jpg
+      name: image-14.jpg
+      bytes: 243867
+      sha256: b319c1cd0739a21da84884fcb08cd4869a04afc435381d4940bd2986e3bb5b42
+    - format: jpg
+      name: image-15.jpg
+      bytes: 207368
+      sha256: b4dbea158c8faec88d89a6665968229e1bc91a919cae0eb75abf2e647a25df74
+    - format: jpg
+      name: image-16.jpg
+      bytes: 259677
+      sha256: 5c877f0bebd07f08e209c2cb385df207f67717d642a60395496342a1d65932b5
+    - format: jpg
+      name: image-17.jpg
+      bytes: 221002
+      sha256: 2372c3ed7acf075c35b70e773b26474b8ab621cd0118bf6e6342fc28d9e0a853
+    - format: jpg
+      name: image-18.jpg
+      bytes: 219483
+      sha256: 358a966712cbdf0bf1584c39e759cd7f26b9d427c7c492f7cb1e0ef4c7fe3e17
+    - format: jpg
+      name: image-19.jpg
+      bytes: 267036
+      sha256: eaf60ab80189b0557b1ca4f62905f8acbf623eb5993710dd9be9aeac04681f62
+    - format: jpg
+      name: image-20.jpg
+      bytes: 228312
+      sha256: b8c9de4b2af3186950452645f3a13ff3e6c910660cf51659b78cdb9a03081629
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

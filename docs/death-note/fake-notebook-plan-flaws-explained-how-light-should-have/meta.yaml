@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fake-notebook-plan-flaws-explained-how-light-should-have
+category: doc
+title: 'Fake Notebook Plan Flaws Explained: How Light Should Have Done It to Win Against Near and MT Near (Death Note)'
+alt_titles:
+- Fake notebook plan flaws explained (How Light SHOULD have done it to win against Near and even MT Near)
+authors:
+- name: Complex-Engineer-920
+  reddit: Complex-Engineer-920
+  id: complex-engineer-920
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ujdl4j/fake_notebook_plan_flaws_explained_how_light/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1519
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 46649
+      sha256: c862a26878d6fb8eec065566e0ebea1da4a371ca89559f5d2a27acec9146f265
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

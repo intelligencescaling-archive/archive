@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-vs-moon-seonghyun-in-strategy-the-mentalist-vs
+category: doc
+title: Patrick Jane vs Moon Seonghyun in Strategy (The Mentalist vs Dr. Frost)
+alt_titles:
+- Who takes Akiyama (strategy)
+authors:
+- name: ZZ_Zz9he
+  reddit: ZZ_Zz9he
+  id: zz9he
+  source: reddit-post
+series:
+- the-mentalist
+- dr-frost
+characters:
+- patrick-jane
+- moon-seonghyun
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hhkxcx/who_takes_akiyama_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 923
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

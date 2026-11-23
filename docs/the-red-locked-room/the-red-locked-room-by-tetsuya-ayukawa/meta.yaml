@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-red-locked-room-by-tetsuya-ayukawa
+category: doc
+title: The Red Locked Room by Tetsuya Ayukawa
+authors:
+- name: TTT948
+  reddit: TTT948
+  id: ttt948
+  source: reddit-post
+series:
+- the-red-locked-room
+characters:
+- ryuzo-hoshikage
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xbri07/the_red_locked_room_by_tetsuya_ayukawa/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2975
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35884
+      sha256: 92a03423ea5028fe86cc13cb366885c746a3fc4717a080377b6df7ec6ae69b44
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

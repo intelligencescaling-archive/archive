@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: edison-crane-s-feats-prodigy
+category: doc
+title: Edison Crane's Feats (Prodigy)
+alt_titles:
+- 'USOGUI VICTIMIZER THE PRODIGY AKA "EDISON CRANE" DISCLAIMER: LONG LIST OF FEATS WILL BE REVEALED.'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- prodigy
+characters:
+- edison-crane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wa1hh3/usogui_victimizer_the_prodigy_aka_edison_crane/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 4061
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 24398
+      sha256: 10e4915896d102b7d35b48712bc0a9a98ced83aa93ff779a250e5a45dc5d28fd
+    - format: jpg
+      name: image-2.jpg
+      bytes: 2614
+      sha256: ae8a842900c7466f87e274525bd1c17cd65df5a8f75567c49b2f145746108d9b
+    - format: jpg
+      name: image-3.jpg
+      bytes: 169022
+      sha256: dd9786d205034a0d48cb8237c9ca13ab6f4b3c22f72971c0c11d808db894a536
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

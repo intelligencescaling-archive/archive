@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ctw-light-s-1-4-billion-names-feat-cpi-ee-em-and-aq-death
+category: doc
+title: 'CTW Light''s 1.4 Billion Names Feat: CPI, EE, EM and AQ (Death Note)'
+authors:
+- name: v5mk
+  reddit: v5mk
+  id: v5mk
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jpijef/ctw_light_cpieeaq_feat_drop_not_his_strongest_cpi/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 2109
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

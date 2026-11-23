@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-auguste-dupin-s-mind-reading-feat-in-the
+category: doc
+title: Analysis of Auguste Dupin's Mind-Reading Feat in The Murders in the Rue Morgue
+alt_titles:
+- Analysis of August Dupins mind reading feat in The Murders At The Rue Morgue
+authors:
+- name: ResponseLower49
+  reddit: ResponseLower49
+  id: responselower49
+  source: reddit-post
+series:
+- c-auguste-dupin
+characters:
+- c-auguste-dupin
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u73hfo/analysis_of_august_dupins_mind_reading_feat_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2319
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 47805
+      sha256: ddd2d2209538ff11cdb50c34472a2ba286f645bd8b4b35ef2707c3aa8c627f4d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: eren-yeager-is-not-all-hax-attack-on-titan
+category: doc
+title: Eren Yeager Is Not All Hax (Attack on Titan)
+alt_titles:
+- “Eren Yeager shouldn’t be in SCD, He is all Hax!” Please… Shut Up.
+authors:
+- name: Inevitable_Dig_7080
+  reddit: Inevitable_Dig_7080
+  id: inevitable-dig-7080
+  source: reddit-post
+series:
+- attack-on-titan
+characters:
+- eren-yeager
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ipr757/eren_yeager_shouldnt_be_in_scd_he_is_all_hax/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 550
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 78438
+      sha256: 5ce7fb4f3fa804c9e97416ba4b0836a275d494bbea86553e55761c858fa93ccd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

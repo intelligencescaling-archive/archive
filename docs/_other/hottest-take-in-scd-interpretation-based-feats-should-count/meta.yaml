@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hottest-take-in-scd-interpretation-based-feats-should-count
+category: doc
+title: 'Hottest Take in SCD: Interpretation-Based Feats Should Count Less'
+alt_titles:
+- Hottest take in SCD
+authors:
+- name: Alert-Researcher7788
+  reddit: Alert-Researcher7788
+  id: alert-researcher7788
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rm9y03/hottest_take_in_scd/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 798
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

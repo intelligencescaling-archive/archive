@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: heiji-ishigami-s-damage-control-feat-oc-scaling
+category: doc
+title: Heiji Ishigami's Damage Control Feat (OC Scaling)
+alt_titles:
+- 'Since I saw someone do this: OC scaling time? (I dunno what to tag with)'
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ld0s73/since_i_saw_someone_do_this_oc_scaling_time_i/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 589
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 392391
+      sha256: b6452483d85395e1591a8824e21c2c1a8555111eeb50812e20fb84c6cbd165e2
+    - format: jpg
+      name: image-2.jpg
+      bytes: 308742
+      sha256: 9f75afa49846a0b47dbce88eda3232e74c7aa498060297d22d1e38810bea765c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-jigsaw-played-matthews-in-saw-ii-saw
+category: doc
+title: How Jigsaw Played Matthews in Saw II (Saw)
+alt_titles:
+- So I just got done watching Saw I & II...
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- saw
+characters:
+- john-kramer
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q1njuo/so_i_just_got_done_watching_saw_i_ii/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1249
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 6942
+      sha256: 9ae770f0aedbb7b44e175b00a3b6c7c068341f70ff5d3655d5d6cc4f0f2f8b2e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

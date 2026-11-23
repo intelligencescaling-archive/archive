@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: methodology-scaling-complete-explanation-updated-2026
+category: doc
+title: 'Methodology Scaling: Complete Explanation (Updated 2026)'
+alt_titles:
+- Methodology Scaling Complete Explanation Updated 2026 (Strict non-diegetic Methodology Scaling)
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x82red/methodology_scaling_complete_explanation_updated/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 4160
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

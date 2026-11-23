@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-thoughts-on-ayanokoji-before-rereading-cote
+category: doc
+title: My Thoughts on Ayanokoji Before Rereading COTE
+alt_titles:
+- My thoughts before rereading COTE
+authors:
+- name: lawligh0
+  reddit: lawligh0
+  id: lawligh0
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1y1zh85/my_thoughts_before_rereading_cote/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1730
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 74934
+      sha256: f16a618ea0941cfb6616b986fcb221c273de2d38dc269556e667612fa69dd8e5
+    - format: jpg
+      name: image-2.jpg
+      bytes: 104962
+      sha256: 608bd17b804ae8df5fb14f838aa5c14d5a1d4ec545aef4705ff9d66970c006fc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

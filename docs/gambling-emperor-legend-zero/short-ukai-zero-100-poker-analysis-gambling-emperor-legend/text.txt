@@ -1,0 +1,109 @@
+Short Ukai Zero 100 card poker analysis
+
+I recently started reading Ukai Zero and after finishing 100 poker arc Ukai Lowk had some insane Foresight , Reasoning and also pretty neat tactics in this arc
+so decided to make a short analysis on it.
+
+**Overview**
+This is an analysis of Ukai Zero’s 1st game of 100 Poker against Junko where Ukai went with merely 18 million while Junko had an extra pile of cash and would hence be forced to have a tooth extracted from her for every million he can’t pay her
+
+* Each player will use their own deck of 52 cards to form 10 hands where they would duke it out with their opponents hands.
+* 1 Game consists of 10 rounds a player where both players will spend 4 consecutive turns in Offence and 4 consecutive turns in defense
+* The player playing Offence can choose which deck of his opponents(Which is placed face down ofc) does he wanna compare his hand to
+* The player that started at defense will play offense for the last 2 rounds
+* 1 million yen per point and 1 million yen per win loss different
+* A point is the numeric value of the highest card in a hand that u win (for example if win having a straight like 9,8,7,6,5 u get 9 points)
+* Suit order hierarchy is specifically defined as **spades > hearts > diamonds > clubs**
+* The game also consisted of rules which Junko purposefully hid by writing in arabic or by writing upside mainly the rule regarding shopping time which allows you to purchase cards that give u the ability Start, See a type of your opponents cards or even raise the stakes astronomically
+
+**Note:**
+**The rules of the game have been included as a premise mainly to make the conclusion come more naturally from the premises and to establish a clear timeline.**
+**The P and C have been ordered to match the timeline from the game(i.e C6 was reasoned out before P8 was presented to Ukai) this is important in scaling the above feat since Even before the game started and rules were explained to him, Ukai had reasoned out specific details about the game.**
+
+# 100 POKER REASONING
+
+**Based off Emails**
+P1 Junko emailed Ukai to bring a deck of cards to play a high stakes game of Poker
+
+P2 Given how the gamble has extremely high stakes it seems illogical to let your opponent choose the deck since they can easily cheat by marking cards
+
+C1 The game will very likely be of a type where both sides would very likely use 1 deck of their own
+
+P3 An additional rule in some Variants of Poker is that you can generally alter your hand midway through the game, if a player brings their own deck to the game they can use this to their advantage to improve their hand midgame if they have marked the cards appropriately
+
+C2(Given P2 and P3) In this game of Poker the hands will very likely stay static from beginning to the end.
+
+P4 Junko also tells Ukai to bring only Cash and that he cannot contact anyone outside once he enters
+
+C3 (Given P4) Junko doesn’t want Ukai to get any extra funds in the middle of the game.
+
+P5 Junko claims to be undefeated in Poker
+
+C4 (P5 If taken literally) makes it seem extremely likely that she would attempt to cheat or gain an unfair advantage to get such an absurd win streak in Poker
+
+**On Arrival at Junko’s house**
+P6 Junko makes sure to check the amount of Money Ukai zero had when he entered the mansion while also having a huge stack of money
+
+C5 (From C5 and P6) This confirms that Junko intends to leverage her massive financial asymmetry to exploit Ukai's low capital.
+
+P7 In Poker there are 2 definite ways to win a round
+1) To have a superior hand than ur opponent
+2) to directly keep on raising more amounts than the opponent can match
+
+P8 When Ukai asked her about their uneven amounts and how she can easily keep on raising more than he can match she says that there are no raises in the game
+
+P9 Inside the room there was an area covered by suspicious looking curtains
+
+P10
+100 Poker rules (that Ukai was made aware of) are as follows:
+
+* Each player will use their own deck of 52 cards to form 10 hands where they would duke it out with their opponents hands.
+* 1 Game consists of 10 rounds a player where both players will spend 4 consecutive turns in Offence and 4 consecutive turns in defense
+* The player playing Offence can choose which deck of his opponents(Which is placed face down ofc) does he wanna compare his hand to
+* The player that started at defense will play offense for the last 2 rounds
+* 1 million yen per point and 1 million yen per win loss different
+* A point is the numeric value of the highest card in a hand that u win (for example if win having a straight like 9,8,7,6,5 u get 9 points)
+* Suit order hierarchy is specifically defined as **spades > hearts > diamonds > clubs**
+
+P11 In order to gain a decisive advantage in 100 Poker one must satisfy 3 conditions
+
+1. To make sure that u have as much knowledge a possible on ur Opponents best hands
+2. To be able to attack first so u can waste ur opponents best card on ur worst and use ur best hands to beat ur opponents better ones.
+
+C6 Given that one can choose your hands generally the conventional deck choices would be to have 4 royal straight flushes, have 4 (9,8,7,6,5) straight flushes and have 2 4 of a kinds of 3 and 4
+
+C7  (From C6 and P11) It is most beneficial to know where the opponent’s A’s are which will locate all their royale flushes so u can match their best with ur worse hand and accordingly match his other 3 to be worse than ur 3 royale straight flushes.
+This would guarantee u 5 victories since u will still have 1 royale flush and one (9,8,7,6,5) straight flush of spades that will win.
+
+C8 To conclude Junko wud very likely pull a trick to gain an advantage in the room with curtains where one can purchase commodities that would allow one to See Ukai’s Aces and Play first
+
+**>Contextual transition (after shopping time)**
+
+P10 After the shopping time ukai uses one of his windows(allows you to see one type of cards of the opponent)  and hits a 4 He notices Junko looking through 2 decks and then revealing one of them as a four of a kind of 4’
+
+C9 The other hand she looked through has to be a four of a kind of 3’s
+
+P11 When matching her 3 best Royale flushes with Ukai’s Junko looks checks a 4th deck as well
+
+C10 That deck is Junko’s other Royale straight flush
+
+**Ukai’s Counteraction**
+
+**>Card misdirection**
+After reasoning out Junko’s trap before
+**Royale flush of Spades**
+**Regular Ace High flushes of all other suits (A,K,Q,J,5)**
+**(9,8,7,6,5) 9 high straight flush of Spades**
+**(10,9,8,7,6) 10 high straight flush of all other suits**
+**Four of a kind of 4’s and 3’s**
+
+Firstly his straight flush of spades which is an authentic Royale flush that conditions Junko into believing the remaining 3 will also be one of the same type
+Ukai also deceives his ally to make sure that she can’t read his expressions he does this by holding all 6 cards while making his hand and secretly takes out the 10 of spades under his palm
+And he also asks the dealer to only reveal his top 4 cards of the straight flush while keeping his 5’s hidden.
+
+![img](ykep714jp90i1 "Scan regarding Ukai's card handling")
+
+During the shopping Time Ukai buys a small window and normal window(one allows u to reveal all types of a specific number if they hit the dart correctly and the other allows him to see only 1 specific card of his choice)  he purchases the small window in order to make sure that he can find Junko’s 9 high straight flush of spades to avoid a draw due to him also having a 9 high straight flush of spades.
+
+This allowed him to counter the remaining hands of Junko and achieve a 63-60 point victory against junko.
+
+Sry if this analysis seems a bit messy since the arc did have things that felt kinda weird while explaining so anw, Feel free to comment what u think or point out anything u wanna say.

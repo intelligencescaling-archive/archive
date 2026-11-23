@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: li-gang-s-unification-war-strategy-vile-dominion
+category: doc
+title: Li Gang's Unification War Strategy (Vile Dominion)
+alt_titles:
+- A short explanation on Li Gang's Unification War strategy.
+authors:
+- name: NotSoSmart92
+  reddit: NotSoSmart92
+  id: notsosmart92
+  source: reddit-post
+series:
+- vile-dominion
+characters:
+- li-gang
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w2i6he/a_short_explanation_on_li_gangs_unification_war/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 541
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 500530
+      sha256: 5fec41221795aef88d86cf18e3e430f429d5271468e186d3281d0e72398d7d30
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

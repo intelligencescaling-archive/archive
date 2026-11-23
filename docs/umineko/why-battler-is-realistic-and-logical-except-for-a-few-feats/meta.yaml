@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-battler-is-realistic-and-logical-except-for-a-few-feats
+category: doc
+title: Why Battler Is Realistic and Logical, Except for a Few Feats (Umineko)
+authors:
+- name: Sieben_Guts
+  reddit: Sieben_Guts
+  id: sieben
+  source: reddit-post
+series:
+- umineko
+characters:
+- battler-ushiromiya
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jxhebw/my_analysis_of_why_battler_is_unironically/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1249
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42914
+      sha256: 1cef00506c5f7f9a414edc04726b845f47a17608524bd5bd65be243d51d86ac9
+    - format: png
+      name: image-2.png
+      bytes: 1303302
+      sha256: 5b5066f5cd9aff21e65737fa8e1da0108712414fa0cb6a707a1bfddeb25cab33
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

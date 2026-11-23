@@ -1,0 +1,101 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: crossover-fanfic-complexfabulous1610
+category: story
+title: Crossover Fanfic
+authors:
+- name: ComplexFabulous1610
+  reddit: ComplexFabulous1610
+  id: complexfabulous1610
+  source: reddit-post
+series:
+- death-note
+- breaking-bad-better-call-saul
+- chainsaw-man
+- sherlock-holmes
+- detroit-become-human
+- the-shawshank-redemption
+- prison-break
+- the-mentalist
+characters:
+- light-yagami
+- jimmy-mcgill
+- makima
+- sherlock-holmes
+- connor
+- andy-dufresne
+- walter-white
+- michael-scofield
+- red-john
+tags:
+- story
+- fanfiction
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: Light Yagami Meets Alfodr'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jx84k6/coming_soon/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 653
+    files: []
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: Saul Goodman Meets Makima'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jxzrx2/fanfic_scaling_lowk_kinda_fun/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 544
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Part 3: Sherlock Holmes Meets Connor'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k2gf15/chaper_3/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 656
+    files: []
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Part 4: Andy Dufresne Meets Walter White'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k3qp3s/4/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 544
+    files: []
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'Part 5: Torn Blueprint (Michael Scofield Meets Red John)'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k6e0c9/torn_blueprint/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 993
+    files: []
+    text:
+      file: text-5.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

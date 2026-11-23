@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-red-john-case-the-mentalist
+category: doc
+title: The Red John Case (The Mentalist)
+alt_titles:
+- The Red John case
+authors:
+- name: Suspicious-Good2781
+  reddit: Suspicious-Good2781
+  id: suspicious-good2781
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wsgtxv/the_red_john_case/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1327
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 110808
+      sha256: 243a7bff63fbc421b1b231b3004b233a047480c1d742c3a81683a83eec3ec44d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

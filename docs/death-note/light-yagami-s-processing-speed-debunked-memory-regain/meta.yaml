@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-s-processing-speed-debunked-memory-regain
+category: doc
+title: Light Yagami's Processing Speed Debunked (Memory Regain, Death Note)
+alt_titles:
+- Light Yagami Processing Speed DEBUNKED Intelligent_Dog DEBUNKED
+authors:
+- name: MrDisintegrator
+  reddit: MrDisintegrator
+  id: mrdisintegrator
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o9ukq0/light_yagami_processing_speed_debunked/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 2380
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

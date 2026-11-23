@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-emily-s-inference-and-reasoning-chain-before-his-plan
+category: doc
+title: Henry Emily's Inference and Reasoning Chain Before His Plan in FNAF 6
+alt_titles:
+- 'Henry Emily’s inference/reasoning chain he had to do before his plan in FNAF 6:'
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v2d3s7/henry_emilys_inferencereasoning_chain_he_had_to/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 937
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 81603
+      sha256: 5bc22fd66b16966be57ee2e59520bafbc4ee0c21c359f883f5ff67f3e714a15d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

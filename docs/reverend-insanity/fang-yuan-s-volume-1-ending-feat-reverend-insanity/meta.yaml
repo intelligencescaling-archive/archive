@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-s-volume-1-ending-feat-reverend-insanity
+category: doc
+title: Fang Yuan's Volume 1 Ending Feat (Reverend Insanity)
+alt_titles:
+- Fang Yuan Vol 1 Ending Feat Established
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wh4ujp/fang_yuan_vol_1_ending_feat_established/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 861
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 41012
+      sha256: 40cd9a0c5938e407774031a2734bd808f15592b5cf2efe238596f1f4fbfac914
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

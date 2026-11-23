@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-patrick-jane-s-eq-the-fake-psychic-the-mentalist
+category: doc
+title: 'Analysis of Patrick Jane''s EQ: The Fake Psychic (The Mentalist)'
+alt_titles:
+- Analysis of Patrick Jane's EQ. The Fake Psyhic.
+authors:
+- name: Important-Breath1297
+  reddit: Important-Breath1297
+  id: important-breath1297
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qhuf7n/analysis_of_patrick_janes_eq_the_fake_psyhic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 651
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 9476
+      sha256: 282381ea27bb8b7da8cd7a34ee7d153821c1070d17900119115a4e9a4ab22c9a
+    - format: jpg
+      name: image-2.jpg
+      bytes: 52499
+      sha256: 5abdc4827d3f83cb63a7f9040256405e2e1713b7f3b552fe2a594822bbd58bdb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

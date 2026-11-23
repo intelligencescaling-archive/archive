@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: eren-yeager-s-scd-feats-attack-on-titan
+category: doc
+title: Eren Yeager's SCD Feats (Attack on Titan)
+alt_titles:
+- Some of Eren Yeager’s SCD Feats that I have Analysed.
+authors:
+- name: Inevitable_Dig_7080
+  reddit: Inevitable_Dig_7080
+  id: inevitable-dig-7080
+  source: reddit-post
+series:
+- attack-on-titan
+characters:
+- eren-yeager
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kolh3d/some_of_eren_yeagers_scd_feats_that_i_have/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 915
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

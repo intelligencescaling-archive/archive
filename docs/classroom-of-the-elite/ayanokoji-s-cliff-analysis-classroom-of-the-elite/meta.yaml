@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-cliff-analysis-classroom-of-the-elite
+category: doc
+title: Ayanokoji's Cliff Analysis (Classroom of the Elite)
+alt_titles:
+- Making this doc is really making me tired
+authors:
+- name: Crafty_Collar_1076
+  reddit: Crafty_Collar_1076
+  id: crafty-collar-1076
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uks4jt/making_this_doc_is_really_making_me_tired/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 762
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

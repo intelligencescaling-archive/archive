@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jane-s-traps-in-the-marquesan-mansion-poisoning-case-the
+category: doc
+title: Jane's Traps in the Marquesan Mansion Poisoning Case (The Mentalist S1E15)
+alt_titles:
+- Apology post + Jane's traps in the Marquesan Mansion Poisoning Case
+authors:
+- name: Suspicious-Good2781
+  reddit: Suspicious-Good2781
+  id: suspicious-good2781
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x9rauo/apology_post_janes_traps_in_the_marquesan_mansion/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 858
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35283
+      sha256: c52ecae58e3f3902c7f0237fc8d665e00131d7b2114ef4ee64fb3b7e1691b66e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

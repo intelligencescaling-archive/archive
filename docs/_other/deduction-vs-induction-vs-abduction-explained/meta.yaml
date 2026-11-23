@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: deduction-vs-induction-vs-abduction-explained
+category: doc
+title: Deduction vs Induction vs Abduction Explained
+authors:
+- name: OnlyEinz
+  reddit: OnlyEinz
+  id: onlyeinz
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mlis3e/deduction_vs_induction_vs_abduction_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 583
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 441304
+      sha256: afaad92cb33c58901c38e930ff17866a041a7416ffc095f7dd8d0d0d3af50539
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

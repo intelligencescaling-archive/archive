@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cote-uninhabited-island-exam-analysis-y1v3
+category: doc
+title: COTE Uninhabited Island Exam Analysis (Y1V3)
+alt_titles:
+- COTE UIE Analysis
+authors:
+- name: adarshvarshan
+  reddit: adarshvarshan
+  id: adarshvarshan
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- ryuen-kakeru
+- suzune-horikita
+tags:
+- analysis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wea96v/cote_uie_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2474
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: situations-are-the-best-way-to-scale-characters-not
+category: doc
+title: Situations Are the Best Way to Scale Characters, Not Categories
+alt_titles:
+- I think situations are the best way to scale characters and trump categories
+authors:
+- name: Fit_Veterinarian_729
+  reddit: Fit_Veterinarian_729
+  id: fit-veterinarian-729
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1snoxp3/i_think_situations_are_the_best_way_to_scale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 661
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 634198
+      sha256: f75f5cc9de4b038845072465b1f7864c0fc1cee4decc5fc833b4c4ae3919b564
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

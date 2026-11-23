@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: walter-white-s-emotional-intelligence-feats-breaking-bad
+category: doc
+title: Walter White's Emotional Intelligence Feats (Breaking Bad)
+alt_titles:
+- Walter White's emotional intelligence feats
+authors:
+- name: TheRealMaster98
+  reddit: TheRealMaster98
+  id: therealmaster98
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sfzdis/walter_whites_emotional_intelligence_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3793
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 622566
+      sha256: 254b61103b97abbf8f2f542170301330c8b79ba3c5350d3e10bc7d36eaba879f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

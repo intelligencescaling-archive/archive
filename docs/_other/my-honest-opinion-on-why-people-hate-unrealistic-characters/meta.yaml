@@ -1,0 +1,74 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-honest-opinion-on-why-people-hate-unrealistic-characters
+category: doc
+title: My Honest Opinion on Why People Hate Unrealistic Characters
+authors:
+- name: Sea-Green1595
+  reddit: Sea-Green1595
+  id: sea-green1595
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jhwu34/my_honest_opinion_on_why_people_hate_unrealistic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 599
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 35205
+      sha256: 03416ab4c48aec81b1d7dec5ba69a812236159024ab1c75a2d15849ae4459790
+    - format: jpg
+      name: image-2.jpg
+      bytes: 66198
+      sha256: b11bde880592a711a91e9edfa8bcacf52f9c87774d4703cae8d6f5bacdef4d57
+    - format: jpg
+      name: image-3.jpg
+      bytes: 26966
+      sha256: 2d5fe5ebb4607a0d27c1399386ec53db01fb2d37f36e6fbf5aad2d2317ab8d89
+    - format: jpg
+      name: image-4.jpg
+      bytes: 11174
+      sha256: f13f7b3b4ef0dd0f28e043a40b5681cc59b50affae357a0fdead1bde71ef4ecc
+    - format: jpg
+      name: image-5.jpg
+      bytes: 6911
+      sha256: 58173ef4f1367c307ff7d1d7588112f3f8b3e98c64b247fc9fc68d506f874147
+    - format: jpg
+      name: image-6.jpg
+      bytes: 6902
+      sha256: 8862f324b26916ce889dd22fc5bec812a26ea2a42df16575ebaee970ee579a38
+    - format: jpg
+      name: image-7.jpg
+      bytes: 9852
+      sha256: 45936902ce4711a2ba5a09626d1f6079271c558e9c74618b9e1daa5b608319f5
+    - format: jpg
+      name: image-8.jpg
+      bytes: 9744
+      sha256: 78d3a0d7189fed7e03495beefcd3e9488ded524edd401665765f0dd6e4aca50d
+    - format: jpg
+      name: image-9.jpg
+      bytes: 7539
+      sha256: b061195384977f6509a6d02d4183bd5992135450b9d26da3dedc34476462a93f
+    - format: jpg
+      name: image-10.jpg
+      bytes: 7111
+      sha256: ca770327a73fd9c49454871923377e331ed7b0d253eb657cd16de56dc6dc7c76
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

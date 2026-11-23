@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-blake-association-and-red-john-s-followers-the-mentalist
+category: doc
+title: The Blake Association and Red John's Followers (The Mentalist)
+alt_titles:
+- The Blake Association & Red John's Followers.
+authors:
+- name: Suspicious-Good2781
+  reddit: Suspicious-Good2781
+  id: suspicious-good2781
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- analysis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wajjpx/the_blake_association_red_johns_followers/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 609
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 17567
+      sha256: 7f8b2ce78d8f81a3525d9c62440804355cfdad4665446af994b545c9524ebd2d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-reasoning-feat-from-my-oc-sigerson-wildfire
+category: doc
+title: 'A Reasoning Feat From My OC: Sigerson (Wildfire)'
+alt_titles:
+- A reasoning feat from my OC
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u3ijak/a_reasoning_feat_from_my_oc/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 817
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 287218
+      sha256: de984affe6255e31544a0c2751a9d74085f977cdae0fd612356a2ea9d7d731a2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

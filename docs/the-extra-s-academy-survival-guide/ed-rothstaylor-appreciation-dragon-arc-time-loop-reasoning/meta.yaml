@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ed-rothstaylor-appreciation-dragon-arc-time-loop-reasoning
+category: doc
+title: 'Ed Rothstaylor Appreciation: Dragon Arc Time Loop Reasoning Analysis (The Extra''s Academy Survival Guide)'
+alt_titles:
+- Ed Rothstaylor Appreciation | Dragon Arc Timeloop Reasoning Analysis
+authors:
+- name: Big_Presentation_894
+  reddit: Big_Presentation_894
+  id: big-presentation-894
+  source: reddit-post
+series:
+- the-extra-s-academy-survival-guide
+characters:
+- ed-rothstaylor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u78bb9/ed_rothstaylor_appreciation_dragon_arc_timeloop/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2088
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

@@ -11,6 +11,12 @@
   name: 20th Century Boys
   origin_language: ja
   origin_medium: manga
+- id: 86-eighty-six
+  name: 86 -Eighty-Six-
+  aliases:
+  - '86'
+  origin_language: ja
+  origin_medium: light-novel
 - id: a-nightmare-on-elm-street
   name: A Nightmare on Elm Street
   origin_language: en
@@ -27,6 +33,12 @@
   name: Ace Attorney
   origin_language: ja
   origin_medium: game
+- id: agent-pendergast
+  name: Agent Pendergast
+  aliases:
+  - Pendergast
+  origin_language: en
+  origin_medium: novel
 - id: akagi
   name: Akagi
   origin_language: ja
@@ -39,6 +51,14 @@
   name: Alice Mirror Castle Murders
   origin_language: ja
   origin_medium: novel
+- id: alice-s-adventures-in-wonderland
+  name: Alice's Adventures in Wonderland
+  aliases:
+  - Through the Looking-Glass
+  origin_language: en
+  origin_medium: novel
+- id: all-in-abyss-judge-the-fake
+  name: 'All in Abyss: Judge the Fake'
 - id: altered-beast
   name: Altered Beast
   origin_language: ja
@@ -49,10 +69,24 @@
   - Roshidere
   origin_language: ja
   origin_medium: light-novel
+- id: and-then-there-were-none
+  name: And Then There Were None
+  origin_language: en
+  origin_medium: novel
+- id: animator-vs-animation
+  name: Animator vs. Animation
+  aliases:
+  - Animation vs. Animator
+  origin_language: en
+  origin_medium: web
 - id: apex-predator
   name: Apex Predator
   origin_language: en
   origin_medium: novel
+- id: arthur
+  name: Arthur
+  origin_language: en
+  origin_medium: tv
 - id: as-the-gods-will
   name: As the Gods Will
   origin_language: ja
@@ -68,10 +102,20 @@
   name: Assassination Classroom
   origin_language: ja
   origin_medium: manga
+- id: attack-on-titan
+  name: Attack on Titan
+  aliases:
+  - Shingeki no Kyojin
+  origin_language: ja
+  origin_medium: manga
 - id: babylon
   name: Babylon
   origin_language: ja
   origin_medium: novel
+- id: bakuchi-gui
+  name: Bakuchi Gui
+  origin_language: ja
+  origin_medium: manga
 - id: bakudan
   name: Bakudan
   origin_language: ja
@@ -89,6 +133,10 @@
   - Struggling to Survive with Regression Power in the Primordial Saint Sect
   origin_language: zh
   origin_medium: web-novel
+- id: ben-10
+  name: Ben 10
+  origin_language: en
+  origin_medium: tv
 - id: bendy-and-the-ink-machine
   name: Bendy and the Ink Machine
   origin_language: en
@@ -109,8 +157,16 @@
   name: Bleach
   origin_language: ja
   origin_medium: manga
+- id: blood-meridian
+  name: Blood Meridian
+  origin_language: en
+  origin_medium: novel
 - id: blue-lock
   name: Blue Lock
+  origin_language: ja
+  origin_medium: manga
+- id: bocchi-the-rock
+  name: Bocchi the Rock!
   origin_language: ja
   origin_medium: manga
 - id: bones
@@ -148,6 +204,12 @@
   name: Call of Duty Zombies
   origin_language: en
   origin_medium: game
+- id: call-of-the-night
+  name: Call of the Night
+  aliases:
+  - Yofukashi no Uta
+  origin_language: ja
+  origin_medium: manga
 - id: case-closed
   name: Case Closed
   aliases:
@@ -158,6 +220,14 @@
   name: Cat Country
   origin_language: zh
   origin_medium: novel
+- id: catch-me-if-you-can
+  name: Catch Me If You Can
+  origin_language: en
+  origin_medium: film
+- id: chainsaw-man
+  name: Chainsaw Man
+  origin_language: ja
+  origin_medium: manga
 - id: chasing-whispers
   name: Chasing Whispers
   origin_language: en
@@ -173,6 +243,14 @@
   name: Code Geass
   origin_language: ja
   origin_medium: anime
+- id: colony
+  name: Colony
+  origin_language: ko
+  origin_medium: film
+- id: columbo
+  name: Columbo
+  origin_language: en
+  origin_medium: tv
 - id: counter-side
   name: Counter:Side
   origin_language: ko
@@ -218,6 +296,13 @@
   name: Deltarune
   origin_language: en
   origin_medium: game
+- id: demon-slayer
+  name: 'Demon Slayer: Kimetsu no Yaiba'
+  aliases:
+  - Demon Slayer
+  - Kimetsu no Yaiba
+  origin_language: ja
+  origin_medium: manga
 - id: detective-mitarai
   name: Detective Mitarai
   origin_language: ja
@@ -236,6 +321,10 @@
   name: Dies Irae
   origin_language: ja
   origin_medium: visual-novel
+- id: doctor-who
+  name: Doctor Who
+  origin_language: en
+  origin_medium: tv
 - id: doki-doki-literature-club
   name: Doki Doki Literature Club!
   origin_language: en
@@ -268,6 +357,14 @@
   name: Durarara!!
   origin_language: ja
   origin_medium: light-novel
+- id: escape-plan
+  name: Escape Plan
+  origin_language: en
+  origin_medium: film
+- id: escape-room
+  name: Escape Room
+  origin_language: ko
+  origin_medium: webtoon
 - id: fate
   name: Fate
   aliases:
@@ -303,8 +400,16 @@
   name: For Honor
   origin_language: en
   origin_medium: game
+- id: friday-the-13th
+  name: Friday the 13th
+  origin_language: en
+  origin_medium: film
 - id: frieren
   name: Frieren
+  origin_language: ja
+  origin_medium: manga
+- id: gamble-fish
+  name: Gamble Fish
   origin_language: ja
   origin_medium: manga
 - id: gambling-emperor-legend-zero
@@ -315,12 +420,31 @@
   name: Ghost of Tsushima
   origin_language: en
   origin_medium: game
+- id: gintama
+  name: Gintama
+  origin_language: ja
+  origin_medium: manga
 - id: girl-from-nowhere
   name: Girl From Nowhere
   origin_language: th
   origin_medium: tv
 - id: god-of-war
   name: God of War
+  origin_language: en
+  origin_medium: game
+- id: god-s-imitation
+  name: God's Imitation
+  aliases:
+  - God's Imitator
+  - GI
+  origin_language: zh
+  origin_medium: web-novel
+- id: gravity-falls
+  name: Gravity Falls
+  origin_language: en
+  origin_medium: tv
+- id: half-life
+  name: Half-Life
   origin_language: en
   origin_medium: game
 - id: halloween
@@ -337,6 +461,14 @@
   name: Happy Hills Homicide
   origin_language: en
   origin_medium: game
+- id: harry-potter
+  name: Harry Potter
+  origin_language: en
+  origin_medium: novel
+- id: hazbin-hotel
+  name: Hazbin Hotel
+  origin_language: en
+  origin_medium: tv
 - id: heavenly-genius
   name: Heavenly Genius
   aliases:
@@ -344,6 +476,23 @@
   - 道君
   origin_language: zh
   origin_medium: web-novel
+- id: heavy-rain
+  name: Heavy Rain
+  origin_language: en
+  origin_medium: game
+- id: henry-stickmin
+  name: Henry Stickmin
+  aliases:
+  - The Henry Stickmin Collection
+  origin_language: en
+  origin_medium: game
+- id: hercule-poirot
+  name: Hercule Poirot
+  aliases:
+  - Poirot
+  - Death on the Nile
+  origin_language: en
+  origin_medium: novel
 - id: hero-akagi-no-ishi-o-tsugu-otoko
   name: 'HERO: Akagi no Ishi o Tsugu Otoko'
   aliases:
@@ -351,6 +500,12 @@
   - HERO -Gyakkyou no Toupai-
   origin_language: ja
   origin_medium: manga
+- id: higurashi-when-they-cry
+  name: Higurashi When They Cry
+  aliases:
+  - Higurashi no Naku Koro ni
+  origin_language: ja
+  origin_medium: visual-novel
 - id: history
   name: History
   aliases:
@@ -358,6 +513,10 @@
   - Real Life Historical Figures
   origin_language: real
   origin_medium: real
+- id: hitman
+  name: Hitman
+  origin_language: en
+  origin_medium: game
 - id: honkai-impact-3rd
   name: Honkai Impact 3rd
   origin_language: zh
@@ -376,6 +535,10 @@
   name: HoYoverse
   origin_language: zh
   origin_medium: game
+- id: hunter-x-hunter
+  name: Hunter x Hunter
+  origin_language: ja
+  origin_medium: manga
 - id: hyouka
   name: Hyouka
   origin_language: ja
@@ -440,6 +603,10 @@
   - KAKEGURUI
   origin_language: ja
   origin_medium: manga
+- id: kindergarten
+  name: Kindergarten
+  origin_language: en
+  origin_medium: game
 - id: kingdom-hearts
   name: Kingdom Hearts
   origin_language: ja
@@ -448,6 +615,10 @@
   name: Kingdom's Bloodline
   origin_language: zh
   origin_medium: web-novel
+- id: knives-out
+  name: Knives Out
+  origin_language: en
+  origin_medium: film
 - id: konosuba
   name: KonoSuba
   origin_language: ja
@@ -456,6 +627,10 @@
   name: Land of the Lustrous
   origin_language: ja
   origin_medium: manga
+- id: legend-of-the-galactic-heroes
+  name: Legend of the Galactic Heroes
+  origin_language: ja
+  origin_medium: novel
 - id: leif-and-billy
   name: Leif & Billy
   origin_language: sv
@@ -484,6 +659,10 @@
   - LOTM
   origin_language: zh
   origin_medium: web-novel
+- id: lucifer
+  name: Lucifer
+  origin_language: en
+  origin_medium: tv
 - id: lucky-number-slevin
   name: Lucky Number Slevin
   origin_language: en
@@ -492,10 +671,24 @@
   name: Lupin
   origin_language: fr
   origin_medium: novel
+- id: m4tchb0x-mystery
+  name: M4tchb0x Mystery
 - id: magic-emperor
   name: Magic Emperor
   origin_language: zh
   origin_medium: web-novel
+- id: magic-kaito
+  name: Magic Kaito
+  origin_language: ja
+  origin_medium: manga
+- id: malcolm-in-the-middle
+  name: Malcolm in the Middle
+  origin_language: en
+  origin_medium: tv
+- id: marble-hornets
+  name: Marble Hornets
+  origin_language: en
+  origin_medium: web
 - id: mario-luigi
   name: Mario & Luigi
   origin_language: ja
@@ -516,10 +709,28 @@
   name: Melvina's Therapy
   origin_language: ko
   origin_medium: webtoon
+- id: memento
+  name: Memento
+  origin_language: en
+  origin_medium: film
+- id: men-in-black
+  name: Men in Black
+  origin_language: en
+  origin_medium: film
 - id: mercenary-enrollment
   name: Mercenary Enrollment
   origin_language: ko
   origin_medium: webtoon
+- id: method
+  name: Method
+  aliases:
+  - Metod
+  origin_language: ru
+  origin_medium: tv
+- id: mexican-standoff
+  name: Mexican Standoff (RocketJump)
+  origin_language: en
+  origin_medium: web
 - id: minecraft
   name: Minecraft
   aliases:
@@ -574,6 +785,10 @@
   name: 'Neuro: Supernatural Detective'
   origin_language: ja
   origin_medium: manga
+- id: newsies
+  name: Newsies
+  origin_language: en
+  origin_medium: film
 - id: no-game-no-life
   name: No Game No Life
   aliases:
@@ -600,12 +815,24 @@
   name: Paradise Lost
   origin_language: en
   origin_medium: poem
+- id: parker
+  name: Parker
+  origin_language: en
+  origin_medium: novel
+- id: parkour-civilization
+  name: Parkour Civilization
+  origin_language: en
+  origin_medium: web
 - id: persona-5
   name: Persona 5
   aliases:
   - Persona 5 Royal
   origin_language: ja
   origin_medium: game
+- id: pick-me-up-infinite-gacha
+  name: Pick Me Up, Infinite Gacha
+  origin_language: ko
+  origin_medium: web-novel
 - id: playing-death-games-to-put-food-on-the-table
   name: Playing Death Games to Put Food on the Table
   origin_language: ja
@@ -622,6 +849,18 @@
   name: Prison Break
   origin_language: en
   origin_medium: tv
+- id: prodigal-son
+  name: Prodigal Son
+  origin_language: en
+  origin_medium: tv
+- id: prodigy
+  name: Prodigy
+  origin_language: en
+  origin_medium: comic
+- id: project-hail-mary
+  name: Project Hail Mary
+  origin_language: en
+  origin_medium: novel
 - id: psych
   name: Psych
   origin_language: en
@@ -630,6 +869,18 @@
   name: Psycho-Pass
   origin_language: ja
   origin_medium: anime
+- id: puella-magi-madoka-magica
+  name: Puella Magi Madoka Magica
+  origin_language: ja
+  origin_medium: anime
+- id: puss-in-boots
+  name: Puss in Boots
+  origin_language: en
+  origin_medium: film
+- id: pyramid-game
+  name: Pyramid Game
+  origin_language: ko
+  origin_medium: webtoon
 - id: raging-loop
   name: Raging Loop
   origin_language: ja
@@ -674,16 +925,31 @@
   name: Regular Show
   origin_language: en
   origin_medium: tv
+- id: reincarnated-beauty-netora-reiko
+  name: Reincarnated Beauty Netora Reiko
+  origin_medium: manga
+- id: reinoryokusha-odagiri-kyoko-no-uso
+  name: Reinōryokusha Odagiri Kyōko no Uso
+  origin_language: ja
+  origin_medium: manga
 - id: reverend-insanity
   name: Reverend Insanity
   aliases:
   - RI
   origin_language: zh
   origin_medium: web-novel
+- id: revolutionary-girl-utena
+  name: Revolutionary Girl Utena
+  origin_language: ja
+  origin_medium: anime
 - id: rick-and-morty
   name: Rick and Morty
   origin_language: en
   origin_medium: tv
+- id: romance-of-the-three-kingdoms
+  name: Romance of the Three Kingdoms
+  origin_language: zh
+  origin_medium: novel
 - id: ron-kamonohashi-s-forbidden-deductions
   name: Ron Kamonohashi's Forbidden Deductions
   origin_language: ja
@@ -726,6 +992,20 @@
   name: Sherlock Holmes
   origin_language: en
   origin_medium: novel
+- id: shoshimin-how-to-become-ordinary
+  name: 'Shoshimin: How to Become Ordinary'
+  aliases:
+  - Shoshimin
+  origin_language: ja
+  origin_medium: novel
+- id: snowfall
+  name: Snowfall
+  origin_language: en
+  origin_medium: tv
+- id: snowpiercer
+  name: Snowpiercer
+  origin_language: en
+  origin_medium: film
 - id: solo-max-level-newbie
   name: Solo Max-Level Newbie
   origin_language: ko
@@ -742,6 +1022,10 @@
   name: South Park
   origin_language: en
   origin_medium: tv
+- id: spawn
+  name: Spawn
+  origin_language: en
+  origin_medium: comic
 - id: spiral-the-bonds-of-reasoning
   name: 'Spiral: The Bonds of Reasoning'
   origin_language: ja
@@ -756,6 +1040,10 @@
   - 'Staffer Case: Super Power Detective Mystery Game'
   origin_language: zh
   origin_medium: visual-novel
+- id: star-trek
+  name: Star Trek
+  origin_language: en
+  origin_medium: tv
 - id: star-vs-the-forces-of-evil
   name: Star vs. the Forces of Evil
   origin_language: en
@@ -764,10 +1052,30 @@
   name: Star Wars
   origin_language: en
   origin_medium: film
+- id: talentless-nana
+  name: Talentless Nana
+  origin_language: ja
+  origin_medium: manga
 - id: tenet
   name: Tenet
   origin_language: en
   origin_medium: film
+- id: terminator-the-sarah-connor-chronicles
+  name: 'Terminator: The Sarah Connor Chronicles'
+  origin_language: en
+  origin_medium: tv
+- id: the-100-girlfriends
+  name: The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
+  aliases:
+  - The 100 Girlfriends
+  origin_language: ja
+  origin_medium: manga
+- id: the-apothecary-diaries
+  name: The Apothecary Diaries
+  aliases:
+  - Kusuriya no Hitorigoto
+  origin_language: ja
+  origin_medium: light-novel
 - id: the-blacklist
   name: The Blacklist
   origin_language: en
@@ -820,10 +1128,24 @@
   name: The Eminence in Shadow
   origin_language: ja
   origin_medium: light-novel
+- id: the-endless-foodchain
+  name: The Endless Foodchain
+  aliases:
+  - The Endless Food Chain
+  origin_language: zh
+  origin_medium: web-novel
+- id: the-extra-s-academy-survival-guide
+  name: The Extra's Academy Survival Guide
+  origin_language: ko
+  origin_medium: web-novel
 - id: the-glass-tower-murders
   name: The Glass Tower Murders
   origin_language: ja
   origin_medium: novel
+- id: the-good-place
+  name: The Good Place
+  origin_language: en
+  origin_medium: tv
 - id: the-grimm-variations
   name: The Grimm Variations
   origin_language: ja
@@ -832,6 +1154,10 @@
   name: The Hero Who Seeks Revenge Shall Exterminate With Darkness
   origin_language: ja
   origin_medium: light-novel
+- id: the-house-in-fata-morgana
+  name: The House in Fata Morgana
+  origin_language: ja
+  origin_medium: visual-novel
 - id: the-idiot
   name: The Idiot
   origin_language: ru
@@ -844,6 +1170,12 @@
   name: The Irregular at Magic High School
   origin_language: ja
   origin_medium: light-novel
+- id: the-legend-of-zelda
+  name: The Legend of Zelda
+  aliases:
+  - Majora's Mask
+  origin_language: ja
+  origin_medium: game
 - id: the-lying-detective
   name: The Lying Detective
   origin_language: en
@@ -862,36 +1194,74 @@
   name: The Owl House
   origin_language: en
   origin_medium: tv
+- id: the-parallel
+  name: The Parallel
+  origin_language: en
+  origin_medium: web
+- id: the-penguins-of-madagascar
+  name: The Penguins of Madagascar
+  origin_language: en
+  origin_medium: tv
 - id: the-perfect-insider
   name: The Perfect Insider
   aliases:
   - Subete ga F ni Naru
   origin_language: ja
   origin_medium: novel
+- id: the-poughkeepsie-tapes
+  name: The Poughkeepsie Tapes
+  origin_language: en
+  origin_medium: film
 - id: the-promised-neverland
   name: The Promised Neverland
   origin_language: ja
   origin_medium: manga
+- id: the-queen-s-gambit
+  name: The Queen's Gambit
+  origin_language: en
+  origin_medium: tv
+- id: the-red-locked-room
+  name: The Red Locked Room
+  origin_language: ja
+  origin_medium: novel
 - id: the-saga-of-tanya-the-evil
   name: The Saga of Tanya the Evil
   aliases:
   - Youjo Senki
   origin_language: ja
   origin_medium: light-novel
+- id: the-shawshank-redemption
+  name: The Shawshank Redemption
+  origin_language: en
+  origin_medium: film
 - id: the-terrifying-path-of-immortal-cultivation
   name: The Terrifying Path of Immortal Cultivation
   aliases:
   - 恐怖修仙路
   origin_language: zh
   origin_medium: web-novel
+- id: the-thinking-machine
+  name: The Thinking Machine
+  origin_language: en
+  origin_medium: novel
 - id: the-unwritten
   name: The Unwritten
   origin_language: en
   origin_medium: comic
+- id: the-usual-suspects
+  name: The Usual Suspects
+  origin_language: en
+  origin_medium: film
+- id: the-verse
+  name: The Verse
 - id: the-white-demon
   name: The White Demon
   origin_language: en
   origin_medium: web-novel
+- id: titan-academy
+  name: Titan Academy
+  origin_language: en
+  origin_medium: web
 - id: tokyo-ghoul
   name: Tokyo Ghoul
   origin_language: ja
@@ -932,6 +1302,10 @@
   name: Undertale AUs
   origin_language: en
   origin_medium: game
+- id: unsong
+  name: Unsong
+  origin_language: en
+  origin_medium: web-novel
 - id: usogui
   name: Usogui
   aliases:
@@ -946,6 +1320,8 @@
   name: Vile Dominion
   origin_language: en
   origin_medium: web-novel
+- id: vintage-8
+  name: Vintage 8
 - id: watership-down
   name: Watership Down
   origin_language: en
@@ -966,6 +1342,10 @@
   name: Wuthering Waves
   origin_language: zh
   origin_medium: game
+- id: yokomizo-aoi-no-rinri-naki-yugi-no-kowashikata
+  name: Yokomizo Aoi no Rinri Naki Yugi no Kowashikata
+  origin_language: ja
+  origin_medium: light-novel
 - id: you
   name: You
   origin_language: en
@@ -989,6 +1369,12 @@
   name: Yu Yu Hakusho
   origin_language: ja
   origin_medium: manga
+- id: zaregoto
+  name: Zaregoto
+  aliases:
+  - Kubikiri Cycle
+  origin_language: ja
+  origin_medium: light-novel
 - id: zenless-zone-zero
   name: Zenless Zone Zero
   origin_language: zh

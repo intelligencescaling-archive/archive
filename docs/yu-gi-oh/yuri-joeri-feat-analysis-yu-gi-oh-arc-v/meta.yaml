@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuri-joeri-feat-analysis-yu-gi-oh-arc-v
+category: doc
+title: Yuri/Joeri Feat Analysis (Yu-Gi-Oh! Arc-V)
+alt_titles:
+- New potential character's feat analysis - Yuri/Joeri (Yu-Gi-Oh Arc-V)
+authors:
+- name: junkosoulzz
+  reddit: junkosoulzz
+  id: junkosoulzz
+  source: reddit-post
+series:
+- yu-gi-oh
+characters:
+- yuri-yu-gi-oh
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qm8e9x/new_potential_characters_feat_analysis_yurijoeri/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 797
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 39219
+      sha256: c5b166c9188112c048f1250edd2ce7739286479f67448e6055c0fdf58799f096
+    - format: jpg
+      name: image-2.jpg
+      bytes: 70719
+      sha256: 04c72a8530cd43557ef46bc9103ac3b588c0a8b0f4c0fed7e0b22b8e77843b30
+    - format: jpg
+      name: image-3.jpg
+      bytes: 125134
+      sha256: ef146ac7dfda485a967b4e0f71767e9ae2224c176c70bb374ab59482bcc134e0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

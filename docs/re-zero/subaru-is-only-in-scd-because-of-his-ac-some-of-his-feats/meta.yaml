@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: subaru-is-only-in-scd-because-of-his-ac-some-of-his-feats
+category: doc
+title: '"Subaru Is Only in SCD Because of His AC": Some of His Feats (Re:Zero)'
+alt_titles:
+- '"Subaru is only in SCD because of his AC"'
+authors:
+- name: d0ntkn0wmyself
+  reddit: d0ntkn0wmyself
+  id: d0ntkn0wmyself
+  source: reddit-post
+series:
+- re-zero
+characters:
+- subaru-natsuki
+tags:
+- feats
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m94zmo/subaru_is_only_in_scd_because_of_his_ac/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 528
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

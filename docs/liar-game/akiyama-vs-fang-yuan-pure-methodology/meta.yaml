@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-vs-fang-yuan-pure-methodology
+category: doc
+title: Akiyama vs Fang Yuan (Pure Methodology)
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series:
+- liar-game
+- reverend-insanity
+characters:
+- akiyama-shinichi
+- fang-yuan
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vrjhvx/akiyama_vs_fang_yuan_pure_methodology/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1366
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

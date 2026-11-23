@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: showcasing-a-feat-from-my-oc-kaito-s-gerson-murder-deduction
+category: doc
+title: 'Showcasing a Feat from My OC: Kaito''s Gerson Murder Deduction'
+alt_titles:
+- Showcasing a feat from my OC.
+authors:
+- name: ThroatSpirited1493
+  reddit: ThroatSpirited1493
+  id: throatspirited1493
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v6u5xp/showcasing_a_feat_from_my_oc/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 987
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 143895
+      sha256: dc5f3935fe6b888ce9eaced8401ddc9598dbe54699109522e2e26d6bd38945e3
+    - format: jpg
+      name: image-2.jpg
+      bytes: 284486
+      sha256: 163e43fc02a0ecf58d85a95360301d80b195846ebd869e295fba943f07fa03cd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

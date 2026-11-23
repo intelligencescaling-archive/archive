@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cote-v9-letter-analysis-classroom-of-the-elite
+category: doc
+title: COTE V9 Letter Analysis (Classroom of the Elite)
+alt_titles:
+- COTE V9 Letter Analysis
+authors:
+- name: adarshvarshan
+  reddit: adarshvarshan
+  id: adarshvarshan
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- ichinose-honami
+- arisu-sakayanagi
+- nagumo-miyabi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xdp2yv/cote_v9_letter_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1569
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 279698
+      sha256: 79cdac9c8d4ac8ac26143c853e1b5568e3f656ab5100dea2914e55c088be2c9d
+    - format: png
+      name: image-2.png
+      bytes: 26642
+      sha256: 4927937a18574b36a7dbe48dbd04c23737fce454976750a67f6702ee8198f20e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

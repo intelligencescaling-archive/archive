@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: showcasing-different-levels-of-scalability
+category: doc
+title: Showcasing Different Levels of Scalability
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xbgbky/showcasing_different_levels_of_scalability/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1024
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 898020
+      sha256: 1a7d67e5be72d8638d27fd584cfb6ee657d76223a4b092d236573f53fc1d670a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

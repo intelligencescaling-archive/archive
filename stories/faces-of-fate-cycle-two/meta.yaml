@@ -176,8 +176,41 @@ parts:
     text:
       file: text-10.txt
       method: reddit-text
+- title: 'Finale Part One: End in Gray'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lr9p8t/fanfic_of_the_sub_faces_of_fate_cycle_two_finale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2113
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 90473
+      sha256: 17fe35b7fb6a5aa37f4f39ebd60ff8aad148df2b3b3eed6d3364ea4f1af2fa73
+    text:
+      file: text-11.txt
+      method: reddit-text
+- title: 'Grand Finale: There Is Nothing in the Garden'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lufaxo/fanfic_of_the_sub_faces_of_fate_cycle_two_grand/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2822
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 170767
+      sha256: b4bd9d06dd542e7e97fa7c4e17f85102a3db47ca99bf420e3c8d36c3dd5ea3f3
+    text:
+      file: text-12.txt
+      method: reddit-text
 found_in: []
 added: '2026-11-15'
 review:
   status: auto
-  check: []
+  check:
+  - characters

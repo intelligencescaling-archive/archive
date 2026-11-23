@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: li-guang-s-scheme-for-cultivating-himself-the-endless-food
+category: doc
+title: Li Guang's Scheme for Cultivating Himself (The Endless Food Chain)
+alt_titles:
+- Li Guang's scheme for cultivating himself (The Endless Foodchain)
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- the-endless-foodchain
+characters:
+- li-guang
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uf3ms1/li_guangs_scheme_for_cultivating_himself_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1304
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 124356
+      sha256: d3ec0a1d83dffdc95a5dca7f4a7bf6090043928877ce984fd072b6a7a06a846a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

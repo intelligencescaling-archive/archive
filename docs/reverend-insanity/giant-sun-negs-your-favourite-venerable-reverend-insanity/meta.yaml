@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: giant-sun-negs-your-favourite-venerable-reverend-insanity
+category: doc
+title: Giant Sun Negs Your Favourite Venerable (Reverend Insanity)
+alt_titles:
+- Giant Sun negs your favourite Venerable (RI)
+authors:
+- name: God_killer1
+  reddit: God_killer1
+  id: god-killer1
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- giant-sun
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wh4nts/giant_sun_negs_your_favourite_venerable_ri/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1530
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: category-definitions-methodology-scaling
+category: doc
+title: 'Category Definitions: Methodology Scaling'
+alt_titles:
+- Category Definitions - Methodology Scaling
+authors:
+- name: OnlyEinz
+  reddit: OnlyEinz
+  id: onlyeinz
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1np5rla/category_definitions_methodology_scaling/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 631
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 665534
+      sha256: 319813bf73ec36bb1989070b3e177f2ed0d5f1aace1e2e59fd774cc8fa2b27e5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

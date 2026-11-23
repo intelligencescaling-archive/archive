@@ -1,0 +1,280 @@
+Aesthetic Scaling vs Actual Intelligence Scaling
+
+DOC: [Causality and Stuff args](https://docs.google.com/document/d/11Nm2Og4qAyIcddHZq-N6cZn41ZL49bgPsQwzMFdegzM/edit?tab=t.lgiix9vhkjm1)
+
+I'm (kinda) reposting about this, since I updated the whole doc (seeing how besides from like 1 person) nobody understood what I said.
+
+I basically made more reasoning explicit and also added more explanations for the args, so that more people can now actually comprehend what I said.
+
+I'm also waiting for someone to challenge the argument, since no-one has done that so far.
+
+https://preview.redd.it/15odabv4610g1.png?width=225&format=png&auto=webp&s=7138ff0c6a971de8c832ec2acd4b6ebe1f3acb99
+
+Here it is:
+
+***Before reading: all the arguments you are about to read are merely meant for the evaluation of fictional character’s cognition + intelligence. With that in mind, let’s go ahead and start.***
+
+***PERSPECTIVE PRESENTATION***
+
+**Narrative Perspective Explanation**
+
+The **perspective of the narrative** is *seeing the story with the very eyes of the story itself*, as if it were a **separate** and **self-defining reality**.
+
+Let's proceed to explain word by word:
+\- **separate**: the story isn’t bound to our reality’s standards (epistemically) nor is it bound by it ontologically.
+
+\- **self-defining**. Anything inside the set (the story), has by definition a sufficient ontological (proof of existence) and epistemic (proof of truth) justification. X exists and is true because X is part of A.
+
+From here on out, my main points will be to demonstrate that this perspective:
+
+(POINT A) is inherently dependent on our real-world logic in order to make any meaningful comparison, both within its own universe and beyond it;
+
+(POINT B) lacks a causality system, or at best possesses an incoherent one;
+
+(POINT C)  incoherencies in fiction are deeply frequent and with major differences in magnitude;
+
+(POINT D) lacks comparability;
+
+(POINT E) and, even if all these causality-related problems were resolved, recurrent issues would still emerge due to the Dependency Problem.
+
+***DEPENDENCY PROBLEM***
+
+**DEFINITION**: The narrative’s POV is methodologically dependent on real-world metrics when the objective is evaluating cognition of fictional characters.
+
+What this problem proves: POINT A
+
+**ARGUMENT:**
+
+Premise 1
+We use the perspective of the narrative (narrative POV) as the perspective we chose to observe the phenomenon that the story presents from.
+
+Premise 2
+The narrative POV, as a self-defining and separate system, does not possess internal tools for the recognition and evaluation of cognition.
+
+Conclusion 1
+Therefore, in order to evaluate the intelligence of elements belonging to the narrative, it is methodologically necessary to rely on reference tools from our reality system; except in cases where the narrative itself explicitly establishes alternative parameters (which virtually never happens).
+
+Main reference tools (that necessarily take reference from the real world):
+
+* Definition of what can or cannot be considered cognition / intelligence
+* Degrees / Standards of cognition / intelligence (e.g. “what would average intel mean”).
+* Criteria of impossibility and plausibility.
+* Standards of personality and emotional states.
+
+# OBSERVATION:
+
+This problem is so incredibly strong, that if one were to try and deny it, in order to try and do so, he would have to rely on real world metrics in order to defend the validity of the fictional ones.
+
+Also btw, I didn’t include the fact that mere semantic dependency would be enough to prove this point just because it doesn’t feel as persuasive.
+
+***THIRD PART OF THE DOC - CAUSALITY PROBLEM***
+
+**Causality Problem Definition.**
+
+The causality problem says that the causality systems within each moment of each fictional work (if they exist that is), have extremely high chances of being incoherent with each other.
+
+**Reminder**:
+
+causality systems aren’t just about what is “**possible**” or not, and so about having or not having 0% probability. They are also about **probabilities** within the 0-100% range.
+
+Meaning there are 3 ways a causality system can be incoherent:
+
+1. **Violation of impossibility** — something occurs even though, according to the previously established or implied logics, it should have been impossible. This one is decently common.
+2. **Direct probability incoherence** — in nearly identical scenarios, the same action yields very different outcomes without explanation. Obviously really rare.
+3. **Indirect probability incoherence** — in structurally similar or analogical situations, events happen with outcomes that contradict what the established system would predict. This is far more common.
+
+Example: a character is described as having an extremely high Working Memory, yet in practice their reasoning remains basic and trivial, far below what such cognitive capacity would realistically allow.
+
+Before diving into the arguments, let’s clarify a few foundational concepts. (I'm doing this so people don't start to miss the very basics of my reasoning).
+
+**CAUSALITY SYSTEMS**
+
+Causality systems regulate how “things” (agents) within these systems have to work. You could see them as functions, determining how the world operates.
+
+This means that they regulate 2 fundamental aspects (especially for what concerns us, and so cognition and intelligence):
+
+A- **Interactions**. They determine the logic behind “what causes what”, so only the mere existence of the relationship.
+
+B- **Magnitude**. They determine “what is caused by what”, it basically regulates the “weight” of the “result”.
+
+A derivative form of empirical observation that emerges from the interaction of these two traits can be called “**Frequency**.”
+
+Frequency revolves around questions such as:
+
+1. How often does a given interaction occur?
+
+2. How often does a specific magnitude follow a given interaction?
+
+3. How often does a certain interaction arise after a given magnitude?
+
+**CAUSALITY ENVIRONMENT**
+
+Definition: the set of agents operating within a given causal system.
+
+What I will demonstrate here is that fictional works exhibit two major forms of causal incoherency:
+
+1. **Intra-Causality System Incoherency Problems.** Taking into account a single universe, the CS is incoherent.
+2. **Inter-Causality System Incoherency Problems.** Taking into account multiple universes, there is incoherency between them. (which is exactly what “comparability” in point D presupposes).
+
+**Authorial Impossibility**
+
+Definition: sequence of arguments that use, as a basis for their reasoning, the fact that a human author (and not an infallible agent) built the stories.
+
+What it proves:
+
+(POINT B) lacks a causality system, or at best possesses an incoherent one; (proved directly)
+
+(POINT C)  incoherencies in fiction are deeply frequent and with major differences in magnitude; (proved directly)
+
+(POINT D) lacks comparability; (proved indirectly).
+
+a. **Authors generally lack a comprehensive understanding of how causality systems operate**. More broadly, humanity itself lacks a complete grasp of the mechanisms underlying its \*own\* causal framework. This limitation is particularly evident in cognition-related fields, which are relatively recent areas of inquiry that still face major conceptual and empirical challenges.
+
+b. Even if they had such an understanding, they wouldn't have the **intelligence needed** to replicate our own, \*especially\* within the psychological and cognitive area, which is foundational for our comparisons.
+
+c. Given authors construct CS that diverge from the one of our reality's, they would still remain **bound** to make them **analogical** to the one of our reality if we wanted to evaluate them (methodological necessity given the Dependency Problem). What would the chances of that be?
+
+d. If authors wanted to build analogically coherent CS, that would likely require an **inhuman amount of time** (to make them somewhat meaningful AND to make us understand how they would be analogical in the first place). This isn’t merely **irl** time wise, but also “**screen time**” wise.
+
+e. **Authorial intent deeply diverges from causal coherence**. The primary goals of authors are almost always aesthetic, emotional, or commercial, to entertain, to express meaning, or to sell. None of these objectives inherently involve maintaining causal consistency; at best they are neutral, and in practice they often conflict with it. This reinforces point (b): authors, whether knowingly or not, inevitably write causality systems that differ from our own.
+
+f. Even if their intent was rightful, we are still **human** bound to **biases**. And biases are not something that one can simply avoid by knowing about their existence, they are almost inevitable (this is a really common misconception). I don’t want to make a list of 30 biases, hopefully just mentioning the issue is enough.
+
+The common objection would then be “Well, I’m not yet convinced these incoherencies are major problems. They might not be frequent, or even if frequent, they might not be too important.”
+
+And so here we start with the **Practical Problems**.
+
+**Definition**: practical problems explain empirically how the massive amount of things any author can screw up his causality system with.
+
+The practical problems prove:
+
+(POINT C) incoherencies in fiction are deeply frequent and with major differences in magnitude. (proved directly)
+
+(POINT D) fictional universes lack comparability; (proved directly)
+
+# 1 – Lack of Correlations (main point)
+
+When authors construct their characters, three common scenarios arise:
+ (1) they **lack sufficient knowledge** of how real cognition / intelligence operates (and mind you again, this is an \*insanely\* hard topic);
+ (2) they understand it but **choose to disregard it**; or
+ (3) they understand it but **cannot maintain consistency** because the narrative requires extraordinary or unrealistic elements.
+
+As a result, correlations between different cognitive / intelligence capabilities and their expected outcomes are frequently ignored.
+
+One of the most common themes of “lack of correlations” would be:
+
+A) Certain capabilities being much weaker than others, just because they are much “harder to write”, even though these “others” heavily **correlate** or are straight up **caused** by the first ones.
+Classic case: working memory through the roof, but not one single reasoning the character makes (on-screen) ever backs it up, even though WM is strongly correlated with and (partially) the cause of it, in real life.
+
+B) “Easy to write” capabilities being **insanely fluctuating** (within the **same field**).
+Classic case: pattern recognition being so strong to the point the character can just look at a person for 1 second and would be able to make the most accurate profiling one could ever make. But at the same time he has dozens of other situations where he cannot mysteriously do the same.
+
+Why this is the case:
+
+1- authors can’t just keep the audience filled with incredible performance from the character, so in order to build emotion they keep the consistency as bay
+
+2- the more they “blow it big” the more likely these situations are to come.
+
+C)“Easy to write” capabilities being **insanely fluctuating** (**outside of the same field of expertise, but within others that are semi-analogical**).
+Classic case number 1: pattern recognition being super strong, but only within a specific field (strictly to profiling people, but stops being so strong for finding strategies).
+
+Classic case number 2: detective with insane divergent thinking (when rediscovering strategies culprits used) but with little to no showing of such skill when having to make strategies of his own.
+
+Why this is the case: same as before + (especially for actual smart strategies) actual human brain is mostly required, meaning it becomes way beyond the capabilities of the authors.
+
+**2 – System Manipulation (main point)**
+Complex systems can be **implicitly** and **silently simplified** at will (or even unwillingly of course).
+
+The **more variables** a system should require, the **more likely** it is that **fiction** will simply **ignore them**.
+
+**Prime scenario** where this happens: **non-fixed scenarios**. Non-fixed scenarios, due to their very nature, lack (or mostly lack) the explicit “rules/variables” that constitute them (due to the complexity of such systems).
+
+Obviously not all non-fixed scenarios are the same (some have more explicit rules, some have the few explicit rules being really important meaning the complexity is lower, some in which the few explicit rules are not important meaning the complexity is higher and so on).
+
+In such systems, **authors** will just need to **create the illusion** of **taking** into **account variables**. **Suspension of disbelief** will do the rest.
+
+Obviously this can easily happen in fixed scenarios too (though this is less frequent).
+
+Classic example: the typical “genius” chess match, that when is on-screen is actually revealed to be pretty lame compared to what the narrative portrays it to be. (The Mentalist, Classroom Of The Elite, Code Geass and so on).
+
+This pattern extends well beyond chess obviously.
+
+(technically speaking from now on every other point will be kinda a mix of the first 2 points)
+
+**3 – Simulation of Human Mind and Behaviour (secondary point)**
+This problem is almost self-explanatory.
+
+Even within the scientific community, there is no strong consensus on how the human mind (particularly subconscious processes and personality dynamics) interacts externally or how it operates internally.
+
+As a result, narrative portrayals of thought and behaviour often collapse into oversimplifications, stereotypes, or outright contradictions.
+
+The most problematic area is about *suggestibility*: to what extent should a character, given their pre-established personality type and cognitive profile, plausibly respond to another’s attempts at influence/manipulation?
+
+**4 – Lack of Empirical Data (depending on how strict you are, first or second order point)**
+
+When the cognitive capabilities of the characters far surpass those of humanity, multiple problems arise:
+
+1- How do correlations even work at that level?For example: take a character that can calculate 1 billion chess moves in 1 second, and a character who can do that in 0.01 seconds. Besides from the mere implications of better Working Memory and Processing Speed, does this far above cognitive capability of the second character also translate into a better higher order thinking skills?And so by how much?
+
+2- After a certain point, for some capabilities, can there really be a meaningful advancement?Taking again as the basis the previous example, are reasoning skills “growable” until a certain point?So that even if one grows the cognitive basis for reasoning (WMI, Metacognition etc.) after a certain point you literally can’t get higher?
+
+**5 – Defying Physical, Biological, or Logical Constraints (secondary point)**
+This problem is largely self-explanatory, especially for the Physical and Logical constraints part. So I will dive a bit into the Biological one, which is pretty underestimated.
+
+For the **biological** I will mention the two most abused clusters:
+
+Cluster A. **Insane computations** that would exceed both neural capacity and energetic constraints to the point of being biologically impossible, don’t have as nearly as many effects as they should have. Typical stuff like “I calculated every possible move in chess” would fry someone’s brain.
+
+Cluster B. **Fictional stress**. Stress in fiction is treated as if it were just an inconvenience the character can just choose to ignore while coming up with incredibly nuanced and complex ideas. In reality, stress switches our brain onto the “automatic mode” (to simplify it), meaning that most of the stuff we would think of, would very hardly require the traits I just described (strong creativity and complexity), but rather automatic thought mechanisms. And ironically enough, in fiction, you would actually see the very ironic correlation of characters coming up with genius ideas \*especially\* while in particularly strong stress states.
+
+**6 – Standards Manipulation (rare) (almost irrelevant point)**
+
+Another recurring issue is the manipulation of what is presented—or implied—as “standard” within a fictional world. These standards can suddenly shift without justification, altering what counts as valid, possible, or binding within the narrative framework.
+
+For instance, in *Liar Game*, contracts between players are treated as perfectly valid despite contradicting both the premise of the game and the lack of any binding legality.
+
+**In conclusion:** these six practical problems (first two are already overkill) are more than enough to show that the lack of coherent causality is both insanely frequent and of high magnitude. And each of them (especially the magnitude aspect) becomes increasingly problematic under two conditions:
+
+1- the more a fictional work attempts to depict feats that are “**ridiculously smart on paper**”.
+
+2- **the more verses are compared**. Even within a single universe, causality systems are already compromised, but once multiple verses are combined the incoherencies multiply exponentially. This is because the safest bet, would be that the incoherencies contained in each verse \*would not\* overlap with each other.
+
+3- the **more** something is both “**output**” mixed with “n**ot understandable**” based.
+
+**Objection**: “Even if fictional causality systems were to be broken, that’s not a big deal. I’m just going to scale ignoring this.”
+
+**Response**: Once you accept that CS are broken, scaling fictional characters wouldn’t become a matter of scaling cognition and intelligence. This is because both are based on coherent CS.
+
+If we were to be strictly logically speaking, since the entire internal logic mechanism of the universe is broken, the only thing that people would do (by pretending as if the CS isn’t broken) would be an extra-narrative POV element. That element being “**aesthetics**” of intelligence. Basically scaling based on how the story \*appears\* to convey intelligence.
+
+This is extra-narrative POV of course since it would merely rely on our own emotional and unconscious perception as humans reading the story.
+
+Now: I don’t think anyone would ever \*actually\* want to scale based on aesthetics. Hopefully.
+
+A cool thing to notice would be that what \*appears\* to convey intelligence, is usually a direct product of Authorial Intent (meaning lots of portions of such aesthetic).
+
+Now, obviously this aesthetic can sometimes overlap with the actual intelligence of the character (which we will get into later on for what I mean by this). But this is obviously almost never the case.
+
+**In short**: accepting the fictional CS problems aforementioned, in the **best case** scenario (**extremely improbable**), you would be **scaling actual intelligence** (when the overlap is massive), in the **worst case** scenario (by far the **most common**) you would be scaling basically **pure aesthetics**.
+
+**Technicalities**
+
+**Perspective objection.** One could reply: *“If we adopt the narrative’s perspective, then pointing out incoherencies as authorial mistakes is already an extra-narrative stance.”* but if one were to argue this he would just ignore how we took extra-narrative stances in multiple things already:
+
+1- Dependency on irl metrics (otherwise comparisons are meaningless)
+
+2- The very idea of comparing characters across universes (otherwise we wouldn’t be able to make comparisons across verse at all).
+
+**FINAL CONCLUSION OF THE DOC:**
+
+The only perspective that remains, and that most importantly doesn’t have any CS problems at all, would be the Human / Authorial Perspective.
+
+**Human/Authorial Perspective**
+The human perspective does not perceive as if the story truly existed as a reality, but only as a product of human cognition and will.
+From this perspective therefore the only intelligence that is true and existing, is the **one transmitted** by the **author to the fictional characters** present in his work.
+To measure it therefore, one must assume the authorial perspective.
+
+Response to criticism "But dividing the perspective into narrative POV and human POV, isn't that a **false dichotomy?**"
+In the context of evaluating the intelligence of fictional characters, NO other POVs exist. Unless one wants to demonstrate the contrary.
+
+The scaling based off of the human / authorial perspective, is RFES, and here will the doc’s link be provided: [RFES](https://docs.google.com/document/d/18kmXIObye9cdWuRCLpziHlUVgHyIDZ8xrhhRpj8XtXw/edit?tab=t.0).

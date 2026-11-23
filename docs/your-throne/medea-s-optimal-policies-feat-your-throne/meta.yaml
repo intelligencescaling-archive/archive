@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: medea-s-optimal-policies-feat-your-throne
+category: doc
+title: Medea's Optimal Policies Feat (Your Throne)
+alt_titles:
+- Medeas's optimal policies  feat
+authors:
+- name: Due_Turnover1421
+  reddit: Due_Turnover1421
+  id: due-turnover1421
+  source: reddit-post
+series:
+- your-throne
+characters:
+- medea
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1os4npu/medeass_optimal_policies_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 553
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

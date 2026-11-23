@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chen-ran-chapters-1-5-my-interpretation-18-levels-of-hell
+category: doc
+title: 'Chen Ran Chapters 1-5: My Interpretation (18 Levels of Hell)'
+alt_titles:
+- Chen Ran Chapter 1-5 my interpretation
+authors:
+- name: Alert-Researcher7788
+  reddit: Alert-Researcher7788
+  id: alert-researcher7788
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s4vtvh/chen_ran_chapter_15_my_interpretation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 758
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

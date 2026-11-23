@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichinose-honami-vs-suzune-horikita-in-emotional-quotient
+category: doc
+title: Ichinose Honami vs Suzune Horikita in Emotional Quotient (Classroom of the Elite)
+alt_titles:
+- Ichinose honami vs suzune horikita in emotional quotient
+authors:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- ichinose-honami
+- suzune-horikita
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vnctsk/ichinose_honami_vs_suzune_horikita_in_emotional/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1678
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 127155
+      sha256: 3be28b2972e6972342c8cc6bfb263317049fe94196f9b4aa94422dabd95003b6
+    - format: jpg
+      name: image-2.jpg
+      bytes: 186965
+      sha256: f99d587018c46956bf807a00a97c09b49e715bdaf84bfe0defa20496bb5f3022
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

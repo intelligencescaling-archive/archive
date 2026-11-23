@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dialogue-between-ayanokoji-and-l-classroom-of-the-elite-x
+category: story
+title: Dialogue Between Ayanokoji and L (Classroom of the Elite x Death Note)
+alt_titles:
+- Dialogue between Ayanokoji and L
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- death-note
+characters:
+- kiyotaka-ayanokoji
+- l-lawliet
+- light-yagami
+tags:
+- fanfiction
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vexkpl/dialogue_between_ayanokoji_and_l/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 846
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 115597
+      sha256: b15b8b2165ea02b6a8b8b6cc26b62bca4082a72a419118e9a86c130cf9fcf542
+    - format: jpg
+      name: image-2.jpg
+      bytes: 48222
+      sha256: 73a4b6464359e09dddca6adb5f859733e287fdb0fc382e53af009830acb83594
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

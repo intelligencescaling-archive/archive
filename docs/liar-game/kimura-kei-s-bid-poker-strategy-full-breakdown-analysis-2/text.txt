@@ -1,0 +1,316 @@
+Kimura Kei's Bid Poker strategy FULL BREAKDOWN analysis
+
+**\[!SKIP IF SEEN IT BEFORE\]**
+
+worked from [https://docs.google.com/document/d/1uDIKfBp6ve-NqcbcIk8eR\_IvrIDPyNPSlMUPXSzrjXY/edit?tab=t.0#heading=h.9u7mzqlx59hd](https://docs.google.com/document/d/1uDIKfBp6ve-NqcbcIk8eR_IvrIDPyNPSlMUPXSzrjXY/edit?tab=t.0#heading=h.9u7mzqlx59hd)
+
+As soon as the lots were revealed, Kimura had already mapped out a sophisticated strategy, looking beyond the value of individual pairs and immediately analyzing the combinations that could be formed across multiple lots.
+
+P1: Every revealed lot contains at least one pair. Lot C contains a pair of Aces, while Lot A contains a pair of 10s.
+
+P2: Lot B contains 10-J-K, while Lot C contains 9-Q. Cards from Lots B and C therefore form 9-10-J-Q-K, a straight.
+
+**C1**: Based on P1 and P2, Kimura identifies two potential routes: collecting all four 10s by securing Lot A and the lots containing the remaining 10s, or combining Lots B and C to form a straight.
+
+P3: Kimura tells Mikamoto that Lot A is the best lot while deliberately making sure Saeki can hear her.
+
+P4: Saeki knows that Lot A contains a pair of 10s, while the other 10s are in Lots B and D.
+
+**Contextual insight**
+Kimura deliberately calls Lot A the best lot because she expects Saeki to recognize its importance to the four-of-a-kind route and become interested in it.
+
+P5: The trial round lasts only three minutes.
+
+P6: Nao proposes cooperation with 1:48 remaining.
+
+**Contextual insight**
+With only 1:48 remaining, the players have very little time to independently analyze the lots. Nao's sudden cooperation proposal arrives before they have much opportunity to fully evaluate the available combinations.
+
+P7: Mikamoto competes with Saeki for Lot A.
+
+**Contextual insight**
+Kimura's attempt to make Lot A appear especially valuable succeeds: Saeki and Mikamoto become occupied competing for the lot she deliberately highlighted.
+
+P8: Lot D is the weakest lot, and Nao voluntarily takes it as the person proposing cooperation.
+
+**Contextual insight**
+Nao's acceptance of Lot D gives the appearance of a cooperative structure while leaving Kimura free to pursue the combinations most useful to her group.
+
+**Trial-Round Bidding**
+
+P9: Players begin with 30 coins, must pay 10 coins at the end of the round, and first place receives 10 coins.
+
+P10: Saeki bids on Lot B to prevent Kimura from obtaining it.
+
+P11: Saeki bids 6 coins for Lot B, while Kimura bids 8 coins and wins it. Mikamoto wins Lot C.
+
+**C2**: Based on P10 and P11, Kimura recognizes that Saeki is willing to spend coins specifically to deny her access to Lot B.
+
+**C3**: Based on **C1**, P9, and P11, Kimura recognizes that Lot B contributes to one of the combinations she identified earlier, making it worth spending 8 of her 30 coins to secure it.
+
+P12: Kimura tells Saeki that he should have cooperated with Nao and taken her King of Diamonds.
+
+P13: Kimura cooperates with Nao and tells Nao not to bid on the King of Diamonds.
+
+**Contextual insight**
+Kimura uses cooperation selectively to obtain a useful card without entering another direct bidding conflict, while simultaneously making Saeki's refusal to cooperate appear to be the reason he missed the opportunity.
+
+**Cooperation Act**
+
+P14: Nao continues advocating cooperation, but only ten lots will ultimately appear, leaving one of the eleven players without a lot. Nao therefore voluntarily withdraws.
+
+P15: Kimura points out that Nao, despite finishing last in the trial round, gained 12 coins.
+
+P16: Harimoto proposes that everyone stand in a circle and hold their boards so that their bidding can be mutually monitored.
+
+**Contextual insight**
+Nao's withdrawal allows the cooperative proposal to continue despite there being fewer lots than players, while Harimoto's arrangement creates the appearance that everyone's actions can be monitored and therefore trusted.
+
+**Two-Board Mechanism**
+
+P17: Harimoto possesses a board bearing his name, and Kimura's fingerprint was registered on it beforehand.
+
+P18: Kimura possesses a board bearing her own name, and her fingerprint is also registered on it. This board was initially held by Harimoto and is later given to Mikamoto.
+
+**C4**: Based on P17 and P18, Kimura recognizes that her fingerprint is registered on both boards.
+
+P19: Harimoto appears as the winner of Lot A without visibly performing a bidding action.
+
+P20: Harimoto claims that his spiritual power caused the board to operate automatically.
+
+P21: Harimoto gives Lot B to Shimoharada and hands his board to Mikamoto.
+
+P22: Harimoto's name nevertheless appears on the bidding board during Lot B, despite Harimoto no longer physically holding that board.
+
+**C5**: Based on P19 through P22, Kimura recognizes that the identity displayed as the bidder is not necessarily tied to the person physically holding the board.
+
+**C6**: Based on **C4** and **C5**, Kimura recognizes that a board can be physically held by one player while displaying another player's identity as the apparent bidder.
+
+**Contextual insight**
+Kimura identifies a potential method for concealing her involvement: if she can operate either board through her registered fingerprint, she can potentially make bids appear under another player's name while that player is not physically making the bid.
+
+P23: Kimura can separate Harimoto from the other players while leaving him with the board bearing his name.
+
+P24: Mikamoto holds the board bearing Kimura's name.
+
+P25: The other players do not know the complete history of the two boards.
+
+P26: Kimura's fingerprint is registered on both boards.
+
+**C7**: Based on P23 through P26 and **C4**, Kimura recognizes that she can potentially operate either registered board even when its physical holder and displayed identity are different.
+
+**Contextual insight**
+The board arrangement gives Kimura a way to secretly determine which member of her group appears to be making a bid, allowing the group to coordinate acquisitions while concealing her involvement.
+
+**Kimura's Economic Objective**
+
+P27: An unranked player loses 150 million, which is redistributed as 100 million to first place, 40 million to second place, and 10 million to third place.
+
+P28: One lot alone is insufficient to form a valid hand.
+
+**C8**: Based on P27 and P28, Kimura recognizes that players who fail to form valid hands become sources of additional money for the players who qualify.
+
+P29: Kimura, Abe, Mikamoto, and Harimoto form a coordinated group capable of exchanging cards internally.
+
+**C9**: Based on P29, Kimura recognizes that the four members can redistribute cards internally after acquiring lots, allowing a card obtained by one member to be transferred to another member who needs it.
+
+P30: Harimoto is intended to secure at least two lots and rank highly, while Kimura, Abe, and Mikamoto can complete their hands through internal exchanges.
+
+**C10**: Based on P29 and P30, Kimura recognizes that the group can concentrate valuable lots with Harimoto and later redistribute the cards among its members so that several members can complete valid hands.
+
+P31: Harimoto taking multiple lots can leave other players without enough cards to form valid hands.
+
+**C11**: Based on P27, P28, P30, and P31, Kimura recognizes that Harimoto's acquisition of multiple lots can simultaneously strengthen her group and deprive outsiders of cards required to qualify.
+
+**Contextual insight**
+Kimura's objective is not merely to maximize the strength of her group's hands. She also wants her group to qualify while increasing the number of outsiders who remain unranked, because each additional unranked player increases the amount redistributed among the qualifying players.
+
+P32: The group's strategy depends on maintaining cooperation among the other players for as long as possible.
+
+**Contextual insight**
+Preserving the appearance of cooperation is strategically valuable because it delays open competition and gives Kimura's group more opportunities to acquire and redistribute cards before outsiders realize they are being exploited.
+
+P33: Kimura can voluntarily surrender a lot that she could otherwise contest.
+
+**Contextual insight**
+Kimura does not need to win every valuable lot. She can surrender individual lots whenever doing so preserves the cooperative structure and advances the group's larger objective.
+
+**Akiyama Breaks the Plan**
+
+P34: Harimoto is expected to secure Lots A and B and potentially acquire additional lots.
+
+P35: Akiyama intervenes and exposes Kimura's board-manipulation mechanism.
+
+**C12**: Based on P35 and **C6**, Kimura recognizes that once the board-manipulation mechanism is exposed, her ability to secretly place bids under Harimoto's name is compromised.
+
+P36: The players abandon the cooperative arrangement and shift toward open competition.
+
+**Contextual transition**
+Kimura can no longer rely on hidden board manipulation or the previous appearance of universal cooperation. From this point onward, she must manipulate individual players and their exchanges rather than controlling the game primarily through the cooperative group structure.
+
+**First Card-Exchange Round**
+
+P37: Kimura helps Harimoto reach first place.
+
+P38: Kimura still needs valid hands for herself, Abe, and Mikamoto.
+
+**C13**: Based on P37 and P38, Kimura recognizes that securing Harimoto's first-place position is only an intermediate objective because Kimura, Abe, and Mikamoto still need valid hands.
+
+P39: Kimura tells Mikamoto that even if outsiders agree to exchange cards by contributing 20 coins each, their group can bid more.
+
+**C14**: Based on P39 and the group's coordinated resources, Kimura recognizes that the group's combined resources allow it to overpower exchanges financed through ordinary cooperation among outsiders.
+
+**Contextual insight**
+Kimura does not need to interfere with every outsider exchange immediately. The group can allow outsiders to form exchanges and intervene when a particular exchange threatens one of its members' qualification or allows an outsider to qualify.
+
+**Second Card-Exchange Round — Kawai as an Information Source**
+
+P40: Kawai approaches Kimura for help.
+
+P41: Kawai tells Kimura that Saeki and Taninaka are attempting to cooperate while each suspects the other of betrayal.
+
+P42: Saeki and Taninaka ultimately agree to put 71 coins toward the cards being exchanged.
+
+**C15**: Based on P40 through P42, Kimura obtains information about the outsiders' attempted cooperation and the resources they are willing to commit to it.
+
+P43: Kimura orders Kawai to monitor the remaining players and promises him five cards if he performs well.
+
+**Contextual insight**
+Kimura turns Kawai into an information source, using the promised reward to maintain a flow of information about the other players' plans, resources, and potential exchanges.
+
+**Third Card-Exchange Round — Preventing Taninaka and Shimoharada from Cooperating**
+
+P44: After the exchange with Saeki fails, Taninaka needs another partner.
+
+P45: Shimoharada is a potential partner, but the proposed exchange would leave Taninaka with only four cards.
+
+**C16**: Based on P44 and P45, Kimura recognizes that even a successful exchange between Taninaka and Shimoharada would leave Taninaka one card short of forming a valid hand.
+
+P46: Shimoharada has 240 coins.
+
+P47: One possible arrangement requires Shimoharada to bid 100 coins for Taninaka's card.
+
+P48: Taninaka has 332 coins and owes 180 million.
+
+P49: Receiving 100 coins would give Taninaka 432 coins before the relevant deductions.
+
+P50: Shimoharada would have only 40 coins after spending 100 coins and paying the additional 100-coin deduction.
+
+P51: Taninaka's card is useful to Shimoharada because Shimoharada can use it to complete his own hand.
+
+**C17**: Based on P46 through P51 and **C16**, Kimura recognizes that the proposed exchange gives Shimoharada a reason to participate, but the required payment would consume most of his resources while Taninaka would still remain one card short of qualifying.
+
+P52: Kimura sends Kawai to approach Taninaka.
+
+P53: Kawai points out the weakness in Taninaka's proposed arrangement with Shimoharada.
+
+P54: The prospective agreement between Taninaka and Shimoharada collapses.
+
+**Contextual insight**
+Kimura uses Kawai to expose the structural weakness of the exchange at the point where Taninaka still needs another card, disrupting the proposed cooperation between the two players.
+
+**Eliminating Multiple Outsiders**
+
+P55: Kimura spends 357 coins preventing Taninaka, Saeki, Shimoharada, and Yasukawa from completing valid hands.
+
+P56: Kimura needs at least four outsiders to remain unranked for the group's expenditure to produce the intended profit.
+
+**C18**: Based on P55 and P56, Kimura's 357-coin expenditure is strategically worthwhile only if all four targeted outsiders remain unranked, because otherwise the resulting redistribution is reduced.
+
+**Contextual insight**
+Kimura is deliberately accepting a substantial immediate expenditure because eliminating several competitors at once can increase the group's eventual share of the redistribution.
+
+**Fourth Card-Exchange Round — Creating False Expectations About Discarding**
+
+P57: The upcoming fifth exchange is the final opportunity for players who still lack sufficient cards.
+
+P58: Kimura uses Kawai to make the players believe that several people have decided to discard all their cards.
+
+P59: Some players have only four cards and cannot qualify anyway.
+
+**C19**: Based on P58 and P59, Kimura recognizes that the false claim is credible because several players genuinely have too few cards to qualify and therefore appear capable of abandoning their hands.
+
+P60: In reality, nobody discards.
+
+**Contextual insight**
+Kimura's misinformation causes players to make decisions based on the expectation that additional lots will become available, allowing her to influence their resource allocation without actually giving them the cards they anticipate receiving.
+
+**Preparation for the Fifth and Final Card-Exchange Round — Turning Taninaka into Capital**
+
+P61: Taninaka faces the risk of losing and needs another opportunity to complete his hand.
+
+P62: Kimura offers Taninaka the Jack of Spades on the condition that he bids 285 coins for it.
+
+**C20**: Based on P61 and P62, Kimura recognizes that Taninaka's need to qualify gives her an opportunity to extract 285 coins in exchange for the card he requires.
+
+P63: Kimura has already spent 357 coins preventing four opponents from qualifying.
+
+P64: If all four opponents fail to qualify, Kimura's group receives 440 million through redistribution.
+
+**C21**: Based on P63 and P64, Kimura recognizes that the potential 440-million redistribution can justify the earlier 357-coin expenditure if all four targeted opponents remain unranked.
+
+P65: Taninaka's 285-coin payment provides Kimura with additional resources immediately before the final bidding sequence.
+
+**Contextual insight**
+The Taninaka transaction serves two purposes for Kimura: it gives Taninaka the card he needs while replenishing Kimura's resources immediately before the decisive final bids.
+
+**Fifth and Final Card-Exchange Round — Using Kawai as Bait**
+
+P66: Mikamoto can discard Q♥, 4♥, 2♦, and 10♠ as one lot.
+
+P67: Abe can discard 4♣ as another lot.
+
+P68: Kawai has 300 coins.
+
+P69: Obtaining both lots would give Kawai five cards and a pair of 4s, enough to qualify.
+
+**C22**: Based on P66 through P69, Kimura recognizes that Kawai's qualification depends on obtaining both lots, making the second lot strategically important to him and giving Kimura leverage over his 300-coin reserve.
+
+P70: Kimura instructs Kawai to bid 290 coins on Mikamoto's lot, leaving him with only 10 coins for the subsequent bid on Abe's 4♣.
+
+P71: Taninaka is expected to spend 285 coins on J♠.
+
+**C23**: Based on P70 and P71, Kimura expects Kawai to spend 290 coins on Mikamoto's lot while Taninaka spends 285 coins on J♠, leaving Kawai with only 10 coins for the subsequent bid.
+
+P72: The remaining players have little reason to compete aggressively for 4♣ because it does not meaningfully improve their hands.
+
+**C24**: Based on P72, Kimura expects Kawai to face little serious competition for 4♣ from the remaining players.
+
+P73: Kimura warns Kawai that bidding less than 290 on Mikamoto's lot will cause her group to increase its bid for 4♣.
+
+P74: Kawai needs 4♣, together with Mikamoto's lot, to complete his proposed qualifying hand.
+
+**Contextual insight**
+Kimura creates a false dilemma for Kawai: he believes he must spend the full 290 coins on Mikamoto's lot to preserve his chance of obtaining 4♣, even though doing so leaves him with almost no resources.
+
+**Kimura's Actual Objective**
+
+P75: Kimura previously has no coins available for the final sequence.
+
+P76: Taninaka pays Kimura 285 coins for J♠.
+
+**C25**: Based on P75 and P76, Kimura obtains the 285 coins necessary to enter the final bidding sequence with resources available to contest 4♣.
+
+P77: Kimura bids 285 coins for 4♣ after Kawai has spent 290 coins on Mikamoto's lot.
+
+**C26**: Based on P70, P74, P76, and P77, Kimura recognizes that Kawai's 290-coin expenditure leaves him with only 10 coins, while the 285 coins obtained from Taninaka allow her to take 4♣ and prevent Kawai from completing his proposed qualifying hand.
+
+**Contextual insight**
+Kimura turns Kawai's attempt to qualify into a trap: she induces him to spend 290 coins on Mikamoto's lot, leaving him with only 10 coins, and then uses the 285 coins extracted from Taninaka to take 4♣.
+
+Kimura's Intended Final Sequence
+
+* Lot A: J♠ → Taninaka bids 285 → Taninaka wins the card → Kimura receives 285 coins.
+* Lot B: Q♥, 4♥, 2♦, 10♠ → Kawai bids 290 → Kawai wins the lot → Mikamoto receives 290 coins.
+* Lot C: 4♣ → Kimura bids 285 → Kimura wins the card → Abe receives 285 coins.
+
+Thus, the final exchange simultaneously redistributes resources within Kimura's group and prevents Kawai from completing his proposed qualifying hand.
+
+The fifth and final card-exchange round is the point at which Akiyama's counterstrategy overturns Kimura Kei's advantage. Akiyama had already calculated that, by discarding A♦ and having Taninaka bid all 332 coins, he could raise his 596 coins to 928, enough to secure both lots he needed without interference from Harimoto's group. His planned counterstrategy therefore allows him to take first place and save the other players.
+
+**Canon statement/insight**
+Kimura had understood from the beginning that Bid Poker is fundamentally a majority-rule game: the winning strategy is to form a team, pool the most coins, prevent opponents from outbidding the team, and collectively build strong hands.
+
+However, she believed that this strategy was impossible to implement reliably because the player controlling the collective money could betray the others for personal gain. Kimura therefore believed that only her tightly bound group could overcome this problem through faith and trust.
+
+Akiyama ultimately proves her wrong by exploiting this very assumption. He demonstrates that Kimura's belief that everyone is inevitably selfish and untrustworthy is itself the weakness that leads to her defeat.

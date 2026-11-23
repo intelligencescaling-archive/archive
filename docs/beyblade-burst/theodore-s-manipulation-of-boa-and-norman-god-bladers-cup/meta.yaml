@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: theodore-s-manipulation-of-boa-and-norman-god-bladers-cup
+category: doc
+title: Theodore's Manipulation of Boa and Norman (God Bladers Cup)
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- beyblade-burst
+characters:
+- theodore-glass
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xwdxim/theodores_manipulation_of_boa_and_norman_god/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1892
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

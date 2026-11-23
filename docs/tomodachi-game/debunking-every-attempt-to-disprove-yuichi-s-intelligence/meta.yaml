@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-every-attempt-to-disprove-yuichi-s-intelligence
+category: doc
+title: Debunking Every Attempt to Disprove Yuichi's Intelligence (Tomodachi Game)
+alt_titles:
+- Debunking every attempt to disprove Yuichi's intelligence
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- tomodachi-game
+- classroom-of-the-elite
+characters:
+- yuuichi-katagiri
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1f1mhrd/debunking_every_attempt_to_disprove_yuichis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1043
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

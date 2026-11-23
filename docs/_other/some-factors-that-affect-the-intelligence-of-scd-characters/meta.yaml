@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-factors-that-affect-the-intelligence-of-scd-characters
+category: doc
+title: Some Factors That Affect the Intelligence of SCD Characters
+alt_titles:
+- Some factors which affects intelligence of SCD characters 🥹✌️
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ubimso/some_factors_which_affects_intelligence_of_scd/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1703
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 2722735
+      sha256: 123a36f5bdbf2c110295201f1b5ad2cdfbc6c207cddb2a0f1ee2212ff1cdfedb
+    - format: jpg
+      name: image-2.jpg
+      bytes: 109485
+      sha256: 97e5252714de9d13bc5017d54179c4f5ff7cac3f5bdda31f09644b3539bf9e19
+    - format: jpg
+      name: image-3.jpg
+      bytes: 85685
+      sha256: d0cd0eb3fc0d0ef667bb1b041242e4986c81ac300c17991060180a18249d5f15
+    - format: jpg
+      name: image-4.jpg
+      bytes: 44391
+      sha256: 11cd2fc12102585d979a11a855455b45272b3609d67b5b39f9d2cee46f6c2e3b
+    - format: jpg
+      name: image-5.jpg
+      bytes: 11066
+      sha256: c9cef0c64821744942d243ea7120ab67b1cc0eb6aded6f9d7051f3290f4d4552
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

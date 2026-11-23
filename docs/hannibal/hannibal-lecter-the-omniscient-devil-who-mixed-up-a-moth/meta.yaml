@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-lecter-the-omniscient-devil-who-mixed-up-a-moth
+category: doc
+title: 'Hannibal Lecter: The Omniscient Devil Who Mixed Up a Moth (Hannibal SOTL)'
+alt_titles:
+- 'Hannibal Lecter: The Omniscient Devil Who Mixed Up a Moth'
+authors:
+- name: Antique-Contract-315
+  reddit: Antique-Contract-315
+  id: antique-contract-315
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xke5b7/hannibal_lecter_the_omniscient_devil_who_mixed_up/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 881
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 7572
+      sha256: 9cddc28a04c76c9d6370e2b4a2f6be02d65082affb06a194bf32842625a1b055
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

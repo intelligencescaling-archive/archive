@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: k-drama-yokoya-planning-feat-liar-game
+category: doc
+title: K-Drama Yokoya Planning Feat (Liar Game)
+alt_titles:
+- K drama Yokoya planning feat
+authors:
+- name: Hour-Reach7418
+  reddit: Hour-Reach7418
+  id: hour-reach7418
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o34dox/k_drama_yokoya_planning_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 997
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 106487
+      sha256: 7abbd61b090366123b98e1978169cc61823dcc02062207d175401ebf473e384c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

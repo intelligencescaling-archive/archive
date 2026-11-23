@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pure-methodology-is-fsiq-valid-explained
+category: doc
+title: 'Pure Methodology: Is FSIQ Valid? Explained'
+alt_titles:
+- 'Pure Methodology: FSIQ valid? Or Invalid? Explanation.'
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1we7kh7/pure_methodology_fsiq_valid_or_invalid_explanation/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1146
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

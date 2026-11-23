@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-nocturne-beyond-the-veil-part-one-the-blind-observer-x
+category: story
+title: A Nocturne Beyond the Veil, Part One (The Blind Observer x Wildfire)
+alt_titles:
+- A Nocturne Beyond the Veil (a short collaboration story)
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wzq26s/a_nocturne_beyond_the_veil_a_short_collaboration/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 863
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 24428
+      sha256: 7f7bd7ebfb79698acd9ef069276ca60876c84ba7f7246ac9947d83b77e6a8eae
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

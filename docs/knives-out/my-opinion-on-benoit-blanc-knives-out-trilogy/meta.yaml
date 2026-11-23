@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-opinion-on-benoit-blanc-knives-out-trilogy
+category: doc
+title: My Opinion on Benoit Blanc (Knives Out Trilogy)
+alt_titles:
+- My Opinion On Benoit Blanc From The Knives Out Trilogy
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- knives-out
+characters:
+- benoit-blanc
+tags:
+- feats
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wxqauj/my_opinion_on_benoit_blanc_from_the_knives_out/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 644
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 251686
+      sha256: 2c1a450d70e11eee3cea1effc3aaa3c2551714b6fb037e9d6fcb9bda493ac4b2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

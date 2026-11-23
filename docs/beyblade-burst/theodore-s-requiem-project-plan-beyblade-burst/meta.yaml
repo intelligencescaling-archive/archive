@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: theodore-s-requiem-project-plan-beyblade-burst
+category: doc
+title: Theodore's Requiem Project Plan (Beyblade Burst)
+alt_titles:
+- Requiem Project Plan
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- beyblade-burst
+characters:
+- theodore-glass
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pm0cfh/requiem_project_plan/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 509
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

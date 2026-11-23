@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-context-about-18loh-and-why-the-verse-scales-so-high
+category: doc
+title: Some Context About 18LOH and Why the Verse Scales So High (18 Levels of Hell)
+alt_titles:
+- Some context about 18LOH and why this verse scales so high in SCD
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  id: ancient-end2474
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rbc9m6/some_context_about_18loh_and_why_this_verse/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1064
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1437778
+      sha256: cb77693c3330afad408239ab134aad8f6ba84f8089e14ba4f65590d955dff831
+    - format: png
+      name: image-2.png
+      bytes: 1007854
+      sha256: 4a14a325f73af74e428eca4507558b434fed67f2b9ead9f178e4cc3533975883
+    - format: jpg
+      name: image-3.jpg
+      bytes: 138119
+      sha256: 9f68ccf285af5ec81269bbe38d2b9f38e871a53780a4cbdc119a7c487a7c2450
+    - format: jpg
+      name: image-4.jpg
+      bytes: 116652
+      sha256: f3cbba93588074b36f48d6486ad78eeb95de956c6fcb03679b9f7a5fe85b2c83
+    - format: jpg
+      name: image-5.jpg
+      bytes: 43964
+      sha256: 24f8604a7e008dfdc617d72445b89e64dc8e24560c7ec3ca1b4efbd408e9f87c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

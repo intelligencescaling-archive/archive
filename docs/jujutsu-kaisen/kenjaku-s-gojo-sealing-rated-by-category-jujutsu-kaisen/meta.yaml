@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-s-gojo-sealing-rated-by-category-jujutsu-kaisen
+category: doc
+title: Kenjaku's Gojo Sealing Rated by Category (Jujutsu Kaisen)
+alt_titles:
+- Kenjaku's Gojo sealing categories rating
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+- satoru-gojo
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1walpzl/kenjakus_gojo_sealing_categories_rating/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 611
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 198827
+      sha256: 2170009baad96284bb268fa749782dbb709ce45d245da3598f770fb26a79e6a7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: perfect-memory-extremely-strong-wmi-psi-debunk-ayanokoji
+category: doc
+title: Perfect Memory = Extremely Strong WMI & PSI Debunk (Ayanokoji, COTE)
+alt_titles:
+- PMH = extremely strong WMI & PSI debunk
+authors:
+- name: ExPsy-dr3
+  reddit: ExPsy-dr3
+  id: expsy-dr3
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1na1772/pmh_extremely_strong_wmi_psi_debunk/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 632
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

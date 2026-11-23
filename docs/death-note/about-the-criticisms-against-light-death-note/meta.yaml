@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: about-the-criticisms-against-light-death-note
+category: doc
+title: About the Criticisms Against Light (Death Note)
+alt_titles:
+- About the criticisms against Light
+authors:
+- name: lawligh0
+  reddit: lawligh0
+  id: lawligh0
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- rebunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wcw7nm/about_the_criticisms_against_light/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1485
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 105174
+      sha256: 7d243199a9ba9e8f45cf4db3a76282ffc389b3cbedd36ad8f7c09007bf6f67dc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

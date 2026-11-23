@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-s-jia-jin-sheng-murder-misdirection-strategy
+category: doc
+title: Fang Yuan's Jia Jin Sheng Murder Misdirection Strategy (Reverend Insanity)
+alt_titles:
+- 'Fang Yuan feat: Jia Jin Sheng Murder Misdirection Strategy'
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vu4hyk/fang_yuan_feat_jia_jin_sheng_murder_misdirection/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 3266
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-didn-t-tsukumo-bring-midzuno-along-for-the-first-july
+category: doc
+title: Why Didn't Tsukumo Bring Midzuno Along for the First July 22 Hand Plan? (Massacre Happy End)
+alt_titles:
+- Why didn’t Tsukumo bring Midzuno with him during the first July 22 Hand Plan?
+authors:
+- name: Big_Presentation_894
+  reddit: Big_Presentation_894
+  id: big-presentation-894
+  source: reddit-post
+series:
+- massacre-happy-end
+characters:
+- inspector-tsukumo
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w3x5pk/why_didnt_tsukumo_bring_midzuno_with_him_during/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 567
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

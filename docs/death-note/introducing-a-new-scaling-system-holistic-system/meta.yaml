@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: introducing-a-new-scaling-system-holistic-system
+category: doc
+title: 'Introducing a New Scaling System: Holistic System'
+alt_titles:
+- Introducing a new scaling system - Holistic system
+authors:
+- name: Sardine87
+  reddit: Sardine87
+  id: sardine87
+  source: reddit-post
+series:
+- death-note
+- danganronpa
+characters:
+- l-lawliet
+- nagito-komaeda
+tags:
+- guide
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xbyidi/introducing_a_new_scaling_system_holistic_system/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2249
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 95124
+      sha256: 3eb01cba337bf8ed311d208af891311dc89fc76a0cce851636a25b2f69d70fc4
+    - format: jpg
+      name: image-2.jpg
+      bytes: 82381
+      sha256: 5b25928f10b820942692c2720121335fb22559379bc8dec0d0acd12c44594018
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

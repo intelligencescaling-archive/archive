@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: miscellaneous-sherlock-holmes-novel-reasoning-cold-reading
+category: doc
+title: Miscellaneous Sherlock Holmes Novel Reasoning, Cold Reading and Analysis Feats
+alt_titles:
+- Miscellaneous Novel Sherlock Holmes reasoning, cold reading and analysis feats
+authors:
+- name: Communist_Crusaders
+  reddit: Communist_Crusaders
+  id: communist-crusaders
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o086a4/miscellaneous_novel_sherlock_holmes_reasoning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2414
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 55170
+      sha256: 053f08e999428adf993606cf75d7cbbc9eb826e2ea4790bad354d6e2f2073a93
+    - format: jpg
+      name: image-2.jpg
+      bytes: 43631
+      sha256: e714ac4829926899a70f10b45d279bb67c9140e952e2390d394aa0a66d421314
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

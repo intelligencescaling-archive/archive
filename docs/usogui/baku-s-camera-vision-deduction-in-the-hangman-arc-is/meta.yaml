@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-s-camera-vision-deduction-in-the-hangman-arc-is
+category: doc
+title: Baku's Camera Vision Deduction in the Hangman Arc Is Overrated (Usogui)
+alt_titles:
+- I've resumed reading Usogui and just finished the Hangman Arc and...
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vl456i/ive_resumed_reading_usogui_and_just_finished_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 573
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 236422
+      sha256: c7b01dd1a3cea3e9df256fe45e6c9943fc3cb8326ed247a59ba24484751fbf43
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

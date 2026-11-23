@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: blind-devoy-beyblade-burst-vs-johan-liebert-monster-in
+category: doc
+title: Blind DeVoy (Beyblade Burst) vs Johan Liebert (Monster) in Emotional Intelligence
+alt_titles:
+- Blind DeVoy (Beyblade Burst Rise/Gachi) VS Johan Liebert (Monster) In Emotional Intelligence (WITH EVIDENCE/PROOF)
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- beyblade-burst
+- monster
+characters:
+- blind-devoy
+- johan-liebert
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xq0bqo/blind_devoy_beyblade_burst_risegachi_vs_johan/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 942
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 64698
+      sha256: ecfeeb73edbd66462841dd59f8bd6b697862819c4d0f0f5bd266c2c647542f99
+    - format: jpg
+      name: image-2.jpg
+      bytes: 161759
+      sha256: 41557fe531f75851ae34e1f7779f9d4f68a92e3fdf7d80ba7753d84721e3a3aa
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

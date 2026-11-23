@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokouji-s-insane-logical-reasoning-in-vol-3-classroom-of
+category: doc
+title: Ayanokouji's "Insane" Logical Reasoning in Vol 3 (Classroom of the Elite)
+alt_titles:
+- Ayanokouji's INSANE logical reasoning in Vol 3
+authors:
+- name: Intelligent_Dog7943
+  reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p5krrd/ayanokoujis_insane_logical_reasoning_in_vol_3/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1420
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 36493
+      sha256: 80e143066be6737e127f531df05b2d586f8091acdb33df8b769d247480799721
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

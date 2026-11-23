@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-i-am-planning-on-debunking-usogui-a-debunking-method
+category: doc
+title: 'How I Am Planning on Debunking Usogui: A Debunking Method'
+alt_titles:
+- How I am planning on Debunking Usogui.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xvzuts/how_i_am_planning_on_debunking_usogui/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2306
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 103024
+      sha256: a833e060167594de34c70e165232fc2ed03741f3f3d6372ad7f895ef672fd424
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

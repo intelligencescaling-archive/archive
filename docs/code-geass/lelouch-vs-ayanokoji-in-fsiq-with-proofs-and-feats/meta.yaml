@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-vs-ayanokoji-in-fsiq-with-proofs-and-feats
+category: doc
+title: Lelouch vs Ayanokoji in FSIQ with Proofs and Feats
+alt_titles:
+- Lelouch vs Ayanokoji in FSIQ with proofs/feats.
+authors:
+- name: Fit_Strain_9215
+  reddit: Fit_Strain_9215
+  id: fit-strain-9215
+  source: reddit-post
+series:
+- code-geass
+- classroom-of-the-elite
+characters:
+- lelouch-vi-britannia
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t0td5b/lelouch_vs_ayanokoji_in_fsiq_with_proofsfeats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1687
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 82558
+      sha256: 7da569be84246d4ebed8b6d62f96375177bbc0bc7af30df163aa3efc2551b853
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

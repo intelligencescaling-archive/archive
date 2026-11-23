@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: grunkle-stan-is-smarter-than-grunkle-ford-gravity-falls
+category: doc
+title: Grunkle Stan Is Smarter Than Grunkle Ford (Gravity Falls)
+alt_titles:
+- 'Somewhat Hot Take (cuz its ig sort of common): Grunkle Stan is smarter than Grunkle Ford'
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- gravity-falls
+characters:
+- stanley-pines
+- stanford-pines
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p9khmi/somewhat_hot_take_cuz_its_ig_sort_of_common/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1838
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 817736
+      sha256: e0e5ebed0d20052ef4548f6d850dae0adf60bf3da1dd4f05accf47c1da225b80
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: possible-akiyama-buff-coming-soon-his-emotional-and-social
+category: doc
+title: Possible Akiyama Buff Coming Soon? His Emotional and Social Antifeats (Liar Game)
+alt_titles:
+- Possible Akiyama buff coming soon? (brief analysis and predictions)
+authors:
+- name: TheLarpTriad
+  reddit: TheLarpTriad
+  id: thelarptriad
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- nao-kanzaki
+- yokoya-norihiko
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pwcu8l/possible_akiyama_buff_coming_soon_brief_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1464
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 1059211
+      sha256: 7e9137a5ed7f208b194cde484c92bfa46802ac782774b5e8240e712dec1d916d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

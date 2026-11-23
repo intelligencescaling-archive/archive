@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rick-prime-s-diane-massacre-strategy-a-superficial-analysis
+category: doc
+title: 'Rick Prime''s Diane Massacre Strategy: A Superficial Analysis (Rick and Morty)'
+alt_titles:
+- Rick Prime's Diane Massacre Strategy - Superficial Analysis
+authors:
+- name: No_Strawberry5397
+  reddit: No_Strawberry5397
+  id: no-strawberry5397
+  source: reddit-post
+series:
+- rick-and-morty
+characters:
+- rick-prime
+- rick-sanchez
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xdh27x/rick_primes_diane_massacre_strategy_superficial/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 603
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 52643
+      sha256: bdfbab18f0ad8ddc933cfdd1483040970d465303d101006e2d474043e2694861
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

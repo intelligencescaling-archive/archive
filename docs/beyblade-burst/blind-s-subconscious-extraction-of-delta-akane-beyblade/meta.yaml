@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: blind-s-subconscious-extraction-of-delta-akane-beyblade
+category: doc
+title: Blind's Subconscious Extraction of Delta Akane (Beyblade Burst)
+alt_titles:
+- Blind's Subconscious Extraction of Delta Akane
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- beyblade-burst
+characters:
+- blind-devoy
+- delta-akane
+tags:
+- analysis
+- writing
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x93a4m/blinds_subconscious_extraction_of_delta_akane/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5814
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 128790
+      sha256: f0fee0dde4105514d7063217a9d2b5bea9f784587b5ec443d13ae7c1ba95fee2
+    - format: png
+      name: image-2.png
+      bytes: 162961
+      sha256: aef75c73537fd354eb931725b3185e54935601a02d5dc4ae87c0317896675424
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

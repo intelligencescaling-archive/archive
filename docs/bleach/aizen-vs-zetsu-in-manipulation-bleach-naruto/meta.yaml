@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aizen-vs-zetsu-in-manipulation-bleach-naruto
+category: doc
+title: Aizen vs Zetsu in Manipulation (Bleach / Naruto)
+alt_titles:
+- Aizen vs Zetsu in manipulation
+authors:
+- name: Scary_Examination887
+  reddit: Scary_Examination887
+  id: scary-examination887
+  source: reddit-post
+series:
+- bleach
+- naruto
+characters:
+- sosuke-aizen
+- black-zetsu
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1std0wf/aizen_vs_zetsu_in_manipulation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1343
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 20036
+      sha256: 13f8517f780b796e7dafff439ca8b303b694ec2946e1e4855dfcd3698aa6a157
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

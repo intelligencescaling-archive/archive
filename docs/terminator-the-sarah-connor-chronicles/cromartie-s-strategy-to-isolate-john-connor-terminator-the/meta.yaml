@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cromartie-s-strategy-to-isolate-john-connor-terminator-the
+category: doc
+title: 'Cromartie''s Strategy to Isolate John Connor (Terminator: The Sarah Connor Chronicles)'
+authors:
+- name: Big_Application_7168
+  reddit: Big_Application_7168
+  id: big-application-7168
+  source: reddit-post
+series:
+- terminator-the-sarah-connor-chronicles
+characters:
+- cromartie
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lxbz8z/i_hear_that_popular_characters_were_banned_for_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 965
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1201081
+      sha256: 692bd0356eca85ca0515cdc59fcc19b053eb1d39c6c8fa3d58eaaa77e5ad5e06
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

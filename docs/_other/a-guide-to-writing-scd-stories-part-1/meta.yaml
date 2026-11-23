@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-guide-to-writing-scd-stories-part-1
+category: doc
+title: A Guide to Writing SCD Stories, Part 1
+alt_titles:
+- A Guide to Writing SCD Stories (Part 1?)
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wnydbm/a_guide_to_writing_scd_stories_part_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1342
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 33689
+      sha256: 0d2102b0f32929591ac9108d38246fc0e82e0aeb3459111cb5e0bc9d2bb2fdc4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

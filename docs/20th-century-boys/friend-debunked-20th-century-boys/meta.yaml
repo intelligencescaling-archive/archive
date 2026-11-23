@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: friend-debunked-20th-century-boys
+category: doc
+title: Friend Debunked (20th Century Boys)
+alt_titles:
+- Friend debunked
+authors:
+- name: Suspicious-Drop-2272
+  reddit: Suspicious-Drop-2272
+  id: suspicious-drop-2272
+  source: reddit-post
+series:
+- 20th-century-boys
+characters:
+- friend
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1spdoh0/friend_debunked/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 710
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 135192
+      sha256: 8b141bc2e72b7f83936ec26c372199d7f394a518db1196f9817b938eca7643cc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

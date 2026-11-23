@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: problems-with-the-pigeon-strategy-the-mentalist
+category: doc
+title: Problems with the Pigeon Strategy (The Mentalist)
+alt_titles:
+- Pigeon strategy...
+authors:
+- name: Due_Turnover1421
+  reddit: Due_Turnover1421
+  id: due-turnover1421
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+- red-john
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ohs02x/pigeon_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 563
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: predictability-and-the-one-unpredictable-contraband-game
+category: doc
+title: 'Predictability and the One Unpredictable: Contraband Game Analysis #1 (Liar Game)'
+alt_titles:
+- 'Predictability and the One Unpredictable [Contraband Game Analysis #1]'
+authors:
+- name: Important-Cup-8991
+  reddit: Important-Cup-8991
+  id: important-cup-8991
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tszz8i/predictability_and_the_one_unpredictable/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 2060
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+      image-3: HTTP 404
+      image-4: HTTP 404
+      image-5: HTTP 404
+      image-6: HTTP 404
+      image-7: HTTP 404
+      image-8: HTTP 404
+      image-9: HTTP 404
+      image-10: HTTP 404
+      image-11: HTTP 404
+      image-12: HTTP 404
+      image-13: HTTP 404
+      image-14: HTTP 404
+      image-15: HTTP 404
+      image-16: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

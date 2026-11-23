@@ -1,0 +1,155 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: liar-game-analysis-passagenegative225
+category: doc
+title: Liar Game Analysis
+authors:
+- name: PassageNegative225
+  reddit: PassageNegative225
+  id: passagenegative225
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- nao-kanzaki
+- yuji-fukunaga
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- title: '#2: The Illusion of the Perfect Strategy, and the Man Who Saw Through Everything (Minority Rule)'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jyvtos/the_illusion_of_the_perfect_strategy_and_the_man/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2151
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 195983
+      sha256: f5f94e6da2562f485dbde1e51c67df72de7f98f528b7703f432edee9ef3f9c55
+    - format: png
+      name: image-2.png
+      bytes: 186045
+      sha256: 24ead4f3a93fd00e6d94873634faf57910ecf1afc5a1f1f37d3bdd72fdc85dd6
+    - format: png
+      name: image-3.png
+      bytes: 329919
+      sha256: 8ef97a06ef63220d0342a36e59cee18c0cb3a82379bae673707e0e6c9497db9d
+    - format: png
+      name: image-4.png
+      bytes: 245066
+      sha256: a129def04f1658d15394046a85c59da0926cf23ea13ebbad588df5ef1baeab6b
+    - format: png
+      name: image-5.png
+      bytes: 144190
+      sha256: 5954dac793032b27cfd4cc863224719547d23b339cb32ed5013c8e8f100e8881
+    - format: png
+      name: image-6.png
+      bytes: 63228
+      sha256: 51f55e6710c43bb75bc9d642fa62b9037a0ee3f29fae14c70c8b70070d5477e0
+    - format: png
+      name: image-7.png
+      bytes: 330427
+      sha256: f79350616263429f7b0e926e58a3efb1b35fadbadcc40c8a029d7e46b21dc675
+    - format: png
+      name: image-8.png
+      bytes: 187027
+      sha256: 4613f1a0910d7bb680ca79765db8860c2b30a278436d65fbe512e1df26197e17
+    - format: png
+      name: image-9.png
+      bytes: 49088
+      sha256: 09567948336c3c8600653f7d37f300421e53742f17610addc8e2f0ff7c01adfa
+    - format: png
+      name: image-10.png
+      bytes: 152312
+      sha256: ecf8c443b73a5db1a760e977b2f6065c306090cfe88f0172897e90ac7918d26d
+    - format: png
+      name: image-11.png
+      bytes: 41907
+      sha256: 0e6a0e3cbc21b576ae8ee487ce782d62ef17dd03686e13dcbe24a83627dac189
+    - format: png
+      name: image-12.png
+      bytes: 110045
+      sha256: b524109f60a6576ab1312854dfa64561f7570cb78106c9052db30a87799b8c69
+    - format: png
+      name: image-13.png
+      bytes: 129402
+      sha256: 1215c409fe10912c46a7d77552c46b6ee7e582c295295236575bbecda7fff81f
+    - format: png
+      name: image-14.png
+      bytes: 156046
+      sha256: aadb6a99d323dda85788b0ec24758c51424d19e88ae3b3c6de1cae3e23a6fee5
+    - format: png
+      name: image-15.png
+      bytes: 143498
+      sha256: 4d6301faa2d283bae9c090b55ba3647861fd6869cbd58105c4d6924abc6a0fab
+    - format: png
+      name: image-16.png
+      bytes: 118689
+      sha256: e0d25fb3439fe45510e4a312deba388b0bcfea341ecf8bf89841449d4d9fe3cb
+    - format: png
+      name: image-17.png
+      bytes: 117780
+      sha256: 1f33ed01c6f3c166e04fc83a28b104fa6a2daabce4d2419bc268ad8466e6baa7
+    - format: png
+      name: image-18.png
+      bytes: 60926
+      sha256: e5b041b1815be520362e3d80e33441b67576389de4225bb2c11d14c94e1bae01
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: '#3: The Mastermind Who Preys on Desperation (Downsizing Game)'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lne0mm/the_mastermind_who_preys_on_desperation_my/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 898
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 113981
+      sha256: 5ba9870743462f95243fb13cac8a0f042f1674e1eb70c85590a449f18ffc0265
+    - format: png
+      name: image-2.png
+      bytes: 398546
+      sha256: b8ec857330c587b2d898d138cb17a12ce08be63d7abf4a9f6914014b732bd9c4
+    - format: png
+      name: image-3.png
+      bytes: 299601
+      sha256: e8ba4bd4a5e4a05d77d87f78eae44388916131bc59d9d02b1151eab4b8bf30b6
+    - format: png
+      name: image-4.png
+      bytes: 401511
+      sha256: fb44c2dcb6e530ebfafc280c01f671c30621be0ed888f00d8ccb7a7104be820e
+    - format: png
+      name: image-5.png
+      bytes: 395173
+      sha256: 4d8a19ed1121629e698b914eed0f138f5f5ce338761d976a6dec36a76da9a239
+    - format: png
+      name: image-6.png
+      bytes: 291409
+      sha256: 6b827a3bce7f831548507084ece205a7b967b3db885844a35c3034f2c0806db7
+    - format: png
+      name: image-7.png
+      bytes: 205378
+      sha256: 74e2f52cc58ec65e0bc5775fb58b515364582711d5019ebbd1e070c65853fac0
+    - format: png
+      name: image-8.png
+      bytes: 231816
+      sha256: d45e130b2616fb4990ca516cbc1bedd0d08564b54e9695324dc29b20745c0d5c
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

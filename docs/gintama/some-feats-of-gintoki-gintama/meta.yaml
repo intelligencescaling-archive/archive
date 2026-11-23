@@ -1,0 +1,114 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-feats-of-gintoki-gintama
+category: doc
+title: Some Feats of Gintoki (Gintama)
+alt_titles:
+- Ok so here's some stuff Gintoki did (major Gintama spoilers ahead)
+authors:
+- name: Salty_Wall
+  reddit: Salty_Wall
+  id: salty-wall
+  source: reddit-post
+series:
+- gintama
+characters:
+- gintoki-sakata
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lbx57k/ok_so_heres_some_stuff_gintoki_did_major_gintama/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1921
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 134092
+      sha256: 1df8e3445df5b3227dc6ac00b85cb5c69ab033ba27e3771ef29b10dc89dc3228
+    - format: jpg
+      name: image-2.jpg
+      bytes: 102900
+      sha256: edbcdfde4d88162b7524dc013edee847342366a5e5b9f12942ea41e3a2d45086
+    - format: jpg
+      name: image-3.jpg
+      bytes: 152734
+      sha256: 063782abda976a4bfe97c0bacdf4afe54d1d473f6bfcf641a0a44047ccaf7d53
+    - format: jpg
+      name: image-4.jpg
+      bytes: 150009
+      sha256: 7008c2e23a1e9134b0984bf5ea586a0baa95e0c43e41ab8c26bd1afd949e33e8
+    - format: jpg
+      name: image-5.jpg
+      bytes: 90019
+      sha256: 70dc8922854d016e364037d6bd2ce03fa5b98f2d707b20b1c2405e9493def3c0
+    - format: jpg
+      name: image-6.jpg
+      bytes: 111177
+      sha256: 2ba506a1e1b4812ea74966b99db26989fa7e35366c2f24547696ecfc3474e60e
+    - format: jpg
+      name: image-7.jpg
+      bytes: 125331
+      sha256: b1ccec616ddfb18eed485fae93d6538f68c6048340d53ab80215580c784a3f7c
+    - format: jpg
+      name: image-8.jpg
+      bytes: 120134
+      sha256: 2ff8344c3baeb03e57e7d05b31e3719a25f2243fd3e54dc9f35825ff11be4e7f
+    - format: jpg
+      name: image-9.jpg
+      bytes: 95531
+      sha256: 6a5b1ecef7b665c9b7f29493640ba40ab9e136c6a17e81441df39775befd23b8
+    - format: jpg
+      name: image-10.jpg
+      bytes: 104001
+      sha256: 3076513de16dff083f58545e47840238d5be5ffb0a56c87a09bce0afad481e94
+    - format: jpg
+      name: image-11.jpg
+      bytes: 113896
+      sha256: f72ea5ba5b5e2b9fa9ac195f33ee0ff5bc5d1bee3457615036415b5fd92e3f3d
+    - format: jpg
+      name: image-12.jpg
+      bytes: 76077
+      sha256: 7f780bf283ba75f3299fb27536b0f9fd33ed302a4227c0e1a185c97394179693
+    - format: jpg
+      name: image-13.jpg
+      bytes: 67715
+      sha256: cef5d615c298764374bd63ab7b12e1db0480fde8f8b020d411c3115b5ac39e34
+    - format: jpg
+      name: image-14.jpg
+      bytes: 89488
+      sha256: 05813ebe6fbebe135ec3cb617296d0fb7634096b3f5f97e19ea1540530cee765
+    - format: jpg
+      name: image-15.jpg
+      bytes: 280308
+      sha256: 1bb22646f629c2972f1476a0de8ff9da059cd409e74b6fdbb53aec64035cfdeb
+    - format: jpg
+      name: image-16.jpg
+      bytes: 238694
+      sha256: 440ea7f706903a51e53badd325655cab122a28e888ccf57ccb8a8ae45be1b517
+    - format: jpg
+      name: image-17.jpg
+      bytes: 188762
+      sha256: 238c3967eeaae8a8a413dfc2d7450cd1cb6065c8b7e06f753b7a9ff6b0a6e88c
+    - format: jpg
+      name: image-18.jpg
+      bytes: 131135
+      sha256: 458b1a466644d0b9e2a7996ce4cd8143b9ace514a30e0fb258324f087774f0f5
+    - format: jpg
+      name: image-19.jpg
+      bytes: 278697
+      sha256: 3c895793e784697543fa7ec9bbf6ada87553dbf01b2301b42c3cf436cd0e61a8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

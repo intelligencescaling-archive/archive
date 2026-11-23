@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-plan-to-take-down-the-rocket-men-doctor-who
+category: doc
+title: 'The Doctor''s Plan to Take Down the Rocket Men (Doctor Who: Requiem for the Rocket Men)'
+alt_titles:
+- 'The doctor plan to take down the rocket men feat, (Doctor who: requiem for the rocket men) (methodology)'
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k67pnb/the_doctor_plan_to_take_down_the_rocket_men_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 700
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 105017
+      sha256: 29f01c86edcf2e3a222fbd763b04ef6bab9d9c0102505a8775ec731cfddc6fc7
+    - format: png
+      name: image-2.png
+      bytes: 199565
+      sha256: 4be67b8f218e0f0ebddb153373a9bf1ad70b428f637ea4857561709873abacda
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

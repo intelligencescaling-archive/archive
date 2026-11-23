@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: problems-with-kanade-s-double-murder-strategy-danganronpa
+category: doc
+title: Problems With Kanade's Double Murder Strategy (Danganronpa SDRA2)
+alt_titles:
+- Problems with Kande's double murder strategy
+authors:
+- name: AsideOk1035
+  reddit: AsideOk1035
+  id: asideok1035
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kxbh5t/problems_with_kandes_double_murder_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 711
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

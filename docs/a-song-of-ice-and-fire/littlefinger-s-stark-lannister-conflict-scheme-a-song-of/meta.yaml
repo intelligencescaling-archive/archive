@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: littlefinger-s-stark-lannister-conflict-scheme-a-song-of
+category: doc
+title: Littlefinger's Stark-Lannister Conflict Scheme (A Song of Ice and Fire)
+alt_titles:
+- Littlefinger’s Stark-Lannister Conflict Scheme. ASOIAF
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- a-song-of-ice-and-fire
+characters:
+- petyr-baelish
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wdxkpp/littlefingers_starklannister_conflict_scheme/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1322
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 44685
+      sha256: a38360757eff596edd530f4f55262db4df9e13b2d2713da51216345e398b4c82
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

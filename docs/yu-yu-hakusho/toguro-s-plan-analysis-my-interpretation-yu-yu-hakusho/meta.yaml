@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: toguro-s-plan-analysis-my-interpretation-yu-yu-hakusho
+category: doc
+title: Toguro's Plan Analysis, My Interpretation (Yu Yu Hakusho)
+alt_titles:
+- Toguros plan analysis (my interpretation)
+authors:
+- name: DBTRF
+  reddit: DBTRF
+  id: dbtrf
+  source: reddit-post
+series:
+- yu-yu-hakusho
+characters:
+- younger-toguro
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lbw328/toguros_plan_analysis_my_interpretation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1110
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 142989
+      sha256: 1d80fcc41bf68d2dd22cac47e7220c6fb03765805c933ae85ed5051359086d0a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

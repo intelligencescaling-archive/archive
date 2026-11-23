@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-near-could-have-outsmarted-light-a-better-strategy-than
+category: doc
+title: 'How Near Could Have Outsmarted Light: A Better Strategy Than What Ohba Showed Us (Death Note)'
+alt_titles:
+- How Near Could Have Outsmarted Light In The End, A Better Strategy Than What Ohba Showed Us
+authors:
+- name: Alert-Researcher7788
+  reddit: Alert-Researcher7788
+  id: alert-researcher7788
+  source: reddit-post
+series:
+- death-note
+characters:
+- nate-river
+- light-yagami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pbi7nc/how_near_could_have_outsmarted_light_in_the_end_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 733
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

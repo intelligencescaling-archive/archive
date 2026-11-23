@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: misconceptions-about-ayanokoji-s-50-point-scores-and-other
+category: doc
+title: Misconceptions About Ayanokoji's 50-Point Scores and Other Anti-Feats (Classroom of the Elite)
+alt_titles:
+- Misconception of  ayanokoji 's antifeat 50s scoring and other misconceptions of others scaling system
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x35qj2/misconception_of_ayanokoji_s_antifeat_50s_scoring/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2185
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 376985
+      sha256: 3b0f8e1d63ef43d2ac54b6ff930e2cbe69d22acba2df06578f94264827d360b4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

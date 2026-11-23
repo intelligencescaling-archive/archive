@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fn-light-analysis
+category: doc
+title: FN Light Analysis (Death Note)
+authors:
+- name: Last-Trainer-3323
+  reddit: Last-Trainer-3323
+  id: last-trainer-3323
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: Memory Loss Plan'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s5686l/analyzing_fn_light_part_1_memory_loss_plan/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1089
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 67236
+      sha256: 5ab3d4797e0ef61ef9b11d2a9f0d3eeb464b7cd60f54858b37e1309885e3dd8b
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: Kira''s Fake Geoprofile Strategy'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s7cl57/fn_light_analysis_part_2_kiras_fake_geoprofile/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 667
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 93764
+      sha256: 42831f390c732401d76b69b1e2e3f8f3655bf0e3a221eba472d0d405c31fb095
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

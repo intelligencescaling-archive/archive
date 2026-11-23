@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-s-courtroom-plan-analysis-in-lawyered-up-the-henry
+category: doc
+title: Henry's Courtroom Plan Analysis in Lawyered Up (The Henry Stickmin Collection)
+alt_titles:
+- '"Henry''s courtroom plan/strategy" analysis in Lawyered Up from THSC'
+authors:
+- name: StrikeTheGoal007
+  reddit: StrikeTheGoal007
+  id: strikethegoal007
+  source: reddit-post
+series:
+- henry-stickmin
+characters:
+- henry-stickmin
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o4fzmq/henrys_courtroom_planstrategy_analysis_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 693
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 531433
+      sha256: 04912d6c6917e3a56c2305b0522fd1d6774da2c0ed700d25364bf0a043f8725c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

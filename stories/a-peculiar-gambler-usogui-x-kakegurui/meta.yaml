@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-peculiar-gambler-usogui-x-kakegurui
+category: story
+title: A Peculiar Gambler (Usogui x Kakegurui)
+alt_titles:
+- '[Fanfic] A peculiar gambler—Usogui x kakegurui'
+authors:
+- name: Kafka_Akatsuki
+  reddit: Kafka_Akatsuki
+  id: kafka-akatsuki
+  source: reddit-post
+series:
+- usogui
+- kakegurui
+characters:
+- baku-madarame
+tags:
+- fanfiction
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lup288/fanfic_a_peculiar_gamblerusogui_x_kakegurui/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 3468
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

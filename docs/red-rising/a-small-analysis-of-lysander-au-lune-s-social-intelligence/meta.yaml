@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-small-analysis-of-lysander-au-lune-s-social-intelligence
+category: doc
+title: A Small Analysis of Lysander au Lune's Social Intelligence (Red Rising)
+alt_titles:
+- a small analysis of Lysander Au Lune’s social intelligence
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- red-rising
+characters:
+- lysander-au-lune
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u0nmz4/a_small_analysis_of_lysander_au_lunes_social/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 659
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 44792
+      sha256: df1f88839c29f03215e78d9f815f88cddc2edde73caf1e4c7036f3bc9ed56aff
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: death-note-is-highly-plot-convenient
+category: doc
+title: Death Note Is Highly Plot Convenient
+alt_titles:
+- DN is highly plot convenient
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+- l-lawliet
+- raye-penber
+tags:
+- debunk
+- writing
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r17c9i/dn_is_highly_plot_convenient/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3298
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 51450
+      sha256: d43d06d7b7318c896d6ed7d13f6102876306199c18db3c3009b6f6d98415a4dd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

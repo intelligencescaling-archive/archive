@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: reasoning-and-intuition-distillation-scd-as-self
+category: doc
+title: 'Reasoning and Intuition: Distillation (SCD as Self-improvement #1)'
+alt_titles:
+- '[SCD as Self-improvement #1] Reasoning and Intuition: Distillation'
+authors:
+- name: Effective-Emu-9938
+  reddit: Effective-Emu-9938
+  id: effective-emu-9938
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- guide
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sbfsxc/scd_as_selfimprovement_1_reasoning_and_intuition/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1293
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 91706
+      sha256: c084cf5fc830f11c5aa207ee6bad52dc681795d3dfdef99d70b05a15fae12a57
+    - format: jpg
+      name: image-2.jpg
+      bytes: 36010
+      sha256: bb1608cfb4084119dea441e5475de953a88c724ef21c289d498eef3ce4f8916a
+    - format: jpg
+      name: image-3.jpg
+      bytes: 24357
+      sha256: 5d6abfce9a44aa50b83904132cd7e1300c79429bdf2b12c8fd690e09529bcd49
+    - format: jpg
+      name: image-4.jpg
+      bytes: 97669
+      sha256: 89f9f52364bc17b0cf762d5376436e9c2851d841d2d536ce6a1621423730f7b2
+    - format: jpg
+      name: image-5.jpg
+      bytes: 90945
+      sha256: a0bbfc69ceb193c5b028a18ed54e3c956e56c3b21d6bfe9a13d95e63a311bb56
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

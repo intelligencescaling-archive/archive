@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-vs-gwyn-death-battle-style-is-the-soul-identity-or
+category: doc
+title: 'Kenjaku vs Gwyn, Death Battle Style: Is the Soul Identity or Body? (Jujutsu Kaisen vs Beyblade Burst)'
+alt_titles:
+- Kenjaku vs gweyn  | death battle style | is soul identity or body?
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- jujutsu-kaisen
+- beyblade-burst
+characters:
+- kenjaku
+- gwyn-reynolds
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xgq9we/kenjaku_vs_gweyn_death_battle_style_is_soul/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1127
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 584778
+      sha256: e80dd544e582c3ae9043156ab34af7116c609ddde8b45599661ea914ca8c948a
+    - format: png
+      name: image-2.png
+      bytes: 176527
+      sha256: 343d054065d1ca9af56bb047408c31cf8ce94892b5103e3d19a0a255501c2ec9
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

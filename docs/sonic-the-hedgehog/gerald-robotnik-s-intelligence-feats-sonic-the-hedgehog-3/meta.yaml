@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gerald-robotnik-s-intelligence-feats-sonic-the-hedgehog-3
+category: doc
+title: Gerald Robotnik's Intelligence Feats (Sonic the Hedgehog 3)
+alt_titles:
+- Gerald Robotnik (Sonic 3) - Intelligence Scaling
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- sonic-the-hedgehog
+characters:
+- gerald-robotnik
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1potl9e/gerald_robotnik_sonic_3_intelligence_scaling/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1651
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 842836
+      sha256: 2a9b9b01ecad3370e4dadda62afe1901779abdfbebeffd6a22ee54185ba109f5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hercule-poirot-feat-list
+category: doc
+title: Hercule Poirot Feat List
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- hercule-poirot
+characters:
+- hercule-poirot
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pc6hll/hercule_poirot_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1198
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 252908
+      sha256: f88ddf45ed86d71b690ad8b0c568b9245b5ac5106692542bc43fb22dce3a2028
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

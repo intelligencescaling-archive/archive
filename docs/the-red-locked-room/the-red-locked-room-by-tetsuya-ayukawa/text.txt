@@ -1,0 +1,173 @@
+The Red Locked Room by Tetsuya Ayukawa
+
+Hello, in this post i will try to analyze this honkaku story by explaining the reasoning, the murderer plan and the characters scaling in SCD.
+
+Obviously, this post contains major spoilers but i will hide the killer's identity, i highly recommand reading the story if you like fair-play mysteries.
+
+Note: the story contains  spoilers for The Rue Morgue Murders by Edgar Allan Poe and one of sherlock holmes stories in a specefic discussion between the inspector and his companion IIRC.
+
+# The Context :
+
+The story is set in post-war Japan within the Faculty of Forensic and Legal Medicine at a Tokyo university. A beautiful female medical student, Emiko Katsuki, vanishes unexpectedly. The following morning, two research assistants arrive to open the university's isolated, dissection building. Inside, they are met with a gruesome spectacle: Emiko's severed head and limbs are neatly arranged on the dissection table, and multiple postal-style wrapped packages are scattered across the floor. One of them run out of the room in a panic followed by the other after moments.
+
+The physical mechanics of the building :
+
+\- The heavy outer double doors are secured by a complex combination padlock.
+
+\- The inner flush door is locked from the outside.
+
+\- The key is safely tucked into Urakami's(the head graduate student) pocket, and he is the only person alive who knows the padlock's combination.
+
+\- Every window is heavily barred with iron lattices and locked with outer wooden shutters.
+
+\- The only open aperture is a tiny ventilation shaft in the ceiling measuring a mere 20x20 centimeters square.
+
+After the investigation, because the head student is the sole keeper of the keys and the combination, Inspector Tadokoro pin the murder on him since he couldn't think of any other possibility that explains the situation.
+
+Cast of Characters :
+
+\- Ryūzō Hoshikage: The brilliant, highly eccentric, and somewhat arrogant amateur detective who uses pure logic to solve impossible crimes.
+
+\- Chief Inspector Tadokoro: The impulsive head of Investigative Division I who leads the official police investigation.
+
+\- Fumio Urakami: The brilliant but cold head graduate student who possesses the sole key and combination to the dissection building. He recently dumped his colleague, Rui Itō, to pursue the beautiful victim, Emiko Katsuki.
+
+\- Shigeru Enoki: A highly talented medical student and Urakami's fierce academic rival. He bitterly resents Urakami for winning a prestigious study trip to West Germany.
+
+\- Emiko Katsuki (The Victim): A beautiful female medical student whose dismembered remains are found on the dissection table.
+
+\- Rui Itō: A brilliant postgraduate student who was deeply embittered after Urakami dumped her. She originally instigated the replacement of the laboratory's inner door three months prior.
+
+\- Professor Amano: The stern, strict head of the department. He represents ultimate academic authority, any proven student scandal or misconduct under his watch results in immediate expulsion.
+
+\- Omagari: The massive, swarthy campus concierge responsible for moving caskets. The police discover he has a wartime record as an army cook trained to expertly slaughter and cleanly dissect livestock.
+
+So the police during the interrogation discovered that Urakami had an alibi according to 2 women who know him very well because he often comes to a house of prostitution they work in, so it's now clear why he didn't speak about this before since he would lose his professor trust and thus his future opportunities will be destroyed.
+
+Because of this weird,unusal case, Inspector Tadokoro decides to ask Hoshikage about it. After giving a brief summary of it, Hoshikage immediately knew the trick and the only one who can execute it.
+
+# Reasoning :
+
+P1: The front double doors of the dissection building were secured by a complex combination lock.
+
+P2: The combination was a strict secret known only to the graduate student, Urakami.
+
+P3: Forensic and mechanical testing proved the combination lock could not be bypassed using tools or opened out of order.
+
+P4 :outer bolt proved they had not been unscrewed, dismantled, or tampered with.
+
+P6: All windows in both rooms were completely secured by intact iron lattices and locked outer shutters.
+
+P7: The ventilation opening in the ceiling is a mere 20 centimeters square, making it physically impossible for an adult human or a large body part to pass through it.
+
+C1: it is physically impossible for an outside intruder to have entered the building, dismembered the body inside, and escaped while leaving the doors and windows locked from the outside.
+
+P8: The autopsy of Emiko Katsuki reveals she was in the first month of pregnancy.
+
+P9: Emiko's diary reveals a massive conflict: she wanted to keep the child to tie Urakami to her, while Urakami wanted an abortion to protect his academic career from the strict, unforgiving Professor Amano.
+
+P10: Urakami has a solid alibi due to the women who came to the station.
+
+P11: Before the alibi, because Urakami is the sole keyholder and combination keeper, and possesses a devastating motive regarding the pregnancy and Professor Amano's strict rules, the police conclude Urakami is the only logical killer.
+
+P12: The police discover a secondary suspect in the concierge, Omagari. Emiko’s diary reveals she caught Omagari stealing a gold tooth out of a corpse's mouth. Omagari had a motive to kill her to prevent her from reporting him to Professor Amano, which would cost him his job and housing. Furthermore, his wartime record as an army cook proves he has the anatomical skill to cleanly dissect bone and flesh.
+
+P13: The police discover a third suspect in Rui Itō. She was rejected by Urakami and openly admits she is relieved Emiko is dead, as it clears the path for Urakami to return to her. Furthermore, it was Rui who originally pushed the administration to replace the inner flush door three months prior.
+
+P14: Urakami had legitimate access to the keys and the combination. If he was the killer or had an accomplice, he would have no rational motive to oil the outer bolt to simulate an outside intrusion, nor would he leave a theatrical scene that immediately incriminated himself as the sole keyholder. Also the the accomplice wouldn't waste critical minutes locking the inner door.
+
+P15: If Omagari or Rui Itō were the killers, they could not have obtained the combination lock sequence from the fiercely protective Urakami, nor could they have duplicated his personal key.
+
+C2: Therefore, Urakami, Omagari, and Rui Itō are physically and logically excluded from being the executioner of the locked-room phase of the crime. The oiled bolt is a deliberate "red herring" manufactured to make the police waste time looking for an outside lock-picker.
+
+P16: The crime scene contained five neatly wrapped, postal-style packages tied with hemp cord on the floor, empty shipping labels in the desk drawer, and a burning bicycle lamp.
+
+P17: The immediate assumption of the police was that an intruder was interrupted while preparing to ship the dismembered corpse out of the building.
+
+P18: If an intruder was genuinely in a panic and fleeing for their life, they would not waste time carefully relocking the inner flush door, resetting the outer bolt, and scrambling the combination padlock.
+
+P19: Dismembering a body takes immense time and effort. If the killer genuinely intended to mail the remains, they would logically leave the torso whole, but would have no reason to meticulously chop the smaller, lightweight limbs into multiple tiny segments.
+
+C3: the killer was never interrupted. The scattered packages, the left-behind shipping labels, and the burning bicycle lamp were entirely theatrical props designed to fake a panicked interruption and trick the police into believing the dismemberment occurred inside the locked dissection room.
+
+P20: The autopsy proves the murder actually took place in a remote, abandoned cellar outside the campus, and the body was brought to the dissection building post-mortem.
+
+P21: The ventilation opening in the ceiling is 20 centimeters square.
+
+P22: While a human or a torso cannot fit through a 20cm square, the smaller severed limbs (head, arms, chopped leg segments) and tools can physically fit through it.
+
+P24: A ladder was easily accessible in the campus equipment storage.
+
+C4: the killer climbed onto the roof and lowered the smaller, wrapped and unwrapped limbs, along with the scalpels and the bicycle lamp, down through the ceiling vent using strings, placing them precisely on and around the table.
+
+P25: The torso is physically too large to fit through the 20cm ceiling vent.
+
+P26: The torso and the shipping labels were found inside a closed drawer of the recorder's desk.
+
+C5: the torso and the labels must have been introduced into the room through the normal entrance doors before they were locked for the night.
+
+P27: The dissection building is heavily trafficked during the day, meaning a killer could not carry a naked, bloody torso through the front doors without being seen by Omagari, Rui, or the professor.
+
+P28: On the afternoon of December 1st, a legitimate autopsy was performed on an elderly vagrant.
+
+P29: Shigeru Enoki’s specific duty that afternoon was to fetch a large wooden casket from the mortician, bring it into the building, and oversee the body placement.
+
+C6: Enoki hid the wrapped torso inside the large, empty wooden casket, walked it right past the staff under the guise of his daily duties, and slipped it into the desk drawer before the building was locked up at 4:30 p.m.
+
+P30: The severed left-hand segment was found wrapped in a copy of the Nihon Keizai Shinpō newspaper printed at 6:50 p.m. on December 1st.
+
+P31: Because the building was locked at 4:30 p.m., the police concluded the entire crime must have happened after 7:00 p.m., rendering the daytime casket-smuggling theory impossible.
+
+P32: The severed left hand was tiny enough to be hidden in a standard personal bag. On the morning of December 2nd, when Urakami and Enoki officially opened the building together, Urakami ran out of the room in a panic upon seeing the head on the table.
+
+P33: Enoki was left entirely alone in the room for several minutes while Urakami ran to fetch Professor Amano and the authorities.
+
+C7: the crime occurred in three distinct stages:
+
+	1. The torso was smuggled inside the casket during the day.
+
+	2. The limbs were dropped through the ceiling vent at night.
+
+	3. The left hand (wrapped in the late-edition newspaper) was smuggled into the room in a personal bag on the morning of December 2nd and slipped into the drawer while Urakami was out of the room. The late-edition newspaper was a deliberate chronological plant to fake the time of the crime.
+
+P34: Only one individual had simultaneous access to the empty casket, knew the campus layout, had the anatomical skill to cleanly bisect a body, and was left entirely alone at the scene on the morning of December 2nd to plant the final piece of evidence.
+
+C8: >!Shigeru Enoki!< is the sole murderer of Emiko Katsuki.
+
+The motive discovered by Hoshikaga: He was driven by extreme professional jealousy to frame his rival Urakami for murder, ensuring Urakami's disqualification from a prestigious study trip to West Germany. He used the toxic interpersonal dynamics of the lab (Urakami's relationship with Emiko, Omagari's misconduct, Rui's resentment) to ensure the police would have a surplus of false suspects. Also the motive for killing the victim was his reputation as living saint not engaging in any relationships with other female medical students. Hoshikage figured out the fact that this was a psychological defense mechanism hiding impotence.
+
+# The Plan :
+
+The culprit begins his plan by identifying the vulnerabilities of Fumio Urakami. Through laboratory gossip and surreptitious observation, they learn that the department beauty, Emiko Katsuki, is secretly in her first month of pregnancy with Urakami's child and is demanding marriage. The culprit notes that Urakami is desperate for an abortion to protect his career from the strictly moral head of the department, Professor Amano. They select Emiko as their target, knowing her diary and physical condition will instantly provide the police with a devastating, ready-made motive pointing directly at Urakami.
+
+So the murderer track Urakami's private schedule and establishes that Urakami regularly leaves the university on the first of the month to spend the entire night at a house of assignation in Ikebukuro. Knowing Urakami will be safely trapped in an iron-clad, secret alibi that he will be too embarrassed to admit to Professor Amano, the killer strike on the morning of December 1st. They lure Emiko Katsuki to a remote, empty cellar in the abandoned branch office of The Safe Economy Society adjacent to the campus. There, they disable her, stab her through the heart with a scalpel, and temporarily hides her body.
+
+Later that afternoon, the culprit uses his advanced forensic training to cleanly dissect Emiko's body into specific and calculated segments. They intentionally chop the smaller lightweight limbs into multiple tiny pieces so they can serve a dual purpose later. To prepare their psychological red herrings, they wrap several of the segments into neat, postal-style packages using common oilpaper and hemp cord, leaving blank shipping labels in a desk drawer to simulate a killer who intended to mail the remains away. This was a logical manipulation of Inspector Tadokoro whose reasoning was predicted by the culprit.
+
+They realize that the human torso is too large to fit through any structural opening in the locked dissection building. To bypass this, they exploit thier official afternoon duties on December 1st. While assisting with a legitimate autopsy of an elderly vagrant, they fetche a large, empty wooden casket from the mortician. They hide the wrapped torso and the empty shipping labels inside the casket, walk it right past Professor Amano, Rui Itō, and the concierge Omagari under the guise of routine work, and secretly slip the torso into a large drawer of the recorder's desk. The building is officially locked up from the outside at 4:30 p.m. by Urakami, trapping the torso inside the locked room.
+
+In the middle of the night, while Urakami is away in Ikebukuro, the culprit returns to the dark campus. They retrieve a ladder from the university equipment storage and climbs onto the roof of the dissection building. Standing above the tiny 20x20 centimeter ceiling ventilation shaft, they use strings to lower the smaller, severed limbs (the head, arms, and leg segments), the newly purchased scalpels, a surgical saw, and a battery-operated bicycle lamp dimmed with a handkerchief down into the room, arranging them neatly on and around the table. Before climbing down, they apply fresh oil to the outer iron door bolt, creating a mechanical double-bluff that will trick the police into investigating a fake outside break-in. Manipulating the the police into investigating the wrong crime scene.
+
+On the morning of December 2nd, they arrive at the university acting entirely normal and accompany Urakami to open the dissection building. The moment Urakami unlocks the doors, walks inside, and screams in a panic upon seeing Emiko's severed head, the murderer's final tactical window opens. Urakami sprints out of the building to fetch Professor Amano and the authorities, leaving them entirely alone at the crime scene for several minutes. Theu use this precise window to pull the severed left hand out of his personal bag. The hand is wrapped in a copy of the Nihon Keizai Shinpō evening newspaper printed at 6:50 p.m. the night before. They slip this package into the desk drawer next to the torso and hide their tools.
+
+They force the police and forensic teams to conclude that the dismemberment occurred late at night. Because Urakami had locked the building from the outside at 4:30 p.m., the police are  forced to believe that only the sole keyholder could have executed the crime. The killer takes his place among the horrified onlookers as a cooperative, innocent witness. By leveraging the toxic laboratory dynamics, knowing the police will chase Omagari's dark past and Rui Itō's bitter resentment. They sit completely insulated from suspicion, leaving theur perfect, multi-layered trap to send Urakami to the gallows while the path to the West Germany study trip opens wide for themselves.
+
+The Characters Scaling:
+
+The smartest in this story is undoubtedly the murderer, a solid mid tier in my opinion.
+
+The plan was brilliant and the preparation was insane. The fact that they completely manipulated the police approch accurately to the point where the whole crime scene is fabricated and controled every single conclusion they came with in the investigation is very impressive. The fact that they completely manipulated the police approch accurately to the point where the whole crime scene is fabricated and controled every single conclusion they came with in the investigation is very impressive. The major flaw in his plan was the alibi of Urakami, they knew that Urakami wouldn't talk about it but failed to anticipate the women testimony. It's understandabke since they thought these women would stay silent to protect their own business reputations. In that era, exposing the client's affairs to the police in this era is considered suicide. But sometimes human emotions defy logic, that's what the killer miscalculated.
+
+The best 5 categories of the killer :
+
+1- Planning.
+
+2- Manipulation.
+
+3- Deception.
+
+4- Foresight.
+
+5- Tactics.
+
+Hoshikage comes next obviously, from just hearing the summary he was able to immediately grasp the core of the case, not to mention his accurate profiling of the killer after revealing the trick. So it was just a chair deduction of course he wouldn't show anything impressive in outsmarting, but his feats cover solid Reasoning,Thinking and EQ(ToM) and psychology.

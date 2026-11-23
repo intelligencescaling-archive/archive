@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: class-leaders-vs-the-fluxion-conspiracy-classroom-of-the
+category: doc
+title: Class Leaders vs the Fluxion Conspiracy (Classroom of the Elite x Minecraft)
+alt_titles:
+- Class leaders vs fluixon conspriacy situation
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- minecraft
+characters:
+- suzune-horikita
+- ryuen-kakeru
+- ichinose-honami
+- arisu-sakayanagi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v67lf7/class_leaders_vs_fluixon_conspriacy_situation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1615
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 154590
+      sha256: ef4251f157f966c245612662737d910d6527f7de852609f376df3b4018216c38
+    - format: png
+      name: image-2.png
+      bytes: 106857
+      sha256: f847771834985f78103c83196058677a94fa58f9f9ec971bcbe9ab1ecd2f1c0f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,163 @@
+A poor try to make sense
+
+First post. A little experiment
+
+So i tried to study all the ancient powerscaling-derived systems we normally use in this subreddit, trying to find objectivity or consensus.
+
+Methodological approach used: win rate (it ends up working quite well).
+
+Establishing:
+
+50% could go either way
+
+50-60% extreme diff
+
+60% very high diff
+
+60-70% high diff
+
+70% mid-high diff
+
+70-80% mid diff
+
+80% low-mid diff
+
+80-90% low diff
+
+90% very low diff (no-low diff)
+
+90-100% no diff
+
+The most central point of any diff is within \_5%, any more or less tends to higher or lower.
+
+Then, in chess there is the Elo expectation formula:
+
+E = 1 / (1 + 10\^(D/400))
+
+Difference of 50 = 57% probability of winning
+
+100 = 64% (2/3)
+
+200 = 76% (3/4)
+
+300 = 85% (17/20)
+
+400 = 91% (expected to win 10 times more often than lose)
+
+500 = 95%
+
+...
+
+Just to put it into perspective.
+
+When we put these two together it works quite well. Concords and becomes accepted then that:
+
+High diff: D = 100
+
+Mid diff: D = 200
+
+Low diff: D = 300
+
+Very low diff: D = 400
+
+No diff: D = 500
+
+This also makes it:
+
+Mid diff = High diff X2
+
+Low diff = High diff X3
+
+Very low diff = Mid diff X2
+
+Chains of no diffing: Extreme diff X20; Very high diff X10; High diff X5; Mid diff X2 + High diff; very low diff + high diff.
+
+Also with the formula:
+
+very high diff ≈ 70 D
+
+extreme diff ≈ 35 D
+
+So:
+
+High diff ≈ Extreme diff X3
+
+Mid diff ≈ Very high X3
+
+Currently 7 "canonic" tiers:
+
+1. Low
+
+2. Mid
+
+3. High
+
+4. Very high
+
+5. Extremely high
+
+6. Top
+
+7. Beyond top
+
+If there are approximately up to now around 3 no-diffs of distance between the worst and best current SCD (maybe it's actually closer to 4), then the maximum value D has reached is 1500, and we could establish:
+
+900-1200 Average
+
+1200-1400 Above average
+
+1400-1600 low tier
+
+1600-1800 mid tier
+
+1800-2000 high tier
+
+2000-2200 very high tier
+
+2200-2400 extremely high tier
+
+2400-2600 top tier
+
+2600-2800 beyond top tier
+
+Which strangely resembles real world chess players naturally, With gap of mid diff between each tier.
+
+But we could also make the difference around 250 D so that:
+
+1400-1650 low tier
+
+1650-1900 mid tier
+
+1900-2150 high tier
+
+2150-2400 very high tier
+
+2400-2650 extremely high tier
+
+2650-2900 top tier
+
+2900-3150 beyond top tier
+
+Now, some people believe the gap between tiers to be high diff. But if that were true we would need much more tiers than just those 7.
+
+Initially I had the gap between two tiers as a no diff (which is much more precise with what i calculated).
+
+Then i saw others having the difference between tiers as a high diff and between two a mid diff. A take that supports this would be: Lynch mid diffs fang yuan, who is two tiers below at very high (i've also seen Li Gang winning at that diff before against FY so something's crazy). So with this you would arrive at the next conclusion: top tier characters only get to \~mid diff very high tier characters. But then we fckin have Pun Yunchuan no-low diffing Chen Ran (300+D in comparison to 200) which is a much bigger gap if we also take into account exponential increases in difficulty (which is implicitly accounted by automatic difficulty raise of each elo gain \[much easier to gain at 1400 than at 2800\]) while at the same time being put just one tier above. It's inconsistent.
+
+If instead we force the high-diff gap to match the number of existing tiers rather than the reverse, then there wouldn't even be one and a half layers of no-diff between the best and worst SCD, but rather 14 chains of high diff or even more, considering that each no-diff would require 5 high diffs.
+
+Doing the math:
+
+If Pun yunchuan no-low diffs Chen ran (= 4 high diffs distance) and Niu Youdao mid diffs Chen ran (2 high diffs)
+
+Then Pun Yunchuan necessarily mid diffs niu youdao
+
+Which potentially puts him a tier above beyond top tier
+
+Just tried to use math and state some axioms to control this better
+
+Finally, assuming we've reached above heiti taizheng level within accessible tiers, we still would need at least like 3 more tiers like these until the theoretical tarantulian demon which is probably the ceiling of fictional intelligence assuming they exist.
+
+Any imprecision?
+
+PS: this would only apply for methodology-logic related scaling systems like also intricatelogy and perfection, not for ontology, narrative or even normal.

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: palpatine-s-naboo-invasion-plan-analysis-star-wars
+category: doc
+title: Palpatine's Naboo Invasion Plan Analysis (Star Wars)
+alt_titles:
+- Palpatine's Naboo Invasion Plan analysis
+authors:
+- name: TheRealMaster98
+  reddit: TheRealMaster98
+  id: therealmaster98
+  source: reddit-post
+series:
+- star-wars
+characters:
+- emperor-palpatine
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1otd71i/palpatines_naboo_invasion_plan_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2472
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 186749
+      sha256: 6cbd9fdf8ce5c3f9811a909a9a4d3b70c438d5f26603ba6ebfc7b66426d182a3
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

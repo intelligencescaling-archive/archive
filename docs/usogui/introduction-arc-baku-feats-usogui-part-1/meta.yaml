@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: introduction-arc-baku-feats-usogui-part-1
+category: doc
+title: Introduction Arc Baku Feats (Usogui), Part 1
+alt_titles:
+- INTRODUCTION BAKU (P.1 of my series) (next is AB)
+authors:
+- name: DEAD_Tubey123
+  reddit: DEAD_Tubey123
+  id: dead-tubey123
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xvg110/introduction_baku_p1_of_my_series_next_is_ab/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 4101
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 208041
+      sha256: 8b2b8180baadffb92a3173458ddc9ad6ec080183dc950b315b8aa4ce9d7e15f8
+    - format: png
+      name: image-2.png
+      bytes: 460368
+      sha256: 152bc8a0a049614159830ac7bd5a724a3572c2a0e0377067d153c2e517721707
+    - format: png
+      name: image-3.png
+      bytes: 1828329
+      sha256: 479a751bd86efd0604e097a8b4cfcc551c6077606b6fc84cab431421186d34e5
+    - format: png
+      name: image-4.png
+      bytes: 1416897
+      sha256: bae4d6fdae6605efd1dc2c4d03bd8923eef2a0fd75e80d0f14f1ac2c6fea5ebb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

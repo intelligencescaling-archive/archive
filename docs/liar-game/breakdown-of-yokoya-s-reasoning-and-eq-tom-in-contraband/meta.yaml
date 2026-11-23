@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: breakdown-of-yokoya-s-reasoning-and-eq-tom-in-contraband
+category: doc
+title: Breakdown of Yokoya's Reasoning and EQ/ToM in Contraband (Liar Game)
+alt_titles:
+- Breakdown of Yokoya's Reasoning and EQ/ToM
+authors:
+- name: Murky_Possibility655
+  reddit: Murky_Possibility655
+  id: murky-possibility655
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wa0a1c/breakdown_of_yokoyas_reasoning_and_eqtom/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1783
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 476236
+      sha256: 05d73f2cceabd9d89046588ff941d39ebaccb32ff9da514a716e354f3cd520c8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

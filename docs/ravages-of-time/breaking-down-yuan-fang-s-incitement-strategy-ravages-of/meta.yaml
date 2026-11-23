@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: breaking-down-yuan-fang-s-incitement-strategy-ravages-of
+category: doc
+title: Breaking Down Yuan Fang's Incitement Strategy (Ravages of Time)
+alt_titles:
+- Breaking down Yuan Fang's Incitement Strategy.
+authors:
+- name: ThatDickyBoi
+  reddit: ThatDickyBoi
+  id: thatdickyboi
+  source: reddit-post
+series:
+- ravages-of-time
+characters:
+- yuan-fang
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1f2emg0/breaking_down_yuan_fangs_incitement_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 4219
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

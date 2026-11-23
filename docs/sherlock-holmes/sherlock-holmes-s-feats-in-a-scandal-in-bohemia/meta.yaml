@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sherlock-holmes-s-feats-in-a-scandal-in-bohemia
+category: doc
+title: Sherlock Holmes's Feats in A Scandal in Bohemia
+authors:
+- name: Competitive_Ad_2648
+  reddit: Competitive_Ad_2648
+  id: competitive-ad-2648
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1f8aw0f/who_is_the_smartest_character_that_original/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 777
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,94 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: zero-s-golf-game-vs-kyosuke-gambling-emperor-legend-zero
+category: doc
+title: Zero's Golf Game vs Kyosuke (Gambling Emperor Legend Zero Part 2, Chapters 1-9)
+alt_titles:
+- Golf game. Gambling Emperor Legend Zero part 2 chapter 1-9
+authors:
+- name: Responsible-Ear6854
+  reddit: Responsible-Ear6854
+  id: responsible-ear6854
+  source: reddit-post
+series:
+- gambling-emperor-legend-zero
+characters:
+- ukai-zero
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m41uqa/golf_game_gambling_emperor_legend_zero_part_2/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 662
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 325986
+      sha256: 36fcd133401ed16d3feb4ee165997d61bb05cc5ec8bd46f0ed15f9ad70b2d197
+    - format: jpg
+      name: image-2.jpg
+      bytes: 374563
+      sha256: 70ebf3cf1288c0921e36992603983a20a6dfc031cbd1d0885551928d281800e8
+    - format: jpg
+      name: image-3.jpg
+      bytes: 347335
+      sha256: 023cb948b1fba27ac8ac338d62c213bb90a3cad14c4afd00af2cb0cbe7a9025b
+    - format: jpg
+      name: image-4.jpg
+      bytes: 316967
+      sha256: 7abb4418fa3d5cff0f87ac6b2978d7091f01a73c19feb0b925b4886ed551a0fb
+    - format: jpg
+      name: image-5.jpg
+      bytes: 379675
+      sha256: c18f9abd4941c98bfc88a96645fbb58accdaa1a1b8d1b2b13de540fdff29fe05
+    - format: jpg
+      name: image-6.jpg
+      bytes: 290165
+      sha256: e7145178504f94f81cee1167ccab42b7602b7b5e328814f7c004dc601b101220
+    - format: jpg
+      name: image-7.jpg
+      bytes: 313519
+      sha256: 96ee7f73373e93ee3510313ab1560e6d2f336bd7675f4a3daee95849a23314e8
+    - format: jpg
+      name: image-8.jpg
+      bytes: 187489
+      sha256: 91282e79cb94a5eae8489d13b93219bfa86e3cac5fb9c9701ef5b21a367f6490
+    - format: jpg
+      name: image-9.jpg
+      bytes: 230710
+      sha256: 973a7962f5f95e54cb5eb89bf60fd210ce6bc89e6503220c0ccee0e0499cd7f6
+    - format: jpg
+      name: image-10.jpg
+      bytes: 170442
+      sha256: 317b203963befa191273694044b55a771d3f4fb6eb2d481bbaa47aa2b29df51f
+    - format: jpg
+      name: image-11.jpg
+      bytes: 199159
+      sha256: 480852edb70822bc8d40798527855b9d0e59467fe5bf930d0b57e819de8ac43a
+    - format: jpg
+      name: image-12.jpg
+      bytes: 214666
+      sha256: af9b6bff1133a5a271eb1fecd56d8272498a094da92ef23d34b2b84023058af9
+    - format: jpg
+      name: image-13.jpg
+      bytes: 206633
+      sha256: c472dbe3073daf3ae98f27b95c2297ad5948d624308b98196d11a52e17e3065a
+    - format: jpg
+      name: image-14.jpg
+      bytes: 201225
+      sha256: 9ae212a11b12e3d3f04d14a1f67ea2eaa8840993dd21db3e1ec2011c70432fbb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

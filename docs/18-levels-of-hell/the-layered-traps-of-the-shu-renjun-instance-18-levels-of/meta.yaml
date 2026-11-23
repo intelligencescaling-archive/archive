@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-layered-traps-of-the-shu-renjun-instance-18-levels-of
+category: doc
+title: The Layered Traps of the Shu Renjun Instance (18 Levels of Hell)
+alt_titles:
+- Who is the Least smartest character who can pass the Shu Renjun instance without dying atleast once?
+authors:
+- name: rebon6
+  reddit: rebon6
+  id: rebon6
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- shu-renjun
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tbr1mi/who_is_the_least_smartest_character_who_can_pass/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 779
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2432706
+      sha256: 8732188cb9c18acbf16829f1b6196644a381c2a72a8d1d020e412819af97e2d0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

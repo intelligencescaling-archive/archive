@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: norman-jayden-solving-the-master-origami-case-heavy-rain
+category: doc
+title: Norman Jayden Solving the Master Origami Case (Heavy Rain)
+alt_titles:
+- Norman Jayden solving The Master Origami Case | Feat
+authors:
+- name: Natural-Key-7855
+  reddit: Natural-Key-7855
+  id: natural-key-7855
+  source: reddit-post
+series:
+- heavy-rain
+characters:
+- norman-jayden
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n76oil/norman_jayden_solving_the_master_origami_case_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 577
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

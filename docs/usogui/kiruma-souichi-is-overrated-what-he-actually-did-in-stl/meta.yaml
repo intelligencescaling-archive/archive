@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kiruma-souichi-is-overrated-what-he-actually-did-in-stl
+category: doc
+title: 'Kiruma Souichi Is Overrated: What He Actually Did in STL (Usogui)'
+alt_titles:
+- Kiruma Souichi Is OVERRATED
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series:
+- usogui
+characters:
+- kiruma-souichi
+- baku-madarame
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vy2e1f/kiruma_souichi_is_overrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1372
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 248318
+      sha256: 06578ee84e90da6bd327f24d9631ab7fe1e65536b51721b71f6a45e56238c331
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

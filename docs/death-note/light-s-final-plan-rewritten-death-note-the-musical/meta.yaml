@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-s-final-plan-rewritten-death-note-the-musical
+category: doc
+title: 'Light''s Final Plan Rewritten (Death Note: The Musical)'
+alt_titles:
+- I've rewritten Light's final plan from the musical
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  id: signal-experience315
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+- writing
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xq6l8h/ive_rewritten_lights_final_plan_from_the_musical/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 739
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 198886
+      sha256: 454a8353ce4084e9eded7e5ba7e6a46b034173be78c6b2b538ebd13ce073bf71
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explaining-moriarty-s-plan-to-get-barnett-out-of-prison
+category: doc
+title: Explaining Moriarty's Plan to Get Barnett Out of Prison
+alt_titles:
+- Explaining Moriarty plan to get barnnet out of prison
+authors:
+- name: Cryptic_86
+  reddit: Cryptic_86
+  id: cryptic-86
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- james-moriarty-sherlock-holmes
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n5qt35/explaining_moriarty_plan_to_get_barnnet_out_of/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 646
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

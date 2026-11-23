@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nagumo-miyabi-in-the-tomodachi-game-classroom-of-the-elite
+category: story
+title: Nagumo Miyabi in the Tomodachi Game (Classroom of the Elite x Tomodachi Game)
+alt_titles:
+- as promised, Nagumo miyabi in TG(not adult) enjoy !
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- nagumo-miyabi
+tags:
+- fanfiction
+- matchup
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v2dfc8/as_promised_nagumo_miyabi_in_tgnot_adult_enjoy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 4684
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 195370
+      sha256: 774e10cde0f17e83acb836376b10da191a2524534b1fa4479a66838110149615
+    - format: png
+      name: image-2.png
+      bytes: 218422
+      sha256: f045a09858132dd8393216e884dc5e943f5cc6badfcc1ed99dddf87dccb03ff4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

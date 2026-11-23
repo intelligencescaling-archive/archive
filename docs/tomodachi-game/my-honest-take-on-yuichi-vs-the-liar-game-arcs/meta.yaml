@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-honest-take-on-yuichi-vs-the-liar-game-arcs
+category: doc
+title: My Honest Take on Yuichi vs the Liar Game Arcs
+alt_titles:
+- My honest take on Yuichi VS Liar Game Arcs -
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- tomodachi-game
+- liar-game
+characters:
+- yuuichi-katagiri
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1l8glde/my_honest_take_on_yuichi_vs_liar_game_arcs/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 705
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

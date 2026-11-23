@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: denise-s-feats-titan-academy
+category: doc
+title: Denise's Feats (Titan Academy)
+alt_titles:
+- Denise from Titan Academy
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- titan-academy
+characters:
+- denise-titan-academy
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q2pzbe/denise_from_titan_academy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 776
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 570537
+      sha256: e65bf46882ba6f50376fc84e249fec4314019df3f2b11410a0c72c1c11005b8c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

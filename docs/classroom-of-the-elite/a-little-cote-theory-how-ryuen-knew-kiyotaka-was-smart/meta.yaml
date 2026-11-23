@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-little-cote-theory-how-ryuen-knew-kiyotaka-was-smart
+category: doc
+title: 'A Little COTE Theory: How Ryuen Knew Kiyotaka Was Smart'
+alt_titles:
+- A lil COTE theory
+authors:
+- name: adarshvarshan
+  reddit: adarshvarshan
+  id: adarshvarshan
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- ryuen-kakeru
+- kiyotaka-ayanokoji
+- kikyo-kushida
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wfgeo8/a_lil_cote_theory/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 582
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

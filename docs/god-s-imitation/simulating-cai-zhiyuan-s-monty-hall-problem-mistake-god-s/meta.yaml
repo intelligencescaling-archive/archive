@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: simulating-cai-zhiyuan-s-monty-hall-problem-mistake-god-s
+category: doc
+title: Simulating Cai Zhiyuan's Monty Hall Problem Mistake (God's Imitator)
+alt_titles:
+- Simulating Cai Zhiyuan's Monty Hall Problem mistake
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series:
+- god-s-imitation
+characters:
+- cai-zhiyuan
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xenulw/simulating_cai_zhiyuans_monty_hall_problem_mistake/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1165
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

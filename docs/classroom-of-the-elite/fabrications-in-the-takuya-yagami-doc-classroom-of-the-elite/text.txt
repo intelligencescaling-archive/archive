@@ -1,0 +1,135 @@
+Fabrications in the Takuya Yagami doc
+
+An analysis from a scaler can suffer from a lot of mistakes. Exaggeration, overinterpretation, misdirection, information manipulation, evidence fabrication. And you know what? You'll find all of it in Takuya's doc. The authors were so focused on adding feats to Takuya that sometimes it's hilarious to read such low-effort manipulation, so obvious that anyone with time to check and analyze can see through it.
+
+Now let's turn to the "*misunderstood and often underrated character*" known as Takuya Yagami aka "**The Phantom Enforcer**" aka "**The False Angel**" aka "**The Devil with a Kind Smile**".
+
+>We cut straight into Tsukishiro explaining the situation to Takuya, and giving him details about his mission. Tsukishiro additionally gave Takuya information about all the current students (156) in the second year in ANHS. The information contained but was not limited to; their full names, their dates of birth, former schools, names of their parents and siblings, grades and accomplishments since early childhood, and even who they typically interacted with (friends).
+
+The phrase "was not limited to" should have been treated as a hypothesis, and it needed to be proven that the information the authors added besides listed by Kinugasa was actually presented to Takuya and was not merely their speculation. This proof was never provided. Let's see what kind of information Kinugasa actually provided:
+
+>Not only did it have standard information such as their full names, date of birth, and former schools, but it even had information on their parents and siblings, grades and accomplishments since early childhood, and even who they typically interacted with. (Y2V1)
+
+Anyway, let’s get going to the list of info Takuya supposedly memorized:
+
+>The information Takuya memorized during his meeting with Tsukishiro for each student:
+
+>An image of the student.
+
+>The student’s name: First name and surname.
+
+>The student’s birthdate, e.g. 2000 12 31 (Weekday).
+
+>The student’s home address, e.g. (〒123-4567 Tokyo-to Minato-ku Akasaka 1-2-3)
+
+>The student’s ID: 10 random digits/letters.
+
+>The student’s parents: 2 names, the mother’s and father’s.
+
+>The student’s siblings: We will assume that every student has 1 sibling, as we have no way of exactly quantifying how many siblings each student has.
+
+>Basic info about the sibling: the sibling’s full name and birthdate, so one extra word plus a date e.g.: 2000 12 31 (Weekday).
+
+>The estimates for friendship made before high school are 5-11, we will go with 6, due to the chance of overlapping, that adds 6 full names.
+
+>The schools the students’ attended to, such as:
+
+>\- Elementary school: The school’s name, usually 3–4 words, we will say 3. Their grades there per year (9 subjects x 8 exams = 72 grades), for 6 years. Which is 432 grades structured as (L±) xx (the xx being out of 100)
+
+>\- Junior High: the school’s name, 3 words again. Their grades there: per year (20 exams), for 3 years. Which is 60 grades structured as (L±) xx (the xx being out of 100)
+
+>\- Their grades in ANHS: 20 exams. Which is 20 grades structured as (L±) xx (the xx being out of 100)
+
+>A Student Profile that consists of a paragraph from an interviewer and a short message from the Homeroom teacher. The larger paragraph from the interviewer consisted of around 120 words. The smaller paragraph consisted of around 20 words, so that is about 140 words.
+
+>This adds up to 170 words and 1048 digits (numbers) and a sequence of 10-digits mixed of letters and numbers for the ID for each student
+
+>There were 7 Special Exams in the first year, and they also had a bunch of formal academic tests/exams. There is a Teacher Evaluation of each class and how well they performed on each Special Exam. Each paragraph consisted of, on average, around 40 words, which adds up to 280 words per class evaluation, to 1120 words.
+
+This all adds up to 26520 words and 163488 digits (numbers) and 156 sequences of 10-digits mixed of letters and numbers for the IDs.
+
+Adding in all the words for the class evaluation we get 27640 words. And now, we also have to consider 14 years worth of Ayanokouji’s life records from the white room, in addition to other values we are unable to quantify like club activities, so we will opt to use both to round up the numbers instead.
+
+Our grand-total should be around:
+\- 27,000 words
+\- 165,000 digits
+\- 156 10-digits letter-number IDs.
+\- 156 face images.
+
+Again, the authors did not prove that certain information (like student ID, or home address, or that exact basic info regarding siblings) was actually presented to Takuya; they simply claim it was. Yet, they drew a conclusion about the approximate amount of memorized information based on the list they speculatively compiled. There is no proof or explanation for this, and that alone is enough to dismiss the whole part, if it is based on the axiom, that is not proven.
+
+But let's dig deeper and check these points one at a time.
+
+>The student’s name: First name and surname.
+
+The story is set in Japan. In Japanese, the sound of a word and its written form are two different things. For instance, "Ichinose Honami" is not just 2 words. It is also 5 kanji: 一之瀬 帆波. This is crucial, especially for names. "Honami" could be written completely differently, like 星菜愛. Therefore, each personal or institutional name (like schools) should also include its writing.
+
+>The student’s ID: 10 random digits/letters.
+
+A student's ID is not a string of 10 *random* digits/letters. Only the last 3 digits are random. Thus, it's not 156 unique 10-digits IDs, but rather a single 7-character code plus 156 3-digits endings. They would know that by looking at a maximum of two IDs. Was this a deliberate choice (writing about random digits) just to inflate the numbers?
+
+https://preview.redd.it/joz31dyo08lg1.png?width=1284&format=png&auto=webp&s=4b66868179e0bcb69c8b34a1b74c40bae86860cc
+
+>The student’s siblings: We will assume that every student has 1 sibling, as we have no way of exactly quantifying how many siblings each student has.
+
+Okay. This is pure speculation without analysis. Well made. Setting aside that most characters never mention siblings (perhaps because they don't have any, huh), let's view this academically.
+
+Assuming every student has 1 sibling implies the fertility rate of about 2. The thing is, the story is set in Japan, where the fertility rate has been significantly below 2 for about 50 years.
+
+https://preview.redd.it/xuaj8ypt08lg1.png?width=697&format=png&auto=webp&s=e8a18a3417a6a9b334c85bcb53dc02229101d752
+
+Kinugasa even mentioned Japan's declining birth rates in the same book in the next chapter. This makes the "one sibling each" assumption nonsensical upon even a second of thought. Was it simply inaccurate fact-checking, or a deliberate choice to hype up the feat?
+
+>Basic info about the sibling: the sibling’s full name and birthdate, so one extra word plus a date e.g.: 2000 12 31 (Weekday).
+
+Why does the basic info for siblings include their full name and birthdate, while for parents it lists only their full names? If the authors are making unproven claims, they should at least be consistent in their speculative parameters.
+
+>Elementary school: The school’s name, usually 3–4 words, we will say 3. Their grades there per year (9 subjects x 8 exams = 72 grades), for 6 years. Which is 432 grades structured as (L±) xx (the xx being out of 100)
+
+>Junior High: the school’s name, 3 words again. Their grades there: per year (20 exams), for 3 years. Which is 60 grades structured as (L±) xx (the xx being out of 100)
+
+>Their grades in ANHS: 20 exams. Which is 20 grades structured as (L±) xx (the xx being out of 100)
+
+1. If there are 432 total grades over 6 years of elementary school, then for 3 years of junior high school, the total should be half that amount (216), not 60 as listed. The calculation is just inconsistent here.
+
+2. Why are there 8 exams per subject per year if Japan uses a trimester system? Assuming two exams per trimester results in 6 exams per subject per year. Or it would be 9 if there were three exams per trimester.
+
+3. As usual, the authors provide no proof that every single subject requires exams during the whole educational process. They just claim it does.
+
+4. According to the official curriculum from The Ministry of Education, Culture, Sports, Science and Technology (MEXT), there are not 9, but 10 subjects in elementary school. Furthermore, several subjects change or are introduced across different grades (see the second picture, left side).
+
+https://preview.redd.it/ne7ma1by08lg1.png?width=941&format=png&auto=webp&s=e00bffbe30455ebcbada28a6afaf8996ef1a48a8
+
+https://preview.redd.it/rv1wgq8z08lg1.png?width=872&format=png&auto=webp&s=2c87d7745b6858fdeb97041f51bac6378586d3f6
+
+>Elementary school: The school’s name, usually 3–4 words, we will say 3. Their grades there per year (9 subjects x 8 exams = 72 grades), for 6 years. Which is 432 grades structured as (L±) xx (the xx being out of 100)
+
+The authors assume that Kinugasa’s "grades and accomplishments since early childhood" means “grade of every test or exam student passed during every year”. This is not the only interpretation. It could mean a single final grade per subject per year, or even a cumulative grade after 6 (or 3) years. The latter would result in just 9 grades total instead of 432. The authors chose the most data-heavy interpretation because it fits their narrative, or yes?
+
+>Their grades in ANHS: 20 exams. Which is 20 grades structured as (L±) xx (the xx being out of 100)
+
+If students study 9 subjects in a trimester system with two exams per trimester, this would result in 54 exams per year, not 20.
+
+>A Student Profile that consists of a paragraph from an interviewer and a short message from the Homeroom teacher. The larger paragraph from the interviewer consisted of around 120 words. The smaller paragraph consisted of around 20 words, so that is about 140 words.
+
+Regarding word count, the difference between the Japanese and English versions is not significant for this argument, so the English version will be used. Let's examine the claimed data of “120 words” from the interviewer's notes. For some *unknown* reason, the authors completely overlook that most of the known 32 Profiles are not that long. The longest interviewer paragraph is in Horikita’s Profile (128 words).
+
+https://preview.redd.it/o5lavb0618lg1.png?width=600&format=png&auto=webp&s=3985bc1e1bafbd4067f751df40ad4c359c92a604
+
+But you know, there are plenty of profiles that are much shorter.. For example, the shortest is Mako's (23 words).
+
+https://preview.redd.it/zau4ise818lg1.png?width=622&format=png&auto=webp&s=4f1ac7be71a8e9524b5ad35e937573fb23e97bc5
+
+[Wiki](https://you-zitsu.fandom.com/wiki/School_Database) shows that most Student Profiles do not reach 80 words, and everyone is able to confirm it visually:
+
+https://preview.redd.it/19ajvy9f18lg1.png?width=941&format=png&auto=webp&s=73c02c267f1aef31980a3f540c51f5bf1a98fb2e
+
+This is not even close to the 120 words "counted" by the authors. They would have known that if they had actually checked the Profiles they were supposed to verify the word count of.
+
+# Conclusion
+
+This has to be a joke, or a deliberate choice. There is no universe where any sane person (or group of people) supposedly analyzing every word of the story in detail could make such mistakes without even fact-checking themselves. Just one page of the doc contains so many errors that it's… humiliating to say about it.
+
+It might be shocking to some SCD members, but things need to be proven. Numbers need to be proven. Estimates need to be proven. Everything needs to be proven.
+
+Readers should really check every word scalers write and constantly ask themselves: was this claim actually proven, or just postulated? The level of dishonesty and bias is so strong that some scalers end up writing fanfics instead of sticking to the story.

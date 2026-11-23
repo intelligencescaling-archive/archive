@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cote-isn-t-an-intelligent-series-nor-an-intelligence-based
+category: doc
+title: COTE Isn't an Intelligent Series, Nor an Intelligence-Based Series
+alt_titles:
+- COTE isn't an Intelligent series. Nor is it an Intelligence based series
+authors:
+- name: DrMillMatt
+  reddit: DrMillMatt
+  id: drmillmatt
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+- writing
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1h0vvqj/cote_isnt_an_intelligent_series_nor_is_it_an/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1113
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 245141
+      sha256: 69e7e3e8eedbc2862de8be00d3df02cc4c4f04f1ed89c1d80d8db7a5887d6960
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

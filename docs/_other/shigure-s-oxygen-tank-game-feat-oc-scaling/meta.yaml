@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shigure-s-oxygen-tank-game-feat-oc-scaling
+category: doc
+title: Shigure's Oxygen Tank Game Feat (OC Scaling)
+alt_titles:
+- 'Somehow I timed this with the other dude: oc scaling'
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nr3rsc/somehow_i_timed_this_with_the_other_dude_oc/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 840
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 1021211
+      sha256: 6fa8126352e99d9b886eb673fffa0d0af7992c320cecfc92a3d283fc52d89a17
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

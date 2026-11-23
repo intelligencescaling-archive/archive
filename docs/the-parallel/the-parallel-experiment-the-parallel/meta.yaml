@@ -1,0 +1,81 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-parallel-experiment-the-parallel
+category: doc
+title: The Parallel Experiment (The Parallel)
+alt_titles:
+- The Parallel Experiment
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- the-parallel
+characters: []
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xlgtul/the_parallel_experiment/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 628
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 69110
+      sha256: c436ffe1853397b69feb366f0e4a6a858fddb77ce47f12b2709ebe824b0f66fc
+    - format: jpg
+      name: image-2.jpg
+      bytes: 29646
+      sha256: a0760b00d679683f9b3efb29557d595bc804a1ff9ab0952dcc692a71eb0cb11b
+    - format: jpg
+      name: image-3.jpg
+      bytes: 39657
+      sha256: c155c8a8b53fad7c84be498ecfc113ee8d51d33dfd91d08e4bbb83ae435f36e9
+    - format: jpg
+      name: image-4.jpg
+      bytes: 38339
+      sha256: 9e546f5b79232a8faeb514f50c9c76d4bbf71d01ec7d99b9c1670fda560c1f7f
+    - format: jpg
+      name: image-5.jpg
+      bytes: 32092
+      sha256: 7c14042c8559a51b4bd28ef5520e1055b2b304a805fb272fdd44fe24cad840d1
+    - format: jpg
+      name: image-6.jpg
+      bytes: 32294
+      sha256: 7055ccc93b52cbe47a4b6bd955c39581cbd1950ffe2eedfd55e378daca660a60
+    - format: jpg
+      name: image-7.jpg
+      bytes: 39189
+      sha256: 1d25305a06131c2ee3f8ed8c8f60cbb8c27aa3246d28290adf5524b0170d0e0c
+    - format: jpg
+      name: image-8.jpg
+      bytes: 30968
+      sha256: 0c9710402f0f9bc8d701541493e09090e0f04467c66ab8edf2dc9417d0846998
+    - format: jpg
+      name: image-9.jpg
+      bytes: 35501
+      sha256: dd4c6e2139a8d743dab56f3cfd937c6b026265eda97978843ee88b8fc88365a2
+    - format: jpg
+      name: image-10.jpg
+      bytes: 53893
+      sha256: 23d47f99dc6780b5ee036988e5a0340b516711de732aad3872b06bdb0edcf2fa
+    - format: jpg
+      name: image-11.jpg
+      bytes: 34152
+      sha256: 69a7583ec29df07eccd6a5043c681aed941a2bf9fd42ad1d20e16ad555b3c301
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

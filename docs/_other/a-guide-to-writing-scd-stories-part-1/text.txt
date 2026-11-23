@@ -1,0 +1,79 @@
+A Guide to Writing SCD Stories (Part 1?)
+
+u/Equal_Custard0 and some others in the DMs have asked me for advice/suggested I make a post on writing SCD characters so here it is:
+
+Anyways, the first thing to do when writing an intelligent character is to know that there are two parts to it: the writing and the outsmarting/SCD aspect. I'll be addressing both aspects here.
+
+**TIPS ON THE WRITING ASPECT (this does not have anything to do with the SCD aspect):**
+
+So, many OCs I have read so far (including mine unfortunately) use tell not show. I'm pretty sure a lot of people here are familiar with the concept of 'show don't tell' so I won't explain it fully but the whole point of this concept is to write a scene/emotion/action without actually explaining everything step-by-step and instead *showing* only the details needed to understand/visualise the scene.
+
+This obviously means you should NOT info dump where every little bit of information is smacked into a single paragraph just to show how brilliant a character is. For example, if you have a 1000 premise reasoning feat which requires all of the premises to be known, instead of writing it all down like an essay, try to incorporate it into the story. Find scenes that could hold a few of these details and weave in the premises there. Good examples are detective stories where they slowly reveal clues as the detective investigates instead of listing every premise during the feat. This is not to say you can't *remind* the reader of the clues during the deduction; just don't introduce the premises all at once without warning.
+
+Another example with scheming is instead of writing 'A did this and then did that', etc and have the feat down in a paragraph, write it so the scheming feat comes out from someone explaining it, like their opponent. This will make it feel more engaging as we get to see the feat from another person's perspective. Another way of doing this is by dropping hints in the narrative and showing the outcomes of the scheme so the reader can put the pieces to form the scheme themselves. If you want to have high-methodology feats, you can then explain this later but now you won't have to explain every single little detail which would hinder the story's progress.
+
+Narrative feats are also a good way of keeping the readers' interest. Hype up a character like "this guy outsmarted the number 1 in the verse currently" so the readers will get excited for the character's introduction (I know a lot of people will say 'narrative/offscreen bum' but you have to admit a lot of those bums have aura). Add lots of foreshadowing and it would be even better if the foreshadowing was part of someone's scheme so when the final reveal does happen, the reader will think back and (hopefully) remember the foreshadowing and be amazed.
+
+The last piece of advice is pretty obvious but it's 'don't make the other characters look like idiots to make your character look smart'. This will make it seem that there's no competition which kinda ruins the mood of the story if there are no real stakes. Unless your character is not in an outsmarting position of course.
+
+**TIPS ON THE SCD ASPECT (assuming methodology feats because narrative/statement feats are easy asf to write):**
+
+For the SCD part, the most important thing to do is first see what kind of feat you want to make.
+
+REASONING: For reasoning, there are far too many situations with different kinds of reasoning (some involve social understanding, some involve ToM etc) so I will only be giving my opinion on the most basic kind.
+
+Create the deduction 'chain' first. I would recommend using the 'conclusion-premise format' to help map out the feat here. At first it could be something simple like:
+
+P1: The grass is wet
+
+P2: Rain will dampen grass
+
+**C1**: It must've rained
+
+Next, strengthen the logic connecting the premises to the conclusions by adding restraints as to why it couldn't be other options:
+
+P1: The grass is wet
+
+P2: Rain will dampen the grass
+
+**C1**: IT COULD'VE RAINED (water made contact with the grass by something in the very least)
+
+P3: Hoses are unavailable in the country
+
+P4: No one passes through the area
+
+P5: You have not approached the grass
+
+**C2**: The water was not applied through human activity
+
+P6: The rest of the ground is wet
+
+**C3**: Something has dampened the entire area
+
+P7: Rain is the only thing that can affect the whole area and is not from human activity (linking back to **C2**)
+
+**C4**: It must've rained
+
+Keep doing this until you get a strong, air-tight deduction. Also, add in extra information whenever something needs explaining such as another premise. If you want to complicate things further and improve the reasoning to high tier or something, add red herrings into the situation, which will at first lead the readers away but ultimately lead to nothing. You can think of it as a maze; there are many routes that lead to dead stops but one that lead to the finishing location (create the correct route first then add the false ones to lead the character+readers away).
+
+Also if you want your character to reason out a scheme, just pull the scheme out, separate the clues the scheme produces (such as what the motives are, who gets affected by this move, etc) and use them as premises.
+
+SCHEMING (strategy+planning) and deception and manipulation:
+
+For scheming, create a basic scheme, then think 'how could the opponent counter this scheme'? Block up the loopholes and then try to think of counters for the loopholes you just created. Keep doing this until you run out of ideas/want to end the scheme.
+
+Manipulation and deception are also pretty similar. You can think of deception as being the opposite of reasoning. Whatever the opponent can use to reason out the scheme, add in more and more red herrings. Sometimes, entire strategies are a whole red herring with the strategy after it being the true strategy.
+
+Good manipulation involves thinking 'how do I limit the opponent's moves so that A is the only option' instead of just 'how do I make A do this'? (The latter will often have many loopholes to be exploited) Think backwards as the opponent and figure out how to block all of their moves until only one is available, but don't make it too obvious.
+
+**OTHER TIPS FOR WRITING/BRAINSTORMING IDEAS:**
+
+My only piece of advice here is to take inspiration not only from other SCD media but also from the world. History, science, mathematics can all be applied into your story.
+
+If you plan on using mathematics though, I'd recommend using the theorems and abstract ideas rather than actually writing 1+1=2. To see how this is done, check out Federal Manner's Shen Jihan where he uses mathematics to solve a timeloop (I still don't really understand it lmao).
+
+Science can be applied pretty easily for most stories as evidence in crime stories (chemical reactions of blood and stuff like that), weather predictions (Ravages of Time), and other things.
+
+History, imo though, is the most useful, since it shows how humans behaved in previous events. For example, if you want to write a war story, research some previous wars, recognise their patterns (logistics, alliances, etc), and then start writing. I did this with one of my feats which was based on the Great Depression (just look into my profile and you can find it).
+
+Anyways, that's all my advice for now. I might come back but tbh, I'm also pretty inexperienced so don't take my advice for an expert's opinion. Also, the half-finished drawing is by me

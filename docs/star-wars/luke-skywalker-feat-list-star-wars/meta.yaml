@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: luke-skywalker-feat-list-star-wars
+category: doc
+title: Luke Skywalker Feat List (Star Wars)
+alt_titles:
+- Luke Skywalker feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- star-wars
+characters:
+- luke-skywalker
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1orip1e/luke_skywalker_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 766
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 310889
+      sha256: 26c57de5e4519344e06edb3f1bc1bb1276dbfebabb1cb5e0e1e4deed08b70f68
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

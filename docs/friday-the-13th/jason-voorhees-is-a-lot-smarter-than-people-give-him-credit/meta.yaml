@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jason-voorhees-is-a-lot-smarter-than-people-give-him-credit
+category: doc
+title: Jason Voorhees Is a Lot Smarter Than People Give Him Credit For (Friday the 13th)
+alt_titles:
+- Jason Voorhees is a lot smarter than people give him credit for. (Yapfest incoming.) (Art by FatSurvival on Twitter.)
+authors:
+- name: Terrible_Park7890
+  reddit: Terrible_Park7890
+  id: terrible-park7890
+  source: reddit-post
+series:
+- friday-the-13th
+characters:
+- jason-voorhees
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t1e8g2/jason_voorhees_is_a_lot_smarter_than_people_give/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 757
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 81862
+      sha256: a9134ddb777a3e03f6b3d0b64ff54f9e34f40de8288e94a1461eca81124636e5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

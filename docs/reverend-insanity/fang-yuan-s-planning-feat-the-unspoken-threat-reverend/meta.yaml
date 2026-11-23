@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fang-yuan-s-planning-feat-the-unspoken-threat-reverend
+category: doc
+title: 'Fang Yuan''s Planning Feat: The Unspoken Threat (Reverend Insanity)'
+alt_titles:
+- Fang Yuan planning feats "The Unspoken Threat"
+authors:
+- name: Wifree_MC
+  reddit: Wifree_MC
+  id: wifree-mc
+  source: reddit-post
+series:
+- reverend-insanity
+characters:
+- fang-yuan
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rz1vdt/fang_yuan_planning_feats_the_unspoken_threat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 574
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 54137
+      sha256: e7494eadb2474791477916c2d175d89cadbad521b4fdf3209aaa841208f2832f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

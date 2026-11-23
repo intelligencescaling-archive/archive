@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ranking-reasoning-styles-by-versatility-in-outsmarting
+category: doc
+title: Ranking Reasoning Styles by Versatility in Outsmarting Settings
+alt_titles:
+- Ranking reasoning styles by overall versatility in outsmarting settings
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  id: ancient-end2474
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w8h1xg/ranking_reasoning_styles_by_overall_versatility/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 993
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 99735
+      sha256: 1acc2747873f7c0c219e552c6252dbc0a1747428b5bdfafbefe1deb2b975c0d2
+    - format: jpg
+      name: image-2.jpg
+      bytes: 47106
+      sha256: b8075f44451e5ebf83c3a6967357c589ad5bac698bc843cc0a7a9938bc0ebf7d
+    - format: jpg
+      name: image-3.jpg
+      bytes: 1023104
+      sha256: d33efdf071cbe2eea60611008d6db6742598d1e5d8c502f9af7820bf7ac36aa1
+    - format: jpg
+      name: image-4.jpg
+      bytes: 872446
+      sha256: c9dfe42401e3c919359fdfe5572021c3d54cd26821e9b6ec4c5672df9f91f4bb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

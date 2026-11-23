@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: mexican-standoff-explanation-rocketjump-featuring-key-and
+category: doc
+title: Mexican Standoff Explanation (RocketJump, featuring Key and Peele)
+alt_titles:
+- Mexican Standoff explanation (rocketjump featuring Key and Peele)
+authors:
+- name: What-A-Burden
+  reddit: What-A-Burden
+  id: what-a-burden
+  source: reddit-post
+series:
+- mexican-standoff
+characters:
+- cortez
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tl8m4p/mexican_standoff_explanation_rocketjump_featuring/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1001
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 708929
+      sha256: 04a93ea0af30f083512db1cb35f8cc8105dcc9703b7527900be3e2fbf661430a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

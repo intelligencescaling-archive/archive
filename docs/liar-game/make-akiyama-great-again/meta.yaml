@@ -1,0 +1,75 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: make-akiyama-great-again
+category: doc
+title: Make Akiyama Great Again (Liar Game)
+authors:
+- name: Cridemord
+  reddit: Cridemord
+  id: tokho
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: Akiyama''s Foresight Is Simply Insane'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hrcfj8/make_akiyama_great_again_akiyamas_foresight_is/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1960
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 5602210
+      sha256: d4d24751b200253427a902e5ab2adf7434033d083b232b63f118028cb7931b22
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: Akiyama''s Most Underrated and Misunderstood Feat, the Stalemate Plan'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hv7c3j/make_akiyama_great_again_akiyamas_most_underrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3827
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 3259219
+      sha256: 23c132a5ab4ff1bfc1496e0d4ca06b50398eaf93a2797ef64a1afd3c33ca4d9e
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Part 3: Akiyama''s Emotional Intelligence Must Be Studied'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1i0o1kc/make_akiyama_great_again_akiyamas_emotional/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2055
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 570027
+      sha256: 5f014862c99ece528392e44b11b3bc29baa7b0b01fe99652629938aa1828c0ab
+    text:
+      file: text-3.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

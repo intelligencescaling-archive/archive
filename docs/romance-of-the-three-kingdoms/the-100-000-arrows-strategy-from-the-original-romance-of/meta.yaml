@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-100-000-arrows-strategy-from-the-original-romance-of
+category: doc
+title: The 100,000 Arrows Strategy from the Original Romance of the Three Kingdoms
+alt_titles:
+- The 100,000 Arrows Strategy from the original RoTK
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- romance-of-the-three-kingdoms
+characters:
+- zhuge-liang-romance-of-the-three-kingdoms
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wca9cn/the_100000_arrows_strategy_from_the_original_rotk/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 800
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 59618
+      sha256: 17a27f3b268a6d459aabf2210b542fb2e954bee120d5fbb892148ae611e23198
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

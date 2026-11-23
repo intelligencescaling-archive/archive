@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hikari-of-tomorrow-prologue-and-files-1-4-death-note-fanfic
+category: story
+title: 'Hikari of Tomorrow: Prologue and Files 1-4 (Death Note Fanfic)'
+alt_titles:
+- I've been working with a concept for a DN fanfic, what are your opinions. That's what I have so far.
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  id: signal-experience315
+  source: reddit-post
+series:
+- death-note
+characters:
+- hikari-nakagami
+- light-yagami
+- ryuk
+- nate-river
+tags:
+- fanfiction
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1se47g5/ive_been_working_with_a_concept_for_a_dn_fanfic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3255
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

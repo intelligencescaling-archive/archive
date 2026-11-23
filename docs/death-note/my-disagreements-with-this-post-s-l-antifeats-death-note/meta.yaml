@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-disagreements-with-this-post-s-l-antifeats-death-note
+category: doc
+title: My Disagreements With This Post's L Antifeats (Death Note)
+alt_titles:
+- My disagreements with this post's antifeats, because he claimed I took a screenshot out of context in our debate.
+authors:
+- name: v5mk
+  reddit: v5mk
+  id: v5mk
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ujd4as/my_disagreements_with_this_posts_antifeats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3702
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 140134
+      sha256: 25a2c93147be0218febc85788e81997589e920737d0635aa185818a5a2884b69
+    - format: jpg
+      name: image-2.jpg
+      bytes: 56300
+      sha256: faa9d6b48b422f5e7a3b8aa9ad7cffcf6be01cbf8cb9a23f6fb06fed6acfb343
+    - format: png
+      name: image-3.png
+      bytes: 238599
+      sha256: df55483621cf7a5d2a10e698053f9c6b4022bdb12e5bf0319e465b76a64663aa
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

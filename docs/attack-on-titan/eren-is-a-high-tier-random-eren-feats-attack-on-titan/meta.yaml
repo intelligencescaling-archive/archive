@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: eren-is-a-high-tier-random-eren-feats-attack-on-titan
+category: doc
+title: 'Eren Is a High Tier: Random Eren Feats (Attack on Titan)'
+alt_titles:
+- Eren is a high tier
+authors:
+- name: saifo_san
+  reddit: saifo_san
+  id: saifo-san
+  source: reddit-post
+series:
+- attack-on-titan
+characters:
+- eren-yeager
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m3d1d9/eren_is_a_high_tier/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 565
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 32439
+      sha256: 0b4d72af46ff1629d65e0bea4eaa5c92f6376d813cf02668e8b32069df8f7083
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

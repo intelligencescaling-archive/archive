@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: in-depth-psychological-analysis-of-the-laguarde-murder
+category: doc
+title: In-Depth Psychological Analysis of the Laguarde Murder Goading (Ace Attorney Investigations 2)
+alt_titles:
+- In Depth Psychological Analysis of Laguarde Murder Goading(Ace Attorney Investigations 2)
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- ace-attorney
+characters:
+- aai2-mastermind
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uwj2uv/in_depth_psychological_analysis_of_laguarde/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1892
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 87606
+      sha256: d91e454f93b5507b9fd7c96b26ae8d3e1e47e75b5999dfcdc8e854d9312552f1
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

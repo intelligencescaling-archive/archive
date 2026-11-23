@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: slenderman-the-operator-the-psychological-breaking-of-alex
+category: doc
+title: 'Slenderman (The Operator): The Psychological Breaking of Alex Kralie (Marble Hornets)'
+alt_titles:
+- Slenderman (The Operator) psychological breaking of Alex Kralie
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- marble-hornets
+characters:
+- the-operator-marble-hornets
+- alex-kralie
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wlhzoy/slenderman_the_operator_psychological_breaking_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1151
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 104350
+      sha256: 6c451cbae1e1ae3bc696a88e88b7d7dbe3ddab7207df1020878decf857df29a0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

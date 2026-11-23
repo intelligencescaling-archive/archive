@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yamcha-s-plan-against-dracula-dragon-ball
+category: doc
+title: Yamcha's Plan Against Dracula (Dragon Ball)
+alt_titles:
+- Yamcha's Plan
+authors:
+- name: ThroatSpirited1493
+  reddit: ThroatSpirited1493
+  id: throatspirited1493
+  source: reddit-post
+series:
+- dragon-ball
+characters:
+- yamcha
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1urvu0g/yamchas_plan/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 571
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 273950
+      sha256: 97103c49821218608a421b9fa3a88726894a751195553694e37a4194b6daf663
+    - format: jpg
+      name: image-2.jpg
+      bytes: 244096
+      sha256: 93f0483b3866f62d43f4486f3647a6c631058919ccda11dea4b359a00e80bbd2
+    - format: jpg
+      name: image-3.jpg
+      bytes: 270681
+      sha256: 3f803b8a916ce432f1030e174e80435d0c3aab5388725287c23a74b810c77e5b
+    - format: jpg
+      name: image-4.jpg
+      bytes: 282193
+      sha256: ea259485c1513712fd830fe9863eb07e7f217bbda5cc67a0a0854d2e337afc8e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: survival-instincts-hijacking-liar-game-pandemic-game
+category: doc
+title: Survival Instincts Hijacking (Liar Game, Pandemic Game)
+alt_titles:
+- Survival instincts hijacking!!!
+authors:
+- name: Due_Turnover1421
+  reddit: Due_Turnover1421
+  id: due-turnover1421
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t5bf2p/survival_instincts_hijacking/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 723
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: novel-sherlock-holmes-vs-shinichi-kudo-detective-conan-with
+category: doc
+title: Novel Sherlock Holmes vs Shinichi Kudo (Detective Conan), with Explanations
+alt_titles:
+- My take on novels Sherlock vs Shinichi Kudo (animanga) with explanations
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- sherlock-holmes
+- case-closed
+characters:
+- sherlock-holmes
+- conan-edogawa
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vxscfw/my_take_on_novels_sherlock_vs_shinichi_kudo/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 919
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 19240
+      sha256: 75d00595011441d138622fe0f302b38f997c4bb39c1e8954857a5c1f09ebf247
+    - format: png
+      name: image-2.png
+      bytes: 71570
+      sha256: 76a1a0493f63273628c30f02448e785d31a47646182ebde91b3c5540a733efe2
+    - format: jpg
+      name: image-3.jpg
+      bytes: 169952
+      sha256: 5a097e68a5135fdc3042b55b05c5c72cac3cbb0eaa6bbcfed1d575126acc5eb6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

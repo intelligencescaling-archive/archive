@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysing-curtis-plan-to-escape-the-tail-section
+category: doc
+title: Analysing Curtis' Plan to Escape the Tail Section (Snowpiercer, 2013)
+alt_titles:
+- 'Snowpiercer (2013): Analysing Curtis'' plan to escape the tail section'
+authors:
+- name: HowdyAshleyHere
+  reddit: HowdyAshleyHere
+  id: howdyashleyhere
+  source: reddit-post
+series:
+- snowpiercer
+characters:
+- curtis-everett
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sk1nfp/snowpiercer_2013_analysing_curtis_plan_to_escape/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1326
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+      image-3: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

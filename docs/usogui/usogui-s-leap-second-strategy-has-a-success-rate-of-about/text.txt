@@ -1,0 +1,33 @@
+Usogui's Leap Second Strategy has a success rate of about 88.5% against an opponent whose checks are completely unpredictable
+
+First high (somewhat) effort post for this community that I love. I will proceed assuming you are familiar with Baku Madarame and his Leap Second Strategy.
+
+**Context**
+
+This analysis was inspired by a discussion on the r/Usogui sub where a user claimed that Baku's LS strat would have a 50% probability of working against any opponent who is not Kiruma Souichi, who had figured out the LS strat (2SD theory). Obviously that claim is ridiculous, but I did find the subject interesting: what exactly IS the success rate of Baku's strategy? I decided to run some simulations using the Python programming language to find out.
+
+**The idealizations of the simulation**
+
+Realistically simulating the Drop The Handkerchief game is possible, but more time-consuming than I can currently afford. Thus, I had to make some idealizations to simplify the code. They are:
+
+* 8 rounds total as a fixed amount regardless of near-deaths, since this is the amount of rounds before LS that canonically took place in the Usogui manga.
+* The rounds where Baku has a turn as C are ignored; that is, only the rounds where Baku has a turn as D are accounted for. Therefore, only his opponent's stats (accumulated near-death drug and number of deaths) are accounted for.
+* The opponent checks at a completely random time (from 0 to 60), that much is consistent with the premise, but Baku also drops at a random (0 - 60) time to simplify the situation.
+
+**The code**:
+
+https://preview.redd.it/5n2vcethbzwf1.png?width=871&format=png&auto=webp&s=90079168f1ed55d54743704afa02ed1bcaf9c6f8
+
+**The result**
+
+One simulation consists of the full 8 rounds. A "successful" simulation is that in which, by the end, Baku's opponent has a total squandered time (both in his own body and cylinder) of less than 4 minutes, which would allow him to survive the leap second theoretically.
+
+After one million (1000000) 8-round simulations, the probability of a successful simulation is about 11.5%. To put it the other way around, Baku's Leap Second Strategy has a success rate of 88.5%.
+
+**Validity of the result**:
+
+The idealizations made for the simulation's code generally favor Baku's opponent, by fixing the number of rounds to the relatively low 8 regardless of the amount of near-deaths experienced by either player, and by simplifying Baku's drops to also be completely random, rather than actively seeking to either accumulate time or make his opponent fail checks. However, an argument could be made that the exclusion of the rounds where Baku checks favors Baku more than his opponent. But in that case, there would be factors benefitting Baku and factors benefitting his opponent, which cancel out to some degree, reducing the bias in the simulation if anything (similar to the ideal gas law).
+
+**Appendix**: Funnily enough, if Baku is made to always drops instantly in this simulation, the odds of the LS strat being successful are indeed close to 50% (49.5%) as the other user claimed.
+
+**TLDR**: The odds of Baku's Leap Second Strategy winning him the game against an opponent that checks completely at random (unreadable) is about 88.5%, found through idealized computer simulations. The idealizations favor both Baku and his opponent so there is some "cancellation", giving the results credibility.

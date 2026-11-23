@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-lawliet-canon-ctw-novel-vs-agent-47-cat-and-mouse
+category: doc
+title: 'L Lawliet (Canon + CTW Novel) vs Agent 47: Cat and Mouse Analysis (Death Note x Hitman)'
+alt_titles:
+- 'L Lawliet (Canon + CTW novel) vs Agent 47 (Canon): Cat and Mouse analysis'
+authors:
+- name: Intelligent_Dog7943
+  reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
+  source: reddit-post
+series:
+- death-note
+- hitman
+characters:
+- l-lawliet
+- agent-47
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m85o6p/l_lawliet_canon_ctw_novel_vs_agent_47_canon_cat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1626
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

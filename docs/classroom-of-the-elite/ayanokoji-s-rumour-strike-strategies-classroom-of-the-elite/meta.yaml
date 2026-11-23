@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-rumour-strike-strategies-classroom-of-the-elite
+category: doc
+title: Ayanokoji's Rumour Strike Strategies (Classroom of the Elite)
+alt_titles:
+- Ayanakoji's Rumour Strike Strategies
+authors:
+- name: CommonSence123
+  reddit: CommonSence123
+  id: commonsence123
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- ichinose-honami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pzecxh/ayanakojis_rumour_strike_strategies/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1386
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42890
+      sha256: 3a311a4c9e86b2ed58e115e31ef27181aea5edae67c4bab069d8c4ffcc1cdc0c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

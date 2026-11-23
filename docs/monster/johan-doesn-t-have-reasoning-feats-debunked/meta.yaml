@@ -1,0 +1,78 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-doesn-t-have-reasoning-feats-debunked
+category: doc
+title: '"Johan Doesn''t Have Reasoning Feats!" Debunked (Monster)'
+authors:
+- name: Effective-Emu-9938
+  reddit: Effective-Emu-9938
+  id: effective-emu-9938
+  source: reddit-post
+series:
+- monster
+characters:
+- johan-liebert
+tags:
+- debunk
+- feats
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: The Library Sniper Trap and the Poisoned Candy'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tfhmvg/johan_doesnt_have_reasoning_feats11debunked_part_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1583
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 213481
+      sha256: e903464d3a9064a08af0fb725520d0eae8ccfebee3b7b2092ba10cbc0ebb2c6b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 308510
+      sha256: fc6821b632f07e58fcaeba1a92ed110fecd3f1160f48cdd920ce94f38884c6a6
+    - format: jpg
+      name: image-3.jpg
+      bytes: 304972
+      sha256: 1b92d7d55cc72eada974ef0f6b7ef04a4adb5c00e043977fa81a3461c204620b
+    - format: jpg
+      name: image-4.jpg
+      bytes: 273533
+      sha256: 0ae17f2788d29ffab7ba5609ff6ef5d6d6030b5285065a0dd2e68a1c5a980ab4
+    - format: jpg
+      name: image-5.jpg
+      bytes: 228859
+      sha256: 32212680712965fb565b59659f7f07b7b4b1905e8077a959331b21d778461f0c
+    - format: jpg
+      name: image-6.jpg
+      bytes: 204053
+      sha256: 7fc86f80214387b6f46526052b43691bb30fe60acbda6526f1030dd4a8d76f24
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: The Water-Tank Message'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tfhsqf/johan_doesnt_have_reasoning_feats11debunked_part_2/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1182
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 28255
+      sha256: 50d1c958d7431d37a76ab6b34f6add6013c98e81d5938bb7610b9a9a682b4160
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

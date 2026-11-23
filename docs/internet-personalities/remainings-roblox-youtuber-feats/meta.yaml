@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: remainings-roblox-youtuber-feats
+category: doc
+title: Remainings (Roblox YouTuber) Feats
+alt_titles:
+- Remainings
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- internet-personalities
+characters:
+- remainings
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qmgees/remainings/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1617
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 545781
+      sha256: 360ee50f7e32885a8b8a527611aec2702703434273505c9e74cb8df2bb59573c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

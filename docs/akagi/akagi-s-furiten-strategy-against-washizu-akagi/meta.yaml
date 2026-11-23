@@ -1,0 +1,111 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akagi-s-furiten-strategy-against-washizu-akagi
+category: doc
+title: Akagi's Furiten Strategy Against Washizu (Akagi)
+alt_titles:
+- Akagi Furiten Strategy Analysis
+authors:
+- name: TTT948
+  reddit: TTT948
+  id: ttt948
+  source: reddit-post
+series:
+- akagi
+characters:
+- shigeru-akagi
+- iwao-washizu
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rujy26/akagi_furiten_strategy_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1508
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 38245
+      sha256: 62c13e8549ab2aa7ab98a10e13a5e444b418250b63aef45c9bd0150797d92777
+    - format: png
+      name: image-2.png
+      bytes: 8961
+      sha256: f326fa3c6d69b505c576a77cf1ab6d20d42f2d2bf4403d6da179a38abca03465
+    - format: png
+      name: image-3.png
+      bytes: 56364
+      sha256: a9b95596091fa8f2d480cf9e43892097b257cf133b677ff1c9f460d37a947920
+    - format: png
+      name: image-4.png
+      bytes: 92930
+      sha256: 16a29633f875d65764b701fd0ac8be19729da516129394ed0ee64ea53ebba185
+    - format: png
+      name: image-5.png
+      bytes: 76643
+      sha256: a1de17348e8d6161dfeee1438010f882bd0d9254cc17f5e601c777ab47db3b3a
+    - format: png
+      name: image-6.png
+      bytes: 958602
+      sha256: 2fb18b8e6de32ca5aa52e1ff74e4b472db68fe5c2e762765cc0568c7014ab104
+    - format: png
+      name: image-7.png
+      bytes: 59093
+      sha256: bb74a44b3c055c5d2f74e3a613f22278a0c051bd7ea1e4e547b45bb22744cc63
+    - format: png
+      name: image-8.png
+      bytes: 392510
+      sha256: 24caa477d4cc1c1540c3858349306cc978a5ddf2d872a5a06cd7fd5789324234
+    - format: png
+      name: image-9.png
+      bytes: 114603
+      sha256: f092d729be7ac515759afb808070c6073809bfa16936b676d2a9d0a4ad8d9253
+    - format: png
+      name: image-10.png
+      bytes: 51910
+      sha256: e256a1513ccc48cd9694eabaa28e04f284a54d7867b5d13a02af3b32a9c5659f
+    - format: png
+      name: image-11.png
+      bytes: 70684
+      sha256: a1c7e26b10607e9cf4106fba7d74c439247d737b5fa9abc5806bfb4dfcb79030
+    - format: png
+      name: image-12.png
+      bytes: 134572
+      sha256: df1fcecf198f74334f223d73ddd2de8c1cef7fa30e2ea1fc2231f2b30420f289
+    - format: png
+      name: image-13.png
+      bytes: 91350
+      sha256: 38342bafb0b0353c3c741570ceac4cb5d6c40f5739357732565f8482352e6677
+    - format: png
+      name: image-14.png
+      bytes: 165744
+      sha256: f13eddc47c7f04f0207ff4222c907e71fcd86c2f9db6a5acc89836d6fbbc279a
+    - format: png
+      name: image-15.png
+      bytes: 67140
+      sha256: 08fff788bc1f7e6bb36f71309f55eb67db7aaaddb5c76f7b7bd59430cb1e8b7d
+    - format: png
+      name: image-16.png
+      bytes: 62021
+      sha256: 18f0f4542be0bfbc4b75bdc5b797cd8a2f7e66ec86556a29f9ba3f1379eefec3
+    - format: png
+      name: image-17.png
+      bytes: 77168
+      sha256: a442ed3de5b267c62e660ccf4e8f6c11823ea8e6407e7b4b5f1493abc5c8308e
+    - format: png
+      name: image-18.png
+      bytes: 79343
+      sha256: d483f1ece59f2e22cb2402b319bd9d5cf3a977f5b35e9a511177fd2bbc67f732
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

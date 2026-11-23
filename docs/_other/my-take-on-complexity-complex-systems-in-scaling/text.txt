@@ -1,0 +1,49 @@
+My take on complexity.
+
+Now, I am indeed somewhat new to this topic, and the community as a whole, so do point out any glaring flaws.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**What are Complex Systems**
+
+The most basic complex system is one where many seemingly independent parts interact with each other and lead to the emergence of new properties, functions, or behaviours.
+
+These changes are **non linear** in their nature. An interaction between two different parts of the system may cause a chain reaction that leads to massive, different, or unforseen results in another part of the system. To be more precise, the result isnt strictly additive, or something we can get from just looking at the isolated interaction without taking into account the other parts of the system.
+
+To make this easier to understand, lets take the **VECTOR LAW OF ADDITION (only for an analogy, I know that vector law of addition is linear in its nature)** and compare it with how we add scalar quantities or every day numerical values.
+
+When we add normal numbers, the result of **2+2=4.**
+
+This is fixed, and independent of all other things. To be a bit more formal, it is **ANALYTICALLY TRUE**
+
+The point being that the result from the addition will always be fixed. It will never change. We can simply look at the two numbers, and conclude that the result will always be 4.
+
+Different to that, when we want to find the result of two vectors, we cannot simply add their magnitudes.
+
+Suppose, if at a point, two seperate forces are applied. 2 Newton, and 4 Newton at say, the angle of 60 degrees.
+
+I wont go into the mathematics here, but the result is no simply their simple addition. The result we get will not be 6 Newton.
+
+Non linearity is similar in this way, where we wont get the result just from simple addition or any operation performed on isolated interactions. (The vector part fails the 2nd condition, as u can get the result from isolated interactions, but u get the point of the analogy.)
+
+\--------------------------------------------------------------------------------------------------------------
+
+**Factors that influence complexity of systems**
+
+Number of variables, amount of interactions, scale of those interactions, and the consequences on the model made by those interactions all factor into complexity.
+
+For example, a system might have more variables, but more predictable individual interactions than the system its being compared.
+
+So there is really no way to find the most "objectively" complex system b/w the two, as it depends on whether u value the no of variables more, or the predictability of the interactions.
+
+\--------------------------------------------------------------------------------------------------------------
+
+Than the question that naturally comes to our mind is, **Why use complex systems if they are inherently subjective and arbitrary in nature.**
+
+Even if we cant measure the overall, holistic complexity of the system, we CAN compare two systems to find out which character has the better **individual categories**
+
+For example, operating in a system with a larger no of vairables, may cause char A to have better FSIQ
+
+But char B can have better manipulation because of operating under, and manipulating a system with less predictability, even if it has lesser variables.
+
+**Conclusion: Complex systems are usually a way to find who has better individual categories, than after the analysis, check which char is better suited to win in specific systems**.

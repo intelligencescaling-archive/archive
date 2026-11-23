@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-isolation-plan-is-a-severe-antifeat-death-note
+category: doc
+title: L Isolation Plan Is a Severe Antifeat (Death Note)
+alt_titles:
+- L isolation plan is a Severe Antifeat.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xsi6p6/l_isolation_plan_is_a_severe_antifeat/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1611
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

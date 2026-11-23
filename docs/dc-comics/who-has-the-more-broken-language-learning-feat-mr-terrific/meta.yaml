@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: who-has-the-more-broken-language-learning-feat-mr-terrific
+category: doc
+title: Who Has the More Broken Language-Learning Feat? Mr. Terrific vs Dazai and Fyodor
+alt_titles:
+- WHO HAS THE MORE BROKEN LANGUAGE LEARNING FEAT?
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- dc-comics
+- bungo-stray-dogs
+characters:
+- mr-terrific
+- dazai-osamu
+- fyodor-dostoevsky
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wczgqt/who_has_the_more_broken_language_learning_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 641
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 56469
+      sha256: c77d5017b16b3b1088d2fd551ac7fd6f5177e426a86ade76d0b72d6dca47a0e9
+    - format: jpg
+      name: image-2.jpg
+      bytes: 51638
+      sha256: 085ce882e5a7192a78d82c2eeb2ddfc5618dc43da904c862d6079ea847ed6ca3
+    - format: jpg
+      name: image-3.jpg
+      bytes: 349704
+      sha256: fa4c2bf6f1ace1b1336f06c39290f3563940e52686f6b16f3efdbd1b01ad7b08
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

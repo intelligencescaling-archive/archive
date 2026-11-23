@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: vladilena-milize-s-volume-1-feats-prologue-to-chapter-2-86
+category: doc
+title: 'Vladilena Milizé''s Volume 1 Feats: Prologue to Chapter 2 (86)'
+alt_titles:
+- Analysis Volume 1 feats of Vladelina Mizilizé (From 86) through Prologue to Chapter 2.
+authors:
+- name: CreationCawthon2
+  reddit: CreationCawthon2
+  id: creationcawthon2
+  source: reddit-post
+series:
+- 86-eighty-six
+characters:
+- vladilena-milize
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1iptf6h/analysis_volume_1_feats_of_vladelina_mizilizé/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1364
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 77388
+      sha256: 5a6bcfa5cdce2dcdaaff1c6fbc03833a3c1120e8dc005c528d089c36ca4c8b56
+    - format: jpg
+      name: image-2.jpg
+      bytes: 100174
+      sha256: 355b66be23419727a7af9dbfaea77a7195cbdf8663cddb750e9d0f64736fb7d9
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kaito-s-plan-against-the-bio-mafia-oc-novel-outline-updated
+category: story
+title: Kaito's Plan Against the Bio Mafia (OC Novel Outline, Updated)
+alt_titles:
+- What do you think about this plan? Does it make sense? What category does it fall into? UPDATED
+authors:
+- name: ThroatSpirited1493
+  reddit: ThroatSpirited1493
+  id: throatspirited1493
+  source: reddit-post
+series: []
+characters:
+- kaito-oc
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tf6upd/what_do_you_think_about_this_plan_does_it_make/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2214
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 125023
+      sha256: f3bee0ee8d16287766a35fa5915776845d64c62609db39225c65118943448a9f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

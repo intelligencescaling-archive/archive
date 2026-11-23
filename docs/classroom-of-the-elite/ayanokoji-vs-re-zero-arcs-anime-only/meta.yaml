@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-vs-re-zero-arcs-anime-only
+category: doc
+title: Ayanokoji vs Re:Zero Arcs (Anime Only)
+authors:
+- name: d0ntkn0wmyself
+  reddit: d0ntkn0wmyself
+  id: d0ntkn0wmyself
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- re-zero
+characters:
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1m7tur9/ayanokoji_vs_rezero_arcs_anime_only/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 676
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 27630
+      sha256: 1cc40249988ed7bee1e1c6bdfdf2ad2bfa2da496dcc95c025a4c91717ee91f40
+    - format: jpg
+      name: image-2.jpg
+      bytes: 10960
+      sha256: 7ff914e9ca50bc34178e0020a427634a079a9c5757fde806160af178fc756223
+    - format: jpg
+      name: image-3.jpg
+      bytes: 154315
+      sha256: fc13712328f0ba96e9657c98c857406f376d4783fcffb80767b520fa47e2549e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

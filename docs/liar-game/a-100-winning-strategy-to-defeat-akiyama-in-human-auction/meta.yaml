@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-100-winning-strategy-to-defeat-akiyama-in-human-auction
+category: doc
+title: A 100% Winning Strategy to Defeat Akiyama in Human Auction... or Kind Of (Liar Game)
+alt_titles:
+- I created a 100% winning strategy to defeat Akiyama in Human Auction... Or kind of.
+authors:
+- name: Cridemord
+  reddit: Cridemord
+  id: tokho
+  source: reddit-post
+series:
+- liar-game
+characters:
+- yokoya-norihiko
+- akiyama-shinichi
+- nao-kanzaki
+tags:
+- analysis
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hkwp7z/i_created_a_100_winning_strategy_to_defeat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2519
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 183089
+      sha256: 10585733211b2c0b42c29e09c67f9ae253e6d1933d318c94f438320e9096c8ef
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

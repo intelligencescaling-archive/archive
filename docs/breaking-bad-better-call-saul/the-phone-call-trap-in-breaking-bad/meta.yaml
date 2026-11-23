@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-phone-call-trap-in-breaking-bad
+category: doc
+title: The Phone Call Trap in Breaking Bad
+alt_titles:
+- Thoughts on the Phone Call trap in Breaking Bad?
+authors:
+- name: Effective-Emu-9938
+  reddit: Effective-Emu-9938
+  id: effective-emu-9938
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+- hank-schrader
+- jesse-pinkman
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vovb7h/thoughts_on_the_phone_call_trap_in_breaking_bad/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 648
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

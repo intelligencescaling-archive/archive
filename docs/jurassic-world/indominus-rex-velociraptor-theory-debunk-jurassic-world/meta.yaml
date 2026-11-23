@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: indominus-rex-velociraptor-theory-debunk-jurassic-world
+category: doc
+title: Indominus Rex Velociraptor Theory Debunk (Jurassic World)
+alt_titles:
+- Indominus Rex Velociraptor Theory Debunk
+authors:
+- name: No_Engineering_3223
+  reddit: No_Engineering_3223
+  id: no-engineering-3223
+  source: reddit-post
+series:
+- jurassic-world
+characters:
+- indominus-rex
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rb8wtu/indominus_rex_velociraptor_theory_debunk/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 642
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 336671
+      sha256: 65036e734ac67c96bb0fc1f7d107f4f4ac854eae8a39ad01a945743bfa603146
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

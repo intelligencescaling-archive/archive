@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: nightmare-s-emotional-perception-and-understanding
+category: doc
+title: Nightmare's Emotional Perception and Understanding (Undertale AUs)
+alt_titles:
+- Nightmare's Emotional Perception and Understanding
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- undertale-aus
+characters:
+- nightmare-sans
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xuw3ha/nightmares_emotional_perception_and_understanding/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 568
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 54922
+      sha256: ada33339c06d005fe97e49fdb95593515fb5410c81b970b115183159f78fe8a5
+    - format: jpg
+      name: image-2.jpg
+      bytes: 114719
+      sha256: 0f5bbc3510d29348f85f2356211dd1939a0e17b42f642d921bd430768b2bdc8b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

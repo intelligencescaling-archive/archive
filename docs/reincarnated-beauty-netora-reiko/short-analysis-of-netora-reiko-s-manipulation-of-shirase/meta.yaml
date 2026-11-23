@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: short-analysis-of-netora-reiko-s-manipulation-of-shirase
+category: doc
+title: Short Analysis of Netora Reiko's Manipulation of Shirase Yuri (Reincarnated Beauty Netora Reiko)
+alt_titles:
+- Short analysis of Netora Reiko's manipulation of Shirase Yuri
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- reincarnated-beauty-netora-reiko
+characters:
+- netora-reiko
+- shirase-yuri
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xh6tyo/short_analysis_of_netora_reikos_manipulation_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 544
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 487115
+      sha256: b37ee788e8a05f2e1be6d635117359ce7d8f776b1c7db5d7295816bf11f0884f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

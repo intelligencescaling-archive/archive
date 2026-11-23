@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-plan-to-defeat-the-black-and-white-weeping
+category: doc
+title: The Doctor's Plan to Defeat the Black and White Weeping Angel and Save the World (Doctor Who)
+alt_titles:
+- The doctor's plan to defeat the black and white weeping angel and save the world- past forward
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ref42w/the_doctors_plan_to_defeat_the_black_and_white/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1508
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 396276
+      sha256: 1055718dfbd8a1fdd33c38eeac33b9fe1912d3298bc2a0547158ac10ab99ec99
+    - format: jpg
+      name: image-2.jpg
+      bytes: 81243
+      sha256: 0f708264a43e3aff168d5dcbf0154fe279d75af98ba657e4f58e0faf486735cd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

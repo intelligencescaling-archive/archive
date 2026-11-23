@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hannibal-s-team-transformation-strategy-nbc-hannibal
+category: doc
+title: Hannibal's Team Transformation Strategy (NBC Hannibal)
+alt_titles:
+- Hannibal's "Team Transformation Strategy" is extremely superficial, but such superficiality doesn't exist anywhere else in the world.
+authors:
+- name: No_Strawberry5397
+  reddit: No_Strawberry5397
+  id: no-strawberry5397
+  source: reddit-post
+series:
+- hannibal
+characters:
+- hannibal-lecter
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1td4fqq/hannibals_team_transformation_strategy_is/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 553
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 62312
+      sha256: 89aae51a5f4d7a9edb450ab7132230f1cc8241df682fd5724fe86c5fd49a749a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

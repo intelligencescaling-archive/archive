@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: hal-vs-baku-in-stl-reading-the-two-different-things-page
+category: doc
+title: 'Hal vs Baku in STL: Reading the "Two Different Things" Page (Usogui)'
+alt_titles:
+- Common consensus on Hal vs Baku on STL? (Currently working on Baku's leap second version 2)
+authors:
+- name: Appropriate-Set-3751
+  reddit: Appropriate-Set-3751
+  id: appropriate-set-3751
+  source: reddit-post
+series:
+- usogui
+characters:
+- kiruma-souichi
+- baku-madarame
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xshled/common_consensus_on_hal_vs_baku_on_stl_currently/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 556
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

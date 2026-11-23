@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: leader-swap-strategy-rated-by-category-classroom-of-the
+category: doc
+title: Leader Swap Strategy Rated by Category (Classroom of the Elite)
+alt_titles:
+- leader swap strategy categories rating
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vzl6up/leader_swap_strategy_categories_rating/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 719
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 37448
+      sha256: 1e00bb5179b1bc0c87a69f36defc7c53d54b7e37e1ef9de729df65a19988ce12
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

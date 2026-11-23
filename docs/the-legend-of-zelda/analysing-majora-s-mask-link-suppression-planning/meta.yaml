@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysing-majora-s-mask-link-suppression-planning
+category: doc
+title: 'Analysing Majora''s Mask: Link Suppression Planning'
+alt_titles:
+- Analysing Majora's Mask — Link Suppression Planning
+authors:
+- name: RedDeathSwayOverAll
+  reddit: RedDeathSwayOverAll
+  id: reddeathswayoverall
+  source: reddit-post
+series:
+- the-legend-of-zelda
+characters:
+- majora
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1td49ek/analysing_majoras_mask_link_suppression_planning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1081
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 207889
+      sha256: d568fee5dedde62840c5e9e20f7a04baacdf9a1ce542c3c736072a16e325ee15
+    - format: jpg
+      name: image-2.jpg
+      bytes: 608981
+      sha256: 493a9a455be6c8a54067b9678dd4aeb4281a6ff92522e14de5def9489a3e18f1
+    - format: jpg
+      name: image-3.jpg
+      bytes: 25873
+      sha256: 2bae8ab273c46c730c65bb425834030f13c43770c12a535424656f25d0a22773
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

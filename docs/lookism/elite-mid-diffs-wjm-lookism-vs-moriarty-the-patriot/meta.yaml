@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: elite-mid-diffs-wjm-lookism-vs-moriarty-the-patriot
+category: doc
+title: Elite Mid Diffs WJM (Lookism vs Moriarty the Patriot)
+alt_titles:
+- Elite mid diffs WJM (Kitchen Coyote's analysis) Discord:axolotal404
+authors:
+- name: KitchenCoyote
+  id: kitchencoyote
+  source: doc-text
+shared_by:
+- name: Particular_Tank_5225
+  reddit: Particular_Tank_5225
+  id: particular-tank-5225
+  source: reddit-post
+series:
+- lookism
+- moriarty-the-patriot
+characters:
+- charles-choi
+- william-james-moriarty
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vcncor/elite_mid_diffs_wjm_kitchen_coyotes_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 554
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 30280
+      sha256: 9350c7d7fbc154933820a0dc26167eca8c51137a4eb804bfdd35f58fcaff2db8
+    - format: jpg
+      name: image-2.jpg
+      bytes: 28563
+      sha256: 1b1cfa2d542405cf5a170ada06a667b492194a9dce8248afc87995b1e10a023f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

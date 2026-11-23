@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: 100-no-fail-winning-strategy-to-defeat-xue-yin-in-the
+category: doc
+title: 100% No-Fail Winning Strategy to Defeat Xue Yin in the Safehouse (The Endless Foodchain)
+alt_titles:
+- 100% No-Fail Winning Strategy to Defeat Xue Yin in the Safehouse
+authors:
+- name: upperlvl898
+  reddit: upperlvl898
+  id: upperlvl898
+  source: reddit-post
+series:
+- the-endless-foodchain
+characters:
+- xue-yin
+tags:
+- matchup
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1twhxkz/100_nofail_winning_strategy_to_defeat_xue_yin_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1640
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 375754
+      sha256: 021ce8791f8187fd57f0c4ff166421d3e253fb00784acd88568d129b45a04d11
+    - format: jpg
+      name: image-2.jpg
+      bytes: 354254
+      sha256: e64afecd09359f51fc110be0a1789b4bcc48c60a0c0057a433970286c816b15c
+    - format: jpg
+      name: image-3.jpg
+      bytes: 432985
+      sha256: f313c05113c0a703c2289246eff667f74870331c9a1d743ab2a7495c1d16ef91
+    - format: jpg
+      name: image-4.jpg
+      bytes: 300542
+      sha256: a05b4c4698823a36b4ef0ade4dcd94af24eb2d8bc424c1e3b7e774f87066cf93
+    - format: jpg
+      name: image-5.jpg
+      bytes: 387596
+      sha256: 6b6fd3161f3a342ab5a794103d3b49493e3b699a484b61fe7508291a11db308b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

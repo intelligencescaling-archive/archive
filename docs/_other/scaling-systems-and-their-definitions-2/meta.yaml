@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: scaling-systems-and-their-definitions-2
+category: doc
+title: Scaling Systems and Their Definitions
+authors:
+- name: MrDisintegrator
+  reddit: MrDisintegrator
+  id: mrdisintegrator
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rjjjmg/scaling_systems_and_their_definitions/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 911
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

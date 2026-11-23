@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: what-it-takes-to-survive-one-month-in-hell-18-levels-of-hell
+category: doc
+title: What It Takes to Survive One Month in Hell (18 Levels of Hell)
+alt_titles:
+- 'What it takes to survive in Hell for one month (Eighteen Levels of Hell: Lying is Forbidden Here)'
+authors:
+- name: Ancient-End2474
+  reddit: Ancient-End2474
+  id: ancient-end2474
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters: []
+tags:
+- discussion
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wfn08z/what_it_takes_to_survive_in_hell_for_one_month/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 693
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 66160
+      sha256: be085665c577538c4ea406da81bfafd05679c5fbf82b742deedabb427c5def13
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

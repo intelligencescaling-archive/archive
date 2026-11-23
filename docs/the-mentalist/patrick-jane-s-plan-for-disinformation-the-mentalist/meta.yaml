@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-plan-for-disinformation-the-mentalist
+category: doc
+title: Patrick Jane's Plan for Disinformation (The Mentalist)
+alt_titles:
+- Patrick Jane's plan for disinformation
+authors:
+- name: Equivalent-One2361
+  reddit: Equivalent-One2361
+  id: equivalent-one2361
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+- red-john
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o43a08/patrick_janes_plan_for_disinformation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1122
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

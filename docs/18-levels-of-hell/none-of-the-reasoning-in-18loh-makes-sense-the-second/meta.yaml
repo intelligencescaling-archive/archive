@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: none-of-the-reasoning-in-18loh-makes-sense-the-second
+category: doc
+title: 'None of the Reasoning in 18loh Makes Sense: The Second Dungeon Room (18 Levels of Hell)'
+alt_titles:
+- Has anyone actually tried reading 18loh? None of the reasoning in this makes any sense.
+authors:
+- name: Avarua-Longjump-Club
+  reddit: Avarua-Longjump-Club
+  id: avarua-longjump-club
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uqm0z8/has_anyone_actually_tried_reading_18loh_none_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1188
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

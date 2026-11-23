@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: natalie-s-manipulation-plan-analysis-memento
+category: doc
+title: Natalie's Manipulation Plan Analysis (Memento)
+authors:
+- name: Nexio8324
+  reddit: Nexio8324
+  id: nexio8324
+  source: reddit-post
+series:
+- memento
+characters:
+- natalie-memento
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vd38sf/natalies_manipulation_plan_analysis_memento/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 589
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 457276
+      sha256: ac384284749d5ae308868c953cac20c5962a5f40ba3aa1b45af7bff0a12c6c8e
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

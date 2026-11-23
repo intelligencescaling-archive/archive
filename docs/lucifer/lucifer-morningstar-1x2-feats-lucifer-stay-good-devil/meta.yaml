@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lucifer-morningstar-1x2-feats-lucifer-stay-good-devil
+category: doc
+title: 'Lucifer Morningstar 1x2 Feats: "Lucifer, Stay. Good Devil." (Lucifer)'
+alt_titles:
+- Lucifer Morningstar 1x2 Feats "Lucifer, stay. Good Devil"
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  id: signal-experience315
+  source: reddit-post
+series:
+- lucifer
+characters:
+- lucifer-morningstar
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xckesn/lucifer_morningstar_1x2_feats_lucifer_stay_good/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 547
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 4046738
+      sha256: 9ae15332beb3e041d8c5e7e12ff0647dd08c72d31f77f6e76bae8731c67f89f0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

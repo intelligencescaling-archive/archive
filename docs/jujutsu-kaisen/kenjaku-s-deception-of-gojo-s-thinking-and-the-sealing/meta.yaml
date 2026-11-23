@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-s-deception-of-gojo-s-thinking-and-the-sealing
+category: doc
+title: Kenjaku's Deception of Gojo's Thinking and the Sealing (Jujutsu Kaisen)
+alt_titles:
+- Kenjaku's deception on gojo 's thinking and sealing layer
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+- satoru-gojo
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w9x70g/kenjakus_deception_on_gojo_s_thinking_and_sealing/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 865
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 231148
+      sha256: bf8c98501898201b2d51187575e4117d19c3b25f9d8d3fcffe8ad97f7bf16d9f
+    - format: png
+      name: image-2.png
+      bytes: 96490
+      sha256: 8c1cab47b2f736ce7ddb7e9858b746f4cdd3d63117c61c6b4375f7f850473042
+    - format: png
+      name: image-3.png
+      bytes: 74796
+      sha256: 19c9b1bf3199499d0268ee25441624492d41c5fb1e6dede2cb42f71bff6c3342
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

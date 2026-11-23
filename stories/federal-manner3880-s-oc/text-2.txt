@@ -1,0 +1,119 @@
+||OC SCALING||
+
+*If x + y = 6, and xy = 36, x=?*
+
+Reading the numbers and letters at the top of the page, I stopped myself from frowning even though I was confused.
+
+"This is a quadratic equation. Solve it." The man said.
+
+My lips pursed. "Sir... could you tell me what that is, please?"
+
+I didn't expect to get an answer because of how he reacted last time, but, I hoped he would feel the need to since I apparently got the answer right an hour ago.
+
+But instead of answering me, he reached for the clock on the table and began fiddling with it in silence.
+
+I picked up the pencil and rubbed my finger against it. Maybe I shouldn't have asked that...
+
+"Quadratic equations consist of several terms." He started, "The term with the highest power is one where the variable is raised to the power of 2."
+
+"Solving for the variable 'x' means finding the 'roots' or 'zeros' of the equation. These roots are the values of 'x' that result in the entire expression equalling zero."
+
+To my surprise, he actually gave me some useful information instead of ignoring me like last time. It still wasn't much to go off of though, so I decided to bet on the same thing as last time.
+
+A small smile crawled up my face as I asked him, "What does the y stand for?"
+
+Instantly, he shut me down with a sudden slam of the timer. My desk shook and I flinched, almost jumping out of my seat.
+
+"You have 10 minutes." His words were as cold as his eyes.
+
+If they could talk, I'm pretty sure they'd say something like: 'We aren't friends, so don't push your luck.' Because of that, I realized it was best I didn't talk at all unless I was sure he would answer.
+
+When the man walked out of the room, I huffed and closed my eyes. Did I make a mistake going with him?
+
+...
+
+Yeah right, being in here is a lot better than out there on the street. Atleast now I'm guaranteed a full meal everyday. Plus, I've only been here for one day.
+
+If all he wants in exchange for taking care of me is for me to solve these questions then I don't see a reason not to even if I don't fully understand them, because, unlike my mother, he's actually helping me with something.
+
+I sighed. 9:55, the timer read.
+
+I should probably deal with this quickly. Even though he explained what a quadratic equation was, this is still a lot harder to wrap my head around.
+
+Anyhow, all I can do is try.
+
+If x + y = 6,
+
+And xy = 36,
+
+What is x?
+
+3 + 3 would give me 6 but 3 * 3 would give me 9 so it can't be that.
+
+It's the same way how 3 * 9 or 2 * 18 would give me 36 but 3 + 9 and 2 + 18 will give me 12 and 20.
+
+The way I see it, there shouldn't be any way to answer this question by adding and "extra adding" (multiplying) numbers so taking them away might lead to an answer.
+
+Assuming the value of the variables shouldn't change, I can't use a reducing number (subtract)
+
+Taking 3 from 9 I get 6.
+
+Extra adding the reducing number, 3, and the 9, I get 36.
+
+So it would be written something like this:
+
+x + y = 6
+9 + -3 = 6
+
+xy = 36
+9 * -3 = 36
+
+It makes sense when written like this but a few things still bug me. I don't think I've written the 'higher power' he was talking about and he also said something about solving for x would mean the roots and zeros so the expression equals zero.
+
+So while my answer does seem correct from one perspective, it's either incomplete or I used the wrong method to solve it.
+
+My eyes drifted back to the 9 and -3. I raised my pencil to continue solving the equation but frowned when I realized something.
+
+Is -3 even a number?
+
+If yes, how would xy = 36 when extra added?
+
+Shouldn't the answer be smaller since I'm taking using a reducing number?
+
+Flipping to the back of the paper, I observed the blank sheet before scribbling onto it, focused.
+
+I wrote: If counting from 1 to 100 is possible and counting from -1 to -100 is the same then the first would be adding numbers and the second would be reducing numbers.
+
+But if reducing numbers take away and adding numbers put together then when the amount taken and given should cancel out and leave 0. Meaning, 0 is the bridge between both sides so it would be written something like this; ...-3, -2, -1, 0, 1, 2, 3...
+
+Using it in the equation should mean 0 would be reached after cancelling out both the adding and reducing sides so something like this; x = ±3, makes sense.
+
+The ± stands for both the adding and the reducing 3's. But that only answers the a piece of the 'higher power' section of the equation. I think the higher power works similar to how I extra add, but instead of using different numbers to extra add, I use the same number twice. An example of it would be something like this; 6 * 6 -> 6(6) -> 6²
+
+Using that, the answer turns into this; x = 3±3
+
+The 'zero' and 'roots' the mister talked about aren't present so it's incomplete. But since they depend on each other, doing the opposite of extra add, which I'll call extra reduction, would make me end up with like this; |3
+
+So my answer would turn into something like this; x = 3±3|3
+
+If the reducing numbers aren't real, then the answer would be; x = 3±3i|3 since the 'i' would stand for imaginary number.
+
+I think this is the case because -3 is already a reducing number and 3 is an adding number, finding the root of 3 is possible because it can get smaller.
+
+Finding the root of -3 isn't because it is already a reducing number which sort of mirrors adding numbers so I would need to do the opposite to get the correct root even if I used the same method. How I see it is like this; ...3i, 2i, 1i, 0, -3, -2, -1...
+
+As you can see, these imaginary numbers aren't the same as adding numbers.
+
+I sorted it like this because 0 could pass as both an imaginary and real number since there technically shouldn't be anything to represent 'nothing'. Us using the '0' to show what it means and would need our imagination to confirm it. It isn't like 1 and -1 since we can count the losses and gains of those two.
+
+Reaching the end of the page, I flipped it over again and stared at the front.
+
+*If x + y = 6, and xy = 36, x=?*
+
+Answer: x = 3±3i|3
+
+I finished at exactly 4 minutes, 15.
+
+(The '|' stands for roots. And, as you can see, he came up with all of that with what you could barely call a hint from his guardian due to the nature of the topic/equation itself. He accurately deduces that the square root of -3 would be an imaginary number as well.
+
+The answer and actual method for solving the equation is at the top)

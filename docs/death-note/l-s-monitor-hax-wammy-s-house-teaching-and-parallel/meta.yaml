@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-s-monitor-hax-wammy-s-house-teaching-and-parallel
+category: doc
+title: L's Monitor Hax, Wammy's House Teaching and Parallel Processing Debunked (Death Note)
+alt_titles:
+- L Monitor Hax DEBUNKED Whammy's house narrative DEBUNKED Parallel Processing DEBUNKED
+authors:
+- name: MrDisintegrator
+  reddit: MrDisintegrator
+  id: mrdisintegrator
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+- nate-river
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pr7seg/l_monitor_hax_debunked_whammys_house_narrative/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1226
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+      image-3: HTTP 404
+      image-4: HTTP 404
+      image-5: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

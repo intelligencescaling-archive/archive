@@ -1,0 +1,59 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: no-this-isn-t-a-gus-antifeat-the-thomas-plan-explained
+category: doc
+title: 'No, This Isn''t a Gus Antifeat: The Thomas Plan Explained (Breaking Bad)'
+alt_titles:
+- No, this isn't a Gus antifeat (Full explanation of Thomas Plan + yes, Gus did intended to kill that kid)
+authors:
+- name: No_Elevator7607
+  reddit: No_Elevator7607
+  id: no-elevator7607
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- gus-fring
+tags:
+- analysis
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r8u2qx/no_this_isnt_a_gus_antifeat_full_explanation_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1891
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 45921
+      sha256: 2ec1c8fc3d164b891960bbb92bd39ba49fe346e2c186e334f3f241b406438bb2
+    - format: jpg
+      name: image-2.jpg
+      bytes: 57498
+      sha256: 44ce3e521f5a379f9f91aafde57f04dce6efd73077b16930a4aa6f455c1e7a8f
+    - format: jpg
+      name: image-3.jpg
+      bytes: 49416
+      sha256: 40e2227dd322ad8a0c5106868a8ae63f7812989fe89ed5f319d2dbbc11b7fa86
+    - format: jpg
+      name: image-4.jpg
+      bytes: 44322
+      sha256: 890c744a7e3aeb30a02713a6b3907c30f0d99f26a08693c3a8c549732ffed382
+    - format: jpg
+      name: image-5.jpg
+      bytes: 61802
+      sha256: f2665522fb28b9fcbee57e7442c43b76ba40dd5a73d3a98b98ed9ba692de8042
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

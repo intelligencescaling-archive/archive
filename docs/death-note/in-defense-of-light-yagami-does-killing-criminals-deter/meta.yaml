@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: in-defense-of-light-yagami-does-killing-criminals-deter
+category: doc
+title: 'In Defense of Light Yagami: Does Killing Criminals Deter Crime? (Death Note)'
+alt_titles:
+- 'In defense of Light Yagami: does killing criminals deter crime?'
+authors:
+- name: MrDisintegrator
+  reddit: MrDisintegrator
+  id: mrdisintegrator
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- rebunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ph0maf/in_defense_of_light_yagami_does_killing_criminals/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1232
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

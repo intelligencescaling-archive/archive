@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-deeper-look-at-the-mastermind-s-aq-em-and-ee-ace-attorney
+category: doc
+title: A Deeper Look at The Mastermind's AQ, EM and EE (Ace Attorney Investigations 2)
+alt_titles:
+- A deeper look at The Mastermind’s AQ, EM, and EE
+authors:
+- name: subjectively_normal
+  reddit: subjectively_normal
+  id: subjectively-normal
+  source: reddit-post
+series:
+- ace-attorney
+characters:
+- aai2-mastermind
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uh9j61/a_deeper_look_at_the_masterminds_aq_em_and_ee/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1031
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 99639
+      sha256: da601016c6fd7e0d25ee75e1e96ce1d6309aa4c5a8b2a86aa611858b352daabc
+    - format: jpg
+      name: image-2.jpg
+      bytes: 43312
+      sha256: aa8a659c2dbdc3e55e0f79e581813eeb2ecab3d87e2d91f663ba2f7212af8a90
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

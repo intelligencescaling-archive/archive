@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chrollo-s-requiem-plan-explained-hunter-x-hunter
+category: doc
+title: Chrollo's Requiem Plan Explained (Hunter x Hunter)
+alt_titles:
+- Chrollo's requiem plan explained . short analysis
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- hunter-x-hunter
+characters:
+- chrollo-lucilfer
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wjklgb/chrollos_requiem_plan_explained_short_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 878
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

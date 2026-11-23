@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-feats-of-victor-von-doom-marvel
+category: doc
+title: The Feats of Victor von Doom (Marvel)
+alt_titles:
+- THE FEATS OF "VICTOR VON DOOM" (FOR ALL OUTSMARTING CATEGORIES PRETTY MUCH)
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- marvel
+characters:
+- doctor-doom
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1waytst/the_feats_of_victor_von_doom_for_all_outsmarting/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2942
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 34744
+      sha256: 226138af36a3f77ab5b5fc14e9c29d444f86f02204753d68eb333b9c79233f8a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-s-culling-game-preparation-feat-illusion-of-choice
+category: doc
+title: 'Kenjaku''s Culling Game Preparation Feat: Illusion of Choice (Jujutsu Kaisen)'
+alt_titles:
+- Kenjaku's culling game preparation feat| illusion of choice
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xih9yw/kenjakus_culling_game_preparation_feat_illusion/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1570
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 420221
+      sha256: bf13181cc5b712d6441cb71792bdd8b428efa9e4c91367511c223be6d97b2f8c
+    - format: png
+      name: image-2.png
+      bytes: 85928
+      sha256: 39806ac289e575cfb12d9d9f1a3e24845b7181d7c54f80121e1c1f84ed2cc412
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

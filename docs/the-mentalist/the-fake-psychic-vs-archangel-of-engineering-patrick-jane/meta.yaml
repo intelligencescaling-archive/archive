@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-fake-psychic-vs-archangel-of-engineering-patrick-jane
+category: doc
+title: The Fake Psychic vs Archangel of Engineering (Patrick Jane vs Michael Scofield)
+alt_titles:
+- The Fake Psyhic vs Archangel of Engineering
+authors:
+- name: Important-Breath1297
+  reddit: Important-Breath1297
+  id: important-breath1297
+  source: reddit-post
+series:
+- the-mentalist
+- prison-break
+characters:
+- patrick-jane
+- michael-scofield
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rdr15p/the_fake_psyhic_vs_archangel_of_engineering/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 864
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 410777
+      sha256: 8ce843e021fd140a7f9f20c7f1431ffb799073242f0670a4ef0f3be99fc439c7
+    - format: jpg
+      name: image-2.jpg
+      bytes: 179735
+      sha256: 807e0a6499c688323b69eee78552f8f3fd3ecb72cd6e4baf22a1da13b8f26367
+    - format: jpg
+      name: image-3.jpg
+      bytes: 44283
+      sha256: 9d96e8de9753bf00e8ccdeeaeb9784c0b5b8338708c7e39a42ad27c95a18fdd7
+    - format: jpg
+      name: image-4.jpg
+      bytes: 339636
+      sha256: e2ad811016f74d584484eda5329afd1af04eaf74ee432daa36715ae36047506e
+    - format: jpg
+      name: image-5.jpg
+      bytes: 31996
+      sha256: 9ff273bd8805a8c80380d7a4feb0708851564a55842de6e6bc03de76c137e54b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

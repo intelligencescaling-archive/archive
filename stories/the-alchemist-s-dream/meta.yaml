@@ -1,0 +1,84 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-alchemist-s-dream
+category: story
+title: The Alchemist's Dream
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Episode 1: The Alchemist''s Wake'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uwuonc/the_alchemists_dream_pt1_revised_fanfic_of_the_sub/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2303
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 100299
+      sha256: 1c7972a0e486e6e679d19632bfa4aa15d2e1460bf8c282745b49712b05df11b3
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Episode 2: Cicada'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uyohlp/the_alchemists_dream_fanfic_of_the_sub_ep_2/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2166
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 134724
+      sha256: 7a7e53cbdc52ac2dfb951822961b4964c1f2c33ba75fa3f8d4d3d734459fc7fd
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Episode 3: Begin'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v43dc0/the_alchemists_dream_fanfic_of_the_sub_episode_3/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2954
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 155138
+      sha256: 84f78e51f3d4dbd347c9d091e8f695cf943ad08858166b53c884cb0a255be0fb
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Episode 4: Family'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vaj088/fanfic_of_the_subreddit_the_alchemists_dream_ep_4/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5094
+    files: []
+    text:
+      file: text-4.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

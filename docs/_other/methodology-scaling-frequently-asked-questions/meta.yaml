@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: methodology-scaling-frequently-asked-questions
+category: doc
+title: 'Methodology Scaling: Frequently Asked Questions'
+alt_titles:
+- Methodology Scaling Frequently Asked Questions answered.
+authors:
+- name: SatisfiedUnsatisfied
+  reddit: SatisfiedUnsatisfied
+  id: satisfiedunsatisfied
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vv9d2u/methodology_scaling_frequently_asked_questions/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1308
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

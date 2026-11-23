@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: novel-sherlock-s-reasoning-and-foresight-in-the-red-headed
+category: doc
+title: Novel Sherlock's Reasoning and Foresight in The Red-Headed League
+alt_titles:
+- Novels Sherlock's reasoning + foresight in The Red-Headed League
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wjc9mp/novels_sherlocks_reasoning_foresight_in_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1115
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 65108
+      sha256: bf3863e8d64060b578791cf63069bb606c22158f30cdc0132219465aaad3c733
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

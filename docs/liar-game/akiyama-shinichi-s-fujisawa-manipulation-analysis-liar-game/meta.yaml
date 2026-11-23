@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinichi-s-fujisawa-manipulation-analysis-liar-game
+category: doc
+title: Akiyama Shinichi's Fujisawa Manipulation Analysis (Liar Game)
+alt_titles:
+- Akiyama Shinichi Fujisawa Manipulation Analysis
+authors:
+- name: Striking-Dot-9947
+  reddit: Striking-Dot-9947
+  id: striking-dot-9947
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u8pled/akiyama_shinichi_fujisawa_manipulation_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1482
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: saying-ayanokoji-is-holding-back-is-not-a-valid-argument
+category: doc
+title: Saying Ayanokoji Is "Holding Back" Is Not a Valid Argument
+alt_titles:
+- Hot Take- Saying Ayanaokoji is "holding back" is not a valid argument
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1g8e7nj/hot_take_saying_ayanaokoji_is_holding_back_is_not/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 551
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

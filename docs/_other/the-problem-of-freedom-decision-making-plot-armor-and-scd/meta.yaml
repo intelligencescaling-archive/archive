@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-problem-of-freedom-decision-making-plot-armor-and-scd
+category: doc
+title: The Problem of Freedom/Decision Making (Plot Armor and SCD)
+alt_titles:
+- The problem of freedom/decision making
+authors:
+- name: ReverseFlash928
+  reddit: ReverseFlash928
+  id: reverseflash928
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hd4ejc/the_problem_of_freedomdecision_making/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 894
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

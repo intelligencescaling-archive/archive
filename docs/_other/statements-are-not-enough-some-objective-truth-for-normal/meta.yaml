@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: statements-are-not-enough-some-objective-truth-for-normal
+category: doc
+title: 'Statements Are Not Enough: Some Objective Truth for Normal Scalers'
+alt_titles:
+- Statements Are NOT Enough | Some Objective Truth for the Normal Scalers.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wwixr9/statements_are_not_enough_some_objective_truth/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 716
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 82006
+      sha256: d4a91b665e9eeef4af4e985369cb70e01c614d877bf5278b61648d8b1f51fd6b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

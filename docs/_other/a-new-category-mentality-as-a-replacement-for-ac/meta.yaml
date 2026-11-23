@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-new-category-mentality-as-a-replacement-for-ac
+category: doc
+title: 'A New Category: Mentality as a Replacement for AC'
+alt_titles:
+- A New category(I think this should be a replacement for AC)
+authors:
+- name: Best-Wrap-5760
+  reddit: Best-Wrap-5760
+  id: best-wrap-5760
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1iirusx/a_new_categoryi_think_this_should_be_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 772
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

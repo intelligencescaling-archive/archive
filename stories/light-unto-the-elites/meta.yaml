@@ -1,0 +1,121 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-unto-the-elites
+category: story
+title: Light Unto the Elites
+authors:
+- name: Iopt4ChikonWig
+  reddit: Iopt4ChikonWig
+  id: iopt4chikonwig
+  source: reddit-post
+series:
+- death-note
+- classroom-of-the-elite
+characters:
+- light-yagami
+- arisu-sakayanagi
+- masayoshi-hashimoto
+tags:
+- story
+- fanfiction
+language: en
+completion: unknown
+parts:
+- title: 'Chapters 0 and 1: Light Yagami''s Soliloquy and Japan''s #1 Student'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ml4id8/light_yagami_in_cote_chapters_0_and_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1180
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 123240
+      sha256: b98a95668eea8dd16df556c5163ae26c5a05cd19acd5ff080eae40d8aff3386d
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Chapter 2: The Flippant Boy and Obstinate Girl'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mm4zl4/light_unto_the_elites_cote_whatif_scenario/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 607
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 188751
+      sha256: 8a7c35e3fc1a8d95c1e39b6f0f95dae8d7a9809f5aeef0c819a0d6e6d54b4f0d
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Chapter 3: The Best of the Best'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mnrd2u/light_unto_the_elites_cote_whatif_scenario/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 972
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 123240
+      sha256: b98a95668eea8dd16df556c5163ae26c5a05cd19acd5ff080eae40d8aff3386d
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Chapter 4: A Class'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mpea2k/light_unto_the_elites_chapter_4/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 661
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 767130
+      sha256: 6a07b997e4fdb37fc567d401ff82940784004896bbc58925a8a8c5f8b9b0d2fb
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: Chapters 5-9
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mwx373/yall_i_forgot_about_the_fanfic_and_then_i_wrote/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2870
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 82700
+      sha256: 40ed75d9427e766ead38608cc87c68d0a5b3bb16b8027a559b8832c404fc1a91
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'Chapter 10: And the Ground Quaked'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n1xu7r/light_unto_the_elites_chapter_10_and_the_ground/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 641
+    files: []
+    text:
+      file: text-6.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

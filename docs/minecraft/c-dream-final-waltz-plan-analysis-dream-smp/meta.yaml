@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: c-dream-final-waltz-plan-analysis-dream-smp
+category: doc
+title: C!Dream Final Waltz Plan Analysis (Dream SMP)
+alt_titles:
+- C!Dream Final Waltz Plan Analysis
+authors:
+- name: Biggy121212
+  reddit: Biggy121212
+  id: biggy121212
+  source: reddit-post
+series:
+- minecraft
+characters:
+- dream
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qo8i5k/cdream_final_waltz_plan_analysis/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 824
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

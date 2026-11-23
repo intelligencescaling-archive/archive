@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: in-depth-analysis-of-walter-white-s-hank-heisenberg-framing
+category: doc
+title: In-Depth Analysis of Walter White's Hank = Heisenberg Framing (Breaking Bad)
+alt_titles:
+- In-Depth Analysis of Walter White's "Hank=Heisenberg Framing"
+authors:
+- name: No_Elevator7607
+  reddit: No_Elevator7607
+  id: no-elevator7607
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+- hank-schrader
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qxkvdn/indepth_analysis_of_walter_whites_hankheisenberg/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 861
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

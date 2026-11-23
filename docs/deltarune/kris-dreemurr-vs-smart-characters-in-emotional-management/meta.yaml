@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kris-dreemurr-vs-smart-characters-in-emotional-management
+category: doc
+title: Kris Dreemurr vs Smart Characters in Emotional Management and Adversity Capacity (Deltarune)
+alt_titles:
+- Kris Dreemurr vs Smart Characters in Emotional Management and Adversity Capacity
+authors:
+- name: Retentioner
+  reddit: Retentioner
+  id: retentioner
+  source: reddit-post
+series:
+- deltarune
+characters:
+- kris-dreemurr
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jdgprg/kris_dreemurr_vs_smart_characters_in_emotional/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 575
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 71291
+      sha256: 1ba5d0256cdf4524fa650a11ce91b29c4968000ce5df0ece22e27203e461839b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 71890
+      sha256: fe36efcaea072a4a1f9c13ea60218d5e00dcb8d6f2faabb7dcb2f89cb2cb363c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

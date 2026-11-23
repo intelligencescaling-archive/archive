@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: herta-feat-list-honkai-star-rail
+category: doc
+title: 'Herta Feat List (Honkai: Star Rail)'
+alt_titles:
+- Herta feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- honkai-star-rail
+characters:
+- herta-honkai-star-rail
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ovum4g/herta_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 747
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 238030
+      sha256: 470f1978b88b687ae7a6139c0596baa3ff5462c5290c508df31f12356b1f22a5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-s-stock-market-feat-is-too-ambiguous-to-scale-high-death
+category: doc
+title: L's Stock Market Feat Is Too Ambiguous to Scale High (Death Note)
+alt_titles:
+- L's stock market feat is too ambiguous to scale high
+authors:
+- name: MrDisintegrator
+  reddit: MrDisintegrator
+  id: mrdisintegrator
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1po274w/ls_stock_market_feat_is_too_ambiguous_to_scale/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 910
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

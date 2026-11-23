@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: fluixon-full-character-intelligence-analysis-sidefall
+category: doc
+title: 'Fluixon: Full Character Intelligence Analysis (Sidefall, Minecraft)'
+alt_titles:
+- Fluixon full character intelligence analysis . last post on fluixon
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- minecraft
+characters:
+- fluxion
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w6zg8q/fluixon_full_character_intelligence_analysis_last/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1526
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 193793
+      sha256: 9f0782691c89e4caab334d832a00138f398d93c95993805c93fdd10dfa1d6fe0
+    - format: png
+      name: image-2.png
+      bytes: 122215
+      sha256: 58534ffd9991308ff10f4fe2d93cb5b2e8988fa83839340ce3648ee2fab9ea09
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

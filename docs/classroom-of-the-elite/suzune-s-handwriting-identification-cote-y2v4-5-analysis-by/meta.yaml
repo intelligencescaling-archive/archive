@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-s-handwriting-identification-cote-y2v4-5-analysis-by
+category: doc
+title: Suzune's Handwriting Identification (COTE Y2V4.5), Analysis by Ganve
+alt_titles:
+- Analysis on suzune's handwritting identification from y2v4.5 by ganve
+authors:
+- name: Ganve
+  id: ganve
+  source: doc-text
+shared_by:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v68nuz/analysis_on_suzunes_handwritting_identification/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2456
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 87889
+      sha256: d3ea56652605600b7cc42b3229957e955f345c85a7bb23217596023f7c1bc9c0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

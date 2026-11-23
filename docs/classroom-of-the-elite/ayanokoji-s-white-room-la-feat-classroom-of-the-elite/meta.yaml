@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokoji-s-white-room-la-feat-classroom-of-the-elite
+category: doc
+title: Ayanokoji's White Room LA Feat (Classroom of the Elite Volume 0)
+alt_titles:
+- Vol 0 LA feat
+authors:
+- name: Celestial_Worthy_919
+  reddit: Celestial_Worthy_919
+  id: celestial-worthy-919
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qrv6fg/vol_0_la_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 683
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

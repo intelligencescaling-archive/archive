@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-ayanokoji-s-chess-feats-classroom-of-the-elite
+category: doc
+title: Analysis of Ayanokoji's Chess Feats (Classroom of the Elite)
+alt_titles:
+- Analysis of Ayanokoji's chess feats
+authors:
+- name: Equivalent-One2361
+  reddit: Equivalent-One2361
+  id: equivalent-one2361
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- arisu-sakayanagi
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n85mhh/analysis_of_ayanokojis_chess_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 670
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

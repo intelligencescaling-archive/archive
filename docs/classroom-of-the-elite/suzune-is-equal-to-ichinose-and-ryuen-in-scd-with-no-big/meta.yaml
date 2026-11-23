@@ -1,0 +1,53 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-is-equal-to-ichinose-and-ryuen-in-scd-with-no-big
+category: doc
+title: Suzune Is Equal to Ichinose and Ryuen in SCD, With No Big Gap (Classroom of the Elite)
+alt_titles:
+- Hot take,suzune Is equal tò ichinose and ryuen in scd and there Is no big gap between the 3
+authors:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+- ichinose-honami
+- ryuen-kakeru
+tags:
+- rebunk
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v72cg2/hot_takesuzune_is_equal_tò_ichinose_and_ryuen_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3427
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 100125
+      sha256: f032432d0a0643abd41dc6a8f270b0378c731694945ba9744b76935cf16ac5d2
+    - format: jpg
+      name: image-2.jpg
+      bytes: 23979
+      sha256: 2f755560b929f7526be7ebe155b397f8aea57fd62b50f46fca757681fa8b9e0b
+    - format: png
+      name: image-3.png
+      bytes: 2310972
+      sha256: 4008946a36186e0347760bfee36b9f700d5bfa4d7fed9517c4914a09ca4c6ce5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

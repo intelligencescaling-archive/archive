@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tokuchi-has-probably-the-best-eu-in-scd-better-than-pj-one
+category: doc
+title: Tokuchi Has Probably the Best EU in SCD, Better Than PJ (One Outs)
+alt_titles:
+- TOKUCHI HAS PROBABLY BEST EU IN SCD, YES. BETTER THAN PJ, WITHOUT DOUBT.  (Read)
+authors:
+- name: Glittering-Middle430
+  reddit: Glittering-Middle430
+  id: glittering-middle430
+  source: reddit-post
+series:
+- one-outs
+- the-mentalist
+characters:
+- toua-tokuchi
+- patrick-jane
+tags:
+- feats
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1re8rv5/tokuchi_has_probably_best_eu_in_scd_yes_better/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 824
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 19925
+      sha256: c9da3d00bbb0bd6afefe2efa0c31ac1c5af89501ba82680bcf9ca6960929c068
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d3rlord3-s-infinite-knowledge-feat-analysis-wifies
+category: doc
+title: D3rlord3's "Infinite Knowledge" Feat Analysis (Wifies)
+alt_titles:
+- 'D3rlord3’s “infinite knowledge” feat analysis:'
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- wifies
+characters:
+- d3rlord3
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s95kyk/d3rlord3s_infinite_knowledge_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1124
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 80437
+      sha256: d1a63a4e96c0a9e3653efd2b39450003f8902762850bdf873c26334310652ec2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

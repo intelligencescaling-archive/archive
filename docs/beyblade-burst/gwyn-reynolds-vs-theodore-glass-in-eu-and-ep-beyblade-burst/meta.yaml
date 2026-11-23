@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gwyn-reynolds-vs-theodore-glass-in-eu-and-ep-beyblade-burst
+category: doc
+title: Gwyn Reynolds vs Theodore Glass in EU and EP (Beyblade Burst)
+alt_titles:
+- Beyblade Burst Inverse [Gwyn Reynolds VS Theodore Glass]
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- beyblade-burst
+characters:
+- gwyn-reynolds
+- theodore-glass
+- free-de-la-hoya
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u9sdzp/beyblade_burst_inverse_gwyn_reynolds_vs_theodore/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1115
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 191919
+      sha256: 92bc2e09ef8f8c542dee1869b01644eed36ccc33b9d4ad3bbc23056e41453c44
+    - format: jpg
+      name: image-2.jpg
+      bytes: 75907
+      sha256: e64bdfd60b235d77e0ea589ac8289002ab237b3608d9a7fccd28a1db08379080
+    - format: jpg
+      name: image-3.jpg
+      bytes: 203631
+      sha256: d47bc18efcec9f27dae33a09169d124923591b69279b97851eff356c7f3048c8
+    - format: jpg
+      name: image-4.jpg
+      bytes: 129753
+      sha256: d288b1fb31d526526f719e003c3d7b1bb3e5c186bc22ba7679a7d0601699ab56
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

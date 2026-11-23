@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lex-luthor-superman-2025-vs-ayanokoji
+category: doc
+title: Lex Luthor (Superman 2025) vs Ayanokoji
+alt_titles:
+- NOT A RAGE BAIT
+authors:
+- name: OkEmployment2573
+  reddit: OkEmployment2573
+  id: okemployment2573
+  source: reddit-post
+series:
+- dc-comics
+- classroom-of-the-elite
+characters:
+- lex-luthor
+- kiyotaka-ayanokoji
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ma4kn4/not_a_rage_bait/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 569
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 67657
+      sha256: 0a03be537cc2d3ebd88955412f1d41ca0dfeb6ebc00fa64e83a84b49e003d21d
+    - format: jpg
+      name: image-2.jpg
+      bytes: 18358
+      sha256: 59ae34ecc879318874f5465bd7aecd96436109655a0478534de11929be30c575
+    - format: jpg
+      name: image-3.jpg
+      bytes: 52478
+      sha256: e98ce054353e348db631f1d39c3f1b1bdde306d4d3acc7f9e747a3145a921570
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,103 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-s-reasoning-feats-chapter-10-tomodachi-game
+category: doc
+title: Yuuichi's Reasoning Feats, Chapter 10 (Tomodachi Game)
+alt_titles:
+- 'Chapter 10 Yuuichi''s Reasoning feats:'
+authors:
+- name: Logical-Arachnid-066
+  reddit: Logical-Arachnid-066
+  id: logical-arachnid-066
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ry08g6/chapter_10_yuuichis_reasoning_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 590
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 483291
+      sha256: 7de02273a23632ace186b7be5c8eb8897450af6dd05eb817fcd4f01410616381
+    - format: png
+      name: image-2.png
+      bytes: 486309
+      sha256: cc085b9e99470959b1dbfce82273a71e9122ea22bc9346c4067bc3be8d9014d5
+    - format: png
+      name: image-3.png
+      bytes: 614472
+      sha256: f5155588c896e9fdef3d375bb8112862ee764e434138443709e7d39dadfb3062
+    - format: png
+      name: image-4.png
+      bytes: 514287
+      sha256: c04391acb483e1d35d00d3ca92a3765f9644f0b58046182845242eb715c4c336
+    - format: png
+      name: image-5.png
+      bytes: 498573
+      sha256: 725aaac8106a98dcb53157634a4912a9a469d8a12375a2db2bb6edda691f4527
+    - format: png
+      name: image-6.png
+      bytes: 769959
+      sha256: 707ded7b9e2731653fbe4ef94e58b1d7e49889aaf2832cf4a634cbfce55b836d
+    - format: png
+      name: image-7.png
+      bytes: 480420
+      sha256: a1c96507988aa648d410051aba23b0ce3e3b630005286b34b453ef7bd90fbd4e
+    - format: png
+      name: image-8.png
+      bytes: 521761
+      sha256: 0e07fcee31ae1953f02506da69562e3d3be935174268e9af325cbe0c36876ded
+    - format: png
+      name: image-9.png
+      bytes: 418911
+      sha256: 091c80ad7703a1ae2307402c5859d54ac54122a124118c2e472cf84cf11c64ba
+    - format: png
+      name: image-10.png
+      bytes: 445290
+      sha256: 2c359f65ad6e77bcb048a094e7859341b4ba800289eb8af3268b095528d75b36
+    - format: png
+      name: image-11.png
+      bytes: 473618
+      sha256: 23cb97e80eb3d407ed8477e718df0a052898e110b28f98359c878be485149ceb
+    - format: png
+      name: image-12.png
+      bytes: 623537
+      sha256: ba5c0433f1c89adbf63307ece48123e0c5632817a4c30b96ad5506645c4f21fb
+    - format: png
+      name: image-13.png
+      bytes: 487283
+      sha256: 702658b51b6c5ceb81ed13fc12ae962eb98b49c8ffe32d2017c437a880b94654
+    - format: png
+      name: image-14.png
+      bytes: 662947
+      sha256: 8956050f8650ac8cc4a4d22db44940d41092d97f56a78df445a6e5c23d7436a7
+    - format: png
+      name: image-15.png
+      bytes: 479331
+      sha256: af488179ac12fad4a0b09e4243d9006192a99bb939bdfaa5626679cb4faf94b6
+    - format: png
+      name: image-16.png
+      bytes: 482479
+      sha256: b82a87113cfe475bf96b9fae217e82eca1d9fede25dc62029a98a3a3ee48e011
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

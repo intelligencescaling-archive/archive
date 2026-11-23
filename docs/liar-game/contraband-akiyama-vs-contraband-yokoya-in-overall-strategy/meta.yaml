@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: contraband-akiyama-vs-contraband-yokoya-in-overall-strategy
+category: doc
+title: Contraband Akiyama vs Contraband Yokoya in Overall Strategy (Liar Game)
+alt_titles:
+- Contraband akiyama vs Contraband Yokoya in overall strategy
+authors:
+- name: Plastic-Switch8335
+  reddit: Plastic-Switch8335
+  id: plastic-switch8335
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uw2xfo/contraband_akiyama_vs_contraband_yokoya_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 826
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: oliver-brandt-s-feats-columbo
+category: doc
+title: Oliver Brandt's Feats (Columbo)
+alt_titles:
+- Interesting take in light of recent events
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- columbo
+characters:
+- oliver-brandt
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pt5sd2/interesting_take_in_light_of_recent_events/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 657
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 241182
+      sha256: 68d871203b25a870c7b3923163d9fad62f91f4a4b6b042c37e740886480acb3f
+    - format: png
+      name: image-2.png
+      bytes: 6867
+      sha256: c5b9346ee3e53dba30208170e4fa24c492c71aed5b720f3b7c1928771daac218
+    - format: png
+      name: image-3.png
+      bytes: 156264
+      sha256: 239134f7444a06a9aed9b4bb65b4997b527439f74cf706131421b8d22ca2653d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysing-scd-part-1-cw-barry-allen-the-flash
+category: doc
+title: 'Analysing SCD Part 1: CW Barry Allen (The Flash)'
+alt_titles:
+- 'Analysing SCD Part 1: CW Barry Allen'
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- barry-allen
+variant: CW
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lx9md1/analysing_scd_part_1_cw_barry_allen/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 580
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 18314
+      sha256: 2d3ba0ef9e488793c116386b55d76713da79c19745f9e2ce207b4ed327719513
+    - format: jpg
+      name: image-2.jpg
+      bytes: 23392
+      sha256: 63b072d61d7ba6fe93bfadf1573d1f2964e1cc98492eb89cfed31810df7648fd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

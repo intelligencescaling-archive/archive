@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dio-lost-his-final-fight-not-because-of-confidence-but
+category: doc
+title: DIO Lost His Final Fight Not Because of Confidence, but Because of Cautiousness (JoJo's Bizarre Adventure)
+alt_titles:
+- DIO Lost His Final Fight. Not Because Of Confidence, But Because Of Cautiousness.
+authors:
+- name: LiteralWhiteTrash
+  reddit: LiteralWhiteTrash
+  id: literalwhitetrash
+  source: reddit-post
+series:
+- jojo-s-bizarre-adventure
+characters:
+- dio
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u8m9e1/dio_lost_his_final_fight_not_because_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1384
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 49076
+      sha256: 1a02e5fed85ed2f2581f23f19b6591bc83896b9644072cf08d518543f8aa602d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

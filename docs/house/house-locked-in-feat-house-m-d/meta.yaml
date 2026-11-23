@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: house-locked-in-feat-house-m-d
+category: doc
+title: House Locked In Feat (House M.D.)
+alt_titles:
+- House Locked In Feat
+authors:
+- name: LosuthusWasTaken
+  reddit: LosuthusWasTaken
+  id: losuthuswastaken
+  source: reddit-post
+series:
+- house
+characters:
+- gregory-house
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s4on3m/house_locked_in_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 999
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

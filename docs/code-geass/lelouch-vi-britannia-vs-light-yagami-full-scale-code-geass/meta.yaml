@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: lelouch-vi-britannia-vs-light-yagami-full-scale-code-geass
+category: doc
+title: Lelouch vi Britannia vs Light Yagami Full Scale (Code Geass vs Death Note)
+alt_titles:
+- Lelouch Vi Britannia vs Light Yagami (full-scale with mild explainations)
+authors:
+- name: Striking-Dot-9947
+  reddit: Striking-Dot-9947
+  id: striking-dot-9947
+  source: reddit-post
+series:
+- code-geass
+- death-note
+characters:
+- lelouch-vi-britannia
+- light-yagami
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u8gspz/lelouch_vi_britannia_vs_light_yagami_fullscale/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5072
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+      image-2: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ravages-of-time-military-tactics-and-war-explained-cao-cao
+category: doc
+title: 'Ravages of Time: Military Tactics and War Explained (Cao Cao''s Xuzhou Campaign)'
+alt_titles:
+- Ravages of time-explanation of military Tactics and war
+authors:
+- name: Hour-Reach7418
+  reddit: Hour-Reach7418
+  id: hour-reach7418
+  source: reddit-post
+series:
+- ravages-of-time
+characters:
+- guo-jia
+- sima-yi
+- zhuge-liang-ravages-of-time
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p93aam/ravages_of_timeexplanation_of_military_tactics/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1716
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 277870
+      sha256: 4ab91f6352700bd362d60e0082145a660181f9b82184de9313f844e094b963c0
+    - format: jpg
+      name: image-2.jpg
+      bytes: 119552
+      sha256: 50e76ec23e11285fcb9e562937a8e174d96785ecfc39d354c1c655ed7c42c9d6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-s-stock-market-feat-is-invalid-debunked-death-note
+category: doc
+title: '"L''s Stock Market Feat Is Invalid" Debunked (Death Note)'
+alt_titles:
+- '"L''s Stock Market Feat is invalid" DEBUNKED'
+authors:
+- name: OnlyEinz
+  reddit: OnlyEinz
+  id: onlyeinz
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- rebunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1msm06k/ls_stock_market_feat_is_invalid_debunked/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3330
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 301909
+      sha256: 5a6c7b8c6cbfff27a10df26161402fcaea770bca91fbaeb36f5ce57d76b96243
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

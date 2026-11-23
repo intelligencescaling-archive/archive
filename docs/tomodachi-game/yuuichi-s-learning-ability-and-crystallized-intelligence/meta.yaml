@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: yuuichi-s-learning-ability-and-crystallized-intelligence
+category: doc
+title: Yuuichi's Learning Ability and Crystallized Intelligence (Tomodachi Game)
+alt_titles:
+- YUUICHI'S LEARNING ABILITY AND CRYSTALLIZED INTELIGENCE
+authors:
+- name: a_xakimv
+  reddit: a_xakimv
+  id: a-xakimv
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xbkpea/yuuichis_learning_ability_and_crystallized/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 933
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 170987
+      sha256: 657d157c8e625033c823db1daa2ad4d6a4e4f65136e2c8ddc2344ae653c8c602
+    - format: png
+      name: image-2.png
+      bytes: 342373
+      sha256: 2e825aecbd41266d57613453148b81824b125ed0eeeb23a3fe6e7815070add30
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: saul-goodman-s-chicanery-strategy-better-call-saul
+category: doc
+title: Saul Goodman's Chicanery Strategy (Better Call Saul)
+alt_titles:
+- Saul Goodman’s Chicanery strategy (ANALYSIS)
+authors:
+- name: FluffyTaste4061
+  reddit: FluffyTaste4061
+  id: fluffytaste4061
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- jimmy-mcgill
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rbc14g/saul_goodmans_chicanery_strategy_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1524
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-werewolf-game-layout
+category: story
+title: The Werewolf Game Layout
+alt_titles:
+- Wrote a Werewolf Game Layout DOC what do y'all think?
+authors:
+- name: Maker-78
+  reddit: Maker-78
+  id: maker-78
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vrpu8m/wrote_a_werewolf_game_layout_doc_what_do_yall/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5996
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 124824
+      sha256: dff15cc48c37b79ce5123eab3fcddbaed62e703e88b08198037fd24dbd970f13
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

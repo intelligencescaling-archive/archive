@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: comp-human-is-above-any-realistic-character-by-definition
+category: doc
+title: '"Comp Human Is Above Any Realistic Character by Definition" Debunked (Liar Game)'
+alt_titles:
+- '"Comp Human is above any realistic character by definition" DEBUNKED (Liar Game spoilers)'
+authors:
+- name: Maze_Master420
+  reddit: Maze_Master420
+  id: maze-master420
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+tags:
+- debunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1moovad/comp_human_is_above_any_realistic_character_by/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 657
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

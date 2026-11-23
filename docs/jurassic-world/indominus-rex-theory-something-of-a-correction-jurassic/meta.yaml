@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: indominus-rex-theory-something-of-a-correction-jurassic
+category: doc
+title: Indominus Rex Theory (Something of a Correction) (Jurassic World)
+alt_titles:
+- Indominous Rex THEORY (Something of a Correction)
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- jurassic-world
+characters:
+- indominus-rex
+tags:
+- debunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rb62et/indominous_rex_theory_something_of_a_correction/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1354
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 93855
+      sha256: 64e0abb0fa200990cb1b9d0e32b3e4f828bc6ae0f9e5e00c21739d4df0e23e6c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

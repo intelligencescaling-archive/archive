@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tarot-game-number-bomb-mistranslation-or-optimal-strategy
+category: doc
+title: 'Tarot Game Number Bomb: Mistranslation or Optimal Strategy? (God''s Imitation)'
+alt_titles:
+- Mistranslation or possible optimal strategy in Tarot Game (God's Imitation)
+authors:
+- name: Grey_500
+  reddit: Grey_500
+  id: grey-500
+  source: reddit-post
+series:
+- god-s-imitation
+characters:
+- lin-sizhi
+- cai-zhiyuan
+tags:
+- analysis
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vjps60/mistranslation_or_possible_optimal_strategy_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 669
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

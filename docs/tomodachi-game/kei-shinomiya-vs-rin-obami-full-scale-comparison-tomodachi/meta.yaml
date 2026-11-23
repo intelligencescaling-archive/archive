@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kei-shinomiya-vs-rin-obami-full-scale-comparison-tomodachi
+category: doc
+title: 'Kei Shinomiya vs Rin Obami: Full-Scale Comparison (Tomodachi Game vs Kakegurui)'
+alt_titles:
+- Kei Shinomiya vs Rin Obami -
+authors:
+- name: Amazing-Champion-615
+  reddit: Amazing-Champion-615
+  id: amazing-champion-615
+  source: reddit-post
+series:
+- tomodachi-game
+- kakegurui
+characters:
+- kei-shinomiya
+- rin-obami
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wfg62n/kei_shinomiya_vs_rin_obami/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2431
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2324283
+      sha256: a28df29a6905054ed1ce66d2126c92c4aea0ebf84270185a7bbda6fabdbacda6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

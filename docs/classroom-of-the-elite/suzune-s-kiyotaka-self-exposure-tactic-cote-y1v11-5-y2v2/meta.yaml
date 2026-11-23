@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-s-kiyotaka-self-exposure-tactic-cote-y1v11-5-y2v2
+category: doc
+title: Suzune's Kiyotaka Self-Exposure Tactic (COTE Y1V11.5, Y2V2), Analysis by Ganve
+alt_titles:
+- Analysis on suzune's kiyotaka self exposure tactic by ganve(y1v11.5,y2v2)
+authors:
+- name: Ganve
+  id: ganve
+  source: doc-text
+shared_by:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+- kiyotaka-ayanokoji
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vcmvwf/analysis_on_suzunes_kiyotaka_self_exposure_tactic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2780
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 84149
+      sha256: 4358acb7227164e7174c68aec3efc2988ac7225ecff456ba8861b1056551b688
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

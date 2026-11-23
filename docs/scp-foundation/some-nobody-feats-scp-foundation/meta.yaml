@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-nobody-feats-scp-foundation
+category: doc
+title: Some Nobody Feats (SCP Foundation)
+alt_titles:
+- Some Nobody Feats
+authors:
+- name: Darthren132
+  reddit: Darthren132
+  id: darthren132
+  source: reddit-post
+series:
+- scp-foundation
+characters:
+- nobody
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ipb3i5/some_nobody_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 794
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

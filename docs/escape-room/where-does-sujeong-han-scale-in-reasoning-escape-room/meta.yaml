@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: where-does-sujeong-han-scale-in-reasoning-escape-room
+category: doc
+title: Where Does Sujeong Han Scale in Reasoning (Escape Room)
+alt_titles:
+- Where does Sujeong Han scale in Reasoning
+authors:
+- name: Kitchen_Coyote7942
+  reddit: Kitchen_Coyote7942
+  id: kitchencoyote
+  source: reddit-post
+series:
+- escape-room
+characters:
+- sujeong-han
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1n9yxdg/where_does_sujeong_han_scale_in_reasoning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 909
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 177967
+      sha256: 8b70e70328faf081b25ba8cb3c89e2621ff42e695e713b9d7fea8b5fd7804d99
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

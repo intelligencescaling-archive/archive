@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: harry-houdini-s-chinese-water-torture-cell-feat
+category: doc
+title: Harry Houdini's Chinese Water Torture Cell Feat
+alt_titles:
+- Harry Houdini CWTC feat
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- history
+characters:
+- harry-houdini
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q45cnt/harry_houdini_cwtc_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 573
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 275957
+      sha256: f336949c02e47fb28fa0587fb0db6bff221fd6465933cd345ea4d483cba194ac
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

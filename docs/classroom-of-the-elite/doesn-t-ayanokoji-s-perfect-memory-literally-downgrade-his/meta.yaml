@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: doesn-t-ayanokoji-s-perfect-memory-literally-downgrade-his
+category: doc
+title: Doesn't Ayanokoji's Perfect Memory Literally Downgrade His Adversity Capacity? (Classroom of the Elite)
+alt_titles:
+- Doesn't Ayanokoji's Perfect Memory LITERALLY downgrade his Adversity Capacity?
+authors:
+- name: Prestigious-Shoe-352
+  reddit: Prestigious-Shoe-352
+  id: prestigious-shoe-352
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k7cjhi/doesnt_ayanokojis_perfect_memory_literally/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1047
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 251502
+      sha256: 5ee44788082832e786c1fc2cac8e2840ef46611c6261ba22eed90f4118b07611
+    - format: png
+      name: image-2.png
+      bytes: 80900
+      sha256: d5142a857206590a38f9281468a3589e436e1a9b76b14b610624555b11a57827
+    - format: png
+      name: image-3.png
+      bytes: 31842
+      sha256: 589744faa4f65fd94b2536571c001c927e372cf2cf3d3a11722fec73cc21328b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

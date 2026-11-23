@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-shinichi-is-underrated-in-adversity-capacity-liar
+category: doc
+title: Akiyama Shinichi Is Underrated in Adversity Capacity (Liar Game)
+alt_titles:
+- Akiyama shinichi is underrated in adversity capacity
+authors:
+- name: Lumpy_Wishbone1760
+  reddit: Lumpy_Wishbone1760
+  id: lumpy-wishbone1760
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ppvo8x/akiyama_shinichi_is_underrated_in_adversity/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 528
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 60935
+      sha256: 0389d4be0f74c3008320ea8f2d55affc24d4bbbbbfe4fe8cb049c67080a9f0e8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

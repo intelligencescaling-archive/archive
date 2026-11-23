@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: liar-game-infiltration-akiyama-s-hidden-strategy-liar-game
+category: doc
+title: 'Liar Game Infiltration: Akiyama''s Hidden Strategy (Liar Game)'
+alt_titles:
+- Liar game infiltration
+authors:
+- name: Due_Turnover1421
+  reddit: Due_Turnover1421
+  id: due-turnover1421
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t31kle/liar_game_infiltration/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1508
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 176842
+      sha256: 7ea9afeea801ad3e1c8e756ddbd45edbd3ac124d64e16edff4cec394f8d2b694
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,151 @@
+[SCD as Self-improvement #1] Reasoning and Intuition: Distillation
+
+# Preamble
+
+**Reasoning**
+
+Reasoning is extremely critical IRL, and incidentally also one of the most important categories for an SCD character to have. It is critical to making good decisions, remaining objective, assessing risk, being adaptable, and reaching sound conclusions.
+
+We use reasoning every day IRL. IRL, “Reasoning” is technically a subset of “Thinking”, though in SCD they’re treated as separate categories. I’ll define reasoning broadly here: “Reasoning is the process that takes you from observations to conclusions.” Illogical and incoherent reasoning is still reasoning, but it’ll probably lead you to the wrong conclusions even with the correct observations. Hence, it’s obvious why you’d want to improve your reasoning.
+
+**Intuition**
+
+Often thought of as contradictory to reasoning, it’s actually extremely useful in strengthening your reasoning ability.
+
+Just like how top chess players often get a sense for what the best move is (intuition) before they calculate moves and justify it (reasoning), you can use your intuition to first direct your focus, and use reasoning to evaluate that hunch.
+
+Hence, I suggest that, realistically, reasoning and intuition go hand in hand, despite the common sentiment that they are opposites.
+
+# Breakdown
+
+**L Lawliet; Distillation**
+
+Distillation: The skill of extracting the essential, actionable information from a mass of complex or chaotic data.
+
+In other words, you selectively focus on a small subset of data out of a larger set of data, filtering down to just the few variables that actually matter.
+
+This is crucial to “reduce the noise”—essentially limiting the frame of reference and allowing you to make accurate and informed deductions.
+
+A trade-off is observed:
+
+\- ignore too little and you’re overloaded with noise
+
+\- ignore too much and you miss important points and the larger picture, failing to conclude on what’s important.
+
+L Lawliet does not necessarily see more, he’s better at ignoring.
+
+**Best L feat for distillation**
+
+When L first learns of the Kira case, he is faced with a massive data pool.
+
+Criminals from all over the world die of heart attacks. It is a global phenomenon. With no lead on the culprit, there is a suspect pool in the billions.
+
+Here, L could have gone down many dead-ends:
+
+1. He could have researched each and every victim, analysing their past, trying to find a similarity, maybe a common gang association.
+
+2. He could study the crime scenes, looking for physical traces, perhaps speculating on the technology that could have killed people remotely.
+
+3. He could have done tests on the prison food, seeing if they were the cause.
+
+Instead, L narrows down the truly useful pieces of information and analyses them. He focuses on just these two aspects of the case:
+
+1. Who was the first criminal recently to die of a heart attack?
+
+ANSWER: A suspect in Shinjuku, Kuro Otoharada, Light’s first kill using the Death Note. He died while holding people hostage. The crime was only broadcasted in Japan.
+
+2. What are general trends seen in the victims?
+
+ANSWER: All guilty, died in prison and legally convicted of very heinous crimes. Murderers, rapists and terrorists were all killed.
+
+Next, his reasoning chain is like this:
+
+FIRST SET
+
+OBSERVATION 1: Otoharada’s crime was far less serious than that of other criminals’ who recently died of heart attacks. Moreover, Otoharada was not even in jail and convicted yet like the other victims. He died of a heart attack while in the midst of a crime.
+
+REASONING 1: Otoharada’s death stands out → Kira had not yet settled into his current modus operandi of killing severe convicted criminals → (correct abduction) it was just an experiment, for Kira to see if he could kill.
+
+CONCLUSION 1: Otoharada was an experiment for Kira.
+
+SECOND SET
+
+OBSERVATION 2: Otoharada is the first of the recent string of criminals dying of heart attacks.
+
+REASONING 2: if Otoharada was killed by Kira as an experiment, he would be Kira’s first kill.
+
+CONCLUSION 2: Otoharada was Kira’s first kill. Kira has not been killing for long.
+
+THIRD SET
+
+OBSERVATION 3: The Otoharada hostage situation was only broadcasted in Japan.
+
+REASONING 3: Kira had to have seen the broadcast to kill Otoharada.
+
+CONCLUSION 3: Kira is in Japan.
+
+ALL FINAL CONCLUSIONS
+
+Kira is in Japan.
+
+Kira has not been killing for long.
+
+With this and Kira profiling, L sets up the Lind L Taylor trap.
+
+**Analysis**
+
+As we can see, it would be impossible to reach those conclusions if he did not narrow the scope of focus down to just two points of analysis. Hence I hope it is clear the paramount importance of distillation in choosing observations and starting your process of reasoning.
+
+In canon, L likely decided to focus on those two points out of the ocean of data purely based on intuition. Intuition and distillation go hand in hand.
+
+The example also shows us the difficulty in distillation. While L is guided by intuition, a normal person would drown in the waves of data to analyse. What L managed to do was prioritise the two most important points. We will explore how to do this practically for those without god-like intuition in the next section.
+
+# Practical methods for distillation
+
+I have designed these methods to be
+
+Non-contradictory and complimentary, allowing you to stack them as necessary
+
+Useful both for training the distillation process
+
+And for solving actual problems you’re facing
+
+**1. Rule of 3 variables**
+
+When facing an overwhelmingly complex problem, FORCE yourself to limit your scope to 3 variables that you think matter most.
+
+If you can’t decide what’s most important to think of, pick three at random.
+
+Here’s how you’d do it:
+
+Write all the variables you can think of that are in play.
+
+Choose the three most important ones, or choose three at random.
+
+Reason from those three, trying to draw sound conclusions
+
+If the conclusion is unsatisfactory, repeat the process from step 2, choosing three new variables.
+
+**2. Look for extremities**
+
+For example, L chooses to look at the very first criminal to die. Out of a data set, look for the most and the least of something: the first and the last, the oldest and youngest, the strongest and weakest.
+
+L might have been able to notice Otoharada’s special case if he looked for the most heinous criminal killed and the least severe one. Extremities can also be useful in comparing it to the baseline trend: L had arrived at his conclusion that Otoharada was an experiment by speculating on why he deviated from the norm so much.
+
+**3. Filter by necessity first**
+
+Ask yourself, what must be true, no matter anything else?
+
+In the case of L’s example, it is that the deaths are not random. This is the single point L is most certain of. If the deaths are not random, then there must be a selection criteria for the criminals. That draws L’s attention to the trend of the types of criminals being killed, where he notices Otoharada’s special case.
+
+**4. Tuck your knees in to your body, hunch your back and eat only sweets**
+
+Increases deductive reasoning powers by 40%
+
+# Practise questions
+
+I’ve attached some IQ test questions (from a job search, of all things) that require some distillation. Answer in the comments (I know the correct answer and the logic to reach it).
+
+Please give feedback. What do you think about this kind of post? I plan on making more posts about Reasoning and other areas to improve to within Reasoning (knowledge base, decomposition).
+
+Also feel free to comment other methods of improving distillation and reasoning in general if you know any.

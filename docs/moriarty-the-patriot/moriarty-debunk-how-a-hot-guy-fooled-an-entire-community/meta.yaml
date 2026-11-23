@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: moriarty-debunk-how-a-hot-guy-fooled-an-entire-community
+category: doc
+title: 'Moriarty Debunk: How a Hot Guy Fooled an Entire Community With His Aura (Moriarty the Patriot)'
+alt_titles:
+- MORIARTY DEBUNK OR HOW A HOT GUY FOOLED AN ENTIRE COMMUNITY FOR YEARS BY HIS AURA
+authors:
+- name: Antique-Contract-315
+  reddit: Antique-Contract-315
+  id: antique-contract-315
+  source: reddit-post
+series:
+- moriarty-the-patriot
+characters:
+- william-james-moriarty
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xjiena/moriarty_debunk_or_how_a_hot_guy_fooled_an_entire/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2130
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 154299
+      sha256: 8e8d07344bf3dafb0d8e533b157e78150aa139a37e8c7839e6ca841bd40235a6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

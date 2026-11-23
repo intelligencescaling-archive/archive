@@ -1,0 +1,120 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: faces-of-fate-cycle-one
+category: story
+title: 'Faces of Fate: Cycle One (The Musician Called Fate)'
+authors:
+- name: DeletinRedditsoon
+  reddit: DeletinRedditsoon
+  id: deletinredditsoon
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Part 1: The Lunatic Nobody'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1knq7yn/fanfic_of_the_sub_faces_of_fate_the_lunatic_nobody/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1006
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 257660
+      sha256: b292e0cd20ec832835792c06c69b574a946a291154220e8a6ad09c09b7cc3039
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: Summoning Problems, Introduction to the Blessing Market'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kq20g3/fanfic_of_the_sub_faces_of_fate_summoning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1093
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 257660
+      sha256: b292e0cd20ec832835792c06c69b574a946a291154220e8a6ad09c09b7cc3039
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Part 3: New Arrivals'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kvijvh/fanfic_of_the_sub_faces_of_fate_pt_4_or_3_also/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1187
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 165650
+      sha256: 005be39c1e5f3c2b258e75e49355577515da94eda5089552cb5917d3a8548bc2
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Part 4: Showtime, Miracles, the Third Lunatic Appears'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kx6unb/fanfic_of_the_sub_faces_of_fate_pt_5_showtime/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 933
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 214402
+      sha256: 222a5b1623634a08669fa6093cac8038b4b66e681bffca867a9a5adb933df7f5
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'Part 5: The Miracle Begins'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kxnk8i/fanfic_of_the_sub_pt_6_the_miracle_begins/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 959
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 78351
+      sha256: e668b5e5edb36061fd9d95c97b6f19d5ec8b1fd32ca62680c064f69a375c3f62
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'Part 6: The Miracle Lifts Off (Finale)'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ky19uz/fanfic_of_the_sub_faces_of_fate_cycle_one_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1491
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 205889
+      sha256: f3a4fc18f1d60d095b03a5db37a99ffa6c478a2d63f5a897482e5678c44d7180
+    text:
+      file: text-6.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

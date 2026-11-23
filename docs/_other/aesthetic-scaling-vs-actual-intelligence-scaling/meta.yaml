@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: aesthetic-scaling-vs-actual-intelligence-scaling
+category: doc
+title: Aesthetic Scaling vs Actual Intelligence Scaling
+authors:
+- name: berl8989
+  id: berl8989
+  source: doc-text
+shared_by:
+- name: AsideOk1035
+  reddit: AsideOk1035
+  id: asideok1035
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oroqai/aesthetic_scaling_vs_actual_intelligence_scaling/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 3176
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

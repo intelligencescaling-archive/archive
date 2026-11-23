@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: about-akiyama-s-scaling-liar-game
+category: doc
+title: About Akiyama's Scaling (Liar Game)
+alt_titles:
+- About Akiyama's Scaling
+authors:
+- name: lawligh0
+  reddit: lawligh0
+  id: lawligh0
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xw68ba/about_akiyamas_scaling/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1108
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 132976
+      sha256: 52acd53441c847caf6eb48c44dfc4196b44958537be19e9b87e536d43c0f825c
+    - format: jpg
+      name: image-2.jpg
+      bytes: 58300
+      sha256: 6ebf1485e940201adfb7274ef591e7c37bfdba6cbab2b819827c06903c0ee2bf
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: l-s-long-term-strategy-was-actually-pretty-bad-death-note
+category: doc
+title: L's Long-Term Strategy Was Actually Pretty Bad (Death Note)
+alt_titles:
+- L's long term strategy was actually pretty bad
+authors:
+- name: Intelligent_Dog7943
+  reddit: Intelligent_Dog7943
+  id: intelligent-dog7943
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+- light-yagami
+tags:
+- analysis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mujd74/ls_long_term_strategy_was_actually_pretty_bad/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 816
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 21852
+      sha256: 4a8cb69bca2be3f6c6f7a84d8d38aef5706a251212fc55055e80abb9147a3e1d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

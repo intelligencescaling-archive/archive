@@ -1,0 +1,72 @@
+Satoshi's Emperor's Vessel Strategy (from Kei and Satoshi)
+
+**CONTEXT:**
+
+**The context of this strategy is basically just a set of fixed rules for a game.(page 66 is where this arc starts btw so I'd recommend just skimming through it to get a basic picture)**
+
+**Satoshi's opponent for this game is Kuromine, a strategic revolutionist who had the power of \******supposed*****\* mind control. The mind control (called Sei) only worked if the person was making direct eye contact with Kuromine, so the referees had special lenses called anti-Sei contact lenses. Also, the mind control had a limit of about 30 uses.**
+
+**Anyways, now for a summary of the game rules (by ChatGPT because there is no way I'm spending that much time summarising the rules):**
+
+**The Emperor's Vessel is a high-stakes gamble between Satoshi and Kuromine aboard the** ***SS Vandal*****, a luxury cruise ship carrying 1,000 neutral civilian passengers. The goal is to enter a three-digit code into a command terminal located on the ship's bridge, known as the "Throne Room." Each player receives only two attempts, and the first player to enter the correct code wins. If a player uses both attempts unsuccessfully, they automatically lose. The only other way to win is if the opposing player dies. The voyage lasts 28 days, and if neither player succeeds before the ship returns to port, both lose.**
+
+**The code is split into three parts. Kuromine begins with the first digit, Satoshi begins with the second digit, and the third digit is hidden behind a special system involving ten passengers known as the Apostles. These Apostles secretly wear identifying wristbands, while both players possess Master Wristbands. By finding an Apostle and touching their wristband with the Master Wristband, a player records that Apostle. After registering all ten Apostles, the Master Wristband reveals the final digit of the code. To win, each player must therefore discover the opponent's digit and uncover the Apostle digit.**
+
+**The game places very few restrictions on how players may compete against each other. Deception, manipulation, coercion, and even violence against the opposing player are permitted. However, harming civilians, tampering with the terminal, or otherwise breaking the stated rules results in immediate disqualification. Players may also request special side games through assistant referees in an attempt to obtain information from their opponent.**
+
+**Before boarding, each player must choose one of five shipboard roles: Nurse, Technician, Camera Watcher, Security Guard, or Rich Guest. Each role grants unique advantages and access privileges while imposing significant limitations. Nurses gain trusted access to passengers and medical records, Technicians control maintenance systems, Camera Watchers can monitor the entire ship through surveillance, Security Guards have authority and mobility, and Rich Guests enjoy wealth, influence, and access to VIP areas. Players must continue performing the basic duties of their chosen role throughout the voyage, and repeated neglect of those duties can lead to disqualification.**
+
+THE STRATEGY:
+
+To begin, Satoshi chose the Technician role, which allowed him to control maintenance systems and   cause 1 blackout + allowed him to enter locked doors. This would become the main deciding factor of his strategy. The rest could be imo summarised into two stages:
+
+1. Setting the foundations for the trap and neutralising the Sei
+2. The actual trap to attain the code from Kuromine
+
+STAGE ONE: SETTING THE FOUNDATIONS
+
+So first, Satoshi memorises the entire ship layout (10 decks) and chooses to stay in a storage room in deck one. This move basically prevents immediate risk from Kuromine immdiately finding out where he is located (since he can use the Sei on the staff and find out his room number and enter his room to ambush him). He then prepares enough food to last him days without needing to exit the locked room.
+
+Satoshi proceeds to enter the medical bay on the pretext of checking up on an injury, distracts the nurse there, and steals a sedation needle from the medical bay.
+
+Now that he has everything he needs, he uses up his 1 time blackout, sedates a referee in the dark (this opportunity also means he is immune from Kuromine), and steals his anti-Sei contact.
+
+*Prior to this, he already received information that the referees would be wearing anti-Sei lenses to be immune from Kuromine.*
+
+Of course, the lenses would have to be returned to the referee if he merely stole them, since it was required for the referees to wear them. Satoshi counteres this rule by switching the anti-Sei lenses with identical lenses he had prepared beforehand, so that the referees would think they still had their own anti-Sei lenses on and would not force Satoshi to return the real anti-Sei lenses.
+
+*During this entire time, Kuromine was building up his network of technicians with his Sei, so he could completely corner Satoshi eventually. At the same time, this also meant that Kuromine was the only one that was able to freely move around the ship to find the number required for the code.*
+
+Satoshi knew this; his entire strategy from the start was to retreat into an unreachable corner and let Kuromine do the work, while building up personal immunity from the Sei for himself. Satoshi also set up a contigency here; if his later confrontation with Kuromine didn't work out as well as he hoped, he had bugged Kuromine's room + belongings beforehand to try and hear if Kuromine would inadvertently let slip the number required for the code.
+
+*Kuromine predicted this would happen, however and countered it by completely changed his clothes and listening to the number outside of his room to prevent Satoshi from listening.*
+
+*By now, Kuromine only needs one more number to complete the code: Satoshi's number.* Satoshi knows this and so acts like he's cornered and tries to escape but lets himself be captured by Kuromine's henchmen. The diWhenrect confrontation happens now.
+
+STAGE TWO: THE TRAP AND BLUFF TO GET THE NUMBERS FROM KUROMINE
+
+*When Kuromine meets Satoshi directly, he threatens to kill him in order to extract the last number from him.*
+
+Satoshi already planned for this to happen, so he goes along with it and lies, saying his number is 5.
+
+*Kuromine obviously doesn't trust him, so to be sure, he uses his Sei on Satoshi, who answers 5 again. Now Kuromine knows the last number is 5. (This is still a lie, because Satoshi has the anti-Sei lenses. Kuromine doesn't know this though, and Satoshi further strengthens the illusion by saying 'Your Majesty', something he would never say unless he was influenced by something)*
+
+Kuromine then takes Satoshi (since Kuromine believes Satoshi is under his control and is harmless) and a few bodyguards as insurance to the control panel, where the code was to be put in and inputs the number in, but before he can press enter, Satoshi tases him from behind.
+
+Kuromine aims his gun at Satoshi, fully intending to kill him now, but Satoshi had already prepared for that. In fact, during the entire time he was hiding in the storage room, he had prepared a device that would lead to an explosion if he died.
+
+Kuromine calls this a bluff and continues to threaten him, but Satoshi assures him it isn't (it actually is). This leads Satoshi to convincing Kuromine to go down with hime and the referee to check if there actually is a bomb hidden in deck 1.
+
+This was the trap Satoshi had been waiting for, since Satoshi had already rigged the entire "hidden bomb room" with propane (actually, it's ethyl mercaptan, which smells exactly like propane but isn't flammable). He (Satoshi) quickly uses his keycard to lock him and Kuromine in the room, so they are completely alone. Satoshi then warns him that if the gun is fired, the propane (fake but Kuromine doesn't know) will light up, burning both of them to death.
+
+It all came down to a physical fist fight after this. Satoshi was already very proficient in hand-to-hand combat, so he easily subdued Kuromine, chained him to the railing to prevent Kuromine from interfering with him while he inputted the three numbers (which were 717; he had already known what the other two numbers other than his own were when Kuromine tested them).
+
+Satoshi was then declared the winner, but Kuromine, still in possession of a gun and his Sei-controlled technician army, escaped, used the gun to his advantage and shot Satoshi, who had already worn bulletproof clothing as insurance against this.
+
+So yeah, this is the most impressive scheming feat from all the OCs so far. Satoshi (from Kei and Satoshi) is definitely a mid tier and this scheme showcases:
+
+indirect manipulation, direct manipulation, concealment, misdirection, VSI (visualising the ship's decks), AC in general, social skills + charisma (charming the nurse earlier), contingencies, and a bunch of stuff I won't bother typing here.
+
+Tell me if you think I've missed anything or where you think this feat scales. Imo, this feat surpasses Xue Yin, Morris, all of my OCs, etc in scheming + deception. There might have been a few points I missed though, making this scheme even more impressive, but since I haven't slept well in like a week, you'll just have to read the novel yourself to fully get the entire scheme.
+
+Oh and btw I probably won't do the cases tournament as I said I would in my earlier post because of my failing health (this thing took me forever to write since I also had to reread parts of the novel)

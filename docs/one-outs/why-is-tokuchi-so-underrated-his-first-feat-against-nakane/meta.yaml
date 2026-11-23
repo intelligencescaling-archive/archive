@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-is-tokuchi-so-underrated-his-first-feat-against-nakane
+category: doc
+title: Why Is Tokuchi So Underrated? His First Feat Against Nakane (One Outs)
+alt_titles:
+- Why is tokuchi so f$$$$$$ underrated??
+authors:
+- name: Glittering-Middle430
+  reddit: Glittering-Middle430
+  id: glittering-middle430
+  source: reddit-post
+series:
+- one-outs
+characters:
+- toua-tokuchi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qscn2o/why_is_tokuchi_so_f_underrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1076
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 61671
+      sha256: 8299dbd8eae7f0b898cc903a48c7d1c92aac5bceb68c92b8871dfd51e23084b0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

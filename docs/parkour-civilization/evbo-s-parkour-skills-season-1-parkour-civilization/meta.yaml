@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: evbo-s-parkour-skills-season-1-parkour-civilization
+category: doc
+title: Evbo's Parkour Skills, Season 1 (Parkour Civilization)
+alt_titles:
+- Evbo's parkour skills (Season 1 only)
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- parkour-civilization
+characters:
+- evbo
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rptehm/evbos_parkour_skills_season_1_only/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1332
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 2844431
+      sha256: 3ded141f8f9b31f2d98d322557a4689388dd07a10288c1bb0944c7c6ef957e06
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

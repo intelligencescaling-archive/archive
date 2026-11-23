@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-doctor-s-plan-to-destroy-the-wrath-empire-doctor-who
+category: doc
+title: 'The Doctor''s Plan to Destroy the Wrath Empire (Doctor Who: The Shadow Heart)'
+alt_titles:
+- 'The doctor plan to destroy the wrath empire (doctor who: the shadow heart)'
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hyim8w/the_doctor_plan_to_destroy_the_wrath_empire/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1659
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 339575
+      sha256: 594f5c3e22bc6879ef66325f1a058609aecbdb18d2a1b530fa951a4569263196
+    - format: jpg
+      name: image-2.jpg
+      bytes: 91609
+      sha256: 159ed914dd6eca65120238daabaf62c92f863febd40adee2a0b53e4e6615ac11
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

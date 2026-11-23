@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-first-mind-game-in-short-score-up-big-win-chance-game
+category: story
+title: 'My First Mind Game in Short: Score Up! (Big Win Chance Game)'
+alt_titles:
+- My first mindgame in short
+authors:
+- name: Different-Click9753
+  reddit: Different-Click9753
+  id: different-click9753
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v0mopn/my_first_mindgame_in_short/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1279
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: black-panther-s-translocation-feat-marvel
+category: doc
+title: Black Panther's Translocation Feat (Marvel)
+alt_titles:
+- BLACK PANTHER'S SCD ADVERSITY VICTIMIZING FEAT AKA "TRANSLOCATION FEAT" (SOLOS FANG YUAN)
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- marvel
+characters:
+- black-panther
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wa10p4/black_panthers_scd_adversity_victimizing_feat_aka/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 631
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 107745
+      sha256: 2caecde542c35f3131318bac6e3839c43a30d89316fe2cff4f300030a8f85c20
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

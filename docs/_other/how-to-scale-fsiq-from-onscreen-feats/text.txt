@@ -1,0 +1,59 @@
+How we should scale FSIQ when based on onscreen feat
+
+FSIQ includes:
+
+\+FRI (Fluid Reasoning Index): measures the ability to solve novel problems using logic and reasoning.
+
+\+VCI (Verbal Comprehension Index): assesses the ability to understand and use language.
+
+\+VSI (Visual Spatial Index): measures the ability to solve problems that require visual and spatial reasoning.
+
+\+WMI (Working Memory Index): measures the ability to temporarily retain and use information while performing a task. Working memory helps us retain information for a short period of time and use it to solve problems, perform tasks, or plan for future activities.
+
+\+PSI (Processing Speed Index): assesses the speed at which a person processes information. This index measures the ability to process information directly and quickly, process and respond to information in a short period of time.
+
+Usually, we scale FSIQ based on narrative feats, off-screen feats, which do not show the thinking process, and onscreen feats, such as strategy, manipulation, ... will be separated into other separate categories. But we don't do that here.
+
+And here's how to relate the above indices to the intelligence categories:
+
+Logical Thinking \[FRI\]
+
+On-screen Working Memory \[WMI\]
+
+On-screen Knowledge \[VCI\]
+
+Spatial Intelligence \[VSI\]
+
+Analysis \[FRI; VCI\]
+
+Logical Reasoning/Deduction \[FRI; VCI\]
+
+Anticipation \[FRI\] (based on logic, good analytical and deductive skills)
+
+Strategy/Tactics \[FRI\]
+
+Deception \[FRI; VCI\]
+
+Logical Manipulation \[FRI; VCI\]
+
+Psychological Analysis \[FRI; VCI\] (reading people, based on logical analysis)
+
+Strategic Adaptability \[PSI\]
+
+Explanation:
+
+Strategy/Tactics: Fluid Reasoning Index (FRI): FRI represents the ability to think logically in novel situations. In order to create a plan that fits the character's strategy/tactics to achieve the goal, it is necessary to have the ability to think logically, to analyze the problems being encountered, and use the character's existing things, thereby creating logical approaches, intelligence, and creative methods to serve the character's strategy/tactics.
+
+Analysis, Reasoning: Fluid Reasoning Index (FRI), Verbal Comprehension Index (VCI), Working Memory Index (WMI). Regarding the ability to reason logically when analyzing and reasoning, there is probably no need to explain further. In manga and anime, we will often see intelligent characters demonstrate their ability to analyze and reason through their thoughts, the character's thoughts, thought balloons, or the character's explanations. Therefore, VCI's verbal reasoning ability is also very important for this skill. When the characters have analyzed and reasoned, it means that they have processed a large amount of information in a short time. This is the function of working memory.
+
+On-screen knowledge \[VCI\]: simply knowledge that comes from the ability to read and understand language.
+
+Deception/Manipulation: Fluid Reasoning Index (FRI), Verbal Comprehension Index (VCI): To deceive and persuade others, the character needs to have good verbal reasoning and communication skills, using convincing and reasonable lies to gain the trust of the opponent. Logical reasoning here is how logical and believable the character's lies are created. And manipulation is very much related to strategy.
+
+VSI: This one doesn't need much explanation, simply spatial thinking shows the character's ability to process information related to geometry and space.
+
+Onscreen Working Memory \[WMI\]: the ability to store and process a complex amount of information. So we will consider it based on the complexity of strategy and mind game, of information and reasoning in the process of calculating, analyzing, and reasoning of the character.
+
+Strategic Adaptability \[PSI\]: explains the reason for choosing Strategic Adaptability as PSI. Because when measuring processing speed, it must be both correct and fast. For example, comparing two people who calculate better mentally, that person must calculate correctly first, because fast but wrong is the same as not. And the above category fits the onscreen criteria and is both correct and fastest. It is "correct" in that the character can think of a suitable strategy to deal with the opponent's strategy, "fast" in that the character adapts quickly to it, quickly understands the opponent's plan, and finds a method to deal with it in time, not giving the opponent a chance to succeed.
+
+(No, this is not an upscale Akiyama post.)

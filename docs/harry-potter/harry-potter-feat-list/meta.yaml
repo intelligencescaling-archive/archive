@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: harry-potter-feat-list
+category: doc
+title: Harry Potter Feat List
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- harry-potter
+characters:
+- harry-potter
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1or22qf/harry_potter_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 911
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 110810
+      sha256: ea3e2ce2f7a3fdcdd093e0101214359ac8ab223e8d9efbf2e7104cdbefc42e68
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

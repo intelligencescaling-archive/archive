@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-100-winning-strategy-to-defeat-akiyama-in-the-first-round
+category: doc
+title: A 100% Winning Strategy to Defeat Akiyama in the First Round (Liar Game)
+alt_titles:
+- I Created A 100% Winning Strategy To Defeat Akiyama In The First Round
+authors:
+- name: Alert-Researcher7788
+  reddit: Alert-Researcher7788
+  id: alert-researcher7788
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- fujisawa
+- nao-kanzaki
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k1snww/i_created_a_100_winning_strategy_to_defeat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 635
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

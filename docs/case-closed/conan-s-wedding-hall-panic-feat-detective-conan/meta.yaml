@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: conan-s-wedding-hall-panic-feat-detective-conan
+category: doc
+title: Conan's Wedding Hall Panic Feat (Detective Conan)
+alt_titles:
+- Conan's Wedding Hall Panic feat
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series:
+- case-closed
+characters:
+- conan-edogawa
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v7lmde/conans_wedding_hall_panic_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1302
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 10427
+      sha256: ef8435fb6d19b5838f907cbd0b321e2003028b5c60c48b4d986fd03b3993c0c2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

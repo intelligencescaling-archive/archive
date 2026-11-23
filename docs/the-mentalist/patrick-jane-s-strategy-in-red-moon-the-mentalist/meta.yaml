@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-strategy-in-red-moon-the-mentalist
+category: doc
+title: Patrick Jane's Strategy in Red Moon (The Mentalist)
+alt_titles:
+- Patrick Jane's strategy
+authors:
+- name: howisthisausername14
+  reddit: howisthisausername14
+  id: howisthisausername14
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pc738t/patrick_janes_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2191
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 845988
+      sha256: 0de0a725e8a0f7a2a4190e670b957d55a64582d61929f5290821acfc2004f79a
+    - format: jpg
+      name: image-2.jpg
+      bytes: 63897
+      sha256: 5d63b3115212b5d7e4072bb1188cd998dcd7690f740ec0009a146927c38ee91b
+    - format: jpg
+      name: image-3.jpg
+      bytes: 17905
+      sha256: 1a9dfa1220806d24e0ebca9bd09318b78fa0e684a5f55d78d0325b43ce3086cd
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

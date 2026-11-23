@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-interpretation-of-the-memory-loss-plan-as-an-anime
+category: doc
+title: My Interpretation of the Memory Loss Plan as an Anime Watcher (Death Note)
+alt_titles:
+- My interpretation of memory loss as an anime watcher
+authors:
+- name: Due_Turnover1421
+  reddit: Due_Turnover1421
+  id: due-turnover1421
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1od6c2e/my_interpretation_of_memory_loss_as_an_anime/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1905
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

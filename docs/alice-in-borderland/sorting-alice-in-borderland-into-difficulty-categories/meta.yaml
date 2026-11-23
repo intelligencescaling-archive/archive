@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: sorting-alice-in-borderland-into-difficulty-categories
+category: doc
+title: Sorting Alice in Borderland into Difficulty Categories (Manga)
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- alice-in-borderland
+characters: []
+tags:
+- analysis
+- ranking
+language: en
+completion: unknown
+parts:
+- title: Part 1
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1e9yn5q/sorting_alice_in_borderland_part_1_into/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 795
+    files: []
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: Part 2
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1eacbl1/sorting_alice_in_borderland_part_2_minutes_into/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1063
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

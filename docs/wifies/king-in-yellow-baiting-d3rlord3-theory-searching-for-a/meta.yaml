@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: king-in-yellow-baiting-d3rlord3-theory-searching-for-a
+category: doc
+title: King in Yellow Baiting D3rLord3 Theory (Searching for a World That Doesn't Exist)
+alt_titles:
+- King In Yellow Baiting D3rlord theory. Searching For A World That Doesn't Exist.
+authors:
+- name: ZealousidealDance175
+  reddit: ZealousidealDance175
+  id: zealousidealdance175
+  source: reddit-post
+series:
+- wifies
+characters:
+- the-king-in-yellow
+- d3rlord3
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p1ddo5/king_in_yellow_baiting_d3rlord_theory_searching/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1071
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

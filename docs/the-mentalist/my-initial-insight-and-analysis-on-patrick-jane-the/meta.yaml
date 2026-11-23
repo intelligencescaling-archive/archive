@@ -1,0 +1,50 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-initial-insight-and-analysis-on-patrick-jane-the
+category: doc
+title: My Initial Insight and Analysis on Patrick Jane (The Mentalist, Season 1)
+alt_titles:
+- My initial insight and analysis on Patrick Jane
+authors:
+- name: Usoguisolos
+  reddit: Usoguisolos
+  id: usoguisolos
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ujp40k/my_initial_insight_and_analysis_on_patrick_jane/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1764
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42510
+      sha256: 836821f9fdea378a241846d2d1f321360ac70b5baeb46662247b1a8b23143fb4
+    - format: jpg
+      name: image-2.jpg
+      bytes: 41151
+      sha256: 39cb14f9c45089aa85be6a875ba580243898a68ad733fc636cf973c0a056ef39
+    - format: jpg
+      name: image-3.jpg
+      bytes: 54127
+      sha256: a9952d8e741a2d2ec6acb550b406d8191e9a177d43694195d5cff2297daa5be6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

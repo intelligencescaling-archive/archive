@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: random-feats-of-the-first-doctor-doctor-who-season-1
+category: doc
+title: Random Feats of the First Doctor (Doctor Who, Season 1)
+alt_titles:
+- Random feats of The First Doctor (Doctor Who; Season 1; 1963-1964)
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- doctor-who
+characters:
+- the-doctor
+variant: First Doctor
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o6a3sm/random_feats_of_the_first_doctor_doctor_who/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 805
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

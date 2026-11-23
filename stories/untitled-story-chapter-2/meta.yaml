@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: untitled-story-chapter-2
+category: story
+title: 'Untitled Story: Chapter 2'
+alt_titles:
+- The new chapter of the fanfic I forgot is here, what do you think?
+authors:
+- name: No_Strawberry5397
+  reddit: No_Strawberry5397
+  id: no-strawberry5397
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vwi8lq/the_new_chapter_of_the_fanfic_i_forgot_is_here/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1790
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 85183
+      sha256: 15d34b39e521c14822200a0b297cee54bbcdea9128e3c80f737f87eaf4861a9f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

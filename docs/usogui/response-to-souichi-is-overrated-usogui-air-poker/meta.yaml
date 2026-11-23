@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: response-to-souichi-is-overrated-usogui-air-poker
+category: doc
+title: Response to 'Souichi Is Overrated' (Usogui, Air Poker)
+alt_titles:
+- My response to 'Souichi is overrated'
+authors:
+- name: RedDeathSwayOverAll
+  reddit: RedDeathSwayOverAll
+  id: reddeathswayoverall
+  source: reddit-post
+series:
+- usogui
+characters:
+- kiruma-souichi
+- baku-madarame
+tags:
+- rebunk
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vy9qap/my_response_to_souichi_is_overrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 816
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2456515
+      sha256: 103d59dd0f93cbb340de87da343100f2e891cf78edc73603ee51e85e710cd284
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monika-s-fsiq-is-kind-of-goated-doki-doki-literature-club
+category: doc
+title: Monika's FSIQ Is Kind of Goated (Doki Doki Literature Club)
+alt_titles:
+- Monika's FSIQ is kind of goated
+authors:
+- name: Quick-Jaguar-9572
+  reddit: Quick-Jaguar-9572
+  id: quick-jaguar-9572
+  source: reddit-post
+series:
+- doki-doki-literature-club
+characters:
+- monika
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ryfl65/monikas_fsiq_is_kind_of_goated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 812
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 34003
+      sha256: 1d9c09446b1da615108377cadb1e182cf78f7abf95cacb862eb22aa1a42c4a5d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

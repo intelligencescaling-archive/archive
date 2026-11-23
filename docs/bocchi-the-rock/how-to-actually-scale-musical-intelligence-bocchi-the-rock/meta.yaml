@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-to-actually-scale-musical-intelligence-bocchi-the-rock
+category: doc
+title: How to Actually Scale Musical Intelligence (Bocchi the Rock!)
+alt_titles:
+- How to actually scale musical intelligence.
+authors:
+- name: Neveljack
+  reddit: Neveljack
+  id: neveljack
+  source: reddit-post
+series:
+- bocchi-the-rock
+characters:
+- hitori-gotoh
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sm4bni/how_to_actually_scale_musical_intelligence/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 542
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

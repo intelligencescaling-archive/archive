@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: top-3-most-overrated-cote-characters-in-scd-kiryuin-nanase
+category: doc
+title: Top 3 Most Overrated COTE Characters in SCD (Kiryuin, Nanase, Honami)
+alt_titles:
+- Top 3 most ovverated cote characters in scd
+authors:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- fuuka-kiryuin
+- tsubasa-nanase
+- ichinose-honami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vivmuq/top_3_most_ovverated_cote_characters_in_scd/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 693
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 119446
+      sha256: b0d28e59e0ed8c98b78394904e3b952f1ddce99ea3615c455568fe5d12382f89
+    - format: jpg
+      name: image-2.jpg
+      bytes: 140238
+      sha256: 0d427ee8e2d6cb7c70a041216ac884e86e1c45dd8d9307cc4c27ddd483f3fd96
+    - format: png
+      name: image-3.png
+      bytes: 406660
+      sha256: a3b97dc2177e0921e24c33df421ac765f71759f01a06a6f66d5d478cad07f3d2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

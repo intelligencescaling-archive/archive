@@ -1,0 +1,287 @@
+How I am planning on Debunking Usogui.
+
+Note: this method is a draft right now, not fully finished and changes can be made based on the response I get.
+
+This is the method I came up with. Every single character will be tested in the same way. If they fail, they fail. If they pass, they pass. No bias.
+
+If you don't agree with the verdicts then you must disagree with my testing formula.
+
+NOT Testing For
+
+\- Who won.
+
+\- Who looked cool.
+
+\- Who the author said was smart.
+
+The fact someone won does NOT mean that they are smart. They may have just purely guessed, done a plot twist, their opponent messed up, or the author cut out the middle man.
+
+I Am Testing For
+
+Making the RIGHT decision.
+
+*True + Bad = Antifeat*
+
+*False + Good = Feat (But unlucky.)*
+
+If a character makes the correct decision but still loses, they are smarter than one who makes the incorrect decision and wins.
+
+I am also not assuming the author will give the answer. They may not. As a debunker it is my job to see if using the information actually provided in that arc it is logically possible to remove any alternative conclusions. If it isn't possible then there was flawed reasoning.
+
+RULE: Maximise Risk to Reward
+
+\#1 priority for any intelligent character is choosing the move with the best risk to reward ratio.
+
+*Best = Low Risk, High Chance, High Reward.*
+
+*Stupid = High Risk, Low Chance, Low Reward. When a better move was available.*
+
+I am not looking for:
+
+Did they win?
+
+I am looking for:
+
+Did they choose the cheapest risk with the highest reward? Or the most expensive risk with the lowest reward, when a cheaper move was available?
+
+The 4 Boxes
+
+*Box 1 = Low Risk, High Chance, High Reward = SMART*
+
+This is what a smart character should do.
+
+*Box 2 = High Risk, High Chance, High Reward = ACCEPTABLE*
+
+They're brave but the maths add up. They're not genius but they're not stupid either.
+
+*Box 3 = Low Risk, Low Chance, Low Reward = WASTED*
+
+They're playing it safe but aren't really trying to win.
+
+*Box 4 = High Risk, Low Chance, Low Reward = ANTIFEAT*
+
+This is where I'll debunk them. They have High Risk of getting it wrong, low chance of getting it right and Low Reward. When they could have done a better box.
+
+If they choose Box 4 and Box 1 / 2 were possible then it is an antifeat. Even if they win! Because they chose the worst box.
+
+*EXCEPT:* If the framework can prove Box 1 and 2 were impossible (All likely moves lead to certain loss, or can't be done due to rules). Then it isn't stupid to do Box 4.
+
+However they still must act like it's Box 4.
+
+Prove why the likely moves are dead first. Then rank the unlikely moves. 20% is better than 5%, so pick the best bad move.
+
+Act like they're unlikely. Hedge your bets, make it the smallest bet possible. Create a back-up plan. Try to find a cheap way to increase the 20% to 40%.
+
+If they do Box 4 but act like Box 1 (Bet everything. "I knew it all along." No back up.) Then even if forced to do Box 4 it'll be an antifeat. Because they managed the risk badly.
+
+*FORMULA:*
+
+*Expected Value = (Chance of Correct) x (Reward if Correct) - (Cost if Incorrect)*
+
+2 Frameworks
+
+I have 2 separate frameworks which I will not mix.
+
+*Framework A: Arc Framework*
+
+*Definition:* All the information provided in that arc.
+
+*Includes:*
+
+\- Rules of that game.
+
+\- Information shown on panel.
+
+\- Time, Tools, Allies & Options shown.
+
+\- Opponent shown to know / do.
+
+*Excludes:* Any information from other arcs not shown to be available in this arc. I can't say they should have known X from Arc 10 if they weren't given it in Arc 2.
+
+This means I can't use hindsight. My move must be possible using just the Arc Framework.
+
+*Framework B: Character Framework*
+
+*Definition:* All the information provided for that character's established intelligence.
+
+*Includes:*
+
+\- Proven methods they know and consistently use.
+
+\- Proven limits they have.
+
+\- Mental Baseline. How calm, focused and logical they are.
+
+\- Established weaknesses. What they don't know yet.
+
+*Excludes:* Any methods they learn later. If the story shows they learnt it later then it isn't an antifeat. As they didn't know it yet I can't debunk them for not using it.
+
+This means fans can't say "They didn't know that yet" as if the Character Framework shows they didn't know it yet I will not count it against them.
+
+*Together:* The move can only be debunked if it was possible in both frameworks. Possible in the Arc (They had the information, time & tools). Possible in the Character (They had the intelligence to think of it).
+
+If it isn't possible in either of the frameworks then I will pass it. Keeping arguments to a minimum.
+
+My Burden Of Proof
+
+To debunk a feat I must prove all 3 points below using the 2 frameworks. If I cannot then I must mark it as a Real Feat.
+
+*1. It wasn't the best move.*
+
+Using all resources from the Arc Framework and all established weaknesses from the Character Framework, I must prove there was a better move.
+
+Prove:
+
+\- They had the information to think of the better move. (Proved using the Arc Framework.)
+
+\- They had the time/tools/state to do the better move. (Proved using the Arc Framework.)
+
+\- They had the intelligence to think of the better move. (Proved using the Character Framework.)
+
+\- Better move had a better risk to reward ratio. (Lower risk, higher chance, Same or higher reward.)
+
+Their move = High Risk, Low Chance, \[X\] Reward.
+
+My better move = Low Risk, High Chance, \[Same or Higher\] Reward.
+
+Why my move was possible = \[Arc proof + Character proof. They had the information, time, method to do it. Their weakness doesn't stop them.\]
+
+I cannot just make up a better move. It must be something they had in their control tree for that arc.
+
+I'm not asking they do the best possible move in the universe. I'm asking they don't do Box 4 when Box 1 was possible.
+
+*2. Flawed Reasoning.*
+
+I don't wait for the author to explain. I must prove using just the information provided in the Arc Framework if it was logically possible to remove any alternative conclusions.
+
+The better the conclusion the less doubt there is.
+
+\- What other conclusions could there have been using the information provided in this arc?
+
+\- Did they logically remove the alternative conclusions using the premises they had in this arc? Or did they just pick one conclusion and ignore the others?
+
+\- Could they have gathered 1 extra piece of evidence, asked 1 extra question, or waited a bit longer using just the resources in the Arc Framework?
+
+*Types of Flaw:*
+
+*Leap.* 1 piece of evidence. 1 conclusion. 3 other conclusions still alive in the Arc Framework. They picked 25%. Said it was deduction.
+
+*Tunnel.* Only used evidence that fitted their initial thought. Ignored evidence in the Arc Framework that didn't fit.
+
+*False Connection.* Said X caused Y. But using the information in the Arc Framework X doesn't reliably cause Y. Broken mechanism.
+
+Show the better reasoning using only resources in the Arc Framework.
+
+They did: Concluded B from only A. Didn't remove C and D.
+
+They could have: Checked \[Evidence available in arc\] to remove C and D. Concluded B (80%).
+
+If the information in the Arc Framework couldn't have removed C and D (No test available, No questions allowed, Ran out of time) then their reasoning passes. They were forced to guess. I will not debunk them for guessing.
+
+If their premises did remove their doubts (Listed all the hypotheses possible using the Arc info. Removed them using independent evidence from the Arc info. Committed at the right time.) then their reasoning passes. Even if they got it wrong.
+
+*3. Goal doesn't follow.*
+
+Prove the goal they achieved doesn't logically follow from the action they did using the Arc Framework.
+
+*Test 1:*
+
+If you did the same action with the same reasoning 100 times in the same situation in the arc would you get the same goal most of the time?
+
+If not then the goal doesn't follow. It was just declared to follow.
+
+*Test 2:*
+
+If you remove their action does the goal still happen?
+
+If yes then their action didn't cause the goal. The opponent lost to themselves, the rules or luck. They just stood there and took credit.
+
+The chain must be complete.
+
+*Evidence (From Arc) -> Reasoning -> Action -> Mechanism -> Goal.*
+
+If any part is missing (Action -> \[ \] -> Goal) then it's an antifeat. Even if they won.
+
+Example (Fictional)
+
+Character: Alex. Opponent: Victor. Game: Red Coin. Rule: Guess correctly if Victor has a red or blue coin in his hand to win.
+
+Alex saw Victor sweating.
+
+Alex concluded: "Victor is sweating, so he must have a red coin. I will bet everything on red." Alex won.
+
+This would be a feat using normal scaling but using my method it's an antifeat. Why?
+
+*1. Action:* Using the Arc Framework Alex had 3 safe questions he could ask and had 2 minutes. Using the Character Framework Alex is proven to know how to ask testing questions. He had a Box 1 move (Ask 3 questions. Lose 1 coin if wrong. Win 10 coins if right. 80%). But he chose Box 4 (Bet everything. Lose everything if wrong. Win 10 coins if right. 30%). Ignored the Box 1 move.
+
+*2. Reasoning:* Using just the information in this arc there are 4 hypotheses that sweating could mean. (A) He has red. (B) He's nervous because he has blue and is scared. (C) He's ill. (D) The room is hot. Alex chose A and didn't remove B, C, D. Was it logically possible to remove them? Yes. The Arc Framework had a thermostat to check D and a testing question to check B. He didn't use them. His premises didn't remove his doubts.
+
+*3. Goal:* If you bet everything because your opponent was sweating 100 times you wouldn't win 100 times. You'd only win maybe 25 times. The method was never going to guarantee you'd win. The goal doesn't follow.
+
+Alex was right but for the wrong reasons. This isn't intelligence. This is luck dressed up as intelligence.
+
+Change the example.
+
+Alex saw Victor sweating. Victor has previously bluffed 3 times when sweating in this arc. Alex asked a testing question and Victor stuttered in the exact way he does when lying. Alex checked the thermostat and ruled out "Room is hot." Then Alex bet.
+
+Same result. But this is a real feat. Alex used the Arc Framework to remove his doubts. Chose Box 1. The goal follows.
+
+Stopping Arguments
+
+I created this method to have as few arguments as possible. Below are the arguments fans could have and why they won't work with this method.
+
+*"You're using hindsight!"*
+
+No. My better move must be possible to do using just the Arc Framework. Which is information shown on panel in that arc. If it wasn't in the arc then I won't use it.
+
+*"He didn't know that yet"*
+
+I won't debunk them. This is controlled by the Character Framework. If the story shows they learnt it later then it isn't an antifeat.
+
+*"He was under pressure!"*
+
+I'll check. If the Arc Framework proves he was compromised (Injured, Timed out, Emotionally broken.) And the Character Framework proves his level was lowered then I'll pass.
+
+*"You're demanding perfection!"*
+
+No. I'm asking for them not to choose Box 4 when Box 1 was possible. I'm not asking for perfection. I'm asking for a defensible move.
+
+*"But he won, so his reasoning must have been good!"*
+
+No. Using the 100 Times Test and Deletion Test will show if the win was down to his reasoning or luck.
+
+*"The author didn't explain it, so you can't judge it!"*
+
+I'm proving if using the information in the arc it was logically possible to remove any other conclusions. If it was possible and he didn't do it then there was a flaw. If it wasn't possible then I'll pass.
+
+How I'll Score
+
+I'll score each feat like this:
+
+\> *Arc:*
+
+\> *Goal:* \[Exact goal they wanted to achieve at that moment.\]
+
+\> *1. Action:* Their move = \[Risk / Chance / Reward\]. Better move = \[Risk / Chance / Reward\]. Why better move was possible = \[Arc Framework Proof + Character Framework Proof\].
+
+\> *2. Reasoning:* Their premises = \[X\]. Doubts left from Arc Info = \[Y,Z\]. Was it logically possible to remove them? \[Yes/No. How? Using Arc Resources.\]
+
+\> *3. Goal:* Does the goal follow? \[Yes/No. 100 Times Test. Deletion Test.\]
+
+\> *Verdict:* Real Feat / Plot Feat / Antifeat.
+
+If they fail all 3 they're debunked.
+
+If they only fail 1 then it's a weak feat.
+
+If they pass all 3 then it's a real feat. I'll give them credit. Even if I don't like the character.
+
+If they pass most of the feats then they're genuinely intelligent.
+
+If they fail most but win every game then their intelligence isn't real. Their win rate is protected by the author.
+
+This is the debunk. Not "he is dumb." But "he did not maximize, and still won. Therefore the win is not evidence of intelligence."
+
+I'll do this for every character.
+
+Let me know if you think I should change something in this method.

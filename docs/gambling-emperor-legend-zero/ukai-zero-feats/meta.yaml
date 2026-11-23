@@ -1,0 +1,153 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ukai-zero-feats
+category: doc
+title: Ukai Zero Feats (Gambling Emperor Legend Zero)
+authors:
+- name: Connect-Fudge8942
+  reddit: Connect-Fudge8942
+  id: connect-fudge8942
+  source: reddit-post
+series:
+- gambling-emperor-legend-zero
+characters:
+- ukai-zero
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- title: 'Chapter 1 Feat: Rescuing Teammates'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lh5fz6/today_is_my_zero_day_without_gooning_to_kanade_so/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 667
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 167096
+      sha256: 08cc6e673cf6f8595002ccc38e93240eb54aac344b9363e27366166104c12b18
+    - format: jpg
+      name: image-2.jpg
+      bytes: 155587
+      sha256: 72d7c60625af8668d06bde8981bc28ddaee16e91f666e06f29052878ee17c216
+    - format: jpg
+      name: image-3.jpg
+      bytes: 154986
+      sha256: 576eaf6587b801131d0112d127f2dec828f565bd5ab40e8b2f954b29df957773
+    - format: jpg
+      name: image-4.jpg
+      bytes: 154067
+      sha256: 4b6162cae168da94c34effc2eb83b81039e904ff20910fd9c8412d397ab5d7e5
+    - format: jpg
+      name: image-5.jpg
+      bytes: 145859
+      sha256: d40a237fb85fe7d192d86b7b4acbe1ccbc2cc3eb9eeb466716d07930a0426bfb
+    - format: jpg
+      name: image-6.jpg
+      bytes: 156642
+      sha256: 4a49ed50445254232a123a8a749c6b41c5c70a1aff4d43db5b2008742cc57b2a
+    - format: jpg
+      name: image-7.jpg
+      bytes: 144343
+      sha256: bb599c1054f60b7ba2fac445db9305faa34dcaf66efdc09e9dbb3f9126aef1ab
+    - format: jpg
+      name: image-8.jpg
+      bytes: 146114
+      sha256: f3f25df09ba963e77d1f5ec449982db753014813219dab2ec28a3fd3e1510e4f
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: Jack Room
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lk1rng/nooo_i_have_lost_my_streak_of_not_gooning_to/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1254
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 138417
+      sha256: 4873f6a5462ac7e66b4d95127a68851bc6f7b84ad06f884ecbd51bc6995b2d75
+    - format: jpg
+      name: image-2.jpg
+      bytes: 146601
+      sha256: 39f1560c51e5dbd658540035b12b3baf2051a7568322d095ddad4f5854e46721
+    - format: jpg
+      name: image-3.jpg
+      bytes: 159602
+      sha256: 02474654e5737439c7e30803e052c9d6e55d949d2082718a683bbbf7fc7ab209
+    - format: jpg
+      name: image-4.jpg
+      bytes: 178969
+      sha256: 5564ebf249e8fd5cf9749e4ee4bd5fd37a179252c8280c5e8f8afa5539613b74
+    - format: jpg
+      name: image-5.jpg
+      bytes: 158649
+      sha256: 94ed5820dbb5bd3836412af989b36cf94085bf82b657d18746074c0547a77139
+    - format: jpg
+      name: image-6.jpg
+      bytes: 149471
+      sha256: 0e622f1176e12aa1c1ea80829464b0ab74600dd0100cbab0593c59209c0eac74
+    - format: jpg
+      name: image-7.jpg
+      bytes: 141226
+      sha256: e3cb338fc65f48ce1dfd197e4c75c2a451bb237c23a493714b92c3bd6cbd0696
+    - format: jpg
+      name: image-8.jpg
+      bytes: 166495
+      sha256: 632743d250d218f83a526ba062c093f5818197fbc4026b98d358d46daaae1c91
+    - format: jpg
+      name: image-9.jpg
+      bytes: 139019
+      sha256: 12331104c1c037c77d173d5f36540ff783ca9857204dc0937a7acce061c69b9e
+    - format: jpg
+      name: image-10.jpg
+      bytes: 139384
+      sha256: 683519256b70202f376fec094a44c43a8c1d2cff0a4627b1ad6e9e609aa083fa
+    - format: jpg
+      name: image-11.jpg
+      bytes: 166384
+      sha256: 939f6b538f547c1addf82a5b8f587fef71de9110a92e65fd5702724661ee07b6
+    - format: jpg
+      name: image-12.jpg
+      bytes: 173126
+      sha256: f7670f3750fa7d4f91736d0fb531d395550aaa7be8c11408cde6b214ae2a704a
+    - format: jpg
+      name: image-13.jpg
+      bytes: 137535
+      sha256: d3490711a66379f36d6334c62ee394163627b2762e599c2f736492c3895b8282
+    - format: jpg
+      name: image-14.jpg
+      bytes: 132657
+      sha256: ee0d9463a7914c3220a8d375cf1ae5ced2fbeaa3c207398778d8af2fb6afcf68
+    - format: jpg
+      name: image-15.jpg
+      bytes: 152890
+      sha256: 9c1b956073fc3c7701106a4972951b4ccb061daf52cf24f0fa9ce73415189734
+    - format: jpg
+      name: image-16.jpg
+      bytes: 148604
+      sha256: cc170dc250c56012f0246db09f0a038d88423db95820bd794079ff4cbdacb17d
+    - format: jpg
+      name: image-17.jpg
+      bytes: 146414
+      sha256: 7722b5abc7ff7fd3e4352abd555b7a8a4f84dfb80f09475d724e91ad45fee411
+    - format: jpg
+      name: image-18.jpg
+      bytes: 146111
+      sha256: e75b3a6d22f3b3fbd21b48d4648c9e3487e28a0764c3341565a7b916b54cc511
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

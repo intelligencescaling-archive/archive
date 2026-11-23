@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tokuchi-s-rain-plan-one-outs
+category: doc
+title: Tokuchi's Rain Plan (One Outs)
+alt_titles:
+- One Outs Rain Plan
+authors:
+- name: TTT948
+  reddit: TTT948
+  id: ttt948
+  source: reddit-post
+series:
+- one-outs
+characters:
+- toua-tokuchi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p4vk6z/one_outs_rain_plan/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1492
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 3956675
+      sha256: f64c16f76afca102ab65ca5435b144ed0cc5fec8fdcecf19e75b9e3efb0d028d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

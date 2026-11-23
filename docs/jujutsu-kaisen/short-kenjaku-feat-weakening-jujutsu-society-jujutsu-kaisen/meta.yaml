@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: short-kenjaku-feat-weakening-jujutsu-society-jujutsu-kaisen
+category: doc
+title: 'Short Kenjaku Feat: Weakening Jujutsu Society (Jujutsu Kaisen)'
+alt_titles:
+- Short kenjaku feat of weakening jujustu society
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xjaa3l/short_kenjaku_feat_of_weakening_jujustu_society/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 569
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 847384
+      sha256: 3861de07f2ce7215f4ae72184c46fe609b2f2799e3442db64ecdf1070b3a7cb6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: battle-of-xiapi-guo-jia-s-strategy-a-summary-ravages-of-time
+category: doc
+title: 'Battle of Xiapi: Guo Jia''s Strategy, a Summary (Ravages of Time)'
+alt_titles:
+- Got bored. So made this small summary on Battle Of Xiapi. Read if you don't mind spoilers.
+authors:
+- name: Pick_Me_Gal_1092
+  reddit: Pick_Me_Gal_1092
+  id: pick-me-gal-1092
+  source: reddit-post
+series:
+- ravages-of-time
+characters:
+- guo-jia
+- sima-yi
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1j44bht/got_bored_so_made_this_small_summary_on_battle_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3571
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

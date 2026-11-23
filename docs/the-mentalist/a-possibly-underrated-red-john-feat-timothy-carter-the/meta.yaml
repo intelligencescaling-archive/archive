@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-possibly-underrated-red-john-feat-timothy-carter-the
+category: doc
+title: 'A Possibly Underrated Red John Feat: Timothy Carter (The Mentalist)'
+alt_titles:
+- Possibly underrated RJ feat
+authors:
+- name: VisitUsual8507
+  reddit: VisitUsual8507
+  id: visitusual8507
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- red-john
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1utm9iq/possibly_underrated_rj_feat/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 639
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 37676
+      sha256: cf374619212fb552dc11b6f9938d255ff4ec31b0d8caabf5e703b77097570cf7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: inspector-tsukumo-vs-l-lawliet-annotated-comparison
+category: doc
+title: 'Inspector Tsukumo vs L Lawliet: Annotated Comparison (Massacre Happy End vs Death Note)'
+alt_titles:
+- Inspector Tsukumo vs L Lawliet / Annotated comparison
+authors:
+- name: No_Strawberry5397
+  reddit: No_Strawberry5397
+  id: no-strawberry5397
+  source: reddit-post
+series:
+- massacre-happy-end
+- death-note
+characters:
+- inspector-tsukumo
+- l-lawliet
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vk1nuj/inspector_tsukumo_vs_l_lawliet_annotated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2481
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 240180
+      sha256: fa85001e62508ade7517244624c4e6ab428ac3e6b8f13ffa77a75c4f06b781b7
+    - format: jpg
+      name: image-2.jpg
+      bytes: 47620
+      sha256: 89b83f05fe220e7ea9e9d5e4b81c26f3aef751f15af2757b9bbd45e94f92ebea
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

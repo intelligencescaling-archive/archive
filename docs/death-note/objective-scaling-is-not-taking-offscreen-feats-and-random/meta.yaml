@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: objective-scaling-is-not-taking-offscreen-feats-and-random
+category: doc
+title: Objective Scaling Is Not Taking Offscreen Feats and Random Statements at Face Value
+alt_titles:
+- Objective scaling is not taking off screen feats and random statements at face value. That's just bias scaling.
+authors:
+- name: Illustrious_Win_4859
+  reddit: Illustrious_Win_4859
+  id: illustrious-win-4859
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- discussion
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wx6kee/objective_scaling_is_not_taking_off_screen_feats/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 928
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 26255
+      sha256: d99c9de51ae675793edb8f392de2d03f96331dfb58241f72bb3ad0edb451f098
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

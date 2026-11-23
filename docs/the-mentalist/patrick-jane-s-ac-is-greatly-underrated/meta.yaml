@@ -1,0 +1,57 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-ac-is-greatly-underrated
+category: doc
+title: Patrick Jane's AC Is Greatly Underrated (The Mentalist)
+authors:
+- name: Equivalent-One2361
+  reddit: Equivalent-One2361
+  id: equivalent-one2361
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- title: Part 1
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1prnjab/patrick_janes_ac_are_greatly_underrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 954
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 70268
+      sha256: 013ea035d9f909f371353b0c52a7c380f6ec8ab7fd3b2207b84076a4267206d0
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Part 2: More Feats'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pygaey/a_small_addition_to_the_post_about_pjs_ac/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 764
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 140564
+      sha256: 29de91492ea448ab1860973a1cdf005864b3e91bb216282a356f00c3403e18f1
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,110 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pang-tong-s-cipher-feat-analysis-ravages-of-time
+category: doc
+title: Pang Tong's Cipher Feat Analysis (Ravages of Time)
+alt_titles:
+- Pang Tong cipher fest analysis
+authors:
+- name: the_sillyone
+  reddit: the_sillyone
+  id: the-sillyone
+  source: reddit-post
+series:
+- ravages-of-time
+characters:
+- pang-tong
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vmen9v/pang_tong_cipher_fest_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 580
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 779292
+      sha256: 79c02dc55a57384f2642d2a8ed375b989d0d3cbad28c66133307dd133d4492ad
+    - format: jpg
+      name: image-2.jpg
+      bytes: 828701
+      sha256: 20b92c2a8a9e3129bdb5d2f68ea9156b09cefbc63ff2679b6a3e311d380ae6a9
+    - format: jpg
+      name: image-3.jpg
+      bytes: 848598
+      sha256: d67d55470a823e3de2fda79583e090c82ed182e61c9901441f144016cd859f92
+    - format: jpg
+      name: image-4.jpg
+      bytes: 865761
+      sha256: 755585b357acc85b1a31fc9c6538ac67e6a64accfae8ba58a55851f384f033c4
+    - format: jpg
+      name: image-5.jpg
+      bytes: 745747
+      sha256: 454cb20ec5827d1ab399091f0474dfe6baab7376c3c3ddfde81601c867b10ba3
+    - format: jpg
+      name: image-6.jpg
+      bytes: 892909
+      sha256: b8fd1270b3ca14067853650fbb7f6e67cff82da90994fc1475291898f3fa9904
+    - format: jpg
+      name: image-7.jpg
+      bytes: 672310
+      sha256: efc0b6ae022df7f7d8d64e977cb099bcb48f356bf04126995c12326df45edab0
+    - format: jpg
+      name: image-8.jpg
+      bytes: 906724
+      sha256: 4c805245ff7e1c85e7fbcd57377b4ef62536b0933c723240cd5f6e5947fb9344
+    - format: jpg
+      name: image-9.jpg
+      bytes: 787238
+      sha256: 20a27c56cf6dd28f752051b89693d90ea8dc87d8a1f6646ec8e08ed06c4ef447
+    - format: jpg
+      name: image-10.jpg
+      bytes: 737174
+      sha256: 4b1b6fb13df9ac4253dd158880cfabda254f5d80b86207005b931439b23b8497
+    - format: jpg
+      name: image-11.jpg
+      bytes: 763932
+      sha256: 95130239601583eab874ddb6822f8fbec208055c7f036c169bac8d0c5d0cb447
+    - format: jpg
+      name: image-12.jpg
+      bytes: 619911
+      sha256: 75ff6320ba192bb1818226232491f01ef704b48dbcfbdb4fd6903c3a5ae92fa0
+    - format: jpg
+      name: image-13.jpg
+      bytes: 740315
+      sha256: 74442b4c412cad7ced1f1f54659914781a2c857e41e9ecc892a953f60fc85643
+    - format: jpg
+      name: image-14.jpg
+      bytes: 701406
+      sha256: 9107ab65beec4649d76c1ed7ac760d7680037e775db8ac416a5683fb5aef7ef9
+    - format: jpg
+      name: image-15.jpg
+      bytes: 778460
+      sha256: 6b40568044ea0e177d5439d99b6a632ee4e6d7a81457708b8a6bf429b8ab5578
+    - format: jpg
+      name: image-16.jpg
+      bytes: 681026
+      sha256: 01a5851cc1351c0a49012a0cac8f04dea26e5e66189348abc9dd19b087abeda4
+    - format: jpg
+      name: image-17.jpg
+      bytes: 853745
+      sha256: 2d07b5f7cb73f61569e21cfc2a80ba0abbbf01ee450c294447d1a4cb4eb39fe4
+    - format: jpg
+      name: image-18.jpg
+      bytes: 1003887
+      sha256: 61f30c1d42d3864c9a2b8ccbae8175a3b23bf6ac98f5f5227f256c1ff84fe27d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-mitarai-kiyoshi-is-the-goat-in-reasoning-the-tokyo
+category: doc
+title: Why Mitarai Kiyoshi Is the GOAT in Reasoning (The Tokyo Zodiac Murders)
+alt_titles:
+- Why is he THE GOAT in reasoning?
+authors:
+- name: Aquitosias
+  reddit: Aquitosias
+  id: aquitosias
+  source: reddit-post
+series:
+- detective-mitarai
+characters:
+- kiyoshi-mitarai
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wt2mpg/why_is_he_the_goat_in_reasoning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1025
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 210270
+      sha256: a49b529e651a3d85a41d1a1067a484fcf551acdbca9bd68abe5833ce3cddcfba
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

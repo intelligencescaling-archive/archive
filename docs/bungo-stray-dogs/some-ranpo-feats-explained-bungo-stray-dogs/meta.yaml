@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: some-ranpo-feats-explained-bungo-stray-dogs
+category: doc
+title: Some Ranpo Feats Explained (Bungo Stray Dogs)
+alt_titles:
+- 'THE WORLD''S GREATEST DETECTIVE:'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- bungo-stray-dogs
+characters:
+- ranpo-edogawa
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wb01ec/the_worlds_greatest_detective/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1628
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40644
+      sha256: 2a7f20bb5f861950fbbf06c182bc1a627a49debcb5b31b148e9b5d77a88365d8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

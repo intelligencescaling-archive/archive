@@ -1,0 +1,48 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-disrespect-needs-to-stop-ayanokoji-and-yuuichi-are
+category: doc
+title: 'The Disrespect Needs to Stop: Ayanokoji and Yuuichi Are Underrated'
+alt_titles:
+- The Disrespect Needs to Stop [ANALYSIS]
+authors:
+- name: EasyLaif
+  reddit: EasyLaif
+  id: easylaif
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- kiyotaka-ayanokoji
+- yuuichi-katagiri
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1fuvw5y/the_disrespect_needs_to_stop_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1379
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 643474
+      sha256: 83a67399183d7a7e0023703339374e711418419aced8726975009665a15f890b
+    - format: jpg
+      name: image-2.jpg
+      bytes: 168053
+      sha256: 9c79dc3ebd8f803987e36ea7b1cdb42de2da00af0d3c13160ca29d262715b1c1
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

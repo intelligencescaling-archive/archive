@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kenjaku-s-intelligence-story-wise-jujutsu-kaisen
+category: doc
+title: Kenjaku's Intelligence Story-Wise (Jujutsu Kaisen)
+alt_titles:
+- Kenjaku's intelligence story-wise
+authors:
+- name: Similar_Incident8433
+  reddit: Similar_Incident8433
+  id: similar-incident8433
+  source: reddit-post
+series:
+- jujutsu-kaisen
+characters:
+- kenjaku
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xf5ami/kenjakus_intelligence_storywise/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 656
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 609072
+      sha256: b191719bf7edd0c8210d2b7c924c8b55ce630d6f089a4ef9e33c6f1774d6122c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

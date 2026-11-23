@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: saul-goodman-s-feat-list-better-call-saul-breaking-bad
+category: doc
+title: Saul Goodman's Feat List (Better Call Saul / Breaking Bad)
+alt_titles:
+- Saul Goodman’s feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- jimmy-mcgill
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rqjg77/saul_goodmans_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1982
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

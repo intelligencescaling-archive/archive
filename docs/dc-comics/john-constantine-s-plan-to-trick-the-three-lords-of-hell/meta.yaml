@@ -1,0 +1,94 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-constantine-s-plan-to-trick-the-three-lords-of-hell
+category: doc
+title: John Constantine's Plan to Trick the Three Lords of Hell into Curing His Cancer (DC)
+alt_titles:
+- John Constantine's (dc) plan to trick the 3 lords of hell into curing his cancer and saving his life (methodology)
+authors:
+- name: Mohammedamine9
+  reddit: Mohammedamine9
+  id: mohammedamine9
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- john-constantine
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jf49jh/john_constantines_dc_plan_to_trick_the_3_lords_of/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 772
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 166469
+      sha256: aaa591eba5ab0147654b14adad6ed4846efedda76bde7591932ad02ead6aee99
+    - format: jpg
+      name: image-2.jpg
+      bytes: 171589
+      sha256: 3aaa93d49e599678eaedb8b1216ebc6f1fa5557d4a9ac564b22e218dd9c9f375
+    - format: jpg
+      name: image-3.jpg
+      bytes: 179841
+      sha256: c28156cbf2868a689e8c768b4ad3eedec4621fddfa261b2e21adce57f4bf3c49
+    - format: jpg
+      name: image-4.jpg
+      bytes: 138540
+      sha256: 77fda90ee19282fe9b88925b2f624fdc16b2dee93d0b1caa52a85a5ce64b775e
+    - format: jpg
+      name: image-5.jpg
+      bytes: 173044
+      sha256: 54fa60b0ac8cada9137e5c43e217963a031098ee75157404776d1d4687719624
+    - format: jpg
+      name: image-6.jpg
+      bytes: 192657
+      sha256: d111dabe09c702c170d50045cc8d3ff3ef9e2bfce5472e8ce3d2edb461d42a60
+    - format: jpg
+      name: image-7.jpg
+      bytes: 217627
+      sha256: 093ec6fd228ac6b8f09802b7500452f4166a3fe64effe0298be3e5c818ddc9ca
+    - format: jpg
+      name: image-8.jpg
+      bytes: 213642
+      sha256: a44dc16f729f295bb3430d0358cd75a5b277b762edec28627a25c8c9f681e67f
+    - format: jpg
+      name: image-9.jpg
+      bytes: 171117
+      sha256: 4b5a032588f79fe5ddcc548aa6827d67b8ad2a52ed9be814a16bbf53420b429e
+    - format: jpg
+      name: image-10.jpg
+      bytes: 105107
+      sha256: 10b41802193fc308fceb5bf211c4d59185ad15782dd8264fdb2fd71f6afe9682
+    - format: jpg
+      name: image-11.jpg
+      bytes: 182711
+      sha256: a077b2ac8fda2dc85a0c259f957681abfb2af9fa02eae363694eeed97327a683
+    - format: jpg
+      name: image-12.jpg
+      bytes: 199274
+      sha256: b25450e59d8c76a19376964c95c95350bb5353eafc5d73e05ecf1a4b25640043
+    - format: jpg
+      name: image-13.jpg
+      bytes: 221662
+      sha256: e1b4e999d41d69b4794fa9506f5cb6e177afc8bee6063cec0f5f991e88aa2178
+    - format: jpg
+      name: image-14.jpg
+      bytes: 117249
+      sha256: 0744648ffaa799bda80e095feb1f1287a29087a62ba1706ffeb90a8725112426
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

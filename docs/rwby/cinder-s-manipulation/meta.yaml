@@ -1,0 +1,82 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: cinder-s-manipulation
+category: doc
+title: Cinder's Manipulation (RWBY)
+authors:
+- name: Quiet_Apricot7175
+  reddit: Quiet_Apricot7175
+  id: quiet-apricot7175
+  source: reddit-post
+series:
+- rwby
+characters:
+- cinder-fall
+- james-ironwood
+- ozpin
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- title: The World's Most Elaborate Gaslighting Campaign (Ironwood)
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xmexl7/the_worlds_most_elaborate_gaslighting_campaign/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 3059
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 110632
+      sha256: 1256ee2eca65f8f1520a905ad4dae91b47aa74ba040bf1636fc6caa27be02080
+    - format: jpg
+      name: image-2.jpg
+      bytes: 212137
+      sha256: 2bcd8628f0faa15a2d56464da021a318bed64b8b660ab992550a58dc868917d1
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: The Vytal Festival Curtain Call (the Vytal Festival)
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xmox92/the_vytal_festival_curtain_call_cinders/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 2727
+    files: []
+    text:
+      file: text-2.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+- title: The Ethical Execution of Hope (Ozpin)
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xnnjtq/the_ethical_execution_of_hope_cinders/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1813
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 19597
+      sha256: 3dd3d8bf143ac314660046e36756114efaf1fc66c975553e7fb32dd7f4fd67d1
+    - format: jpg
+      name: image-2.jpg
+      bytes: 56887
+      sha256: 5d1ce7b7d09e2092786729a0fb5af2345b1064dd3a84d41e1bc401880e6451f4
+    text:
+      file: text-3.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

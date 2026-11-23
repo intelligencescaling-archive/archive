@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: which-fictional-detective-could-catch-john-doe-in-cat-and
+category: doc
+title: Which Fictional Detective Could Catch John Doe in Cat and Mouse From Scratch? (Se7en)
+alt_titles:
+- Which fictional detective could catch John Doe (Se7en) in Cat & Mouse from scratch?
+authors:
+- name: FluffyTaste4061
+  reddit: FluffyTaste4061
+  id: fluffytaste4061
+  source: reddit-post
+series:
+- se7en
+characters:
+- john-doe
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qk3aml/which_fictional_detective_could_catch_john_doe/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 687
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 62737
+      sha256: 39a17368d87bca27463698e92c819047ca81b284d196b866d067291d6540dfe8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

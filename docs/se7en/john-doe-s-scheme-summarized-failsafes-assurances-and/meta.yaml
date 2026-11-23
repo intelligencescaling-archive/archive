@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: john-doe-s-scheme-summarized-failsafes-assurances-and
+category: doc
+title: 'John Doe''s Scheme: Summarized Failsafes, Assurances and Shieldings (Se7en)'
+alt_titles:
+- John Doe’s (SE7EN) scheme (summarized failsafes, assurances, and shieldings)
+authors:
+- name: FluffyTaste4061
+  reddit: FluffyTaste4061
+  id: fluffytaste4061
+  source: reddit-post
+series:
+- se7en
+characters:
+- john-doe
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qm7dcq/john_does_se7en_scheme_summarized_failsafes/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 594
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 135656
+      sha256: 7b1c218a890080206ebc0aa149a4dd8d6859a1a02a4662392e3c5f5eaf08c156
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

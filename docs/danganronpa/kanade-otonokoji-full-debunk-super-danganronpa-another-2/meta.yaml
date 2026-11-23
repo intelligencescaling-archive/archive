@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji-full-debunk-super-danganronpa-another-2
+category: doc
+title: Kanade Otonokoji Full Debunk (Super Danganronpa Another 2)
+alt_titles:
+- Kanade Otonokoji - Super Danganronpa Another 2 FULL DEBUNK(after playing the game)
+authors:
+- name: Fit_Veterinarian_729
+  reddit: Fit_Veterinarian_729
+  id: fit-veterinarian-729
+  source: reddit-post
+series:
+- danganronpa
+characters:
+- kanade-otonokoji
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pu2yl9/kanade_otonokoji_super_danganronpa_another_2_full/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1720
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 282106
+      sha256: 443a89d5651ea7f7c09d770ffd33ad4cfa6bd3df8992f8fd99cd41af82874044
+    - format: png
+      name: image-2.png
+      bytes: 34825
+      sha256: 7e508b818699421bba05cac4be76b5ee6b6bfbbc9b23208338aacc6794c0aa21
+    - format: png
+      name: image-3.png
+      bytes: 52753
+      sha256: 4a289f9eadac3f74874eacec3c9285163b30b69ea6ba16cc5619f0b4eb5b92c8
+    - format: jpg
+      name: image-4.jpg
+      bytes: 50576
+      sha256: 9d4474955a4b8ab62889e115bbd73ea3f8a4ce5b3eda98610998a1080c9d29e6
+    - format: png
+      name: image-5.png
+      bytes: 323136
+      sha256: 21ac1745e140fa21f2b7fa957cf51523095ef2dafbea7d59e38a327cc9721084
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,58 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: birdy-edwards-the-second-smartest-man-in-the-sherlock
+category: doc
+title: Birdy Edwards, the Second Smartest Man in the Sherlock Holmes Novels (The Valley of Fear)
+alt_titles:
+- 2nd smartest man in Sherlock novel / most underrated in series
+authors:
+- name: lclboomb
+  reddit: lclboomb
+  id: lclboomb
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- birdy-edwards
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wvv6ro/2nd_smartest_man_in_sherlock_novel_most/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1773
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 43097
+      sha256: af1c76c91bf064ee40ca6af4902ea18f2849d2454dc17e681b853a8bb5b536dd
+    - format: jpg
+      name: image-2.jpg
+      bytes: 889802
+      sha256: 99ae3d66016cca6a70c697943dae78aee801e7df0e6f3db7c96ae02d4dbc1758
+    - format: jpg
+      name: image-3.jpg
+      bytes: 1381567
+      sha256: b22604289a8e7f6715f8838f7834a10460b0c0eb44261977ca612b236d5dbe89
+    - format: jpg
+      name: image-4.jpg
+      bytes: 1324992
+      sha256: a0628e9e169273f89696e8f295cf96cfc2b63cc5fce2498e206b7bc625a2f23a
+    - format: jpg
+      name: image-5.jpg
+      bytes: 1008952
+      sha256: 32a7ded0707779a1eb70fdd5afd61c5df4be32f644f0fe8ff3ad8d15b327e9c2
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

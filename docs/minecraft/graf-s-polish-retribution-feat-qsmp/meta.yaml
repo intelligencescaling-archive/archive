@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: graf-s-polish-retribution-feat-qsmp
+category: doc
+title: Graf's Polish Retribution Feat (QSMP)
+alt_titles:
+- 'QSMP2''s first feat (I think): Graf''s "Polish Retribution" feat'
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  id: signal-experience315
+  source: reddit-post
+series:
+- minecraft
+characters:
+- graf-minecraft
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s0o339/qsmp2s_first_feat_i_think_grafs_polish/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 605
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 49328
+      sha256: 111d076a447e09d863e3ded7d82d52109873445140b26a2f25b00452e983077d
+    - format: png
+      name: image-2.png
+      bytes: 530914
+      sha256: c72a11b67475a99396aaedb5e3d9ed23f31743e4505fe19ebff14a2005e2a91a
+    - format: png
+      name: image-3.png
+      bytes: 533134
+      sha256: 0eeb0bd0a0edd8ad79d2243810779a4b6ae7ae6475e286f5deec908fdf50b5cc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

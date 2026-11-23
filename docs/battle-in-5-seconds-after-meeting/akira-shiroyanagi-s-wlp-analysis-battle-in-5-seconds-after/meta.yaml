@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akira-shiroyanagi-s-wlp-analysis-battle-in-5-seconds-after
+category: doc
+title: Akira Shiroyanagi's WLP Analysis (Battle in 5 Seconds After Meeting)
+alt_titles:
+- Akira Shiroyagani WLP analysis
+authors:
+- name: Minimum_Ad8682
+  reddit: Minimum_Ad8682
+  id: minimum-ad8682
+  source: reddit-post
+series:
+- battle-in-5-seconds-after-meeting
+characters:
+- akira-shiroyanagi
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ki6fo2/akira_shiroyagani_wlp_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 628
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 393710
+      sha256: 8be8939a91c73b8298ca102f6f5d37160759d0019013348869ef537a19173606
+    - format: png
+      name: image-2.png
+      bytes: 439223
+      sha256: 98533369a672fd2d12e16f4485fa386cc4f32ffaf9960617af57c258c646dd4f
+    - format: png
+      name: image-3.png
+      bytes: 613129
+      sha256: 964338880892c3dca198f4666014777deaf84c5d3e755a1927e846b06f506912
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

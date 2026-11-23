@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bbc-sherlock-holmes-feat-list
+category: doc
+title: BBC Sherlock Holmes Feat List
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- sherlock-holmes
+characters:
+- sherlock-holmes
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p43nkf/bbc_sherlock_holmes_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1462
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 22182
+      sha256: edc11a36f3533970168971595e558e082794d0f658f809ab707245408a8bad7b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

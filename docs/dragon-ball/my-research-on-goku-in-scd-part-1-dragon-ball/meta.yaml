@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-research-on-goku-in-scd-part-1-dragon-ball
+category: doc
+title: My Research on Goku in SCD, Part 1 (Dragon Ball)
+alt_titles:
+- My Research on Goku in SCD - Part 1
+authors:
+- name: ThroatSpirited1493
+  reddit: ThroatSpirited1493
+  id: throatspirited1493
+  source: reddit-post
+series:
+- dragon-ball
+characters:
+- goku
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vns102/my_research_on_goku_in_scd_part_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 749
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 55243
+      sha256: 9f20c03e944b6771f0f322370caff91e956f60f75ab25d2794f4017c63a3c552
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d3rlord3-s-feats-a-minecraft-world-that-doesn-t-exist
+category: doc
+title: D3rlord3's Feats (A Minecraft World That Doesn't Exist)
+alt_titles:
+- D3rlord3 from A minecraft world that doesn’t exist and some analysis on feats.
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- wifies
+characters:
+- d3rlord3
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ojmyxe/d3rlord3_from_a_minecraft_world_that_doesnt_exist/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 567
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 130938
+      sha256: 5b848079581cf68a558afa2755366524c064716073059b19d7a2797a176869f5
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

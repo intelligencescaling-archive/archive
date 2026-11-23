@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-strongest-and-most-overlooked-strategy-performed-by
+category: doc
+title: The Strongest and Most Overlooked Strategy Performed by Akagi (Akagi)
+alt_titles:
+- The strongest and most overlooked strategy performed by Akagi
+authors:
+- name: TTT948
+  reddit: TTT948
+  id: ttt948
+  source: reddit-post
+series:
+- akagi
+characters:
+- shigeru-akagi
+- iwao-washizu
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xtkz47/the_strongest_and_most_overlooked_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1223
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 61907
+      sha256: a735bb2c40a76c15951be6dd3a7f9f6c90dfac32f55975fe9cae6ea072b82eb9
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

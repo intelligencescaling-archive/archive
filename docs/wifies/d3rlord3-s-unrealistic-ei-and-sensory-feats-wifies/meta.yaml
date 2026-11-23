@@ -1,0 +1,82 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d3rlord3-s-unrealistic-ei-and-sensory-feats-wifies
+category: doc
+title: D3rlord3's Unrealistic EI and Sensory Feats (Wifies)
+alt_titles:
+- D3rlord3's unrealistic EI and Sensory
+authors:
+- name: forken_127
+  reddit: forken_127
+  id: forken-127
+  source: reddit-post
+series:
+- wifies
+characters:
+- d3rlord3
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s7xwad/d3rlord3s_unrealistic_ei_and_sensory/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 927
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 121792
+      sha256: 18b948c00718fa0a0af528edd2b969e4d312a80f68f65f10551edcfb51efb309
+    - format: png
+      name: image-2.png
+      bytes: 32836
+      sha256: 84f1d114ba774167c197d425d0f92f6db30ddfaf15dbcdbb86ecdb2bc7ff9ec0
+    - format: png
+      name: image-3.png
+      bytes: 71602
+      sha256: a28ff4c85e46bff69917db3ebf35751f80dcccc5b0cb90c35202e9427444f20e
+    - format: png
+      name: image-4.png
+      bytes: 1381947
+      sha256: cfe25b51384c7152dfe9011b282f35b75947a59193d4616022d0813dd28fd779
+    - format: png
+      name: image-5.png
+      bytes: 62288
+      sha256: c1855ab27a3a67748d577e2d6d289cb37dba7fadaf9719e810f72141d05a52a8
+    - format: png
+      name: image-6.png
+      bytes: 135939
+      sha256: 6ea194bcdbafe31cdb5ed4288b5d5994b19371c644c7e2cb8623bcb28e06de9b
+    - format: png
+      name: image-7.png
+      bytes: 148907
+      sha256: 97d3f7950e5d8949c6d9aef73e449aa2b261b2c25b992c2585ae5ab406fdbb77
+    - format: png
+      name: image-8.png
+      bytes: 584561
+      sha256: bee10bdcdb8c51f0ef2136e619890392002e626018a54733874c388109fa38a5
+    - format: png
+      name: image-9.png
+      bytes: 1099157
+      sha256: 6073bef5b797f51b5533f6f46a6ee81785c22f1f687300f66053c6f3438d20ce
+    - format: png
+      name: image-10.png
+      bytes: 655812
+      sha256: ddfb5d490163c4e8f7bd3f8fa38e2ebd31cc7a1a0d826cf5072d9592a68f57c1
+    - format: png
+      name: image-11.png
+      bytes: 1394716
+      sha256: 388a1de6149a6d046be13799faf3e227091f2b99e5b120e9b003ed81daae93eb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

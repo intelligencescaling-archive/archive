@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-memory-loss-debunk-is-terrible-death-note
+category: doc
+title: The Memory Loss Debunk Is Terrible (Death Note)
+alt_titles:
+- The memory loss debunk is terrible.
+authors:
+- name: Greentoaststone
+  reddit: Greentoaststone
+  id: greentoaststone
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1f2jyzu/the_memory_loss_debunk_is_terrible/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2257
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

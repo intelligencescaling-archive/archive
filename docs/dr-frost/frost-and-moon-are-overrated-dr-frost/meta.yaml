@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: frost-and-moon-are-overrated-dr-frost
+category: doc
+title: Frost and Moon Are Overrated (Dr. Frost)
+alt_titles:
+- Frost and Moon are overrated
+authors:
+- name: Top-Order7475
+  reddit: Top-Order7475
+  id: top-order7475
+  source: reddit-post
+series:
+- dr-frost
+characters:
+- nambong-baek
+- moon-seonghyun
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1loxabn/frost_and_moon_are_overrated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1217
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 92407
+      sha256: 940f3e243c535002a209d2b9dae2b41777089918e189533587f4cf3ce40f33ad
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

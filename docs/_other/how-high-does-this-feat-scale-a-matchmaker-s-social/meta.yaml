@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-high-does-this-feat-scale-a-matchmaker-s-social
+category: doc
+title: How High Does This Feat Scale? A Matchmaker's Social Deduction Plan (OC)
+alt_titles:
+- How high does this feat scale? (image unrelated)
+authors:
+- name: PrestigiousDelay5371
+  reddit: PrestigiousDelay5371
+  id: prestigiousdelay5371
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vkxfhr/how_high_does_this_feat_scale_image_unrelated/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 612
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

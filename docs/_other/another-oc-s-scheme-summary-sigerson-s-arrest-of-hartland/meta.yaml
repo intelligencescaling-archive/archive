@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: another-oc-s-scheme-summary-sigerson-s-arrest-of-hartland
+category: doc
+title: 'Another OC''s Scheme Summary: Sigerson''s Arrest of Hartland and Escape From Sodor (Wildfire)'
+alt_titles:
+- Another OC's scheme summary
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- analysis
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uuai4x/another_ocs_scheme_summary/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2224
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 179347
+      sha256: be4e10d79dc22ea6d67030f0bd8eaef6604663c0115f432104846c596926fe8b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: validity-of-ayanokoji-s-feats-in-v3-s-questioning-classroom
+category: doc
+title: Validity of Ayanokoji's Feats in V3's Questioning (Classroom of the Elite)
+alt_titles:
+- Validity of Ayanokoji's feats in V3's questioning
+authors:
+- name: Federal-Manner3880
+  reddit: Federal-Manner3880
+  id: federal-manner3880
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pu62fb/validity_of_ayanokojis_feats_in_v3s_questioning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2086
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

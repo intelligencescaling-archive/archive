@@ -1,5 +1,9 @@
 # Author registry: one record per person. ids are used in meta.yaml `authors[].id` and `shared_by[].id`.
 # Hand-kept: merge two records by moving names/handles into one and deleting the other; the build adds new people.
+- id: 2525-2525
+  name: 2525-2525
+  reddit:
+  - 2525-2525
 - id: a-xakimv
   name: sar6astic
   reddit:
@@ -17,6 +21,14 @@
   name: AcolBioReborn
 - id: adam
   name: Adam
+- id: adarshvarshan
+  name: adarshvarshan
+  reddit:
+  - adarshvarshan
+- id: adept-reputation1481
+  name: Adept-Reputation1481
+  reddit:
+  - Adept-Reputation1481
 - id: admirable-visual-406
   name: Admirable-Visual-406
   reddit:
@@ -25,6 +37,10 @@
   name: Admirable-Yak2806
   reddit:
   - Admirable-Yak2806
+- id: advisorsubstantial17
+  name: AdvisorSubstantial17
+  reddit:
+  - AdvisorSubstantial17
 - id: agent-ct8kv
   name: AGENT-ct8kv
   contacts:
@@ -44,6 +60,10 @@
     handle: agentnemo0
   - platform: youtube
     handle: DrJoeNH-x4z
+- id: ahriman
+  name: __Ahriman__
+  reddit:
+  - __Ahriman__
 - id: aimrjeremy
   name: AimRJeremy
 - id: airwaymaxxer
@@ -71,12 +91,32 @@
   note: C4
 - id: akuma-ujjain
   name: Akuma Ujjain
+- id: alert-researcher7788
+  name: Alert-Researcher7788
+  reddit:
+  - Alert-Researcher7788
+- id: alidokadri
+  name: Alidokadri
+  reddit:
+  - Alidokadri
 - id: allied-rgt
   name: Allied_Rgt
 - id: alternative-fox-4534
   name: Alternative_Fox_4534
   reddit:
   - Alternative_Fox_4534
+- id: altruistic-virus
+  name: Altruistic_Virus_
+  reddit:
+  - Altruistic_Virus_
+- id: amazing-champion-615
+  name: Amazing-Champion-615
+  reddit:
+  - Amazing-Champion-615
+- id: amcogito
+  name: amcogito
+  reddit:
+  - amcogito
 - id: amin
   name: Amin
 - id: ancient-end2474
@@ -106,6 +146,14 @@
   name: AnnualFrequent7426
   reddit:
   - AnnualFrequent7426
+- id: antique-contract-315
+  name: Antique-Contract-315
+  reddit:
+  - Antique-Contract-315
+- id: any-departure9839
+  name: Any_Departure9839
+  reddit:
+  - Any_Departure9839
 - id: anythingperson
   name: AnythingPerson
   contacts:
@@ -129,6 +177,14 @@
     handle: ozimandiazz
   - platform: discord
     handle: theessences
+- id: apprehensivegrab6086
+  name: ApprehensiveGrab6086
+  reddit:
+  - ApprehensiveGrab6086
+- id: appropriate-set-3751
+  name: Appropriate-Set-3751
+  reddit:
+  - Appropriate-Set-3751
 - id: appropriaterub6185
   name: AppropriateRub6185
   reddit:
@@ -182,6 +238,10 @@
     handle: atrox8668
 - id: aufseher
   name: Aufseher
+- id: avarua-longjump-club
+  name: Avarua-Longjump-Club
+  reddit:
+  - Avarua-Longjump-Club
 - id: awaken
   name: AwaKen
 - id: axcel
@@ -190,6 +250,10 @@
   name: Axiom
 - id: azraelyc
   name: Azraelyc
+- id: bageiroll
+  name: bageIroll
+  reddit:
+  - bageIroll
 - id: baku-s-daddy
   name: Baku's Daddy
 - id: bakumadarama
@@ -198,8 +262,16 @@
   - BakuMadarama
 - id: bakusfather1029
   name: bakusfather1029
+- id: bakuthegoat29
+  name: BakuTheGoat29
+  reddit:
+  - BakuTheGoat29
 - id: banesmanifold
   name: Banesmanifold
+- id: beneficial-log-8257
+  name: Beneficial-Log-8257
+  reddit:
+  - Beneficial-Log-8257
 - id: berl8989
   name: berl8989
   aliases:
@@ -210,8 +282,20 @@
   - platform: tiktok
     handle: icnav
   note: 'both write RFES (the feats evaluation system): ''author: berl8989'' / ''Author: berl1863 on discord'''
+- id: best-wrap-5760
+  name: Best-Wrap-5760
+  reddit:
+  - Best-Wrap-5760
+- id: betterbreakfast2699
+  name: BetterBreakfast2699
+  reddit:
+  - BetterBreakfast2699
 - id: beyond
   name: Beyond
+- id: big-application-7168
+  name: Big_Application_7168
+  reddit:
+  - Big_Application_7168
 - id: big-presentation-894
   name: Big_Presentation_894
   reddit:
@@ -223,6 +307,10 @@
   contacts:
   - platform: discord
     handle: suha008
+- id: bittertechnology6
+  name: BitterTechnology6
+  reddit:
+  - BitterTechnology6
 - id: bittus
   name: Bittus
   contacts:
@@ -232,12 +320,20 @@
   name: blank face
 - id: blazi
   name: BLAZI
+- id: blihan
+  name: Blihan
+  reddit:
+  - Blihan
 - id: bobsican
   name: Bobsican
 - id: bornpass8985
   name: BornPass8985
   reddit:
   - BornPass8985
+- id: bright-echo-3947
+  name: Bright_Echo_3947
+  reddit:
+  - Bright_Echo_3947
 - id: brunchbois
   name: brunchbois
   reddit:
@@ -279,6 +375,10 @@
   - Cardlamp
   reddit:
   - CardLampp
+- id: celestial-worthy-919
+  name: Celestial_Worthy_919
+  reddit:
+  - Celestial_Worthy_919
 - id: cento
   name: Cento
 - id: cheatspeed
@@ -291,6 +391,10 @@
   aliases:
   - CHECKMATE_71
   note: 'maintainer 2026-11-19: one person (both write No Game No Life docs)'
+- id: chemical-ad3376
+  name: Chemical_Ad3376
+  reddit:
+  - Chemical_Ad3376
 - id: chenr30829
   name: Chenr30829
   reddit:
@@ -333,14 +437,46 @@
   - platform: discord
     handle: .clouds__
   note: '''Made by Cloud(S)'' and ''Written by:Cloud(s)'' (SCP Murphy docs), ''Made by Cloud'' (20th Century Boys writing doc); .clouds__ (Discord) writes the 20th Century Boys Katsumata theory doc'
+- id: code-peak
+  name: Code_Peak
+  reddit:
+  - Code_Peak
+- id: commonsence123
+  name: CommonSence123
+  reddit:
+  - CommonSence123
+- id: communist-crusaders
+  name: Communist_Crusaders
+  reddit:
+  - Communist_Crusaders
+- id: competitive-ad-2648
+  name: Competitive_Ad_2648
+  reddit:
+  - Competitive_Ad_2648
+- id: competitive-word9745
+  name: Competitive-Word9745
+  reddit:
+  - Competitive-Word9745
 - id: complex-engineer-920
   name: Complex-Engineer-920
   reddit:
   - Complex-Engineer-920
+- id: complexfabulous1610
+  name: ComplexFabulous1610
+  reddit:
+  - ComplexFabulous1610
 - id: confidentfee5609
   name: ConfidentFee5609
   reddit:
   - ConfidentFee5609
+- id: connect-fudge8942
+  name: Connect-Fudge8942
+  reddit:
+  - Connect-Fudge8942
+- id: conscious-scale-3122
+  name: Conscious-Scale-3122
+  reddit:
+  - Conscious-Scale-3122
 - id: conversationsea1684
   name: ConversationSea1684
   reddit:
@@ -354,6 +490,10 @@
   name: cotefan456
 - id: counterkouji
   name: CounterKouji
+- id: crafty-collar-1076
+  name: Crafty_Collar_1076
+  reddit:
+  - Crafty_Collar_1076
 - id: creationcawthon2
   name: CreationCawthon2
   reddit:
@@ -363,6 +503,18 @@
   name: Creepy-Ebb-3026
   reddit:
   - Creepy-Ebb-3026
+- id: crenetick
+  name: Crenetick
+  reddit:
+  - Crenetick
+- id: croquetqueen
+  name: CroquetQueen
+  reddit:
+  - CroquetQueen
+- id: cryptic-86
+  name: Cryptic_86
+  reddit:
+  - Cryptic_86
 - id: ctrl
   name: ctrl
 - id: ctwlsolo
@@ -388,6 +540,8 @@
   - darkness_death_empty
 - id: darthren132
   name: Darthren132
+  reddit:
+  - Darthren132
 - id: dax-pmft
   name: DAX PMFT
   reddit:
@@ -399,6 +553,14 @@
   - DBTRF
 - id: ddy
   name: DDY
+- id: dead-tube5432
+  name: Dead_Tube5432
+  reddit:
+  - Dead_Tube5432
+- id: dead-tubey123
+  name: DEAD_Tubey123
+  reddit:
+  - DEAD_Tubey123
 - id: dedu-ly-britannia
   name: Dedu Ly Britannia
   aliases:
@@ -412,14 +574,26 @@
   - platform: discord
     handle: dedu_ly_britannia
   note: 'doc title ''Ghostface ... Made by Deducing Analyst'', text ''Made by: Dedu Ly Britannia''; same Lelouch doc template; ''contact my discord @Deducing_Analyst'''
+- id: deep-librarian-4763
+  name: Deep_Librarian_4763
+  reddit:
+  - Deep_Librarian_4763
 - id: deletinredditsoon
   name: DeletinRedditsoon
   reddit:
   - DeletinRedditsoon
 - id: destruction
   name: Destruction
+- id: detective-7
+  name: Detective-7
+  reddit:
+  - Detective-7
 - id: detective-kana
   name: Detective_Kana
+- id: deus-ex-machina1111
+  name: Deus-Ex-Machina1111
+  reddit:
+  - Deus-Ex-Machina1111
 - id: dezarex-moon
   name: Dezarex-Moon
 - id: different-click9753
@@ -442,6 +616,10 @@
   contacts:
   - platform: discord
     handle: dita1led
+- id: ditalled
+  name: ditalled__
+  reddit:
+  - ditalled__
 - id: dl-detective-lawliet
   name: DL (Detective Lawliet)
 - id: dominoo
@@ -454,6 +632,8 @@
   note: same Discord dominoo___; 'Jojolon Vs Domino (me)' in the Dominoo STL doc
 - id: drmillmatt
   name: DrMillMatt
+  reddit:
+  - DrMillMatt
 - id: druxzy
   name: Druxzy
 - id: due-ad8334
@@ -463,6 +643,10 @@
   reddit:
   - Due_Ad8334
   note: '''Made by TheNoo (u/Due_Ad8334)''; Due_Ad8834 is a typo in one doc'
+- id: due-turnover1421
+  name: Due_Turnover1421
+  reddit:
+  - Due_Turnover1421
 - id: dustrustguts
   name: DustRustGuts
   contacts:
@@ -470,11 +654,23 @@
     handle: EternalEditor10
 - id: dutloto
   name: Dutloto
+- id: east-safety-8656
+  name: East-Safety-8656
+  reddit:
+  - East-Safety-8656
+- id: easylaif
+  name: EasyLaif
+  reddit:
+  - EasyLaif
 - id: economy-echo-8500
   name: Echonomy
   reddit:
   - Economy_Echo_8500
   note: '''u/Economy_Echo_8500/Echonomy'''
+- id: effective-emu-9938
+  name: Effective-Emu-9938
+  reddit:
+  - Effective-Emu-9938
 - id: ekoorange
   name: ekoorange
   reddit:
@@ -499,6 +695,18 @@
   name: EnvironmentNo6525
   reddit:
   - EnvironmentNo6525
+- id: epik70
+  name: Epik70
+  reddit:
+  - Epik70
+- id: equivalent-ask-9227
+  name: Equivalent_Ask_9227
+  reddit:
+  - Equivalent_Ask_9227
+- id: equivalent-one2361
+  name: Equivalent-One2361
+  reddit:
+  - Equivalent-One2361
 - id: erika
   name: Erika
   aliases:
@@ -554,6 +762,10 @@
   reddit:
   - Federal-Manner3880
   note: same handle
+- id: few-masterpiece-3261
+  name: Few-Masterpiece-3261
+  reddit:
+  - Few-Masterpiece-3261
 - id: fezzih-007
   name: Fezzih 007
 - id: filipkrzakthekiller
@@ -562,8 +774,16 @@
   name: Financial-Fix2412
   reddit:
   - Financial-Fix2412
+- id: fit-strain-9215
+  name: Fit_Strain_9215
+  reddit:
+  - Fit_Strain_9215
 - id: fit-veterinarian
   name: Fit-Veterinarian
+- id: fit-veterinarian-729
+  name: Fit_Veterinarian_729
+  reddit:
+  - Fit_Veterinarian_729
 - id: fluffytaste4061
   name: FluffyTaste4061
   reddit:
@@ -585,6 +805,10 @@
   - platform: discord
     handle: forallposterity
   note: 'maintainer 2026-11-19: ForAllPosterity = Posterity = u/lzyaboiConnor = Connor / Connor k800 (one person)'
+- id: forken-127
+  name: forken_127
+  reddit:
+  - forken_127
 - id: fran
   name: Fran
 - id: freddy-fivebear
@@ -597,6 +821,10 @@
   name: FRIShinichi
   reddit:
   - FRIShinichi
+- id: fsqm1
+  name: fsqm1
+  reddit:
+  - fsqm1
 - id: fun-fold9539
   name: Fun-Fold9539
   reddit:
@@ -641,18 +869,42 @@
   - platform: youtube
     handle: Gusstv48
   note: 'same Discord gustavof43 (''disc: gustavof43 / ghsborz''); the Assane Diop doc ''made by: ghs'' gives YouTube Gusstv48 + Discord gustavof43'
+- id: glittering-middle430
+  name: Glittering-Middle430
+  reddit:
+  - Glittering-Middle430
+- id: glonk-the-serf
+  name: Glonk_the_Serf
+  reddit:
+  - Glonk_the_Serf
 - id: goatkami
   name: GoatKami
+- id: god-killer1
+  name: God_killer1
+  reddit:
+  - God_killer1
+- id: godzillagamer15777
+  name: Godzillagamer15777
+  reddit:
+  - Godzillagamer15777
 - id: gold-leadership1844
   name: Gold_Leadership1844
   reddit:
   - Gold_Leadership1844
+- id: good-fennel7417
+  name: Good-Fennel7417
+  reddit:
+  - Good-Fennel7417
 - id: green-bean
   name: Green Bean
 - id: greentoaststone
   name: Greentoaststone
   reddit:
   - Greentoaststone
+- id: grey-500
+  name: Grey_500
+  reddit:
+  - Grey_500
 - id: grove421
   name: Grove421
 - id: gruner-drache
@@ -682,6 +934,10 @@
   - hayateshiraishi
 - id: hayatoz
   name: Hayatoz
+- id: heavy-bar-5544
+  name: Heavy-Bar-5544
+  reddit:
+  - Heavy-Bar-5544
 - id: heckthiscrapimout
   name: heckthiscrapimout
   reddit:
@@ -701,6 +957,10 @@
   contacts:
   - platform: discord
     handle: solosyourfavourite
+- id: herondefiant6644
+  name: HeronDefiant6644
+  reddit:
+  - HeronDefiant6644
 - id: hideedit
   name: HideEdit
   contacts:
@@ -737,24 +997,64 @@
   contacts:
   - platform: youtube
     handle: Hour Reach
+- id: hour-trade-3691
+  name: Hour_Trade_3691
+  reddit:
+  - Hour_Trade_3691
 - id: hourframe9349
   name: HourFrame9349
+- id: howdyashleyhere
+  name: HowdyAshleyHere
+  reddit:
+  - HowdyAshleyHere
+- id: howisthisausername14
+  name: howisthisausername14
+  reddit:
+  - howisthisausername14
 - id: huegexick
   name: Huegexick
 - id: iamnotbatman132
   name: IAmNotBatman132
   reddit:
   - IAmNotBatman132
+- id: icy-disposition
+  name: Icy-Disposition
+  reddit:
+  - Icy-Disposition
+- id: icy-product-663
+  name: Icy-Product-663
+  reddit:
+  - Icy-Product-663
+- id: ieatfud-555
+  name: ieatfud_555
+  reddit:
+  - ieatfud_555
+- id: ill-caregiver-6082
+  name: Ill_Caregiver_6082
+  reddit:
+  - Ill_Caregiver_6082
 - id: illregister5884
   name: IllRegister5884
   reddit:
   - IllRegister5884
+- id: illustrious-win-4859
+  name: Illustrious_Win_4859
+  reddit:
+  - Illustrious_Win_4859
 - id: im-futuree
   name: Im_Futuree
   reddit:
   - Im_Futuree
 - id: immortal-f8k
   name: immortal-f8k
+- id: important-breath1297
+  name: Important-Breath1297
+  reddit:
+  - Important-Breath1297
+- id: important-cup-8991
+  name: Important-Cup-8991
+  reddit:
+  - Important-Cup-8991
 - id: incidentill7680
   name: IncidentIll7680
   reddit:
@@ -765,6 +1065,14 @@
   - Individual-Gap-105
 - id: indra
   name: Indra
+- id: inevitable-dig-7080
+  name: Inevitable_Dig_7080
+  reddit:
+  - Inevitable_Dig_7080
+- id: inevitable-turtle-22
+  name: Inevitable-turtle-22
+  reddit:
+  - Inevitable-turtle-22
 - id: inferno
   name: Inferno
 - id: inhellextreamplayer
@@ -779,6 +1087,14 @@
   name: Interesting_Gap4343
   reddit:
   - Interesting_Gap4343
+- id: internalhouse1952
+  name: InternalHouse1952
+  reddit:
+  - InternalHouse1952
+- id: iopt4chikonwig
+  name: Iopt4ChikonWig
+  reddit:
+  - Iopt4ChikonWig
 - id: j3llo192
   name: j3llo192
 - id: jackthezodiac
@@ -833,6 +1149,10 @@
   name: JoJolon
 - id: jonas
   name: Jonas
+- id: joseph-studio-3006
+  name: Joseph-studio-3006
+  reddit:
+  - Joseph-studio-3006
 - id: joshisidk
   name: joshisidk
   contacts:
@@ -848,8 +1168,20 @@
   name: Jumpy-Ad6881
   reddit:
   - Jumpy-Ad6881
+- id: junkosoulzz
+  name: junkosoulzz
+  reddit:
+  - junkosoulzz
+- id: juukulius
+  name: Juukulius-
+  reddit:
+  - Juukulius-
 - id: k
   name: K
+- id: kafka-akatsuki
+  name: Kafka_Akatsuki
+  reddit:
+  - Kafka_Akatsuki
 - id: kaizer-jester
   name: Kaizer Jester
 - id: kakarot362
@@ -887,6 +1219,10 @@
     handle: lilcbum
   - platform: tiktok
     handle: kingdod69
+- id: kinginblackness
+  name: KingInBlackness
+  reddit:
+  - KingInBlackness
 - id: kingjaymes1234
   name: kingjaymes1234
   reddit:
@@ -912,6 +1248,7 @@
   - Axolotol4044
   reddit:
   - KitchenCoyote_The2nd
+  - Kitchen_Coyote7942
   note: 'C3: ''Made by-KC Axolotal/KitchenCoyote7942'' (12 docs)'
   contacts:
   - platform: discord
@@ -937,11 +1274,23 @@
   - Last-Trainer-3323
   - Last-Trainer-333
   note: C4 typo
+- id: lawfulnessexpert220
+  name: LawfulnessExpert220
+  reddit:
+  - LawfulnessExpert220
 - id: lawlietfym
   name: Lawlietfym
   contacts:
   - platform: discord
     handle: Lawlietfym
+- id: lawligh0
+  name: lawligh0
+  reddit:
+  - lawligh0
+- id: lclboomb
+  name: lclboomb
+  reddit:
+  - lclboomb
 - id: lena-fox8
   name: Lena_Fox8
   contacts:
@@ -969,16 +1318,34 @@
   name: Lexyo
 - id: lieeater
   name: LieEater
+- id: lightningrodmb
+  name: lightningrodmb
 - id: limbo
   name: Limbo
 - id: lio-h
   name: lio_h
+- id: literalwhitetrash
+  name: LiteralWhiteTrash
+  reddit:
+  - LiteralWhiteTrash
+- id: living-light6115
+  name: Living_light6115
+  reddit:
+  - Living_light6115
+- id: lizardkingtmotk
+  name: LizardKingTMOTK
+  reddit:
+  - LizardKingTMOTK
 - id: lla
   name: LLA
 - id: lloyaro
   name: Lloyaro
 - id: local-editz-from-yt
   name: LOCAL EDITZ FROM YT
+- id: logical-arachnid-066
+  name: Logical-Arachnid-066
+  reddit:
+  - Logical-Arachnid-066
 - id: lolking-w7e
   name: Lolking-w7e
 - id: losuthuswastaken
@@ -989,6 +1356,14 @@
   name: Loy
 - id: luga
   name: Luga
+- id: lumpy-wishbone1760
+  name: Lumpy_Wishbone1760
+  reddit:
+  - Lumpy_Wishbone1760
+- id: lustenly
+  name: lustenly
+  reddit:
+  - lustenly
 - id: lyrl1998
   name: Lyrl1998
   contacts:
@@ -1002,8 +1377,16 @@
   name: Magmax1b
   reddit:
   - Magmax1b
+- id: mainasugomi
+  name: Mainasugomi
+  reddit:
+  - Mainasugomi
 - id: majd
   name: majd
+- id: maker-78
+  name: Maker-78
+  reddit:
+  - Maker-78
 - id: marco-123
   name: marco.123
   aliases:
@@ -1012,11 +1395,19 @@
   - platform: discord
     handle: marco.123_
   note: '''AimRJeremy and Marco (mostly Marco), our discords are aimrjeremy and marco.123_'''
+- id: marty-smh
+  name: Marty-Smh
+  reddit:
+  - Marty-Smh
 - id: maskoftheruler
   name: maskoftheruler
   contacts:
   - platform: discord
     handle: maskoftheruler
+- id: masterbug9506
+  name: MasterBug9506
+  reddit:
+  - MasterBug9506
 - id: mastermind
   name: Mastermind
 - id: mathematicianone4197
@@ -1032,12 +1423,28 @@
   note: '''Created by:matthyas-Job'', posted by u/matthyas-Job5739'
 - id: matty-the-ace-detective
   name: Matty the Ace Detective
+- id: maze-master420
+  name: Maze_Master420
+  reddit:
+  - Maze_Master420
+- id: mediocre-buy-4065
+  name: Mediocre_Buy_4065
+  reddit:
+  - Mediocre_Buy_4065
 - id: mehmetkabak9848
   name: mehmetkabak9848
+- id: mellfy
+  name: mellfy
+  reddit:
+  - mellfy
 - id: melodic-ad1005
   name: Melodic_Ad1005
   reddit:
   - Melodic_Ad1005
+- id: melodiccreme2583
+  name: MelodicCreme2583
+  reddit:
+  - MelodicCreme2583
 - id: membershipno9359
   name: MembershipNo9359
   reddit:
@@ -1073,6 +1480,10 @@
   reddit:
   - Millenium_Knight
   note: name + handle on the same credit; 'Made by Millennium Knight' in 2 docs
+- id: minimum-ad8682
+  name: Minimum_Ad8682
+  reddit:
+  - Minimum_Ad8682
 - id: mister-mxyzptik
   name: Mister_MxyzptIk_
   reddit:
@@ -1090,8 +1501,16 @@
   contacts:
   - platform: discord
     handle: monochrometrav
+- id: morgan-7557
+  name: Morgan_7557
+  reddit:
+  - Morgan_7557
 - id: morreti-amon
   name: Morreti_Amon
+- id: mrdisintegrator
+  name: MrDisintegrator
+  reddit:
+  - MrDisintegrator
 - id: mrnotme
   name: Mrnotme
   aliases:
@@ -1111,6 +1530,10 @@
     handle: muaaze
 - id: mugen
   name: Mugen
+- id: munou
+  name: Munou-
+  reddit:
+  - Munou-
 - id: murky-possibility655
   name: Murky_Possibility655
   reddit:
@@ -1130,6 +1553,10 @@
   name: Namy
 - id: natsuva
   name: NatsuVA
+- id: natural-key-7855
+  name: Natural-Key-7855
+  reddit:
+  - Natural-Key-7855
 - id: nazif2
   name: Nazif2
   reddit:
@@ -1147,12 +1574,28 @@
   name: Nearby-Row4308
   reddit:
   - Nearby-Row4308
+- id: neartheheart
+  name: NearTheHeart
+  reddit:
+  - NearTheHeart
 - id: neat-fold7693
   name: Neat-Fold7693
   reddit:
   - Neat-Fold7693
 - id: neffy
   name: Neffy
+- id: nemo-lemon01
+  name: Nemo-Lemon01
+  reddit:
+  - Nemo-Lemon01
+- id: neveljack
+  name: Neveljack
+  reddit:
+  - Neveljack
+- id: nexio8324
+  name: Nexio8324
+  reddit:
+  - Nexio8324
 - id: nga-ballz
   name: Nga-Ballz
   reddit:
@@ -1168,6 +1611,10 @@
   contacts:
   - platform: discord
     handle: ninonous
+- id: no-elevator7607
+  name: No_Elevator7607
+  reddit:
+  - No_Elevator7607
 - id: no-engineering-3223
   name: No_Engineering_3223
   reddit:
@@ -1176,6 +1623,18 @@
   name: No-Engineering9521
   reddit:
   - No-Engineering9521
+- id: no-nebula2521
+  name: No_Nebula2521
+  reddit:
+  - No_Nebula2521
+- id: no-sound-1920
+  name: No_Sound_1920
+  reddit:
+  - No_Sound_1920
+- id: no-strawberry5397
+  name: No_Strawberry5397
+  reddit:
+  - No_Strawberry5397
 - id: no-woodpecker-1801
   name: No_Woodpecker_1801
   reddit:
@@ -1191,6 +1650,18 @@
   name: NoScar2207
   reddit:
   - NoScar2207
+- id: notknowninhere
+  name: Notknowninhere
+  reddit:
+  - Notknowninhere
+- id: notsosmart92
+  name: NotSoSmart92
+  reddit:
+  - NotSoSmart92
+- id: novel-arrival-677
+  name: Novel-Arrival-677
+  reddit:
+  - Novel-Arrival-677
 - id: nox
   name: Nox
 - id: null-white
@@ -1198,6 +1669,10 @@
   aliases:
   - 'Null'
   note: 'maintainer 2026-11-19: one person; both docs give the Discord contact mcbacon_'
+- id: nullsaint
+  name: NullSaint-
+  reddit:
+  - NullSaint-
 - id: obvious-ad-6250
   name: Obvious_Ad_6250
   reddit:
@@ -1212,6 +1687,14 @@
   name: Ok_Chef1056
   reddit:
   - Ok_Chef1056
+- id: ok-olive-5326
+  name: Ok-Olive-5326
+  reddit:
+  - Ok-Olive-5326
+- id: ok-singer2549
+  name: Ok-Singer2549
+  reddit:
+  - Ok-Singer2549
 - id: ok-swan-1590
   name: Ok-Swan-1590
   reddit:
@@ -1220,17 +1703,49 @@
   name: OkEmployment2573
   reddit:
   - OkEmployment2573
+- id: old-buy-2801
+  name: Old_Buy_2801
+  reddit:
+  - Old_Buy_2801
+- id: omixscniet624
+  name: Omixscniet624
+  reddit:
+  - Omixscniet624
 - id: omnicon
   name: Omnicon
 - id: on-my-mama-we-lit
   name: On My Mama We Lit
+- id: onemid11037
+  name: OneMid11037
+  reddit:
+  - OneMid11037
 - id: onirax
   name: Onirax
+- id: onlyeinz
+  name: OnlyEinz
+  reddit:
+  - OnlyEinz
+- id: onlylolimancer
+  name: onlylolimancer
+  reddit:
+  - onlylolimancer
 - id: opp199
   name: Opp199
   aliases:
   - Piobenneci
   note: '''Opp199 (Piobenneci)'''
+- id: ordinary-pal
+  name: Ordinary_Pal
+  reddit:
+  - Ordinary_Pal
+- id: organic-meringue2701
+  name: Organic-Meringue2701
+  reddit:
+  - Organic-Meringue2701
+- id: original-gift-4070
+  name: Original-Gift-4070
+  reddit:
+  - Original-Gift-4070
 - id: ornery-list-6670
   name: Ornery_List_6670
   reddit:
@@ -1248,8 +1763,24 @@
   name: OverLordThresh
 - id: overseer
   name: OVERSEER
+- id: own-lab-8850
+  name: Own-Lab-8850
+  reddit:
+  - Own-Lab-8850
 - id: parladax
   name: Parladax
+- id: particular-inside975
+  name: Particular_Inside975
+  reddit:
+  - Particular_Inside975
+- id: particular-tank-5225
+  name: Particular_Tank_5225
+  reddit:
+  - Particular_Tank_5225
+- id: passagenegative225
+  name: PassageNegative225
+  reddit:
+  - PassageNegative225
 - id: patchioox
   name: PatchiooX
 - id: patient-hospital-372
@@ -1265,6 +1796,10 @@
     handle: PerdidoNasRealidades
   - platform: discord
     handle: Lostinrealityss
+- id: pessoapersonaperson
+  name: PessoaPersonaPerson
+  reddit:
+  - PessoaPersonaPerson
 - id: phoenix-animationz
   name: Phoenix Animationz
 - id: pick-me-gal-1092
@@ -1279,14 +1814,38 @@
   name: plank_krabs66
 - id: plasma
   name: Plasma
+- id: plastic-switch8335
+  name: Plastic-Switch8335
+  reddit:
+  - Plastic-Switch8335
 - id: platfleece
   name: PlatFleece
   reddit:
   - PlatFleece
+- id: pleasant-distance665
+  name: Pleasant_Distance665
+  reddit:
+  - Pleasant_Distance665
 - id: pleiades
   name: Pleiades
+- id: plentywise3615
+  name: PlentyWise3615
+  reddit:
+  - PlentyWise3615
 - id: pointscales
   name: PointScales
+- id: prestigious-shoe-352
+  name: Prestigious-Shoe-352
+  reddit:
+  - Prestigious-Shoe-352
+- id: prestigiousdelay5371
+  name: PrestigiousDelay5371
+  reddit:
+  - PrestigiousDelay5371
+- id: pretzels0314
+  name: Pretzels0314
+  reddit:
+  - Pretzels0314
 - id: professor-fiction
   name: Professor Fiction
 - id: proud-magazine-5588
@@ -1309,6 +1868,10 @@
   - Quiet_Apricot7175
 - id: qwerty-8732
   name: qwerty_8732
+- id: r3i-651413
+  name: r3i_651413
+  reddit:
+  - r3i_651413
 - id: rain
   name: Rain
   contacts:
@@ -1316,6 +1879,10 @@
     handle: divinerain5956
 - id: raiontoku
   name: raiontoku
+- id: randommangacharacter
+  name: randommangacharacter
+  reddit:
+  - randommangacharacter
 - id: ranpo-editz
   name: ranpo_Editz
   contacts:
@@ -1336,6 +1903,14 @@
   name: RCN
 - id: real1st1cfr1sk
   name: real1st1cfr1sk
+- id: rebon6
+  name: rebon6
+  reddit:
+  - rebon6
+- id: recover-last
+  name: Recover-Last
+  reddit:
+  - Recover-Last
 - id: red-duck
   name: Red Duck
 - id: reda
@@ -1348,10 +1923,18 @@
   name: Redscreen
 - id: reincarnateddeveloped-supremacy
   name: ReincarnatedDeveloped Supremacy
+- id: relevant-bed-3767
+  name: Relevant_Bed_3767
+  reddit:
+  - Relevant_Bed_3767
 - id: responselower49
   name: ResponseLower49
   reddit:
   - ResponseLower49
+- id: responsible-ear6854
+  name: Responsible-Ear6854
+  reddit:
+  - Responsible-Ear6854
 - id: retentioner
   name: Retentioner
   reddit:
@@ -1373,6 +1956,10 @@
   name: RF532
 - id: rian
   name: Rian
+- id: rici
+  name: -Rici-
+  reddit:
+  - -Rici-
 - id: right-scene5629
   name: Right-Scene5629
   reddit:
@@ -1410,11 +1997,19 @@
   name: saggezman
 - id: sahejunderheaven
   name: SahejUnderHeaven
+- id: saifo-san
+  name: saifo_san
+  reddit:
+  - saifo_san
 - id: salty-refuse-5537
   name: Salty Refuse
   reddit:
   - Salty-Refuse-5537
   note: '''Made By Salty Refuse'', posted by u/Salty-Refuse-5537'
+- id: salty-wall
+  name: Salty_Wall
+  reddit:
+  - Salty_Wall
 - id: samuel-alistair
   name: Samuel Alistair
   aliases:
@@ -1425,6 +2020,14 @@
   name: SapientLiberExpanse8
   reddit:
   - SapientLiberExpanse8
+- id: sardine87
+  name: Sardine87
+  reddit:
+  - Sardine87
+- id: satisfiedunsatisfied
+  name: SatisfiedUnsatisfied
+  reddit:
+  - SatisfiedUnsatisfied
 - id: saul-badman
   name: Saul Badman
 - id: scary-examination887
@@ -1448,6 +2051,14 @@
     handle: scytherzilla360
   - platform: youtube
     handle: scytherzilla360
+- id: sea-green1595
+  name: Sea-Green1595
+  reddit:
+  - Sea-Green1595
+- id: seaofknowledge123
+  name: seaofknowledge123
+  reddit:
+  - seaofknowledge123
 - id: secure-camp1433
   name: Secure-Camp1433
   reddit:
@@ -1468,6 +2079,10 @@
   name: Shadow
 - id: shadow-death
   name: Shadow_Death
+- id: sherly
+  name: Sherly-_-
+  reddit:
+  - Sherly-_-
 - id: shin
   name: Shin
   aliases:
@@ -1492,9 +2107,15 @@
   name: sido75
 - id: sieben
   name: Sieben
+  reddit:
+  - Sieben_Guts
   contacts:
   - platform: discord
     handle: sieben_guts
+- id: signal-education-464
+  name: Signal-Education-464
+  reddit:
+  - Signal-Education-464
 - id: signal-experience315
   name: Signal-Experience315
   reddit:
@@ -1517,6 +2138,14 @@
   reddit:
   - Simply_Amazing_1610
   note: 'C2: ''* Rashoumon/ Simply Amazing'''
+- id: sir-faceiess
+  name: Sir_FaceIess
+  reddit:
+  - Sir_FaceIess
+- id: sixxhate
+  name: SixxHate
+  reddit:
+  - SixxHate
 - id: slapstick-editz
   name: Slapstick_Editz
 - id: slick-editzzz
@@ -1545,6 +2174,10 @@
   - Solo2232_21
 - id: sonder
   name: sonder
+- id: sorewa-chigauyo
+  name: sorewa_chigauyo
+  reddit:
+  - sorewa_chigauyo
 - id: soumikdeb1
   name: SoumikDeb1
   aliases:
@@ -1579,6 +2212,18 @@
   name: sscoopers
   reddit:
   - sscoopers
+- id: standarddelicious163
+  name: StandardDelicious163
+  reddit:
+  - StandardDelicious163
+- id: stevec171
+  name: SteveC171
+  reddit:
+  - SteveC171
+- id: strikethegoal007
+  name: StrikeTheGoal007
+  reddit:
+  - StrikeTheGoal007
 - id: striking-dot-9947
   name: Striking-Dot-9947
   reddit:
@@ -1601,12 +2246,24 @@
   name: Survoyd
 - id: suspicious-cut3802
   name: suspicious-cut3802
+- id: suspicious-drop-2272
+  name: Suspicious-Drop-2272
+  reddit:
+  - Suspicious-Drop-2272
+- id: suspicious-good2781
+  name: Suspicious-Good2781
+  reddit:
+  - Suspicious-Good2781
 - id: suunt
   name: suunt
 - id: tanvir
   name: Tanvir
 - id: teare
   name: Tearé
+- id: terrible-park7890
+  name: Terrible_Park7890
+  reddit:
+  - Terrible_Park7890
 - id: tertywater
   name: tertywater
   contacts:
@@ -1621,6 +2278,14 @@
   note: C4
 - id: thatboirick
   name: ThatBoiRick
+- id: thatdickyboi
+  name: ThatDickyBoi
+  reddit:
+  - ThatDickyBoi
+- id: thatguyislonelyfr
+  name: thatguyislonelyfr
+  reddit:
+  - thatguyislonelyfr
 - id: the-anime-nox
   name: the_anime_nox
 - id: the-eagle-union
@@ -1629,6 +2294,14 @@
   - Eagle Union
 - id: the-shapeless-theory
   name: The.Shapeless.Theory
+- id: the-sillyone
+  name: the_sillyone
+  reddit:
+  - the_sillyone
+- id: the-truegamer
+  name: The_TrueGamer
+  reddit:
+  - The_TrueGamer
 - id: thecardinalking
   name: TheCardinalKing
 - id: thecheergoose
@@ -1640,8 +2313,16 @@
   aliases:
   - Huntsman
   note: 'best guess 2026-11-19 (tag pass Q16): the Huntsman of the L stock-feat and Ayanokoji chess-feat debates; TheHuntsman1001 writes the CotE chess-feat docs'
+- id: thekillerytz
+  name: TheKillerYTz
+  reddit:
+  - TheKillerYTz
 - id: thekingstrategist13
   name: TheKingStrategist13
+- id: thelarptriad
+  name: TheLarpTriad
+  reddit:
+  - TheLarpTriad
 - id: theller
   name: Theller
   contacts:
@@ -1651,6 +2332,10 @@
   name: TheNamelessMonster_-
   reddit:
   - TheNamelessMonster_-
+- id: theosophicalastra
+  name: TheosophicalAstra
+  reddit:
+  - TheosophicalAstra
 - id: therealmaster98
   name: TheRealMaster98
   reddit:
@@ -1671,6 +2356,9 @@
   name: Tokho
   aliases:
   - Cridemord
+  reddit:
+  - Crid3m0r
+  - Cridemord
   note: 'C5: ''Made by: Tokho/Cridemord'''
 - id: tom-taylor-productions
   name: Tom Taylor Productions
@@ -1678,6 +2366,10 @@
   name: Top-Arm-5459
   reddit:
   - Top-Arm-5459
+- id: top-examination511
+  name: Top_Examination511
+  reddit:
+  - Top_Examination511
 - id: top-order7475
   name: Top-Order7475
   reddit:
@@ -1702,6 +2394,18 @@
   name: TRD
 - id: trixie
   name: Trixie
+- id: ttt948
+  name: TTT948
+  reddit:
+  - TTT948
+- id: typicalanomaly101
+  name: TypicalAnomaly101
+  reddit:
+  - TypicalAnomaly101
+- id: ultrafrost
+  name: Ultrafrost-
+  reddit:
+  - Ultrafrost-
 - id: umogrimes
   name: umogrimes
 - id: umontrose
@@ -1713,6 +2417,10 @@
     handle: umontrose
   - platform: tiktok
     handle: umontrose
+- id: underratedlowtiergod
+  name: UnderratedLowTierGod
+  reddit:
+  - UnderratedLowTierGod
 - id: universal
   name: Universal
 - id: unknownuser
@@ -1724,6 +2432,10 @@
     handle: unknownuser016360
   - platform: youtube
     handle: idkiforgot999
+- id: unlucky2362
+  name: Unlucky2362
+  reddit:
+  - Unlucky2362
 - id: unsophiscatedsophist
   name: UnsophiscatedSophist
   contacts:
@@ -1737,6 +2449,14 @@
   name: upperlvl898
   reddit:
   - upperlvl898
+- id: upstairs-plant1988
+  name: Upstairs_Plant1988
+  reddit:
+  - Upstairs_Plant1988
+- id: usoguisolos
+  name: Usoguisolos
+  reddit:
+  - Usoguisolos
 - id: usoguitard
   name: Usoguitard
   reddit:
@@ -1748,14 +2468,22 @@
     handle: v1nsand
 - id: v5mk
   name: v5mk
+  reddit:
+  - v5mk
 - id: valxn1e
   name: Valxn1e
   reddit:
   - Valxn1e
+- id: vast-debate-4387
+  name: Vast_Debate_4387
+  reddit:
+  - Vast_Debate_4387
 - id: velquinn
   name: Velquinn
 - id: velvet
   name: Velvet
+  reddit:
+  - Reddest_Velvet6
   contacts:
   - platform: discord
     handle: reddest_velvet_
@@ -1811,6 +2539,10 @@
   - WaltWhite62
 - id: wanoxx
   name: Wanoxx
+- id: wasgoodbabygirl
+  name: wasgoodbabygirl
+  reddit:
+  - wasgoodbabygirl
 - id: westno356
   name: WestNo356
   reddit:
@@ -1820,6 +2552,10 @@
   aliases:
   - Whanks 🇧🇷
   note: same name with a flag emoji
+- id: what-a-burden
+  name: What-A-Burden
+  reddit:
+  - What-A-Burden
 - id: whitty
   name: Whitty
 - id: whynot5534
@@ -1829,6 +2565,14 @@
     handle: Whynot5534
   - platform: discord
     handle: whynot_223
+- id: wifree-mc
+  name: Wifree_MC
+  reddit:
+  - Wifree_MC
+- id: wild-review-4177
+  name: Wild_Review_4177
+  reddit:
+  - Wild_Review_4177
 - id: wonderline
   name: wonderline
 - id: xamot113
@@ -1842,6 +2586,8 @@
     handle: xd_killa79xx
 - id: xdwasgone
   name: XDwasGone
+  reddit:
+  - XDwasGone_
   contacts:
   - platform: discord
     handle: XDwasGone
@@ -1879,11 +2625,23 @@
   name: Yusha
 - id: yuuichigiri
   name: YuuichiGiri
+- id: zallyboii123
+  name: zallyboii123
+  reddit:
+  - zallyboii123
 - id: zandro
   name: Zandro
   contacts:
   - platform: discord
     handle: zandro0232
+- id: zealous998
+  name: Zealous998
+  reddit:
+  - Zealous998
+- id: zealousidealdance175
+  name: ZealousidealDance175
+  reddit:
+  - ZealousidealDance175
 - id: zef
   name: Zef
 - id: zergursh

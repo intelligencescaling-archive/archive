@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-fooled-the-internet-into-thinking-he-s-top-2
+category: doc
+title: Light Yagami Fooled the Internet into Thinking He's Top 2 in DN by Leeching Off L (Death Note)
+alt_titles:
+- 'BREAKING NEWS: Light Yagami reveals he fooled the internet into thinking he''s top 2 in DN by leeching off L!!'
+authors:
+- name: Fit_Veterinarian_729
+  reddit: Fit_Veterinarian_729
+  id: fit-veterinarian-729
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+- l-lawliet
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t78es3/breaking_news_light_yagami_reveals_he_fooled_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 695
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 23658
+      sha256: df9c858a75bf5270b466281a42349cb4c6f55c2ee922da90d15b95b2773d62c8
+    - format: jpg
+      name: image-2.jpg
+      bytes: 246804
+      sha256: c62dca33ba491be9b269d95720c9e614ae9a5f4f22c22504667015c456e36587
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

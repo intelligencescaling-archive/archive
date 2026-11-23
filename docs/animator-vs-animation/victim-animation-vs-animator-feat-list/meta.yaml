@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: victim-animation-vs-animator-feat-list
+category: doc
+title: Victim (Animation vs Animator) Feat List
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- animator-vs-animation
+characters:
+- victim-animator-vs-animation
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oja5rr/victim_animation_vs_animator_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 540
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 57620
+      sha256: 2345d9035b86a4f1a9ac62396d61c8d9cc623fae5de9a989d1d54b8d05d17ffb
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dream-s-feats-in-manhunt-revival-vs-4-hunters-minecraft
+category: doc
+title: Dream's Feats in Manhunt Revival vs 4 Hunters (Minecraft)
+authors:
+- name: Geolib1453
+  reddit: Geolib1453
+  id: geolib1453
+  source: reddit-post
+series:
+- minecraft
+characters:
+- dream
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qc0i9w/dream_manhunt_revival_how_smart_is_dream/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1233
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 385148
+      sha256: d6698525262d312a52a9b855b7653bb606116b26d31737136a3788391ad928f0
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

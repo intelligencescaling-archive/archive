@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: analysis-of-lalo-s-strategy-in-air-poker-usogui
+category: doc
+title: Analysis of Lalo's Strategy in Air Poker (Usogui)
+alt_titles:
+- Analysis of Lalo's strategy in Air Poker
+authors:
+- name: Code_Peak
+  reddit: Code_Peak
+  id: code-peak
+  source: reddit-post
+series:
+- usogui
+characters:
+- vincent-lalo
+- baku-madarame
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uebdw9/analysis_of_lalos_strategy_in_air_poker/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1483
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 704570
+      sha256: 3a2567003b715e33464fbae3d89304832f7b47facbef3af0f5aab3b9917ab24d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: gus-oppositional-evasion-and-counterstrategy-in-end-times
+category: doc
+title: Gus' Oppositional Evasion and Counterstrategy in End Times and Face Off Explained (Breaking Bad)
+alt_titles:
+- Gus’ oppositional evasion and counterstrategy in End Times and Face Off explained
+authors:
+- name: Reddest_Velvet6
+  reddit: Reddest_Velvet6
+  id: velvet
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- gus-fring
+tags:
+- analysis
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ph54f6/gus_oppositional_evasion_and_counterstrategy_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1173
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 191274
+      sha256: 566fe014e98ddaba7517d71e5f2be0407cc588757e5046cae080d56eacd5fa98
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

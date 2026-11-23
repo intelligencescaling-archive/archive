@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: franklin-saint-s-capture-teddy-strategy-snowfall
+category: doc
+title: Franklin Saint's "Capture Teddy" Strategy (Snowfall)
+alt_titles:
+- Franklin Saint's "Capture Teddy" Strategy
+authors:
+- name: CommonSence123
+  reddit: CommonSence123
+  id: commonsence123
+  source: reddit-post
+series:
+- snowfall
+characters:
+- franklin-saint
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r5tq4g/franklin_saints_capture_teddy_strategy/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1154
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 299198
+      sha256: 0b2ee6b4c1b5e958ea8852d8eb1b875842c2d3b5b575b5e852ddc155fe40410b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

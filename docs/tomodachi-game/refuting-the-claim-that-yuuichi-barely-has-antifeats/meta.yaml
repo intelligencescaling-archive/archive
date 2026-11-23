@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: refuting-the-claim-that-yuuichi-barely-has-antifeats
+category: doc
+title: Refuting the Claim That Yuuichi Barely Has Antifeats (Tomodachi Game)
+alt_titles:
+- Refutation to SatisfiedUnsatisfieds Yuuichi claim
+authors:
+- name: Old_Buy_2801
+  reddit: Old_Buy_2801
+  id: old-buy-2801
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1w47cmd/refutation_to_satisfiedunsatisfieds_yuuichi_claim/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2086
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

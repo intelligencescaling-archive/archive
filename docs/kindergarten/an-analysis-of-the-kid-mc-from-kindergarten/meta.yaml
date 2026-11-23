@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: an-analysis-of-the-kid-mc-from-kindergarten
+category: doc
+title: An Analysis of the Kid (MC) from Kindergarten
+alt_titles:
+- An analysis of the kid (MC) from kindergarten games
+authors:
+- name: Deep_Librarian_4763
+  reddit: Deep_Librarian_4763
+  id: deep-librarian-4763
+  source: reddit-post
+series:
+- kindergarten
+characters:
+- the-kid-kindergarten
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vxpyj6/an_analysis_of_the_kid_mc_from_kindergarten_games/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1640
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 24681
+      sha256: c6d827a115f8fc0d190c45cc7ec81f2127d1a7a8e172495e07c8ea5a57867335
+    - format: png
+      name: image-2.png
+      bytes: 210975
+      sha256: e397e206af279237a1714af90ddf7acad6bd85e5a5a1ca61105620ab22cb2555
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

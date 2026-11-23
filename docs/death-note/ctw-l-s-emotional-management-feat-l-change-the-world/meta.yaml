@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ctw-l-s-emotional-management-feat-l-change-the-world
+category: doc
+title: 'CTW L''s Emotional Management Feat (L: Change the World)'
+alt_titles:
+- Would you think the CTW L EM feat is valid ?
+authors: []
+shared_by:
+- name: Heavy-Bar-5544
+  reddit: Heavy-Bar-5544
+  id: heavy-bar-5544
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ryz3oh/would_you_think_the_ctw_l_em_feat_is_valid/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 905
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 245203
+      sha256: 2b2801fe912ce9f94744baa1d19636e2083843b75f8f1dbe199a80ab4dfe2a99
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

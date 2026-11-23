@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: d3rlord3-feat-list-updated
+category: doc
+title: D3rLord3 Feat List (Updated)
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- wifies
+characters:
+- d3rlord3
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1otdc9k/d3rlord3_feat_list_updated/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 617
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40332
+      sha256: 41f959716ba03cb12ac647429b2ef240c7b77e3ee5caade1466d8dd2dd8ae26b
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: random-minor-palpatine-feat-1-legends-palpatine-s-reaction
+category: doc
+title: 'Random Minor Palpatine Feat #1: Legends Palpatine''s Reaction to the Death Star''s Destruction (Star Wars)'
+alt_titles:
+- Random minor Palpatine feat#1- Legends Palpatine's reaction to the Death Star's destruction
+authors:
+- name: Ok_Cardiologist_5925
+  reddit: Ok_Cardiologist_5925
+  id: ok-cardiologist-5925
+  source: reddit-post
+series:
+- star-wars
+characters:
+- emperor-palpatine
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x6o1rn/random_minor_palpatine_feat1_legends_palpatines/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1253
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

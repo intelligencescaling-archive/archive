@@ -1,0 +1,56 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: monika-vs-makima-in-manipulation
+category: doc
+title: Monika vs Makima in Manipulation
+alt_titles:
+- My G.O.A.T VS Makima in manipulation
+authors:
+- name: Quick-Jaguar-9572
+  reddit: Quick-Jaguar-9572
+  id: quick-jaguar-9572
+  source: reddit-post
+series:
+- doki-doki-literature-club
+- chainsaw-man
+characters:
+- monika
+- makima
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1t5qmzo/my_goat_vs_makima_in_manipulation/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 568
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 699503
+      sha256: 016ccdca34622a7d30c868ca87597f8b0c8a94aaec6d359f7730b07e7863ab82
+    - format: png
+      name: image-2.png
+      bytes: 235711
+      sha256: 9b728a811a2a988c33a02f7f62b9b854700d4c53febdc0a0c0e89b1eeb590889
+    - format: png
+      name: image-3.png
+      bytes: 647221
+      sha256: 16830811592e1cebc1ce012b87732fc73ccf60d4dbf6448a741cccd66b6af1ad
+    - format: png
+      name: image-4.png
+      bytes: 736527
+      sha256: 94956df625c99b26533fdf82fc48041b9cae5e29492de7baff4c7748f8ed946c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

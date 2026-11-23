@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jigsaw-s-six-layered-framing-saw
+category: doc
+title: Jigsaw's Six-Layered Framing (Saw)
+alt_titles:
+- Jigsaw’s six-layered framing (SAW)
+authors:
+- name: FluffyTaste4061
+  reddit: FluffyTaste4061
+  id: fluffytaste4061
+  source: reddit-post
+series:
+- saw
+characters:
+- john-kramer
+- mark-hoffman
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qugn4l/jigsaws_sixlayered_framing_saw/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2223
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 40550
+      sha256: 54f43c179223d8302e1c990dcd05a3f0fd68c3df242a5cf6077a788a1a20c538
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

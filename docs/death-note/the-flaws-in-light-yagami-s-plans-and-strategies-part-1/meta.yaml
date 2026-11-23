@@ -1,0 +1,51 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-flaws-in-light-yagami-s-plans-and-strategies-part-1
+category: doc
+title: The Flaws in Light Yagami's Plans and Strategies, Part 1 (Death Note)
+alt_titles:
+- The flaws in Light Yagami’s plans & strategies P1
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+- l-lawliet
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qufe98/the_flaws_in_light_yagamis_plans_strategies_p1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 613
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 41321
+      sha256: dce7fe5849934fb041616da3e770954efc20b11f738261544b21e8915c2ebb3d
+    - format: jpg
+      name: image-2.jpg
+      bytes: 156675
+      sha256: e906082e2ad597a90aeb331f9434a1c532e82ee1c1f09bae99a0b1298e98f3b5
+    - format: jpg
+      name: image-3.jpg
+      bytes: 117543
+      sha256: 510b0e5caee0beacda23492107beac8cabbed75319bbd4bd126cccc38b486401
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

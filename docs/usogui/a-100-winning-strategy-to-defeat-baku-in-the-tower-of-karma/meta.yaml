@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-100-winning-strategy-to-defeat-baku-in-the-tower-of-karma
+category: doc
+title: A 100% Winning Strategy to Defeat Baku in the Tower of Karma (Usogui)
+alt_titles:
+- I created a 100% winning strategy to defeat Baku in Tower of Kama (Cridemord btw)
+authors:
+- name: Crid3m0r
+  reddit: Crid3m0r
+  id: tokho
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+- suteguma-satoru
+tags:
+- analysis
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1jzfns5/i_created_a_100_winning_strategy_to_defeat_baku/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2700
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 815362
+      sha256: 279a12c7963dba3c3ff2e5a086f9885b3e8480e9cda3aef60ddf149a82d05268
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

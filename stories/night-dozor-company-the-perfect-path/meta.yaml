@@ -1,0 +1,406 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: night-dozor-company-the-perfect-path
+category: story
+title: 'Night Dozor Company: The Perfect Path'
+authors:
+- name: The_TrueGamer
+  reddit: The_TrueGamer
+  id: the-truegamer
+  source: reddit-post
+series: []
+characters: []
+tags:
+- story
+- oc
+language: en
+completion: unknown
+parts:
+- title: 'Chapter 1: The Night Dozor Company'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ommp6d/chapter_1the_night_dozor_company_night_dozor/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1234
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 19148
+      sha256: 99757f9655a005ee84df17b6a1bbbbe513fa7deaa05e475d265bdb4e91b7f91b
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: 'Chapter 2: The Manhunt Begins'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oobi4z/ch_2the_manhunt_begin_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 955
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1024587
+      sha256: 85602514893510f6d20cfe7d59cf75c6bfdcc1887616c36ba30bc439034dce7b
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: 'Chapter 3: Wounded Use'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1opcpxq/chapter_3wounded_use_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1052
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 189205
+      sha256: 89ce7d68aa6baa7ed68c23a3078d05dd40392a8a2d2ae00a53f2f4d18d304e21
+    text:
+      file: text-3.txt
+      method: reddit-text
+- title: 'Chapter 4: The CEO'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oqxedv/chapter_4the_ceo_night_dozor_company_the_perfect/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 924
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 115962
+      sha256: cd6e11b9b2d148cf55ac782e9f968335e44b6a319c3591293961c51f7f00aa83
+    text:
+      file: text-4.txt
+      method: reddit-text
+- title: 'Chapter 5: Home of Chaos'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1osuibl/chapter_5_home_of_chaos_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1206
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 109274
+      sha256: b714855c0ab35043312fe55ad1af06724afd9efb5b7055cb15ff94bb0f7e7211
+    text:
+      file: text-5.txt
+      method: reddit-text
+- title: 'Chapter 6: Chaos'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oujra2/chapter_6chaos_night_dozor_company_the_perfect/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1223
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 1942970
+      sha256: f85d6a5f2eded76dbbb1541c7193c9221b9ed41d3fd4027f55b52c8880446c64
+    text:
+      file: text-6.txt
+      method: reddit-text
+- title: 'Chapter 7: Chernobyl'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ovh2k6/chapter_7chernobyl_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1448
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 39991
+      sha256: 664bd3277747f54010759f8decd73a9d332cc9bf65ce4d62607f6c34f1780ad5
+    text:
+      file: text-7.txt
+      method: reddit-text
+- title: 'Chapter 8: Goodbye, Old Friend'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ox9qob/chapter_8goodbye_old_friend_night_dozor_company/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 976
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 33507
+      sha256: 1a491ebb62e6b22504bce25594c26631d492e0bc64f311dea94fd87525c6cbf9
+    text:
+      file: text-8.txt
+      method: reddit-text
+- title: 'Chapter 9: The Tenth Mission'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ozno0w/chapter_9the_tenth_mission_night_dozor_company/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 843
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 14627
+      sha256: 99cd703a9d1a41fa2c4cc0470750c8f7ba57808731d3651bad6bc276deff5451
+    text:
+      file: text-9.txt
+      method: reddit-text
+- title: 'Chapter 10: Hospital'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p1iity/chapter_10hospital_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1048
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 46499
+      sha256: a3d9bbf50b21331d65f3c5d2488318bf470c0ecbfba1a0f896fd96118cc43d99
+    text:
+      file: text-10.txt
+      method: reddit-text
+- title: 'Chapter 11: Meeting Again'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p44j01/chapter_11meeting_again_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1210
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 2120518
+      sha256: 33e94d4e4b91186d908f8a771d456feec74cb49ed93f2f7043760aa632a1d593
+    text:
+      file: text-11.txt
+      method: reddit-text
+- title: 'Chapter 12: The Truth'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p5ecdm/chapter_12the_truth_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1300
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2537700
+      sha256: 1fe8e49165dda85edee5d1dedbe1b000533e75be537cdccebd20f199f7def39a
+    text:
+      file: text-12.txt
+      method: reddit-text
+- title: 'Chapter 13: Trolley of Death'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p6lwxx/chapter_13trolley_of_death_night_dozor_company/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1219
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 296654
+      sha256: 3fa546e9daa501f3ca34362bd1d9692639c622d80f18ab713a31fa0906edb5bc
+    text:
+      file: text-13.txt
+      method: reddit-text
+- title: 'Chapter 14: Odysseus''s Answer'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p89odr/chapter_14odysseuss_answer_night_dozor_company/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1518
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42412
+      sha256: 92d7578c399c1eda9793a396b295c08a8e317666f727e7c51eaecbc9a50e0b40
+    text:
+      file: text-14.txt
+      method: reddit-text
+- title: 'Chapter 15: A New Hunt'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1phjq1j/chapter_15a_new_hunt_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 819
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 37013
+      sha256: 7fd7772985a99780d6575d71aa8b20f0c77c813b346eff4476b7e24830a3f2a4
+    text:
+      file: text-15.txt
+      method: reddit-text
+- title: 'Chapter 16: Questions'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pk69vh/chapter_16questions_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 898
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 26143
+      sha256: 0385de93957b29376a237b2ed9e8a2a105c055e7e48355b5fbe8d49591d44655
+    text:
+      file: text-16.txt
+      method: reddit-text
+- title: 'Chapter 17: Hunt for Fox'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pls3bk/chapter_17hunt_for_fox_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 757
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 49186
+      sha256: f3b0ec30678f46ab3d5b317e3263e8631f0dee0ccac25e841f94a8b0c04be13e
+    text:
+      file: text-17.txt
+      method: reddit-text
+- title: 'Chapter 18: Crysis'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pndtx0/chapter_18crysis_night_dozor_company_the_perfect/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 967
+    files: []
+    text:
+      file: text-18.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+- title: 'Chapter 19: A Familiar Place'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pp7op2/chapter_19a_familiar_place_night_dozor_company/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1053
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 53761
+      sha256: c23bb9bbfa36eba4588c070cd995630707cd94befa8cbd1f1e5d3454b74dcea1
+    text:
+      file: text-19.txt
+      method: reddit-text
+- title: 'Chapter 20: You Know the Truth, Lobotomy Incarnate'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pqa8ga/chapter_20you_know_the_truth_lobotomy_incarnate/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1323
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 17626
+      sha256: b7b6d4ee94067b73d1d012f81ec11ac86409c4deae890ee60a9cb31c6e4a55cf
+    text:
+      file: text-20.txt
+      method: reddit-text
+- title: 'Chapter 21: Did You Manage to Live Your Life?'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1psc7lx/chapter_21_did_you_manage_to_live_your_life_night/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 981
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 41500
+      sha256: ba46234db590254dc82ed55f476451282640fc453d49e28cac81e5c7e58cece3
+    text:
+      file: text-21.txt
+      method: reddit-text
+- title: 'Chapter 22: Revenge'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1punece/chapter_22revenge_night_dozor_company_the_perfect/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 840
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 111972
+      sha256: d1c8a9da0e50b045a4f83c3146238d6d0c45b2592bac2ac1f96eecb9a25a8886
+    text:
+      file: text-22.txt
+      method: reddit-text
+- title: 'Chapter 23: Unseen Author''s Words'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pw77fd/chapter_23unseen_authors_words_night_dozor/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 599
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 269758
+      sha256: 9bbc493ede58af08105a80683ca7ffb2b15684f02b1c6dc06b22979fd51cfaf6
+    text:
+      file: text-23.txt
+      method: reddit-text
+- title: 'Chapter 24: World of Fade'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1pxt17f/chapter_24world_of_fade_night_dozor_company_the/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1258
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 49499
+      sha256: 70ae28223820c4b0b32fb9c00696480c91c8b94480c0079d13b75ae10da13391
+    text:
+      file: text-24.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

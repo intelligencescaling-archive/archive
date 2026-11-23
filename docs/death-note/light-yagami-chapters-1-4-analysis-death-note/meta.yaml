@@ -1,0 +1,54 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-chapters-1-4-analysis-death-note
+category: doc
+title: 'Light Yagami: Chapters 1-4 Analysis (Death Note)'
+alt_titles:
+- Light Yagami Chapters 1-4 Analysis
+authors:
+- name: Signal-Experience315
+  reddit: Signal-Experience315
+  id: signal-experience315
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xord15/light_yagami_chapters_14_analysis/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 547
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2736697
+      sha256: 81db439edb5a30cdda503b87089705cc55948dfcc8c6a9a79ed7a40d52c44275
+    - format: png
+      name: image-3.png
+      bytes: 1011162
+      sha256: 29aab348222802bb86101ea03d7c2a43b3b4b343c7aaab06333067ba539febd0
+    - format: png
+      name: image-6.png
+      bytes: 3301085
+      sha256: 9ff760b176b38e6318abcb14b2b99d7532e76cc2339430cba3132499eaccd929
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-2: HTTP 404
+      image-4: HTTP 404
+      image-5: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: reviewed
+  check:
+  - characters

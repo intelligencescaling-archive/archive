@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-hellspawn-of-scd-spawn-s-armageddon-plan-analysis-spawn
+category: doc
+title: 'The Hellspawn of SCD: Spawn''s Armageddon Plan Analysis (Spawn)'
+alt_titles:
+- 'THE HELLSPAWN OF SCD: (USOGUI VICTIMIZER. PREPARE FOR YAP!)'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- spawn
+characters:
+- spawn
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wbvj22/the_hellspawn_of_scd_usogui_victimizer_prepare/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5954
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 92302
+      sha256: f4e4889921e310b308d62341154b8dcd12d0cf6c337372975cad3c0235261ff7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

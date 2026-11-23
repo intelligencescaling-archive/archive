@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-real-air-poker-calculations-air-poker-cpi-debunked
+category: doc
+title: 'The Real Air Poker Calculations: Air Poker CPI Debunked (Usogui)'
+alt_titles:
+- The Real Air poker Calculations | Air Poker CPI Debunked | Baku Debunked | Souichi Debunked.
+authors:
+- name: Enough-Champion-3805
+  reddit: Enough-Champion-3805
+  id: enough-champion-3805
+  source: reddit-post
+series:
+- usogui
+characters:
+- baku-madarame
+- vincent-lalo
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1x4wzq9/the_real_air_poker_calculations_air_poker_cpi/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1245
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 313932
+      sha256: 58bf17bb56b0b00bf1678338918100189a505e613d283ed13186492e8ef1628f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

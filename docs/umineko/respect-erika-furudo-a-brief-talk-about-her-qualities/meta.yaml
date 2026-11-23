@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: respect-erika-furudo-a-brief-talk-about-her-qualities
+category: doc
+title: 'Respect Erika Furudo: A Brief Talk About Her Qualities (Umineko)'
+authors:
+- name: Sieben_Guts
+  reddit: Sieben_Guts
+  id: sieben
+  source: reddit-post
+series:
+- umineko
+characters:
+- erika-furudo
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ll2ocw/respect_erika_furudo_a_brief_talk_about_her/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 597
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

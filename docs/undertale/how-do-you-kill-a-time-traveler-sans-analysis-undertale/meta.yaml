@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: how-do-you-kill-a-time-traveler-sans-analysis-undertale
+category: doc
+title: How Do You Kill a Time Traveler? Sans Analysis (Undertale)
+alt_titles:
+- How Do You KILL A Time Traveler? (My First SCD Analysis)
+authors:
+- name: Deus-Ex-Machina1111
+  reddit: Deus-Ex-Machina1111
+  id: deus-ex-machina1111
+  source: reddit-post
+series:
+- undertale
+characters:
+- sans
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qec12q/how_do_you_kill_a_time_traveler_my_first_scd/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1508
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

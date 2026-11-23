@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: rigging-an-uno-game-a-feat-for-a-planned-story-oc
+category: doc
+title: 'Rigging an Uno Game: A Feat for a Planned Story (OC)'
+alt_titles:
+- I'm thinking of writing a story, can someone rate this feat I wrote?
+authors:
+- name: Financial-Fix2412
+  reddit: Financial-Fix2412
+  id: financial-fix2412
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q0if62/im_thinking_of_writing_a_story_can_someone_rate/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1044
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

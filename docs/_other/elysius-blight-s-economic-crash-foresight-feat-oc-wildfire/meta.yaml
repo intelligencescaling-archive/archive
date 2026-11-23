@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: elysius-blight-s-economic-crash-foresight-feat-oc-wildfire
+category: doc
+title: Elysius Blight's Economic Crash Foresight Feat (OC, Wildfire)
+alt_titles:
+- Another OC's foresight feat (more reasoning yay)
+authors:
+- name: ConversationSea1684
+  reddit: ConversationSea1684
+  id: conversationsea1684
+  source: reddit-post
+series: []
+characters: []
+tags:
+- feats
+- oc
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vooc85/another_ocs_foresight_feat_more_reasoning_yay/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1091
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 149397
+      sha256: 4052c327701b101e29bba05245df43ee82a349fdef9da5dd81f2fcc0f64fc159
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

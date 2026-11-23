@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: narrative-pov-aka-fraud-merchants-favourite
+category: doc
+title: Narrative POV aka Fraud Merchants' Favourite
+alt_titles:
+- Narrative POV aka Fraud Merchants’ favourite
+authors:
+- name: AsideOk1035
+  reddit: AsideOk1035
+  id: asideok1035
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1sakkqw/narrative_pov_aka_fraud_merchants_favourite/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 749
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

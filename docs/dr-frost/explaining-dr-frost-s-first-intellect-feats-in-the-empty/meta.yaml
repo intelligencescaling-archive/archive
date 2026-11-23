@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explaining-dr-frost-s-first-intellect-feats-in-the-empty
+category: doc
+title: Explaining Dr. Frost's First Intellect Feats in the Empty Man Arc
+alt_titles:
+- Explaining Dr Frost first ever intellect feats in the Empty Man Arc
+authors:
+- name: CreationCawthon2
+  reddit: CreationCawthon2
+  id: creationcawthon2
+  source: reddit-post
+series:
+- dr-frost
+characters:
+- nambong-baek
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1fb4ln5/explaining_dr_frost_first_ever_intellect_feats_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 901
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 49495
+      sha256: f7e5d325ffb20d9b4bd5da83d940d027690fce2b4adece3d28c9f16002635bdf
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: tomu-s-capture-the-flag-endgame-feat-gamble-fish
+category: doc
+title: Tomu's Capture the Flag Endgame Feat (Gamble Fish)
+alt_titles:
+- Talking about an impressive feat from Tomu from Gamble Fish that I feel is worth mentioning, cause why not?
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- gamble-fish
+characters:
+- tomu-shirasagi
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u7yfaw/talking_about_an_impressive_feat_from_tomu_from/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 540
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

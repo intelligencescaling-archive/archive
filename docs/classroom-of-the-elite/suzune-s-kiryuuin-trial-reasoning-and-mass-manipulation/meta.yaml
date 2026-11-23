@@ -1,0 +1,46 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: suzune-s-kiryuuin-trial-reasoning-and-mass-manipulation
+category: doc
+title: Suzune's Kiryuuin Trial Reasoning and Mass Manipulation (COTE Y2V9), Analysis by Ganve
+alt_titles:
+- Analysis on suzune's kirkyuin trial reasoning and Mass manipulation by ganve,y2v9
+authors:
+- name: Ganve
+  id: ganve
+  source: doc-text
+shared_by:
+- name: Obvious_Ad_6250
+  reddit: Obvious_Ad_6250
+  id: obvious-ad-6250
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- suzune-horikita
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v7x9n7/analysis_on_suzunes_kirkyuin_trial_reasoning_and/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2040
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 38338
+      sha256: e610fbb23a89d13d39a1418b964dc56d10bf3e1ebb4a218338df8bd9cada37c6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: baku-madarame-vs-liar-game-arcs-usogui-liar-game
+category: doc
+title: Baku Madarame vs Liar Game Arcs (Usogui, Liar Game)
+alt_titles:
+- Baku Madarame vs Liar game Arcs
+authors:
+- name: Alert-Researcher7788
+  reddit: Alert-Researcher7788
+  id: alert-researcher7788
+  source: reddit-post
+series:
+- usogui
+- liar-game
+characters:
+- baku-madarame
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q1klzr/baku_madarame_vs_liar_game_arcs/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 549
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 327313
+      sha256: 2e9f1358cd9df05e742fae7abea6bf16b6d04eee018b2f660c6e31c3ec8fef6c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

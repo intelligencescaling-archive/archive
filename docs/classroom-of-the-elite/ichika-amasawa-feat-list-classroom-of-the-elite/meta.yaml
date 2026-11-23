@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichika-amasawa-feat-list-classroom-of-the-elite
+category: doc
+title: Ichika Amasawa Feat List (Classroom of the Elite)
+alt_titles:
+- Ichika Amasawa feat list
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- ichika-amasawa
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o6ypvg/ichika_amasawa_feat_list/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 874
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 657813
+      sha256: a0c919f417ae88a97cb1d027b6eb794b94dce9249a0aa7e3d11f0cb11273cc5d
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

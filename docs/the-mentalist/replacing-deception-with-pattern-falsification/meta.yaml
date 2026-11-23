@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: replacing-deception-with-pattern-falsification
+category: doc
+title: Replacing Deception with Pattern Falsification
+alt_titles:
+- Replacing Deception with....?
+authors:
+- name: ExPsy-dr3
+  reddit: ExPsy-dr3
+  id: expsy-dr3
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nsw7a0/replacing_deception_with/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 632
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

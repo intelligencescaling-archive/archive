@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ayanokouji-narrative-debunk-classroom-of-the-elite
+category: doc
+title: Ayanokouji Narrative Debunk (Classroom of the Elite)
+alt_titles:
+- Ayanokouji Narrative (DESBUNK🗿)
+authors:
+- name: 2525-2525
+  reddit: 2525-2525
+  id: 2525-2525
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+tags:
+- debunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mi2buq/ayanokouji_narrative_desbunk/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1078
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

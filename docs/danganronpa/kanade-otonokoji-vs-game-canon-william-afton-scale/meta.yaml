@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: kanade-otonokoji-vs-game-canon-william-afton-scale
+category: doc
+title: Kanade Otonokoji vs Game Canon William Afton Scale Distribution (SDRA2 vs FNAF)
+alt_titles:
+- Kanade Otnokoji vs Game Canon William Afton scale distribution.
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- danganronpa
+- five-nights-at-freddy-s
+characters:
+- kanade-otonokoji
+- william-afton
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1oiko81/kanade_otnokoji_vs_game_canon_william_afton_scale/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 636
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

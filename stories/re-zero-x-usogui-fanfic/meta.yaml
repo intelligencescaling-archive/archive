@@ -24,6 +24,54 @@ tags:
 language: en
 completion: unknown
 parts:
+- title: Chapter 1
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nlmtzr/chapter_1_rezero_x_usogui_fic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 5080
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 41111
+      sha256: 10db6e8f3ee618f256aee3a6c09c679df57df3ca3059b5473bb0bbe7b35c8ecb
+    text:
+      file: text-1.txt
+      method: reddit-text
+- title: Chapters 2-3
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nn2p8p/chapters_23_of_usogui_x_rezero_fanfic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 6608
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 41111
+      sha256: 10db6e8f3ee618f256aee3a6c09c679df57df3ca3059b5473bb0bbe7b35c8ecb
+    text:
+      file: text-2.txt
+      method: reddit-text
+- title: Chapter 4
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1no5a66/chapter_4_of_rezero_x_usogui_fanfic/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2231
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 41111
+      sha256: 10db6e8f3ee618f256aee3a6c09c679df57df3ca3059b5473bb0bbe7b35c8ecb
+    text:
+      file: text-3.txt
+      method: reddit-text
 - title: Chapter 5 (Subaru POV)
   source:
     type: google-doc
@@ -44,10 +92,10 @@ parts:
       bytes: 22195
       sha256: f312901e074c19c0cac285a1ec5ca26bde221358caf3bf33c1c4e854d537e551
     text:
-      file: text-1.txt
+      file: text-4.txt
       method: google-export
     blocks:
-      file: blocks-1.json
+      file: blocks-4.json
       v: 1
 - title: Chapter 6 (Baku POV)
   source:
@@ -69,10 +117,10 @@ parts:
       bytes: 15873
       sha256: 001badffea03cc15f8af2d0d62f4d4640df83fa6e5948ac4fdb9b70bc2fc5cd9
     text:
-      file: text-2.txt
+      file: text-5.txt
       method: google-export
     blocks:
-      file: blocks-2.json
+      file: blocks-5.json
       v: 1
 found_in: []
 links:

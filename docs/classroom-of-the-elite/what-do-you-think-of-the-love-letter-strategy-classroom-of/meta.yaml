@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: what-do-you-think-of-the-love-letter-strategy-classroom-of
+category: doc
+title: What Do You Think of the Love Letter Strategy? (Classroom of the Elite)
+alt_titles:
+- Ay bro what you think of Love Letter Strate-
+authors:
+- name: Fit_Veterinarian_729
+  reddit: Fit_Veterinarian_729
+  id: fit-veterinarian-729
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- takuya-yagami
+- suzune-horikita
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v6jn0c/ay_bro_what_you_think_of_love_letter_strate/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1450
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 43484
+      sha256: 1dc32d8fd7c02f3590876d4ef5799bb3c4855a38d6367c5471512891a232f395
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

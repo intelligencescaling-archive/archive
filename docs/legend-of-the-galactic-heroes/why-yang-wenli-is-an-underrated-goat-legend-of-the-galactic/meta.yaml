@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-yang-wenli-is-an-underrated-goat-legend-of-the-galactic
+category: doc
+title: Why Yang Wenli Is an Underrated GOAT (Legend of the Galactic Heroes)
+alt_titles:
+- Why Yang Wenli is an underrated GOAT (Listing a few feats that I remember) (Massive Spoilers for Legend of the Galactic Heroes)
+authors:
+- name: seaofknowledge123
+  reddit: seaofknowledge123
+  id: seaofknowledge123
+  source: reddit-post
+series:
+- legend-of-the-galactic-heroes
+characters:
+- yang-wenli
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lxd38d/why_yang_wenli_is_an_underrated_goat_listing_a/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 728
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 2725752
+      sha256: 19bb4474439452018962f77725e64a950f42f5cb449c3d922e7b833caaeab046
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

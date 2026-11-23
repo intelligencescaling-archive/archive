@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: concepts-i-got-from-scd-works
+category: doc
+title: Concepts I Got from SCD Works
+alt_titles:
+- Concepts that I got from SCD works
+authors:
+- name: Organic-Meringue2701
+  reddit: Organic-Meringue2701
+  id: organic-meringue2701
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wnuzex/concepts_that_i_got_from_scd_works/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 602
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 285760
+      sha256: 50c60670ad074c8d85545dc8e4f1d4d2d2066a2ab6b1af5c11464ffd7565a3da
+    - format: png
+      name: image-2.png
+      bytes: 1061135
+      sha256: 8fb231dfddc3a00b775888b91b0367297c9586145609f7bcce62be122c5dd3f0
+    - format: jpg
+      name: image-3.jpg
+      bytes: 51638
+      sha256: 4f86a853cb020ef1210daea533bd37f3cde3ad84c3c16ca32bfefb3d076b3385
+    - format: jpg
+      name: image-4.jpg
+      bytes: 375398
+      sha256: 7baa4b3f6c64be0d1aa0bee649df8bfddbe4c81bb8d5c1bdc0a09337b926571c
+    - format: jpg
+      name: image-5.jpg
+      bytes: 74389
+      sha256: 5c2f2a20dba14270a99e7eff467168cea92e48181098cdf97384cbe1475e8539
+    - format: png
+      name: image-6.png
+      bytes: 80839
+      sha256: 79c40472fc75721b91e8c66d5a5d6938d8321dd6ebda2a8138d3f339168912f7
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: neg-diff-and-no-diff-get-overused-and-other-scaling-issues
+category: doc
+title: '''Neg Diff'' and ''No Diff'' Get Overused, and Other Scaling Issues'
+alt_titles:
+- '"Neg diff" and "no diff" get overused..and other scaling issues I keep seeing.'
+authors:
+- name: DrMillMatt
+  reddit: DrMillMatt
+  id: drmillmatt
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1hc5ogw/neg_diff_and_no_diff_get_overusedand_other/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 594
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

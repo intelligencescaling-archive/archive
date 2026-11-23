@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: t-bag-s-sona-escape-strategy-prison-break
+category: doc
+title: T-Bag's Sona Escape Strategy (Prison Break)
+alt_titles:
+- Tbags sona escape strategy
+authors:
+- name: Original-Gift-4070
+  reddit: Original-Gift-4070
+  id: original-gift-4070
+  source: reddit-post
+series:
+- prison-break
+characters:
+- t-bag
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ozofik/tbags_sona_escape_strategy/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1339
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

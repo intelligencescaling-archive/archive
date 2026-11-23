@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: debunking-a-video-claiming-walt-was-extremely-lucky
+category: doc
+title: Debunking a Video Claiming Walt Was Extremely Lucky (Breaking Bad)
+alt_titles:
+- Debunking this Video of this guy saying that Walt was extremely Lucky throughout the series
+authors:
+- name: Biggy121212
+  reddit: Biggy121212
+  id: biggy121212
+  source: reddit-post
+series:
+- breaking-bad-better-call-saul
+characters:
+- walter-white
+tags:
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1reddh5/debunking_this_video_of_this_guy_saying_that_walt/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1254
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

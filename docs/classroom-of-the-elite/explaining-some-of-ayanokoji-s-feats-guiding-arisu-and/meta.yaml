@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explaining-some-of-ayanokoji-s-feats-guiding-arisu-and
+category: doc
+title: 'Explaining Some of Ayanokoji''s Feats: Guiding Arisu and Ichinose (Classroom of the Elite)'
+alt_titles:
+- Explaining some of kiyo's feats to this sub..
+authors:
+- name: No_Sound_1920
+  reddit: No_Sound_1920
+  id: no-sound-1920
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- kiyotaka-ayanokoji
+- arisu-sakayanagi
+- ichinose-honami
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lqyphi/explaining_some_of_kiyos_feats_to_this_sub/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 655
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 95538
+      sha256: 8d0d053c0cb8d385026ad6634acbe061d60dadda6cfdb7a4a557f37bc03cfd93
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

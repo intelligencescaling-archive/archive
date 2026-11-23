@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: shiro-s-best-feats-in-every-category-no-game-no-life
+category: doc
+title: Shiro's Best Feats in Every Category (No Game No Life)
+alt_titles:
+- Shiro’s Best Feats in Every Category
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- no-game-no-life
+characters:
+- shiro
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qa6z00/shiros_best_feats_in_every_category/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 627
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 148665
+      sha256: 320754943b53a646b55b3e490349d56e41d5558c6e487b26b179bb36a6685038
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

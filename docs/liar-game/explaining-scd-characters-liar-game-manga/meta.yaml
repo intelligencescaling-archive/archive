@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explaining-scd-characters-liar-game-manga
+category: doc
+title: 'Explaining SCD Characters: Liar Game (Manga)'
+alt_titles:
+- Explaining SCD Characters- Liar Game
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+- yokoya-norihiko
+- nao-kanzaki
+- harimoto-takashi
+- kimura-kei
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1moycpf/explaining_scd_characters_liar_game/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1518
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

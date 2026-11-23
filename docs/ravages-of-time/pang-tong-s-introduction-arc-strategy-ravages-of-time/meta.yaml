@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: pang-tong-s-introduction-arc-strategy-ravages-of-time
+category: doc
+title: Pang Tong's Introduction Arc Strategy (Ravages of Time)
+alt_titles:
+- Pang tong introduction arc strategy
+authors:
+- name: Hour-Reach7418
+  reddit: Hour-Reach7418
+  id: hour-reach7418
+  source: reddit-post
+series:
+- ravages-of-time
+characters:
+- pang-tong
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1p9i9v2/pang_tong_introduction_arc_strategy/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1508
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

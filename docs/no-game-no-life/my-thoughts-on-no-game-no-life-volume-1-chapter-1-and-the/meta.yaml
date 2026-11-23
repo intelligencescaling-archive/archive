@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: my-thoughts-on-no-game-no-life-volume-1-chapter-1-and-the
+category: doc
+title: 'My Thoughts on No Game No Life Volume 1: Chapter 1 and the Rock-Paper-Scissors Game'
+alt_titles:
+- 'My thoughts on No Game No Life Volume 1: (Chapter 1 + Rock-Paper-Scissors Game)'
+authors:
+- name: Altruistic_Virus_
+  reddit: Altruistic_Virus_
+  id: altruistic-virus
+  source: reddit-post
+series:
+- no-game-no-life
+characters:
+- sora
+- shiro
+- stephanie-dola
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1lgusto/my_thoughts_on_no_game_no_life_volume_1_chapter_1/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 804
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 260949
+      sha256: 7c462b364a958a7cbbd9eb25cddabb75921dd19827cb0b4f7ae985e64e02cbbc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

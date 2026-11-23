@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: akiyama-is-not-a-complex-thinker-debunked-liar-game
+category: doc
+title: '"Akiyama Is Not a Complex Thinker" Debunked (Liar Game)'
+alt_titles:
+- '"Akiyama is not a complex thinker" DEBUNKED!'
+authors:
+- name: OnlyEinz
+  reddit: OnlyEinz
+  id: onlyeinz
+  source: reddit-post
+series:
+- liar-game
+characters:
+- akiyama-shinichi
+tags:
+- rebunk
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1mxvwua/akiyama_is_not_a_complex_thinker_debunked/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 6688
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 178512
+      sha256: fa9b7c5d7bba63277a683122afe345c9f57985f7a53178bea03d9604b7e747bf
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

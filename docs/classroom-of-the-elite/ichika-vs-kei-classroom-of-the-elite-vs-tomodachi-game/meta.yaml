@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichika-vs-kei-classroom-of-the-elite-vs-tomodachi-game
+category: doc
+title: Ichika vs Kei (Classroom of the Elite vs Tomodachi Game)
+alt_titles:
+- (Ichika vs Kei - Yōzitsu vs Tomodachi Game)
+authors:
+- name: Admirable-Yak2806
+  reddit: Admirable-Yak2806
+  id: admirable-yak2806
+  source: reddit-post
+series:
+- classroom-of-the-elite
+- tomodachi-game
+characters:
+- ichika-amasawa
+- kei-shinomiya
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1j0hz0l/ichika_vs_kei_yōzitsu_vs_tomodachi_game/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 595
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

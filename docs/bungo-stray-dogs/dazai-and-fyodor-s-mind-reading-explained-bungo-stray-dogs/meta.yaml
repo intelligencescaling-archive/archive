@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: dazai-and-fyodor-s-mind-reading-explained-bungo-stray-dogs
+category: doc
+title: Dazai and Fyodor's Mind Reading Explained (Bungo Stray Dogs)
+alt_titles:
+- 'DAZAI & FYODOR''S MIND READING EXPLAINED:'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- bungo-stray-dogs
+characters:
+- dazai-osamu
+- fyodor-dostoevsky
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wczp2e/dazai_fyodors_mind_reading_explained/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1115
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 553573
+      sha256: 17d57057a458122d87f4fdd0c95c8bb8d14beaecb9134a765273397615253b78
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

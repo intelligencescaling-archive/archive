@@ -1,0 +1,62 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-gap-between-takuya-and-ayanokoji-isn-t-that-large-and
+category: doc
+title: The Gap Between Takuya and Ayanokoji Isn't That Large, and Self-Expulsion Takuya Is Not Real (Classroom of the Elite)
+authors:
+- name: Prestigious-Shoe-352
+  reddit: Prestigious-Shoe-352
+  id: prestigious-shoe-352
+  source: reddit-post
+series:
+- classroom-of-the-elite
+characters:
+- takuya-yagami
+- kiyotaka-ayanokoji
+tags:
+- debunk
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1kij2tr/a_rare_semipositive_cote_post_from_me_focused_on/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1152
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 108259
+      sha256: 7f061f2f672414f64878f54895230489f7025008d7e435103ccb70508579a1b5
+    - format: jpg
+      name: image-2.jpg
+      bytes: 79375
+      sha256: 8142800b52b6e88bca654c7eb6ccb6607d33460bdcbb6b2a0b4993a2fdd100e1
+    - format: jpg
+      name: image-3.jpg
+      bytes: 98700
+      sha256: 51aa0470e949970f8711ee1c9ce17d273e9a4291190afa4a73b2078b7d6fc79b
+    - format: jpg
+      name: image-4.jpg
+      bytes: 114606
+      sha256: 7d4d244d914fe9afa972f351a543bc2aca91f0745293289065debdd7534a0809
+    - format: jpg
+      name: image-5.jpg
+      bytes: 141615
+      sha256: 37123258292896839d1d129ea4ec148b0665726ba5008bcc04d868623db180d3
+    - format: jpg
+      name: image-6.jpg
+      bytes: 123175
+      sha256: 96e0e7f16824780634d2fbbf86d1537f884c3540d0d3ce07a426f59dd132663f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

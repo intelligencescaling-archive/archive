@@ -1,0 +1,37 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: having-high-eq-is-actually-a-result-of-high-reasoning
+category: doc
+title: Having High EQ Is Actually a Result of High Reasoning
+alt_titles:
+- Having High EQ is actually a result of high reasoning.
+authors:
+- name: wasgoodbabygirl
+  reddit: wasgoodbabygirl
+  id: wasgoodbabygirl
+  source: reddit-post
+series: []
+characters: []
+tags:
+- discussion
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1tt9301/having_high_eq_is_actually_a_result_of_high/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 590
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

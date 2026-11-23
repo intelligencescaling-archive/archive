@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: categories-for-scaling-the-difficulty-of-criminal-cases
+category: doc
+title: Categories for Scaling the Difficulty of Criminal Cases
+alt_titles:
+- Categories for scaling the difficulty of criminal cases, made by me
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wsn6lm/categories_for_scaling_the_difficulty_of_criminal/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 734
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 53415
+      sha256: 3d51576d13f332ea4e4511a3a160938501219f748e0e4d492a305afefe314cef
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,60 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: king-s-game-phase-1-schemes
+category: doc
+title: King's Game Phase 1 Schemes (18 Levels of Hell)
+authors:
+- name: Simply_Amazing_1610
+  reddit: Simply_Amazing_1610
+  id: simply-amazing-1610
+  source: reddit-post
+series:
+- 18-levels-of-hell
+characters:
+- chen-ran
+- yue-guanshan
+- han-fei
+- jiang-zhe
+tags:
+- analysis
+- feats
+language: en
+completion: unknown
+parts:
+- title: Summary, Part 1
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wzdije/kings_game_phase_1_schemes_summary_part_1/
+  capture:
+    status: partial
+    date: '2026-11-23'
+    words: 1207
+    files: []
+    text:
+      file: text-1.txt
+      method: reddit-text
+    missing:
+      image-1: HTTP 404
+      image-2: HTTP 404
+- title: 'Part 2.1: Li Hailong Killing Scheme Explanation, Part 1'
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1xak5sq/kings_game_phase_1_part_21_li_hailong_killing/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1876
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 78221
+      sha256: d76338ba8c17a980fa2119109b1941a90010ed57c66027ca809114dacac1271e
+    text:
+      file: text-2.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

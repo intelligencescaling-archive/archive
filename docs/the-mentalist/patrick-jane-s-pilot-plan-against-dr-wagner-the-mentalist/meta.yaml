@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-pilot-plan-against-dr-wagner-the-mentalist
+category: doc
+title: Patrick Jane's Pilot Plan Against Dr. Wagner (The Mentalist)
+alt_titles:
+- Patrick Jane’s Pilot Plan
+authors:
+- name: No_Engineering_3223
+  reddit: No_Engineering_3223
+  id: no-engineering-3223
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1uxsefr/patrick_janes_pilot_plan/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1227
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 42299
+      sha256: e7f41928fcb73c997667b6455fdbccf63f30750b24599264f096458ecef4414c
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

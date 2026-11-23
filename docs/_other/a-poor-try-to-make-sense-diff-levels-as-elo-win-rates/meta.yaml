@@ -1,0 +1,36 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-poor-try-to-make-sense-diff-levels-as-elo-win-rates
+category: doc
+title: A Poor Try to Make Sense (Diff Levels as Elo Win Rates)
+alt_titles:
+- A poor try to make sense
+authors:
+- name: Ok-Olive-5326
+  reddit: Ok-Olive-5326
+  id: ok-olive-5326
+  source: reddit-post
+series: []
+characters: []
+tags:
+- guide
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1u2jik6/a_poor_try_to_make_sense/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 800
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

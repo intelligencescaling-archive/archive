@@ -1,0 +1,52 @@
+Leonhard Euler: Analysis (Concise, I dont have time to go over everything)
+
+Mathematical Notation
+Euler basically made a lot of the mathematical notation today we use today:  π for the ratio of a circles circumference to its a diameter (tbf this one was popularized by him so ig it doesnt count but still), f(x) for functions, i to express the square root of -1,
+Σ for summations and
+Δ for finite differences, modern notations for trigonometric functions, plus created the constant e, Eulers number. So what? He just created the notations we use today. But that just shows at least like a prelude the extent of his mathematical knowledge.
+
+Math
+
+Euler solved the Basel Problem by developing the power series. The Basel Problem concerned itself with an infinite sum of inverse squares. The problem took roughly 100 years to be solved and not even Bernoulli could solve it, but Euler did.
+
+He created this formula: e\^i(phi) = cos(phi) + sin(phi) and yes a special case of it is e\^i(pi) + 1 = 0. He created the gamma function, also a bunch of things in math basically have his name. He created the theory of hypergeometric series, q-series, hyperbolic trigonometric functions, he also proved the infinitude of primes using the divergence of the harmonic series. The work he did led to the development of the Prime Number Theorem.
+
+He proved the impossibility of the Seven Bridges of Konigsberg Problem, aka to construct a path that goes through each bridge once and to do this he developed graph theory, and also discovered the formula V - E + F = 2. V is vertices, E is edges and F is faces of a convex polyhedron. This basically was the basis for Cauchy founding topology later on.
+
+He disproved that all numbers with the form 2\^2\^n + 1 are prime, proved that the sum of the reciprocals of primes diverges, he discovered the connection between the Riemann zeta function and prime numbers, he made the totient function, he generalized Fermats little theorem to Eulers theorem with said totient function, significantly contributed to perfect numbers, he also showed that the relationship between even perfect numbers and Mersenne primes was one to one. Quadratic reciprocity was also made by him and it is considered a fundamental theorem in number theory, paving way for a later work by Gauss.
+
+In 1772, he proved that 2\^31 - 1 was a Mersenne prime and thus the largest prime found. Btw, he did that with the technology he had at the time. It took until 1867 to find any other larger prime.
+
+Euler basically made contributions to every field of math he came across and also developed on math a lot. His volume of work is unparalleled.
+
+Also second image
+
+Physics, Astronomy, Engineering
+
+He developed the Euler-Bernoulli beam equation, a cornerstone of engineering, his astronomy work was also recognized by multiple Paris Academy prizes. He determined with great accuracy the orbits of comets and other celestial bodies. He basically helped Huygens theory that light was a wave and not corpuscular become the dominant thought instead, thanks to his paper on optics.
+
+He also predicted the event of cavitation in fluid dynamics, he had work relating to wind turbine efficiency and that came from his other Eulers number, he also published equations for inviscid flow in fluid dynamics (Euler equations) Yep, as I said, this man has a bunch of stuff named after him in math and physics. No wonder he is the top GOAT.
+
+Logic
+
+He created Euler diagrams. Enough said.
+
+Demography
+
+His 1760 paper regarding population shows how population with constant fertility and mortality might grow differently using a difference equation, basically having a geometric growth. This was the basis for 20th century papers that produced the Stable Population model, starting 20th century formal demographic modelling. He did that 150 years before those 20th century papers btw.
+
+Philosophy
+
+This guy also dabbled in philosophy cuz why not, opposing Leibnizs monadism and that knowledge is founded from laws. Euler also just said to Diderot while in St. Petersburg that (a+b)\^n/n = x hence God exists (yea he was religious). Diderot, yes, that Enlightenment philosopher just stood there dumbfounded while everyone was laughing. He was then asked to leave Russia. Tbh that argument for God is probably better than any theist argument I heard online.
+
+Its just a story though, so we dont know if it is real or not, it definitely was embellished later on or whatever.
+
+Other
+
+He could recite the Aeneid from memory (it has anywhere from 290 to 700 pages from a simple Google search), or recall specific number lines from pages years later, because he had an eidetic memory. He could still do calculations while blind. His worsening eye sight did not ruin his ability to do math. He performed complex calculations for his second theory of lunar motion while blind btw.
+
+[https://en.wikipedia.org/wiki/List\_of\_topics\_named\_after\_Leonhard\_Euler](https://en.wikipedia.org/wiki/List_of_topics_named_after_Leonhard_Euler)
+
+Yea.
+
+Laplace said: Read Euler, Euler is the master of us all.

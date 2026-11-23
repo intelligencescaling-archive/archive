@@ -1,0 +1,43 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-s-downtime-feats-analysis-death-note
+category: doc
+title: Light Yagami's "Downtime" Feats Analysis (Death Note)
+alt_titles:
+- 'First Post: Light Yagami "Downtime" Analysis'
+authors:
+- name: amcogito
+  reddit: amcogito
+  id: amcogito
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- feats
+- rebunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1proj7s/first_post_light_yagami_downtime_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 653
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 429290
+      sha256: fe85461a394efda14f935966dd15fed575cef7b4b48636cd616719e5f554e4cc
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

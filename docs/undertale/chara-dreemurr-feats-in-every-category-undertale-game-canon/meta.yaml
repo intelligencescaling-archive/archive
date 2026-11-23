@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: chara-dreemurr-feats-in-every-category-undertale-game-canon
+category: doc
+title: Chara Dreemurr Feats in Every Category (Undertale, Game Canon & Game Theory)
+alt_titles:
+- Chara Dreemurr (Gamecanon & Gametheory) Feats in Every Category
+authors:
+- name: BetterBreakfast2699
+  reddit: BetterBreakfast2699
+  id: betterbreakfast2699
+  source: reddit-post
+series:
+- undertale
+characters:
+- chara-dreemurr
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1qoluyl/chara_dreemurr_gamecanon_gametheory_feats_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 663
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 109174
+      sha256: 653be02c3c03190d928a9e927d25ec2669fdce64885d3911d84f64f10c37f585
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

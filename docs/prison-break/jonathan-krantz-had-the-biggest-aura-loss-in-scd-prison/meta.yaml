@@ -1,0 +1,44 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: jonathan-krantz-had-the-biggest-aura-loss-in-scd-prison
+category: doc
+title: Jonathan Krantz Had the Biggest Aura Loss in SCD (Prison Break)
+alt_titles:
+- I was wrong. This guy probably had the biggest aura loss in SCD. Both in an outsmarting sense and as a character.
+authors:
+- name: Big_Application_7168
+  reddit: Big_Application_7168
+  id: big-application-7168
+  source: reddit-post
+series:
+- prison-break
+characters:
+- jonathan-krantz
+- michael-scofield
+tags:
+- debunk
+- writing
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r4w7hu/i_was_wrong_this_guy_probably_had_the_biggest/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 765
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 216901
+      sha256: 45d24951544ef0aca82f9013cfc99c60f2c7cb5f66c2ee8f08269057c69544e4
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

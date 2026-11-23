@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: light-yagami-fodder-death-note-debunk
+category: doc
+title: Light Yagami = Fodder (Death Note Debunk)
+alt_titles:
+- Light Yagami = fodder
+authors:
+- name: Crenetick
+  reddit: Crenetick
+  id: crenetick
+  source: reddit-post
+series:
+- death-note
+characters:
+- light-yagami
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1q79yj6/light_yagami_fodder/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1783
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+    missing:
+      image-1: GIF image, kept in the master copy only
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

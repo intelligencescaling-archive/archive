@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ctw-l-already-suspected-that-light-uses-the-watch-to-kill
+category: doc
+title: CTW L Already Suspected That Light Uses the Watch to Kill (Counteracting Memory Loss Analysis, Part 1)
+alt_titles:
+- CTW L already suspected that light uses the watch to kill (Part 1 analysis of Counteracting Memory loss)
+authors:
+- name: No_Elevator7607
+  reddit: No_Elevator7607
+  id: no-elevator7607
+  source: reddit-post
+series:
+- death-note
+characters:
+- l-lawliet
+- light-yagami
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1s4zbyd/ctw_l_already_suspected_that_light_uses_the_watch/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 685
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

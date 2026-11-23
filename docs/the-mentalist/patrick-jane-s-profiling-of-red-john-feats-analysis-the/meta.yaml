@@ -1,0 +1,52 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: patrick-jane-s-profiling-of-red-john-feats-analysis-the
+category: doc
+title: 'Patrick Jane''s Profiling of Red John: Feats Analysis (The Mentalist)'
+alt_titles:
+- Patrick Jane profiling of Red John feats analysis.
+authors:
+- name: Important-Breath1297
+  reddit: Important-Breath1297
+  id: important-breath1297
+  source: reddit-post
+series:
+- the-mentalist
+characters:
+- patrick-jane
+- red-john
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1r6x5dd/patrick_jane_profiling_of_red_john_feats_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 930
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 65741
+      sha256: 08c1a6ae516fccffff67b7727de2ab1ed3e190260cf586d1c120344c870e2e04
+    - format: jpg
+      name: image-2.jpg
+      bytes: 357896
+      sha256: 8116287ed1ab99a59bf1197d58dad1b07321f73c9d2a48dea47be9650981c8cd
+    - format: png
+      name: image-3.png
+      bytes: 469881
+      sha256: fb92fbbd43d800b877a7d9a5c53eca4a4e5b09b0e74f2092462c241ede374f38
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

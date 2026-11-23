@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: bull-s-feats-during-the-first-arc-of-bakuchi-gui
+category: doc
+title: Bull's Feats During the First Arc of Bakuchi Gui
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- bakuchi-gui
+characters:
+- bull-bakuchi-gui
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1v5g1wz/bulls_feats_during_the_first_arc_of_bakuchi_gui/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1303
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 751411
+      sha256: d66808acc5955962c6331bca7dbc3a606add9cc4b8cca514dcda9b6aa2b44f7a
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

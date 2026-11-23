@@ -1,0 +1,60 @@
+Narrative POV aka Fraud Merchants’ favourite
+
+**Narrative POV aka Fraud Merchants’ favourite**
+
+Narrative POV is wrong, explained in a simple way:
+
+1- In order to talk about intelligence, we deductively need our causal system because of the dependency problem.
+
+2- There are two ways in which the causal system can be broken:
+ 2a- “what causes what” is broken. Interaction
+ 2b- “how much something causes something” is broken. Magnitude
+ In fiction, the vast majority of cases fall into the *second* case, not the first.
+
+3- The greater the distortion in magnitude, the higher the causal incoherence. At that point, either we are no longer measuring intelligence, or we are making a very specific and selective choice about which causal inconsistencies we are willing to accept.
+
+For example, if a character—based on their prior feats—would produce an output of 100 under a causally coherent system, but instead produces 1,000,000, and we still treat that result as valid, we are implicitly choosing to ignore causal coherence.
+
+However, this inconsistency is not ignored consistently. It is ignored only in cases where it benefits the character’s scaling. This creates a contradiction: scaling requires causal coherence to be meaningful (due to the dependency problem), yet that same coherence is selectively discarded whenever it would otherwise limit the result.
+
+“But just because a character produces 1,000,000 instead of 100, it is not necessarily a causal problem. It could simply be that the causal system of that fictional work differs from ours.”
+
+Even if we grant this and say, “If the goal is to scale and compare fictional characters, and everyone benefits from such deviations, then what is the issue?”
+
+The issue remains: these advantages are almost never internally consistent, and when comparing across different works, they are not even proportional.
+
+This is because it would require two conditions:
+
+**1) Intra-verse causal coherence.**
+ That is, whenever the same causal relation occurs within a given work, it must produce the same type of output (e.g., 100 → 1,000,000) consistently.
+ This is highly implausible due to authorial impossibility and practical limitations.
+
+**2) Inter-verse proportionality and coherence.**
+ Given the first condition, the same deviations in magnitude would also need to be aligned across different works.
+ In other words, whenever that causal relation would produce 100 across different verses, it would have to produce the same type of deviation (e.g., 1,000,000) in all of them.
+
+If the first condition is already implausible, the second becomes exponentially more so due to multiplicative constraints.
+
+In essence: if, based on prior information, B would produce 100 under a given causal framework but instead produces 10,000, then any comparison would require that other characters (e.g., C) benefit from a comparable deviation.
+
+Since we cannot determine the magnitude of this authorial boost, the comparison becomes fundamentally unreliable \*and\* **biased**. This is particularly problematic because such boosts are often what drive the largest differences in scaling between characters.
+
+There are also many other considerations that can be made, but this is the main one. Among the others, there is also this:
+
+due to the dependency problem, when abilities are “inflated” without inflating all the effects that such inflation would bring (for example: 10,000 working memory > extremely complex reasoning > out-of-scale planning ability — I am obviously simplifying), the meaning of that capability itself changes.
+
+In essence, you lose generalized inferential capacity regarding that ability EXCEPT in the EXTREMELY SPECIFIC way in which it was shown.
+ But at that point, what counts as the “way in which it is shown”?
+ There would be a lot of methodological problems. For example: to define specificity, do we refer to the structure of the problem? etc.
+ It would require a methodological assumption that is not universally justified.
+
+For example: you can have one person saying
+ “Look, Sherlock has never really shown much in planning, but since he managed to simulate an entire city in his head, which requires extraordinary working memory, this ability can be causally converted into planning”
+ and another saying
+ “No, it remains purely a calculation ability.”
+
+And here I want to clarify: neither of the two is “universally” right, both would be right within the chosen methodological assumptions.
+
+And this is where scaling systems originated from.
+
+Also, to be frank: I would not consider RFES a “scaling system”, in the sense that it was created for a completely different purpose, because it has absolutely NOTHING to do with solving this problem.

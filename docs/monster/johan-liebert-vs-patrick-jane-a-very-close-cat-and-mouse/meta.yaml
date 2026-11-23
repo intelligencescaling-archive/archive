@@ -1,0 +1,40 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: johan-liebert-vs-patrick-jane-a-very-close-cat-and-mouse
+category: doc
+title: 'Johan Liebert vs Patrick Jane: A Very Close Cat and Mouse'
+alt_titles:
+- After finishing both series Johan Liebert vs Patrick is a very close Cat and mouse
+authors:
+- name: BitterTechnology6
+  reddit: BitterTechnology6
+  id: bittertechnology6
+  source: reddit-post
+series:
+- monster
+- the-mentalist
+characters:
+- johan-liebert
+- patrick-jane
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1vb48qc/after_finishing_both_series_johan_liebert_vs/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1496
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

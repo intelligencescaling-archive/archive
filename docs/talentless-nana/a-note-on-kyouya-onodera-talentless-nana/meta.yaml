@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: a-note-on-kyouya-onodera-talentless-nana
+category: doc
+title: A Note on Kyouya Onodera (Talentless Nana)
+alt_titles:
+- A Note On Kyouya Onodera (Spoilers for Talentless Nana)
+authors:
+- name: OneMid11037
+  reddit: OneMid11037
+  id: onemid11037
+  source: reddit-post
+series:
+- talentless-nana
+characters:
+- kyoya-onodera
+tags:
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1we0ima/a_note_on_kyouya_onodera_spoilers_for_talentless/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 697
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

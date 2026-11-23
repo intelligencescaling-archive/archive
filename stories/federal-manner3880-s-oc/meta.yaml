@@ -18,7 +18,8 @@ tags:
 language: en
 completion: unknown
 parts:
-- source:
+- title: OC Scaling, Part 1
+  source:
     type: reddit-post
     url: https://www.reddit.com/r/IntelligenceScaling/comments/1nr38a0/oc_scaling/
   capture:
@@ -31,7 +32,23 @@ parts:
       bytes: 42991
       sha256: 449b078bcc4899277765b4f8d3a45acd927155e6b1e2af49446c52443ff7dcb1
     text:
-      file: text.txt
+      file: text-1.txt
+      method: reddit-text
+- title: OC Scaling, Part 2
+  source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1ns2xdd/oc_scaling/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1266
+    files:
+    - format: png
+      name: image-1.png
+      bytes: 371162
+      sha256: 3f23c7e0aa63146fc0f26e2ca345848c117c2266e5d1095b828e0ade98d11a3a
+    text:
+      file: text-2.txt
       method: reddit-text
 found_in:
 - library: stories
@@ -40,4 +57,5 @@ found_in:
 added: '2026-11-15'
 review:
   status: auto
-  check: []
+  check:
+  - characters

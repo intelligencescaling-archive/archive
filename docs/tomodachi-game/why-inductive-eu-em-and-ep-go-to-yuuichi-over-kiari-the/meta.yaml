@@ -1,0 +1,39 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: why-inductive-eu-em-and-ep-go-to-yuuichi-over-kiari-the
+category: doc
+title: 'Why Inductive, EU, EM and EP Go to Yuuichi over Kiari: The Friendless Game Induction (Tomodachi Game)'
+alt_titles:
+- Official flatline response for why Inductive, EU, EM, and EP go to yuuichi over kiari
+authors:
+- name: Inevitable-turtle-22
+  reddit: Inevitable-turtle-22
+  id: inevitable-turtle-22
+  source: reddit-post
+series:
+- tomodachi-game
+characters:
+- yuuichi-katagiri
+tags:
+- analysis
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1j300fq/official_flatline_response_for_why_inductive_eu/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2371
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

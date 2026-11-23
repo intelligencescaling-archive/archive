@@ -1,0 +1,38 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: michael-s-plan-in-season-2-of-the-good-place
+category: doc
+title: Michael's Plan in Season 2 of The Good Place
+alt_titles:
+- Screw it, I want to talk about Michael's Plan in Season 2 of The Good Place-
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- the-good-place
+characters:
+- michael-the-good-place
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1nn916a/screw_it_i_want_to_talk_about_michaels_plan_in/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 1661
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

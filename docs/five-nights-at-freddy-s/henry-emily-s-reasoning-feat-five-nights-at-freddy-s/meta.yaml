@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: henry-emily-s-reasoning-feat-five-nights-at-freddy-s
+category: doc
+title: Henry Emily's Reasoning Feat (Five Nights at Freddy's)
+alt_titles:
+- 'Henry Emily from Five nights at Freddy’s reasoning feat?:'
+authors:
+- name: Mediocre-Neat-1207
+  reddit: Mediocre-Neat-1207
+  id: veneno
+  source: reddit-post
+series:
+- five-nights-at-freddy-s
+characters:
+- henry-emily
+tags:
+- feats
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1o8zg0s/henry_emily_from_five_nights_at_freddys_reasoning/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 537
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 84551
+      sha256: a6388ca275d873c478d5c2f319918831cbcc6f6823458c5fce9557a9ef5884b8
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

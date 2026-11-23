@@ -1,0 +1,41 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: explaining-scd-characters-harimoto-liar-game
+category: doc
+title: 'Explaining SCD Characters: Harimoto (Liar Game)'
+alt_titles:
+- Explaining SCD Characters- Harimoto (Liar Game)
+authors:
+- name: Hour_Trade_3691
+  reddit: Hour_Trade_3691
+  id: hour-trade-3691
+  source: reddit-post
+series:
+- liar-game
+characters:
+- harimoto-takashi
+- kimura-kei
+- akiyama-shinichi
+tags:
+- feats
+- discussion
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1k8u8xw/explaining_scd_characters_harimoto_liar_game/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 777
+    files: []
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters

@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: the-batman-who-laughs-the-multiverse-laughs-plan-analysis
+category: doc
+title: 'The Batman Who Laughs: The Multiverse Laughs Plan Analysis (DC Comics)'
+alt_titles:
+- 'BATMAN WHO LAUGHS FEAT ANALYSIS:'
+authors:
+- name: KingInBlackness
+  reddit: KingInBlackness
+  id: kinginblackness
+  source: reddit-post
+series:
+- dc-comics
+characters:
+- the-batman-who-laughs
+tags:
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wbv2sm/batman_who_laughs_feat_analysis/
+  capture:
+    status: complete
+    date: '2026-11-23'
+    words: 2737
+    files:
+    - format: jpg
+      name: image-1.jpg
+      bytes: 104739
+      sha256: dd45f319486f26a8202a3481031119810361468f1ae603cbef9ea698f267b81f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-22'
+review:
+  status: auto
+  check:
+  - characters
