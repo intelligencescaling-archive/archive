@@ -29,6 +29,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: hrmp6zn29nyg1
       bytes: 3958647
       sha256: 83e63f949bfe6cbd8fe610b6368442b278db246d16c2b2a132d8b90d3098cab4
     text:

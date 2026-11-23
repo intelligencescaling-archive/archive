@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: tpxbybyroxzh1
       bytes: 48599
       sha256: 746082e7dd4b1adfd09027546caa6ba289cc8508159304fb4e07a8ffde0596ac
     text:

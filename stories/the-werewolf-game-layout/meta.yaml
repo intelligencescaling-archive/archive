@@ -27,6 +27,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: jtm3wayf25kh1
       bytes: 124824
       sha256: dff15cc48c37b79ce5123eab3fcddbaed62e703e88b08198037fd24dbd970f13
     text:

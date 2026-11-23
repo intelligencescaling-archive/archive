@@ -32,6 +32,10 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: 3jnr7fpxmpaf1
+      px:
+      - 800
+      - 1200
       bytes: 95538
       sha256: 8d0d053c0cb8d385026ad6634acbe061d60dadda6cfdb7a4a557f37bc03cfd93
     text:

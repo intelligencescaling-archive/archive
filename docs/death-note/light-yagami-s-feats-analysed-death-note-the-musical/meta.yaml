@@ -30,6 +30,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: cramzkd3c80i1
       bytes: 330199
       sha256: 4ea6632a6356fd6d0a9bd7ff48a973836d7b6b1473fa1d339b5e7152ffd4144c
     text:

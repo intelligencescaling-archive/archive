@@ -124,7 +124,9 @@
                   "name": {"type": "string", "minLength": 1},
                   "bytes": {"type": "integer", "minimum": 0},
                   "sha256": {"$ref": "#/$defs/sha256"},
-                  "url": {"$ref": "#/$defs/url"}
+                  "url": {"$ref": "#/$defs/url"},
+                  "media_id": {"type": "string", "pattern": "^[A-Za-z0-9_-]{4,40}$"},
+                  "px": {"type": "array", "items": {"type": "integer", "minimum": 1}, "minItems": 2, "maxItems": 2}
                 }
               }
             },

@@ -31,6 +31,10 @@ parts:
     files:
     - format: jpg
       name: image-2.jpg
+      media_id: 46na82otzyjf1
+      px:
+      - 900
+      - 900
       bytes: 22042
       sha256: d985ec9136d4330d0a813b2ec8d66070f3dd2f787f4a1b8784174dafa09ed45b
     text:

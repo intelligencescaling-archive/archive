@@ -29,22 +29,42 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: chq5vii58v8g1
+      px:
+      - 3010
+      - 2676
       bytes: 2262491
       sha256: 526e0b9d477a21b685bb376f9662d987015422f7fbab17a04c11b861501f663f
     - format: png
       name: image-2.png
+      media_id: 76nmqdm58v8g1
+      px:
+      - 2879
+      - 2687
       bytes: 742787
       sha256: ed373edaff21256a1ae756fb027a55c72f511325c7ae9498c3db265eda5a3ca6
     - format: png
       name: image-3.png
+      media_id: it11iwn58v8g1
+      px:
+      - 2997
+      - 3178
       bytes: 764620
       sha256: a2eb91ac6551dd52fa0cad4b530aa994a6c45b0591fc0cc7b28c567d1cbefcbb
     - format: jpg
       name: image-4.jpg
+      media_id: ux1b5bq58v8g1
+      px:
+      - 1920
+      - 1080
       bytes: 287202
       sha256: 64d3b01b2f57e7a3588555895fe9604cef08075ff3a443b59cf9c150550a28d0
     - format: png
       name: image-5.png
+      media_id: 3u98jhs58v8g1
+      px:
+      - 2915
+      - 3107
       bytes: 1772690
       sha256: 9b1abf9b970d0ffb7aa6d03a5891936aa35f9a882d601d74d9bba84080f67f3d
     text:

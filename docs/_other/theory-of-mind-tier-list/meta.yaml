@@ -25,6 +25,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: y0616obmexeg1
       bytes: 350234
       sha256: e7196b3fa3c794067ee69cb13bf0626042a4d3701017685fe17b73e53330a8b4
     text:

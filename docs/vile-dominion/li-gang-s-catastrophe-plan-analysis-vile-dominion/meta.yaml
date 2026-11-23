@@ -29,6 +29,10 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: ssdev8bc2h8h1
+      px:
+      - 1024
+      - 1536
       bytes: 818307
       sha256: 0c098152c1356c9526ddf36cbd20b4f330cd69e02dff2432952483f4ae16ae79
     text:

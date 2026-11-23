@@ -30,6 +30,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: gvijct3vidth1
       bytes: 26255
       sha256: d99c9de51ae675793edb8f392de2d03f96331dfb58241f72bb3ad0edb451f098
     text:

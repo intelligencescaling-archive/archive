@@ -30,6 +30,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: dylae59f7aoh1
       bytes: 198827
       sha256: 2170009baad96284bb268fa749782dbb709ce45d245da3598f770fb26a79e6a7
     text:

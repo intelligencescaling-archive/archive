@@ -29,6 +29,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: br0loddns43g1
       bytes: 784463
       sha256: c7f4ee2bdc15a348440af5de3d207167a1314284184000a2df798dbbe7fa54dc
     text:

@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: pduhynsq256h1
       bytes: 44792
       sha256: df1f88839c29f03215e78d9f815f88cddc2edde73caf1e4c7036f3bc9ed56aff
     text:

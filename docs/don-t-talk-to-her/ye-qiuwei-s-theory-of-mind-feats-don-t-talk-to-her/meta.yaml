@@ -29,10 +29,18 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: csttdzb0450i1
+      px:
+      - 343
+      - 540
       bytes: 236409
       sha256: af4913f0f6eefe891b07ddfa4c2948f5e7f17b90294a154ae1e6d0b0057a5361
     - format: png
       name: image-2.png
+      media_id: sihsmdmt350i1
+      px:
+      - 736
+      - 1024
       bytes: 1156551
       sha256: 83b54c29ffecf4df0f990507c9fa20f9bbc848a5d065b13cc27e8b9c6e35f7ac
     text:

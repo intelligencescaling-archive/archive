@@ -30,78 +30,154 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: 73u3m5o4eo5h1
+      px:
+      - 1669
+      - 2400
       bytes: 1646926
       sha256: 8d116a5ad2c31944c87609ad031ae902a357b62a70308ade48b3b3dc3bc08b4e
     - format: png
       name: image-2.png
+      media_id: 15zz3zs4eo5h1
+      px:
+      - 1672
+      - 2400
       bytes: 1193153
       sha256: c78d7a735c8ce95700e1c71e986a84f1f69d5bc1c1babf45dea561dd2a521450
     - format: jpg
       name: image-3.jpg
+      media_id: 0jfbfgw4eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 217406
       sha256: c92a17726be437fee5ca0b2077d6cafdd45884cf359a2612267a29074b8669c8
     - format: jpg
       name: image-4.jpg
+      media_id: mo5x7ky4eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 198129
       sha256: 0b6ce1e97259d695364a4116723aa6b2cd54212f0c3eac1b3a20ac851d8ead25
     - format: jpg
       name: image-5.jpg
+      media_id: ywpmdm15eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 250248
       sha256: 14b539e9f6ea82b8f4b6437e96a9d225d602f81d2bec93bbd7ef73dfc83f3e7d
     - format: jpg
       name: image-6.jpg
+      media_id: qkjqbs45eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 213655
       sha256: 6a48b094c10aa37089402d1fb5360a29acc5f0dde04e171f834bbcc93dd2fe4d
     - format: jpg
       name: image-7.jpg
+      media_id: rcrfjp75eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 245513
       sha256: aba468ba9b3b88922f1725303b5e7a077aa25329b3c046bcc9ab5e89383a628c
     - format: jpg
       name: image-8.jpg
+      media_id: tlt30w95eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 138983
       sha256: 52e8eaa4c863681005ae572018a0622f0be74b974c6070d4d04532e7a9f61474
     - format: jpg
       name: image-9.jpg
+      media_id: 6fa12nb5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 254704
       sha256: f39ad0cc62282f6f3422c0f5cd036d7e4a147e3605a646c1fa1d192851bfbc11
     - format: jpg
       name: image-10.jpg
+      media_id: m3rnotd5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 241978
       sha256: 0c9226275dd402e888672e19fa35f0abdefa00c6d0a46e5340b96c3789aa87b9
     - format: jpg
       name: image-11.jpg
+      media_id: h2ntowf5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 272353
       sha256: 6cf836cf5802b295839f9cc7e1f6d9334249eed6f60a8f1787004ea97f93e16b
     - format: jpg
       name: image-12.jpg
+      media_id: 39wmk9i5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 203092
       sha256: 94c41512985018544fa4d203b6302b16aff4f7be015f4ea977ac41f3f16dea4f
     - format: jpg
       name: image-13.jpg
+      media_id: a1n0c9k5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 268512
       sha256: 7fb52bf82985150de365109f72a711a03f4d2cdcc38959371035c616353fab4f
     - format: jpg
       name: image-14.jpg
+      media_id: yj7hqkm5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 284486
       sha256: dfcca369c02c12d412361d27e5b64b64edeee5716d366f827871de7e32c5a74d
     - format: jpg
       name: image-15.jpg
+      media_id: 8gcj1cp5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 160403
       sha256: b0e7d15c29104b6feba723b5083a6e23c1b609525b2d512930115ea8e1e13433
     - format: jpg
       name: image-16.jpg
+      media_id: sebyfnr5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 230494
       sha256: f4980811436b9cd844687c23d2f4654dc603d28e903778da8724823f4c5b5b07
     - format: jpg
       name: image-17.jpg
+      media_id: mx2acbu5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 224917
       sha256: 18dd23f6aedf72193debc445863f73ac4304a14a40408e0ac647fc1fa6a16a09
     - format: jpg
       name: image-18.jpg
+      media_id: ihpfbcw5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 221002
       sha256: 2372c3ed7acf075c35b70e773b26474b8ab621cd0118bf6e6342fc28d9e0a853
     - format: jpg
       name: image-19.jpg
+      media_id: zpzpdgy5eo5h1
+      px:
+      - 844
+      - 1200
       bytes: 164214
       sha256: 31cd6782162611f964a010f08f447c03acb2c1d530c3ad7d27286b72ea7aa4b0
     text:

@@ -29,6 +29,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: omynan7botuh1
       bytes: 376985
       sha256: 3b0f8e1d63ef43d2ac54b6ff930e2cbe69d22acba2df06578f94264827d360b4
     text:

@@ -34,14 +34,26 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: 9q2ddv6dgoyf1
+      px:
+      - 600
+      - 1200
       bytes: 63954
       sha256: fe3594265b56feddd4ca968228d02afc5be2ce2542863743ab955c3117749054
     - format: jpg
       name: image-2.jpg
+      media_id: 20v3u4qdgoyf1
+      px:
+      - 1280
+      - 1804
       bytes: 193545
       sha256: 943584db139224a8cce7582ebe8766ad04c89a3c4eb9de9fcf551471f1d4bf6b
     - format: jpg
       name: image-3.jpg
+      media_id: qbh9z2fegoyf1
+      px:
+      - 1920
+      - 1536
       bytes: 289260
       sha256: 8557e453d1c77728c1a035898b41d2aba6fdd70fc52e631e002e057c1981ad99
     text:

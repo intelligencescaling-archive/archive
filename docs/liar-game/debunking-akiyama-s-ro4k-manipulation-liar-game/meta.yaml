@@ -30,6 +30,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: lg1vq9kotabh1
       bytes: 337545
       sha256: 3e7acf4da82f69ee0e14b5a13b9ab8986522910cb4287fa3cc6c2af399f8d582
     text:

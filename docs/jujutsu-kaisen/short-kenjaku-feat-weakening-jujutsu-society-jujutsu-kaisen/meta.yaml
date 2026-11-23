@@ -29,6 +29,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: rrcgmodskkyh1
       bytes: 847384
       sha256: 3861de07f2ce7215f4ae72184c46fe609b2f2799e3442db64ecdf1070b3a7cb6
     text:

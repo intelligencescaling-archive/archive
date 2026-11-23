@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: 5hen7womsuag1
       bytes: 6942
       sha256: 9ae770f0aedbb7b44e175b00a3b6c7c068341f70ff5d3655d5d6cc4f0f2f8b2e
     text:

@@ -29,6 +29,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: azdm5dxtanth1
       bytes: 393380
       sha256: 7df797b9723f5ac13cc06e45eb14da513f0500aba9416f811126f373e030bb17
     text:

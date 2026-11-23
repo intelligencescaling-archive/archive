@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: ruqv5347z55g1
       bytes: 1143695
       sha256: b673953ee28defcf46aa685f49a5453a78c56b3ec304da7b5cdd2620b5c78220
     text:

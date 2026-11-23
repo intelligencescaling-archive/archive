@@ -27,6 +27,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: yuuqdy0c4kdf1
       bytes: 55095
       sha256: edaae9b965876ca7dcd5605a20ef9cbab52e4430677a475848a83c1b918f6306
     text:
@@ -43,6 +44,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: tekkbb1klcef1
       bytes: 161337
       sha256: 4016b8d60660c1f9451215c506ef5df6c6565091de6a30bb23fc4e5fbfb52f4d
     text:
@@ -59,6 +61,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: pljqw54d85ff1
       bytes: 157769
       sha256: b779f888607cf59fbc44e46c03320ddc090df148679aa327982c06e02a6d3926
     text:
@@ -75,6 +78,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: 5aoulu1xtxff1
       bytes: 168477
       sha256: b282a970a925631dc040a6265568c3bfb07988634e82b1cb497882447177d61e
     text:
@@ -91,6 +95,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: dx2k989sjiif1
       bytes: 151560
       sha256: 27fbfc88cc6c835a5f2a19752a7e98dd9ad07a11f503813373d886d52c675823
     text:
@@ -107,6 +112,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: n3bf2d2a04jf1
       bytes: 157599
       sha256: 5554857bcc7971d6603f4373b934f4ff811a908b126c71756d25f4e3c529ce8b
     text:
@@ -123,6 +129,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: ki0f7ace9wkf1
       bytes: 80847
       sha256: 06df6f9628a50b9c5ba828f2c869f026b01f31ead645ad0b1a5a349225a64231
     text:
@@ -139,6 +146,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: h248weuovvlf1
       bytes: 113142
       sha256: d648b347a3cfeb9eb5a81fa1d7dc646128318013afa2afc98a06d40a3d595b28
     text:
@@ -155,6 +163,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: iu2gi5aokvmf1
       bytes: 146386
       sha256: 5e0424fabe70ebc3e6b406c4fb8a67c624a270429c8c1ea1e578835a1ce68945
     text:
@@ -171,6 +180,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: qqopwovj5onf1
       bytes: 99370
       sha256: 5bf46fb198c0f901762db7f9a241bc975a1441657e3ea84bb44a0d2425bf1021
     text:

@@ -30,6 +30,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: mgvhplunow7h1
       bytes: 49076
       sha256: 1a02e5fed85ed2f2581f23f19b6591bc83896b9644072cf08d518543f8aa602d
     text:

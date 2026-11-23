@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: vyfbl76v581g1
       bytes: 150494
       sha256: a6e3322a58685cb58c2074d3996697c006bcc8f181d7a28180a4fec36bf69581
     text:

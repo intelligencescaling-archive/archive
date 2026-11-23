@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: xsw732d7hzoh1
       bytes: 44685
       sha256: a38360757eff596edd530f4f55262db4df9e13b2d2713da51216345e398b4c82
     text:

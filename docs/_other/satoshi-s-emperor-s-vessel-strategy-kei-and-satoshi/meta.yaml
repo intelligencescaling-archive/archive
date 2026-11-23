@@ -28,6 +28,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: jlthgswok58h1
       bytes: 2061806
       sha256: d33e9e29dff961fe9bb46b4ee506dc6c99f19f0395b5541f6c96e39431f36186
     text:

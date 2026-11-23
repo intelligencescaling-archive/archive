@@ -30,6 +30,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: menxdec74fbg1
       bytes: 275957
       sha256: f336949c02e47fb28fa0587fb0db6bff221fd6465933cd345ea4d483cba194ac
     text:

@@ -28,6 +28,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: sqvrvelygr6h1
       bytes: 287218
       sha256: de984affe6255e31544a0c2751a9d74085f977cdae0fd612356a2ea9d7d731a2
     text:

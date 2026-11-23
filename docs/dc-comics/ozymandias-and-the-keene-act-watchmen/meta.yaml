@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: s55vtikmm3eg1
       bytes: 96285
       sha256: 348f57863058db9ea487213aa9815ebdd8d064d136696400ffd27587ab5698f6
     text:

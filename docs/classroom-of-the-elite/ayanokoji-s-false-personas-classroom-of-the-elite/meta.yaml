@@ -30,6 +30,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: i7kelpvp26dg1
       bytes: 1502096
       sha256: 212c9090072c3309a03344b144066b6f3bf4f7ff8871134b7bed724b3e4e3416
     text:

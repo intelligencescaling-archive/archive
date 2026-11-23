@@ -27,6 +27,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: dko0fknd321f1
       bytes: 257660
       sha256: b292e0cd20ec832835792c06c69b574a946a291154220e8a6ad09c09b7cc3039
     text:
@@ -43,6 +44,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: ldf0t8n2rn1f1
       bytes: 257660
       sha256: b292e0cd20ec832835792c06c69b574a946a291154220e8a6ad09c09b7cc3039
     text:
@@ -59,6 +61,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: ncyxo1p0613f1
       bytes: 165650
       sha256: 005be39c1e5f3c2b258e75e49355577515da94eda5089552cb5917d3a8548bc2
     text:
@@ -75,6 +78,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: p4nywd1nxf3f1
       bytes: 214402
       sha256: 222a5b1623634a08669fa6093cac8038b4b66e681bffca867a9a5adb933df7f5
     text:
@@ -91,6 +95,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: 27j18c9w8k3f1
       bytes: 78351
       sha256: e668b5e5edb36061fd9d95c97b6f19d5ec8b1fd32ca62680c064f69a375c3f62
     text:
@@ -107,6 +112,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: 6pivrav79n3f1
       bytes: 205889
       sha256: f3a4fc18f1d60d095b03a5db37a99ffa6c478a2d63f5a897482e5678c44d7180
     text:

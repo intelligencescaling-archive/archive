@@ -30,6 +30,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: yp88vsu31buf1
       bytes: 106487
       sha256: 7abbd61b090366123b98e1978169cc61823dcc02062207d175401ebf473e384c
     text:

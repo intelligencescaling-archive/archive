@@ -28,6 +28,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: f5n169nj3ush1
       bytes: 358378
       sha256: eb89c1268d5da193295bac6f9391b4b60f3435790569c7a6cab7d4903c3435b1
     text:
@@ -44,6 +45,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: uxogo8ggfvsh1
       bytes: 393570
       sha256: c79725cb9bed8473acfbcef5bd3162f0e399d3f4abc3f3fd254db3d8a7f292e2
     text:

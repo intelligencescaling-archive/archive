@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: lc94gpru09dh1
       bytes: 87606
       sha256: d91e454f93b5507b9fd7c96b26ae8d3e1e47e75b5999dfcdc8e854d9312552f1
     text:

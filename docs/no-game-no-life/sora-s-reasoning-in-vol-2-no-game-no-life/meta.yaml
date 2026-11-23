@@ -29,6 +29,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: fgspocdgp1th1
       bytes: 95547
       sha256: c8522176cae2e83dd93e442373b58383bbf8ff651f534e686c4c48bf05f12a59
     text:

@@ -29,6 +29,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: pwmurdymrd8g1
       bytes: 185762
       sha256: 4562375694526f253e3e83fa40ba17b86e3f48a6d898780d1587daa97fbc7f72
     text:

@@ -29,6 +29,10 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: yu130ugbap5g1
+      px:
+      - 735
+      - 409
       bytes: 35707
       sha256: 606a7739266aa9937532fcd0af046f83f2089403a67d3faea7f1b0ff1a1946ec
     text:

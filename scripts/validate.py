@@ -12,6 +12,7 @@ Checks each meta.yaml against schema/meta.schema.json, then the things a schema 
     the `story` tag and category `story` go together; characters' `real` is true/false
   - every text file named in the entry exists, and no stray files sit in entry folders
   - reader files (capture.blocks, blocks.json): valid v1 JSON whose image/palette references resolve, safe links only
+  - image placement (files[].media_id, px): only on image files of reddit-post parts, media ids unique within a part
 
 Usage: python scripts/validate.py [repo-root]     (exit code 1 if anything is wrong)
 """
@@ -254,6 +255,14 @@ def main():
                 named.add(t)
                 if not (mp.parent / t).is_file():
                     err(f"missing text file {t}")
+            seen_media = set()
+            for f in p.get("capture", {}).get("files") or []:
+                if "media_id" in f or "px" in f:
+                    if p.get("source", {}).get("type") != "reddit-post" or f.get("format") not in ("png", "jpg"):
+                        err(f"{f.get('name')}: media_id/px only belong on image files of a reddit-post part")
+                    if f.get("media_id") in seen_media:
+                        err(f"{f.get('name')}: media id {f.get('media_id')} used twice in one part")
+                    seen_media.add(f.get("media_id"))
             bf = (p.get("capture", {}).get("blocks") or {}).get("file")
             if bf:
                 named.add(bf)

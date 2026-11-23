@@ -31,6 +31,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: ttrynnyznklh1
       bytes: 2456515
       sha256: 103d59dd0f93cbb340de87da343100f2e891cf78edc73603ee51e85e710cd284
     text:

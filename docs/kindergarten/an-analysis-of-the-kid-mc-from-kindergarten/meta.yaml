@@ -29,10 +29,18 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: mih5l85n9glh1
+      px:
+      - 460
+      - 215
       bytes: 24681
       sha256: c6d827a115f8fc0d190c45cc7ec81f2127d1a7a8e172495e07c8ea5a57867335
     - format: png
       name: image-2.png
+      media_id: we5p2slbaglh1
+      px:
+      - 1324
+      - 738
       bytes: 210975
       sha256: e397e206af279237a1714af90ddf7acad6bd85e5a5a1ca61105620ab22cb2555
     text:

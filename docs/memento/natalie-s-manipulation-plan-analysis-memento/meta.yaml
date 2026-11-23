@@ -27,6 +27,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: iubotgefnugh1
       bytes: 457276
       sha256: ac384284749d5ae308868c953cac20c5962a5f40ba3aa1b45af7bff0a12c6c8e
     text:

@@ -31,6 +31,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: oscc32p1sbah1
       bytes: 197400
       sha256: 4701374de0f574318fe232f3016be0ceb8cbf5f665de0da3854e7abdc3368080
     text:

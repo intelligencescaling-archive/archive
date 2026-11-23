@@ -27,6 +27,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: yogukvkw41vh1
       bytes: 804030
       sha256: 61c728f974a56d8b9920fbc3be98f69184e23bfbb9a15f12f2a00e67b61cc9a3
     text:

@@ -30,14 +30,26 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: epiasics9leg1
+      px:
+      - 1667
+      - 922
       bytes: 595411
       sha256: 791833bce851da8fd3ef2557d4749b49e33e98d28982abf23e8886c5250c4246
     - format: png
       name: image-2.png
+      media_id: 1lzo4e1t9leg1
+      px:
+      - 1655
+      - 917
       bytes: 677545
       sha256: e8a322a13bbb6b727c5f60854a0bc91f2c41968f15621205b638eba3857cb2cd
     - format: png
       name: image-3.png
+      media_id: z6ovqdrt9leg1
+      px:
+      - 1657
+      - 748
       bytes: 166575
       sha256: 7c3273ccddad4d06cfc35284c61077c994b35c8c3313d0601985aedfb310ce3c
     text:

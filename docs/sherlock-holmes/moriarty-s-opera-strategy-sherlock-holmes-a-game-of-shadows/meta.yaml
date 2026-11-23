@@ -30,6 +30,10 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: mikfnz0pv6rh1
+      px:
+      - 720
+      - 492
       bytes: 145242
       sha256: 53bb9818c8df4c4849662ddc181e679a1381de6035c24b33be6096f4d8e37353
     text:

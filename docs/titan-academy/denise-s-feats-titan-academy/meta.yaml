@@ -29,6 +29,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: znetax97h3bg1
       bytes: 570537
       sha256: e65bf46882ba6f50376fc84e249fec4314019df3f2b11410a0c72c1c11005b8c
     text:

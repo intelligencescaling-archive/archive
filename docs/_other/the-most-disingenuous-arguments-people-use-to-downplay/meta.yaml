@@ -25,6 +25,7 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: eea880rjamvh1
       bytes: 406479
       sha256: 494d244638095d7b818b83710d724aba67a12a40b669c5ebd61eba1dde1593da
     text:

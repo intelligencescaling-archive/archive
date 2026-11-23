@@ -31,6 +31,10 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: r5sfhm1325kh1
+      px:
+      - 1080
+      - 608
       bytes: 228371
       sha256: 8716e46aec96d2a4a96e07f31fd83df085ba0c8846fc60ae15bc70d29bd29fa5
     text:

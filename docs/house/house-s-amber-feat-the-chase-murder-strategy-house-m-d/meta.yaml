@@ -30,10 +30,18 @@ parts:
     files:
     - format: png
       name: image-1.png
+      media_id: ch2eok4vw2ng1
+      px:
+      - 1079
+      - 831
       bytes: 306257
       sha256: 7e019f8233ccd6dbde0c5376cf750db588c8b3609c7c94842bc305291765f9fb
     - format: png
       name: image-2.png
+      media_id: 9dy2m18vw2ng1
+      px:
+      - 1872
+      - 1080
       bytes: 563106
       sha256: 07f159f7548763febe4fa6782480ddf948ee2389dfd8f913b3fe76a26dae2d1c
     text:

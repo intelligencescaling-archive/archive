@@ -31,6 +31,7 @@ parts:
     files:
     - format: jpg
       name: image-1.jpg
+      media_id: tap6tg2i6j1h1
       bytes: 71894
       sha256: 036baa417bf1a7ea618c25974ae3bbce18580f33d0744d8cef6117cbba612c3b
     text:
