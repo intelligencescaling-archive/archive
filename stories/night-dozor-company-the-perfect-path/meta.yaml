@@ -401,6 +401,6 @@ parts:
 found_in: []
 added: '2026-11-22'
 review:
-  status: auto
+  status: reviewed
   check:
   - characters

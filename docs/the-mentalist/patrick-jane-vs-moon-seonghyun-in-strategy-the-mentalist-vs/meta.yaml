@@ -27,7 +27,7 @@ parts:
   capture:
     status: complete
     date: '2026-11-23'
-    words: 923
+    words: 915
     files: []
     text:
       file: text.txt
@@ -35,6 +35,6 @@ parts:
 found_in: []
 added: '2026-11-22'
 review:
-  status: auto
+  status: reviewed
   check:
   - characters
