@@ -12,7 +12,8 @@ authors:
   source: reddit-post
 series:
 - minecraft
-characters: []
+characters:
+- fluxion
 tags:
 - analysis
 language: en

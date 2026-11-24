@@ -2,12 +2,12 @@
 schema_version: 1
 id: fazbear-entertainment-smearing-campaign-doc
 category: doc
-title: Fazbear Entertainment smearing campaign doc
+title: Fazbear Entertainment smearing campaign document (Revamped version)
 alt_titles:
 - Fazbear entertainment smearing doc
+- Fazbear Entertainment smearing campaign doc
 authors:
 - name: Veneno
-  reddit: Veneno
   id: veneno
   source: doc-text
 series:
@@ -25,18 +25,18 @@ parts:
     google_id: 12F98xzrfGX0_vpkyUz3tPUsFL3vN_IukEjj69ovrtMM
   capture:
     status: complete
-    date: '2026-11-15'
-    pages: 18
-    words: 6955
+    date: '2026-11-24'
+    pages: 19
+    words: 8121
     files:
     - format: pdf
       name: document.pdf
-      bytes: 1779900
-      sha256: f017dc613e13e5c8408a8dbd83a16305860835680f94a06ed3443e2f44a55dcb
+      bytes: 1843947
+      sha256: 83e4be6c6e68d63ba4d80c492c7daa7ef1459e2680649093ea3e62edc3837626
     - format: docx
       name: document.docx
-      bytes: 3626622
-      sha256: 57e93791ccecd259c2ce010988c2a3be108774987952e17223ef5de6e50a50bc
+      bytes: 3662125
+      sha256: 00d553375cafb640cdae2a04441e03e860019e164595529f302d5f982f168d5b
     text:
       file: text.txt
       method: google-export
@@ -53,6 +53,5 @@ found_in:
   link_text: Fazbear Entertainment smearing campaign doc
 added: '2026-11-15'
 review:
-  status: reviewed
-  by: scd-archivist
-  date: '2026-11-15'
+  status: auto
+  check: []
