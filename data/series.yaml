@@ -33,12 +33,6 @@
   name: Ace Attorney
   origin_language: ja
   origin_medium: game
-- id: agent-pendergast
-  name: Agent Pendergast
-  aliases:
-  - Pendergast
-  origin_language: en
-  origin_medium: novel
 - id: akagi
   name: Akagi
   origin_language: ja

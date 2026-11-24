@@ -60,9 +60,6 @@
 - id: alice-alice-s-adventures-in-wonderland
   name: Alice
   series: alice-s-adventures-in-wonderland
-- id: aloysius-pendergast
-  name: Aloysius Pendergast
-  series: agent-pendergast
 - id: alto-clef
   name: Alto Clef
   series: scp-foundation
@@ -1256,9 +1253,6 @@
 - id: minoru-tanaka
   name: Minoru Tanaka
   series: death-note
-- id: misa-amane
-  name: Misa Amane
-  series: death-note
 - id: miyuki
   name: Miyuki
   series: null
@@ -1846,9 +1840,6 @@
 - id: the-soul
   name: The SOUL
   series: deltarune
-- id: the-youth-18-levels-of-hell
-  name: The Youth
-  series: 18-levels-of-hell
 - id: theodore-glass
   name: Theodore Glass
   series: beyblade-burst

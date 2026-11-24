@@ -1,0 +1,151 @@
+# Work removed at its author's request. `items` and `links` are SHA-256 hashes (first 24 hex digits) of
+# "item:<old item id>" and "g:<google id>" / "r:<reddit post id>", so old links are recognised without a
+# list of titles. Written by the maintainer's script: don't edit by hand.
+totals:
+  2026: 68
+authors:
+- id: mrdisintegrator
+  name: MrDisintegrator
+- id: onlyeinz
+  name: OnlyEinz
+- id: satisfiedunsatisfied
+  name: SatisfiedUnsatisfied
+items:
+  0be1c16ca1b56a317c5b1761: satisfiedunsatisfied
+  0d4f4f5b1717325fff3ace5b: onlyeinz
+  0d865c2326bb192a7eb2d2a8: mrdisintegrator
+  110c2bba49759994dd8645aa: satisfiedunsatisfied
+  134e602e85370ba87312096c: ''
+  1bbf628174d680b94a62f1df: onlyeinz
+  1d29f2f1bee1d6f10e6d3751: satisfiedunsatisfied
+  1ed96032b506288a228a877f: onlyeinz
+  22394c9a3b36ef21e30943cd: satisfiedunsatisfied
+  266f29842ed91d9c9a65d346: mrdisintegrator
+  3146226b52f425a13c26cebb: ''
+  381c1e8f6b54649ace1471a9: mrdisintegrator
+  3ae452ea68b741249e38d7ef: mrdisintegrator
+  3bc32ad6286fea9623ddb53a: onlyeinz
+  3cd375ce6e1e8f4048560ddf: mrdisintegrator
+  3e28368990452f66441d6f62: mrdisintegrator
+  573135f522d17d9548bb01fa: mrdisintegrator
+  58bd71d36b3440d93363f90e: satisfiedunsatisfied
+  599d4dc0ed0c05a4158bb950: satisfiedunsatisfied
+  621f0ad7a8484d3514a2073e: onlyeinz
+  6493209a66194073b61f3343: mrdisintegrator
+  66d42ea31391dbe7c49108a5: satisfiedunsatisfied
+  71cc2f481f1c9fe07ca02d4b: mrdisintegrator
+  734ee38a94ea072fef01fc70: satisfiedunsatisfied
+  74b2ea06ec91d53ccada43d3: satisfiedunsatisfied
+  7f407396a5ec2b162e8fc4a4: onlyeinz
+  824c15f4d64fd1edf0bff67c: satisfiedunsatisfied
+  84ed363b8f2e6853fce1131a: satisfiedunsatisfied
+  8627f34d63ad9910e0bde4a1: onlyeinz
+  87c0aae594df36ae8951fbad: satisfiedunsatisfied
+  893e14c376bddcd84a050bf3: mrdisintegrator
+  8d30f295afd5c3dcc59c3d95: mrdisintegrator
+  91bdbff32dce5ab65157e644: satisfiedunsatisfied
+  960e1140ef138136517b1ff0: satisfiedunsatisfied
+  97cfe7c433e97bcb46429bcc: mrdisintegrator
+  99656b65fe9bf5b32e5da740: satisfiedunsatisfied
+  997de2c4c2333d38c403dc07: satisfiedunsatisfied
+  9cf86154bedf8ebaeec2f4ed: satisfiedunsatisfied
+  9d58407e22a7e2afa82e3fac: mrdisintegrator
+  a207c0ef7c2d7e9945234afc: satisfiedunsatisfied
+  a565eff94ae0c36a024788ea: satisfiedunsatisfied
+  a7ac01e35ef2807f4f38ab3f: mrdisintegrator
+  ac0ea1202ee149b177989e57: mrdisintegrator
+  ad74f2bc029e4613b7970461: mrdisintegrator
+  b95bd9075b9e4ba80649bf22: mrdisintegrator
+  ba10a625faa43b105d931a1d: ''
+  bcc497c05549e76bc2aad69d: mrdisintegrator
+  be43183863abd36a0d40789f: onlyeinz
+  bec071467df6cb4fbfdc0b75: mrdisintegrator
+  c0edf42f053d74dedb5f6c32: mrdisintegrator
+  ca0d19c8088b3a06cff0fe8f: satisfiedunsatisfied
+  d23cf8a4649691b502e9c1a8: mrdisintegrator
+  d2ca910b5ddfc6e642929f72: mrdisintegrator
+  d6add3404f44cf7284452c84: mrdisintegrator
+  d924a3924ef4acae066e100c: mrdisintegrator
+  dfe7234e9b9c59f46d640a5c: mrdisintegrator
+  e1614180a5a46f08ff8a24dc: mrdisintegrator
+  e4d6f134cec42d51b2c351db: satisfiedunsatisfied
+  e5a68cd0b34688c97018b802: satisfiedunsatisfied
+  e5d86873f0caa03afc246260: satisfiedunsatisfied
+  ee2a60430cfebe8c34f803fe: mrdisintegrator
+  eeb4a7157590d66d15adf7fd: ''
+  eedd10bc74659dc49c883b60: ''
+  ef04e43e1773c08c537d3773: satisfiedunsatisfied
+  f507cc7d3f064ca19a85a65c: mrdisintegrator
+  f95c19e99d9845819f87cb40: mrdisintegrator
+  fac9af30cc298a0978907269: onlyeinz
+  fd661801ddd4d585343f8771: mrdisintegrator
+links:
+- 016e38140b65e644905347b3
+- 0383fae4f12de27284f0f5e0
+- 08495fd98358ffa73ecc5755
+- 08bb6041e542c4e0e6faf4e5
+- 0ae98b411b6fa91b6ed4dbb4
+- 0c8008538da82fd049fe7b9a
+- 0f19f34dabf6499fa50af646
+- 115cb4e1220538c2bd920f4e
+- 167b88865bfd7e784b6597d1
+- 2011d9d441c43cdee1616ba7
+- 22eabc5c79b1f5fe4b1f6917
+- 2757b1bf38232c690b881795
+- 27a4a0347390b52807665c98
+- 27bd1d20ad821025b1ef38c7
+- 38089173359d68e93b960d38
+- 40dfa2d819ddcb881a1fb8c8
+- 45b51042f19ee0ba63403325
+- 48bbc72635b23d9cae799d74
+- 492e1bbb090faca62ea23bfa
+- 4a66094f3ed1acc5ee74c64c
+- 54bc9196094d9703f9cd1a66
+- 5eb3bc791f24a4f9907149ff
+- 62cd9c4262df7dc24f6ff634
+- 6391335e4483ce06d593be9c
+- 63969d9623d28a41de1a4b2f
+- 666c77a3bc491eaa13bf93ae
+- 6748d1977b431b1172096910
+- 676ceef70fd80d50e0db92e4
+- 68f5e752ad027a22a5b01417
+- 7110c11f80d28b96ef2a2482
+- 7a346f4fc26d35abd8fcab88
+- 80ba303ef864d7b5dc659336
+- 84476beacef112d7fc1efe91
+- 886eb2c129a0a276b7c180f8
+- 886f04f2316b4b0220690c23
+- 88b6a123217e3deec72a0f9d
+- 8d0ad1137d3f6c482c9a4cbe
+- 8d5845849d96f44fe3eee942
+- 8e07db9544e90851862a84bb
+- 94a8ca65143ff0fdd729bbea
+- 9bf9be1a4ba2a9d6bc404e7b
+- 9da2bd2852b8a33598d866e2
+- a29c9934aaf0319f43ae6d30
+- a70a09660df884dca1281776
+- a86112fd3c120a837c5cf66d
+- aaa2bf2b6d0aae5ceab15a12
+- b9870c595af2eddebe94423f
+- bb19d60d63332b235468a796
+- bff48605ed7151a8f8febc9f
+- c24209d2352f4a51db1b2ff6
+- c47f445114d72e855eef8c37
+- c4e5d8a81f750e548736b3fc
+- c51ffed837ec1045e995f0db
+- c67a68cb99b31d8f15188095
+- cad76f26cd281054a012f43a
+- d2a99673c2194e377bc696b9
+- d3b2f3fe6433db9b3846d7cf
+- da4e509ba6ee2e21eb190942
+- de547a5ff5da038e9a9c2f75
+- dff5759e081c78794b7f37b1
+- e4cf36fa4a7b2f1acb6136ab
+- e69c285077d3d328e6d1a877
+- e7302d23daf13ccd1b587a81
+- e74f1a9c3de6795755e3a7a7
+- ea245a8e67be21ff9be609af
+- f3397d4a07144b80f30ac649
+- f49e3888b0047a0a0b3cfd4d
+- f83c0150664cc3b19208a11e
+- fbc600d8db0461bb52366c3a
