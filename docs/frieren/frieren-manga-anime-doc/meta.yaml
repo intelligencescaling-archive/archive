@@ -5,7 +5,11 @@ category: doc
 title: Frieren (Manga + Anime) doc
 alt_titles:
 - Frieren SCD Doc
-authors: []
+authors:
+- name: Quick-Jaguar-9572
+  reddit: Quick-Jaguar-9572
+  id: quick-jaguar-9572
+  source: submission
 series:
 - frieren
 characters:
@@ -48,5 +52,4 @@ added: '2026-11-15'
 review:
   status: auto
   check:
-  - authors
   - characters

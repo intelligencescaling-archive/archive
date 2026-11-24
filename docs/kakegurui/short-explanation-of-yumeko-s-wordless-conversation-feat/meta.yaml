@@ -1,0 +1,45 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: short-explanation-of-yumeko-s-wordless-conversation-feat
+category: doc
+title: Short explanation of Yumeko's wordless conversation feat
+alt_titles:
+- Short explanation of Yumeko's best EQ feat, the wordless conversation
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- kakegurui
+characters:
+- yumeko-jabami
+- mary-saotome
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1wv71he/short_explanation_of_yumekos_best_eq_feat_the/
+  capture:
+    status: complete
+    date: '2026-11-24'
+    words: 283
+    files:
+    - format: jpg
+      name: image-1.jpg
+      media_id: wksk5zxgbwsh1
+      bytes: 436906
+      sha256: cdea116ede9af03ed54966d375192c4cd7ddf8e793b35b591a53e658b947552f
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-23'
+review:
+  status: auto
+  check:
+  - characters

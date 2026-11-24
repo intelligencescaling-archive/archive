@@ -1,0 +1,49 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: ichika-vs-nagumo-overall-outsmarting
+category: doc
+title: Ichika VS Nagumo (Overall Outsmarting)
+authors:
+- name: NijiueEdits
+  id: nijiueedits
+  source: submission
+series:
+- classroom-of-the-elite
+characters:
+- ichika-amasawa
+- nagumo-miyabi
+tags:
+- matchup
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=10UBug4kjTvXHze_CIVhcXo9h8xbIqoISJFIHRGG6s6U
+    google_id: 10UBug4kjTvXHze_CIVhcXo9h8xbIqoISJFIHRGG6s6U
+  capture:
+    status: complete
+    date: '2026-11-24'
+    pages: 14
+    words: 3480
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 359011
+      sha256: 04602c7318e745fdf764aa066ee83cee8b3f34d2ec173114109c76094bd27efc
+    - format: docx
+      name: document.docx
+      bytes: 182774
+      sha256: 16240d2de4713d365775be169d11cb6a5f52564bbfe5c3c28d7bdca770071cf0
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-23'
+review:
+  status: auto
+  check:
+  - characters

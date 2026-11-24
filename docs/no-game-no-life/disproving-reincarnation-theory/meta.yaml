@@ -1,0 +1,47 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: disproving-reincarnation-theory
+category: doc
+title: Disproving Reincarnation Theory
+authors: []
+series:
+- no-game-no-life
+characters:
+- riku-dola
+- sora
+tags:
+- debunk
+language: en
+completion: unknown
+parts:
+- source:
+    type: google-doc
+    url: https://drive.google.com/open?id=1EZ5cWVa9Tw4708e0AJwBnrUfWG_uymRoLZpqtshoXbk
+    google_id: 1EZ5cWVa9Tw4708e0AJwBnrUfWG_uymRoLZpqtshoXbk
+  capture:
+    status: complete
+    date: '2026-11-24'
+    pages: 3
+    words: 212
+    files:
+    - format: pdf
+      name: document.pdf
+      bytes: 304176
+      sha256: ee8b7d075a3db5578ca10b51a03f517685643d8a54f69f984164d4339a5afbd3
+    - format: docx
+      name: document.docx
+      bytes: 821756
+      sha256: 19d9224ea70c9f092c09cfcb5c09ab881af51a8a2ae86259b766309a7661288c
+    text:
+      file: text.txt
+      method: google-export
+    blocks:
+      file: blocks.json
+      v: 1
+found_in: []
+added: '2026-11-23'
+review:
+  status: auto
+  check:
+  - authors
+  - characters

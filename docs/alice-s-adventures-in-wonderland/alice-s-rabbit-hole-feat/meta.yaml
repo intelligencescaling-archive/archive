@@ -1,0 +1,42 @@
+# Auto-filled from the community libraries and the doc text. Fields in review.check are guesses.
+schema_version: 1
+id: alice-s-rabbit-hole-feat
+category: doc
+title: Alice's Rabbit Hole feat
+authors:
+- name: Good-Fennel7417
+  reddit: Good-Fennel7417
+  id: good-fennel7417
+  source: reddit-post
+series:
+- alice-s-adventures-in-wonderland
+characters:
+- alice-alice-s-adventures-in-wonderland
+tags:
+- feats
+- analysis
+language: en
+completion: unknown
+parts:
+- source:
+    type: reddit-post
+    url: https://www.reddit.com/r/IntelligenceScaling/comments/1rtn60s/alices_rabbit_hole_feat/
+  capture:
+    status: complete
+    date: '2026-11-24'
+    words: 223
+    files:
+    - format: jpg
+      name: image-1.jpg
+      media_id: n1wozmag81pg1
+      bytes: 223657
+      sha256: 42a8cf8452885738c321b8ec68fbe101f2157660c753aa8cee057917c6f635f6
+    text:
+      file: text.txt
+      method: reddit-text
+found_in: []
+added: '2026-11-23'
+review:
+  status: auto
+  check:
+  - characters
